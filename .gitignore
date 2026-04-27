@@ -93,6 +93,9 @@ Desktop.ini
 temp/
 tmp/
 
+# Vendored SDK test fixtures (LFS corrupt, not needed)
+mpxpy/tests/files/
+
 # Operational telemetry
 config/total-usage-data.csv
 

@@ -69,6 +69,18 @@ Volume splitting scripts used to divide processed outputs into Part-level chunks
 | `split_volume_2_part_3.py` | Volume 2 Part 3 splitter |
 | `split_volume_2_part_4.py` | Volume 2 Part 4 splitter |
 
+## archive/legacy-scripts/one-off/ (5 files)
+
+One-off processing and setup scripts that operated on raw master output files. These were used during initial volume processing runs. The production pipeline (`src/`, `main_pipeline.py`) supersedes all of these.
+
+| File | Notes |
+|------|-------|
+| `scan_chapters.py` | Volume 1 page scanner and part splitter (hardcoded paths) |
+| `access_volume_1.py` | Volume 1 master-to-part JSON splitter (hardcoded paths) |
+| `access_volume_2.py` | Volume 2 master-to-part JSON splitter (hardcoded paths) |
+| `split_chapter_articles.py` | Chapter-to-article JSON splitter (complex regex-based article extraction) |
+| `setup.bat` | Windows batch setup script (duplicates README instructions) |
+
 ---
 
 ## Summary Statistics
@@ -80,7 +92,8 @@ Volume splitting scripts used to divide processed outputs into Part-level chunks
 | Mathpix Scripts | 2 |
 | Diagnostic Scripts | 5 |
 | Splitter Scripts | 4 |
-| **Total** | **29** |
+| One-Off Scripts | 5 |
+| **Total** | **34** |
 
 ## Rationale
 

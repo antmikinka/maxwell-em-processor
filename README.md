@@ -94,6 +94,11 @@ maxwell_em_processor/
 ├── archive/                  # Archived legacy artifacts
 │   ├── documentation/        # Historical planning docs
 │   ├── legacy-scripts/       # Old iteration scripts
+│   │   ├── extractors/       # TOC extraction iterations
+│   │   ├── mathpix/          # Direct Mathpix API scripts
+│   │   ├── diagnostics/      # Validation and sanity-check scripts
+│   │   ├── splitters/        # Volume splitting scripts
+│   │   └── one-off/          # One-off processing and setup scripts
 │   └── ARCHIVE_MANIFEST.md   # What was archived and why
 ├── config/                   # Configuration module
 │   ├── config.py             # Settings management

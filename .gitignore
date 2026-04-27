@@ -93,6 +93,9 @@ Desktop.ini
 temp/
 tmp/
 
+# Operational telemetry
+config/total-usage-data.csv
+
 # ========================
 # Node (if applicable)
 # ========================

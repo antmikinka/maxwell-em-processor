@@ -1,0 +1,157 @@
+"""
+Configuration Management Module
+Handles environment variables, paths, and application settings
+"""
+
+import os
+from pathlib import Path
+from typing import Optional
+from pydantic_settings import BaseSettings
+from pydantic import Field, validator
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+
+class Settings(BaseSettings):
+    """Application settings from environment variables"""
+    
+    # Mathpix API Configuration
+    mathpix_app_id: str = Field(..., env='MATHPIX_APP_ID')
+    mathpix_app_key: str = Field(..., env='MATHPIX_APP_KEY')
+    mathpix_url: str = Field(default='https://api.mathpix.com', env='MATHPIX_URL')
+    
+    # Logging Configuration
+    log_level: str = Field(default='INFO', env='LOG_LEVEL')
+    enable_api_caching: bool = Field(default=True, env='ENABLE_API_CACHING')
+    enable_checkpoints: bool = Field(default=True, env='ENABLE_CHECKPOINTS')
+    
+    # Processing Configuration
+    max_concurrent_requests: int = Field(default=5, env='MAX_CONCURRENT_REQUESTS')
+    timeout_seconds: int = Field(default=300, env='TIMEOUT_SECONDS')
+    retry_attempts: int = Field(default=3, env='RETRY_ATTEMPTS')
+    retry_delay_seconds: int = Field(default=5, env='RETRY_DELAY_SECONDS')
+    
+    # Output Paths
+    input_dir: str = Field(default='input', env='INPUT_DIR')
+    output_dir: str = Field(default='output', env='OUTPUT_DIR')
+    cache_dir: str = Field(default='output/cache', env='CACHE_DIR')
+    logs_dir: str = Field(default='output/logs', env='LOGS_DIR')
+    checkpoints_dir: str = Field(default='output/checkpoints', env='CHECKPOINTS_DIR')
+    
+    # Feature Flags
+    improve_mathpix: bool = Field(default=False, env='IMPROVE_MATHPIX')
+    enable_quantum_packages: bool = Field(default=True, env='ENABLE_QUANTUM_PACKAGES')
+    generate_visualizations: bool = Field(default=True, env='GENERATE_VISUALIZATIONS')
+    generate_tests: bool = Field(default=True, env='GENERATE_TESTS')
+    
+    @validator('log_level')
+    def validate_log_level(cls, v):
+        valid_levels = ['DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL']
+        if v.upper() not in valid_levels:
+            raise ValueError(f'log_level must be one of {valid_levels}')
+        return v.upper()
+    
+    class Config:
+        env_file = '.env'
+        env_file_encoding = 'utf-8'
+        case_sensitive = False
+
+
+class PathManager:
+    """Manages all project paths and ensures directories exist"""
+    
+    def __init__(self, settings: Settings):
+        self.settings = settings
+        self.project_root = Path(__file__).parent.parent
+        
+        # Define all paths
+        self.input_dir = self.project_root / settings.input_dir
+        self.output_dir = self.project_root / settings.output_dir
+        self.cache_dir = self.project_root / settings.cache_dir
+        self.logs_dir = self.project_root / settings.logs_dir
+        self.checkpoints_dir = self.project_root / settings.checkpoints_dir
+        
+        # Output subdirectories
+        self.raw_ocr_dir = self.output_dir / 'raw_ocr'
+        self.organized_dir = self.output_dir / 'organized'
+        self.database_dir = self.output_dir / 'database'
+        self.generated_code_dir = self.output_dir / 'generated_code'
+        
+        # Cache subdirectories
+        self.mathpix_cache_dir = self.cache_dir / 'mathpix'
+        
+        # Config directory
+        self.config_dir = self.project_root / 'config'
+        
+        # Create all directories
+        self._create_directories()
+    
+    def _create_directories(self):
+        """Create all necessary directories"""
+        directories = [
+            self.input_dir,
+            self.output_dir,
+            self.cache_dir,
+            self.logs_dir,
+            self.checkpoints_dir,
+            self.raw_ocr_dir,
+            self.organized_dir,
+            self.database_dir,
+            self.generated_code_dir,
+            self.mathpix_cache_dir,
+            self.config_dir,
+        ]
+        
+        for directory in directories:
+            directory.mkdir(parents=True, exist_ok=True)
+    
+    def get_volume_dir(self, volume_num: int, subdir: str = 'raw_ocr') -> Path:
+        """Get directory for specific volume"""
+        base_dir = getattr(self, f'{subdir}_dir')
+        volume_dir = base_dir / f'volume_{volume_num}'
+        volume_dir.mkdir(parents=True, exist_ok=True)
+        return volume_dir
+    
+    def get_toc_file(self) -> Path:
+        """Get path to TOC data file"""
+        return self.config_dir / 'toc_data.json'
+    
+    def get_checkpoint_file(self, step: str) -> Path:
+        """Get checkpoint file for specific step"""
+        return self.checkpoints_dir / f'{step}.json'
+    
+    def get_log_file(self, log_name: str) -> Path:
+        """Get path to specific log file"""
+        return self.logs_dir / f'{log_name}.log'
+
+
+# Global settings instance
+try:
+    settings = Settings()
+    paths = PathManager(settings)
+except Exception as e:
+    print(f"Error loading configuration: {e}")
+    print("Please ensure .env file exists and contains all required values.")
+    print("Copy .env.example to .env and fill in your API credentials.")
+    raise
+
+
+def get_settings() -> Settings:
+    """Get global settings instance"""
+    return settings
+
+
+def get_paths() -> PathManager:
+    """Get global paths instance"""
+    return paths
+
+
+if __name__ == '__main__':
+    # Test configuration
+    print("Configuration loaded successfully!")
+    print(f"Project root: {paths.project_root}")
+    print(f"Output directory: {paths.output_dir}")
+    print(f"Log level: {settings.log_level}")
+    print(f"Mathpix URL: {settings.mathpix_url}")

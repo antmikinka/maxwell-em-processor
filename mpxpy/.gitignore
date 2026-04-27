@@ -1,0 +1,11 @@
+.idea
+.vscode/
+dist
+local.env
+mpxpy.egg-info
+mpxpy/__pycache__
+tests/__pycache__
+tests/output
+
+# Claude folders in all subdirectories
+**/.claude/

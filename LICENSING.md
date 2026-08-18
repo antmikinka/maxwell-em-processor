@@ -224,8 +224,12 @@ Copyright (c) 2025 Anthony Mikinka (modifications and vendored fork)
 | Material | Note |
 |----------|------|
 | Maxwell's original 1873 text | Published 1873; author died 1879. Public domain worldwide. |
-| Mechanical OCR / typesetting of that text | Markdown, LaTeX, HTML, JSON, and similar reproductions. Gitignored output trees such as `output/`, `Maxwell_TOC/`, `Maxwell_TOC_Fixed/`, and `MAXWELL_VOLUME_*_MASTER_OUTPUT/` fall here when they reproduce Maxwell. |
-| `maxwell_article_index.json` | Factual `{art, title, page}` transcription of Maxwell. Gitignored. |
+| `input/15773-A Treatise On Electricity And Magnetism Vol-i.pdf` | Public-domain scan of Volume I. Published in this repo. |
+| `input/15774-A Treatise On Electricity And Magnetism Vol-ii.pdf` | Public-domain scan of Volume II. Published in this repo. |
+| `MAXWELL_VOLUME_1_MASTER_OUTPUT/` (published files) | Readable Volume I OCR edition: `volume_1_ocr.md`, chapter JSON, reports. No copyright claimed. |
+| `MAXWELL_VOLUME_2_MASTER_OUTPUT/` (published files) | Readable Volume II OCR edition. No copyright claimed. |
+| Mechanical OCR / typesetting of that text | Markdown, LaTeX, HTML, JSON, and similar reproductions. Local-only trees such as `output/`, `Maxwell_TOC/`, `Maxwell_TOC_Fixed/`, and `RAW_OUTPUTS/` fall here when they reproduce Maxwell; they are not published. |
+| `maxwell_article_index.json` | Factual `{art, title, page}` transcription of Maxwell. |
 | `input/v3 - Vol 1 - README.md` | Transcription of Maxwell's volume 1 table of contents. |
 | `input/v3 - Vol 2 - README.md` | Transcription of Maxwell's volume 2 table of contents. |
 
@@ -236,7 +240,7 @@ courtesy. It is not a copyright condition on Maxwell.
 
 | Material | Note |
 |----------|------|
-| `input/*.pdf` of the 1873 Treatise | Public domain scans; gitignored; not a project copyright grant. |
+| `input/*.pdf` of the 1873 Treatise | Public domain scans. The two Treatise PDFs are published in this repo. |
 | Any other `input/` document (for example a modern textbook chapter) | Keeps its original copyright. Must not be committed, published, or described as MIT, CC BY, or public domain project content. |
 
 ### License text files (not a separate grant)
@@ -256,13 +260,15 @@ These files do not add rights. They publish the texts and the map.
 | Material | Reason |
 |----------|--------|
 | `.env` (API credentials) | Secrets — never committed |
-| `output/`, `Maxwell_TOC/`, `Maxwell_TOC_Fixed/`, `MAXWELL_VOLUME_*_MASTER_OUTPUT/`, `Enhanced_Maxwell_TOC/` | Processing artifacts — large, regenerable |
+| `output/` | Local pipeline cache, logs, and non-Maxwell trial OCR |
+| `Maxwell_TOC/`, `Maxwell_TOC_Fixed/`, `Enhanced_Maxwell_TOC/` | Failed or intermediate TOC extraction trees |
+| `MAXWELL_VOLUME_*_MASTER_OUTPUT/RAW_OUTPUTS/` | Raw Mathpix dumps (zip, html, docx, pptx) |
+| `MAXWELL_VOLUME_*_MASTER_OUTPUT/volume_*_direct_result.json` | Large raw API blobs |
 | `chroma_data/` | Runtime vector store |
 | `*.log` files | Operational logs |
 | `venv/` | Virtual environment |
-| `maxwell_article_index.json` | Generated factual index |
 | `config/total-usage-data.csv` | Operational telemetry |
-| `input/*.pdf` | Large source documents |
+| Other `input/*.pdf` | Third-party or local-only sources — not published |
 
 ---
 

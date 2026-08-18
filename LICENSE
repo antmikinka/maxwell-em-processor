@@ -124,6 +124,11 @@ is in the public domain worldwide. This project claims no copyright in:
     page numbers, including maxwell_article_index.json when present
   - The input volume README files, which transcribe Maxwell's table
     of contents
+  - The Maxwell 1873 scans published under input/
+  - The published OCR edition under MAXWELL_VOLUME_1_MASTER_OUTPUT/
+    and MAXWELL_VOLUME_2_MASTER_OUTPUT/, including volume_*_ocr.md
+    and the chapter JSON
+  - maxwell_article_index.json, when present
 
 You may use those materials without permission or attribution as a
 matter of copyright. Citing this project as the digital edition you

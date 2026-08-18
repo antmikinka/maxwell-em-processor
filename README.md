@@ -116,8 +116,10 @@ maxwell_em_processor/
 │   ├── toc_analyzer.py       # Stage 2: TOC analysis
 │   └── utils.py              # Shared utilities
 ├── mpxpy/                    # Vendored Mathpix SDK fork (MIT)
-├── input/                    # Maxwell PDFs (gitignored); TOC READMEs (public domain)
-├── output/                   # Processed output (gitignored; Maxwell extracts not CC BY)
+├── input/                    # Maxwell 1873 scans + TOC READMEs (public domain)
+├── MAXWELL_VOLUME_1_MASTER_OUTPUT/  # Published Volume I OCR edition (public domain)
+├── MAXWELL_VOLUME_2_MASTER_OUTPUT/  # Published Volume II OCR edition (public domain)
+├── output/                   # Local cache/logs/trial OCR (not published)
 ├── main_pipeline.py          # Pipeline orchestrator
 ├── requirements.txt          # Python dependencies
 ├── .gitignore                # Git ignore rules
@@ -142,6 +144,27 @@ maxwell_em_processor/
 - **Logging**: Comprehensive structured logging for debugging and audit trails
 - **Dual Mode**: Full AI classification mode and lightweight simple mode
 
+## Published sources and OCR
+
+The Treatise scans and a readable OCR edition are in the repository so
+others can inspect the work. Maxwell's 1873 text is public domain. This
+project claims no copyright in the scans or in the mechanical OCR.
+
+| Path | What you get |
+|------|----------------|
+| `input/15773-A Treatise On Electricity And Magnetism Vol-i.pdf` | Volume I scan |
+| `input/15774-A Treatise On Electricity And Magnetism Vol-ii.pdf` | Volume II scan |
+| `MAXWELL_VOLUME_1_MASTER_OUTPUT/volume_1_ocr.md` | Volume I OCR (Markdown + LaTeX) |
+| `MAXWELL_VOLUME_2_MASTER_OUTPUT/volume_2_ocr.md` | Volume II OCR (Markdown + LaTeX) |
+| `MAXWELL_VOLUME_*_MASTER_OUTPUT/` | Chapter JSON, TOC extracts, processing reports |
+| `maxwell_article_index.json` | Article number / title / page map |
+
+See `input/README.md` and each volume folder's `README.md`.
+
+Not published: raw Mathpix zip/html/docx dumps, API caches, logs, a
+failed TOC-split tree, and any non-Maxwell PDF that may exist locally
+(including modern textbook chapters).
+
 ## Output
 
 The pipeline produces:
@@ -163,6 +186,7 @@ The pipeline produces:
 | `USAGE_GUIDE.md` | Setup, configuration, and usage examples |
 | `LICENSING.md` | Licensing decision record and file-by-file map |
 | `NOTICE` | Third-party attribution for vendored Mathpix SDK |
+| `input/README.md` | Which source PDFs are published |
 | `archive/ARCHIVE_MANIFEST.md` | Legacy artifact inventory |
 
 ---

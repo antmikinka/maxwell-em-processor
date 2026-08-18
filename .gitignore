@@ -42,25 +42,32 @@ logs/
 chroma_data/
 chroma/
 
-# Processing outputs (large files)
+# Local processing (not the published edition)
 output/
-MAXWELL_VOLUME_1_MASTER_OUTPUT/
-MAXWELL_VOLUME_2_MASTER_OUTPUT/
 Enhanced_Maxwell_TOC/
 Maxwell_TOC/
 Maxwell_TOC_Fixed/
 
-# Input source files (typically large PDFs/images)
+# Master-output dumps that are not the readable edition
+MAXWELL_VOLUME_1_MASTER_OUTPUT/RAW_OUTPUTS/
+MAXWELL_VOLUME_1_MASTER_OUTPUT/PROCESSING_LOGS/
+MAXWELL_VOLUME_1_MASTER_OUTPUT/volume_1_direct_result.json
+MAXWELL_VOLUME_1_MASTER_OUTPUT/VOLUME_1_ALL_PAGES_ PRELIMINARY.TO CHAPTER XII. JSON
+MAXWELL_VOLUME_2_MASTER_OUTPUT/RAW_OUTPUTS/
+MAXWELL_VOLUME_2_MASTER_OUTPUT/PROCESSING_LOGS/
+MAXWELL_VOLUME_2_MASTER_OUTPUT/volume_2_direct_result.json
+
+# Input binaries: publish Maxwell 1873 scans only
 input/*.pdf
 input/*.png
 input/*.jpg
 input/*.jpeg
 input/*.tiff
+!input/15773-A Treatise On Electricity And Magnetism Vol-i.pdf
+!input/15774-A Treatise On Electricity And Magnetism Vol-ii.pdf
 
-# Intermediate JSON artifacts (keep schema, exclude data)
-maxwell_article_index.json
-*_index.json
-*_output.json
+# Root-level generated dumps (do not hide published edition JSON)
+/*_output.json
 
 # ========================
 # IDE & Editors

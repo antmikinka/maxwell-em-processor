@@ -2,6 +2,14 @@
 
 Automated processing pipeline for James Clerk Maxwell's electromagnetic treatises. Extracts, analyzes, and organizes content from scanned volumes using OCR, AI classification, and hierarchical structure mapping.
 
+This repository is **one part of a three-part project**. It is the OCR and structure pipeline, not the end product. The product lives in [MAXWELL-MODERNIZED-PROGRAM](https://github.com/antmikinka/MAXWELL-MODERNIZED-PROGRAM).
+
+| Part | Repository | What it is |
+|------|------------|------------|
+| 1 | [Maxwell-Latex-Books](https://github.com/antmikinka/Maxwell-Latex-Books) | LaTeX typesetting of Maxwell's treatise as books. |
+| 2 | [maxwell-em-processor](https://github.com/antmikinka/maxwell-em-processor) (this repo) | OCR, classification, and hierarchical organization of the scanned volumes. |
+| 3 | [MAXWELL-MODERNIZED-PROGRAM](https://github.com/antmikinka/MAXWELL-MODERNIZED-PROGRAM) | The product: the modernized Maxwell program built from the books and this pipeline. |
+
 ---
 
 ## Overview

@@ -358,10 +358,40 @@ Do not put a single CC BY banner on a blob that is mostly Maxwell.
 | Mathpix Python SDK | https://github.com/Mathpix/mathpix-python |
 | Creative Commons on software | https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software |
 | FSF on CC licenses | https://www.gnu.org/licenses/license-list.html#ccby |
+| Mathpix Terms of Use (1 Mar 2024) | https://mathpix.com/terms |
+| Mathpix Convert privacy FAQ | https://mathpix.com/docs/convert/privacy |
+| Mathpix data retention | https://docs.mathpix.com/concepts/data-retention |
+
+### Mathpix contract note (not a copyright grant)
+
+Checked 2026-08-18 against Mathpix's public Terms of Use and Convert
+API privacy/retention docs. This is not legal advice and is not a
+Mathpix license.
+
+- Mathpix says you retain rights in User Content / data sent from your
+  API key, and that it does not claim ownership of that User Content.
+- Outputs written to your own storage are not subject to Mathpix's
+  retention clock. That matches publishing local `RAW_OUTPUTS/` copies.
+- The terms do **not** state a general ban on redistributing OCR of a
+  document you processed. Maxwell 1873 is public domain, so copyright
+  is not the issue.
+- They **do** say: you may not use output to develop models that
+  compete with Mathpix. That is a use restriction on the OCR product,
+  not a copyright claim on Maxwell.
+- Programmatic access must use Convert API, not Snip. This project
+  uses Convert API / `mpxpy`.
+- `cdn.mathpix.com/cropped/...` image URLs in Markdown expire (about
+  30 days). Zip exports (`md.zip`, `html.zip`, `tex.zip`, docx) embed
+  images and are the durable published form.
+
+If Mathpix updates those pages, re-read them. Copyright in this repo
+is unchanged: no claim on Maxwell; MIT on original code; CC BY 4.0 on
+original docs.
 
 ---
 
 *First written: 2026-07-28*
 *Grant narrowed (no CC BY on Maxwell extracts): 2026-08-18*
 *Full legal texts and CITATION.cff added: 2026-08-18*
+*Mathpix terms note and .env.example added: 2026-08-18*
 *Author: Anthony Mikinka*

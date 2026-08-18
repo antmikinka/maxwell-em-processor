@@ -189,6 +189,7 @@ The pipeline produces:
 | `USAGE_GUIDE.md` | Setup, configuration, and usage examples |
 | `LICENSING.md` | Licensing decision record and file-by-file map |
 | `NOTICE` | Third-party attribution for vendored Mathpix SDK |
+| `.env.example` | Placeholder environment file (copy to `.env`) |
 | `input/README.md` | Which source PDFs are published |
 | `archive/ARCHIVE_MANIFEST.md` | Legacy artifact inventory |
 

@@ -1,0 +1,318 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "}$",
+  "title_safe": "Article",
+  "page_start": 144,
+  "page_end": 144,
+  "content": {
+    "raw_text": "\n--- Page 144 ---\n87.] COEFFICIENTS OF POTENTIAL AND OF INDUCTION.\n109\nWe have in this case also $q_{r s}=q_{r r}$, for\n$$q_{r s}=\\frac{d e_{r}}{d V_{s}}=\\frac{d}{d V_{s}} \\frac{d W_{V}}{d V_{r}}=\\frac{d}{d V_{r}} \\frac{d W_{V}}{d V_{s}}=\\frac{d e_{s}}{d V_{r}}=q_{s r}$$\n(19)\nBy substituting the values of the charges in the equation for\nthe electric energy\n$$W=\\frac{1}{2}\\left[e_{1} V_{1}+\\ldots+e_{r} V_{r} \\ldots+e_{n} V_{n}\\right]$$\n(20)\nwe obtain an expression for the energy in terms of the potentials\n$$\\begin{aligned}\nW_{V}=\\frac{1}{2} q_{11} V_{1}^{2}+ & q_{12} V_{1} V_{2}+\\frac{1}{2} q_{22} V_{2}^{2} \\\\\n& \\quad+q_{13} V_{1} V_{3}+q_{23} V_{2} V_{3}+\\frac{1}{2} q_{33} V_{3}^{2}+\\& \\mathrm{c}\n\\end{aligned}$$\n(21)\nA coefficient in which the two suffixes are the same is called\nthe Electric Capacity of the conductor to which it belongs.\nDefinition. The Capacity of a conductor is its charge when its\nown potential is unity, and that of all the other conductors is\nzero.\nThis is the proper definition of the capacity of a conductor when\nno further specification is made. But it is sometimes convenient\nto specify the condition of some or all of the other conductors in\na different manner, as for instance to suppose that the charge of\ncertain of them is zero, and we may then define the capacity of\nthe conductor under these conditions as its charge when its\npotential is unity.\nThe other coefficients are called coefficients of induction. Any\none of them, as $q_{r s}$, denotes the charge of $A_{r}$ when $A_{s}$ is raised to\npotential unity, the potential of all the conductors except $A_{0}$\nbeing zero.\nThe mathematical calculation of the coefficients of potential\nand of capacity is in general difficult. We shall afterwards\nprove that they have always determinate values, and in certain\nspecial cases we shall calculate these values. We shall also\nshow how they may be determined by experiment.\nWhen the capacity of a conductor is spoken of without\nspecifying the form and position of any other conductor in the\nsame system, it is to be interpreted as the capacity of the con-\nductor when no other conductor or electrified body is within a\nfinite distance of the conductor referred to.\nIt is sometimes convenient, when we are dealing with capacities\nand coefficients of induction only, to write them in the form [A.P],\nthis symbol being understood to denote the charge on $A$ when\n",
+    "mathpix_markdown": "\n--- Page 144 ---\n\n\nWe have in this case also $q_{r s}=q_{r r}$, for\n\n$$\\begin{equation*}\nq_{r s}=\\frac{d e_{r}}{d V_{s}}=\\frac{d}{d V_{s}} \\frac{d W_{V}}{d V_{r}}=\\frac{d}{d V_{r}} \\frac{d W_{V}}{d V_{s}}=\\frac{d e_{s}}{d V_{r}}=q_{s r} \\tag{19}\n\\end{equation*}$$\n\n\nBy substituting the values of the charges in the equation for\n the electric energy\n\n$$\\begin{equation*}\nW=\\frac{1}{2}\\left[e_{1} V_{1}+\\ldots+e_{r} V_{r} \\ldots+e_{n} V_{n}\\right] \\tag{20}\n\\end{equation*}$$\n\nwe obtain an expression for the energy in terms of the potentials\n\n$$\\begin{align*}\nW_{V}=\\frac{1}{2} q_{11} V_{1}^{2}+ & q_{12} V_{1} V_{2}+\\frac{1}{2} q_{22} V_{2}^{2} \\\\\n& \\quad+q_{13} V_{1} V_{3}+q_{23} V_{2} V_{3}+\\frac{1}{2} q_{33} V_{3}^{2}+\\& \\mathrm{c} \\tag{21}\n\\end{align*}$$\n\n\nA coefficient in which the two suffixes are the same is called\n the Electric Capacity of the conductor to which it belongs.\n\n\nDefinition. The Capacity of a conductor is its charge when its\n own potential is unity, and that of all the other conductors is\n zero.\n\n\nThis is the proper definition of the capacity of a conductor when\n no further specification is made. But it is sometimes convenient\n to specify the condition of some or all of the other conductors in\n a different manner, as for instance to suppose that the charge of\n certain of them is zero, and we may then define the capacity of\n the conductor under these conditions as its charge when its\n potential is unity.\n\n\nThe other coefficients are called coefficients of induction. Any\n one of them, as $q_{r s}$, denotes the charge of $A_{r}$ when $A_{s}$ is raised to\n potential unity, the potential of all the conductors except $A_{0}$\n being zero.\n\n\nThe mathematical calculation of the coefficients of potential\n and of capacity is in general difficult. We shall afterwards\n prove that they have always determinate values, and in certain\n special cases we shall calculate these values. We shall also\n show how they may be determined by experiment.\n\n\nWhen the capacity of a conductor is spoken of without\n specifying the form and position of any other conductor in the\n same system, it is to be interpreted as the capacity of the con\nductor when no other conductor or electrified body is within a\n finite distance of the conductor referred to.\n\n\nIt is sometimes convenient, when we are dealing with capacities\n and coefficients of induction only, to write them in the form [A.P],\n this symbol being understood to denote the charge on $A$ when\n",
+    "structured_lines": [
+      {
+        "page": 144,
+        "line_number": 3,
+        "type": "text",
+        "content": "We have in this case also $q_{r s}=q_{r r}$, for",
+        "mathpix_content": "\n\nWe have in this case also $q_{r s}=q_{r r}$, for",
+        "font_size": 27,
+        "confidence": 0.87255859375
+      },
+      {
+        "page": 144,
+        "line_number": 7,
+        "type": "text",
+        "content": "By substituting the values of the charges in the equation for",
+        "mathpix_content": "\n\nBy substituting the values of the charges in the equation for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 8,
+        "type": "text",
+        "content": "the electric energy",
+        "mathpix_content": " the electric energy",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 12,
+        "type": "text",
+        "content": "we obtain an expression for the energy in terms of the potentials",
+        "mathpix_content": "\nwe obtain an expression for the energy in terms of the potentials",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 17,
+        "type": "text",
+        "content": "A coefficient in which the two suffixes are the same is called",
+        "mathpix_content": "\n\nA coefficient in which the two suffixes are the same is called",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 18,
+        "type": "text",
+        "content": "the Electric Capacity of the conductor to which it belongs.",
+        "mathpix_content": " the Electric Capacity of the conductor to which it belongs.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 19,
+        "type": "text",
+        "content": "Definition. The Capacity of a conductor is its charge when its",
+        "mathpix_content": "\n\nDefinition. The Capacity of a conductor is its charge when its",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 20,
+        "type": "text",
+        "content": "own potential is unity, and that of all the other conductors is",
+        "mathpix_content": " own potential is unity, and that of all the other conductors is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 21,
+        "type": "text",
+        "content": "zero.",
+        "mathpix_content": " zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 22,
+        "type": "text",
+        "content": "This is the proper definition of the capacity of a conductor when",
+        "mathpix_content": "\n\nThis is the proper definition of the capacity of a conductor when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 23,
+        "type": "text",
+        "content": "no further specification is made. But it is sometimes convenient",
+        "mathpix_content": " no further specification is made. But it is sometimes convenient",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 24,
+        "type": "text",
+        "content": "to specify the condition of some or all of the other conductors in",
+        "mathpix_content": " to specify the condition of some or all of the other conductors in",
+        "font_size": 27,
+        "confidence": 0.9575400352478027
+      },
+      {
+        "page": 144,
+        "line_number": 25,
+        "type": "text",
+        "content": "a different manner, as for instance to suppose that the charge of",
+        "mathpix_content": " a different manner, as for instance to suppose that the charge of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 26,
+        "type": "text",
+        "content": "certain of them is zero, and we may then define the capacity of",
+        "mathpix_content": " certain of them is zero, and we may then define the capacity of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 27,
+        "type": "text",
+        "content": "the conductor under these conditions as its charge when its",
+        "mathpix_content": " the conductor under these conditions as its charge when its",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 28,
+        "type": "text",
+        "content": "potential is unity.",
+        "mathpix_content": " potential is unity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 29,
+        "type": "text",
+        "content": "The other coefficients are called coefficients of induction. Any",
+        "mathpix_content": "\n\nThe other coefficients are called coefficients of induction. Any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 30,
+        "type": "text",
+        "content": "one of them, as $q_{r s}$, denotes the charge of $A_{r}$ when $A_{s}$ is raised to",
+        "mathpix_content": " one of them, as $q_{r s}$, denotes the charge of $A_{r}$ when $A_{s}$ is raised to",
+        "font_size": 27,
+        "confidence": 0.9829330444335938
+      },
+      {
+        "page": 144,
+        "line_number": 31,
+        "type": "text",
+        "content": "potential unity, the potential of all the conductors except $A_{0}$",
+        "mathpix_content": " potential unity, the potential of all the conductors except $A_{0}$",
+        "font_size": 27,
+        "confidence": 0.65673828125
+      },
+      {
+        "page": 144,
+        "line_number": 32,
+        "type": "text",
+        "content": "being zero.",
+        "mathpix_content": " being zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 33,
+        "type": "text",
+        "content": "The mathematical calculation of the coefficients of potential",
+        "mathpix_content": "\n\nThe mathematical calculation of the coefficients of potential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 34,
+        "type": "text",
+        "content": "and of capacity is in general difficult. We shall afterwards",
+        "mathpix_content": " and of capacity is in general difficult. We shall afterwards",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 35,
+        "type": "text",
+        "content": "prove that they have always determinate values, and in certain",
+        "mathpix_content": " prove that they have always determinate values, and in certain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 36,
+        "type": "text",
+        "content": "special cases we shall calculate these values. We shall also",
+        "mathpix_content": " special cases we shall calculate these values. We shall also",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 37,
+        "type": "text",
+        "content": "show how they may be determined by experiment.",
+        "mathpix_content": " show how they may be determined by experiment.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 38,
+        "type": "text",
+        "content": "When the capacity of a conductor is spoken of without",
+        "mathpix_content": "\n\nWhen the capacity of a conductor is spoken of without",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 39,
+        "type": "text",
+        "content": "specifying the form and position of any other conductor in the",
+        "mathpix_content": " specifying the form and position of any other conductor in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 40,
+        "type": "text",
+        "content": "same system, it is to be interpreted as the capacity of the con-",
+        "mathpix_content": " same system, it is to be interpreted as the capacity of the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 41,
+        "type": "text",
+        "content": "ductor when no other conductor or electrified body is within a",
+        "mathpix_content": "ductor when no other conductor or electrified body is within a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 42,
+        "type": "text",
+        "content": "finite distance of the conductor referred to.",
+        "mathpix_content": " finite distance of the conductor referred to.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 43,
+        "type": "text",
+        "content": "It is sometimes convenient, when we are dealing with capacities",
+        "mathpix_content": "\n\nIt is sometimes convenient, when we are dealing with capacities",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 144,
+        "line_number": 44,
+        "type": "text",
+        "content": "and coefficients of induction only, to write them in the form [A.P],",
+        "mathpix_content": " and coefficients of induction only, to write them in the form [A.P],",
+        "font_size": 27,
+        "confidence": 0.9653487205505371
+      },
+      {
+        "page": 144,
+        "line_number": 45,
+        "type": "text",
+        "content": "this symbol being understood to denote the charge on $A$ when",
+        "mathpix_content": " this symbol being understood to denote the charge on $A$ when",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

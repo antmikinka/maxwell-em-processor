@@ -1,0 +1,291 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{A P^{3}} \\text { along } A C, \\text { and }-e \\frac{f^{2}}{a} \\frac{1}{A P^{3}} \\text { along } C P .$$",
+  "title_safe": "A P3 text along A C text and -e fracf2a frac1A P3 text along",
+  "page_start": 282,
+  "page_end": 282,
+  "content": {
+    "raw_text": "\n--- Page 282 ---\n157.]\nINVERSE POINTS.\n247\nto a certain electrification in the same region it must be actually\nproduced by that electrification. In fact, the electrification at\nany point may be found from the potential near that point by\nthe application of Poisson's equation.\nLet $u$ be the radius of the sphere.\nLet $f$ be the distance of the electrified point $A$ from the\ncentre $C$.\nLet $e$ be the charge of this point.\nThen the image of the point is at $B$, on the same radius of the\nsphere at a distance $\\frac{a^{2}}{f}$, and the charge of the image is $-e \\frac{a}{f}$.\nWe have shewn that this image\nwill produce the same effect on the\nopposite side of the surface as the\nactual electrification of the surface\ndoes. We shall next determine the\nsurface-density of this electrification\nat any point $P$ of the spherical sur-\nface, and for this purpose we shall\n\n\nFig. 7.\nmake use of the theorem of Coulomb,\nArt. 80, that if $R$ is the resultant force at the surface of a con-\nductor, and $\\sigma$ the superficial density,\n$$R=4 \\pi \\sigma,$$\n$R$ being measured away from the surface.\nWe may consider $R$ as the resultant of two forces, a repul-\nsion $\\frac{e}{A P^{2}}$ acting along $A P$, and an attraction $e^{a} \\frac{1}{f B^{2}}$ acting\nalong $P B$.\nResolving these forces in the directions of $A C$ and $C P$, we\nfind that the components of the repulsion are\n$$\\frac{e f}{A P^{3}} \\text { along } A C, \\text { and } \\frac{e a}{A P^{3}} \\text { along } C P .$$\nThose of the attraction are\n$$-e \\frac{a}{f} \\frac{1}{B P^{3}} B C \\text { along } A C, \\text { and }-e \\frac{a^{2}}{f} \\frac{1}{B P^{3}} \\text { along } C P .$$\nNow $B P={ }_{f}^{a} A P$, and $B C=\\frac{a^{2}}{f}$, so that the components of the\nattraction may be written\n$$-e f \\frac{1}{A P^{3}} \\text { along } A C, \\text { and }-e \\frac{f^{2}}{a} \\frac{1}{A P^{3}} \\text { along } C P .$$\n",
+    "mathpix_markdown": "\n--- Page 282 ---\n\nto a certain electrification in the same region it must be actually\n produced by that electrification. In fact, the electrification at\n any point may be found from the potential near that point by\n the application of Poisson's equation.\n\n\nLet $u$ be the radius of the sphere.\n\nLet $f$ be the distance of the electrified point $A$ from the\n centre $C$.\n\n\nLet $e$ be the charge of this point.\n\nThen the image of the point is at $B$, on the same radius of the\n sphere at a distance $\\frac{a^{2}}{f}$, and the charge of the image is $-e \\frac{a}{f}$.\n\n\nWe have shewn that this image\n will produce the same effect on the\n opposite side of the surface as the\n actual electrification of the surface\n does. We shall next determine the\n surface-density of this electrification\n at any point $P$ of the spherical sur\nface, and for this purpose we shall\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-282.jpg?height=271&width=418&top_left_y=706&top_left_x=717}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 7.}\n\\end{figure}\n\nmake use of the theorem of Coulomb,\n Art. 80, that if $R$ is the resultant force at the surface of a con\nductor, and $\\sigma$ the superficial density,\n\n$$R=4 \\pi \\sigma,$$\n\n$R$ being measured away from the surface.\n\nWe may consider $R$ as the resultant of two forces, a repul\nsion $\\frac{e}{A P^{2}}$ acting along $A P$, and an attraction $e^{a} \\frac{1}{f B^{2}}$ acting\n along $P B$.\n\n\nResolving these forces in the directions of $A C$ and $C P$, we\n find that the components of the repulsion are\n\n$$\\frac{e f}{A P^{3}} \\text { along } A C, \\text { and } \\frac{e a}{A P^{3}} \\text { along } C P .$$\n\n\nThose of the attraction are\n\n$$-e \\frac{a}{f} \\frac{1}{B P^{3}} B C \\text { along } A C, \\text { and }-e \\frac{a^{2}}{f} \\frac{1}{B P^{3}} \\text { along } C P .$$\n\n\nNow $B P={ }_{f}^{a} A P$, and $B C=\\frac{a^{2}}{f}$, so that the components of the\n attraction may be written\n\n$$-e f \\frac{1}{A P^{3}} \\text { along } A C, \\text { and }-e \\frac{f^{2}}{a} \\frac{1}{A P^{3}} \\text { along } C P .$$\n",
+    "structured_lines": [
+      {
+        "page": 282,
+        "line_number": 4,
+        "type": "text",
+        "content": "to a certain electrification in the same region it must be actually",
+        "mathpix_content": "\nto a certain electrification in the same region it must be actually",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 5,
+        "type": "text",
+        "content": "produced by that electrification. In fact, the electrification at",
+        "mathpix_content": " produced by that electrification. In fact, the electrification at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 6,
+        "type": "text",
+        "content": "any point may be found from the potential near that point by",
+        "mathpix_content": " any point may be found from the potential near that point by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 7,
+        "type": "text",
+        "content": "the application of Poisson's equation.",
+        "mathpix_content": " the application of Poisson's equation.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 8,
+        "type": "text",
+        "content": "Let $u$ be the radius of the sphere.",
+        "mathpix_content": "\n\nLet $u$ be the radius of the sphere.",
+        "font_size": 27,
+        "confidence": 0.83056640625
+      },
+      {
+        "page": 282,
+        "line_number": 9,
+        "type": "text",
+        "content": "Let $f$ be the distance of the electrified point $A$ from the",
+        "mathpix_content": "\nLet $f$ be the distance of the electrified point $A$ from the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 10,
+        "type": "text",
+        "content": "centre $C$.",
+        "mathpix_content": " centre $C$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 11,
+        "type": "text",
+        "content": "Let $e$ be the charge of this point.",
+        "mathpix_content": "\n\nLet $e$ be the charge of this point.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 12,
+        "type": "text",
+        "content": "Then the image of the point is at $B$, on the same radius of the",
+        "mathpix_content": "\nThen the image of the point is at $B$, on the same radius of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 13,
+        "type": "text",
+        "content": "sphere at a distance $\\frac{a^{2}}{f}$, and the charge of the image is $-e \\frac{a}{f}$.",
+        "mathpix_content": " sphere at a distance $\\frac{a^{2}}{f}$, and the charge of the image is $-e \\frac{a}{f}$.",
+        "font_size": 27,
+        "confidence": 0.6927657127380371
+      },
+      {
+        "page": 282,
+        "line_number": 14,
+        "type": "text",
+        "content": "We have shewn that this image",
+        "mathpix_content": "\n\nWe have shewn that this image",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 15,
+        "type": "text",
+        "content": "will produce the same effect on the",
+        "mathpix_content": " will produce the same effect on the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 16,
+        "type": "text",
+        "content": "opposite side of the surface as the",
+        "mathpix_content": " opposite side of the surface as the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 17,
+        "type": "text",
+        "content": "actual electrification of the surface",
+        "mathpix_content": " actual electrification of the surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 18,
+        "type": "text",
+        "content": "does. We shall next determine the",
+        "mathpix_content": " does. We shall next determine the",
+        "font_size": 27,
+        "confidence": 0.9975595474243164
+      },
+      {
+        "page": 282,
+        "line_number": 19,
+        "type": "text",
+        "content": "surface-density of this electrification",
+        "mathpix_content": " surface-density of this electrification",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 20,
+        "type": "text",
+        "content": "at any point $P$ of the spherical sur-",
+        "mathpix_content": " at any point $P$ of the spherical sur",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 21,
+        "type": "text",
+        "content": "face, and for this purpose we shall",
+        "mathpix_content": "face, and for this purpose we shall",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 25,
+        "type": "text",
+        "content": "make use of the theorem of Coulomb,",
+        "mathpix_content": "\nmake use of the theorem of Coulomb,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 26,
+        "type": "text",
+        "content": "Art. 80, that if $R$ is the resultant force at the surface of a con-",
+        "mathpix_content": " Art. 80, that if $R$ is the resultant force at the surface of a con",
+        "font_size": 27,
+        "confidence": 0.98291015625
+      },
+      {
+        "page": 282,
+        "line_number": 27,
+        "type": "text",
+        "content": "ductor, and $\\sigma$ the superficial density,",
+        "mathpix_content": "ductor, and $\\sigma$ the superficial density,",
+        "font_size": 27,
+        "confidence": 0.99169921875
+      },
+      {
+        "page": 282,
+        "line_number": 30,
+        "type": "text",
+        "content": "$R$ being measured away from the surface.",
+        "mathpix_content": "\n$R$ being measured away from the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 31,
+        "type": "text",
+        "content": "We may consider $R$ as the resultant of two forces, a repul-",
+        "mathpix_content": "\nWe may consider $R$ as the resultant of two forces, a repul",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 32,
+        "type": "text",
+        "content": "sion $\\frac{e}{A P^{2}}$ acting along $A P$, and an attraction $e^{a} \\frac{1}{f B^{2}}$ acting",
+        "mathpix_content": "sion $\\frac{e}{A P^{2}}$ acting along $A P$, and an attraction $e^{a} \\frac{1}{f B^{2}}$ acting",
+        "font_size": 27,
+        "confidence": 0.6286511167418212
+      },
+      {
+        "page": 282,
+        "line_number": 33,
+        "type": "text",
+        "content": "along $P B$.",
+        "mathpix_content": " along $P B$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 34,
+        "type": "text",
+        "content": "Resolving these forces in the directions of $A C$ and $C P$, we",
+        "mathpix_content": "\n\nResolving these forces in the directions of $A C$ and $C P$, we",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 282,
+        "line_number": 35,
+        "type": "text",
+        "content": "find that the components of the repulsion are",
+        "mathpix_content": " find that the components of the repulsion are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 38,
+        "type": "text",
+        "content": "Those of the attraction are",
+        "mathpix_content": "\n\nThose of the attraction are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 282,
+        "line_number": 41,
+        "type": "text",
+        "content": "Now $B P={ }_{f}^{a} A P$, and $B C=\\frac{a^{2}}{f}$, so that the components of the",
+        "mathpix_content": "\n\nNow $B P={ }_{f}^{a} A P$, and $B C=\\frac{a^{2}}{f}$, so that the components of the",
+        "font_size": 27,
+        "confidence": 0.6477688159793615
+      },
+      {
+        "page": 282,
+        "line_number": 42,
+        "type": "text",
+        "content": "attraction may be written",
+        "mathpix_content": " attraction may be written",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

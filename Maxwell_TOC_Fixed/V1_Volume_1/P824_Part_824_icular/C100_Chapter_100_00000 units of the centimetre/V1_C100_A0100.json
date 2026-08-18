@@ -1,0 +1,183 @@
+{
+  "article_id": "article_100",
+  "article_number": 100,
+  "title_original": ",000,00$ units of the centimetre-",
+  "title_safe": "00000 units of the centimetre",
+  "page_start": 529,
+  "page_end": 529,
+  "content": {
+    "raw_text": "\n--- Page 529 ---\n494\nMASUREMENT OF RESISTANCE.\nwhere $R_{2}$ is the resistance between $A_{2}$ and $B_{2}$. If the observa-\ntions of the galvanometers $G_{1}$ and $G_{2}$ are simultaneous, the\nvalue of $C$, the current in the primary circuit, is the same in\nboth equations, and we find\n$$E_{1}: E_{2}:: R_{1}: R_{2} .$$\nIn this way the electromotive forces of two electromotors may\nbe compared. The absolute electromotive force of an electro-\nmotor may be measured either electrostatically by means of\nthe electrometer, or eiectromagnetically by means of an absolute\ngalvanometer.\nThis method, in which, at the time of the comparison, there\nis no current through either of the electromotors, is a modi-\nfication of Poggendorff's method, and is due to Mr. Latimer\nClark, who has deduced the following values of electromotive\nforces:\n\\begin{tabular}{|l|l|l|l|l|l|}\n\\hline & & & Concentrated solution of & & Volts. \\\\\n\\hline Daniell I. & Amalgamated Zinc & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+4$ aq. & $\\mathrm{Cu} \\mathrm{SO}_{4}$ & Copper & $=1.079$ \\\\\n\\hline II. & \" & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+12 \\mathrm{aq}$. & $\\mathrm{Cu} \\mathrm{SO}{ }_{4}$ & Copper & $=0.978$ \\\\\n\\hline III. & \" & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+12$ aq. & $\\mathrm{Cu}\\left(\\mathrm{NO}_{\\mathrm{g}}\\right)_{2}$ & Copper & $=1.00$ \\\\\n\\hline Bunsen & \" & \" \" & $\\mathrm{HNO}_{3}$ & Carbon & $=1.964$ \\\\\n\\hline II. & & \" & p. g. 1.38 & Carbon & $=1.888$ \\\\\n\\hline Grove & \" & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+{ }^{\\prime \\prime} 4$ aq. & $\\mathrm{H} \\mathrm{NO}_{3}$ & Platinum & $=1.956$ \\\\\n\\hline\n\\end{tabular}\n\n\n\n\n\n\n\n\n\n\n\n\n\nConcentrated solution of\nConcentrated\nsolution of\nVolts.\nDaniell I.\nAmalgamated Zinc\n$\\mathrm{H}_{2} \\mathrm{SO}_{4}+4$ aq.\n$\\mathrm{Cu} \\mathrm{SO}_{4}$\nCopper\n$=1.079$\nII.\n\"\n$\\mathrm{H}_{2} \\mathrm{SO}_{4}+12 \\mathrm{aq}$.\n$\\mathrm{Cu} \\mathrm{SO}{ }_{4}$\nCopper\n$=0.978$\nIII.\n\"\n$\\mathrm{H}_{2} \\mathrm{SO}_{4}+12$ aq.\n$\\mathrm{Cu}\\left(\\mathrm{NO}_{\\mathrm{g}}\\right)_{2}$\nCopper\n$=1.00$\nBunsen\n\"\n\" \"\n$\\mathrm{HNO}_{3}$\nCarbon\n$=1.964$\nII.\n\"\np. g. 1.38\nCarbon\n$=1.888$\nGrove\n\"\n$\\mathrm{H}_{2} \\mathrm{SO}_{4}+{ }^{\\prime \\prime} 4$ aq.\n$\\mathrm{H} \\mathrm{NO}_{3}$\nPlatinum\n$=1.956$\nA Volt is an electromotice force equal to $100,000,00$ units of the centimetre-\ngramme-second system.\n",
+    "mathpix_markdown": "\n--- Page 529 ---\n\nwhere $R_{2}$ is the resistance between $A_{2}$ and $B_{2}$. If the observa\ntions of the galvanometers $G_{1}$ and $G_{2}$ are simultaneous, the\n value of $C$, the current in the primary circuit, is the same in\n both equations, and we find\n\n$$E_{1}: E_{2}:: R_{1}: R_{2} .$$\n\n\nIn this way the electromotive forces of two electromotors may\n be compared. The absolute electromotive force of an electro\nmotor may be measured either electrostatically by means of\n the electrometer, or eiectromagnetically by means of an absolute\n galvanometer.\n\n\nThis method, in which, at the time of the comparison, there\n is no current through either of the electromotors, is a modi\nfication of Poggendorff's method, and is due to Mr. Latimer\n Clark, who has deduced the following values of electromotive\n forces:\n\n\n\\begin{tabular}{|l|l|l|l|l|l|}\n\\hline & & & Concentrated solution of & & Volts. \\\\\n\\hline Daniell I. & Amalgamated Zinc & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+4$ aq. & $\\mathrm{Cu} \\mathrm{SO}_{4}$ & Copper & $=1.079$ \\\\\n\\hline II. & \" & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+12 \\mathrm{aq}$. & $\\mathrm{Cu} \\mathrm{SO}{ }_{4}$ & Copper & $=0.978$ \\\\\n\\hline III. & \" & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+12$ aq. & $\\mathrm{Cu}\\left(\\mathrm{NO}_{\\mathrm{g}}\\right)_{2}$ & Copper & $=1.00$ \\\\\n\\hline Bunsen & \" & \" \" & $\\mathrm{HNO}_{3}$ & Carbon & $=1.964$ \\\\\n\\hline II. & & \" & p. g. 1.38 & Carbon & $=1.888$ \\\\\n\\hline Grove & \" & $\\mathrm{H}_{2} \\mathrm{SO}_{4}+{ }^{\\prime \\prime} 4$ aq. & $\\mathrm{H} \\mathrm{NO}_{3}$ & Platinum & $=1.956$ \\\\\n\\hline\n\\end{tabular}\n\n\nA Volt is an electromotice force equal to $100,000,00$ units of the centimetre-\ngramme-second system.\n",
+    "structured_lines": [
+      {
+        "page": 529,
+        "line_number": 3,
+        "type": "text",
+        "content": "where $R_{2}$ is the resistance between $A_{2}$ and $B_{2}$. If the observa-",
+        "mathpix_content": "\nwhere $R_{2}$ is the resistance between $A_{2}$ and $B_{2}$. If the observa",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 529,
+        "line_number": 4,
+        "type": "text",
+        "content": "tions of the galvanometers $G_{1}$ and $G_{2}$ are simultaneous, the",
+        "mathpix_content": "tions of the galvanometers $G_{1}$ and $G_{2}$ are simultaneous, the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 5,
+        "type": "text",
+        "content": "value of $C$, the current in the primary circuit, is the same in",
+        "mathpix_content": " value of $C$, the current in the primary circuit, is the same in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 6,
+        "type": "text",
+        "content": "both equations, and we find",
+        "mathpix_content": " both equations, and we find",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 529,
+        "line_number": 9,
+        "type": "text",
+        "content": "In this way the electromotive forces of two electromotors may",
+        "mathpix_content": "\n\nIn this way the electromotive forces of two electromotors may",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 10,
+        "type": "text",
+        "content": "be compared. The absolute electromotive force of an electro-",
+        "mathpix_content": " be compared. The absolute electromotive force of an electro",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 11,
+        "type": "text",
+        "content": "motor may be measured either electrostatically by means of",
+        "mathpix_content": "motor may be measured either electrostatically by means of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 12,
+        "type": "text",
+        "content": "the electrometer, or eiectromagnetically by means of an absolute",
+        "mathpix_content": " the electrometer, or eiectromagnetically by means of an absolute",
+        "font_size": 34,
+        "confidence": 0.8210611343383789
+      },
+      {
+        "page": 529,
+        "line_number": 13,
+        "type": "text",
+        "content": "galvanometer.",
+        "mathpix_content": " galvanometer.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 14,
+        "type": "text",
+        "content": "This method, in which, at the time of the comparison, there",
+        "mathpix_content": "\n\nThis method, in which, at the time of the comparison, there",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 529,
+        "line_number": 15,
+        "type": "text",
+        "content": "is no current through either of the electromotors, is a modi-",
+        "mathpix_content": " is no current through either of the electromotors, is a modi",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 16,
+        "type": "text",
+        "content": "fication of Poggendorff's method, and is due to Mr. Latimer",
+        "mathpix_content": "fication of Poggendorff's method, and is due to Mr. Latimer",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 17,
+        "type": "text",
+        "content": "Clark, who has deduced the following values of electromotive",
+        "mathpix_content": " Clark, who has deduced the following values of electromotive",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 18,
+        "type": "text",
+        "content": "forces:",
+        "mathpix_content": " forces:",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 34,
+        "type": "text",
+        "content": "Concentrated",
+        "mathpix_content": "Concentrated",
+        "font_size": 22,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 35,
+        "type": "text",
+        "content": "solution of",
+        "mathpix_content": " solution of",
+        "font_size": 22,
+        "confidence": 1.0
+      },
+      {
+        "page": 529,
+        "line_number": 72,
+        "type": "text",
+        "content": "A Volt is an electromotice force equal to $100,000,00$ units of the centimetre-",
+        "mathpix_content": "\n\nA Volt is an electromotice force equal to $100,000,00$ units of the centimetre-",
+        "font_size": 27,
+        "confidence": 0.5723307690426952
+      },
+      {
+        "page": 529,
+        "line_number": 73,
+        "type": "text",
+        "content": "gramme-second system.",
+        "mathpix_content": "gramme-second system.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

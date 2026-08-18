@@ -1,0 +1,318 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}+\\log r_{1}{ }^{2}+\\log r_{2}{ }^{2}+\\ldots$ where $r, r_{1}, r_{2} \\ldots$ are the distances",
+  "title_safe": "pluslog r1 2pluslog r2 2plusldots where r r1 r2 ldots are th",
+  "page_start": 349,
+  "page_end": 349,
+  "content": {
+    "raw_text": "\n--- Page 349 ---\n314\nCONJUGATE FUNCTIONS.\n[206.\naltered in sign by means of the grating. It is easy, however, to\nproceed to a higher degree of approximation in the case of a\ngrating of cylindrical wires. I shall merely indicate the steps\nof this process.\n\nMethod of Approximation.\n206.] Since the wires are cylindrical, and since the distri-\nbution of electricity on each is symmetrical with respect to the\ndiameter parallel to $y$, the proper expansion of the potential is\nof the form\n$$V=C_{0} \\log r+\\Sigma C_{i} r^{i} \\cos i \\theta$$\n(14)\nwhere $r$ is the distance from the axis of one of the wires, and $\\theta$\nthe angle between $r$ and $y$; and, since the wire is a conductor,\nwhen $r$ is made equal to the radius $V$ must be constant, and\ntherefore the coefficient of each of the multiple cosines of $\\theta$ must\nvanish.\nFor the sake of conciseness let us assume new coordinates\n$\\xi, \\eta$, \\&c. such that\n$$a \\xi=2 \\pi x, \\quad a \\eta=2 \\pi y, \\quad a \\rho=2 \\pi r, \\quad a \\beta=2 \\pi b, \\& \\mathrm{c} .$$\n(15)\nand let\n$$F_{\\beta}=\\log \\left(e^{\\eta+\\beta}+e^{-(\\eta+\\beta)}-2 \\cos \\xi\\right) .$$\n(16)\nThen if we make\n$$V=A_{0} F_{\\beta}+A_{1} \\frac{d F_{\\beta}}{d \\eta}+A_{2} \\frac{d^{2}}{d \\eta^{2}}+\\text { \\&c. }$$\n(17)\nby giving proper values to the coefficients $A$ we may express\nany potential which is a function of $\\eta$ and $\\cos \\xi$, and does not\nbecome infinite except when $\\eta+\\beta=0$ and $\\cos \\xi=1$.\nWhen $\\beta=0$ the expansion of $F$ in terms of $\\rho$ and $\\theta$ is*\n$$F_{0}^{\\prime}=2 \\log \\rho+1_{1}^{1} \\rho^{2} \\cos 2 \\theta-{ }_{1 \\pi}^{1}+\\rho^{4} \\cos 4 \\theta+\\& \\mathrm{c}$$\n(18)\nFor finite values of $\\beta$ the expansion of $F$ is\n$F_{\\beta}=\\beta+2 \\log \\left(1-e^{-\\beta}\\right)+\\frac{1+e^{-\\beta}}{1-e^{-\\beta}} \\rho \\cos \\theta-\\frac{e^{-\\beta}}{\\left(1-e^{-\\beta}\\right)^{2}} \\rho^{2} \\cos 2 \\theta+$ \\&c.\n(19)\nIn the case of the grating with two conducting planes whose\nequations are $\\eta=\\beta_{1}$ and $\\eta=-\\beta_{2}$, that of the plane of the\ngrating being $\\eta=0$, there will be two intinite series of images\n\n$*\\left\\{\\right.$ The expansion of $F$ can be got by noticing that $\\log \\left(\\epsilon^{-\\eta}+\\epsilon^{\\eta}-2 \\cos \\xi\\right)$ only\ndiffers by a constant from $\\log r^{2}+\\log r_{1}{ }^{2}+\\log r_{2}{ }^{2}+\\ldots$ where $r, r_{1}, r_{2} \\ldots$ are the distances\nof $P$ from the wires.\nWe can apply the same method to expand $F_{\\beta}^{\\prime}$ since this corresponds to moving the\nwires through a distance $-b$ parallel to $y$, the expansion however is not of the same\nform as that given in the text.?\n",
+    "mathpix_markdown": "\n--- Page 349 ---\n\naltered in sign by means of the grating. It is easy, however, to\n proceed to a higher degree of approximation in the case of a\n grating of cylindrical wires. I shall merely indicate the steps\n of this process.\n\n\n\\section*{Method of Approximation.}\n\n206.] Since the wires are cylindrical, and since the distri\nbution of electricity on each is symmetrical with respect to the\n diameter parallel to $y$, the proper expansion of the potential is\n of the form\n\n$$\\begin{equation*}\nV=C_{0} \\log r+\\Sigma C_{i} r^{i} \\cos i \\theta \\tag{14}\n\\end{equation*}$$\n\nwhere $r$ is the distance from the axis of one of the wires, and $\\theta$\n the angle between $r$ and $y$; and, since the wire is a conductor,\n when $r$ is made equal to the radius $V$ must be constant, and\n therefore the coefficient of each of the multiple cosines of $\\theta$ must\n vanish.\n\n\nFor the sake of conciseness let us assume new coordinates\n $\\xi, \\eta$, \\&c. such that\n\n$$\\begin{equation*}\na \\xi=2 \\pi x, \\quad a \\eta=2 \\pi y, \\quad a \\rho=2 \\pi r, \\quad a \\beta=2 \\pi b, \\& \\mathrm{c} . \\tag{15}\n\\end{equation*}$$\n\nand let\n\n$$\\begin{equation*}\nF_{\\beta}=\\log \\left(e^{\\eta+\\beta}+e^{-(\\eta+\\beta)}-2 \\cos \\xi\\right) . \\tag{16}\n\\end{equation*}$$\n\n\nThen if we make\n\n$$\\begin{equation*}\nV=A_{0} F_{\\beta}+A_{1} \\frac{d F_{\\beta}}{d \\eta}+A_{2} \\frac{d^{2}}{d \\eta^{2}}+\\text { \\&c. } \\tag{17}\n\\end{equation*}$$\n\nby giving proper values to the coefficients $A$ we may express\n any potential which is a function of $\\eta$ and $\\cos \\xi$, and does not\n become infinite except when $\\eta+\\beta=0$ and $\\cos \\xi=1$.\n\n\nWhen $\\beta=0$ the expansion of $F$ in terms of $\\rho$ and $\\theta$ is*\n\n$$\\begin{equation*}\nF_{0}^{\\prime}=2 \\log \\rho+1_{1}^{1} \\rho^{2} \\cos 2 \\theta-{ }_{1 \\pi}^{1}+\\rho^{4} \\cos 4 \\theta+\\& \\mathrm{c} \\tag{18}\n\\end{equation*}$$\n\n\nFor finite values of $\\beta$ the expansion of $F$ is\n\n$F_{\\beta}=\\beta+2 \\log \\left(1-e^{-\\beta}\\right)+\\frac{1+e^{-\\beta}}{1-e^{-\\beta}} \\rho \\cos \\theta-\\frac{e^{-\\beta}}{\\left(1-e^{-\\beta}\\right)^{2}} \\rho^{2} \\cos 2 \\theta+$ \\&c.\n\n\nIn the case of the grating with two conducting planes whose\n equations are $\\eta=\\beta_{1}$ and $\\eta=-\\beta_{2}$, that of the plane of the\n grating being $\\eta=0$, there will be two intinite series of images\n\n\n\\footnotetext{\n$*\\left\\{\\right.$ The expansion of $F$ can be got by noticing that $\\log \\left(\\epsilon^{-\\eta}+\\epsilon^{\\eta}-2 \\cos \\xi\\right)$ only\n differs by a constant from $\\log r^{2}+\\log r_{1}{ }^{2}+\\log r_{2}{ }^{2}+\\ldots$ where $r, r_{1}, r_{2} \\ldots$ are the distances\n of $P$ from the wires.\n\n\nWe can apply the same method to expand $F_{\\beta}^{\\prime}$ since this corresponds to moving the\n wires through a distance $-b$ parallel to $y$, the expansion however is not of the same\n form as that given in the text.?\n}\n",
+    "structured_lines": [
+      {
+        "page": 349,
+        "line_number": 4,
+        "type": "text",
+        "content": "altered in sign by means of the grating. It is easy, however, to",
+        "mathpix_content": "\naltered in sign by means of the grating. It is easy, however, to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 5,
+        "type": "text",
+        "content": "proceed to a higher degree of approximation in the case of a",
+        "mathpix_content": " proceed to a higher degree of approximation in the case of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 6,
+        "type": "text",
+        "content": "grating of cylindrical wires. I shall merely indicate the steps",
+        "mathpix_content": " grating of cylindrical wires. I shall merely indicate the steps",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 349,
+        "line_number": 7,
+        "type": "text",
+        "content": "of this process.",
+        "mathpix_content": " of this process.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 9,
+        "type": "text",
+        "content": "Method of Approximation.",
+        "mathpix_content": "\n\n\\section*{Method of Approximation.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 10,
+        "type": "text",
+        "content": "206.] Since the wires are cylindrical, and since the distri-",
+        "mathpix_content": "\n206.] Since the wires are cylindrical, and since the distri",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 11,
+        "type": "text",
+        "content": "bution of electricity on each is symmetrical with respect to the",
+        "mathpix_content": "bution of electricity on each is symmetrical with respect to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 12,
+        "type": "text",
+        "content": "diameter parallel to $y$, the proper expansion of the potential is",
+        "mathpix_content": " diameter parallel to $y$, the proper expansion of the potential is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 13,
+        "type": "text",
+        "content": "of the form",
+        "mathpix_content": " of the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 17,
+        "type": "text",
+        "content": "where $r$ is the distance from the axis of one of the wires, and $\\theta$",
+        "mathpix_content": "\nwhere $r$ is the distance from the axis of one of the wires, and $\\theta$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 18,
+        "type": "text",
+        "content": "the angle between $r$ and $y$; and, since the wire is a conductor,",
+        "mathpix_content": " the angle between $r$ and $y$; and, since the wire is a conductor,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 19,
+        "type": "text",
+        "content": "when $r$ is made equal to the radius $V$ must be constant, and",
+        "mathpix_content": " when $r$ is made equal to the radius $V$ must be constant, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 20,
+        "type": "text",
+        "content": "therefore the coefficient of each of the multiple cosines of $\\theta$ must",
+        "mathpix_content": " therefore the coefficient of each of the multiple cosines of $\\theta$ must",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 21,
+        "type": "text",
+        "content": "vanish.",
+        "mathpix_content": " vanish.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 22,
+        "type": "text",
+        "content": "For the sake of conciseness let us assume new coordinates",
+        "mathpix_content": "\n\nFor the sake of conciseness let us assume new coordinates",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 23,
+        "type": "text",
+        "content": "$\\xi, \\eta$, \\&c. such that",
+        "mathpix_content": " $\\xi, \\eta$, \\&c. such that",
+        "font_size": 27,
+        "confidence": 0.99462890625
+      },
+      {
+        "page": 349,
+        "line_number": 27,
+        "type": "text",
+        "content": "and let",
+        "mathpix_content": "\nand let",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 31,
+        "type": "text",
+        "content": "Then if we make",
+        "mathpix_content": "\n\nThen if we make",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 35,
+        "type": "text",
+        "content": "by giving proper values to the coefficients $A$ we may express",
+        "mathpix_content": "\nby giving proper values to the coefficients $A$ we may express",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 36,
+        "type": "text",
+        "content": "any potential which is a function of $\\eta$ and $\\cos \\xi$, and does not",
+        "mathpix_content": " any potential which is a function of $\\eta$ and $\\cos \\xi$, and does not",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 37,
+        "type": "text",
+        "content": "become infinite except when $\\eta+\\beta=0$ and $\\cos \\xi=1$.",
+        "mathpix_content": " become infinite except when $\\eta+\\beta=0$ and $\\cos \\xi=1$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 38,
+        "type": "text",
+        "content": "When $\\beta=0$ the expansion of $F$ in terms of $\\rho$ and $\\theta$ is*",
+        "mathpix_content": "\n\nWhen $\\beta=0$ the expansion of $F$ in terms of $\\rho$ and $\\theta$ is*",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 42,
+        "type": "text",
+        "content": "For finite values of $\\beta$ the expansion of $F$ is",
+        "mathpix_content": "\n\nFor finite values of $\\beta$ the expansion of $F$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 43,
+        "type": "text",
+        "content": "$F_{\\beta}=\\beta+2 \\log \\left(1-e^{-\\beta}\\right)+\\frac{1+e^{-\\beta}}{1-e^{-\\beta}} \\rho \\cos \\theta-\\frac{e^{-\\beta}}{\\left(1-e^{-\\beta}\\right)^{2}} \\rho^{2} \\cos 2 \\theta+$ \\&c.",
+        "mathpix_content": "\n$F_{\\beta}=\\beta+2 \\log \\left(1-e^{-\\beta}\\right)+\\frac{1+e^{-\\beta}}{1-e^{-\\beta}} \\rho \\cos \\theta-\\frac{e^{-\\beta}}{\\left(1-e^{-\\beta}\\right)^{2}} \\rho^{2} \\cos 2 \\theta+$ \\&c.",
+        "font_size": 27,
+        "confidence": 0.3652365317782369
+      },
+      {
+        "page": 349,
+        "line_number": 45,
+        "type": "text",
+        "content": "In the case of the grating with two conducting planes whose",
+        "mathpix_content": "\n\nIn the case of the grating with two conducting planes whose",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 46,
+        "type": "text",
+        "content": "equations are $\\eta=\\beta_{1}$ and $\\eta=-\\beta_{2}$, that of the plane of the",
+        "mathpix_content": " equations are $\\eta=\\beta_{1}$ and $\\eta=-\\beta_{2}$, that of the plane of the",
+        "font_size": 27,
+        "confidence": 0.99462890625
+      },
+      {
+        "page": 349,
+        "line_number": 47,
+        "type": "text",
+        "content": "grating being $\\eta=0$, there will be two intinite series of images",
+        "mathpix_content": " grating being $\\eta=0$, there will be two intinite series of images",
+        "font_size": 27,
+        "confidence": 0.9150390625
+      },
+      {
+        "page": 349,
+        "line_number": 49,
+        "type": "text",
+        "content": "$*\\left\\{\\right.$ The expansion of $F$ can be got by noticing that $\\log \\left(\\epsilon^{-\\eta}+\\epsilon^{\\eta}-2 \\cos \\xi\\right)$ only",
+        "mathpix_content": "\n\n\\footnotetext{\n$*\\left\\{\\right.$ The expansion of $F$ can be got by noticing that $\\log \\left(\\epsilon^{-\\eta}+\\epsilon^{\\eta}-2 \\cos \\xi\\right)$ only",
+        "font_size": 21,
+        "confidence": 0.4659067010408169
+      },
+      {
+        "page": 349,
+        "line_number": 50,
+        "type": "text",
+        "content": "differs by a constant from $\\log r^{2}+\\log r_{1}{ }^{2}+\\log r_{2}{ }^{2}+\\ldots$ where $r, r_{1}, r_{2} \\ldots$ are the distances",
+        "mathpix_content": " differs by a constant from $\\log r^{2}+\\log r_{1}{ }^{2}+\\log r_{2}{ }^{2}+\\ldots$ where $r, r_{1}, r_{2} \\ldots$ are the distances",
+        "font_size": 21,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 349,
+        "line_number": 51,
+        "type": "text",
+        "content": "of $P$ from the wires.",
+        "mathpix_content": " of $P$ from the wires.",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 349,
+        "line_number": 52,
+        "type": "text",
+        "content": "We can apply the same method to expand $F_{\\beta}^{\\prime}$ since this corresponds to moving the",
+        "mathpix_content": "\n\nWe can apply the same method to expand $F_{\\beta}^{\\prime}$ since this corresponds to moving the",
+        "font_size": 21,
+        "confidence": 0.5567926832229575
+      },
+      {
+        "page": 349,
+        "line_number": 53,
+        "type": "text",
+        "content": "wires through a distance $-b$ parallel to $y$, the expansion however is not of the same",
+        "mathpix_content": " wires through a distance $-b$ parallel to $y$, the expansion however is not of the same",
+        "font_size": 21,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 349,
+        "line_number": 54,
+        "type": "text",
+        "content": "form as that given in the text.?",
+        "mathpix_content": " form as that given in the text.?\n}",
+        "font_size": 21,
+        "confidence": 0.8466796875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

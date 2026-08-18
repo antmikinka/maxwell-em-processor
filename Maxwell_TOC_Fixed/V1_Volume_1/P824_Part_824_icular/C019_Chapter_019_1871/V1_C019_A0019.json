@@ -1,0 +1,354 @@
+{
+  "article_id": "article_19",
+  "article_number": 19,
+  "title_original": ", 1871.",
+  "title_safe": "1871",
+  "page_start": 525,
+  "page_end": 525,
+  "content": {
+    "raw_text": "\n--- Page 525 ---\n490\nMEASUREMENT OF RESISTANCE.\n[357.\nof small resistance, as when this connexion is broken, and if, by\nproperly adjusting the resistances of the conductors, we obtain\nthis result, we know that the resistance of the galvanometer is\n$$b=\\frac{c \\gamma}{\\beta},$$\nwhere $c, \\gamma$, and $\\beta$ are resistance coils of known resistance.\nIt will be observed that though this is not a null method,\nin the sense of there being no current in the galvanometer, it is\nso in the sense of the fact observed being the negative one, that\nthe deflexion of the galvanometer is not changed when a certain\ncontact is made. An observation of this kind is of greater\nvalue than an observation of the equality of two different\ndeflexions of the same galvanometer, for in the latter case there\nis time for alteration in the strength of the battery or the\nsensitiveness of the galvanometer, whereas when the deflexion re-\nmains constant, in spite of certain changes which we can repeat\nat pleasure, we are sure that the current is quite independent of\nthese changes.\nThe determination of the resistance of the coil of a galvano-\nmeter can easily be effected in the ordinary way of using\nWheatstone's Bridge by placing another galvanometer in $O A$.\nBy the method now described the galvanometer itself is em-\nployed to measure its own resistance.\nMance's* Method of Determining the Resistance of a Battery.\n357.] The measurement of the resistance of a battery when in\naction is of a much higher order of difficulty, since the resistance\nof the battery is found to change considerably for some time\nafter the strength of the current through it is changed. In\nmany of the methods commonly used to measure the resistance\nof a battery such alterations of the strength of the current\nthrough it occur in the course of the operations, and therefore\nthe results are rendered doubtful.\nIn Mance's method, which is free from this objection, the battery\nis placed in $B C$ and the galvanometer in $C A$. The connexion\nbetween $O$ and $B$ is then alternately made and broken.\nNow the deflexion of the galvanometer needle will remain un-\naltered, however the resistance in $O B$ be changed, provided that\n$O B$ and $A C$ are conjugate. This may be regarded as a particular\n\n* Proc. R. S., Jan. 19, 1871.\n",
+    "mathpix_markdown": "\n--- Page 525 ---\n\nof small resistance, as when this connexion is broken, and if, by\n properly adjusting the resistances of the conductors, we obtain\n this result, we know that the resistance of the galvanometer is\n\n$$b=\\frac{c \\gamma}{\\beta},$$\n\nwhere $c, \\gamma$, and $\\beta$ are resistance coils of known resistance.\n\nIt will be observed that though this is not a null method,\n in the sense of there being no current in the galvanometer, it is\n so in the sense of the fact observed being the negative one, that\n the deflexion of the galvanometer is not changed when a certain\n contact is made. An observation of this kind is of greater\n value than an observation of the equality of two different\n deflexions of the same galvanometer, for in the latter case there\n is time for alteration in the strength of the battery or the\n sensitiveness of the galvanometer, whereas when the deflexion re\nmains constant, in spite of certain changes which we can repeat\n at pleasure, we are sure that the current is quite independent of\n these changes.\n\n\nThe determination of the resistance of the coil of a galvano\nmeter can easily be effected in the ordinary way of using\n Wheatstone's Bridge by placing another galvanometer in $O A$.\n By the method now described the galvanometer itself is em\nployed to measure its own resistance.\n\n\nMance's* Method of Determining the Resistance of a Battery.\n\n357.] The measurement of the resistance of a battery when in\n action is of a much higher order of difficulty, since the resistance\n of the battery is found to change considerably for some time\n after the strength of the current through it is changed. In\n many of the methods commonly used to measure the resistance\n of a battery such alterations of the strength of the current\n through it occur in the course of the operations, and therefore\n the results are rendered doubtful.\n\n\nIn Mance's method, which is free from this objection, the battery\n is placed in $B C$ and the galvanometer in $C A$. The connexion\n between $O$ and $B$ is then alternately made and broken.\n\n\nNow the deflexion of the galvanometer needle will remain un\naltered, however the resistance in $O B$ be changed, provided that\n $O B$ and $A C$ are conjugate. This may be regarded as a particular\n\n\n\\footnotetext{\n* Proc. R. S., Jan. 19, 1871.\n}\n",
+    "structured_lines": [
+      {
+        "page": 525,
+        "line_number": 4,
+        "type": "text",
+        "content": "of small resistance, as when this connexion is broken, and if, by",
+        "mathpix_content": "\nof small resistance, as when this connexion is broken, and if, by",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 5,
+        "type": "text",
+        "content": "properly adjusting the resistances of the conductors, we obtain",
+        "mathpix_content": " properly adjusting the resistances of the conductors, we obtain",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 6,
+        "type": "text",
+        "content": "this result, we know that the resistance of the galvanometer is",
+        "mathpix_content": " this result, we know that the resistance of the galvanometer is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 9,
+        "type": "text",
+        "content": "where $c, \\gamma$, and $\\beta$ are resistance coils of known resistance.",
+        "mathpix_content": "\nwhere $c, \\gamma$, and $\\beta$ are resistance coils of known resistance.",
+        "font_size": 34,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 525,
+        "line_number": 10,
+        "type": "text",
+        "content": "It will be observed that though this is not a null method,",
+        "mathpix_content": "\nIt will be observed that though this is not a null method,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 11,
+        "type": "text",
+        "content": "in the sense of there being no current in the galvanometer, it is",
+        "mathpix_content": " in the sense of there being no current in the galvanometer, it is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 12,
+        "type": "text",
+        "content": "so in the sense of the fact observed being the negative one, that",
+        "mathpix_content": " so in the sense of the fact observed being the negative one, that",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 13,
+        "type": "text",
+        "content": "the deflexion of the galvanometer is not changed when a certain",
+        "mathpix_content": " the deflexion of the galvanometer is not changed when a certain",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 14,
+        "type": "text",
+        "content": "contact is made. An observation of this kind is of greater",
+        "mathpix_content": " contact is made. An observation of this kind is of greater",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 15,
+        "type": "text",
+        "content": "value than an observation of the equality of two different",
+        "mathpix_content": " value than an observation of the equality of two different",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 16,
+        "type": "text",
+        "content": "deflexions of the same galvanometer, for in the latter case there",
+        "mathpix_content": " deflexions of the same galvanometer, for in the latter case there",
+        "font_size": 34,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 525,
+        "line_number": 17,
+        "type": "text",
+        "content": "is time for alteration in the strength of the battery or the",
+        "mathpix_content": " is time for alteration in the strength of the battery or the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 18,
+        "type": "text",
+        "content": "sensitiveness of the galvanometer, whereas when the deflexion re-",
+        "mathpix_content": " sensitiveness of the galvanometer, whereas when the deflexion re",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 19,
+        "type": "text",
+        "content": "mains constant, in spite of certain changes which we can repeat",
+        "mathpix_content": "mains constant, in spite of certain changes which we can repeat",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 20,
+        "type": "text",
+        "content": "at pleasure, we are sure that the current is quite independent of",
+        "mathpix_content": " at pleasure, we are sure that the current is quite independent of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 21,
+        "type": "text",
+        "content": "these changes.",
+        "mathpix_content": " these changes.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 22,
+        "type": "text",
+        "content": "The determination of the resistance of the coil of a galvano-",
+        "mathpix_content": "\n\nThe determination of the resistance of the coil of a galvano",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 23,
+        "type": "text",
+        "content": "meter can easily be effected in the ordinary way of using",
+        "mathpix_content": "meter can easily be effected in the ordinary way of using",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 24,
+        "type": "text",
+        "content": "Wheatstone's Bridge by placing another galvanometer in $O A$.",
+        "mathpix_content": " Wheatstone's Bridge by placing another galvanometer in $O A$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 25,
+        "type": "text",
+        "content": "By the method now described the galvanometer itself is em-",
+        "mathpix_content": " By the method now described the galvanometer itself is em",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 26,
+        "type": "text",
+        "content": "ployed to measure its own resistance.",
+        "mathpix_content": "ployed to measure its own resistance.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 27,
+        "type": "text",
+        "content": "Mance's* Method of Determining the Resistance of a Battery.",
+        "mathpix_content": "\n\nMance's* Method of Determining the Resistance of a Battery.",
+        "font_size": 34,
+        "confidence": 0.7050974369049072
+      },
+      {
+        "page": 525,
+        "line_number": 28,
+        "type": "text",
+        "content": "357.] The measurement of the resistance of a battery when in",
+        "mathpix_content": "\n357.] The measurement of the resistance of a battery when in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 29,
+        "type": "text",
+        "content": "action is of a much higher order of difficulty, since the resistance",
+        "mathpix_content": " action is of a much higher order of difficulty, since the resistance",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 30,
+        "type": "text",
+        "content": "of the battery is found to change considerably for some time",
+        "mathpix_content": " of the battery is found to change considerably for some time",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 31,
+        "type": "text",
+        "content": "after the strength of the current through it is changed. In",
+        "mathpix_content": " after the strength of the current through it is changed. In",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 32,
+        "type": "text",
+        "content": "many of the methods commonly used to measure the resistance",
+        "mathpix_content": " many of the methods commonly used to measure the resistance",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 33,
+        "type": "text",
+        "content": "of a battery such alterations of the strength of the current",
+        "mathpix_content": " of a battery such alterations of the strength of the current",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 34,
+        "type": "text",
+        "content": "through it occur in the course of the operations, and therefore",
+        "mathpix_content": " through it occur in the course of the operations, and therefore",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 35,
+        "type": "text",
+        "content": "the results are rendered doubtful.",
+        "mathpix_content": " the results are rendered doubtful.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 36,
+        "type": "text",
+        "content": "In Mance's method, which is free from this objection, the battery",
+        "mathpix_content": "\n\nIn Mance's method, which is free from this objection, the battery",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 37,
+        "type": "text",
+        "content": "is placed in $B C$ and the galvanometer in $C A$. The connexion",
+        "mathpix_content": " is placed in $B C$ and the galvanometer in $C A$. The connexion",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 38,
+        "type": "text",
+        "content": "between $O$ and $B$ is then alternately made and broken.",
+        "mathpix_content": " between $O$ and $B$ is then alternately made and broken.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 39,
+        "type": "text",
+        "content": "Now the deflexion of the galvanometer needle will remain un-",
+        "mathpix_content": "\n\nNow the deflexion of the galvanometer needle will remain un",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 40,
+        "type": "text",
+        "content": "altered, however the resistance in $O B$ be changed, provided that",
+        "mathpix_content": "altered, however the resistance in $O B$ be changed, provided that",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 41,
+        "type": "text",
+        "content": "$O B$ and $A C$ are conjugate. This may be regarded as a particular",
+        "mathpix_content": " $O B$ and $A C$ are conjugate. This may be regarded as a particular",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 525,
+        "line_number": 43,
+        "type": "text",
+        "content": "* Proc. R. S., Jan. 19, 1871.",
+        "mathpix_content": "\n\n\\footnotetext{\n* Proc. R. S., Jan. 19, 1871.\n}",
+        "font_size": 27,
+        "confidence": 0.9551207995973527
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

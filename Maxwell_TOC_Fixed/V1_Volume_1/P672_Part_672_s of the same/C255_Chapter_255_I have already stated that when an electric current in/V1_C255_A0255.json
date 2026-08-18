@@ -1,0 +1,300 @@
+{
+  "article_id": "article_255",
+  "article_number": 255,
+  "title_original": ".] I have already stated that when an electric current in",
+  "title_safe": "I have already stated that when an electric current in",
+  "page_start": 410,
+  "page_end": 410,
+  "content": {
+    "raw_text": "\n--- Page 410 ---\n\nCHAPTER IV.\n\nELECTROLYSIS.\n\nElectrolytic Conduction.\n255.] I have already stated that when an electric current in\nany part of its circuit paises through certain compound sub-\nstances called Electrolytes, the passage of the current is accom-\npanied by a certain chemical process called Electrolysis, in\nwhich the substance is resolved into two components called Ions,\nof which one, called the Anion, or the electronegative component,\nappears at the Anode, or place where the current enters the\nelectrolyte, and the other, called the Cation, appears at the\nCathode, or the place where the current leaves the electrolyte.\nThe complete investigation of Electrolysis belongs quite as\nmuch to Chemistry as to Electricity. We shall consider it from\nan electrical point of view, without discussing its application to\nthe theory of the constitution of chemical compounds.\nOf all electrical phenomena electrolysis appears the most\nlikely to furnish us with a real insight into the true nature of\nthe electric current, because we find currents of ordinary matter\nand currents of electricity forming essential parts of the same\nphenomenon.\nIt is probably for this very reason that, in the present imper-\nfectly formed state of our ideas about electricity, the theories of\nelectrolysis are so unsatisfactory.\nThe fundamental law of electrolysis, which was established by\nFaraday, and confirmed by the experiments of Beetz, Hittorf,\nand others down to the present time, is as follows:-\nThe number of electrochemical equivalents of an electrolyte\nwhich are decomposed by the passage of an electric current\nduring a given time is equal to the number of units of electricity\nwhich are transferred by the current in the same time.\n",
+    "mathpix_markdown": "\n--- Page 410 ---\n\n\n\\section*{CHAPTER IV.}\n\n\n\\section*{ELECTROLYSIS.}\n\n\n\\section*{Electrolytic Conduction.}\n\n255.] I have already stated that when an electric current in\n any part of its circuit paises through certain compound sub\nstances called Electrolytes, the passage of the current is accom\npanied by a certain chemical process called Electrolysis, in\n which the substance is resolved into two components called Ions,\n of which one, called the Anion, or the electronegative component,\n appears at the Anode, or place where the current enters the\n electrolyte, and the other, called the Cation, appears at the\n Cathode, or the place where the current leaves the electrolyte.\n\n\nThe complete investigation of Electrolysis belongs quite as\n much to Chemistry as to Electricity. We shall consider it from\n an electrical point of view, without discussing its application to\n the theory of the constitution of chemical compounds.\n\n\nOf all electrical phenomena electrolysis appears the most\n likely to furnish us with a real insight into the true nature of\n the electric current, because we find currents of ordinary matter\n and currents of electricity forming essential parts of the same\n phenomenon.\n\n\nIt is probably for this very reason that, in the present imper\nfectly formed state of our ideas about electricity, the theories of\n electrolysis are so unsatisfactory.\n\n\nThe fundamental law of electrolysis, which was established by\n Faraday, and confirmed by the experiments of Beetz, Hittorf,\n and others down to the present time, is as follows:-\n\n\nThe number of electrochemical equivalents of an electrolyte\n which are decomposed by the passage of an electric current\n during a given time is equal to the number of units of electricity\n which are transferred by the current in the same time.\n",
+    "structured_lines": [
+      {
+        "page": 410,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER IV.",
+        "mathpix_content": "\n\n\\section*{CHAPTER IV.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 4,
+        "type": "text",
+        "content": "ELECTROLYSIS.",
+        "mathpix_content": "\n\n\\section*{ELECTROLYSIS.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 6,
+        "type": "text",
+        "content": "Electrolytic Conduction.",
+        "mathpix_content": "\n\n\\section*{Electrolytic Conduction.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 7,
+        "type": "text",
+        "content": "255.] I have already stated that when an electric current in",
+        "mathpix_content": "\n255.] I have already stated that when an electric current in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 8,
+        "type": "text",
+        "content": "any part of its circuit paises through certain compound sub-",
+        "mathpix_content": " any part of its circuit paises through certain compound sub",
+        "font_size": 27,
+        "confidence": 0.3415588370421574
+      },
+      {
+        "page": 410,
+        "line_number": 9,
+        "type": "text",
+        "content": "stances called Electrolytes, the passage of the current is accom-",
+        "mathpix_content": "stances called Electrolytes, the passage of the current is accom",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 10,
+        "type": "text",
+        "content": "panied by a certain chemical process called Electrolysis, in",
+        "mathpix_content": "panied by a certain chemical process called Electrolysis, in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 11,
+        "type": "text",
+        "content": "which the substance is resolved into two components called Ions,",
+        "mathpix_content": " which the substance is resolved into two components called Ions,",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 410,
+        "line_number": 12,
+        "type": "text",
+        "content": "of which one, called the Anion, or the electronegative component,",
+        "mathpix_content": " of which one, called the Anion, or the electronegative component,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 13,
+        "type": "text",
+        "content": "appears at the Anode, or place where the current enters the",
+        "mathpix_content": " appears at the Anode, or place where the current enters the",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 410,
+        "line_number": 14,
+        "type": "text",
+        "content": "electrolyte, and the other, called the Cation, appears at the",
+        "mathpix_content": " electrolyte, and the other, called the Cation, appears at the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 15,
+        "type": "text",
+        "content": "Cathode, or the place where the current leaves the electrolyte.",
+        "mathpix_content": " Cathode, or the place where the current leaves the electrolyte.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 16,
+        "type": "text",
+        "content": "The complete investigation of Electrolysis belongs quite as",
+        "mathpix_content": "\n\nThe complete investigation of Electrolysis belongs quite as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 17,
+        "type": "text",
+        "content": "much to Chemistry as to Electricity. We shall consider it from",
+        "mathpix_content": " much to Chemistry as to Electricity. We shall consider it from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 18,
+        "type": "text",
+        "content": "an electrical point of view, without discussing its application to",
+        "mathpix_content": " an electrical point of view, without discussing its application to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 19,
+        "type": "text",
+        "content": "the theory of the constitution of chemical compounds.",
+        "mathpix_content": " the theory of the constitution of chemical compounds.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 20,
+        "type": "text",
+        "content": "Of all electrical phenomena electrolysis appears the most",
+        "mathpix_content": "\n\nOf all electrical phenomena electrolysis appears the most",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 21,
+        "type": "text",
+        "content": "likely to furnish us with a real insight into the true nature of",
+        "mathpix_content": " likely to furnish us with a real insight into the true nature of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 22,
+        "type": "text",
+        "content": "the electric current, because we find currents of ordinary matter",
+        "mathpix_content": " the electric current, because we find currents of ordinary matter",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 23,
+        "type": "text",
+        "content": "and currents of electricity forming essential parts of the same",
+        "mathpix_content": " and currents of electricity forming essential parts of the same",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 24,
+        "type": "text",
+        "content": "phenomenon.",
+        "mathpix_content": " phenomenon.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 25,
+        "type": "text",
+        "content": "It is probably for this very reason that, in the present imper-",
+        "mathpix_content": "\n\nIt is probably for this very reason that, in the present imper",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 26,
+        "type": "text",
+        "content": "fectly formed state of our ideas about electricity, the theories of",
+        "mathpix_content": "fectly formed state of our ideas about electricity, the theories of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 27,
+        "type": "text",
+        "content": "electrolysis are so unsatisfactory.",
+        "mathpix_content": " electrolysis are so unsatisfactory.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 28,
+        "type": "text",
+        "content": "The fundamental law of electrolysis, which was established by",
+        "mathpix_content": "\n\nThe fundamental law of electrolysis, which was established by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 29,
+        "type": "text",
+        "content": "Faraday, and confirmed by the experiments of Beetz, Hittorf,",
+        "mathpix_content": " Faraday, and confirmed by the experiments of Beetz, Hittorf,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 30,
+        "type": "text",
+        "content": "and others down to the present time, is as follows:-",
+        "mathpix_content": " and others down to the present time, is as follows:-",
+        "font_size": 27,
+        "confidence": 0.98291015625
+      },
+      {
+        "page": 410,
+        "line_number": 31,
+        "type": "text",
+        "content": "The number of electrochemical equivalents of an electrolyte",
+        "mathpix_content": "\n\nThe number of electrochemical equivalents of an electrolyte",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 32,
+        "type": "text",
+        "content": "which are decomposed by the passage of an electric current",
+        "mathpix_content": " which are decomposed by the passage of an electric current",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 33,
+        "type": "text",
+        "content": "during a given time is equal to the number of units of electricity",
+        "mathpix_content": " during a given time is equal to the number of units of electricity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 410,
+        "line_number": 34,
+        "type": "text",
+        "content": "which are transferred by the current in the same time.",
+        "mathpix_content": " which are transferred by the current in the same time.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

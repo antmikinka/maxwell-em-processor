@@ -1,0 +1,20 @@
+{
+  "article_id": "article_10",
+  "article_number": 10,
+  "title_original": "a^{11} b^{3}+30 a^{9} b^{5}+16 a^{8} b^{6}+40 a^{7} b^{7}+25 a^{5} b^{9}\\right) c^{-14}$",
+  "title_safe": "a11 b3plus30 a9 b5plus16 a8 b6plus40 a7 b7plus25 a5 b9right",
+  "page_start": 264,
+  "page_end": 263,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

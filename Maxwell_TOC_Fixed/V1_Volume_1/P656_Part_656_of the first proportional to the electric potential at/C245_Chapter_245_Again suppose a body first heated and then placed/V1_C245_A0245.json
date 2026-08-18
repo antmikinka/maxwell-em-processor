@@ -1,0 +1,381 @@
+{
+  "article_id": "article_245",
+  "article_number": 245,
+  "title_original": ".] Again, suppose a body first heated and then placed",
+  "title_safe": "Again suppose a body first heated and then placed",
+  "page_start": 400,
+  "page_end": 400,
+  "content": {
+    "raw_text": "\n--- Page 400 ---\n245.]\nCOMPARISON WITH PHENOMENA OF HEAT.\n365\nplaces of low potential, exactly as heat tends to flow from places\nof high to places of low temperature.\n244.] The theory of electric potential and that of temperature\nmay therefore be made to illustrate one another; there is,\nhowever, one remarkable difference between the phenomena of\nelectricity and those of heat.\nSuspend a conducting body within a closed conducting vessel\nby a silk thread, and charge the vessel with electricity. The\npotential of the vessel and of all within it will be instantly\nraised, but however long and however powerfully the vessel be\nelectrified, and whether the body within be allowed to come in\ncontact with the vessel or not, no signs of electrification will\nappear within the vessel, nor will the body within shew any\nelectrical effect when taken out.\nBut if the vessel is raised to a high temperature, the body\nwithin will rise to the same temperature, but only after a con-\nsiderable time, and if it is then taken out it will be found hot,\nand will remain so till it has continued to emit heat for some\ntime.\nThe difference between the phenomena consists in the fact\nthat bodies are capable of absorbing and emitting heat, whereas\nthey have no corresponding property with respect to electricity.\nA body cannot be made hot without a certain amount of heat\nbeing supplied to it, depending on the mass and specific heat of\nthe body, but the electric potential of a body may be raised to\nany extent in the way already described without communicating\nany electricity to the body.\n245.] Again, suppose a body first heated and then placed\ninside the closed vessel. The outside of the vessel will be at\nfirst at the temperature of surrounding bodies, but it will soon\nget hot, and will remain hot till the heat of the interior body\nhas escaped.\nIt is impossible to perform a corresponding electrical experi-\nment. It is impossible so to electrify a body, and so to place it\nin a hollow vessel, that the outside of the vessel shall at first\nshew no signs of electrification but shall afterwards become\nelectrified. It was for some phenomenon of this kind that\nFaraday sought in vain under the name of an absolute charge\nof electricity.\nHeat may be hidden in the interior of a body so as to have no\n",
+    "mathpix_markdown": "\n--- Page 400 ---\n\nplaces of low potential, exactly as heat tends to flow from places\n of high to places of low temperature.\n\n244.] The theory of electric potential and that of temperature\n may therefore be made to illustrate one another; there is,\n however, one remarkable difference between the phenomena of\n electricity and those of heat.\n\n\nSuspend a conducting body within a closed conducting vessel\n by a silk thread, and charge the vessel with electricity. The\n potential of the vessel and of all within it will be instantly\n raised, but however long and however powerfully the vessel be\n electrified, and whether the body within be allowed to come in\n contact with the vessel or not, no signs of electrification will\n appear within the vessel, nor will the body within shew any\n electrical effect when taken out.\n\n\nBut if the vessel is raised to a high temperature, the body\n within will rise to the same temperature, but only after a con\nsiderable time, and if it is then taken out it will be found hot,\n and will remain so till it has continued to emit heat for some\n time.\n\n\nThe difference between the phenomena consists in the fact\n that bodies are capable of absorbing and emitting heat, whereas\n they have no corresponding property with respect to electricity.\n A body cannot be made hot without a certain amount of heat\n being supplied to it, depending on the mass and specific heat of\n the body, but the electric potential of a body may be raised to\n any extent in the way already described without communicating\n any electricity to the body.\n\n245.] Again, suppose a body first heated and then placed\n inside the closed vessel. The outside of the vessel will be at\n first at the temperature of surrounding bodies, but it will soon\n get hot, and will remain hot till the heat of the interior body\n has escaped.\n\n\nIt is impossible to perform a corresponding electrical experi\nment. It is impossible so to electrify a body, and so to place it\n in a hollow vessel, that the outside of the vessel shall at first\n shew no signs of electrification but shall afterwards become\n electrified. It was for some phenomenon of this kind that\n Faraday sought in vain under the name of an absolute charge\n of electricity.\n\n\nHeat may be hidden in the interior of a body so as to have no\n",
+    "structured_lines": [
+      {
+        "page": 400,
+        "line_number": 4,
+        "type": "text",
+        "content": "places of low potential, exactly as heat tends to flow from places",
+        "mathpix_content": "\nplaces of low potential, exactly as heat tends to flow from places",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 5,
+        "type": "text",
+        "content": "of high to places of low temperature.",
+        "mathpix_content": " of high to places of low temperature.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 6,
+        "type": "text",
+        "content": "244.] The theory of electric potential and that of temperature",
+        "mathpix_content": "\n244.] The theory of electric potential and that of temperature",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 7,
+        "type": "text",
+        "content": "may therefore be made to illustrate one another; there is,",
+        "mathpix_content": " may therefore be made to illustrate one another; there is,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 8,
+        "type": "text",
+        "content": "however, one remarkable difference between the phenomena of",
+        "mathpix_content": " however, one remarkable difference between the phenomena of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 9,
+        "type": "text",
+        "content": "electricity and those of heat.",
+        "mathpix_content": " electricity and those of heat.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 10,
+        "type": "text",
+        "content": "Suspend a conducting body within a closed conducting vessel",
+        "mathpix_content": "\n\nSuspend a conducting body within a closed conducting vessel",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 11,
+        "type": "text",
+        "content": "by a silk thread, and charge the vessel with electricity. The",
+        "mathpix_content": " by a silk thread, and charge the vessel with electricity. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 12,
+        "type": "text",
+        "content": "potential of the vessel and of all within it will be instantly",
+        "mathpix_content": " potential of the vessel and of all within it will be instantly",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 400,
+        "line_number": 13,
+        "type": "text",
+        "content": "raised, but however long and however powerfully the vessel be",
+        "mathpix_content": " raised, but however long and however powerfully the vessel be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 14,
+        "type": "text",
+        "content": "electrified, and whether the body within be allowed to come in",
+        "mathpix_content": " electrified, and whether the body within be allowed to come in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 15,
+        "type": "text",
+        "content": "contact with the vessel or not, no signs of electrification will",
+        "mathpix_content": " contact with the vessel or not, no signs of electrification will",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 16,
+        "type": "text",
+        "content": "appear within the vessel, nor will the body within shew any",
+        "mathpix_content": " appear within the vessel, nor will the body within shew any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 17,
+        "type": "text",
+        "content": "electrical effect when taken out.",
+        "mathpix_content": " electrical effect when taken out.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 18,
+        "type": "text",
+        "content": "But if the vessel is raised to a high temperature, the body",
+        "mathpix_content": "\n\nBut if the vessel is raised to a high temperature, the body",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 19,
+        "type": "text",
+        "content": "within will rise to the same temperature, but only after a con-",
+        "mathpix_content": " within will rise to the same temperature, but only after a con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 20,
+        "type": "text",
+        "content": "siderable time, and if it is then taken out it will be found hot,",
+        "mathpix_content": "siderable time, and if it is then taken out it will be found hot,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 21,
+        "type": "text",
+        "content": "and will remain so till it has continued to emit heat for some",
+        "mathpix_content": " and will remain so till it has continued to emit heat for some",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 22,
+        "type": "text",
+        "content": "time.",
+        "mathpix_content": " time.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 23,
+        "type": "text",
+        "content": "The difference between the phenomena consists in the fact",
+        "mathpix_content": "\n\nThe difference between the phenomena consists in the fact",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 24,
+        "type": "text",
+        "content": "that bodies are capable of absorbing and emitting heat, whereas",
+        "mathpix_content": " that bodies are capable of absorbing and emitting heat, whereas",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 25,
+        "type": "text",
+        "content": "they have no corresponding property with respect to electricity.",
+        "mathpix_content": " they have no corresponding property with respect to electricity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 26,
+        "type": "text",
+        "content": "A body cannot be made hot without a certain amount of heat",
+        "mathpix_content": " A body cannot be made hot without a certain amount of heat",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 400,
+        "line_number": 27,
+        "type": "text",
+        "content": "being supplied to it, depending on the mass and specific heat of",
+        "mathpix_content": " being supplied to it, depending on the mass and specific heat of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 28,
+        "type": "text",
+        "content": "the body, but the electric potential of a body may be raised to",
+        "mathpix_content": " the body, but the electric potential of a body may be raised to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 29,
+        "type": "text",
+        "content": "any extent in the way already described without communicating",
+        "mathpix_content": " any extent in the way already described without communicating",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 30,
+        "type": "text",
+        "content": "any electricity to the body.",
+        "mathpix_content": " any electricity to the body.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 31,
+        "type": "text",
+        "content": "245.] Again, suppose a body first heated and then placed",
+        "mathpix_content": "\n245.] Again, suppose a body first heated and then placed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 32,
+        "type": "text",
+        "content": "inside the closed vessel. The outside of the vessel will be at",
+        "mathpix_content": " inside the closed vessel. The outside of the vessel will be at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 33,
+        "type": "text",
+        "content": "first at the temperature of surrounding bodies, but it will soon",
+        "mathpix_content": " first at the temperature of surrounding bodies, but it will soon",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 34,
+        "type": "text",
+        "content": "get hot, and will remain hot till the heat of the interior body",
+        "mathpix_content": " get hot, and will remain hot till the heat of the interior body",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 35,
+        "type": "text",
+        "content": "has escaped.",
+        "mathpix_content": " has escaped.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 36,
+        "type": "text",
+        "content": "It is impossible to perform a corresponding electrical experi-",
+        "mathpix_content": "\n\nIt is impossible to perform a corresponding electrical experi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 37,
+        "type": "text",
+        "content": "ment. It is impossible so to electrify a body, and so to place it",
+        "mathpix_content": "ment. It is impossible so to electrify a body, and so to place it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 38,
+        "type": "text",
+        "content": "in a hollow vessel, that the outside of the vessel shall at first",
+        "mathpix_content": " in a hollow vessel, that the outside of the vessel shall at first",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 39,
+        "type": "text",
+        "content": "shew no signs of electrification but shall afterwards become",
+        "mathpix_content": " shew no signs of electrification but shall afterwards become",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 40,
+        "type": "text",
+        "content": "electrified. It was for some phenomenon of this kind that",
+        "mathpix_content": " electrified. It was for some phenomenon of this kind that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 41,
+        "type": "text",
+        "content": "Faraday sought in vain under the name of an absolute charge",
+        "mathpix_content": " Faraday sought in vain under the name of an absolute charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 42,
+        "type": "text",
+        "content": "of electricity.",
+        "mathpix_content": " of electricity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 400,
+        "line_number": 43,
+        "type": "text",
+        "content": "Heat may be hidden in the interior of a body so as to have no",
+        "mathpix_content": "\n\nHeat may be hidden in the interior of a body so as to have no",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

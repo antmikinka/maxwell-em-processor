@@ -1,0 +1,333 @@
+{
+  "chapter_id": "chapter_4",
+  "chapter_number": 2,
+  "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$",
+  "page_start": 158,
+  "page_end": 158,
+  "articles": [
+    {
+      "article_id": "article_95",
+      "article_number": 95,
+      "title_original": "a$.] In the second chapter we have calculated the potential",
+      "title_safe": "a. In the second chapter we have calculated the potential",
+      "page_start": 158,
+      "page_end": 157,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2plus4 pi rhoequals0",
+      "page_start": 158,
+      "page_end": 157,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_95",
+      "article_number": 95,
+      "title_original": "a$.] In the second chapter we have calculated the potential",
+      "title_safe": "a. In the second chapter we have calculated the potential",
+      "page_start": 158,
+      "page_end": 157,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2plus4 pi rhoequals0",
+      "page_start": 158,
+      "page_end": 158,
+      "content": {
+        "raw_text": "\n--- Page 158 ---\n\nCHAPTER IV.\n\nGENERAL THEOREMS.\n$95 a$.] In the second chapter we have calculated the potential\nfunction and investigated some of its properties on the hypo-\nthesis that there is a direct action at a distance between electri-\nfied bodies, which is the resultant of the direct actions between\nthe various electrified parts of the bodies.\nIf we call this the direct method of investigation, the inverse\nmethod will consist in assuming that the potential is a function\ncharacterised by properties the same as those which we have\nalready established, and investigating the form of the function.\nIn the direct method the potential is calculated from the dis-\ntribution of electricity by a process of integration, and is found\nto satisfy certain partial differential equations. In the inverse\nmethod the partial differential equations are supposed given, and\nwe have to find the potential and the distribution of electricity.\nIt is only in problems in which the distribution of electricity\nis given that the direct method can be used. When we have to\nfind the distribution on a conductor we must make use of the\ninverse method.\nWe have now to shew that the inverse method leads in every\ncase to a determinate result, and to establish certain general\ntheorems deduced from Poisson's partial differential equation,\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$\nThe mathematical ideas expressed by this equation are of a\ndifferent kind from those expressed by the definite integral\n$$V=\\int_{-\\infty}^{+\\infty} \\int_{-\\infty}^{+\\infty} \\int_{-\\infty}^{+\\infty} \\frac{\\rho}{r} d x^{\\prime} d y^{\\prime} d z^{\\prime}$$\nIn the differential equation we express that the sum of the\nsecond derivatives of $V$ in the neighbourhood of any point is\n",
+        "mathpix_markdown": "\n--- Page 158 ---\n\n\n\\section*{CHAPTER IV.}\n\n\n\\section*{GENERAL THEOREMS.}\n\n$95 a$.] In the second chapter we have calculated the potential\n function and investigated some of its properties on the hypo\nthesis that there is a direct action at a distance between electri\nfied bodies, which is the resultant of the direct actions between\n the various electrified parts of the bodies.\n\n\nIf we call this the direct method of investigation, the inverse\n method will consist in assuming that the potential is a function\n characterised by properties the same as those which we have\n already established, and investigating the form of the function.\n\n\nIn the direct method the potential is calculated from the dis\ntribution of electricity by a process of integration, and is found\n to satisfy certain partial differential equations. In the inverse\n method the partial differential equations are supposed given, and\n we have to find the potential and the distribution of electricity.\n\n\nIt is only in problems in which the distribution of electricity\n is given that the direct method can be used. When we have to\n find the distribution on a conductor we must make use of the\n inverse method.\n\n\nWe have now to shew that the inverse method leads in every\n case to a determinate result, and to establish certain general\n theorems deduced from Poisson's partial differential equation,\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$\n\n\nThe mathematical ideas expressed by this equation are of a\n different kind from those expressed by the definite integral\n\n$$V=\\int_{-\\infty}^{+\\infty} \\int_{-\\infty}^{+\\infty} \\int_{-\\infty}^{+\\infty} \\frac{\\rho}{r} d x^{\\prime} d y^{\\prime} d z^{\\prime}$$\n\n\nIn the differential equation we express that the sum of the\n second derivatives of $V$ in the neighbourhood of any point is\n",
+        "structured_lines": [
+          {
+            "page": 158,
+            "line_number": 2,
+            "type": "text",
+            "content": "CHAPTER IV.",
+            "mathpix_content": "\n\n\\section*{CHAPTER IV.}",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 4,
+            "type": "text",
+            "content": "GENERAL THEOREMS.",
+            "mathpix_content": "\n\n\\section*{GENERAL THEOREMS.}",
+            "font_size": 21,
+            "confidence": 0.9868283271789551
+          },
+          {
+            "page": 158,
+            "line_number": 5,
+            "type": "text",
+            "content": "$95 a$.] In the second chapter we have calculated the potential",
+            "mathpix_content": "\n$95 a$.] In the second chapter we have calculated the potential",
+            "font_size": 27,
+            "confidence": 0.7977860774844885
+          },
+          {
+            "page": 158,
+            "line_number": 6,
+            "type": "text",
+            "content": "function and investigated some of its properties on the hypo-",
+            "mathpix_content": " function and investigated some of its properties on the hypo",
+            "font_size": 27,
+            "confidence": 0.9970703125
+          },
+          {
+            "page": 158,
+            "line_number": 7,
+            "type": "text",
+            "content": "thesis that there is a direct action at a distance between electri-",
+            "mathpix_content": "thesis that there is a direct action at a distance between electri",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 8,
+            "type": "text",
+            "content": "fied bodies, which is the resultant of the direct actions between",
+            "mathpix_content": "fied bodies, which is the resultant of the direct actions between",
+            "font_size": 27,
+            "confidence": 0.90966796875
+          },
+          {
+            "page": 158,
+            "line_number": 9,
+            "type": "text",
+            "content": "the various electrified parts of the bodies.",
+            "mathpix_content": " the various electrified parts of the bodies.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 10,
+            "type": "text",
+            "content": "If we call this the direct method of investigation, the inverse",
+            "mathpix_content": "\n\nIf we call this the direct method of investigation, the inverse",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 11,
+            "type": "text",
+            "content": "method will consist in assuming that the potential is a function",
+            "mathpix_content": " method will consist in assuming that the potential is a function",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 12,
+            "type": "text",
+            "content": "characterised by properties the same as those which we have",
+            "mathpix_content": " characterised by properties the same as those which we have",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 13,
+            "type": "text",
+            "content": "already established, and investigating the form of the function.",
+            "mathpix_content": " already established, and investigating the form of the function.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 14,
+            "type": "text",
+            "content": "In the direct method the potential is calculated from the dis-",
+            "mathpix_content": "\n\nIn the direct method the potential is calculated from the dis",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 15,
+            "type": "text",
+            "content": "tribution of electricity by a process of integration, and is found",
+            "mathpix_content": "tribution of electricity by a process of integration, and is found",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 16,
+            "type": "text",
+            "content": "to satisfy certain partial differential equations. In the inverse",
+            "mathpix_content": " to satisfy certain partial differential equations. In the inverse",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 17,
+            "type": "text",
+            "content": "method the partial differential equations are supposed given, and",
+            "mathpix_content": " method the partial differential equations are supposed given, and",
+            "font_size": 27,
+            "confidence": 0.99853515625
+          },
+          {
+            "page": 158,
+            "line_number": 18,
+            "type": "text",
+            "content": "we have to find the potential and the distribution of electricity.",
+            "mathpix_content": " we have to find the potential and the distribution of electricity.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 19,
+            "type": "text",
+            "content": "It is only in problems in which the distribution of electricity",
+            "mathpix_content": "\n\nIt is only in problems in which the distribution of electricity",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 20,
+            "type": "text",
+            "content": "is given that the direct method can be used. When we have to",
+            "mathpix_content": " is given that the direct method can be used. When we have to",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 21,
+            "type": "text",
+            "content": "find the distribution on a conductor we must make use of the",
+            "mathpix_content": " find the distribution on a conductor we must make use of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 22,
+            "type": "text",
+            "content": "inverse method.",
+            "mathpix_content": " inverse method.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 23,
+            "type": "text",
+            "content": "We have now to shew that the inverse method leads in every",
+            "mathpix_content": "\n\nWe have now to shew that the inverse method leads in every",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 24,
+            "type": "text",
+            "content": "case to a determinate result, and to establish certain general",
+            "mathpix_content": " case to a determinate result, and to establish certain general",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 25,
+            "type": "text",
+            "content": "theorems deduced from Poisson's partial differential equation,",
+            "mathpix_content": " theorems deduced from Poisson's partial differential equation,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 28,
+            "type": "text",
+            "content": "The mathematical ideas expressed by this equation are of a",
+            "mathpix_content": "\n\nThe mathematical ideas expressed by this equation are of a",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 29,
+            "type": "text",
+            "content": "different kind from those expressed by the definite integral",
+            "mathpix_content": " different kind from those expressed by the definite integral",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 32,
+            "type": "text",
+            "content": "In the differential equation we express that the sum of the",
+            "mathpix_content": "\n\nIn the differential equation we express that the sum of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 158,
+            "line_number": 33,
+            "type": "text",
+            "content": "second derivatives of $V$ in the neighbourhood of any point is",
+            "mathpix_content": " second derivatives of $V$ in the neighbourhood of any point is",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

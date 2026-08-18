@@ -1,0 +1,273 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "}, B_{1}, B_{2}$, each insulated and",
+  "title_safe": "B1 B2 each insulated and",
+  "page_start": 493,
+  "page_end": 493,
+  "content": {
+    "raw_text": "\n--- Page 493 ---\n458\nCONDUCTION IN DIELECTRICS.\n[331.\nbe capable, and this in some cases may perhaps resemble electro-\nchemical polarization much more than dielectric polarization.\nThe object of the investigation is merely to point out the true\nmathematical character of the so-called electric absorption, and\nto shew how fundamentally it differs from the phenomena of\nheat which seem at first sight analogous.\n331.] If we take a thick plate of any substance and heat it\non one side, so as to produce a flow of heat through it, and if\nwe then suddenly cool the heated side to the same temperature\nas the other, and leave the plate to itself, the heated side of the\nplate will again become hotter than the other by conduction\nfrom within.\nNow an electrical phenomenon exactly analogous to this can\nbe produced, and actually occurs in telegraph cables, but its\nmathematical laws, though exactly agreeing with those of heat,\ndiffer entirely from those of the stratified condenser.\nIn the case of heat there is true absorption of the heat into\nthe substance with the result of making it hot. To produce a\ntruly analogous phenomenon in electricity is impossible, but we\nmay imitate it in the following way in the form of a lecture-\nroom experiment.\nLet $A_{1}, A_{2}$, \\&c. be the inner conducting surfaces of a series of\ncondensers, of which $B_{0}, B_{1}, B_{2}$, \\&c. are the outer surfaces.\n\nFig. 26.\nLet $A_{1}, A_{2}$, \\&c. be connected in series by connexions of resist-\nances $R$, and let a current be passed along this series from left to\nright.\nLet us first suppose the plates $B_{0}, B_{1}, B_{2}$, each insulated and\nfree from charge. Then the total quantity of electricity on each\n",
+    "mathpix_markdown": "\n--- Page 493 ---\n\nbe capable, and this in some cases may perhaps resemble electro\nchemical polarization much more than dielectric polarization.\n\n\nThe object of the investigation is merely to point out the true\n mathematical character of the so-called electric absorption, and\n to shew how fundamentally it differs from the phenomena of\n heat which seem at first sight analogous.\n\n331.] If we take a thick plate of any substance and heat it\n on one side, so as to produce a flow of heat through it, and if\n we then suddenly cool the heated side to the same temperature\n as the other, and leave the plate to itself, the heated side of the\n plate will again become hotter than the other by conduction\n from within.\n\n\nNow an electrical phenomenon exactly analogous to this can\n be produced, and actually occurs in telegraph cables, but its\n mathematical laws, though exactly agreeing with those of heat,\n differ entirely from those of the stratified condenser.\n\n\nIn the case of heat there is true absorption of the heat into\n the substance with the result of making it hot. To produce a\n truly analogous phenomenon in electricity is impossible, but we\n may imitate it in the following way in the form of a lecture\nroom experiment.\n\n\nLet $A_{1}, A_{2}$, \\&c. be the inner conducting surfaces of a series of\n condensers, of which $B_{0}, B_{1}, B_{2}$, \\&c. are the outer surfaces.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-493.jpg?height=369&width=666&top_left_y=1234&top_left_x=301}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 26.}\n\\end{figure}\n\n\nLet $A_{1}, A_{2}$, \\&c. be connected in series by connexions of resist\nances $R$, and let a current be passed along this series from left to\n right.\n\n\nLet us first suppose the plates $B_{0}, B_{1}, B_{2}$, each insulated and\n free from charge. Then the total quantity of electricity on each\n",
+    "structured_lines": [
+      {
+        "page": 493,
+        "line_number": 4,
+        "type": "text",
+        "content": "be capable, and this in some cases may perhaps resemble electro-",
+        "mathpix_content": "\nbe capable, and this in some cases may perhaps resemble electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 5,
+        "type": "text",
+        "content": "chemical polarization much more than dielectric polarization.",
+        "mathpix_content": "chemical polarization much more than dielectric polarization.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 6,
+        "type": "text",
+        "content": "The object of the investigation is merely to point out the true",
+        "mathpix_content": "\n\nThe object of the investigation is merely to point out the true",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 7,
+        "type": "text",
+        "content": "mathematical character of the so-called electric absorption, and",
+        "mathpix_content": " mathematical character of the so-called electric absorption, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 8,
+        "type": "text",
+        "content": "to shew how fundamentally it differs from the phenomena of",
+        "mathpix_content": " to shew how fundamentally it differs from the phenomena of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 9,
+        "type": "text",
+        "content": "heat which seem at first sight analogous.",
+        "mathpix_content": " heat which seem at first sight analogous.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 10,
+        "type": "text",
+        "content": "331.] If we take a thick plate of any substance and heat it",
+        "mathpix_content": "\n331.] If we take a thick plate of any substance and heat it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 11,
+        "type": "text",
+        "content": "on one side, so as to produce a flow of heat through it, and if",
+        "mathpix_content": " on one side, so as to produce a flow of heat through it, and if",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 12,
+        "type": "text",
+        "content": "we then suddenly cool the heated side to the same temperature",
+        "mathpix_content": " we then suddenly cool the heated side to the same temperature",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 13,
+        "type": "text",
+        "content": "as the other, and leave the plate to itself, the heated side of the",
+        "mathpix_content": " as the other, and leave the plate to itself, the heated side of the",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 493,
+        "line_number": 14,
+        "type": "text",
+        "content": "plate will again become hotter than the other by conduction",
+        "mathpix_content": " plate will again become hotter than the other by conduction",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 15,
+        "type": "text",
+        "content": "from within.",
+        "mathpix_content": " from within.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 16,
+        "type": "text",
+        "content": "Now an electrical phenomenon exactly analogous to this can",
+        "mathpix_content": "\n\nNow an electrical phenomenon exactly analogous to this can",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 17,
+        "type": "text",
+        "content": "be produced, and actually occurs in telegraph cables, but its",
+        "mathpix_content": " be produced, and actually occurs in telegraph cables, but its",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 18,
+        "type": "text",
+        "content": "mathematical laws, though exactly agreeing with those of heat,",
+        "mathpix_content": " mathematical laws, though exactly agreeing with those of heat,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 19,
+        "type": "text",
+        "content": "differ entirely from those of the stratified condenser.",
+        "mathpix_content": " differ entirely from those of the stratified condenser.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 20,
+        "type": "text",
+        "content": "In the case of heat there is true absorption of the heat into",
+        "mathpix_content": "\n\nIn the case of heat there is true absorption of the heat into",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 21,
+        "type": "text",
+        "content": "the substance with the result of making it hot. To produce a",
+        "mathpix_content": " the substance with the result of making it hot. To produce a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 22,
+        "type": "text",
+        "content": "truly analogous phenomenon in electricity is impossible, but we",
+        "mathpix_content": " truly analogous phenomenon in electricity is impossible, but we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 23,
+        "type": "text",
+        "content": "may imitate it in the following way in the form of a lecture-",
+        "mathpix_content": " may imitate it in the following way in the form of a lecture",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 24,
+        "type": "text",
+        "content": "room experiment.",
+        "mathpix_content": "room experiment.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 25,
+        "type": "text",
+        "content": "Let $A_{1}, A_{2}$, \\&c. be the inner conducting surfaces of a series of",
+        "mathpix_content": "\n\nLet $A_{1}, A_{2}$, \\&c. be the inner conducting surfaces of a series of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 26,
+        "type": "text",
+        "content": "condensers, of which $B_{0}, B_{1}, B_{2}$, \\&c. are the outer surfaces.",
+        "mathpix_content": " condensers, of which $B_{0}, B_{1}, B_{2}$, \\&c. are the outer surfaces.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 29,
+        "type": "text",
+        "content": "Let $A_{1}, A_{2}$, \\&c. be connected in series by connexions of resist-",
+        "mathpix_content": "\n\nLet $A_{1}, A_{2}$, \\&c. be connected in series by connexions of resist",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 30,
+        "type": "text",
+        "content": "ances $R$, and let a current be passed along this series from left to",
+        "mathpix_content": "ances $R$, and let a current be passed along this series from left to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 31,
+        "type": "text",
+        "content": "right.",
+        "mathpix_content": " right.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 493,
+        "line_number": 32,
+        "type": "text",
+        "content": "Let us first suppose the plates $B_{0}, B_{1}, B_{2}$, each insulated and",
+        "mathpix_content": "\n\nLet us first suppose the plates $B_{0}, B_{1}, B_{2}$, each insulated and",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 493,
+        "line_number": 33,
+        "type": "text",
+        "content": "free from charge. Then the total quantity of electricity on each",
+        "mathpix_content": " free from charge. Then the total quantity of electricity on each",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

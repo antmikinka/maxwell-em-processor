@@ -1,0 +1,318 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{2}\\right) . \\tag{9}",
+  "title_safe": "2right . tag9",
+  "page_start": 332,
+  "page_end": 332,
+  "content": {
+    "raw_text": "\n--- Page 332 ---\n193.]\nELLIPSES AND HYPERBOLAS.\n297\nSince, in this case, the axis of $y$ is a line of flow, we may\nsuppose it also impervious to electricity.\nWe may also consider the ellipses to be sections of the equi-\npotential surfaces due to an indefinitely long flat conductor of\nbreadth 2 , charged with half a unit of electricity per unit of\nlength. \\{This includes the charge on both sides of the flat\nconductor.\\}\nIf we make $\\psi$ the potential function, and $\\phi$ the function of\nflow, the case becomes that of an infinite plane from which\na strip of breadth 2 has been cut away and the plane on\none side charged to potential $\\pi$ while the other remains at\nzero potential.\nThese cases may be considered as particular cases of the\nquadric surfaces treated of in Chapter X. The forms of the\ncurves are given in Fig. X.\n\nExample VI.-Fig. XI.\n193.] Let us next consider $x^{\\prime}$ and $y^{\\prime}$ as functions of $x$ and $y$,\nwhere\n$$x^{\\prime}=b \\log \\sqrt{x^{2}+y^{2}}, \\quad y^{\\prime}=b \\tan ^{-1} \\frac{y}{x}$$\n(6)\n$x^{\\prime}$ and $y^{\\prime}$ will be also conjugate functions of the $\\phi$ and $\\psi$ of\nArt. 192.\nThe curves resulting from the transformation of Fig. X with\nrespect to these new coordinates are given in Fig. XI.\nIf $x^{\\prime}$ and $y^{\\prime}$ are rectangular coordinates, then the properties of\nthe axis of $x$ in the first figure will belong to a series of lines\nparallel to $x^{\\prime}$ in the second figure for which $y^{\\prime}=b n^{\\prime} \\pi$, where $n^{\\prime}$\nis any integer.\nThe positive values of $x^{\\prime}$ on these lines will correspond to\nvalues of $x$ greater than unity, for which, as we have already\nseen,\n$$\\psi=n \\pi, \\quad \\phi=\\log \\left(x+\\sqrt{x^{2}-1}\\right)=\\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{\\left.e^{\\frac{2 x^{\\prime}}{b}}-1\\right)} .\\right.$$\n(7)\nThe negative values of $x^{\\prime}$ on the same lines will correspond\nto values of $x$ less than unity, for which, as we have seen,\n$$\\phi=0, \\quad \\psi=\\cos ^{-1} x=\\cos ^{-1} e^{\\frac{x^{\\prime}}{b}}$$\n(8)\nThe properties of the axis of $y$ in the first figure will belong\nto a series of lines in the second figure parallel to $x^{\\prime}$, for which\n$$y^{\\prime}=b \\pi\\left(n^{\\prime}+\\frac{1}{2}\\right) .$$\n(9)\n",
+    "mathpix_markdown": "\n--- Page 332 ---\n\n\nSince, in this case, the axis of $y$ is a line of flow, we may\n suppose it also impervious to electricity.\n\n\nWe may also consider the ellipses to be sections of the equi\npotential surfaces due to an indefinitely long flat conductor of\n breadth 2 , charged with half a unit of electricity per unit of\n length. \\{This includes the charge on both sides of the flat\n conductor.\\}\n\n\nIf we make $\\psi$ the potential function, and $\\phi$ the function of\n flow, the case becomes that of an infinite plane from which\n a strip of breadth 2 has been cut away and the plane on\n one side charged to potential $\\pi$ while the other remains at\n zero potential.\n\n\nThese cases may be considered as particular cases of the\n quadric surfaces treated of in Chapter X. The forms of the\n curves are given in Fig. X.\n\n\n\\section*{Example VI.-Fig. XI.}\n\n193.] Let us next consider $x^{\\prime}$ and $y^{\\prime}$ as functions of $x$ and $y$,\n where\n\n$$\\begin{equation*}\nx^{\\prime}=b \\log \\sqrt{x^{2}+y^{2}}, \\quad y^{\\prime}=b \\tan ^{-1} \\frac{y}{x} \\tag{6}\n\\end{equation*}$$\n\n$x^{\\prime}$ and $y^{\\prime}$ will be also conjugate functions of the $\\phi$ and $\\psi$ of\n Art. 192.\n\n\nThe curves resulting from the transformation of Fig. X with\n respect to these new coordinates are given in Fig. XI.\n\n\nIf $x^{\\prime}$ and $y^{\\prime}$ are rectangular coordinates, then the properties of\n the axis of $x$ in the first figure will belong to a series of lines\n parallel to $x^{\\prime}$ in the second figure for which $y^{\\prime}=b n^{\\prime} \\pi$, where $n^{\\prime}$\n is any integer.\n\n\nThe positive values of $x^{\\prime}$ on these lines will correspond to\n values of $x$ greater than unity, for which, as we have already\n seen,\n\n$$\\begin{equation*}\n\\psi=n \\pi, \\quad \\phi=\\log \\left(x+\\sqrt{x^{2}-1}\\right)=\\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{\\left.e^{\\frac{2 x^{\\prime}}{b}}-1\\right)} .\\right. \\tag{7}\n\\end{equation*}$$\n\n\nThe negative values of $x^{\\prime}$ on the same lines will correspond\n to values of $x$ less than unity, for which, as we have seen,\n\n$$\\begin{equation*}\n\\phi=0, \\quad \\psi=\\cos ^{-1} x=\\cos ^{-1} e^{\\frac{x^{\\prime}}{b}} \\tag{8}\n\\end{equation*}$$\n\n\nThe properties of the axis of $y$ in the first figure will belong\n to a series of lines in the second figure parallel to $x^{\\prime}$, for which\n\n$$\\begin{equation*}\ny^{\\prime}=b \\pi\\left(n^{\\prime}+\\frac{1}{2}\\right) . \\tag{9}\n\\end{equation*}$$\n",
+    "structured_lines": [
+      {
+        "page": 332,
+        "line_number": 4,
+        "type": "text",
+        "content": "Since, in this case, the axis of $y$ is a line of flow, we may",
+        "mathpix_content": "\n\nSince, in this case, the axis of $y$ is a line of flow, we may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 5,
+        "type": "text",
+        "content": "suppose it also impervious to electricity.",
+        "mathpix_content": " suppose it also impervious to electricity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 6,
+        "type": "text",
+        "content": "We may also consider the ellipses to be sections of the equi-",
+        "mathpix_content": "\n\nWe may also consider the ellipses to be sections of the equi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 7,
+        "type": "text",
+        "content": "potential surfaces due to an indefinitely long flat conductor of",
+        "mathpix_content": "potential surfaces due to an indefinitely long flat conductor of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 8,
+        "type": "text",
+        "content": "breadth 2 , charged with half a unit of electricity per unit of",
+        "mathpix_content": " breadth 2 , charged with half a unit of electricity per unit of",
+        "font_size": 27,
+        "confidence": 0.9853515625
+      },
+      {
+        "page": 332,
+        "line_number": 9,
+        "type": "text",
+        "content": "length. \\{This includes the charge on both sides of the flat",
+        "mathpix_content": " length. \\{This includes the charge on both sides of the flat",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 10,
+        "type": "text",
+        "content": "conductor.\\}",
+        "mathpix_content": " conductor.\\}",
+        "font_size": 27,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 332,
+        "line_number": 11,
+        "type": "text",
+        "content": "If we make $\\psi$ the potential function, and $\\phi$ the function of",
+        "mathpix_content": "\n\nIf we make $\\psi$ the potential function, and $\\phi$ the function of",
+        "font_size": 27,
+        "confidence": 0.98046875
+      },
+      {
+        "page": 332,
+        "line_number": 12,
+        "type": "text",
+        "content": "flow, the case becomes that of an infinite plane from which",
+        "mathpix_content": " flow, the case becomes that of an infinite plane from which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 13,
+        "type": "text",
+        "content": "a strip of breadth 2 has been cut away and the plane on",
+        "mathpix_content": " a strip of breadth 2 has been cut away and the plane on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 14,
+        "type": "text",
+        "content": "one side charged to potential $\\pi$ while the other remains at",
+        "mathpix_content": " one side charged to potential $\\pi$ while the other remains at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 15,
+        "type": "text",
+        "content": "zero potential.",
+        "mathpix_content": " zero potential.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 16,
+        "type": "text",
+        "content": "These cases may be considered as particular cases of the",
+        "mathpix_content": "\n\nThese cases may be considered as particular cases of the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 332,
+        "line_number": 17,
+        "type": "text",
+        "content": "quadric surfaces treated of in Chapter X. The forms of the",
+        "mathpix_content": " quadric surfaces treated of in Chapter X. The forms of the",
+        "font_size": 27,
+        "confidence": 0.918848991394043
+      },
+      {
+        "page": 332,
+        "line_number": 18,
+        "type": "text",
+        "content": "curves are given in Fig. X.",
+        "mathpix_content": " curves are given in Fig. X.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 20,
+        "type": "text",
+        "content": "Example VI.-Fig. XI.",
+        "mathpix_content": "\n\n\\section*{Example VI.-Fig. XI.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 21,
+        "type": "text",
+        "content": "193.] Let us next consider $x^{\\prime}$ and $y^{\\prime}$ as functions of $x$ and $y$,",
+        "mathpix_content": "\n193.] Let us next consider $x^{\\prime}$ and $y^{\\prime}$ as functions of $x$ and $y$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 22,
+        "type": "text",
+        "content": "where",
+        "mathpix_content": " where",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 26,
+        "type": "text",
+        "content": "$x^{\\prime}$ and $y^{\\prime}$ will be also conjugate functions of the $\\phi$ and $\\psi$ of",
+        "mathpix_content": "\n$x^{\\prime}$ and $y^{\\prime}$ will be also conjugate functions of the $\\phi$ and $\\psi$ of",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 332,
+        "line_number": 27,
+        "type": "text",
+        "content": "Art. 192.",
+        "mathpix_content": " Art. 192.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 28,
+        "type": "text",
+        "content": "The curves resulting from the transformation of Fig. X with",
+        "mathpix_content": "\n\nThe curves resulting from the transformation of Fig. X with",
+        "font_size": 27,
+        "confidence": 0.90966796875
+      },
+      {
+        "page": 332,
+        "line_number": 29,
+        "type": "text",
+        "content": "respect to these new coordinates are given in Fig. XI.",
+        "mathpix_content": " respect to these new coordinates are given in Fig. XI.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 30,
+        "type": "text",
+        "content": "If $x^{\\prime}$ and $y^{\\prime}$ are rectangular coordinates, then the properties of",
+        "mathpix_content": "\n\nIf $x^{\\prime}$ and $y^{\\prime}$ are rectangular coordinates, then the properties of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 31,
+        "type": "text",
+        "content": "the axis of $x$ in the first figure will belong to a series of lines",
+        "mathpix_content": " the axis of $x$ in the first figure will belong to a series of lines",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 32,
+        "type": "text",
+        "content": "parallel to $x^{\\prime}$ in the second figure for which $y^{\\prime}=b n^{\\prime} \\pi$, where $n^{\\prime}$",
+        "mathpix_content": " parallel to $x^{\\prime}$ in the second figure for which $y^{\\prime}=b n^{\\prime} \\pi$, where $n^{\\prime}$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 33,
+        "type": "text",
+        "content": "is any integer.",
+        "mathpix_content": " is any integer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 34,
+        "type": "text",
+        "content": "The positive values of $x^{\\prime}$ on these lines will correspond to",
+        "mathpix_content": "\n\nThe positive values of $x^{\\prime}$ on these lines will correspond to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 35,
+        "type": "text",
+        "content": "values of $x$ greater than unity, for which, as we have already",
+        "mathpix_content": " values of $x$ greater than unity, for which, as we have already",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 36,
+        "type": "text",
+        "content": "seen,",
+        "mathpix_content": " seen,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 40,
+        "type": "text",
+        "content": "The negative values of $x^{\\prime}$ on the same lines will correspond",
+        "mathpix_content": "\n\nThe negative values of $x^{\\prime}$ on the same lines will correspond",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 41,
+        "type": "text",
+        "content": "to values of $x$ less than unity, for which, as we have seen,",
+        "mathpix_content": " to values of $x$ less than unity, for which, as we have seen,",
+        "font_size": 27,
+        "confidence": 0.9677889347076416
+      },
+      {
+        "page": 332,
+        "line_number": 45,
+        "type": "text",
+        "content": "The properties of the axis of $y$ in the first figure will belong",
+        "mathpix_content": "\n\nThe properties of the axis of $y$ in the first figure will belong",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 332,
+        "line_number": 46,
+        "type": "text",
+        "content": "to a series of lines in the second figure parallel to $x^{\\prime}$, for which",
+        "mathpix_content": " to a series of lines in the second figure parallel to $x^{\\prime}$, for which",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

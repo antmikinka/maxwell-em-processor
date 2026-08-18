@@ -1,0 +1,381 @@
+{
+  "article_id": "article_62",
+  "article_number": 62,
+  "title_original": ".] The peculiar features of the theory are:-",
+  "title_safe": "The peculiar features of the theory areCOLON",
+  "page_start": 103,
+  "page_end": 103,
+  "content": {
+    "raw_text": "\n--- Page 103 ---\n68\nELECTROSTATIC PHENOMENA.\n[62.\nalways the same. This result appears at first sight in direct\ncontradiction to the fact that we can charge a conductor and\nthen introduce it into the closed space, and so alter the quan-\ntity of electricity within that space. But we must remember\nthat the ordinary theory takes no account of the electric dis-\nplacement in the substance of dielectrics which we have been\ninvestigating, but confines its attention to the electrification at\nthe bounding surfaces of the conductors and dielectrics. In the\ncase of the charged conductor let us suppose the charge to be\npositive, then if the surrounding dielectric extends on all sides\nbeyond the closed surface there will be electric polarization,\naccompanied with displacement from within outwards all over\nthe closed surface, and the surface-integral of the displacement\ntaken over the surface will be equal to the charge on the con-\nductor within.\nThus when the charged conductor is introduced into the closed\nspace there is immediately a displacement of a quantity of elec-\ntricity equal to the charge through the surface from within out-\nwards, and the whole quantity within the surface remains the\nsame.\nThe theory of electric polarization will be discussed at\ngreater length in Chapter V, and a mechanical illustration of\nit will be given in Art. 334, but its importance cannot be fully\nunderstood till we arrive at the study of electromagnetic phe-\nnomena.\n62.] The peculiar features of the theory are:-\nThat the energy of electrification resides in the dielectric\nmedium, whether that medium be solid, liquid, or gaseous, dense\nor rare, or even what is called a vacuum, provided it be still\ncapable of transmitting electrical action.\nThat the energy in any part of the medium is stored up in\nthe form of a state of constraint called electric polarization, the\namount of which depends on the resultant electromotive intensity\nat the place.\nThat electromotive force acting on a dielectric produces what\nwe have called electric displacement, the relation between the in-\ntensity and the displacement being in the most general case of a\nkind to be afterwards investigated in treating of conduction, but\nin the most important cases the displacement is in the same\ndirection as the intensity, and is numerically equal to the intensity\n",
+    "mathpix_markdown": "\n--- Page 103 ---\n\nalways the same. This result appears at first sight in direct\n contradiction to the fact that we can charge a conductor and\n then introduce it into the closed space, and so alter the quan\ntity of electricity within that space. But we must remember\n that the ordinary theory takes no account of the electric dis\nplacement in the substance of dielectrics which we have been\n investigating, but confines its attention to the electrification at\n the bounding surfaces of the conductors and dielectrics. In the\n case of the charged conductor let us suppose the charge to be\n positive, then if the surrounding dielectric extends on all sides\n beyond the closed surface there will be electric polarization,\n accompanied with displacement from within outwards all over\n the closed surface, and the surface-integral of the displacement\n taken over the surface will be equal to the charge on the con\nductor within.\n\n\nThus when the charged conductor is introduced into the closed\n space there is immediately a displacement of a quantity of elec\ntricity equal to the charge through the surface from within out\nwards, and the whole quantity within the surface remains the\n same.\n\n\nThe theory of electric polarization will be discussed at\n greater length in Chapter V, and a mechanical illustration of\n it will be given in Art. 334, but its importance cannot be fully\n understood till we arrive at the study of electromagnetic phe\nnomena.\n\n62.] The peculiar features of the theory are:-\n\n\nThat the energy of electrification resides in the dielectric\n medium, whether that medium be solid, liquid, or gaseous, dense\n or rare, or even what is called a vacuum, provided it be still\n capable of transmitting electrical action.\n\n\nThat the energy in any part of the medium is stored up in\n the form of a state of constraint called electric polarization, the\n amount of which depends on the resultant electromotive intensity\n at the place.\n\n\nThat electromotive force acting on a dielectric produces what\n we have called electric displacement, the relation between the in\ntensity and the displacement being in the most general case of a\n kind to be afterwards investigated in treating of conduction, but\n in the most important cases the displacement is in the same\n direction as the intensity, and is numerically equal to the intensity\n",
+    "structured_lines": [
+      {
+        "page": 103,
+        "line_number": 4,
+        "type": "text",
+        "content": "always the same. This result appears at first sight in direct",
+        "mathpix_content": "\nalways the same. This result appears at first sight in direct",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 5,
+        "type": "text",
+        "content": "contradiction to the fact that we can charge a conductor and",
+        "mathpix_content": " contradiction to the fact that we can charge a conductor and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 6,
+        "type": "text",
+        "content": "then introduce it into the closed space, and so alter the quan-",
+        "mathpix_content": " then introduce it into the closed space, and so alter the quan",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 7,
+        "type": "text",
+        "content": "tity of electricity within that space. But we must remember",
+        "mathpix_content": "tity of electricity within that space. But we must remember",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 8,
+        "type": "text",
+        "content": "that the ordinary theory takes no account of the electric dis-",
+        "mathpix_content": " that the ordinary theory takes no account of the electric dis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 9,
+        "type": "text",
+        "content": "placement in the substance of dielectrics which we have been",
+        "mathpix_content": "placement in the substance of dielectrics which we have been",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 103,
+        "line_number": 10,
+        "type": "text",
+        "content": "investigating, but confines its attention to the electrification at",
+        "mathpix_content": " investigating, but confines its attention to the electrification at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 11,
+        "type": "text",
+        "content": "the bounding surfaces of the conductors and dielectrics. In the",
+        "mathpix_content": " the bounding surfaces of the conductors and dielectrics. In the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 12,
+        "type": "text",
+        "content": "case of the charged conductor let us suppose the charge to be",
+        "mathpix_content": " case of the charged conductor let us suppose the charge to be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 13,
+        "type": "text",
+        "content": "positive, then if the surrounding dielectric extends on all sides",
+        "mathpix_content": " positive, then if the surrounding dielectric extends on all sides",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 14,
+        "type": "text",
+        "content": "beyond the closed surface there will be electric polarization,",
+        "mathpix_content": " beyond the closed surface there will be electric polarization,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 15,
+        "type": "text",
+        "content": "accompanied with displacement from within outwards all over",
+        "mathpix_content": " accompanied with displacement from within outwards all over",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 16,
+        "type": "text",
+        "content": "the closed surface, and the surface-integral of the displacement",
+        "mathpix_content": " the closed surface, and the surface-integral of the displacement",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 17,
+        "type": "text",
+        "content": "taken over the surface will be equal to the charge on the con-",
+        "mathpix_content": " taken over the surface will be equal to the charge on the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 18,
+        "type": "text",
+        "content": "ductor within.",
+        "mathpix_content": "ductor within.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 19,
+        "type": "text",
+        "content": "Thus when the charged conductor is introduced into the closed",
+        "mathpix_content": "\n\nThus when the charged conductor is introduced into the closed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 20,
+        "type": "text",
+        "content": "space there is immediately a displacement of a quantity of elec-",
+        "mathpix_content": " space there is immediately a displacement of a quantity of elec",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 21,
+        "type": "text",
+        "content": "tricity equal to the charge through the surface from within out-",
+        "mathpix_content": "tricity equal to the charge through the surface from within out",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 22,
+        "type": "text",
+        "content": "wards, and the whole quantity within the surface remains the",
+        "mathpix_content": "wards, and the whole quantity within the surface remains the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 23,
+        "type": "text",
+        "content": "same.",
+        "mathpix_content": " same.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 24,
+        "type": "text",
+        "content": "The theory of electric polarization will be discussed at",
+        "mathpix_content": "\n\nThe theory of electric polarization will be discussed at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 25,
+        "type": "text",
+        "content": "greater length in Chapter V, and a mechanical illustration of",
+        "mathpix_content": " greater length in Chapter V, and a mechanical illustration of",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 103,
+        "line_number": 26,
+        "type": "text",
+        "content": "it will be given in Art. 334, but its importance cannot be fully",
+        "mathpix_content": " it will be given in Art. 334, but its importance cannot be fully",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 27,
+        "type": "text",
+        "content": "understood till we arrive at the study of electromagnetic phe-",
+        "mathpix_content": " understood till we arrive at the study of electromagnetic phe",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 28,
+        "type": "text",
+        "content": "nomena.",
+        "mathpix_content": "nomena.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 29,
+        "type": "text",
+        "content": "62.] The peculiar features of the theory are:-",
+        "mathpix_content": "\n62.] The peculiar features of the theory are:-",
+        "font_size": 27,
+        "confidence": 0.8024382591247559
+      },
+      {
+        "page": 103,
+        "line_number": 30,
+        "type": "text",
+        "content": "That the energy of electrification resides in the dielectric",
+        "mathpix_content": "\n\nThat the energy of electrification resides in the dielectric",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 31,
+        "type": "text",
+        "content": "medium, whether that medium be solid, liquid, or gaseous, dense",
+        "mathpix_content": " medium, whether that medium be solid, liquid, or gaseous, dense",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 32,
+        "type": "text",
+        "content": "or rare, or even what is called a vacuum, provided it be still",
+        "mathpix_content": " or rare, or even what is called a vacuum, provided it be still",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 33,
+        "type": "text",
+        "content": "capable of transmitting electrical action.",
+        "mathpix_content": " capable of transmitting electrical action.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 34,
+        "type": "text",
+        "content": "That the energy in any part of the medium is stored up in",
+        "mathpix_content": "\n\nThat the energy in any part of the medium is stored up in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 35,
+        "type": "text",
+        "content": "the form of a state of constraint called electric polarization, the",
+        "mathpix_content": " the form of a state of constraint called electric polarization, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 36,
+        "type": "text",
+        "content": "amount of which depends on the resultant electromotive intensity",
+        "mathpix_content": " amount of which depends on the resultant electromotive intensity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 37,
+        "type": "text",
+        "content": "at the place.",
+        "mathpix_content": " at the place.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 38,
+        "type": "text",
+        "content": "That electromotive force acting on a dielectric produces what",
+        "mathpix_content": "\n\nThat electromotive force acting on a dielectric produces what",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 39,
+        "type": "text",
+        "content": "we have called electric displacement, the relation between the in-",
+        "mathpix_content": " we have called electric displacement, the relation between the in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 40,
+        "type": "text",
+        "content": "tensity and the displacement being in the most general case of a",
+        "mathpix_content": "tensity and the displacement being in the most general case of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 41,
+        "type": "text",
+        "content": "kind to be afterwards investigated in treating of conduction, but",
+        "mathpix_content": " kind to be afterwards investigated in treating of conduction, but",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 42,
+        "type": "text",
+        "content": "in the most important cases the displacement is in the same",
+        "mathpix_content": " in the most important cases the displacement is in the same",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 103,
+        "line_number": 43,
+        "type": "text",
+        "content": "direction as the intensity, and is numerically equal to the intensity",
+        "mathpix_content": " direction as the intensity, and is numerically equal to the intensity",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

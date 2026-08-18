@@ -1,0 +1,521 @@
+{
+  "chapter_id": "chapter_8",
+  "chapter_number": 8,
+  "title": "}$. If $A_{8}$ is completely cut off from $A_{r}$ by the closed surface",
+  "page_start": 147,
+  "page_end": 147,
+  "articles": [
+    {
+      "article_id": "article_112",
+      "article_number": 112,
+      "title_original": "SYSTEM OF CONDUCTORS.",
+      "title_safe": "SYSTEM OF CONDUCTORS",
+      "page_start": 147,
+      "page_end": 146,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "c.",
+      "title_safe": "c",
+      "page_start": 147,
+      "page_end": 146,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "c.] None of the coefficients of induction are positive, and the",
+      "title_safe": "c. None of the coefficients of induction are positive and th",
+      "page_start": 147,
+      "page_end": 146,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$, because no part of the field has a lower potential",
+      "title_safe": "because no part of the field has a lower potential",
+      "page_start": 147,
+      "page_end": 146,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "}$. If $A_{8}$ is completely cut off from $A_{r}$ by the closed surface",
+      "title_safe": "If A8 is completely cut off from Ar by the closed surface",
+      "page_start": 147,
+      "page_end": 146,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "c.] None of the coefficients of induction are positive, and the",
+      "title_safe": "c. None of the coefficients of induction are positive and th",
+      "page_start": 147,
+      "page_end": 146,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$, because no part of the field has a lower potential",
+      "title_safe": "because no part of the field has a lower potential",
+      "page_start": 147,
+      "page_end": 146,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "}$. If $A_{8}$ is completely cut off from $A_{r}$ by the closed surface",
+      "title_safe": "If A8 is completely cut off from Ar by the closed surface",
+      "page_start": 147,
+      "page_end": 147,
+      "content": {
+        "raw_text": "\n--- Page 147 ---\n112\nSYSTEM OF CONDUCTORS.\n[89 c.\nFor consider the lines of force issuing from the charged con-\nductor $A_{r}$. The charge is measured by the excess of the number\nof lines which issue from it over those which terminate in it.\nHence, if the conductor has no charge, the number of lines\nwhich enter the conductor must be equal to the number which\nissue from it. The lines which enter the conductor come from\nplaces of greater potential, and those which issue from it go to\nplaces of less potential. Hence the potential of an uncharged\nconductor must be intermediate between the highest and lowest\npotentials in the field, and therefore the highest and lowest\npotentials cannot belong to any of the uncharged bodies.\nThe highest potential must therefore be $p_{r r}$, that of the charged\nbody $A_{\\boldsymbol{r}}$, the lowest must be that of space at an infinite distance,\nwhich is zero, and all the other potentials such as $p_{\\mathbf{r}}$ must lie\nbetween $p_{r r}$ and zero.\nIf $A_{t}$ completely surrounds $A_{t}$, then $p_{\\mathrm{r} t}=p_{\\mathrm{r} t}$.\n89\nc.] None of the coefficients of induction are positive, and the\nsum of all those belonging to a single conductor is not\nnumerically greater than the coefficient of capacity of that\nconductor, which is always positive.\nFor let $A_{r}$ be maintained at potential unity while all the other\nconductors are kept at potential zero, then the charge on $A_{\\tau}$\nis $q_{r r}$, and that on any other conductor $A_{s}$ is $q_{r s}$.\nThe number of lines of force which issue from $A_{r}$ is $q_{r r}$. Of\nthese some terminate in the other conductors, and some may\nproceed to infinity, but no lines of force can pass between any\nof the other conductors or from them to infinity, because they\nare all at potential zero.\nNo line of force can issue from any of the other conductors\nsuch as $A_{0}$, because no part of the field has a lower potential\nthan $A_{8}$. If $A_{8}$ is completely cut off from $A_{r}$ by the closed surface\nof one of the conductors, then $q_{r s}$ is zero. If $A$, is not thus cut\noff, $q_{r s}$ is a negative quantity.\nIf one of the conductors $A_{c}$ completely surrounds $A_{r}$, then all\nthe lines of force from $A_{r}$ fall on $A_{t}$ and the conductors within\nit, and the sum of the coefficients of induction of these con-\nductors with respect to $A_{r}$ will be equal to $q_{r r}$ with its sign\nchanged. But if $A_{r}$ is not completely surrounded by a conductor\n",
+        "mathpix_markdown": "\n--- Page 147 ---\n\n\nFor consider the lines of force issuing from the charged con\nductor $A_{r}$. The charge is measured by the excess of the number\n of lines which issue from it over those which terminate in it.\n Hence, if the conductor has no charge, the number of lines\n which enter the conductor must be equal to the number which\n issue from it. The lines which enter the conductor come from\n places of greater potential, and those which issue from it go to\n places of less potential. Hence the potential of an uncharged\n conductor must be intermediate between the highest and lowest\n potentials in the field, and therefore the highest and lowest\n potentials cannot belong to any of the uncharged bodies.\n\n\nThe highest potential must therefore be $p_{r r}$, that of the charged\n body $A_{\\boldsymbol{r}}$, the lowest must be that of space at an infinite distance,\n which is zero, and all the other potentials such as $p_{\\mathbf{r}}$ must lie\n between $p_{r r}$ and zero.\n\n\nIf $A_{t}$ completely surrounds $A_{t}$, then $p_{\\mathrm{r} t}=p_{\\mathrm{r} t}$.\n\n89\n c.] None of the coefficients of induction are positive, and the\n sum of all those belonging to a single conductor is not\n numerically greater than the coefficient of capacity of that\n conductor, which is always positive.\n\nFor let $A_{r}$ be maintained at potential unity while all the other\n conductors are kept at potential zero, then the charge on $A_{\\tau}$\n is $q_{r r}$, and that on any other conductor $A_{s}$ is $q_{r s}$.\n\n\nThe number of lines of force which issue from $A_{r}$ is $q_{r r}$. Of\n these some terminate in the other conductors, and some may\n proceed to infinity, but no lines of force can pass between any\n of the other conductors or from them to infinity, because they\n are all at potential zero.\n\n\nNo line of force can issue from any of the other conductors\n such as $A_{0}$, because no part of the field has a lower potential\n than $A_{8}$. If $A_{8}$ is completely cut off from $A_{r}$ by the closed surface\n of one of the conductors, then $q_{r s}$ is zero. If $A$, is not thus cut\n off, $q_{r s}$ is a negative quantity.\n\n\nIf one of the conductors $A_{c}$ completely surrounds $A_{r}$, then all\n the lines of force from $A_{r}$ fall on $A_{t}$ and the conductors within\n it, and the sum of the coefficients of induction of these con\nductors with respect to $A_{r}$ will be equal to $q_{r r}$ with its sign\n changed. But if $A_{r}$ is not completely surrounded by a conductor\n",
+        "structured_lines": [
+          {
+            "page": 147,
+            "line_number": 4,
+            "type": "text",
+            "content": "For consider the lines of force issuing from the charged con-",
+            "mathpix_content": "\n\nFor consider the lines of force issuing from the charged con",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 5,
+            "type": "text",
+            "content": "ductor $A_{r}$. The charge is measured by the excess of the number",
+            "mathpix_content": "ductor $A_{r}$. The charge is measured by the excess of the number",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 147,
+            "line_number": 6,
+            "type": "text",
+            "content": "of lines which issue from it over those which terminate in it.",
+            "mathpix_content": " of lines which issue from it over those which terminate in it.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 7,
+            "type": "text",
+            "content": "Hence, if the conductor has no charge, the number of lines",
+            "mathpix_content": " Hence, if the conductor has no charge, the number of lines",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 8,
+            "type": "text",
+            "content": "which enter the conductor must be equal to the number which",
+            "mathpix_content": " which enter the conductor must be equal to the number which",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 9,
+            "type": "text",
+            "content": "issue from it. The lines which enter the conductor come from",
+            "mathpix_content": " issue from it. The lines which enter the conductor come from",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 10,
+            "type": "text",
+            "content": "places of greater potential, and those which issue from it go to",
+            "mathpix_content": " places of greater potential, and those which issue from it go to",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 11,
+            "type": "text",
+            "content": "places of less potential. Hence the potential of an uncharged",
+            "mathpix_content": " places of less potential. Hence the potential of an uncharged",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 12,
+            "type": "text",
+            "content": "conductor must be intermediate between the highest and lowest",
+            "mathpix_content": " conductor must be intermediate between the highest and lowest",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 13,
+            "type": "text",
+            "content": "potentials in the field, and therefore the highest and lowest",
+            "mathpix_content": " potentials in the field, and therefore the highest and lowest",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 14,
+            "type": "text",
+            "content": "potentials cannot belong to any of the uncharged bodies.",
+            "mathpix_content": " potentials cannot belong to any of the uncharged bodies.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 15,
+            "type": "text",
+            "content": "The highest potential must therefore be $p_{r r}$, that of the charged",
+            "mathpix_content": "\n\nThe highest potential must therefore be $p_{r r}$, that of the charged",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 16,
+            "type": "text",
+            "content": "body $A_{\\boldsymbol{r}}$, the lowest must be that of space at an infinite distance,",
+            "mathpix_content": " body $A_{\\boldsymbol{r}}$, the lowest must be that of space at an infinite distance,",
+            "font_size": 34,
+            "confidence": 0.7135186195373535
+          },
+          {
+            "page": 147,
+            "line_number": 17,
+            "type": "text",
+            "content": "which is zero, and all the other potentials such as $p_{\\mathbf{r}}$ must lie",
+            "mathpix_content": " which is zero, and all the other potentials such as $p_{\\mathbf{r}}$ must lie",
+            "font_size": 34,
+            "confidence": 0.6269532081205398
+          },
+          {
+            "page": 147,
+            "line_number": 18,
+            "type": "text",
+            "content": "between $p_{r r}$ and zero.",
+            "mathpix_content": " between $p_{r r}$ and zero.",
+            "font_size": 34,
+            "confidence": 0.671875
+          },
+          {
+            "page": 147,
+            "line_number": 19,
+            "type": "text",
+            "content": "If $A_{t}$ completely surrounds $A_{t}$, then $p_{\\mathrm{r} t}=p_{\\mathrm{r} t}$.",
+            "mathpix_content": "\n\nIf $A_{t}$ completely surrounds $A_{t}$, then $p_{\\mathrm{r} t}=p_{\\mathrm{r} t}$.",
+            "font_size": 34,
+            "confidence": 0.18112550998639065
+          },
+          {
+            "page": 147,
+            "line_number": 20,
+            "type": "text",
+            "content": "89",
+            "mathpix_content": "\n89",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 21,
+            "type": "text",
+            "content": "c.] None of the coefficients of induction are positive, and the",
+            "mathpix_content": " c.] None of the coefficients of induction are positive, and the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 22,
+            "type": "text",
+            "content": "sum of all those belonging to a single conductor is not",
+            "mathpix_content": " sum of all those belonging to a single conductor is not",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 23,
+            "type": "text",
+            "content": "numerically greater than the coefficient of capacity of that",
+            "mathpix_content": " numerically greater than the coefficient of capacity of that",
+            "font_size": 34,
+            "confidence": 0.9965834617614746
+          },
+          {
+            "page": 147,
+            "line_number": 24,
+            "type": "text",
+            "content": "conductor, which is always positive.",
+            "mathpix_content": " conductor, which is always positive.",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 147,
+            "line_number": 25,
+            "type": "text",
+            "content": "For let $A_{r}$ be maintained at potential unity while all the other",
+            "mathpix_content": "\nFor let $A_{r}$ be maintained at potential unity while all the other",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 26,
+            "type": "text",
+            "content": "conductors are kept at potential zero, then the charge on $A_{\\tau}$",
+            "mathpix_content": " conductors are kept at potential zero, then the charge on $A_{\\tau}$",
+            "font_size": 34,
+            "confidence": 0.68505859375
+          },
+          {
+            "page": 147,
+            "line_number": 27,
+            "type": "text",
+            "content": "is $q_{r r}$, and that on any other conductor $A_{s}$ is $q_{r s}$.",
+            "mathpix_content": " is $q_{r r}$, and that on any other conductor $A_{s}$ is $q_{r s}$.",
+            "font_size": 34,
+            "confidence": 0.9732518196105957
+          },
+          {
+            "page": 147,
+            "line_number": 28,
+            "type": "text",
+            "content": "The number of lines of force which issue from $A_{r}$ is $q_{r r}$. Of",
+            "mathpix_content": "\n\nThe number of lines of force which issue from $A_{r}$ is $q_{r r}$. Of",
+            "font_size": 34,
+            "confidence": 0.98779296875
+          },
+          {
+            "page": 147,
+            "line_number": 29,
+            "type": "text",
+            "content": "these some terminate in the other conductors, and some may",
+            "mathpix_content": " these some terminate in the other conductors, and some may",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 30,
+            "type": "text",
+            "content": "proceed to infinity, but no lines of force can pass between any",
+            "mathpix_content": " proceed to infinity, but no lines of force can pass between any",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 31,
+            "type": "text",
+            "content": "of the other conductors or from them to infinity, because they",
+            "mathpix_content": " of the other conductors or from them to infinity, because they",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 147,
+            "line_number": 32,
+            "type": "text",
+            "content": "are all at potential zero.",
+            "mathpix_content": " are all at potential zero.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 33,
+            "type": "text",
+            "content": "No line of force can issue from any of the other conductors",
+            "mathpix_content": "\n\nNo line of force can issue from any of the other conductors",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 34,
+            "type": "text",
+            "content": "such as $A_{0}$, because no part of the field has a lower potential",
+            "mathpix_content": " such as $A_{0}$, because no part of the field has a lower potential",
+            "font_size": 34,
+            "confidence": 0.88671875
+          },
+          {
+            "page": 147,
+            "line_number": 35,
+            "type": "text",
+            "content": "than $A_{8}$. If $A_{8}$ is completely cut off from $A_{r}$ by the closed surface",
+            "mathpix_content": " than $A_{8}$. If $A_{8}$ is completely cut off from $A_{r}$ by the closed surface",
+            "font_size": 34,
+            "confidence": 0.3617710620233572
+          },
+          {
+            "page": 147,
+            "line_number": 36,
+            "type": "text",
+            "content": "of one of the conductors, then $q_{r s}$ is zero. If $A$, is not thus cut",
+            "mathpix_content": " of one of the conductors, then $q_{r s}$ is zero. If $A$, is not thus cut",
+            "font_size": 34,
+            "confidence": 0.99560546875
+          },
+          {
+            "page": 147,
+            "line_number": 37,
+            "type": "text",
+            "content": "off, $q_{r s}$ is a negative quantity.",
+            "mathpix_content": " off, $q_{r s}$ is a negative quantity.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 38,
+            "type": "text",
+            "content": "If one of the conductors $A_{c}$ completely surrounds $A_{r}$, then all",
+            "mathpix_content": "\n\nIf one of the conductors $A_{c}$ completely surrounds $A_{r}$, then all",
+            "font_size": 34,
+            "confidence": 0.48099637031555176
+          },
+          {
+            "page": 147,
+            "line_number": 39,
+            "type": "text",
+            "content": "the lines of force from $A_{r}$ fall on $A_{t}$ and the conductors within",
+            "mathpix_content": " the lines of force from $A_{r}$ fall on $A_{t}$ and the conductors within",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 40,
+            "type": "text",
+            "content": "it, and the sum of the coefficients of induction of these con-",
+            "mathpix_content": " it, and the sum of the coefficients of induction of these con",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 41,
+            "type": "text",
+            "content": "ductors with respect to $A_{r}$ will be equal to $q_{r r}$ with its sign",
+            "mathpix_content": "ductors with respect to $A_{r}$ will be equal to $q_{r r}$ with its sign",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 147,
+            "line_number": 42,
+            "type": "text",
+            "content": "changed. But if $A_{r}$ is not completely surrounded by a conductor",
+            "mathpix_content": " changed. But if $A_{r}$ is not completely surrounded by a conductor",
+            "font_size": 34,
+            "confidence": 0.98974609375
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

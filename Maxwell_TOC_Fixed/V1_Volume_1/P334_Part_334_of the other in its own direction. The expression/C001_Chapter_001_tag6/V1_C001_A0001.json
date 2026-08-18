@@ -1,0 +1,264 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": ") ; \\tag{6}",
+  "title_safe": "tag6",
+  "page_start": 162,
+  "page_end": 162,
+  "content": {
+    "raw_text": "\n--- Page 162 ---\n96 a.]\nGREEN'S THEOREM.\n127\nThe reader who is not acquainted with the method of Quater-\nnions may, if it pleases him, regard the expressions $\\nabla^{2} \\Psi$ and\n$S . \\nabla \\Psi \\nabla \\Phi$ as mere conventional abbreviations for the quantities to\nwhich they are equated above and as in what follows we shall\nemploy ordinary Cartesian methods, it will not be necessary to\nremember the Quaternion interpretation of these expressions.\nThe reason, however, why we use as our abbreviations these ex-\npressions and not single letters arbitrarily chosen, is, that in the\nlanguage of Quaternions they represent fully the quantities to\nwhich they are equated. The operator $\\nabla$ applied to the scalar\nfunction $\\Psi$ gives the space-variation of that function, and the\nexpression - $S . \\nabla \\Psi \\nabla \\Phi$ is the scalar part of the product of two\nspace-variations, or the product of either space-variation into the\nresolved part of the other in its own direction. The expression\n$\\frac{d \\Psi}{d v}$ is usually written in Quaternions $S . U_{v} \\nabla \\Psi, U_{v}$ being a unit-\nvector in the direction of the normal. There does not seem\nmuch advantage in using this notation here, but we shall find\nthe advantage of doing so when we come to deal with anisotropic\n\\{non-isotropic\\} media.\n\nStatement of Green's Theorem.\nLet $\\Psi$ and $\\Phi$ be two functions of $x, y, z$, which, with their first\nderivatives, are finite and continuous within the acyclic region s,\nbounded by the closed surface $s$, then\n$$\\begin{aligned}\n\\iint \\Psi \\frac{d \\Phi}{d \\nu} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s & =\\iiint S \\cdot \\nabla \\Psi \\nabla \\Phi d s \\\\\n& =\\iint \\Phi \\frac{d \\Psi}{d v} d s-\\iiint \\Phi \\nabla^{2} \\Psi d s\n\\end{aligned}$$\n(4)\nwhere the double integrals are to be extended over the whole\nclosed surface 8 , and the triple integrals throughout the field, $s$,\nenclosed by that surface.\nTo prove this, let us write, in Art. 21, Theorem III,\n$$\\begin{gathered}\nX=\\Psi \\frac{d \\Phi}{d x}, \\quad Y=\\Psi \\frac{d \\Phi}{d y}, \\quad Z=\\Psi \\frac{d \\Phi}{d z}, \\\\\n\\text { then } \\quad R \\cos \\epsilon=-\\Psi\\left(l \\frac{d \\Phi}{d x}+m \\frac{d \\Phi}{d y}+n \\frac{d \\Phi}{d z}\\right) \\\\\n=-\\Psi \\frac{d \\Phi}{d \\nu}, \\text { by }(1) ;\n\\end{gathered}$$\n(5)\n(6)\n",
+    "mathpix_markdown": "\n--- Page 162 ---\n\n\nThe reader who is not acquainted with the method of Quater\nnions may, if it pleases him, regard the expressions $\\nabla^{2} \\Psi$ and\n $S . \\nabla \\Psi \\nabla \\Phi$ as mere conventional abbreviations for the quantities to\n which they are equated above and as in what follows we shall\n employ ordinary Cartesian methods, it will not be necessary to\n remember the Quaternion interpretation of these expressions.\n The reason, however, why we use as our abbreviations these ex\npressions and not single letters arbitrarily chosen, is, that in the\n language of Quaternions they represent fully the quantities to\n which they are equated. The operator $\\nabla$ applied to the scalar\n function $\\Psi$ gives the space-variation of that function, and the\n expression - $S . \\nabla \\Psi \\nabla \\Phi$ is the scalar part of the product of two\n space-variations, or the product of either space-variation into the\n resolved part of the other in its own direction. The expression\n $\\frac{d \\Psi}{d v}$ is usually written in Quaternions $S . U_{v} \\nabla \\Psi, U_{v}$ being a unit\nvector in the direction of the normal. There does not seem\n much advantage in using this notation here, but we shall find\n the advantage of doing so when we come to deal with anisotropic\n \\{non-isotropic\\} media.\n\n\n\\section*{Statement of Green's Theorem.}\n\n\nLet $\\Psi$ and $\\Phi$ be two functions of $x, y, z$, which, with their first\n derivatives, are finite and continuous within the acyclic region s,\n bounded by the closed surface $s$, then\n\n$$\\begin{align*}\n\\iint \\Psi \\frac{d \\Phi}{d \\nu} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s & =\\iiint S \\cdot \\nabla \\Psi \\nabla \\Phi d s \\\\\n& =\\iint \\Phi \\frac{d \\Psi}{d v} d s-\\iiint \\Phi \\nabla^{2} \\Psi d s \\tag{4}\n\\end{align*}$$\n\nwhere the double integrals are to be extended over the whole\n closed surface 8 , and the triple integrals throughout the field, $s$,\n enclosed by that surface.\n\n\nTo prove this, let us write, in Art. 21, Theorem III,\n\n$$\\begin{gather*}\nX=\\Psi \\frac{d \\Phi}{d x}, \\quad Y=\\Psi \\frac{d \\Phi}{d y}, \\quad Z=\\Psi \\frac{d \\Phi}{d z},  \\tag{5}\\\\\n\\text { then } \\quad R \\cos \\epsilon=-\\Psi\\left(l \\frac{d \\Phi}{d x}+m \\frac{d \\Phi}{d y}+n \\frac{d \\Phi}{d z}\\right) \\\\\n=-\\Psi \\frac{d \\Phi}{d \\nu}, \\text { by }(1) ; \\tag{6}\n\\end{gather*}$$\n",
+    "structured_lines": [
+      {
+        "page": 162,
+        "line_number": 4,
+        "type": "text",
+        "content": "The reader who is not acquainted with the method of Quater-",
+        "mathpix_content": "\n\nThe reader who is not acquainted with the method of Quater",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 5,
+        "type": "text",
+        "content": "nions may, if it pleases him, regard the expressions $\\nabla^{2} \\Psi$ and",
+        "mathpix_content": "nions may, if it pleases him, regard the expressions $\\nabla^{2} \\Psi$ and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 6,
+        "type": "text",
+        "content": "$S . \\nabla \\Psi \\nabla \\Phi$ as mere conventional abbreviations for the quantities to",
+        "mathpix_content": " $S . \\nabla \\Psi \\nabla \\Phi$ as mere conventional abbreviations for the quantities to",
+        "font_size": 27,
+        "confidence": 0.9267933368682861
+      },
+      {
+        "page": 162,
+        "line_number": 7,
+        "type": "text",
+        "content": "which they are equated above and as in what follows we shall",
+        "mathpix_content": " which they are equated above and as in what follows we shall",
+        "font_size": 27,
+        "confidence": 0.6572265625
+      },
+      {
+        "page": 162,
+        "line_number": 8,
+        "type": "text",
+        "content": "employ ordinary Cartesian methods, it will not be necessary to",
+        "mathpix_content": " employ ordinary Cartesian methods, it will not be necessary to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 9,
+        "type": "text",
+        "content": "remember the Quaternion interpretation of these expressions.",
+        "mathpix_content": " remember the Quaternion interpretation of these expressions.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 10,
+        "type": "text",
+        "content": "The reason, however, why we use as our abbreviations these ex-",
+        "mathpix_content": " The reason, however, why we use as our abbreviations these ex",
+        "font_size": 27,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 162,
+        "line_number": 11,
+        "type": "text",
+        "content": "pressions and not single letters arbitrarily chosen, is, that in the",
+        "mathpix_content": "pressions and not single letters arbitrarily chosen, is, that in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 12,
+        "type": "text",
+        "content": "language of Quaternions they represent fully the quantities to",
+        "mathpix_content": " language of Quaternions they represent fully the quantities to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 13,
+        "type": "text",
+        "content": "which they are equated. The operator $\\nabla$ applied to the scalar",
+        "mathpix_content": " which they are equated. The operator $\\nabla$ applied to the scalar",
+        "font_size": 27,
+        "confidence": 0.7715957164764404
+      },
+      {
+        "page": 162,
+        "line_number": 14,
+        "type": "text",
+        "content": "function $\\Psi$ gives the space-variation of that function, and the",
+        "mathpix_content": " function $\\Psi$ gives the space-variation of that function, and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 15,
+        "type": "text",
+        "content": "expression - $S . \\nabla \\Psi \\nabla \\Phi$ is the scalar part of the product of two",
+        "mathpix_content": " expression - $S . \\nabla \\Psi \\nabla \\Phi$ is the scalar part of the product of two",
+        "font_size": 27,
+        "confidence": 0.9699805475793255
+      },
+      {
+        "page": 162,
+        "line_number": 16,
+        "type": "text",
+        "content": "space-variations, or the product of either space-variation into the",
+        "mathpix_content": " space-variations, or the product of either space-variation into the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 17,
+        "type": "text",
+        "content": "resolved part of the other in its own direction. The expression",
+        "mathpix_content": " resolved part of the other in its own direction. The expression",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 18,
+        "type": "text",
+        "content": "$\\frac{d \\Psi}{d v}$ is usually written in Quaternions $S . U_{v} \\nabla \\Psi, U_{v}$ being a unit-",
+        "mathpix_content": " $\\frac{d \\Psi}{d v}$ is usually written in Quaternions $S . U_{v} \\nabla \\Psi, U_{v}$ being a unit",
+        "font_size": 27,
+        "confidence": 0.9848956880159676
+      },
+      {
+        "page": 162,
+        "line_number": 19,
+        "type": "text",
+        "content": "vector in the direction of the normal. There does not seem",
+        "mathpix_content": "vector in the direction of the normal. There does not seem",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 20,
+        "type": "text",
+        "content": "much advantage in using this notation here, but we shall find",
+        "mathpix_content": " much advantage in using this notation here, but we shall find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 21,
+        "type": "text",
+        "content": "the advantage of doing so when we come to deal with anisotropic",
+        "mathpix_content": " the advantage of doing so when we come to deal with anisotropic",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 22,
+        "type": "text",
+        "content": "\\{non-isotropic\\} media.",
+        "mathpix_content": " \\{non-isotropic\\} media.",
+        "font_size": 27,
+        "confidence": 0.9824588298797607
+      },
+      {
+        "page": 162,
+        "line_number": 24,
+        "type": "text",
+        "content": "Statement of Green's Theorem.",
+        "mathpix_content": "\n\n\\section*{Statement of Green's Theorem.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 25,
+        "type": "text",
+        "content": "Let $\\Psi$ and $\\Phi$ be two functions of $x, y, z$, which, with their first",
+        "mathpix_content": "\n\nLet $\\Psi$ and $\\Phi$ be two functions of $x, y, z$, which, with their first",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 162,
+        "line_number": 26,
+        "type": "text",
+        "content": "derivatives, are finite and continuous within the acyclic region s,",
+        "mathpix_content": " derivatives, are finite and continuous within the acyclic region s,",
+        "font_size": 27,
+        "confidence": 0.5206985473632812
+      },
+      {
+        "page": 162,
+        "line_number": 27,
+        "type": "text",
+        "content": "bounded by the closed surface $s$, then",
+        "mathpix_content": " bounded by the closed surface $s$, then",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 162,
+        "line_number": 32,
+        "type": "text",
+        "content": "where the double integrals are to be extended over the whole",
+        "mathpix_content": "\nwhere the double integrals are to be extended over the whole",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 33,
+        "type": "text",
+        "content": "closed surface 8 , and the triple integrals throughout the field, $s$,",
+        "mathpix_content": " closed surface 8 , and the triple integrals throughout the field, $s$,",
+        "font_size": 27,
+        "confidence": 0.5389431000253353
+      },
+      {
+        "page": 162,
+        "line_number": 34,
+        "type": "text",
+        "content": "enclosed by that surface.",
+        "mathpix_content": " enclosed by that surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 162,
+        "line_number": 35,
+        "type": "text",
+        "content": "To prove this, let us write, in Art. 21, Theorem III,",
+        "mathpix_content": "\n\nTo prove this, let us write, in Art. 21, Theorem III,",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

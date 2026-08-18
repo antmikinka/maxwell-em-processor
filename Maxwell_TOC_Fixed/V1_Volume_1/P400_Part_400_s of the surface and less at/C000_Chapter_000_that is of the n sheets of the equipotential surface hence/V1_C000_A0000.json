@@ -1,0 +1,336 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "$, that is of the $n$ sheets of the equipotential surface, hence",
+  "title_safe": "that is of the n sheets of the equipotential surface hence",
+  "page_start": 208,
+  "page_end": 208,
+  "content": {
+    "raw_text": "\n--- Page 208 ---\nII5.]\nTHEIR PROPERTIES.\n173\nof $z$, and let $x=r \\cos \\theta$, and $y=r \\sin \\theta$, then, since -\n$$\\begin{aligned}\n& \\frac{d^{2} V}{d z^{2}}=0, \\quad \\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 ; \\\\\n& \\text { or } \\quad \\frac{d^{2} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}+\\frac{1}{r^{2}} \\frac{d^{2} V}{d \\theta^{2}}=0 ;\n\\end{aligned}$$\nthe solution of which equation in ascending powers of $r$ is\n$V=V_{0}+A_{1} r \\cos \\left(\\theta+a_{1}\\right)+A_{2} r^{2} \\cos \\left(2 \\theta+a_{2}\\right)+$ \\&c. $+A_{n} r^{n} \\cos \\left(n \\theta+a_{n}\\right)$.\nAt a point of equilibrium $A_{1}$ is zero. If the first term that does\nnot vanish is that in $r^{n}$, then\n$$V-V_{0}=A_{n} r^{n} \\cos \\left(n \\theta+a_{n}\\right)+\\text { terms in higher powers of } r .$$\nThis equation shews that $n$ sheets of the equipotential surface\n$V=V_{0}$ intersect at angles each equal to $\\pi / n$. This theorem was\ngiven by Rankine*.\nIt is only under certain conditions that a line of equilibrium\ncan exist in free space, but there must be a line of equilibrium\non the surface of a conductor whenever the surface density of\nthe conductor is positive in one portion and negative in another.\nIn order that a conductor may be charged oppositely on\ndifferent portions of its surface, there must be in the field some\nplaces where the potential is higher than that of the body and\nothers where it is lower.\nLet us begin with two conductors electrified positively to the\nsame potential. There will be a point of equilibrium between\nthe two bodies. Let the potential of the first body be gradually\ndiminished. The point of equilibrium will approach it, and, at\na certain stage of the process, will coincide with a point on its\nsurface. During the next stage of the process, the equipotential\nsurface round the second body which has the same potential as\nthe first body will cut the surface of the second body at right\nangles in a closed curve, which is a line of equilibrium. This\n\n* 'Summary of the Properties of certain Stream .ines,' Phil. Mag., Oct. 1864.\nSee also, Thomson and Tait's Natural Philosophy, \u00a7 730 ; and Rankine and Stokes,\nin the Proc. R. S., 1867, p. 468 ; also W. R. Smith, Proc. R. S. Edin. 1869-70, p. 79.\n\\{This investigation is not satisfactory as $d^{2} V / d z^{2}$ only vanishes along the axis of $z$.\nRankine's original proof is rigid. Hm may be written as\n$$u_{n} z^{m-n}+u_{n+1} z^{m-n-1}+\\ldots u_{m},$$\nwhere $u_{n}, u_{n+1} \\ldots$ are homogeneous functions of $x, y$ of degrees $n, n+1$ respectively, the\naxis of $z$ is a singular line of degree $n$. Since $H m$ satisfies $\\nabla^{2} H m=0$, we must have\n$$\\frac{d^{2} u_{n}}{d x^{2}}+\\frac{d^{2} u_{n}}{d y^{2}}=0,$$\nor $u_{n}=A r^{n} \\cos (n \\theta+\\alpha)$; but $u_{n}=0$ is the equation of the tangent planes from the\naxis of $z$ to the cone $H m=0$, that is of the $n$ sheets of the equipotential surface, hence\nthese cut at angle $\\pi / n$.\\}\n",
+    "mathpix_markdown": "\n--- Page 208 ---\n\nof $z$, and let $x=r \\cos \\theta$, and $y=r \\sin \\theta$, then, since -\n\n$$\\begin{aligned}\n& \\frac{d^{2} V}{d z^{2}}=0, \\quad \\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 ; \\\\\n& \\text { or } \\quad \\frac{d^{2} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}+\\frac{1}{r^{2}} \\frac{d^{2} V}{d \\theta^{2}}=0 ;\n\\end{aligned}$$\n\nthe solution of which equation in ascending powers of $r$ is\n $V=V_{0}+A_{1} r \\cos \\left(\\theta+a_{1}\\right)+A_{2} r^{2} \\cos \\left(2 \\theta+a_{2}\\right)+$ \\&c. $+A_{n} r^{n} \\cos \\left(n \\theta+a_{n}\\right)$.\n At a point of equilibrium $A_{1}$ is zero. If the first term that does\n not vanish is that in $r^{n}$, then\n\n$$V-V_{0}=A_{n} r^{n} \\cos \\left(n \\theta+a_{n}\\right)+\\text { terms in higher powers of } r .$$\n\n\nThis equation shews that $n$ sheets of the equipotential surface\n $V=V_{0}$ intersect at angles each equal to $\\pi / n$. This theorem was\n given by Rankine*.\n\n\nIt is only under certain conditions that a line of equilibrium\n can exist in free space, but there must be a line of equilibrium\n on the surface of a conductor whenever the surface density of\n the conductor is positive in one portion and negative in another.\n\n\nIn order that a conductor may be charged oppositely on\n different portions of its surface, there must be in the field some\n places where the potential is higher than that of the body and\n others where it is lower.\n\n\nLet us begin with two conductors electrified positively to the\n same potential. There will be a point of equilibrium between\n the two bodies. Let the potential of the first body be gradually\n diminished. The point of equilibrium will approach it, and, at\n a certain stage of the process, will coincide with a point on its\n surface. During the next stage of the process, the equipotential\n surface round the second body which has the same potential as\n the first body will cut the surface of the second body at right\n angles in a closed curve, which is a line of equilibrium. This\n\n\n\\footnotetext{\n* 'Summary of the Properties of certain Stream .ines,' Phil. Mag., Oct. 1864.\n See also, Thomson and Tait's Natural Philosophy, \u00a7 730 ; and Rankine and Stokes,\n in the Proc. R. S., 1867, p. 468 ; also W. R. Smith, Proc. R. S. Edin. 1869-70, p. 79.\n\n\\{This investigation is not satisfactory as $d^{2} V / d z^{2}$ only vanishes along the axis of $z$.\n Rankine's original proof is rigid. Hm may be written as\n\n$$u_{n} z^{m-n}+u_{n+1} z^{m-n-1}+\\ldots u_{m},$$\n\nwhere $u_{n}, u_{n+1} \\ldots$ are homogeneous functions of $x, y$ of degrees $n, n+1$ respectively, the\n axis of $z$ is a singular line of degree $n$. Since $H m$ satisfies $\\nabla^{2} H m=0$, we must have\n\n$$\\frac{d^{2} u_{n}}{d x^{2}}+\\frac{d^{2} u_{n}}{d y^{2}}=0,$$\n\nor $u_{n}=A r^{n} \\cos (n \\theta+\\alpha)$; but $u_{n}=0$ is the equation of the tangent planes from the\n axis of $z$ to the cone $H m=0$, that is of the $n$ sheets of the equipotential surface, hence\n these cut at angle $\\pi / n$.\\}\n}\n",
+    "structured_lines": [
+      {
+        "page": 208,
+        "line_number": 4,
+        "type": "text",
+        "content": "of $z$, and let $x=r \\cos \\theta$, and $y=r \\sin \\theta$, then, since -",
+        "mathpix_content": "\nof $z$, and let $x=r \\cos \\theta$, and $y=r \\sin \\theta$, then, since -",
+        "font_size": 26,
+        "confidence": 0.5673608349400183
+      },
+      {
+        "page": 208,
+        "line_number": 8,
+        "type": "text",
+        "content": "the solution of which equation in ascending powers of $r$ is",
+        "mathpix_content": "\nthe solution of which equation in ascending powers of $r$ is",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 9,
+        "type": "text",
+        "content": "$V=V_{0}+A_{1} r \\cos \\left(\\theta+a_{1}\\right)+A_{2} r^{2} \\cos \\left(2 \\theta+a_{2}\\right)+$ \\&c. $+A_{n} r^{n} \\cos \\left(n \\theta+a_{n}\\right)$.",
+        "mathpix_content": " $V=V_{0}+A_{1} r \\cos \\left(\\theta+a_{1}\\right)+A_{2} r^{2} \\cos \\left(2 \\theta+a_{2}\\right)+$ \\&c. $+A_{n} r^{n} \\cos \\left(n \\theta+a_{n}\\right)$.",
+        "font_size": 26,
+        "confidence": 0.9907402927055955
+      },
+      {
+        "page": 208,
+        "line_number": 10,
+        "type": "text",
+        "content": "At a point of equilibrium $A_{1}$ is zero. If the first term that does",
+        "mathpix_content": " At a point of equilibrium $A_{1}$ is zero. If the first term that does",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 11,
+        "type": "text",
+        "content": "not vanish is that in $r^{n}$, then",
+        "mathpix_content": " not vanish is that in $r^{n}$, then",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 14,
+        "type": "text",
+        "content": "This equation shews that $n$ sheets of the equipotential surface",
+        "mathpix_content": "\n\nThis equation shews that $n$ sheets of the equipotential surface",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 15,
+        "type": "text",
+        "content": "$V=V_{0}$ intersect at angles each equal to $\\pi / n$. This theorem was",
+        "mathpix_content": " $V=V_{0}$ intersect at angles each equal to $\\pi / n$. This theorem was",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 16,
+        "type": "text",
+        "content": "given by Rankine*.",
+        "mathpix_content": " given by Rankine*.",
+        "font_size": 26,
+        "confidence": 0.9336578689981252
+      },
+      {
+        "page": 208,
+        "line_number": 17,
+        "type": "text",
+        "content": "It is only under certain conditions that a line of equilibrium",
+        "mathpix_content": "\n\nIt is only under certain conditions that a line of equilibrium",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 18,
+        "type": "text",
+        "content": "can exist in free space, but there must be a line of equilibrium",
+        "mathpix_content": " can exist in free space, but there must be a line of equilibrium",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 19,
+        "type": "text",
+        "content": "on the surface of a conductor whenever the surface density of",
+        "mathpix_content": " on the surface of a conductor whenever the surface density of",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 20,
+        "type": "text",
+        "content": "the conductor is positive in one portion and negative in another.",
+        "mathpix_content": " the conductor is positive in one portion and negative in another.",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 21,
+        "type": "text",
+        "content": "In order that a conductor may be charged oppositely on",
+        "mathpix_content": "\n\nIn order that a conductor may be charged oppositely on",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 22,
+        "type": "text",
+        "content": "different portions of its surface, there must be in the field some",
+        "mathpix_content": " different portions of its surface, there must be in the field some",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 23,
+        "type": "text",
+        "content": "places where the potential is higher than that of the body and",
+        "mathpix_content": " places where the potential is higher than that of the body and",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 24,
+        "type": "text",
+        "content": "others where it is lower.",
+        "mathpix_content": " others where it is lower.",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 25,
+        "type": "text",
+        "content": "Let us begin with two conductors electrified positively to the",
+        "mathpix_content": "\n\nLet us begin with two conductors electrified positively to the",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 26,
+        "type": "text",
+        "content": "same potential. There will be a point of equilibrium between",
+        "mathpix_content": " same potential. There will be a point of equilibrium between",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 27,
+        "type": "text",
+        "content": "the two bodies. Let the potential of the first body be gradually",
+        "mathpix_content": " the two bodies. Let the potential of the first body be gradually",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 28,
+        "type": "text",
+        "content": "diminished. The point of equilibrium will approach it, and, at",
+        "mathpix_content": " diminished. The point of equilibrium will approach it, and, at",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 29,
+        "type": "text",
+        "content": "a certain stage of the process, will coincide with a point on its",
+        "mathpix_content": " a certain stage of the process, will coincide with a point on its",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 30,
+        "type": "text",
+        "content": "surface. During the next stage of the process, the equipotential",
+        "mathpix_content": " surface. During the next stage of the process, the equipotential",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 31,
+        "type": "text",
+        "content": "surface round the second body which has the same potential as",
+        "mathpix_content": " surface round the second body which has the same potential as",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 32,
+        "type": "text",
+        "content": "the first body will cut the surface of the second body at right",
+        "mathpix_content": " the first body will cut the surface of the second body at right",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 33,
+        "type": "text",
+        "content": "angles in a closed curve, which is a line of equilibrium. This",
+        "mathpix_content": " angles in a closed curve, which is a line of equilibrium. This",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 35,
+        "type": "text",
+        "content": "* 'Summary of the Properties of certain Stream .ines,' Phil. Mag., Oct. 1864.",
+        "mathpix_content": "\n\n\\footnotetext{\n* 'Summary of the Properties of certain Stream .ines,' Phil. Mag., Oct. 1864.",
+        "font_size": 21,
+        "confidence": 0.7064814510641781
+      },
+      {
+        "page": 208,
+        "line_number": 36,
+        "type": "text",
+        "content": "See also, Thomson and Tait's Natural Philosophy, \u00a7 730 ; and Rankine and Stokes,",
+        "mathpix_content": " See also, Thomson and Tait's Natural Philosophy, \u00a7 730 ; and Rankine and Stokes,",
+        "font_size": 21,
+        "confidence": 0.9795998011756524
+      },
+      {
+        "page": 208,
+        "line_number": 37,
+        "type": "text",
+        "content": "in the Proc. R. S., 1867, p. 468 ; also W. R. Smith, Proc. R. S. Edin. 1869-70, p. 79.",
+        "mathpix_content": " in the Proc. R. S., 1867, p. 468 ; also W. R. Smith, Proc. R. S. Edin. 1869-70, p. 79.",
+        "font_size": 21,
+        "confidence": 0.7402768454977515
+      },
+      {
+        "page": 208,
+        "line_number": 38,
+        "type": "text",
+        "content": "\\{This investigation is not satisfactory as $d^{2} V / d z^{2}$ only vanishes along the axis of $z$.",
+        "mathpix_content": "\n\\{This investigation is not satisfactory as $d^{2} V / d z^{2}$ only vanishes along the axis of $z$.",
+        "font_size": 21,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 208,
+        "line_number": 39,
+        "type": "text",
+        "content": "Rankine's original proof is rigid. Hm may be written as",
+        "mathpix_content": " Rankine's original proof is rigid. Hm may be written as",
+        "font_size": 21,
+        "confidence": 0.99267578125
+      },
+      {
+        "page": 208,
+        "line_number": 42,
+        "type": "text",
+        "content": "where $u_{n}, u_{n+1} \\ldots$ are homogeneous functions of $x, y$ of degrees $n, n+1$ respectively, the",
+        "mathpix_content": "\nwhere $u_{n}, u_{n+1} \\ldots$ are homogeneous functions of $x, y$ of degrees $n, n+1$ respectively, the",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 208,
+        "line_number": 43,
+        "type": "text",
+        "content": "axis of $z$ is a singular line of degree $n$. Since $H m$ satisfies $\\nabla^{2} H m=0$, we must have",
+        "mathpix_content": " axis of $z$ is a singular line of degree $n$. Since $H m$ satisfies $\\nabla^{2} H m=0$, we must have",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 208,
+        "line_number": 46,
+        "type": "text",
+        "content": "or $u_{n}=A r^{n} \\cos (n \\theta+\\alpha)$; but $u_{n}=0$ is the equation of the tangent planes from the",
+        "mathpix_content": "\nor $u_{n}=A r^{n} \\cos (n \\theta+\\alpha)$; but $u_{n}=0$ is the equation of the tangent planes from the",
+        "font_size": 21,
+        "confidence": 0.726096207741648
+      },
+      {
+        "page": 208,
+        "line_number": 47,
+        "type": "text",
+        "content": "axis of $z$ to the cone $H m=0$, that is of the $n$ sheets of the equipotential surface, hence",
+        "mathpix_content": " axis of $z$ to the cone $H m=0$, that is of the $n$ sheets of the equipotential surface, hence",
+        "font_size": 21,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 208,
+        "line_number": 48,
+        "type": "text",
+        "content": "these cut at angle $\\pi / n$.\\}",
+        "mathpix_content": " these cut at angle $\\pi / n$.\\}\n}",
+        "font_size": 21,
+        "confidence": 0.944540829397738
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

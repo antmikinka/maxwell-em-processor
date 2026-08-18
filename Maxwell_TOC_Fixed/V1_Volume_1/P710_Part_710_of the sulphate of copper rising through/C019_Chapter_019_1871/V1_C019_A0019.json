@@ -1,0 +1,264 @@
+{
+  "article_id": "article_19",
+  "article_number": 19,
+  "title_original": ", 1871.",
+  "title_safe": "1871",
+  "page_start": 432,
+  "page_end": 432,
+  "content": {
+    "raw_text": "\n--- Page 432 ---\n272.]\nTHOMSON'S FORM OF DANIELL'S CELL.\n397\nlaws of which have the same form as those of diffusion, and\nwhatever interferes with one must interfere equally with the\nother. The only difference is that diffusion is always going on,\nwhereas the current flows only when the battery is in action.\nIn all forms of Daniell's battery the final result is that the\nsulphate of copper finds its way to the zinc and spoils the\nbattery. To retard this result indefinitely, Sir W. Thomson *\nhas constructed Daniell's battery in the following form.\n\nFig. 22.\nIn each cell the copper plate is placed horizontally at the\nbottom and a saturated solution of sulphate of zinc is poured\nover it. The zinc is in the form of a grating and is placed hori-\nzontally near the surface of the solution. A glass tube is placed\nvertically in the solution with its lower end just above the\nsurface of the copper plate. Crystals of sulphate of copper are\ndropped down this tube, and, dissolving in the liquid, form a\nsolution of greater density than that of sulphate of zinc alone,\nso that it cannot get to the zinc except by diffusion. To retard\nthis process of diffusion, a siphon, consisting of a glass tube\nstuffed with cotton wick, is placed with one extremity midway\nbetween the zinc and copper, and the other in a vessel outside\nthe cell, so that the liquid is very slowly drawn off near the\nmiddle of its depth. To supply its place, water, or a weak\nsolution of sulphate of zinc, is added above when required. In\nthis way the greater part of the sulphate of copper rising through\nthe liquid by diffusion is drawn off by the siphon before it\nreaches the zinc, and the zinc is surrounded by liquid nearly free\n\n* Proc. R. S., Jan. 19, 1871.\n",
+    "mathpix_markdown": "\n--- Page 432 ---\n\nlaws of which have the same form as those of diffusion, and\n whatever interferes with one must interfere equally with the\n other. The only difference is that diffusion is always going on,\n whereas the current flows only when the battery is in action.\n\n\nIn all forms of Daniell's battery the final result is that the\n sulphate of copper finds its way to the zinc and spoils the\n battery. To retard this result indefinitely, Sir W. Thomson *\n has constructed Daniell's battery in the following form.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-432.jpg?height=456&width=710&top_left_y=567&top_left_x=282}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 22.}\n\\end{figure}\n\n\nIn each cell the copper plate is placed horizontally at the\n bottom and a saturated solution of sulphate of zinc is poured\n over it. The zinc is in the form of a grating and is placed hori\nzontally near the surface of the solution. A glass tube is placed\n vertically in the solution with its lower end just above the\n surface of the copper plate. Crystals of sulphate of copper are\n dropped down this tube, and, dissolving in the liquid, form a\n solution of greater density than that of sulphate of zinc alone,\n so that it cannot get to the zinc except by diffusion. To retard\n this process of diffusion, a siphon, consisting of a glass tube\n stuffed with cotton wick, is placed with one extremity midway\n between the zinc and copper, and the other in a vessel outside\n the cell, so that the liquid is very slowly drawn off near the\n middle of its depth. To supply its place, water, or a weak\n solution of sulphate of zinc, is added above when required. In\n this way the greater part of the sulphate of copper rising through\n the liquid by diffusion is drawn off by the siphon before it\n reaches the zinc, and the zinc is surrounded by liquid nearly free\n\n\n\\footnotetext{\n* Proc. R. S., Jan. 19, 1871.\n}\n",
+    "structured_lines": [
+      {
+        "page": 432,
+        "line_number": 4,
+        "type": "text",
+        "content": "laws of which have the same form as those of diffusion, and",
+        "mathpix_content": "\nlaws of which have the same form as those of diffusion, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 5,
+        "type": "text",
+        "content": "whatever interferes with one must interfere equally with the",
+        "mathpix_content": " whatever interferes with one must interfere equally with the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 6,
+        "type": "text",
+        "content": "other. The only difference is that diffusion is always going on,",
+        "mathpix_content": " other. The only difference is that diffusion is always going on,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 7,
+        "type": "text",
+        "content": "whereas the current flows only when the battery is in action.",
+        "mathpix_content": " whereas the current flows only when the battery is in action.",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 432,
+        "line_number": 8,
+        "type": "text",
+        "content": "In all forms of Daniell's battery the final result is that the",
+        "mathpix_content": "\n\nIn all forms of Daniell's battery the final result is that the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 9,
+        "type": "text",
+        "content": "sulphate of copper finds its way to the zinc and spoils the",
+        "mathpix_content": " sulphate of copper finds its way to the zinc and spoils the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 10,
+        "type": "text",
+        "content": "battery. To retard this result indefinitely, Sir W. Thomson *",
+        "mathpix_content": " battery. To retard this result indefinitely, Sir W. Thomson *",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 432,
+        "line_number": 11,
+        "type": "text",
+        "content": "has constructed Daniell's battery in the following form.",
+        "mathpix_content": " has constructed Daniell's battery in the following form.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 14,
+        "type": "text",
+        "content": "In each cell the copper plate is placed horizontally at the",
+        "mathpix_content": "\n\nIn each cell the copper plate is placed horizontally at the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 15,
+        "type": "text",
+        "content": "bottom and a saturated solution of sulphate of zinc is poured",
+        "mathpix_content": " bottom and a saturated solution of sulphate of zinc is poured",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 16,
+        "type": "text",
+        "content": "over it. The zinc is in the form of a grating and is placed hori-",
+        "mathpix_content": " over it. The zinc is in the form of a grating and is placed hori",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 17,
+        "type": "text",
+        "content": "zontally near the surface of the solution. A glass tube is placed",
+        "mathpix_content": "zontally near the surface of the solution. A glass tube is placed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 18,
+        "type": "text",
+        "content": "vertically in the solution with its lower end just above the",
+        "mathpix_content": " vertically in the solution with its lower end just above the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 19,
+        "type": "text",
+        "content": "surface of the copper plate. Crystals of sulphate of copper are",
+        "mathpix_content": " surface of the copper plate. Crystals of sulphate of copper are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 20,
+        "type": "text",
+        "content": "dropped down this tube, and, dissolving in the liquid, form a",
+        "mathpix_content": " dropped down this tube, and, dissolving in the liquid, form a",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 432,
+        "line_number": 21,
+        "type": "text",
+        "content": "solution of greater density than that of sulphate of zinc alone,",
+        "mathpix_content": " solution of greater density than that of sulphate of zinc alone,",
+        "font_size": 27,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 432,
+        "line_number": 22,
+        "type": "text",
+        "content": "so that it cannot get to the zinc except by diffusion. To retard",
+        "mathpix_content": " so that it cannot get to the zinc except by diffusion. To retard",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 432,
+        "line_number": 23,
+        "type": "text",
+        "content": "this process of diffusion, a siphon, consisting of a glass tube",
+        "mathpix_content": " this process of diffusion, a siphon, consisting of a glass tube",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 24,
+        "type": "text",
+        "content": "stuffed with cotton wick, is placed with one extremity midway",
+        "mathpix_content": " stuffed with cotton wick, is placed with one extremity midway",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 25,
+        "type": "text",
+        "content": "between the zinc and copper, and the other in a vessel outside",
+        "mathpix_content": " between the zinc and copper, and the other in a vessel outside",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 432,
+        "line_number": 26,
+        "type": "text",
+        "content": "the cell, so that the liquid is very slowly drawn off near the",
+        "mathpix_content": " the cell, so that the liquid is very slowly drawn off near the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 27,
+        "type": "text",
+        "content": "middle of its depth. To supply its place, water, or a weak",
+        "mathpix_content": " middle of its depth. To supply its place, water, or a weak",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 28,
+        "type": "text",
+        "content": "solution of sulphate of zinc, is added above when required. In",
+        "mathpix_content": " solution of sulphate of zinc, is added above when required. In",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 29,
+        "type": "text",
+        "content": "this way the greater part of the sulphate of copper rising through",
+        "mathpix_content": " this way the greater part of the sulphate of copper rising through",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 30,
+        "type": "text",
+        "content": "the liquid by diffusion is drawn off by the siphon before it",
+        "mathpix_content": " the liquid by diffusion is drawn off by the siphon before it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 31,
+        "type": "text",
+        "content": "reaches the zinc, and the zinc is surrounded by liquid nearly free",
+        "mathpix_content": " reaches the zinc, and the zinc is surrounded by liquid nearly free",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 432,
+        "line_number": 33,
+        "type": "text",
+        "content": "* Proc. R. S., Jan. 19, 1871.",
+        "mathpix_content": "\n\n\\footnotetext{\n* Proc. R. S., Jan. 19, 1871.\n}",
+        "font_size": 21,
+        "confidence": 0.9975605006329715
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

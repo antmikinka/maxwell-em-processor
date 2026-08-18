@@ -1,0 +1,641 @@
+{
+  "chapter_id": "chapter_312",
+  "chapter_number": 1,
+  "title": "}{4 \\pi} \\frac{\\left(V_{B}-V_{A}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{B_{1}}}+\\frac{1}{R_{B_{2}}}\\right\\}\\right\\} \\text { approximately, }",
+  "page_start": 189,
+  "page_end": 189,
+  "articles": [
+    {
+      "article_id": "article_154",
+      "article_number": 154,
+      "title_original": "GENERAL THEOREMS.",
+      "title_safe": "GENERAL THEOREMS",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left(\\Psi_{a}-\\Psi_{b}\\right)\\left[\\frac{1}{b-a}+\\frac{1}{8} \\nabla^{2} a+\\frac{1}{8} \\nabla^{2} b\\right] \\\\",
+      "title_safe": "4 pileftPsia-Psibrightleftfrac1b-aplusfrac18 nabla2 aplusfra",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left(\\Psi_{b}-\\Psi_{a}\\right)\\left[\\frac{1}{b-a}-\\frac{1}{6} \\nabla^{2} a-\\frac{1}{8} \\nabla^{2} b\\right] *",
+      "title_safe": "4 pileftPsib-Psiarightleftfrac1b-a-frac16 nabla2 a-frac18 na",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} R_{2}$ the principal radii",
+      "title_safe": "R2 the principal radii",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d z^{2}}+\\left(\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\right) \\frac{d V}{d z}=0$$",
+      "title_safe": "Vd z2plusleftfrac1R1plusfrac1R2right fracd Vd zequals0",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "t^{2}\\left(\\frac{d^{2} V}{d z^{2}}\\right)_{A}+\\ldots$$",
+      "title_safe": "t2leftfracd2 Vd z2rightAplusldots",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}}, R_{A_{2}}$ denote the principal radii of curvature of the first surfaces, substituting",
+      "title_safe": "RA2 denote the principal radii of curvature of the first sur",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d z^{2}}$ from the differential equation, we get",
+      "title_safe": "Vd z2 from the differential equation we get",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\}+\\ldots ; \\\\",
+      "title_safe": "frac12 tleftfrac1RA1plusfrac1RA2rightrightplusldots",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{A}",
+      "title_safe": "pi sigmaA",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\frac{\\left(V_{A}-V_{B}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\} \\text { approximately, } \\\\",
+      "title_safe": "4 pi fracleftVA-VBrighttleft1plusfrac12 tleftfrac1RA1plusfra",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\frac{\\left(V_{B}-V_{A}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{B_{1}}}+\\frac{1}{R_{B_{2}}}\\right\\}\\right\\} \\text { approximately, }",
+      "title_safe": "4 pi fracleftVB-VArighttleft1plusfrac12 tleftfrac1RB1plusfra",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left(\\Psi_{a}-\\Psi_{b}\\right)\\left[\\frac{1}{b-a}+\\frac{1}{8} \\nabla^{2} a+\\frac{1}{8} \\nabla^{2} b\\right] \\\\",
+      "title_safe": "4 pileftPsia-Psibrightleftfrac1b-aplusfrac18 nabla2 aplusfra",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left(\\Psi_{b}-\\Psi_{a}\\right)\\left[\\frac{1}{b-a}-\\frac{1}{6} \\nabla^{2} a-\\frac{1}{8} \\nabla^{2} b\\right] *",
+      "title_safe": "4 pileftPsib-Psiarightleftfrac1b-a-frac16 nabla2 a-frac18 na",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} R_{2}$ the principal radii",
+      "title_safe": "R2 the principal radii",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d z^{2}}+\\left(\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\right) \\frac{d V}{d z}=0$$",
+      "title_safe": "Vd z2plusleftfrac1R1plusfrac1R2right fracd Vd zequals0",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "t^{2}\\left(\\frac{d^{2} V}{d z^{2}}\\right)_{A}+\\ldots$$",
+      "title_safe": "t2leftfracd2 Vd z2rightAplusldots",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}}, R_{A_{2}}$ denote the principal radii of curvature of the first surfaces, substituting",
+      "title_safe": "RA2 denote the principal radii of curvature of the first sur",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d z^{2}}$ from the differential equation, we get",
+      "title_safe": "Vd z2 from the differential equation we get",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\}+\\ldots ; \\\\",
+      "title_safe": "frac12 tleftfrac1RA1plusfrac1RA2rightrightplusldots",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{A}",
+      "title_safe": "pi sigmaA",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\frac{\\left(V_{A}-V_{B}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\} \\text { approximately, } \\\\",
+      "title_safe": "4 pi fracleftVA-VBrighttleft1plusfrac12 tleftfrac1RA1plusfra",
+      "page_start": 189,
+      "page_end": 188,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\frac{\\left(V_{B}-V_{A}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{B_{1}}}+\\frac{1}{R_{B_{2}}}\\right\\}\\right\\} \\text { approximately, }",
+      "title_safe": "4 pi fracleftVB-VArighttleft1plusfrac12 tleftfrac1RB1plusfra",
+      "page_start": 189,
+      "page_end": 189,
+      "content": {
+        "raw_text": "\n--- Page 189 ---\n154\nGENERAL THEOREMS.\nIf $\\sigma_{a}$ and $\\sigma_{b}$ are the surface-densities and $\\Psi_{a}$ and $\\Psi_{b}$ the poten-\ntials of the surfaces $a$ and $b$ respectively,\n$$\\begin{aligned}\n& \\sigma_{a}=\\frac{1}{4 \\pi}\\left(\\Psi_{a}-\\Psi_{b}\\right)\\left[\\frac{1}{b-a}+\\frac{1}{8} \\nabla^{2} a+\\frac{1}{8} \\nabla^{2} b\\right] \\\\\n& \\sigma_{b}=\\frac{1}{4 \\pi}\\left(\\Psi_{b}-\\Psi_{a}\\right)\\left[\\frac{1}{b-a}-\\frac{1}{6} \\nabla^{2} a-\\frac{1}{8} \\nabla^{2} b\\right] *\n\\end{aligned}$$\n* \\{This investigation is not very rigorous, and the expressions for the surface density\ndo not agree with the results obtained by rigorous methods for the cases of two\nspheres, two cylinders, a sphere and plane, or a cylinder and plane placed close\ntogether. We can obtain an expression for the surface density as follows. Let us\nassume that the axis of $z$ is an axis of symmetry, then the axis will cut all the equi-\npotential surfaces at right angles, and if $V$ is the potential, $R_{1} R_{2}$ the principal radii\nof curvature of an equipotential surface where it is cut by the axis of $x$, the solenoidal\ncondition along the axis of $z$ may easily be shown to be\n$$\\frac{d^{2} V}{d z^{2}}+\\left(\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\right) \\frac{d V}{d z}=0$$\nIf $V_{A}, V_{B}$ are the potentials of the two surfaces respectively, $t$ the distance between\nthe surfaces along the axis of $z$,\n$$V_{B}=V_{A}+t\\left(\\frac{d V}{d z}\\right)_{A}+1 t^{2}\\left(\\frac{d^{2} V}{d z^{2}}\\right)_{A}+\\ldots$$\nor if $R_{A_{1}}, R_{A_{2}}$ denote the principal radii of curvature of the first surfaces, substituting\nfor $\\frac{d^{2} V}{d z^{2}}$ from the differential equation, we get\nbut\n$$\\begin{gathered}\nV_{B}-V_{A}=t\\left(\\frac{d V}{d z}\\right)_{A}\\left\\{1-\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\}+\\ldots ; \\\\\n\\left(\\frac{d V}{d z}\\right)_{A}=-4 \\pi \\sigma_{A}\n\\end{gathered}$$\nwhen $\\sigma_{A}$ is the surface density where the axis of $z$ cut the first surface, hence\nsimilarly\n$$\\begin{aligned}\n& \\sigma_{A}=\\frac{1}{4 \\pi} \\frac{\\left(V_{A}-V_{B}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\} \\text { approximately, } \\\\\n& \\sigma_{B}=\\frac{1}{4 \\pi} \\frac{\\left(V_{B}-V_{A}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{B_{1}}}+\\frac{1}{R_{B_{2}}}\\right\\}\\right\\} \\text { approximately, }\n\\end{aligned}$$\nand these expressions agree in the cases before mentioned with those obtained by\nrigorous methods. \\}\n",
+        "mathpix_markdown": "\n--- Page 189 ---\n\n\nIf $\\sigma_{a}$ and $\\sigma_{b}$ are the surface-densities and $\\Psi_{a}$ and $\\Psi_{b}$ the poten\ntials of the surfaces $a$ and $b$ respectively,\n\n$$\\begin{aligned}\n& \\sigma_{a}=\\frac{1}{4 \\pi}\\left(\\Psi_{a}-\\Psi_{b}\\right)\\left[\\frac{1}{b-a}+\\frac{1}{8} \\nabla^{2} a+\\frac{1}{8} \\nabla^{2} b\\right] \\\\\n& \\sigma_{b}=\\frac{1}{4 \\pi}\\left(\\Psi_{b}-\\Psi_{a}\\right)\\left[\\frac{1}{b-a}-\\frac{1}{6} \\nabla^{2} a-\\frac{1}{8} \\nabla^{2} b\\right] *\n\\end{aligned}$$\n\n* \\{This investigation is not very rigorous, and the expressions for the surface density\n do not agree with the results obtained by rigorous methods for the cases of two\n spheres, two cylinders, a sphere and plane, or a cylinder and plane placed close\n together. We can obtain an expression for the surface density as follows. Let us\n assume that the axis of $z$ is an axis of symmetry, then the axis will cut all the equi\npotential surfaces at right angles, and if $V$ is the potential, $R_{1} R_{2}$ the principal radii\n of curvature of an equipotential surface where it is cut by the axis of $x$, the solenoidal\n condition along the axis of $z$ may easily be shown to be\n\n$$\\frac{d^{2} V}{d z^{2}}+\\left(\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\right) \\frac{d V}{d z}=0$$\n\n\nIf $V_{A}, V_{B}$ are the potentials of the two surfaces respectively, $t$ the distance between\n the surfaces along the axis of $z$,\n\n$$V_{B}=V_{A}+t\\left(\\frac{d V}{d z}\\right)_{A}+1 t^{2}\\left(\\frac{d^{2} V}{d z^{2}}\\right)_{A}+\\ldots$$\n\nor if $R_{A_{1}}, R_{A_{2}}$ denote the principal radii of curvature of the first surfaces, substituting\n for $\\frac{d^{2} V}{d z^{2}}$ from the differential equation, we get\n\nbut\n\n$$\\begin{gathered}\nV_{B}-V_{A}=t\\left(\\frac{d V}{d z}\\right)_{A}\\left\\{1-\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\}+\\ldots ; \\\\\n\\left(\\frac{d V}{d z}\\right)_{A}=-4 \\pi \\sigma_{A}\n\\end{gathered}$$\n\nwhen $\\sigma_{A}$ is the surface density where the axis of $z$ cut the first surface, hence\n\nsimilarly\n\n$$\\begin{aligned}\n& \\sigma_{A}=\\frac{1}{4 \\pi} \\frac{\\left(V_{A}-V_{B}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{A_{1}}}+\\frac{1}{R_{A_{2}}}\\right\\}\\right\\} \\text { approximately, } \\\\\n& \\sigma_{B}=\\frac{1}{4 \\pi} \\frac{\\left(V_{B}-V_{A}\\right)}{t}\\left\\{1+\\frac{1}{2} t\\left\\{\\frac{1}{R_{B_{1}}}+\\frac{1}{R_{B_{2}}}\\right\\}\\right\\} \\text { approximately, }\n\\end{aligned}$$\n\nand these expressions agree in the cases before mentioned with those obtained by\n rigorous methods. \\}\n",
+        "structured_lines": [
+          {
+            "page": 189,
+            "line_number": 3,
+            "type": "text",
+            "content": "If $\\sigma_{a}$ and $\\sigma_{b}$ are the surface-densities and $\\Psi_{a}$ and $\\Psi_{b}$ the poten-",
+            "mathpix_content": "\n\nIf $\\sigma_{a}$ and $\\sigma_{b}$ are the surface-densities and $\\Psi_{a}$ and $\\Psi_{b}$ the poten",
+            "font_size": 33,
+            "confidence": 0.994140625
+          },
+          {
+            "page": 189,
+            "line_number": 4,
+            "type": "text",
+            "content": "tials of the surfaces $a$ and $b$ respectively,",
+            "mathpix_content": "tials of the surfaces $a$ and $b$ respectively,",
+            "font_size": 33,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 189,
+            "line_number": 8,
+            "type": "text",
+            "content": "* \\{This investigation is not very rigorous, and the expressions for the surface density",
+            "mathpix_content": "\n* \\{This investigation is not very rigorous, and the expressions for the surface density",
+            "font_size": 21,
+            "confidence": 0.8307749979250048
+          },
+          {
+            "page": 189,
+            "line_number": 9,
+            "type": "text",
+            "content": "do not agree with the results obtained by rigorous methods for the cases of two",
+            "mathpix_content": " do not agree with the results obtained by rigorous methods for the cases of two",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 10,
+            "type": "text",
+            "content": "spheres, two cylinders, a sphere and plane, or a cylinder and plane placed close",
+            "mathpix_content": " spheres, two cylinders, a sphere and plane, or a cylinder and plane placed close",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 11,
+            "type": "text",
+            "content": "together. We can obtain an expression for the surface density as follows. Let us",
+            "mathpix_content": " together. We can obtain an expression for the surface density as follows. Let us",
+            "font_size": 21,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 189,
+            "line_number": 12,
+            "type": "text",
+            "content": "assume that the axis of $z$ is an axis of symmetry, then the axis will cut all the equi-",
+            "mathpix_content": " assume that the axis of $z$ is an axis of symmetry, then the axis will cut all the equi",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 13,
+            "type": "text",
+            "content": "potential surfaces at right angles, and if $V$ is the potential, $R_{1} R_{2}$ the principal radii",
+            "mathpix_content": "potential surfaces at right angles, and if $V$ is the potential, $R_{1} R_{2}$ the principal radii",
+            "font_size": 21,
+            "confidence": 0.99853515625
+          },
+          {
+            "page": 189,
+            "line_number": 14,
+            "type": "text",
+            "content": "of curvature of an equipotential surface where it is cut by the axis of $x$, the solenoidal",
+            "mathpix_content": " of curvature of an equipotential surface where it is cut by the axis of $x$, the solenoidal",
+            "font_size": 21,
+            "confidence": 0.8662109375
+          },
+          {
+            "page": 189,
+            "line_number": 15,
+            "type": "text",
+            "content": "condition along the axis of $z$ may easily be shown to be",
+            "mathpix_content": " condition along the axis of $z$ may easily be shown to be",
+            "font_size": 21,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 189,
+            "line_number": 18,
+            "type": "text",
+            "content": "If $V_{A}, V_{B}$ are the potentials of the two surfaces respectively, $t$ the distance between",
+            "mathpix_content": "\n\nIf $V_{A}, V_{B}$ are the potentials of the two surfaces respectively, $t$ the distance between",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 19,
+            "type": "text",
+            "content": "the surfaces along the axis of $z$,",
+            "mathpix_content": " the surfaces along the axis of $z$,",
+            "font_size": 21,
+            "confidence": 0.9956073760986328
+          },
+          {
+            "page": 189,
+            "line_number": 22,
+            "type": "text",
+            "content": "or if $R_{A_{1}}, R_{A_{2}}$ denote the principal radii of curvature of the first surfaces, substituting",
+            "mathpix_content": "\nor if $R_{A_{1}}, R_{A_{2}}$ denote the principal radii of curvature of the first surfaces, substituting",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 23,
+            "type": "text",
+            "content": "for $\\frac{d^{2} V}{d z^{2}}$ from the differential equation, we get",
+            "mathpix_content": " for $\\frac{d^{2} V}{d z^{2}}$ from the differential equation, we get",
+            "font_size": 21,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 189,
+            "line_number": 24,
+            "type": "text",
+            "content": "but",
+            "mathpix_content": "\nbut",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 28,
+            "type": "text",
+            "content": "when $\\sigma_{A}$ is the surface density where the axis of $z$ cut the first surface, hence",
+            "mathpix_content": "\nwhen $\\sigma_{A}$ is the surface density where the axis of $z$ cut the first surface, hence",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 29,
+            "type": "text",
+            "content": "similarly",
+            "mathpix_content": "\nsimilarly",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 33,
+            "type": "text",
+            "content": "and these expressions agree in the cases before mentioned with those obtained by",
+            "mathpix_content": "\nand these expressions agree in the cases before mentioned with those obtained by",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 189,
+            "line_number": 34,
+            "type": "text",
+            "content": "rigorous methods. \\}",
+            "mathpix_content": " rigorous methods. \\}",
+            "font_size": 21,
+            "confidence": 0.9990234375
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "chapter_id": "chapter_26",
+  "chapter_number": 2,
+  "title": "n)!}{2^{n}(n-\\sigma)!n!} \\Theta_{n}^{(\\sigma)} . \\tag{77}",
+  "page_start": 248,
+  "page_end": 248,
+  "articles": [
+    {
+      "article_id": "article_140",
+      "article_number": 140,
+      "title_original": "b.]",
+      "title_safe": "b",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_213",
+      "article_number": 213,
+      "title_original": "We must remember that when $\\sigma=0, \\sin \\sigma \\phi=0$ and $\\cos \\sigma \\phi=1$.",
+      "title_safe": "We must remember that when sigmaequals0 sin sigma phiequals0",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "to $n$ inclusive there is a pair of",
+      "title_safe": "to n inclusive there is a pair of",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ", Y_{\\stackrel{(0)}{(0)}}=0$, and $Y_{n}^{(0)}=P_{n}$, the zonal har-",
+      "title_safe": "Ystackrel00equals0 and Yn0equalsPn the zonal har",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "n+1$, as it ought to be.",
+      "title_safe": "nplus1 as it ought to be",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_140",
+      "article_number": 140,
+      "title_original": "b$.] The numerical value of $Y$ adopted in this treatise is",
+      "title_safe": "b. The numerical value of Y adopted in this treatise is",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ with respect to the \"",
+      "title_safe": "with respect to the",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_47",
+      "article_number": 47,
+      "title_original": ") denotes by $P_{\\sigma}^{(n)}$, and calls eine zugeordnete Function erster",
+      "title_safe": "denotes by Psigman and calls eine zugeordnete Function erste",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{\\frac{\\sigma}{2}} R_{\\sigma}^{(n)} .$$",
+      "title_safe": "fracsigma2 Rsigman",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_75",
+      "article_number": 75,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")}=\\varpi(\\sigma, n)=\\frac{(n-\\sigma)!}{(2 n)!} \\frac{d^{n+\\sigma}}{d \\mu^{n+\\sigma}} & \\left(\\mu^{2}-1\\right)^{n} \\\\",
+      "title_safe": "equalsvarpisigma nequalsfracn-sigma2 n fracdnplussigmad munp",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{n}(n-\\sigma)!n!}{(2 n)!} \\frac{d^{\\sigma}}{d \\mu^{\\sigma}} P_{n} .",
+      "title_safe": "nn-sigman2 n fracdsigmad musigma Pn",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_76",
+      "article_number": 76,
+      "title_original": ")$",
+      "title_safe": "Article",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "n)!}{2^{n}(n-\\sigma)!n!} \\Theta_{n}^{(\\sigma)} .$$",
+      "title_safe": "n2nn-sigman Thetansigma",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_77",
+      "article_number": 77,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ", \\sin \\sigma \\phi=0$ and $\\cos \\sigma \\phi=1$.",
+      "title_safe": "sin sigma phiequals0 and cos sigma phiequals1",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "to $n$ inclusive there is a pair of",
+      "title_safe": "to n inclusive there is a pair of",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ", Y_{\\stackrel{(0)}{(0)}}=0$, and $Y_{n}^{(0)}=P_{n}$, the zonal har",
+      "title_safe": "Ystackrel00equals0 and Yn0equalsPn the zonal har",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "n+1$, as it ought to be.",
+      "title_safe": "nplus1 as it ought to be",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_140",
+      "article_number": 140,
+      "title_original": "b$.] The numerical value of $Y$ adopted in this treatise is",
+      "title_safe": "b. The numerical value of Y adopted in this treatise is",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ with respect to the \"",
+      "title_safe": "with respect to the",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_47",
+      "article_number": 47,
+      "title_original": ") denotes by $P_{\\sigma}^{(n)}$, and calls eine zugeordnete Function erster",
+      "title_safe": "denotes by Psigman and calls eine zugeordnete Function erste",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{\\frac{\\sigma}{2}} R_{\\sigma}^{(n)} . \\tag{75}",
+      "title_safe": "fracsigma2 Rsigman . tag75",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")}=\\varpi(\\sigma, n)=\\frac{(n-\\sigma)!}{(2 n)!} \\frac{d^{n+\\sigma}}{d \\mu^{n+\\sigma}} & \\left(\\mu^{2}-1\\right)^{n} \\\\",
+      "title_safe": "equalsvarpisigma nequalsfracn-sigma2 n fracdnplussigmad munp",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{n}(n-\\sigma)!n!}{(2 n)!} \\frac{d^{\\sigma}}{d \\mu^{\\sigma}} P_{n} . \\tag{76}",
+      "title_safe": "nn-sigman2 n fracdsigmad musigma Pn . tag76",
+      "page_start": 248,
+      "page_end": 247,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "n)!}{2^{n}(n-\\sigma)!n!} \\Theta_{n}^{(\\sigma)} . \\tag{77}",
+      "title_safe": "n2nn-sigman Thetansigma . tag77",
+      "page_start": 248,
+      "page_end": 248,
+      "content": {
+        "raw_text": "\n--- Page 248 ---\n140b.]\nTESSERAL HARMONICS.\n213\nWe must remember that when $\\sigma=0, \\sin \\sigma \\phi=0$ and $\\cos \\sigma \\phi=1$.\nFor every value of $\\sigma$ from 1 to $n$ inclusive there is a pair of\nharmonics, but when $\\sigma=0, Y_{\\stackrel{(0)}{(0)}}=0$, and $Y_{n}^{(0)}=P_{n}$, the zonal har-\nmonic. The whole number of harmonics of order $n$ is therefore\n$2 n+1$, as it ought to be.\n$140 b$.] The numerical value of $Y$ adopted in this treatise is\nthat which we find by differentiating $r^{-1}$ with respect to the \"\naxes and dividing by $n!$ It is the product of four factors, the\nsine or cosine of $\\sigma \\phi, \\nu^{\\sigma}$, a function of $\\mu$ (or of $\\mu$ and $\\nu$ ), and a\nnumerical coefficient.\nThe product of the second and third factors, that is to say, the\npart depending on $\\theta$, has been expressed in terms of three different\nsymbols which differ from each other only by their numerical\nfactors. When it is expressed as the product of $\\nu^{\\sigma}$ into a series\nof descending powers of $\\mu$, the first term being $\\mu^{n-\\sigma}$, it is the\nfunction which we, following Thomson and Tait, denote by $\\Theta$.\nThe function which Heine (Handbuch der Kugelfunctionen,\n\u00a7 47) denotes by $P_{\\sigma}^{(n)}$, and calls eine zugeordnete Function erster\nArt, or, as Todhunter translates it, an 'Associated Function of\nthe First Kind,' is related to $\\Theta_{n}^{(\\sigma)}$ by the equation\n$$\\Theta_{n}^{(\\sigma)}=(-1)^{\\frac{\\sigma}{2}} R_{\\sigma}^{(n)} .$$\n(75)\nThe series of descending powers of $\\mu$, beginning with $\\mu^{n-\\sigma}$, is\nexpressed by Heine by the symbol $\\mathfrak{P}_{\\sigma}^{(n)}$, and by Todhunter by the\nsymbol - $(n, n)$.\nThis series may also be expressed in two other forms,\n$$\\begin{aligned}\n\\Re_{\\sigma}^{(1)}=\\varpi(\\sigma, n)=\\frac{(n-\\sigma)!}{(2 n)!} \\frac{d^{n+\\sigma}}{d \\mu^{n+\\sigma}} & \\left(\\mu^{2}-1\\right)^{n} \\\\\n& =\\frac{2^{n}(n-\\sigma)!n!}{(2 n)!} \\frac{d^{\\sigma}}{d \\mu^{\\sigma}} P_{n} .\n\\end{aligned}$$\n$(76)$\nThe last of these, in which the series is obtained by differentiating\nthe zonal harmonic with respect to $\\mu$, seems to have suggested the\nsymbol $T_{n}^{(\\sigma)}$ adopted by Ferrers, who defines it thus\n$$T_{n}^{(\\sigma)}=\\nu^{\\sigma} \\frac{d^{\\sigma}}{d \\mu^{\\sigma}} I_{n}=\\frac{(2 n)!}{2^{n}(n-\\sigma)!n!} \\Theta_{n}^{(\\sigma)} .$$\n(77)\nWhen the same quantity is expressed as a homogeneous\nfunction of $\\mu$ and $\\nu$, and divided by the coefficient of $\\mu^{n-\\sigma} \\nu^{\\sigma}$, it\nis what we have already denoted by $\\Omega_{n}^{(\\sigma)}$.\n",
+        "mathpix_markdown": "\n--- Page 248 ---\n\n\nWe must remember that when $\\sigma=0, \\sin \\sigma \\phi=0$ and $\\cos \\sigma \\phi=1$.\n\nFor every value of $\\sigma$ from 1 to $n$ inclusive there is a pair of\n harmonics, but when $\\sigma=0, Y_{\\stackrel{(0)}{(0)}}=0$, and $Y_{n}^{(0)}=P_{n}$, the zonal har\nmonic. The whole number of harmonics of order $n$ is therefore\n $2 n+1$, as it ought to be.\n\n$140 b$.] The numerical value of $Y$ adopted in this treatise is\n that which we find by differentiating $r^{-1}$ with respect to the \"\n axes and dividing by $n!$ It is the product of four factors, the\n sine or cosine of $\\sigma \\phi, \\nu^{\\sigma}$, a function of $\\mu$ (or of $\\mu$ and $\\nu$ ), and a\n numerical coefficient.\n\n\nThe product of the second and third factors, that is to say, the\n part depending on $\\theta$, has been expressed in terms of three different\n symbols which differ from each other only by their numerical\n factors. When it is expressed as the product of $\\nu^{\\sigma}$ into a series\n of descending powers of $\\mu$, the first term being $\\mu^{n-\\sigma}$, it is the\n function which we, following Thomson and Tait, denote by $\\Theta$.\n\n\nThe function which Heine (Handbuch der Kugelfunctionen,\n \u00a7 47) denotes by $P_{\\sigma}^{(n)}$, and calls eine zugeordnete Function erster\n Art, or, as Todhunter translates it, an 'Associated Function of\n the First Kind,' is related to $\\Theta_{n}^{(\\sigma)}$ by the equation\n\n$$\\begin{equation*}\n\\Theta_{n}^{(\\sigma)}=(-1)^{\\frac{\\sigma}{2}} R_{\\sigma}^{(n)} . \\tag{75}\n\\end{equation*}$$\n\n\nThe series of descending powers of $\\mu$, beginning with $\\mu^{n-\\sigma}$, is\n expressed by Heine by the symbol $\\mathfrak{P}_{\\sigma}^{(n)}$, and by Todhunter by the\n symbol - $(n, n)$.\n\n\nThis series may also be expressed in two other forms,\n\n$$\\begin{align*}\n\\Re_{\\sigma}^{(1)}=\\varpi(\\sigma, n)=\\frac{(n-\\sigma)!}{(2 n)!} \\frac{d^{n+\\sigma}}{d \\mu^{n+\\sigma}} & \\left(\\mu^{2}-1\\right)^{n} \\\\\n& =\\frac{2^{n}(n-\\sigma)!n!}{(2 n)!} \\frac{d^{\\sigma}}{d \\mu^{\\sigma}} P_{n} . \\tag{76}\n\\end{align*}$$\n\n\nThe last of these, in which the series is obtained by differentiating\n the zonal harmonic with respect to $\\mu$, seems to have suggested the\n symbol $T_{n}^{(\\sigma)}$ adopted by Ferrers, who defines it thus\n\n$$\\begin{equation*}\nT_{n}^{(\\sigma)}=\\nu^{\\sigma} \\frac{d^{\\sigma}}{d \\mu^{\\sigma}} I_{n}=\\frac{(2 n)!}{2^{n}(n-\\sigma)!n!} \\Theta_{n}^{(\\sigma)} . \\tag{77}\n\\end{equation*}$$\n\n\nWhen the same quantity is expressed as a homogeneous\n function of $\\mu$ and $\\nu$, and divided by the coefficient of $\\mu^{n-\\sigma} \\nu^{\\sigma}$, it\n is what we have already denoted by $\\Omega_{n}^{(\\sigma)}$.\n",
+        "structured_lines": [
+          {
+            "page": 248,
+            "line_number": 4,
+            "type": "text",
+            "content": "We must remember that when $\\sigma=0, \\sin \\sigma \\phi=0$ and $\\cos \\sigma \\phi=1$.",
+            "mathpix_content": "\n\nWe must remember that when $\\sigma=0, \\sin \\sigma \\phi=0$ and $\\cos \\sigma \\phi=1$.",
+            "font_size": 34,
+            "confidence": 0.9849104881286621
+          },
+          {
+            "page": 248,
+            "line_number": 5,
+            "type": "text",
+            "content": "For every value of $\\sigma$ from 1 to $n$ inclusive there is a pair of",
+            "mathpix_content": "\nFor every value of $\\sigma$ from 1 to $n$ inclusive there is a pair of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 6,
+            "type": "text",
+            "content": "harmonics, but when $\\sigma=0, Y_{\\stackrel{(0)}{(0)}}=0$, and $Y_{n}^{(0)}=P_{n}$, the zonal har-",
+            "mathpix_content": " harmonics, but when $\\sigma=0, Y_{\\stackrel{(0)}{(0)}}=0$, and $Y_{n}^{(0)}=P_{n}$, the zonal har",
+            "font_size": 34,
+            "confidence": 0.2615462266398605
+          },
+          {
+            "page": 248,
+            "line_number": 7,
+            "type": "text",
+            "content": "monic. The whole number of harmonics of order $n$ is therefore",
+            "mathpix_content": "monic. The whole number of harmonics of order $n$ is therefore",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 8,
+            "type": "text",
+            "content": "$2 n+1$, as it ought to be.",
+            "mathpix_content": " $2 n+1$, as it ought to be.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 9,
+            "type": "text",
+            "content": "$140 b$.] The numerical value of $Y$ adopted in this treatise is",
+            "mathpix_content": "\n$140 b$.] The numerical value of $Y$ adopted in this treatise is",
+            "font_size": 34,
+            "confidence": 0.7867355346679688
+          },
+          {
+            "page": 248,
+            "line_number": 10,
+            "type": "text",
+            "content": "that which we find by differentiating $r^{-1}$ with respect to the \"",
+            "mathpix_content": " that which we find by differentiating $r^{-1}$ with respect to the \"",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 248,
+            "line_number": 11,
+            "type": "text",
+            "content": "axes and dividing by $n!$ It is the product of four factors, the",
+            "mathpix_content": " axes and dividing by $n!$ It is the product of four factors, the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 12,
+            "type": "text",
+            "content": "sine or cosine of $\\sigma \\phi, \\nu^{\\sigma}$, a function of $\\mu$ (or of $\\mu$ and $\\nu$ ), and a",
+            "mathpix_content": " sine or cosine of $\\sigma \\phi, \\nu^{\\sigma}$, a function of $\\mu$ (or of $\\mu$ and $\\nu$ ), and a",
+            "font_size": 34,
+            "confidence": 0.989750862121582
+          },
+          {
+            "page": 248,
+            "line_number": 13,
+            "type": "text",
+            "content": "numerical coefficient.",
+            "mathpix_content": " numerical coefficient.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 14,
+            "type": "text",
+            "content": "The product of the second and third factors, that is to say, the",
+            "mathpix_content": "\n\nThe product of the second and third factors, that is to say, the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 15,
+            "type": "text",
+            "content": "part depending on $\\theta$, has been expressed in terms of three different",
+            "mathpix_content": " part depending on $\\theta$, has been expressed in terms of three different",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 16,
+            "type": "text",
+            "content": "symbols which differ from each other only by their numerical",
+            "mathpix_content": " symbols which differ from each other only by their numerical",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 248,
+            "line_number": 17,
+            "type": "text",
+            "content": "factors. When it is expressed as the product of $\\nu^{\\sigma}$ into a series",
+            "mathpix_content": " factors. When it is expressed as the product of $\\nu^{\\sigma}$ into a series",
+            "font_size": 34,
+            "confidence": 0.99658203125
+          },
+          {
+            "page": 248,
+            "line_number": 18,
+            "type": "text",
+            "content": "of descending powers of $\\mu$, the first term being $\\mu^{n-\\sigma}$, it is the",
+            "mathpix_content": " of descending powers of $\\mu$, the first term being $\\mu^{n-\\sigma}$, it is the",
+            "font_size": 34,
+            "confidence": 0.990234375
+          },
+          {
+            "page": 248,
+            "line_number": 19,
+            "type": "text",
+            "content": "function which we, following Thomson and Tait, denote by $\\Theta$.",
+            "mathpix_content": " function which we, following Thomson and Tait, denote by $\\Theta$.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 20,
+            "type": "text",
+            "content": "The function which Heine (Handbuch der Kugelfunctionen,",
+            "mathpix_content": "\n\nThe function which Heine (Handbuch der Kugelfunctionen,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 21,
+            "type": "text",
+            "content": "\u00a7 47) denotes by $P_{\\sigma}^{(n)}$, and calls eine zugeordnete Function erster",
+            "mathpix_content": " \u00a7 47) denotes by $P_{\\sigma}^{(n)}$, and calls eine zugeordnete Function erster",
+            "font_size": 34,
+            "confidence": 0.9917177988746166
+          },
+          {
+            "page": 248,
+            "line_number": 22,
+            "type": "text",
+            "content": "Art, or, as Todhunter translates it, an 'Associated Function of",
+            "mathpix_content": " Art, or, as Todhunter translates it, an 'Associated Function of",
+            "font_size": 34,
+            "confidence": 0.99853515625
+          },
+          {
+            "page": 248,
+            "line_number": 23,
+            "type": "text",
+            "content": "the First Kind,' is related to $\\Theta_{n}^{(\\sigma)}$ by the equation",
+            "mathpix_content": " the First Kind,' is related to $\\Theta_{n}^{(\\sigma)}$ by the equation",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 27,
+            "type": "text",
+            "content": "The series of descending powers of $\\mu$, beginning with $\\mu^{n-\\sigma}$, is",
+            "mathpix_content": "\n\nThe series of descending powers of $\\mu$, beginning with $\\mu^{n-\\sigma}$, is",
+            "font_size": 34,
+            "confidence": 0.94873046875
+          },
+          {
+            "page": 248,
+            "line_number": 28,
+            "type": "text",
+            "content": "expressed by Heine by the symbol $\\mathfrak{P}_{\\sigma}^{(n)}$, and by Todhunter by the",
+            "mathpix_content": " expressed by Heine by the symbol $\\mathfrak{P}_{\\sigma}^{(n)}$, and by Todhunter by the",
+            "font_size": 34,
+            "confidence": 0.9965856064809486
+          },
+          {
+            "page": 248,
+            "line_number": 29,
+            "type": "text",
+            "content": "symbol - $(n, n)$.",
+            "mathpix_content": " symbol - $(n, n)$.",
+            "font_size": 34,
+            "confidence": 0.23143960488622106
+          },
+          {
+            "page": 248,
+            "line_number": 30,
+            "type": "text",
+            "content": "This series may also be expressed in two other forms,",
+            "mathpix_content": "\n\nThis series may also be expressed in two other forms,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 35,
+            "type": "text",
+            "content": "The last of these, in which the series is obtained by differentiating",
+            "mathpix_content": "\n\nThe last of these, in which the series is obtained by differentiating",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 36,
+            "type": "text",
+            "content": "the zonal harmonic with respect to $\\mu$, seems to have suggested the",
+            "mathpix_content": " the zonal harmonic with respect to $\\mu$, seems to have suggested the",
+            "font_size": 34,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 248,
+            "line_number": 37,
+            "type": "text",
+            "content": "symbol $T_{n}^{(\\sigma)}$ adopted by Ferrers, who defines it thus",
+            "mathpix_content": " symbol $T_{n}^{(\\sigma)}$ adopted by Ferrers, who defines it thus",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 41,
+            "type": "text",
+            "content": "When the same quantity is expressed as a homogeneous",
+            "mathpix_content": "\n\nWhen the same quantity is expressed as a homogeneous",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 42,
+            "type": "text",
+            "content": "function of $\\mu$ and $\\nu$, and divided by the coefficient of $\\mu^{n-\\sigma} \\nu^{\\sigma}$, it",
+            "mathpix_content": " function of $\\mu$ and $\\nu$, and divided by the coefficient of $\\mu^{n-\\sigma} \\nu^{\\sigma}$, it",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 248,
+            "line_number": 43,
+            "type": "text",
+            "content": "is what we have already denoted by $\\Omega_{n}^{(\\sigma)}$.",
+            "mathpix_content": " is what we have already denoted by $\\Omega_{n}^{(\\sigma)}$.",
+            "font_size": 34,
+            "confidence": 0.272216796875
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

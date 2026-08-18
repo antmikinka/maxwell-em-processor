@@ -1,0 +1,210 @@
+{
+  "article_id": "article_33",
+  "article_number": 33,
+  "title_original": ".}",
+  "title_safe": "Article",
+  "page_start": 515,
+  "page_end": 515,
+  "content": {
+    "raw_text": "\n--- Page 515 ---\n480\nMEASUREMENT OF RESISTANCE.\n[350.\nacting surfaces of the battery is given, since in this case $E$ is\nproportional to $\\sqrt{B}$, the most advantageous arrangement of\nthe battery is when\n$$B=\\frac{R S}{R+S} .$$\nFinally, we shall determine the value of $S$ such that a given\nchange in the value of $n$ may produce the greatest galvanometer\ndeflexion. By differentiating the expression for $\\xi$ with respect\nto $S$ we find it is a maximum when\n$$S^{2}=\\frac{B R}{B+R}\\left(R+\\frac{G}{n(1-n)}\\right) .$$\nIf we have a great many determinations of resistance to make\nin which the actual resistance has nearly the same value, then it\nmay be worth while to prepare a galvanometer and a battery for\nthis purpose. In this case we find that the best arrangement is\n$$S=R, \\quad B=\\frac{1}{2} R, \\quad G=2 n(1-n) R,$$\nand if $n=\\frac{1}{2}, G=\\frac{1}{2} R$.\n\nOn the Use of Wheatstone's Bridge.\n350.] We have already explained the general theory of Wheat-\nstone's Bridge, we shall now consider some of its applications.\n\nFig. 33.\nThe comparison which can be effected with the greatest\nexactness is that of two equal resistances.\nLet us suppose that $\\beta$ is a standard resistance coil, and that\nwe wish to adjust $\\gamma$ to be equal in resistance to $\\beta$.\nTwo other coils, $b$ and $c$, are prepared which are equal or\nnearly equal to each other, and the four coils are placed with\n",
+    "mathpix_markdown": "\n--- Page 515 ---\n\nacting surfaces of the battery is given, since in this case $E$ is\n proportional to $\\sqrt{B}$, the most advantageous arrangement of\n the battery is when\n\n$$B=\\frac{R S}{R+S} .$$\n\n\nFinally, we shall determine the value of $S$ such that a given\n change in the value of $n$ may produce the greatest galvanometer\n deflexion. By differentiating the expression for $\\xi$ with respect\n to $S$ we find it is a maximum when\n\n$$S^{2}=\\frac{B R}{B+R}\\left(R+\\frac{G}{n(1-n)}\\right) .$$\n\n\nIf we have a great many determinations of resistance to make\n in which the actual resistance has nearly the same value, then it\n may be worth while to prepare a galvanometer and a battery for\n this purpose. In this case we find that the best arrangement is\n\n$$S=R, \\quad B=\\frac{1}{2} R, \\quad G=2 n(1-n) R,$$\n\nand if $n=\\frac{1}{2}, G=\\frac{1}{2} R$.\n\n\n\\section*{On the Use of Wheatstone's Bridge.}\n\n350.] We have already explained the general theory of Wheat\nstone's Bridge, we shall now consider some of its applications.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-515.jpg?height=502&width=543&top_left_y=1091&top_left_x=382}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 33.}\n\\end{figure}\n\n\nThe comparison which can be effected with the greatest\n exactness is that of two equal resistances.\n\n\nLet us suppose that $\\beta$ is a standard resistance coil, and that\n we wish to adjust $\\gamma$ to be equal in resistance to $\\beta$.\n\n\nTwo other coils, $b$ and $c$, are prepared which are equal or\n nearly equal to each other, and the four coils are placed with\n",
+    "structured_lines": [
+      {
+        "page": 515,
+        "line_number": 4,
+        "type": "text",
+        "content": "acting surfaces of the battery is given, since in this case $E$ is",
+        "mathpix_content": "\nacting surfaces of the battery is given, since in this case $E$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 5,
+        "type": "text",
+        "content": "proportional to $\\sqrt{B}$, the most advantageous arrangement of",
+        "mathpix_content": " proportional to $\\sqrt{B}$, the most advantageous arrangement of",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 515,
+        "line_number": 6,
+        "type": "text",
+        "content": "the battery is when",
+        "mathpix_content": " the battery is when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 9,
+        "type": "text",
+        "content": "Finally, we shall determine the value of $S$ such that a given",
+        "mathpix_content": "\n\nFinally, we shall determine the value of $S$ such that a given",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 10,
+        "type": "text",
+        "content": "change in the value of $n$ may produce the greatest galvanometer",
+        "mathpix_content": " change in the value of $n$ may produce the greatest galvanometer",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 11,
+        "type": "text",
+        "content": "deflexion. By differentiating the expression for $\\xi$ with respect",
+        "mathpix_content": " deflexion. By differentiating the expression for $\\xi$ with respect",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 12,
+        "type": "text",
+        "content": "to $S$ we find it is a maximum when",
+        "mathpix_content": " to $S$ we find it is a maximum when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 15,
+        "type": "text",
+        "content": "If we have a great many determinations of resistance to make",
+        "mathpix_content": "\n\nIf we have a great many determinations of resistance to make",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 16,
+        "type": "text",
+        "content": "in which the actual resistance has nearly the same value, then it",
+        "mathpix_content": " in which the actual resistance has nearly the same value, then it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 17,
+        "type": "text",
+        "content": "may be worth while to prepare a galvanometer and a battery for",
+        "mathpix_content": " may be worth while to prepare a galvanometer and a battery for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 18,
+        "type": "text",
+        "content": "this purpose. In this case we find that the best arrangement is",
+        "mathpix_content": " this purpose. In this case we find that the best arrangement is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 21,
+        "type": "text",
+        "content": "and if $n=\\frac{1}{2}, G=\\frac{1}{2} R$.",
+        "mathpix_content": "\nand if $n=\\frac{1}{2}, G=\\frac{1}{2} R$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 23,
+        "type": "text",
+        "content": "On the Use of Wheatstone's Bridge.",
+        "mathpix_content": "\n\n\\section*{On the Use of Wheatstone's Bridge.}",
+        "font_size": 27,
+        "confidence": 0.53125
+      },
+      {
+        "page": 515,
+        "line_number": 24,
+        "type": "text",
+        "content": "350.] We have already explained the general theory of Wheat-",
+        "mathpix_content": "\n350.] We have already explained the general theory of Wheat",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 25,
+        "type": "text",
+        "content": "stone's Bridge, we shall now consider some of its applications.",
+        "mathpix_content": "stone's Bridge, we shall now consider some of its applications.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 28,
+        "type": "text",
+        "content": "The comparison which can be effected with the greatest",
+        "mathpix_content": "\n\nThe comparison which can be effected with the greatest",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 29,
+        "type": "text",
+        "content": "exactness is that of two equal resistances.",
+        "mathpix_content": " exactness is that of two equal resistances.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 30,
+        "type": "text",
+        "content": "Let us suppose that $\\beta$ is a standard resistance coil, and that",
+        "mathpix_content": "\n\nLet us suppose that $\\beta$ is a standard resistance coil, and that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 31,
+        "type": "text",
+        "content": "we wish to adjust $\\gamma$ to be equal in resistance to $\\beta$.",
+        "mathpix_content": " we wish to adjust $\\gamma$ to be equal in resistance to $\\beta$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 515,
+        "line_number": 32,
+        "type": "text",
+        "content": "Two other coils, $b$ and $c$, are prepared which are equal or",
+        "mathpix_content": "\n\nTwo other coils, $b$ and $c$, are prepared which are equal or",
+        "font_size": 27,
+        "confidence": 0.98779296875
+      },
+      {
+        "page": 515,
+        "line_number": 33,
+        "type": "text",
+        "content": "nearly equal to each other, and the four coils are placed with",
+        "mathpix_content": " nearly equal to each other, and the four coils are placed with",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

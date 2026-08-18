@@ -1,0 +1,791 @@
+{
+  "chapter_id": "chapter_23",
+  "chapter_number": 0,
+  "title": "}-E}{r_{1}}=\\frac{E}{R}+C \\frac{d E}{d t} . \\tag{7}",
+  "page_start": 486,
+  "page_end": 486,
+  "articles": [
+    {
+      "article_id": "article_326",
+      "article_number": 326,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_326",
+      "article_number": 326,
+      "title_original": "] Let $C$ be the capacity of a condenser, $R$ its resistance,",
+      "title_safe": "Let C be the capacity of a condenser R its resistance",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_326",
+      "article_number": 326,
+      "title_original": "] Let $C$ be the capacity of a condenser, $R$ its resistance,",
+      "title_safe": "Let C be the capacity of a condenser R its resistance",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_326",
+      "article_number": 326,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_451",
+      "article_number": 451,
+      "title_original": "In a strictly homogeneous medium $r$ and $K$ are both constant,",
+      "title_safe": "In a strictly homogeneous medium r and K are both constant",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=-4 \\pi \\frac{\\rho}{K}=r \\frac{d \\rho}{d t},$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2equals-4 pi fracrhoKequ",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi}{K r} t} ;$$",
+      "title_safe": "piK r t",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi}, \\quad \\quad \\rho=C e^{-\\frac{t}{T}} .$$",
+      "title_safe": "pi quad quad rhoequalsC e-fractT",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_5",
+      "article_number": 5,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_326",
+      "article_number": 326,
+      "title_original": ".] Let $C$ be the capacity of a condenser, $R$ its resistance,",
+      "title_safe": "Let C be the capacity of a condenser R its resistance",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ whose resistance",
+      "title_safe": "whose resistance",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}-E}{r_{1}}=\\frac{E}{R}+C \\frac{d E}{d t} .$$",
+      "title_safe": "Er1equalsfracERplusC fracd Ed t",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_7",
+      "article_number": 7,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "In a strictly homogeneous medium $r$ and $K$ are both constant,",
+      "title_safe": "In a strictly homogeneous medium r and K are both constant",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=-4 \\pi \\frac{\\rho}{K}=r \\frac{d \\rho}{d t}, \\tag{3}",
+      "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2equals-4 pi fracrhoKequ",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi}{K r} t} ; \\tag{4}",
+      "title_safe": "piK r t tag4",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi}, \\quad \\quad \\rho=C e^{-\\frac{t}{T}} . \\tag{5}",
+      "title_safe": "pi quad quad rhoequalsC e-fractT . tag5",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_326",
+      "article_number": 326,
+      "title_original": ".] Let $C$ be the capacity of a condenser, $R$ its resistance,",
+      "title_safe": "Let C be the capacity of a condenser R its resistance",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ whose resistance",
+      "title_safe": "whose resistance",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$",
+      "title_safe": "Article",
+      "page_start": 486,
+      "page_end": 485,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}-E}{r_{1}}=\\frac{E}{R}+C \\frac{d E}{d t} . \\tag{7}",
+      "title_safe": "Er1equalsfracERplusC fracd Ed t . tag7",
+      "page_start": 486,
+      "page_end": 486,
+      "content": {
+        "raw_text": "\n--- Page 486 ---\n326.]\nTHEORY OF A CONDENSER.\n451\nIn a strictly homogeneous medium $r$ and $K$ are both constant,\nso that we find\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=-4 \\pi \\frac{\\rho}{K}=r \\frac{d \\rho}{d t},$$\n(3)\nwhence\n$$\\rho=C e^{-\\frac{4 \\pi}{K r} t} ;$$\n(4)\nor, if we put\n$$T=\\frac{K r}{4 \\pi}, \\quad \\quad \\rho=C e^{-\\frac{t}{T}} .$$\n(5)\nThis result shews that under the action of any external elec-\ntric forces on a homogeneous medium, the interior of which is\noriginally charged in any manner with electricity, the internal\ncharges will die away at a rate which does not depend on the\nexternal forces, so that at length there will be no charge of\nelectricity within the medium, after which no external forces\ncan either produce or maintain a charge in any internal portion\nof the medium, provided the relation between electromotive\nforce, electric polarization and conduction remains the same.\nWhen disruptive discharge occurs these relations cease to be\ntrue, and internal charge may be produced.\n\nOn Conduction through a Condenser.\n326.] Let $C$ be the capacity of a condenser, $R$ its resistance,\nand $E$ the electromotive force which acts on it, that is, the\ndifference of potentials of the surfaces of the metallic electrodes.\nThen the quantity of electricity on the side from which the\nelectromotive force acts will be $C E$, and the current through the\nsubstance of the condenser in the direction of the electromotive\nforce will be $\\frac{E}{R}$.\nIf the electrification is supposed to be produced by an electro-\nmotive force $E$ acting in a circuit of which the condenser forms\npart, and if $\\frac{d Q}{d t}$ represents the current in that circuit, then\n$$\\frac{d Q}{d t}=\\frac{E}{R}+C \\frac{d E}{d t} .$$\n(6)\nLet a battery of electromotive force $E_{0}$ whose resistance\ntogether with that of the wire connecting the electrodes is $r_{1}$\nbe introduced into this circuit, then\n$$\\frac{d Q}{d t}=\\frac{E_{0}-E}{r_{1}}=\\frac{E}{R}+C \\frac{d E}{d t} .$$\n(7)\nG g 2\n",
+        "mathpix_markdown": "\n--- Page 486 ---\n\n\nIn a strictly homogeneous medium $r$ and $K$ are both constant,\n so that we find\n\n$$\\begin{equation*}\n\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=-4 \\pi \\frac{\\rho}{K}=r \\frac{d \\rho}{d t}, \\tag{3}\n\\end{equation*}$$\n\nwhence\n\n$$\\begin{equation*}\n\\rho=C e^{-\\frac{4 \\pi}{K r} t} ; \\tag{4}\n\\end{equation*}$$\n\nor, if we put\n\n$$\\begin{equation*}\nT=\\frac{K r}{4 \\pi}, \\quad \\quad \\rho=C e^{-\\frac{t}{T}} . \\tag{5}\n\\end{equation*}$$\n\n\nThis result shews that under the action of any external elec\ntric forces on a homogeneous medium, the interior of which is\n originally charged in any manner with electricity, the internal\n charges will die away at a rate which does not depend on the\n external forces, so that at length there will be no charge of\n electricity within the medium, after which no external forces\n can either produce or maintain a charge in any internal portion\n of the medium, provided the relation between electromotive\n force, electric polarization and conduction remains the same.\n When disruptive discharge occurs these relations cease to be\n true, and internal charge may be produced.\n\n\n\\section*{On Conduction through a Condenser.}\n\n326.] Let $C$ be the capacity of a condenser, $R$ its resistance,\n and $E$ the electromotive force which acts on it, that is, the\n difference of potentials of the surfaces of the metallic electrodes.\n\n\nThen the quantity of electricity on the side from which the\n electromotive force acts will be $C E$, and the current through the\n substance of the condenser in the direction of the electromotive\n force will be $\\frac{E}{R}$.\n\n\nIf the electrification is supposed to be produced by an electro\nmotive force $E$ acting in a circuit of which the condenser forms\n part, and if $\\frac{d Q}{d t}$ represents the current in that circuit, then\n\n$$\\begin{equation*}\n\\frac{d Q}{d t}=\\frac{E}{R}+C \\frac{d E}{d t} . \\tag{6}\n\\end{equation*}$$\n\n\nLet a battery of electromotive force $E_{0}$ whose resistance\n together with that of the wire connecting the electrodes is $r_{1}$\n be introduced into this circuit, then\n\n$$\\begin{equation*}\n\\frac{d Q}{d t}=\\frac{E_{0}-E}{r_{1}}=\\frac{E}{R}+C \\frac{d E}{d t} . \\tag{7}\n\\end{equation*}$$\n",
+        "structured_lines": [
+          {
+            "page": 486,
+            "line_number": 4,
+            "type": "text",
+            "content": "In a strictly homogeneous medium $r$ and $K$ are both constant,",
+            "mathpix_content": "\n\nIn a strictly homogeneous medium $r$ and $K$ are both constant,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 5,
+            "type": "text",
+            "content": "so that we find",
+            "mathpix_content": " so that we find",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 9,
+            "type": "text",
+            "content": "whence",
+            "mathpix_content": "\nwhence",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 13,
+            "type": "text",
+            "content": "or, if we put",
+            "mathpix_content": "\nor, if we put",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 17,
+            "type": "text",
+            "content": "This result shews that under the action of any external elec-",
+            "mathpix_content": "\n\nThis result shews that under the action of any external elec",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 18,
+            "type": "text",
+            "content": "tric forces on a homogeneous medium, the interior of which is",
+            "mathpix_content": "tric forces on a homogeneous medium, the interior of which is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 19,
+            "type": "text",
+            "content": "originally charged in any manner with electricity, the internal",
+            "mathpix_content": " originally charged in any manner with electricity, the internal",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 20,
+            "type": "text",
+            "content": "charges will die away at a rate which does not depend on the",
+            "mathpix_content": " charges will die away at a rate which does not depend on the",
+            "font_size": 27,
+            "confidence": 0.99755859375
+          },
+          {
+            "page": 486,
+            "line_number": 21,
+            "type": "text",
+            "content": "external forces, so that at length there will be no charge of",
+            "mathpix_content": " external forces, so that at length there will be no charge of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 22,
+            "type": "text",
+            "content": "electricity within the medium, after which no external forces",
+            "mathpix_content": " electricity within the medium, after which no external forces",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 23,
+            "type": "text",
+            "content": "can either produce or maintain a charge in any internal portion",
+            "mathpix_content": " can either produce or maintain a charge in any internal portion",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 24,
+            "type": "text",
+            "content": "of the medium, provided the relation between electromotive",
+            "mathpix_content": " of the medium, provided the relation between electromotive",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 25,
+            "type": "text",
+            "content": "force, electric polarization and conduction remains the same.",
+            "mathpix_content": " force, electric polarization and conduction remains the same.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 26,
+            "type": "text",
+            "content": "When disruptive discharge occurs these relations cease to be",
+            "mathpix_content": " When disruptive discharge occurs these relations cease to be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 27,
+            "type": "text",
+            "content": "true, and internal charge may be produced.",
+            "mathpix_content": " true, and internal charge may be produced.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 29,
+            "type": "text",
+            "content": "On Conduction through a Condenser.",
+            "mathpix_content": "\n\n\\section*{On Conduction through a Condenser.}",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 30,
+            "type": "text",
+            "content": "326.] Let $C$ be the capacity of a condenser, $R$ its resistance,",
+            "mathpix_content": "\n326.] Let $C$ be the capacity of a condenser, $R$ its resistance,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 31,
+            "type": "text",
+            "content": "and $E$ the electromotive force which acts on it, that is, the",
+            "mathpix_content": " and $E$ the electromotive force which acts on it, that is, the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 32,
+            "type": "text",
+            "content": "difference of potentials of the surfaces of the metallic electrodes.",
+            "mathpix_content": " difference of potentials of the surfaces of the metallic electrodes.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 33,
+            "type": "text",
+            "content": "Then the quantity of electricity on the side from which the",
+            "mathpix_content": "\n\nThen the quantity of electricity on the side from which the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 34,
+            "type": "text",
+            "content": "electromotive force acts will be $C E$, and the current through the",
+            "mathpix_content": " electromotive force acts will be $C E$, and the current through the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 35,
+            "type": "text",
+            "content": "substance of the condenser in the direction of the electromotive",
+            "mathpix_content": " substance of the condenser in the direction of the electromotive",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 36,
+            "type": "text",
+            "content": "force will be $\\frac{E}{R}$.",
+            "mathpix_content": " force will be $\\frac{E}{R}$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 37,
+            "type": "text",
+            "content": "If the electrification is supposed to be produced by an electro-",
+            "mathpix_content": "\n\nIf the electrification is supposed to be produced by an electro",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 38,
+            "type": "text",
+            "content": "motive force $E$ acting in a circuit of which the condenser forms",
+            "mathpix_content": "motive force $E$ acting in a circuit of which the condenser forms",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 39,
+            "type": "text",
+            "content": "part, and if $\\frac{d Q}{d t}$ represents the current in that circuit, then",
+            "mathpix_content": " part, and if $\\frac{d Q}{d t}$ represents the current in that circuit, then",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 43,
+            "type": "text",
+            "content": "Let a battery of electromotive force $E_{0}$ whose resistance",
+            "mathpix_content": "\n\nLet a battery of electromotive force $E_{0}$ whose resistance",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 44,
+            "type": "text",
+            "content": "together with that of the wire connecting the electrodes is $r_{1}$",
+            "mathpix_content": " together with that of the wire connecting the electrodes is $r_{1}$",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 486,
+            "line_number": 45,
+            "type": "text",
+            "content": "be introduced into this circuit, then",
+            "mathpix_content": " be introduced into this circuit, then",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

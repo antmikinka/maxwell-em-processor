@@ -1,0 +1,381 @@
+{
+  "article_id": "article_35",
+  "article_number": 35,
+  "title_original": ".] While admitting electricity, as we have now done, to the",
+  "title_safe": "While admitting electricity as we have now done to the",
+  "page_start": 73,
+  "page_end": 73,
+  "content": {
+    "raw_text": "\n--- Page 73 ---\n38\nELECTROSTATIC PHENOMENA.\n[35.\nelectrification as the other gains of positive or loses of negative\nelectrification.\nFor if the two bodies are enclosed in the hollow vessel, no\nchange of the total electrification is observed.\nIII. When electrification is produced by friction, or by any\nother known method, equal quantities of positive and negative\nelectrification are produced.\nFor the electrification of the whole system may be tested in\nthe hollow vessel, or the process of electrification may be carried\non within the vessel itself, and however intense the electrifi-\ncation of the parts of the system may be, the electrification of\nthe whole, as indicated by the gold leaf electroscope, is in-\nvariably zero.\nThe electrification of a body is therefore a physical quantity\ncapable of measurement, and two or more electrifications can be\ncombined experimentally with a result of the same kind as\nwhen two quantities are added algebraically. We therefore are\nentitled to use language fitted to deal with electrification as a\nquantity as well as a quality, and to speak of any electrified\nbody as ' charged with a certain quantity of positive or negative\nelectricity.'\n35.] While admitting electricity, as we have now done, to the\nrank of a physical quantity, we must not too hastily assume\nthat it is, or is not, a substance, or that it is, or is not, a form of\nenergy, or that it belongs to any known category of physical\nquantities. All that we have hitherto proved is that it cannot\nbe created or annihilated, so that if the total quantity of elec-\ntricity within a closed surface is increased or diminished, the\nincrease or diminution must have passed in or out through\nthe closed surface.\nThis is true of matter, and is expressed by the equation known\nas the Equation of Continuity in Hydrodynamics.\nIt is not true of heat, for heat may be increased or diminished\nwithin a closed surface, without passing in or out through the\nsurface, by the transformation of some other form of energy into\nheat, or of heat into some other form of energy.\nIt is not true even of energy in general if we admit the imme-\ndiate action of bodies at a distance. For a body outside the\nclosed surface may make an exchange of energy with a body\nwithin the surface. But if all apparent action at a distance is\n",
+    "mathpix_markdown": "\n--- Page 73 ---\n\nelectrification as the other gains of positive or loses of negative\n electrification.\n\n\nFor if the two bodies are enclosed in the hollow vessel, no\n change of the total electrification is observed.\n\nIII. When electrification is produced by friction, or by any\n other known method, equal quantities of positive and negative\n electrification are produced.\n\n\nFor the electrification of the whole system may be tested in\n the hollow vessel, or the process of electrification may be carried\n on within the vessel itself, and however intense the electrifi\ncation of the parts of the system may be, the electrification of\n the whole, as indicated by the gold leaf electroscope, is in\nvariably zero.\n\n\nThe electrification of a body is therefore a physical quantity\n capable of measurement, and two or more electrifications can be\n combined experimentally with a result of the same kind as\n when two quantities are added algebraically. We therefore are\n entitled to use language fitted to deal with electrification as a\n quantity as well as a quality, and to speak of any electrified\n body as ' charged with a certain quantity of positive or negative\n electricity.'\n\n35.] While admitting electricity, as we have now done, to the\n rank of a physical quantity, we must not too hastily assume\n that it is, or is not, a substance, or that it is, or is not, a form of\n energy, or that it belongs to any known category of physical\n quantities. All that we have hitherto proved is that it cannot\n be created or annihilated, so that if the total quantity of elec\ntricity within a closed surface is increased or diminished, the\n increase or diminution must have passed in or out through\n the closed surface.\n\n\nThis is true of matter, and is expressed by the equation known\n as the Equation of Continuity in Hydrodynamics.\n\n\nIt is not true of heat, for heat may be increased or diminished\n within a closed surface, without passing in or out through the\n surface, by the transformation of some other form of energy into\n heat, or of heat into some other form of energy.\n\n\nIt is not true even of energy in general if we admit the imme\ndiate action of bodies at a distance. For a body outside the\n closed surface may make an exchange of energy with a body\n within the surface. But if all apparent action at a distance is\n",
+    "structured_lines": [
+      {
+        "page": 73,
+        "line_number": 4,
+        "type": "text",
+        "content": "electrification as the other gains of positive or loses of negative",
+        "mathpix_content": "\nelectrification as the other gains of positive or loses of negative",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 73,
+        "line_number": 5,
+        "type": "text",
+        "content": "electrification.",
+        "mathpix_content": " electrification.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 6,
+        "type": "text",
+        "content": "For if the two bodies are enclosed in the hollow vessel, no",
+        "mathpix_content": "\n\nFor if the two bodies are enclosed in the hollow vessel, no",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 7,
+        "type": "text",
+        "content": "change of the total electrification is observed.",
+        "mathpix_content": " change of the total electrification is observed.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 8,
+        "type": "text",
+        "content": "III. When electrification is produced by friction, or by any",
+        "mathpix_content": "\nIII. When electrification is produced by friction, or by any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 9,
+        "type": "text",
+        "content": "other known method, equal quantities of positive and negative",
+        "mathpix_content": " other known method, equal quantities of positive and negative",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 10,
+        "type": "text",
+        "content": "electrification are produced.",
+        "mathpix_content": " electrification are produced.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 11,
+        "type": "text",
+        "content": "For the electrification of the whole system may be tested in",
+        "mathpix_content": "\n\nFor the electrification of the whole system may be tested in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 12,
+        "type": "text",
+        "content": "the hollow vessel, or the process of electrification may be carried",
+        "mathpix_content": " the hollow vessel, or the process of electrification may be carried",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 13,
+        "type": "text",
+        "content": "on within the vessel itself, and however intense the electrifi-",
+        "mathpix_content": " on within the vessel itself, and however intense the electrifi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 14,
+        "type": "text",
+        "content": "cation of the parts of the system may be, the electrification of",
+        "mathpix_content": "cation of the parts of the system may be, the electrification of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 15,
+        "type": "text",
+        "content": "the whole, as indicated by the gold leaf electroscope, is in-",
+        "mathpix_content": " the whole, as indicated by the gold leaf electroscope, is in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 16,
+        "type": "text",
+        "content": "variably zero.",
+        "mathpix_content": "variably zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 17,
+        "type": "text",
+        "content": "The electrification of a body is therefore a physical quantity",
+        "mathpix_content": "\n\nThe electrification of a body is therefore a physical quantity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 18,
+        "type": "text",
+        "content": "capable of measurement, and two or more electrifications can be",
+        "mathpix_content": " capable of measurement, and two or more electrifications can be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 19,
+        "type": "text",
+        "content": "combined experimentally with a result of the same kind as",
+        "mathpix_content": " combined experimentally with a result of the same kind as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 20,
+        "type": "text",
+        "content": "when two quantities are added algebraically. We therefore are",
+        "mathpix_content": " when two quantities are added algebraically. We therefore are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 21,
+        "type": "text",
+        "content": "entitled to use language fitted to deal with electrification as a",
+        "mathpix_content": " entitled to use language fitted to deal with electrification as a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 22,
+        "type": "text",
+        "content": "quantity as well as a quality, and to speak of any electrified",
+        "mathpix_content": " quantity as well as a quality, and to speak of any electrified",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 23,
+        "type": "text",
+        "content": "body as ' charged with a certain quantity of positive or negative",
+        "mathpix_content": " body as ' charged with a certain quantity of positive or negative",
+        "font_size": 27,
+        "confidence": 0.7715957164764404
+      },
+      {
+        "page": 73,
+        "line_number": 24,
+        "type": "text",
+        "content": "electricity.'",
+        "mathpix_content": " electricity.'",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 73,
+        "line_number": 25,
+        "type": "text",
+        "content": "35.] While admitting electricity, as we have now done, to the",
+        "mathpix_content": "\n35.] While admitting electricity, as we have now done, to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 26,
+        "type": "text",
+        "content": "rank of a physical quantity, we must not too hastily assume",
+        "mathpix_content": " rank of a physical quantity, we must not too hastily assume",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 27,
+        "type": "text",
+        "content": "that it is, or is not, a substance, or that it is, or is not, a form of",
+        "mathpix_content": " that it is, or is not, a substance, or that it is, or is not, a form of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 28,
+        "type": "text",
+        "content": "energy, or that it belongs to any known category of physical",
+        "mathpix_content": " energy, or that it belongs to any known category of physical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 29,
+        "type": "text",
+        "content": "quantities. All that we have hitherto proved is that it cannot",
+        "mathpix_content": " quantities. All that we have hitherto proved is that it cannot",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 30,
+        "type": "text",
+        "content": "be created or annihilated, so that if the total quantity of elec-",
+        "mathpix_content": " be created or annihilated, so that if the total quantity of elec",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 31,
+        "type": "text",
+        "content": "tricity within a closed surface is increased or diminished, the",
+        "mathpix_content": "tricity within a closed surface is increased or diminished, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 32,
+        "type": "text",
+        "content": "increase or diminution must have passed in or out through",
+        "mathpix_content": " increase or diminution must have passed in or out through",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 73,
+        "line_number": 33,
+        "type": "text",
+        "content": "the closed surface.",
+        "mathpix_content": " the closed surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 34,
+        "type": "text",
+        "content": "This is true of matter, and is expressed by the equation known",
+        "mathpix_content": "\n\nThis is true of matter, and is expressed by the equation known",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 35,
+        "type": "text",
+        "content": "as the Equation of Continuity in Hydrodynamics.",
+        "mathpix_content": " as the Equation of Continuity in Hydrodynamics.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 36,
+        "type": "text",
+        "content": "It is not true of heat, for heat may be increased or diminished",
+        "mathpix_content": "\n\nIt is not true of heat, for heat may be increased or diminished",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 37,
+        "type": "text",
+        "content": "within a closed surface, without passing in or out through the",
+        "mathpix_content": " within a closed surface, without passing in or out through the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 38,
+        "type": "text",
+        "content": "surface, by the transformation of some other form of energy into",
+        "mathpix_content": " surface, by the transformation of some other form of energy into",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 39,
+        "type": "text",
+        "content": "heat, or of heat into some other form of energy.",
+        "mathpix_content": " heat, or of heat into some other form of energy.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 73,
+        "line_number": 40,
+        "type": "text",
+        "content": "It is not true even of energy in general if we admit the imme-",
+        "mathpix_content": "\n\nIt is not true even of energy in general if we admit the imme",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 73,
+        "line_number": 41,
+        "type": "text",
+        "content": "diate action of bodies at a distance. For a body outside the",
+        "mathpix_content": "diate action of bodies at a distance. For a body outside the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 42,
+        "type": "text",
+        "content": "closed surface may make an exchange of energy with a body",
+        "mathpix_content": " closed surface may make an exchange of energy with a body",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 73,
+        "line_number": 43,
+        "type": "text",
+        "content": "within the surface. But if all apparent action at a distance is",
+        "mathpix_content": " within the surface. But if all apparent action at a distance is",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

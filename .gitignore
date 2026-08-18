@@ -42,18 +42,15 @@ logs/
 chroma_data/
 chroma/
 
-# Local processing (not the published edition)
+# Local processing (not published)
 output/
 Enhanced_Maxwell_TOC/
 Maxwell_TOC/
-Maxwell_TOC_Fixed/
 
-# Master-output dumps that are not the readable edition
-MAXWELL_VOLUME_1_MASTER_OUTPUT/RAW_OUTPUTS/
+# Logs and duplicate root-level API blobs (RAW_OUTPUTS is published)
 MAXWELL_VOLUME_1_MASTER_OUTPUT/PROCESSING_LOGS/
 MAXWELL_VOLUME_1_MASTER_OUTPUT/volume_1_direct_result.json
 MAXWELL_VOLUME_1_MASTER_OUTPUT/VOLUME_1_ALL_PAGES_ PRELIMINARY.TO CHAPTER XII. JSON
-MAXWELL_VOLUME_2_MASTER_OUTPUT/RAW_OUTPUTS/
 MAXWELL_VOLUME_2_MASTER_OUTPUT/PROCESSING_LOGS/
 MAXWELL_VOLUME_2_MASTER_OUTPUT/volume_2_direct_result.json
 

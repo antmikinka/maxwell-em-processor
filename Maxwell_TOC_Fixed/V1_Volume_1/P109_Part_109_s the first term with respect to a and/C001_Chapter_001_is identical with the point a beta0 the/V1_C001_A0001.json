@@ -1,0 +1,183 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}$ ) is identical with the point ( $a, \\beta_{0}$ ), the",
+  "title_safe": "is identical with the point a beta0 the",
+  "page_start": 63,
+  "page_end": 63,
+  "content": {
+    "raw_text": "\n--- Page 63 ---\n28\nPRELIMINARY.\n[24.\nThe surface-integral which we have to find is\n$$\\iint(l \\xi+m \\eta+n \\zeta) d S ;$$\n(4)\nor, substituting the values of $\\xi \\eta, \\zeta$ in terms of $X, Y, Z$,\n$$\\iint\\left(m \\frac{d X}{d z}-n \\frac{d X}{d y}+n \\frac{d Y}{d c}-l \\frac{d Y}{d z}+l \\frac{d Z}{d y}-m \\frac{d Z}{d x}\\right) d S .$$\n(5)\nThe part of this which depends on $X$ may be written\n$$\\iint\\left\\{\\frac{d X}{d z}\\left(\\frac{d z}{d a} \\frac{d x}{d \\beta}-\\frac{d z}{d \\beta} \\frac{d x}{d a}\\right)-\\frac{d X}{d y}\\left(\\frac{d x}{d a} \\frac{d y}{d \\beta}-\\frac{d x}{d \\beta} \\frac{d y}{d a}\\right)\\right\\} d \\beta d a ;$$\n(6)\nadding and subtracting $\\frac{d X}{d x} \\frac{d x}{d a} \\frac{d x}{d \\beta}$, this becomes\n$$\\begin{aligned}\n& \\iint\\left\\{\\frac{d x}{d \\beta}\\left(\\frac{d X}{d x} \\frac{d x}{d a}+\\frac{d X}{d y} \\frac{d y}{d a}+\\frac{d X}{d z} \\frac{d z}{d a}\\right)\\right. \\\\\n& \\left.\\quad-\\frac{d x}{d a}\\left(\\frac{d X}{d x} \\frac{d x}{d \\beta}+\\frac{d X}{d y} \\frac{d y}{d \\beta}+\\frac{d X}{d z} \\frac{d z}{d \\beta}\\right)\\right\\} d \\beta d a \\\\\n& =\\iint\\left(\\frac{d X}{d a} \\frac{d x}{d \\beta}-\\frac{d X}{d \\beta} \\frac{d x}{d a}\\right) d \\beta d a\n\\end{aligned}$$\n(7)\n(8)\nLet us now suppose that the curves for which $a$ is constant\nform a series of closed curves surrounding a point on the\nsurface for which $a$ has its minimum value, $a_{0}$, and let the last\ncurve of the series, for which $a=a_{1}$, coincide with the closed\ncurve 8.\nLet us also suppose that the curves for which $\\beta$ is constant\nform a series of lines drawn from the point at which $\\alpha=a_{0}$\nto the closed curve 8 , the first, $\\beta_{0}$, and the last, $\\beta_{1}$, being\nidentical.\nIntegrating (8) by parts, the first term with respect to $a$ and\nthe second with respect to $\\beta$, the double integrals destroy each\nother and the expression becomes\n$$\\begin{aligned}\n& \\int_{\\beta_{0}}^{\\beta_{1}}\\left(X \\frac{d x}{d \\beta}\\right) d_{a=\\alpha_{1}}^{d \\beta-\\int_{\\beta_{0}}^{\\beta_{1}}\\left(X \\frac{d x}{d \\beta}\\right)} d_{a=\\alpha_{0}}^{d \\beta-\\int_{\\alpha_{0}}^{a_{1}}( }\\left(X \\frac{d x}{d a}\\right) d_{\\beta=\\beta_{1}}^{d a} \\\\\n&+\\int_{a_{0}}^{a_{1}}\\left(X \\frac{d x}{d a}\\right)_{\\beta=\\beta_{0}}^{d a}\n\\end{aligned}$$\n(9)\nSince the point ( $a, \\beta_{1}$ ) is identical with the point ( $a, \\beta_{0}$ ), the\nthird and fourth terms destroy each other ; and since there is\n",
+    "mathpix_markdown": "\n--- Page 63 ---\n\n\nThe surface-integral which we have to find is\n\n$$\\begin{equation*}\n\\iint(l \\xi+m \\eta+n \\zeta) d S ; \\tag{4}\n\\end{equation*}$$\n\nor, substituting the values of $\\xi \\eta, \\zeta$ in terms of $X, Y, Z$,\n\n$$\\begin{equation*}\n\\iint\\left(m \\frac{d X}{d z}-n \\frac{d X}{d y}+n \\frac{d Y}{d c}-l \\frac{d Y}{d z}+l \\frac{d Z}{d y}-m \\frac{d Z}{d x}\\right) d S . \\tag{5}\n\\end{equation*}$$\n\n\nThe part of this which depends on $X$ may be written\n\n$$\\begin{equation*}\n\\iint\\left\\{\\frac{d X}{d z}\\left(\\frac{d z}{d a} \\frac{d x}{d \\beta}-\\frac{d z}{d \\beta} \\frac{d x}{d a}\\right)-\\frac{d X}{d y}\\left(\\frac{d x}{d a} \\frac{d y}{d \\beta}-\\frac{d x}{d \\beta} \\frac{d y}{d a}\\right)\\right\\} d \\beta d a ; \\tag{6}\n\\end{equation*}$$\n\nadding and subtracting $\\frac{d X}{d x} \\frac{d x}{d a} \\frac{d x}{d \\beta}$, this becomes\n\n$$\\begin{align*}\n& \\iint\\left\\{\\frac{d x}{d \\beta}\\left(\\frac{d X}{d x} \\frac{d x}{d a}+\\frac{d X}{d y} \\frac{d y}{d a}+\\frac{d X}{d z} \\frac{d z}{d a}\\right)\\right. \\\\\n& \\left.\\quad-\\frac{d x}{d a}\\left(\\frac{d X}{d x} \\frac{d x}{d \\beta}+\\frac{d X}{d y} \\frac{d y}{d \\beta}+\\frac{d X}{d z} \\frac{d z}{d \\beta}\\right)\\right\\} d \\beta d a  \\tag{7}\\\\\n& =\\iint\\left(\\frac{d X}{d a} \\frac{d x}{d \\beta}-\\frac{d X}{d \\beta} \\frac{d x}{d a}\\right) d \\beta d a \\tag{8}\n\\end{align*}$$\n\n\nLet us now suppose that the curves for which $a$ is constant\n form a series of closed curves surrounding a point on the\n surface for which $a$ has its minimum value, $a_{0}$, and let the last\n curve of the series, for which $a=a_{1}$, coincide with the closed\n curve 8.\n\n\nLet us also suppose that the curves for which $\\beta$ is constant\n form a series of lines drawn from the point at which $\\alpha=a_{0}$\n to the closed curve 8 , the first, $\\beta_{0}$, and the last, $\\beta_{1}$, being\n identical.\n\n\nIntegrating (8) by parts, the first term with respect to $a$ and\n the second with respect to $\\beta$, the double integrals destroy each\n other and the expression becomes\n\n$$\\begin{align*}\n& \\int_{\\beta_{0}}^{\\beta_{1}}\\left(X \\frac{d x}{d \\beta}\\right) d_{a=\\alpha_{1}}^{d \\beta-\\int_{\\beta_{0}}^{\\beta_{1}}\\left(X \\frac{d x}{d \\beta}\\right)} d_{a=\\alpha_{0}}^{d \\beta-\\int_{\\alpha_{0}}^{a_{1}}( }\\left(X \\frac{d x}{d a}\\right) d_{\\beta=\\beta_{1}}^{d a} \\\\\n&+\\int_{a_{0}}^{a_{1}}\\left(X \\frac{d x}{d a}\\right)_{\\beta=\\beta_{0}}^{d a} \\tag{9}\n\\end{align*}$$\n\n\nSince the point ( $a, \\beta_{1}$ ) is identical with the point ( $a, \\beta_{0}$ ), the\n third and fourth terms destroy each other ; and since there is\n",
+    "structured_lines": [
+      {
+        "page": 63,
+        "line_number": 4,
+        "type": "text",
+        "content": "The surface-integral which we have to find is",
+        "mathpix_content": "\n\nThe surface-integral which we have to find is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 63,
+        "line_number": 8,
+        "type": "text",
+        "content": "or, substituting the values of $\\xi \\eta, \\zeta$ in terms of $X, Y, Z$,",
+        "mathpix_content": "\nor, substituting the values of $\\xi \\eta, \\zeta$ in terms of $X, Y, Z$,",
+        "font_size": 34,
+        "confidence": 0.9951240993104875
+      },
+      {
+        "page": 63,
+        "line_number": 12,
+        "type": "text",
+        "content": "The part of this which depends on $X$ may be written",
+        "mathpix_content": "\n\nThe part of this which depends on $X$ may be written",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 63,
+        "line_number": 16,
+        "type": "text",
+        "content": "adding and subtracting $\\frac{d X}{d x} \\frac{d x}{d a} \\frac{d x}{d \\beta}$, this becomes",
+        "mathpix_content": "\nadding and subtracting $\\frac{d X}{d x} \\frac{d x}{d a} \\frac{d x}{d \\beta}$, this becomes",
+        "font_size": 34,
+        "confidence": 0.9883146286010742
+      },
+      {
+        "page": 63,
+        "line_number": 23,
+        "type": "text",
+        "content": "Let us now suppose that the curves for which $a$ is constant",
+        "mathpix_content": "\n\nLet us now suppose that the curves for which $a$ is constant",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 63,
+        "line_number": 24,
+        "type": "text",
+        "content": "form a series of closed curves surrounding a point on the",
+        "mathpix_content": " form a series of closed curves surrounding a point on the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 63,
+        "line_number": 25,
+        "type": "text",
+        "content": "surface for which $a$ has its minimum value, $a_{0}$, and let the last",
+        "mathpix_content": " surface for which $a$ has its minimum value, $a_{0}$, and let the last",
+        "font_size": 34,
+        "confidence": 0.9912281036376953
+      },
+      {
+        "page": 63,
+        "line_number": 26,
+        "type": "text",
+        "content": "curve of the series, for which $a=a_{1}$, coincide with the closed",
+        "mathpix_content": " curve of the series, for which $a=a_{1}$, coincide with the closed",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 63,
+        "line_number": 27,
+        "type": "text",
+        "content": "curve 8.",
+        "mathpix_content": " curve 8.",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 63,
+        "line_number": 28,
+        "type": "text",
+        "content": "Let us also suppose that the curves for which $\\beta$ is constant",
+        "mathpix_content": "\n\nLet us also suppose that the curves for which $\\beta$ is constant",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 63,
+        "line_number": 29,
+        "type": "text",
+        "content": "form a series of lines drawn from the point at which $\\alpha=a_{0}$",
+        "mathpix_content": " form a series of lines drawn from the point at which $\\alpha=a_{0}$",
+        "font_size": 34,
+        "confidence": 0.6988773345947266
+      },
+      {
+        "page": 63,
+        "line_number": 30,
+        "type": "text",
+        "content": "to the closed curve 8 , the first, $\\beta_{0}$, and the last, $\\beta_{1}$, being",
+        "mathpix_content": " to the closed curve 8 , the first, $\\beta_{0}$, and the last, $\\beta_{1}$, being",
+        "font_size": 34,
+        "confidence": 0.7607421875
+      },
+      {
+        "page": 63,
+        "line_number": 31,
+        "type": "text",
+        "content": "identical.",
+        "mathpix_content": " identical.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 63,
+        "line_number": 32,
+        "type": "text",
+        "content": "Integrating (8) by parts, the first term with respect to $a$ and",
+        "mathpix_content": "\n\nIntegrating (8) by parts, the first term with respect to $a$ and",
+        "font_size": 34,
+        "confidence": 0.982421875
+      },
+      {
+        "page": 63,
+        "line_number": 33,
+        "type": "text",
+        "content": "the second with respect to $\\beta$, the double integrals destroy each",
+        "mathpix_content": " the second with respect to $\\beta$, the double integrals destroy each",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 63,
+        "line_number": 34,
+        "type": "text",
+        "content": "other and the expression becomes",
+        "mathpix_content": " other and the expression becomes",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 63,
+        "line_number": 39,
+        "type": "text",
+        "content": "Since the point ( $a, \\beta_{1}$ ) is identical with the point ( $a, \\beta_{0}$ ), the",
+        "mathpix_content": "\n\nSince the point ( $a, \\beta_{1}$ ) is identical with the point ( $a, \\beta_{0}$ ), the",
+        "font_size": 34,
+        "confidence": 0.7417941214516759
+      },
+      {
+        "page": 63,
+        "line_number": 40,
+        "type": "text",
+        "content": "third and fourth terms destroy each other ; and since there is",
+        "mathpix_content": " third and fourth terms destroy each other ; and since there is",
+        "font_size": 34,
+        "confidence": 0.73681640625
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

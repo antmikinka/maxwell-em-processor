@@ -1,0 +1,725 @@
+{
+  "chapter_id": "chapter_52",
+  "chapter_number": 2,
+  "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0$$",
+  "page_start": 324,
+  "page_end": 324,
+  "articles": [
+    {
+      "article_id": "article_186",
+      "article_number": 186,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_186",
+      "article_number": 186,
+      "title_original": "] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if",
+      "title_safe": "Theorem III. If V is any function of xprime and yprime and i",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_186",
+      "article_number": 186,
+      "title_original": "] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if",
+      "title_safe": "Theorem III. If V is any function of xprime and yprime and i",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_186",
+      "article_number": 186,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_289",
+      "article_number": 289,
+      "title_original": "a number of points on the transformed curve $x^{\\prime \\prime}$. If we do the",
+      "title_safe": "a number of points on the transformed curve xprime prime. If",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_186",
+      "article_number": 186,
+      "title_original": ".] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if",
+      "title_safe": "Theorem III. If V is any function of xprime and yprime and",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y=\\iint\\left(\\frac{d^{\\prime} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2right d x d yequalsiintleftfracdprime V",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}=\\frac{d^{2} V}{d x^{\\prime 2}}\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime} d x} \\frac{d x^{\\prime} d y^{\\prime}}{d x} & +\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2} \\\\",
+      "title_safe": "Vd x2equalsfracd2 Vd xprime 2leftfracd xprimed xright2plus2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} x^{\\prime}}{d x^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d x^{2}}}{d x^{\\prime}}",
+      "title_safe": "xprimed x2plusfracd Vd yprime fracd2 yprimed x2d xprime",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d y^{2}}=\\frac{d^{2} V}{d x^{2}}\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime}} \\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d y}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}$",
+      "title_safe": "Vd y2equalsfracd2 Vd x2leftfracd xprimed yright2plus2 fracd2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} x^{\\prime}}{d y^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d y^{2}}$$",
+      "title_safe": "xprimed y2plusfracd Vd yprime fracd2 yprimed y2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "), we find",
+      "title_safe": "we find",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}} & =\\frac{d^{2} V}{d x^{\\prime 2}}\\left\\{\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}\\right\\}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left\\{\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}\\right\\} \\\\",
+      "title_safe": "Vd x2plusfracd2 Vd y2 and equalsfracd2 Vd xprime 2leftleftfr",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right)",
+      "title_safe": "Vd xprime 2plusfracd2 Vd yprime 2rightleftfracd xprimed x fr",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y & =\\iint\\left(\\frac{d^{2} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right) d x d y \\\\",
+      "title_safe": "Vd x2plusfracd2 Vd y2right d x d y and equalsiintleftfracd2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d l^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}",
+      "title_safe": "Vd lprime 2plusfracd2 Vd yprime 2right d xprime d yprime",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2plus4 pi rhoequals0",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_186",
+      "article_number": 186,
+      "title_original": ".] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if",
+      "title_safe": "Theorem III. If V is any function of xprime and yprime and",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y=\\iint\\left(\\frac{d^{\\prime} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2right d x d yequalsiintleftfracdprime V",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}=\\frac{d^{2} V}{d x^{\\prime 2}}\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime} d x} \\frac{d x^{\\prime} d y^{\\prime}}{d x} & +\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2} \\\\",
+      "title_safe": "Vd x2equalsfracd2 Vd xprime 2leftfracd xprimed xright2plus2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} x^{\\prime}}{d x^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d x^{2}}}{d x^{\\prime}}",
+      "title_safe": "xprimed x2plusfracd Vd yprime fracd2 yprimed x2d xprime",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d y^{2}}=\\frac{d^{2} V}{d x^{2}}\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime}} \\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d y}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}$",
+      "title_safe": "Vd y2equalsfracd2 Vd x2leftfracd xprimed yright2plus2 fracd2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} x^{\\prime}}{d y^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d y^{2}}$$",
+      "title_safe": "xprimed y2plusfracd Vd yprime fracd2 yprimed y2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "), we find",
+      "title_safe": "we find",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}} & =\\frac{d^{2} V}{d x^{\\prime 2}}\\left\\{\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}\\right\\}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left\\{\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}\\right\\} \\\\",
+      "title_safe": "Vd x2plusfracd2 Vd y2 and equalsfracd2 Vd xprime 2leftleftfr",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right)",
+      "title_safe": "Vd xprime 2plusfracd2 Vd yprime 2rightleftfracd xprimed x fr",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y & =\\iint\\left(\\frac{d^{2} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right) d x d y \\\\",
+      "title_safe": "Vd x2plusfracd2 Vd y2right d x d y and equalsiintleftfracd2",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d l^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}",
+      "title_safe": "Vd lprime 2plusfracd2 Vd yprime 2right d xprime d yprime",
+      "page_start": 324,
+      "page_end": 323,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2plus4 pi rhoequals0",
+      "page_start": 324,
+      "page_end": 324,
+      "content": {
+        "raw_text": "\n--- Page 324 ---\n186.]\nTHEOREMS.\n289\na number of points on the transformed curve $x^{\\prime \\prime}$. If we do the\nsame for all the curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ on the first paper, we shall obtain\non the second paper a double series of curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ of a different\nform, but having the same property of cutting the paper into\nlittle squares.\n186.] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if\n$x^{\\prime}$ and $y^{\\prime}$ conjugate functions of $x$ and $y$, then\n$$\\iint\\left(\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y=\\iint\\left(\\frac{d^{\\prime} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}$$\nthe integration being between the same limits.\n$$\\begin{aligned}\n\\frac{d V}{d x}=\\frac{d V}{d x^{\\prime}} d x & +\\frac{d V}{d y^{\\prime}} \\frac{d y^{\\prime}}{d x} \\\\\n\\text { or } & \\\\\n\\frac{d^{2} V}{d x^{2}}=\\frac{d^{2} V}{d x^{\\prime 2}}\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime} d x} \\frac{d x^{\\prime} d y^{\\prime}}{d x} & +\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2} \\\\\n& +\\frac{d V \\frac{d^{2} x^{\\prime}}{d x^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d x^{2}}}{d x^{\\prime}}\n\\end{aligned}$$\nand $\\frac{d^{2} V}{d y^{2}}=\\frac{d^{2} V}{d x^{2}}\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime}} \\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d y}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}$\n$$+\\frac{d V}{d x^{\\prime}} \\frac{d^{2} x^{\\prime}}{d y^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d y^{2}}$$\nAdding the last two equations, and remembering the conditions\nof conjugate functions (1), we find\n$$\\begin{aligned}\n\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}} & =\\frac{d^{2} V}{d x^{\\prime 2}}\\left\\{\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}\\right\\}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left\\{\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}\\right\\} \\\\\n& =\\left(\\frac{d^{2} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right)\n\\end{aligned}$$\nHence\n$$\\begin{aligned}\n\\iint\\left(\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y & =\\iint\\left(\\frac{d^{2} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right) d x d y \\\\\n& =\\iint\\left(\\frac{d^{2} V}{d l^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}\n\\end{aligned}$$\nIf $V$ is a potential, then, by Poisson's equation\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0$$\nand we may write the result\nVOL. I.\n$$\\iint \\rho d x d y=\\iint_{\\mathbf{U}} \\rho^{\\prime} d x^{\\prime} d y^{\\prime}$$\n",
+        "mathpix_markdown": "\n--- Page 324 ---\n\na number of points on the transformed curve $x^{\\prime \\prime}$. If we do the\n same for all the curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ on the first paper, we shall obtain\n on the second paper a double series of curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ of a different\n form, but having the same property of cutting the paper into\n little squares.\n\n186.] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if\n $x^{\\prime}$ and $y^{\\prime}$ conjugate functions of $x$ and $y$, then\n\n$$\\iint\\left(\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y=\\iint\\left(\\frac{d^{\\prime} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}$$\n\nthe integration being between the same limits.\n\n$$\\begin{aligned}\n\\frac{d V}{d x}=\\frac{d V}{d x^{\\prime}} d x & +\\frac{d V}{d y^{\\prime}} \\frac{d y^{\\prime}}{d x} \\\\\n\\text { or } & \\\\\n\\frac{d^{2} V}{d x^{2}}=\\frac{d^{2} V}{d x^{\\prime 2}}\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime} d x} \\frac{d x^{\\prime} d y^{\\prime}}{d x} & +\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2} \\\\\n& +\\frac{d V \\frac{d^{2} x^{\\prime}}{d x^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d x^{2}}}{d x^{\\prime}}\n\\end{aligned}$$\n\nand $\\frac{d^{2} V}{d y^{2}}=\\frac{d^{2} V}{d x^{2}}\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime}} \\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d y}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}$\n\n$$+\\frac{d V}{d x^{\\prime}} \\frac{d^{2} x^{\\prime}}{d y^{2}}+\\frac{d V}{d y^{\\prime}} \\frac{d^{2} y^{\\prime}}{d y^{2}}$$\n\n\nAdding the last two equations, and remembering the conditions\n of conjugate functions (1), we find\n\n$$\\begin{aligned}\n\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}} & =\\frac{d^{2} V}{d x^{\\prime 2}}\\left\\{\\left(\\frac{d x^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}\\right\\}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left\\{\\left(\\frac{d y^{\\prime}}{d x}\\right)^{2}+\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}\\right\\} \\\\\n& =\\left(\\frac{d^{2} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right)\n\\end{aligned}$$\n\n\nHence\n\n$$\\begin{aligned}\n\\iint\\left(\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}\\right) d x d y & =\\iint\\left(\\frac{d^{2} V}{d x^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right)\\left(\\frac{d x^{\\prime}}{d x} \\frac{d y^{\\prime}}{d y}-\\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d x}\\right) d x d y \\\\\n& =\\iint\\left(\\frac{d^{2} V}{d l^{\\prime 2}}+\\frac{d^{2} V}{d y^{\\prime 2}}\\right) d x^{\\prime} d y^{\\prime}\n\\end{aligned}$$\n\n\nIf $V$ is a potential, then, by Poisson's equation\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0$$\n\nand we may write the result\n\n\nVOL. I.\n\n$$\\iint \\rho d x d y=\\iint_{\\mathbf{U}} \\rho^{\\prime} d x^{\\prime} d y^{\\prime}$$\n",
+        "structured_lines": [
+          {
+            "page": 324,
+            "line_number": 4,
+            "type": "text",
+            "content": "a number of points on the transformed curve $x^{\\prime \\prime}$. If we do the",
+            "mathpix_content": "\na number of points on the transformed curve $x^{\\prime \\prime}$. If we do the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 5,
+            "type": "text",
+            "content": "same for all the curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ on the first paper, we shall obtain",
+            "mathpix_content": " same for all the curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ on the first paper, we shall obtain",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 6,
+            "type": "text",
+            "content": "on the second paper a double series of curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ of a different",
+            "mathpix_content": " on the second paper a double series of curves $x^{\\prime \\prime}, y^{\\prime \\prime}$ of a different",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 7,
+            "type": "text",
+            "content": "form, but having the same property of cutting the paper into",
+            "mathpix_content": " form, but having the same property of cutting the paper into",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 8,
+            "type": "text",
+            "content": "little squares.",
+            "mathpix_content": " little squares.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 9,
+            "type": "text",
+            "content": "186.] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if",
+            "mathpix_content": "\n186.] Theorem III. If $V$ is any function of $x^{\\prime}$ and $y^{\\prime}$, and if",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 10,
+            "type": "text",
+            "content": "$x^{\\prime}$ and $y^{\\prime}$ conjugate functions of $x$ and $y$, then",
+            "mathpix_content": " $x^{\\prime}$ and $y^{\\prime}$ conjugate functions of $x$ and $y$, then",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 13,
+            "type": "text",
+            "content": "the integration being between the same limits.",
+            "mathpix_content": "\nthe integration being between the same limits.",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 324,
+            "line_number": 19,
+            "type": "text",
+            "content": "and $\\frac{d^{2} V}{d y^{2}}=\\frac{d^{2} V}{d x^{2}}\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime}} \\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d y}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}$",
+            "mathpix_content": "\nand $\\frac{d^{2} V}{d y^{2}}=\\frac{d^{2} V}{d x^{2}}\\left(\\frac{d x^{\\prime}}{d y}\\right)^{2}+2 \\frac{d^{2} V}{d x^{\\prime} d y^{\\prime}} \\frac{d x^{\\prime}}{d y} \\frac{d y^{\\prime}}{d y}+\\frac{d^{2} V}{d y^{\\prime 2}}\\left(\\frac{d y^{\\prime}}{d y}\\right)^{2}$",
+            "font_size": 27,
+            "confidence": 0.6022895896194314
+          },
+          {
+            "page": 324,
+            "line_number": 22,
+            "type": "text",
+            "content": "Adding the last two equations, and remembering the conditions",
+            "mathpix_content": "\n\nAdding the last two equations, and remembering the conditions",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 23,
+            "type": "text",
+            "content": "of conjugate functions (1), we find",
+            "mathpix_content": " of conjugate functions (1), we find",
+            "font_size": 27,
+            "confidence": 0.9263319838792086
+          },
+          {
+            "page": 324,
+            "line_number": 27,
+            "type": "text",
+            "content": "Hence",
+            "mathpix_content": "\n\nHence",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 31,
+            "type": "text",
+            "content": "If $V$ is a potential, then, by Poisson's equation",
+            "mathpix_content": "\n\nIf $V$ is a potential, then, by Poisson's equation",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 34,
+            "type": "text",
+            "content": "and we may write the result",
+            "mathpix_content": "\nand we may write the result",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 324,
+            "line_number": 35,
+            "type": "text",
+            "content": "VOL. I.",
+            "mathpix_content": "\n\nVOL. I.",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{2} \\iiint(f P+g Q+h R) d x d y d z",
+  "title_safe": "2 iiintf Pplusg Qplush R d x d y d z",
+  "page_start": 179,
+  "page_end": 178,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

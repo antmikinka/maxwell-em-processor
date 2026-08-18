@@ -1,0 +1,48 @@
+{
+  "article_id": "article_2025",
+  "article_number": 2025,
+  "title_original": "_11_28_e96c2f916abc8f617e8eg-564.jpg?height=1225&width=1005&top_left_y=540&top_left_x=142)",
+  "title_safe": "1128e96c2f916abc8f617e8eg-564.jpgheightequals1225andwidthequ",
+  "page_start": 564,
+  "page_end": 565,
+  "content": {
+    "raw_text": "\n--- Page 564 ---\nClerk Maxwells Electracty. Vol I\n\nFIG X.\nArt. 192.\n\nConfocal Ellipses and Hyperbolas\n\n--- Page 565 ---\n\"\n",
+    "mathpix_markdown": "\n--- Page 564 ---\n\n\n\\section*{FIG X.}\n\n\nArt. 192.\n\n![](https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-564.jpg?height=1225&width=1005&top_left_y=540&top_left_x=142)\n\n--- Page 565 ---\n\n\"\n",
+    "structured_lines": [
+      {
+        "page": 564,
+        "line_number": 3,
+        "type": "text",
+        "content": "FIG X.",
+        "mathpix_content": "\n\n\\section*{FIG X.}",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 564,
+        "line_number": 4,
+        "type": "text",
+        "content": "Art. 192.",
+        "mathpix_content": "\n\nArt. 192.",
+        "font_size": 21,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 565,
+        "line_number": 1,
+        "type": "text",
+        "content": "\"",
+        "mathpix_content": "\n\"",
+        "font_size": 80,
+        "confidence": 0.79821931081824
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

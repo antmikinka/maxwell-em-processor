@@ -24,4 +24,5 @@ may exist on a developer's machine must not be committed or published.
 
 Organized OCR of the Treatise lives in
 `MAXWELL_VOLUME_1_MASTER_OUTPUT/` and
-`MAXWELL_VOLUME_2_MASTER_OUTPUT/`.
+`MAXWELL_VOLUME_2_MASTER_OUTPUT/` (including `RAW_OUTPUTS/`).
+`Maxwell_TOC_Fixed/` is an intermediate TOC split, not the edition.

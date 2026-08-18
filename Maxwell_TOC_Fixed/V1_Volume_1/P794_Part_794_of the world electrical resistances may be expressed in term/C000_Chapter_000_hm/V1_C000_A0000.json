@@ -1,0 +1,381 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "hm .",
+  "title_safe": "hm",
+  "page_start": 501,
+  "page_end": 501,
+  "content": {
+    "raw_text": "\n--- Page 501 ---\n466\nMEASUREMENT OF RESISTANCE.\n[339.\nimportance, are still defective, on account of the disturbing in-\nfluence of electric absorption.\n336.] The unit of resistance may be an entirely arbitrary one,\nas in the case of Jacobi's Etalon, which was a certain copper\nwire of 22.4932 grammes weight, 7.61975 metres length, and\n0.667 millimetres diameter. Copies of this have been made\nby Leyser of Leipsig, and are to be found in different places.\nAccording to another method the unit may be defined as the\nresistance of a portion of a definite substance of definite\ndimensions. Thus, Siemen's unit is defined as the resistance of\na column of mercury of one metre in length, and one square\nmillimetre in section, at the temperature of $0^{\\circ} \\mathrm{C}$.\n337.] Finally, the unit may be defined with reference to the\nelectrostatic or the electromagnetic system of units. In practice\nthe electromagnetic system is used in all telegraphic operations,\nand therefore the only systematic units actually in use are those\nof this system.\nIn the electromagnetic system, as we shall shew at the proper\nplace, a resistance is a quantity of the dimensions of a velocity,\nand may therefore be expressed as a velocity. See Art. 628.\n338.] The first actual measurements on this system were\nmade by Weber, who employed as his unit one millimetre per\nsecond. Sir W. Thomson afterwards used one foot per second\nas a unit, but a large number of electricians have now agreed\nto use the unit of the British Association, which professes to\nrepresent a resistance which, expressed as a velocity, is ten\nmillions of metres per second. The magnitude of this unit is\nmore convenient than that of Weber's unit, which is too small.\nIt is sometimes referred to as the B.A. unit, but in order to\nconnect it with the name of the discoverer of the laws of\nresistance, it is called the Ohm.\n339.] To recollect its value in absolute measure it is useful\nto know that ten millions of metres is professedly the distance\nfrom the pole to the equator, measured along the meridian of\nParis. A body, therefore, which in one second travels along\na meridian from the pole to the equator would have a velocity\nwhich, on the electromagnetic system, is professedly represented\nby an 0 hm .\nI say professedly, because, if more accurate researches should\nprove that the Ohm, as constructed from the British Associa-\n",
+    "mathpix_markdown": "\n--- Page 501 ---\n\nimportance, are still defective, on account of the disturbing in\nfluence of electric absorption.\n\n336.] The unit of resistance may be an entirely arbitrary one,\n as in the case of Jacobi's Etalon, which was a certain copper\n wire of 22.4932 grammes weight, 7.61975 metres length, and\n 0.667 millimetres diameter. Copies of this have been made\n by Leyser of Leipsig, and are to be found in different places.\n\n\nAccording to another method the unit may be defined as the\n resistance of a portion of a definite substance of definite\n dimensions. Thus, Siemen's unit is defined as the resistance of\n a column of mercury of one metre in length, and one square\n millimetre in section, at the temperature of $0^{\\circ} \\mathrm{C}$.\n\n337.] Finally, the unit may be defined with reference to the\n electrostatic or the electromagnetic system of units. In practice\n the electromagnetic system is used in all telegraphic operations,\n and therefore the only systematic units actually in use are those\n of this system.\n\n\nIn the electromagnetic system, as we shall shew at the proper\n place, a resistance is a quantity of the dimensions of a velocity,\n and may therefore be expressed as a velocity. See Art. 628.\n\n338.] The first actual measurements on this system were\n made by Weber, who employed as his unit one millimetre per\n second. Sir W. Thomson afterwards used one foot per second\n as a unit, but a large number of electricians have now agreed\n to use the unit of the British Association, which professes to\n represent a resistance which, expressed as a velocity, is ten\n millions of metres per second. The magnitude of this unit is\n more convenient than that of Weber's unit, which is too small.\n It is sometimes referred to as the B.A. unit, but in order to\n connect it with the name of the discoverer of the laws of\n resistance, it is called the Ohm.\n\n339.] To recollect its value in absolute measure it is useful\n to know that ten millions of metres is professedly the distance\n from the pole to the equator, measured along the meridian of\n Paris. A body, therefore, which in one second travels along\n a meridian from the pole to the equator would have a velocity\n which, on the electromagnetic system, is professedly represented\n by an 0 hm .\n\n\nI say professedly, because, if more accurate researches should\n prove that the Ohm, as constructed from the British Associa-\n",
+    "structured_lines": [
+      {
+        "page": 501,
+        "line_number": 4,
+        "type": "text",
+        "content": "importance, are still defective, on account of the disturbing in-",
+        "mathpix_content": "\nimportance, are still defective, on account of the disturbing in",
+        "font_size": 34,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 501,
+        "line_number": 5,
+        "type": "text",
+        "content": "fluence of electric absorption.",
+        "mathpix_content": "fluence of electric absorption.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 6,
+        "type": "text",
+        "content": "336.] The unit of resistance may be an entirely arbitrary one,",
+        "mathpix_content": "\n336.] The unit of resistance may be an entirely arbitrary one,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 7,
+        "type": "text",
+        "content": "as in the case of Jacobi's Etalon, which was a certain copper",
+        "mathpix_content": " as in the case of Jacobi's Etalon, which was a certain copper",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 8,
+        "type": "text",
+        "content": "wire of 22.4932 grammes weight, 7.61975 metres length, and",
+        "mathpix_content": " wire of 22.4932 grammes weight, 7.61975 metres length, and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 9,
+        "type": "text",
+        "content": "0.667 millimetres diameter. Copies of this have been made",
+        "mathpix_content": " 0.667 millimetres diameter. Copies of this have been made",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 10,
+        "type": "text",
+        "content": "by Leyser of Leipsig, and are to be found in different places.",
+        "mathpix_content": " by Leyser of Leipsig, and are to be found in different places.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 11,
+        "type": "text",
+        "content": "According to another method the unit may be defined as the",
+        "mathpix_content": "\n\nAccording to another method the unit may be defined as the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 12,
+        "type": "text",
+        "content": "resistance of a portion of a definite substance of definite",
+        "mathpix_content": " resistance of a portion of a definite substance of definite",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 13,
+        "type": "text",
+        "content": "dimensions. Thus, Siemen's unit is defined as the resistance of",
+        "mathpix_content": " dimensions. Thus, Siemen's unit is defined as the resistance of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 14,
+        "type": "text",
+        "content": "a column of mercury of one metre in length, and one square",
+        "mathpix_content": " a column of mercury of one metre in length, and one square",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 15,
+        "type": "text",
+        "content": "millimetre in section, at the temperature of $0^{\\circ} \\mathrm{C}$.",
+        "mathpix_content": " millimetre in section, at the temperature of $0^{\\circ} \\mathrm{C}$.",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 501,
+        "line_number": 16,
+        "type": "text",
+        "content": "337.] Finally, the unit may be defined with reference to the",
+        "mathpix_content": "\n337.] Finally, the unit may be defined with reference to the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 17,
+        "type": "text",
+        "content": "electrostatic or the electromagnetic system of units. In practice",
+        "mathpix_content": " electrostatic or the electromagnetic system of units. In practice",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 18,
+        "type": "text",
+        "content": "the electromagnetic system is used in all telegraphic operations,",
+        "mathpix_content": " the electromagnetic system is used in all telegraphic operations,",
+        "font_size": 34,
+        "confidence": 0.9541015625
+      },
+      {
+        "page": 501,
+        "line_number": 19,
+        "type": "text",
+        "content": "and therefore the only systematic units actually in use are those",
+        "mathpix_content": " and therefore the only systematic units actually in use are those",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 20,
+        "type": "text",
+        "content": "of this system.",
+        "mathpix_content": " of this system.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 21,
+        "type": "text",
+        "content": "In the electromagnetic system, as we shall shew at the proper",
+        "mathpix_content": "\n\nIn the electromagnetic system, as we shall shew at the proper",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 22,
+        "type": "text",
+        "content": "place, a resistance is a quantity of the dimensions of a velocity,",
+        "mathpix_content": " place, a resistance is a quantity of the dimensions of a velocity,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 23,
+        "type": "text",
+        "content": "and may therefore be expressed as a velocity. See Art. 628.",
+        "mathpix_content": " and may therefore be expressed as a velocity. See Art. 628.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 24,
+        "type": "text",
+        "content": "338.] The first actual measurements on this system were",
+        "mathpix_content": "\n338.] The first actual measurements on this system were",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 25,
+        "type": "text",
+        "content": "made by Weber, who employed as his unit one millimetre per",
+        "mathpix_content": " made by Weber, who employed as his unit one millimetre per",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 501,
+        "line_number": 26,
+        "type": "text",
+        "content": "second. Sir W. Thomson afterwards used one foot per second",
+        "mathpix_content": " second. Sir W. Thomson afterwards used one foot per second",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 27,
+        "type": "text",
+        "content": "as a unit, but a large number of electricians have now agreed",
+        "mathpix_content": " as a unit, but a large number of electricians have now agreed",
+        "font_size": 34,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 501,
+        "line_number": 28,
+        "type": "text",
+        "content": "to use the unit of the British Association, which professes to",
+        "mathpix_content": " to use the unit of the British Association, which professes to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 29,
+        "type": "text",
+        "content": "represent a resistance which, expressed as a velocity, is ten",
+        "mathpix_content": " represent a resistance which, expressed as a velocity, is ten",
+        "font_size": 34,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 501,
+        "line_number": 30,
+        "type": "text",
+        "content": "millions of metres per second. The magnitude of this unit is",
+        "mathpix_content": " millions of metres per second. The magnitude of this unit is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 31,
+        "type": "text",
+        "content": "more convenient than that of Weber's unit, which is too small.",
+        "mathpix_content": " more convenient than that of Weber's unit, which is too small.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 32,
+        "type": "text",
+        "content": "It is sometimes referred to as the B.A. unit, but in order to",
+        "mathpix_content": " It is sometimes referred to as the B.A. unit, but in order to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 33,
+        "type": "text",
+        "content": "connect it with the name of the discoverer of the laws of",
+        "mathpix_content": " connect it with the name of the discoverer of the laws of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 34,
+        "type": "text",
+        "content": "resistance, it is called the Ohm.",
+        "mathpix_content": " resistance, it is called the Ohm.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 35,
+        "type": "text",
+        "content": "339.] To recollect its value in absolute measure it is useful",
+        "mathpix_content": "\n339.] To recollect its value in absolute measure it is useful",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 36,
+        "type": "text",
+        "content": "to know that ten millions of metres is professedly the distance",
+        "mathpix_content": " to know that ten millions of metres is professedly the distance",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 37,
+        "type": "text",
+        "content": "from the pole to the equator, measured along the meridian of",
+        "mathpix_content": " from the pole to the equator, measured along the meridian of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 38,
+        "type": "text",
+        "content": "Paris. A body, therefore, which in one second travels along",
+        "mathpix_content": " Paris. A body, therefore, which in one second travels along",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 39,
+        "type": "text",
+        "content": "a meridian from the pole to the equator would have a velocity",
+        "mathpix_content": " a meridian from the pole to the equator would have a velocity",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 501,
+        "line_number": 40,
+        "type": "text",
+        "content": "which, on the electromagnetic system, is professedly represented",
+        "mathpix_content": " which, on the electromagnetic system, is professedly represented",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 501,
+        "line_number": 41,
+        "type": "text",
+        "content": "by an 0 hm .",
+        "mathpix_content": " by an 0 hm .",
+        "font_size": 34,
+        "confidence": 0.41776882018893957
+      },
+      {
+        "page": 501,
+        "line_number": 42,
+        "type": "text",
+        "content": "I say professedly, because, if more accurate researches should",
+        "mathpix_content": "\n\nI say professedly, because, if more accurate researches should",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 501,
+        "line_number": 43,
+        "type": "text",
+        "content": "prove that the Ohm, as constructed from the British Associa-",
+        "mathpix_content": " prove that the Ohm, as constructed from the British Associa-",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

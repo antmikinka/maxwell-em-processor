@@ -1,0 +1,822 @@
+{
+  "chapter_id": "chapter_250",
+  "chapter_number": 4,
+  "title": "\\pi f=\\lambda \\frac{d \\Psi}{d x}, \\quad 4 \\pi g=\\lambda \\frac{d \\Psi}{d y}, \\quad 4 \\pi h=\\lambda \\frac{d \\Psi}{d z}, \\tag{25}",
+  "page_start": 187,
+  "page_end": 187,
+  "articles": [
+    {
+      "article_id": "article_152",
+      "article_number": 152,
+      "title_original": "GENERAL THEOREMS.",
+      "title_safe": "GENERAL THEOREMS",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_102",
+      "article_number": 102,
+      "title_original": "$c$.",
+      "title_safe": "c",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_102",
+      "article_number": 102,
+      "title_original": "c.] As an illustration of this method, let us apply it to",
+      "title_safe": "c. As an illustration of this method let us apply it to",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=f_{1}(x, y)=a$$",
+      "title_safe": "equalsf1x yequalsa",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_19",
+      "article_number": 19,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=f_{2}(x, y)=b$$",
+      "title_safe": "equalsf2x yequalsb",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_20",
+      "article_number": 20,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ", \\quad g=0, \\quad \\frac{d h}{d z}=0 .$$",
+      "title_safe": "quad gequals0 quad fracd hd zequals0",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\int_{a}^{z} h d z=-4 \\pi h(z-a)$$",
+      "title_safe": "pi intaz h d zequals-4 pi hz-a",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_22",
+      "article_number": 22,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "$, hence",
+      "title_safe": "hence",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi(b-a)} \\\\",
+      "title_safe": "4 pib-a",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_23",
+      "article_number": 23,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_24",
+      "article_number": 24,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_24",
+      "article_number": 24,
+      "title_original": ").",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=\\lambda \\frac{d \\Psi}{d x}, \\quad 4 \\pi g=\\lambda \\frac{d \\Psi}{d y}, \\quad 4 \\pi h=\\lambda \\frac{d \\Psi}{d z},$$",
+      "title_safe": "pi fequalslambda fracd Psid x quad 4 pi gequalslambda fracd",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_25",
+      "article_number": 25,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_102",
+      "article_number": 102,
+      "title_original": "c.] As an illustration of this method, let us apply it to",
+      "title_safe": "c. As an illustration of this method let us apply it to",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=f_{1}(x, y)=a \\tag{19}",
+      "title_safe": "equalsf1x yequalsa tag19",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=f_{2}(x, y)=b \\tag{20}",
+      "title_safe": "equalsf2x yequalsb tag20",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ", \\quad g=0, \\quad \\frac{d h}{d z}=0 . \\tag{21}",
+      "title_safe": "quad gequals0 quad fracd hd zequals0 . tag21",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\int_{a}^{z} h d z=-4 \\pi h(z-a) \\tag{22}",
+      "title_safe": "pi intaz h d zequals-4 pi hz-a tag22",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "$, hence",
+      "title_safe": "hence",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi(b-a)}  \\tag{23}\\\\",
+      "title_safe": "4 pib-a tag23",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_24",
+      "article_number": 24,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_24",
+      "article_number": 24,
+      "title_original": ").",
+      "title_safe": "Article",
+      "page_start": 187,
+      "page_end": 186,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=\\lambda \\frac{d \\Psi}{d x}, \\quad 4 \\pi g=\\lambda \\frac{d \\Psi}{d y}, \\quad 4 \\pi h=\\lambda \\frac{d \\Psi}{d z}, \\tag{25}",
+      "title_safe": "pi fequalslambda fracd Psid x quad 4 pi gequalslambda fracd",
+      "page_start": 187,
+      "page_end": 187,
+      "content": {
+        "raw_text": "\n--- Page 187 ---\n152\nGENERAL THEOREMS.\n[102 $c$.\nIn certain cases however we may obtain an approximation by\na simpler process.\n102 c.] As an illustration of this method, let us apply it to\nobtain successive approximations to the equipotential surfaces\nand lines of induction in the electric field between two surfaces\nwhich are nearly but not exactly plane and parallel, one of\nwhich is maintained at potential zero, and the other at potential\nunity.\nLet the equations of the two surfaces be\n$$z_{1}=f_{1}(x, y)=a$$\n(19)\nfor the surface whose potential is zero, and\n$$z_{2}=f_{2}(x, y)=b$$\n(20)\nfor the surface whose potential is unity, $a$ and $b$ being given\nfunctions of $x$ and $y$, of which $b$ is always greater than $a$. The\nfirst derivatives of $a$ and $b$ with respect to $x$ and $y$ are small\nquantities of which we may neglect powers and products of more\nthan two dimensions.\nWe shall begin by supposing that the lines of induction are\nparallel to the axis of $z$, in which case\n$$f=0, \\quad g=0, \\quad \\frac{d h}{d z}=0 .$$\n(21)\nHence $h$ is constant along each individual line of induction,\nand\n$$\\Psi=-4 \\pi \\int_{a}^{z} h d z=-4 \\pi h(z-a)$$\n(22)\nWhen $z=b, \\Psi=1$, hence\nand\n$$\\begin{gathered}\nh=-\\frac{1}{4 \\pi(b-a)} \\\\\n\\Psi=\\frac{z-a}{b-a}\n\\end{gathered}$$\n(23)\n(24)\nwhich gives a first approximation to the potential, and indicates\na series of equipotential surfaces the intervals between which,\nmeasured parallel to $z$, are equal.\nTo obtain a second approximation to the lines of induction,\nlet us assume that they are everywhere normal to the equi-\npotential surfaces as given by equation (24).\nThis is equivalent to the conditions\n$$4 \\pi f=\\lambda \\frac{d \\Psi}{d x}, \\quad 4 \\pi g=\\lambda \\frac{d \\Psi}{d y}, \\quad 4 \\pi h=\\lambda \\frac{d \\Psi}{d z},$$\n(25)\n",
+        "mathpix_markdown": "\n--- Page 187 ---\n\n\nIn certain cases however we may obtain an approximation by\n a simpler process.\n\n\n102 c.] As an illustration of this method, let us apply it to\n obtain successive approximations to the equipotential surfaces\n and lines of induction in the electric field between two surfaces\n which are nearly but not exactly plane and parallel, one of\n which is maintained at potential zero, and the other at potential\n unity.\n\n\nLet the equations of the two surfaces be\n\n$$\\begin{equation*}\nz_{1}=f_{1}(x, y)=a \\tag{19}\n\\end{equation*}$$\n\nfor the surface whose potential is zero, and\n\n$$\\begin{equation*}\nz_{2}=f_{2}(x, y)=b \\tag{20}\n\\end{equation*}$$\n\nfor the surface whose potential is unity, $a$ and $b$ being given\n functions of $x$ and $y$, of which $b$ is always greater than $a$. The\n first derivatives of $a$ and $b$ with respect to $x$ and $y$ are small\n quantities of which we may neglect powers and products of more\n than two dimensions.\n\n\nWe shall begin by supposing that the lines of induction are\n parallel to the axis of $z$, in which case\n\n$$\\begin{equation*}\nf=0, \\quad g=0, \\quad \\frac{d h}{d z}=0 . \\tag{21}\n\\end{equation*}$$\n\n\nHence $h$ is constant along each individual line of induction,\n and\n\n$$\\begin{equation*}\n\\Psi=-4 \\pi \\int_{a}^{z} h d z=-4 \\pi h(z-a) \\tag{22}\n\\end{equation*}$$\n\n\nWhen $z=b, \\Psi=1$, hence\n\nand\n\n$$\\begin{gather*}\nh=-\\frac{1}{4 \\pi(b-a)}  \\tag{23}\\\\\n\\Psi=\\frac{z-a}{b-a} \\tag{24}\n\\end{gather*}$$\n\nwhich gives a first approximation to the potential, and indicates\n a series of equipotential surfaces the intervals between which,\n measured parallel to $z$, are equal.\n\n\nTo obtain a second approximation to the lines of induction,\n let us assume that they are everywhere normal to the equi\npotential surfaces as given by equation (24).\n\n\nThis is equivalent to the conditions\n\n$$\\begin{equation*}\n4 \\pi f=\\lambda \\frac{d \\Psi}{d x}, \\quad 4 \\pi g=\\lambda \\frac{d \\Psi}{d y}, \\quad 4 \\pi h=\\lambda \\frac{d \\Psi}{d z}, \\tag{25}\n\\end{equation*}$$\n",
+        "structured_lines": [
+          {
+            "page": 187,
+            "line_number": 4,
+            "type": "text",
+            "content": "In certain cases however we may obtain an approximation by",
+            "mathpix_content": "\n\nIn certain cases however we may obtain an approximation by",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 5,
+            "type": "text",
+            "content": "a simpler process.",
+            "mathpix_content": " a simpler process.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 6,
+            "type": "text",
+            "content": "102 c.] As an illustration of this method, let us apply it to",
+            "mathpix_content": "\n\n102 c.] As an illustration of this method, let us apply it to",
+            "font_size": 27,
+            "confidence": 0.96923828125
+          },
+          {
+            "page": 187,
+            "line_number": 7,
+            "type": "text",
+            "content": "obtain successive approximations to the equipotential surfaces",
+            "mathpix_content": " obtain successive approximations to the equipotential surfaces",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 8,
+            "type": "text",
+            "content": "and lines of induction in the electric field between two surfaces",
+            "mathpix_content": " and lines of induction in the electric field between two surfaces",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 9,
+            "type": "text",
+            "content": "which are nearly but not exactly plane and parallel, one of",
+            "mathpix_content": " which are nearly but not exactly plane and parallel, one of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 10,
+            "type": "text",
+            "content": "which is maintained at potential zero, and the other at potential",
+            "mathpix_content": " which is maintained at potential zero, and the other at potential",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 11,
+            "type": "text",
+            "content": "unity.",
+            "mathpix_content": " unity.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 12,
+            "type": "text",
+            "content": "Let the equations of the two surfaces be",
+            "mathpix_content": "\n\nLet the equations of the two surfaces be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 16,
+            "type": "text",
+            "content": "for the surface whose potential is zero, and",
+            "mathpix_content": "\nfor the surface whose potential is zero, and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 20,
+            "type": "text",
+            "content": "for the surface whose potential is unity, $a$ and $b$ being given",
+            "mathpix_content": "\nfor the surface whose potential is unity, $a$ and $b$ being given",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 21,
+            "type": "text",
+            "content": "functions of $x$ and $y$, of which $b$ is always greater than $a$. The",
+            "mathpix_content": " functions of $x$ and $y$, of which $b$ is always greater than $a$. The",
+            "font_size": 27,
+            "confidence": 0.9931700215674937
+          },
+          {
+            "page": 187,
+            "line_number": 22,
+            "type": "text",
+            "content": "first derivatives of $a$ and $b$ with respect to $x$ and $y$ are small",
+            "mathpix_content": " first derivatives of $a$ and $b$ with respect to $x$ and $y$ are small",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 23,
+            "type": "text",
+            "content": "quantities of which we may neglect powers and products of more",
+            "mathpix_content": " quantities of which we may neglect powers and products of more",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 24,
+            "type": "text",
+            "content": "than two dimensions.",
+            "mathpix_content": " than two dimensions.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 25,
+            "type": "text",
+            "content": "We shall begin by supposing that the lines of induction are",
+            "mathpix_content": "\n\nWe shall begin by supposing that the lines of induction are",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 26,
+            "type": "text",
+            "content": "parallel to the axis of $z$, in which case",
+            "mathpix_content": " parallel to the axis of $z$, in which case",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 30,
+            "type": "text",
+            "content": "Hence $h$ is constant along each individual line of induction,",
+            "mathpix_content": "\n\nHence $h$ is constant along each individual line of induction,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 31,
+            "type": "text",
+            "content": "and",
+            "mathpix_content": " and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 35,
+            "type": "text",
+            "content": "When $z=b, \\Psi=1$, hence",
+            "mathpix_content": "\n\nWhen $z=b, \\Psi=1$, hence",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 36,
+            "type": "text",
+            "content": "and",
+            "mathpix_content": "\nand",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 42,
+            "type": "text",
+            "content": "which gives a first approximation to the potential, and indicates",
+            "mathpix_content": "\nwhich gives a first approximation to the potential, and indicates",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 43,
+            "type": "text",
+            "content": "a series of equipotential surfaces the intervals between which,",
+            "mathpix_content": " a series of equipotential surfaces the intervals between which,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 44,
+            "type": "text",
+            "content": "measured parallel to $z$, are equal.",
+            "mathpix_content": " measured parallel to $z$, are equal.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 45,
+            "type": "text",
+            "content": "To obtain a second approximation to the lines of induction,",
+            "mathpix_content": "\n\nTo obtain a second approximation to the lines of induction,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 46,
+            "type": "text",
+            "content": "let us assume that they are everywhere normal to the equi-",
+            "mathpix_content": " let us assume that they are everywhere normal to the equi",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 47,
+            "type": "text",
+            "content": "potential surfaces as given by equation (24).",
+            "mathpix_content": "potential surfaces as given by equation (24).",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 187,
+            "line_number": 48,
+            "type": "text",
+            "content": "This is equivalent to the conditions",
+            "mathpix_content": "\n\nThis is equivalent to the conditions",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": ") must be written",
+  "title_safe": "must be written",
+  "page_start": 164,
+  "page_end": 163,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "}$ is placed on the surface",
+  "title_safe": "is placed on the surface",
+  "page_start": 229,
+  "page_end": 229,
+  "content": {
+    "raw_text": "\n--- Page 229 ---\n\nCHAPTER IX.\n\nSPHERICAL HARMONICS.\n128.] The mathematical theory of spherical harmonics has\nbeen made the subject of several special treatises. The Handbuch\nder Kugelfunctionen of Dr. E. Heine, which is the most elaborate\nwork on the subject, has now (1878) reached a second edition in\ntwo volumes, and Dr. F. Neumann has published his Beitr\u00e4ge\nzur Theorie der Kugelfumctionen (Leipzig, Teubner, 1878). The\ntreatment of the subject in Thomson and Tait's Natural Philo-\nsophy is considerably improved in the second edition (1879), and\nMr. Todhunter's Elementary Treatise on Laplace's Furctions,\nLam\u00e9's Functions, and Bessel's Functions, together with Mr.\nFerrers' Elementary Treatise on .Spherical Harmonics and\nsubjects connected with them, have rendered it unnecessary to\ndevote much space in a book on electricity to the purely mathe-\nmatical development of the subject.\nI have retained however the specification of a spherical\nharmonic in terms of its poles.\n\nOn Singular Points at which the Potential becomes Infinite.\n129 a.] If a charge, $A_{0}$, of electricity is uniformly spread over\nthe surface of a sphere the coordinates of whose centre are\n( $a, b, c$ ), the potential at any point ( $x, y, z$ ) outside the sphere is,\nby Art. 125,\n$$V=\\frac{A_{0}}{r},$$\n(1)\nwhere\n$$r^{2}=(x-a)^{2}+(y-b)^{2}+(z-c)^{2} .$$\n(2)\nAs the expression for $V$ is independent of the radius of the\nsphere, the form of the expression will be the same if we suppose\nthe radius infinitely small. The physical interpretation of the\nexpression would be that the charge $A_{0}$ is placed on the surface\nof an infinitely small sphere, which is sensibly the same as a\n",
+    "mathpix_markdown": "\n--- Page 229 ---\n\n\n\\section*{CHAPTER IX.}\n\n\n\\section*{SPHERICAL HARMONICS.}\n\n128.] The mathematical theory of spherical harmonics has\n been made the subject of several special treatises. The Handbuch\n der Kugelfunctionen of Dr. E. Heine, which is the most elaborate\n work on the subject, has now (1878) reached a second edition in\n two volumes, and Dr. F. Neumann has published his Beitr\u00e4ge\n zur Theorie der Kugelfumctionen (Leipzig, Teubner, 1878). The\n treatment of the subject in Thomson and Tait's Natural Philo\nsophy is considerably improved in the second edition (1879), and\n Mr. Todhunter's Elementary Treatise on Laplace's Furctions,\n Lam\u00e9's Functions, and Bessel's Functions, together with Mr.\n Ferrers' Elementary Treatise on .Spherical Harmonics and\n subjects connected with them, have rendered it unnecessary to\n devote much space in a book on electricity to the purely mathe\nmatical development of the subject.\n\n\nI have retained however the specification of a spherical\n harmonic in terms of its poles.\n\n\n\\section*{On Singular Points at which the Potential becomes Infinite.}\n\n\n129 a.] If a charge, $A_{0}$, of electricity is uniformly spread over\n the surface of a sphere the coordinates of whose centre are\n ( $a, b, c$ ), the potential at any point ( $x, y, z$ ) outside the sphere is,\n by Art. 125,\n\n$$\\begin{equation*}\nV=\\frac{A_{0}}{r}, \\tag{1}\n\\end{equation*}$$\n\nwhere\n\n$$\\begin{equation*}\nr^{2}=(x-a)^{2}+(y-b)^{2}+(z-c)^{2} . \\tag{2}\n\\end{equation*}$$\n\n\nAs the expression for $V$ is independent of the radius of the\n sphere, the form of the expression will be the same if we suppose\n the radius infinitely small. The physical interpretation of the\n expression would be that the charge $A_{0}$ is placed on the surface\n of an infinitely small sphere, which is sensibly the same as a\n",
+    "structured_lines": [
+      {
+        "page": 229,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER IX.",
+        "mathpix_content": "\n\n\\section*{CHAPTER IX.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 4,
+        "type": "text",
+        "content": "SPHERICAL HARMONICS.",
+        "mathpix_content": "\n\n\\section*{SPHERICAL HARMONICS.}",
+        "font_size": 21,
+        "confidence": 0.8120212554931641
+      },
+      {
+        "page": 229,
+        "line_number": 5,
+        "type": "text",
+        "content": "128.] The mathematical theory of spherical harmonics has",
+        "mathpix_content": "\n128.] The mathematical theory of spherical harmonics has",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 229,
+        "line_number": 6,
+        "type": "text",
+        "content": "been made the subject of several special treatises. The Handbuch",
+        "mathpix_content": " been made the subject of several special treatises. The Handbuch",
+        "font_size": 27,
+        "confidence": 0.7560346922991481
+      },
+      {
+        "page": 229,
+        "line_number": 7,
+        "type": "text",
+        "content": "der Kugelfunctionen of Dr. E. Heine, which is the most elaborate",
+        "mathpix_content": " der Kugelfunctionen of Dr. E. Heine, which is the most elaborate",
+        "font_size": 27,
+        "confidence": 0.98974609375
+      },
+      {
+        "page": 229,
+        "line_number": 8,
+        "type": "text",
+        "content": "work on the subject, has now (1878) reached a second edition in",
+        "mathpix_content": " work on the subject, has now (1878) reached a second edition in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 9,
+        "type": "text",
+        "content": "two volumes, and Dr. F. Neumann has published his Beitr\u00e4ge",
+        "mathpix_content": " two volumes, and Dr. F. Neumann has published his Beitr\u00e4ge",
+        "font_size": 27,
+        "confidence": 0.7901413440704346
+      },
+      {
+        "page": 229,
+        "line_number": 10,
+        "type": "text",
+        "content": "zur Theorie der Kugelfumctionen (Leipzig, Teubner, 1878). The",
+        "mathpix_content": " zur Theorie der Kugelfumctionen (Leipzig, Teubner, 1878). The",
+        "font_size": 27,
+        "confidence": 0.6564425717550912
+      },
+      {
+        "page": 229,
+        "line_number": 11,
+        "type": "text",
+        "content": "treatment of the subject in Thomson and Tait's Natural Philo-",
+        "mathpix_content": " treatment of the subject in Thomson and Tait's Natural Philo",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 12,
+        "type": "text",
+        "content": "sophy is considerably improved in the second edition (1879), and",
+        "mathpix_content": "sophy is considerably improved in the second edition (1879), and",
+        "font_size": 27,
+        "confidence": 0.9965848922729492
+      },
+      {
+        "page": 229,
+        "line_number": 13,
+        "type": "text",
+        "content": "Mr. Todhunter's Elementary Treatise on Laplace's Furctions,",
+        "mathpix_content": " Mr. Todhunter's Elementary Treatise on Laplace's Furctions,",
+        "font_size": 27,
+        "confidence": 0.4694487871490636
+      },
+      {
+        "page": 229,
+        "line_number": 14,
+        "type": "text",
+        "content": "Lam\u00e9's Functions, and Bessel's Functions, together with Mr.",
+        "mathpix_content": " Lam\u00e9's Functions, and Bessel's Functions, together with Mr.",
+        "font_size": 27,
+        "confidence": 0.76708984375
+      },
+      {
+        "page": 229,
+        "line_number": 15,
+        "type": "text",
+        "content": "Ferrers' Elementary Treatise on .Spherical Harmonics and",
+        "mathpix_content": " Ferrers' Elementary Treatise on .Spherical Harmonics and",
+        "font_size": 27,
+        "confidence": 0.9388412435587434
+      },
+      {
+        "page": 229,
+        "line_number": 16,
+        "type": "text",
+        "content": "subjects connected with them, have rendered it unnecessary to",
+        "mathpix_content": " subjects connected with them, have rendered it unnecessary to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 17,
+        "type": "text",
+        "content": "devote much space in a book on electricity to the purely mathe-",
+        "mathpix_content": " devote much space in a book on electricity to the purely mathe",
+        "font_size": 27,
+        "confidence": 0.9853515625
+      },
+      {
+        "page": 229,
+        "line_number": 18,
+        "type": "text",
+        "content": "matical development of the subject.",
+        "mathpix_content": "matical development of the subject.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 19,
+        "type": "text",
+        "content": "I have retained however the specification of a spherical",
+        "mathpix_content": "\n\nI have retained however the specification of a spherical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 20,
+        "type": "text",
+        "content": "harmonic in terms of its poles.",
+        "mathpix_content": " harmonic in terms of its poles.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 22,
+        "type": "text",
+        "content": "On Singular Points at which the Potential becomes Infinite.",
+        "mathpix_content": "\n\n\\section*{On Singular Points at which the Potential becomes Infinite.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 23,
+        "type": "text",
+        "content": "129 a.] If a charge, $A_{0}$, of electricity is uniformly spread over",
+        "mathpix_content": "\n\n129 a.] If a charge, $A_{0}$, of electricity is uniformly spread over",
+        "font_size": 27,
+        "confidence": 0.6348545774817467
+      },
+      {
+        "page": 229,
+        "line_number": 24,
+        "type": "text",
+        "content": "the surface of a sphere the coordinates of whose centre are",
+        "mathpix_content": " the surface of a sphere the coordinates of whose centre are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 25,
+        "type": "text",
+        "content": "( $a, b, c$ ), the potential at any point ( $x, y, z$ ) outside the sphere is,",
+        "mathpix_content": " ( $a, b, c$ ), the potential at any point ( $x, y, z$ ) outside the sphere is,",
+        "font_size": 27,
+        "confidence": 0.8275676857682956
+      },
+      {
+        "page": 229,
+        "line_number": 26,
+        "type": "text",
+        "content": "by Art. 125,",
+        "mathpix_content": " by Art. 125,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 30,
+        "type": "text",
+        "content": "where",
+        "mathpix_content": "\nwhere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 34,
+        "type": "text",
+        "content": "As the expression for $V$ is independent of the radius of the",
+        "mathpix_content": "\n\nAs the expression for $V$ is independent of the radius of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 35,
+        "type": "text",
+        "content": "sphere, the form of the expression will be the same if we suppose",
+        "mathpix_content": " sphere, the form of the expression will be the same if we suppose",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 36,
+        "type": "text",
+        "content": "the radius infinitely small. The physical interpretation of the",
+        "mathpix_content": " the radius infinitely small. The physical interpretation of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 37,
+        "type": "text",
+        "content": "expression would be that the charge $A_{0}$ is placed on the surface",
+        "mathpix_content": " expression would be that the charge $A_{0}$ is placed on the surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 229,
+        "line_number": 38,
+        "type": "text",
+        "content": "of an infinitely small sphere, which is sensibly the same as a",
+        "mathpix_content": " of an infinitely small sphere, which is sensibly the same as a",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

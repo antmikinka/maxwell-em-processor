@@ -1,0 +1,801 @@
+{
+  "chapter_id": "chapter_53",
+  "chapter_number": 1,
+  "title": "}{\\gamma}=(-1)^{\\sigma} \\frac{(2 \\sigma)!}{2^{2 \\sigma} \\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right) \\frac{1}{r^{2 \\sigma+1}}, \\tag{65}",
+  "page_start": 246,
+  "page_end": 246,
+  "articles": [
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "2 \\cdot 3} \\frac{d^{\\sigma-3}}{d x^{\\sigma-3}} \\frac{d^{3}}{d y^{3}}+\\text { \\&c. } \\\\",
+      "title_safe": "2 cdot 3 fracdsigma-3d xsigma-3 fracd3d y3plustext andc",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "2} \\frac{d^{2}}{d x^{\\sigma-2}} \\frac{d y^{2}}{d y^{2}}+\\text { \\&c. }",
+      "title_safe": "2 fracd2d xsigma-2 fracd y2d y2plustext andc",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "2 \\cdot 3} \\frac{d^{\\sigma-3}}{d x^{\\sigma-3}} \\frac{d^{3}}{d y^{3}}+\\text { \\&c. }  \\tag{60}\\\\",
+      "title_safe": "2 cdot 3 fracdsigma-3d xsigma-3 fracd3d y3plustext andc. tag",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "2} \\frac{d^{2}}{d x^{\\sigma-2}} \\frac{d y^{2}}{d y^{2}}+\\text { \\&c. } \\tag{61}",
+      "title_safe": "2 fracd2d xsigma-2 fracd y2d y2plustext andc. tag61",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_140",
+      "article_number": 140,
+      "title_original": "a$.]",
+      "title_safe": "a",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_211",
+      "article_number": 211,
+      "title_original": "$$\\left(e^{i a} \\frac{d}{d \\xi}+e^{-i a} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right) \\ldots$$",
+      "title_safe": "leftei a fracdd xipluse-i a fracdd etarightlefteileftaplusfr",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_58",
+      "article_number": 58,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{\\frac{\\sigma+2}{2}}\\left\\{\\cos \\sigma a \\cdot i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)-\\sin \\sigma a\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)\\right\\} .$$",
+      "title_safe": "fracsigmaplus22leftcos sigma a cdot ileftfracdsigmad xisigma",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_59",
+      "article_number": 59,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{\\sigma-1} D s=\\sigma \\frac{d^{\\sigma-1}}{d x^{\\sigma-1}} \\frac{d}{d y}-\\frac{\\sigma(\\sigma-1)(\\sigma-2)}{1.2 \\cdot 3} \\frac{d^{\\sigma-3}}{d x^{\\sigma-3}} \\frac{d^{3}}{d y^{3}}+\\text { \\&c. } \\\\",
+      "title_safe": "sigma-1 D sequalssigma fracdsigma-1d xsigma-1 fracdd y-fracs",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{\\sigma-1} D c=\\frac{d^{\\sigma}}{d x^{\\sigma}}-\\frac{\\sigma(\\sigma-1) d^{\\sigma-2}}{1.2} \\frac{d^{2}}{d x^{\\sigma-2}} \\frac{d y^{2}}{d y^{2}}+\\text { \\&c. }",
+      "title_safe": "sigma-1 D cequalsfracdsigmad xsigma-fracsigmasigma-1 dsigma",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_60",
+      "article_number": 60,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_61",
+      "article_number": 61,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_62",
+      "article_number": 62,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r}, \\\\",
+      "title_safe": "n frac1n rnplus1 Dnsigma frac1r",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r} .",
+      "title_safe": "n frac1n rnplus1 Dnsigma frac1r",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_63",
+      "article_number": 63,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_64",
+      "article_number": 64,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=x^{2}+y^{2}, \\quad r^{2}=\\xi \\eta+z^{2}$,",
+      "title_safe": "equalsx2plusy2 quad r2equalsxi etaplusz2",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{\\gamma}=(-1)^{\\sigma} \\frac{(2 \\sigma)!}{2^{2 \\sigma} \\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right) \\frac{1}{r^{2 \\sigma+1}},$$",
+      "title_safe": "gammaequals-1sigma frac2 sigma22 sigma sigma ileftetasigma-x",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_65",
+      "article_number": 65,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "$$\\left(e^{i a} \\frac{d}{d \\xi}+e^{-i a} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right) \\ldots$$",
+      "title_safe": "leftei a fracdd xipluse-i a fracdd etarightlefteileftaplusfr",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_58",
+      "article_number": 58,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{\\frac{\\sigma+2}{2}}\\left\\{\\cos \\sigma a \\cdot i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)-\\sin \\sigma a\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)\\right\\} . \\tag{59}",
+      "title_safe": "fracsigmaplus22leftcos sigma a cdot ileftfracdsigmad xisigma",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{\\sigma-1} D s=\\sigma \\frac{d^{\\sigma-1}}{d x^{\\sigma-1}} \\frac{d}{d y}-\\frac{\\sigma(\\sigma-1)(\\sigma-2)}{1.2 \\cdot 3} \\frac{d^{\\sigma-3}}{d x^{\\sigma-3}} \\frac{d^{3}}{d y^{3}}+\\text { \\&c. }  \\tag{60}\\\\",
+      "title_safe": "sigma-1 D sequalssigma fracdsigma-1d xsigma-1 fracdd y-fracs",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{\\sigma-1} D c=\\frac{d^{\\sigma}}{d x^{\\sigma}}-\\frac{\\sigma(\\sigma-1) d^{\\sigma-2}}{1.2} \\frac{d^{2}}{d x^{\\sigma-2}} \\frac{d y^{2}}{d y^{2}}+\\text { \\&c. } \\tag{61}",
+      "title_safe": "sigma-1 D cequalsfracdsigmad xsigma-fracsigmasigma-1 dsigma",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_62",
+      "article_number": 62,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r},  \\tag{63}\\\\",
+      "title_safe": "n frac1n rnplus1 Dnsigma frac1r tag63",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r} . \\tag{64}",
+      "title_safe": "n frac1n rnplus1 Dnsigma frac1r . tag64",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=x^{2}+y^{2}, \\quad r^{2}=\\xi \\eta+z^{2}$,",
+      "title_safe": "equalsx2plusy2 quad r2equalsxi etaplusz2",
+      "page_start": 246,
+      "page_end": 245,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{\\gamma}=(-1)^{\\sigma} \\frac{(2 \\sigma)!}{2^{2 \\sigma} \\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right) \\frac{1}{r^{2 \\sigma+1}}, \\tag{65}",
+      "title_safe": "gammaequals-1sigma frac2 sigma22 sigma sigma ileftetasigma-x",
+      "page_start": 246,
+      "page_end": 246,
+      "content": {
+        "raw_text": "\n--- Page 246 ---\n$140 a$.]\nTESSERAL HARMONICS.\n211\n$$\\left(e^{i a} \\frac{d}{d \\xi}+e^{-i a} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right) \\ldots$$\nThis equals\n$$\\cos \\sigma a\\left\\{\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right\\}+\\sin \\sigma a . i\\left\\{\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right\\} .$$\n(58)\nIf $\\sigma$ is even we may prove that the operation of differentiating\nmay be written\n$$(-1)^{\\frac{\\sigma+2}{2}}\\left\\{\\cos \\sigma a \\cdot i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)-\\sin \\sigma a\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)\\right\\} .$$\n(59)\nThus, if $i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)=D_{s,}^{(\\sigma)}, \\quad \\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}=D_{c}^{(\\sigma)}$,\nwe may express the operation of differentiating with respect to the\n$\\sigma$ axes in terms of $D_{s,}^{(\\sigma)} D_{c}^{(\\sigma)}$. These are, of course, real operations,\nand may be expressed without the use of imaginary symbols, thus :\n$$\\begin{aligned}\n& 2^{\\sigma-1} D s=\\sigma \\frac{d^{\\sigma-1}}{d x^{\\sigma-1}} \\frac{d}{d y}-\\frac{\\sigma(\\sigma-1)(\\sigma-2)}{1.2 \\cdot 3} \\frac{d^{\\sigma-3}}{d x^{\\sigma-3}} \\frac{d^{3}}{d y^{3}}+\\text { \\&c. } \\\\\n& 2^{\\sigma-1} D c=\\frac{d^{\\sigma}}{d x^{\\sigma}}-\\frac{\\sigma(\\sigma-1) d^{\\sigma-2}}{1.2} \\frac{d^{2}}{d x^{\\sigma-2}} \\frac{d y^{2}}{d y^{2}}+\\text { \\&c. }\n\\end{aligned}$$\n(60)\n(61)\nWe shall albo write\n$$\\frac{d^{n-\\sigma}}{d z^{n-\\sigma}} D_{s}^{(\\sigma)}=D_{s}^{(\\sigma)}, \\text { and } \\quad \\frac{d^{n-\\sigma}}{d z^{n-\\sigma}} D_{c}^{(\\sigma)}=D_{n}^{(\\sigma)} ;$$\n(62)\nso that $\\underset{n}{(\\sigma)}$ and $\\underset{n}{\\stackrel{(\\sigma)}{\\nu}}$ denote the operations of differentiating with\nrespect to $n$ axes, $n-\\sigma$ of which coincide with the axis of $z$,\nwhile the remaining $\\sigma$ make equal angles with each other in the\nplane of $x y, D_{\\underset{n}{(\\sigma)}}$ being used when the axis of $y$ coincides with\none of the axes, and $D_{n}^{c}$ when the axis of $y$ bisects the angle\nbetween two of the axes.\nThe two tesseral surface harmonics of order $n$ and type $\\sigma$ may\nnow be written\n$$\\begin{aligned}\nY_{n}^{(\\sigma)} & =(-1)^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r}, \\\\\nY_{n}^{(\\sigma)} & =(-1)^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r} .\n\\end{aligned}$$\n(63)\n(64)\nWriting $\\mu=\\cos \\theta, \\quad \\nu=\\sin \\theta, \\quad \\rho^{2}=x^{2}+y^{2}, \\quad r^{2}=\\xi \\eta+z^{2}$,\nso that $\\quad z=\\mu r, \\quad \\rho=\\nu r, \\quad x=\\rho \\cos \\phi, \\quad y=\\rho \\sin \\phi$,\nwe have\n$$D_{\\delta}^{(\\sigma)} \\frac{1}{\\gamma}=(-1)^{\\sigma} \\frac{(2 \\sigma)!}{2^{2 \\sigma} \\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right) \\frac{1}{r^{2 \\sigma+1}},$$\n(65)\nP 2\n",
+        "mathpix_markdown": "\n--- Page 246 ---\n\n$$\\left(e^{i a} \\frac{d}{d \\xi}+e^{-i a} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{2 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right)\\left(e^{i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\xi}+e^{-i\\left(a+\\frac{4 \\pi}{\\sigma}\\right)} \\frac{d}{d \\eta}\\right) \\ldots$$\n\n\nThis equals\n\n$$\\begin{equation*}\n\\cos \\sigma a\\left\\{\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right\\}+\\sin \\sigma a . i\\left\\{\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right\\} . \\tag{58}\n\\end{equation*}$$\n\n\nIf $\\sigma$ is even we may prove that the operation of differentiating\n may be written\n\n$$\\begin{equation*}\n(-1)^{\\frac{\\sigma+2}{2}}\\left\\{\\cos \\sigma a \\cdot i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)-\\sin \\sigma a\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)\\right\\} . \\tag{59}\n\\end{equation*}$$\n\n\nThus, if $i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)=D_{s,}^{(\\sigma)}, \\quad \\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}=D_{c}^{(\\sigma)}$,\n\nwe may express the operation of differentiating with respect to the\n $\\sigma$ axes in terms of $D_{s,}^{(\\sigma)} D_{c}^{(\\sigma)}$. These are, of course, real operations,\n and may be expressed without the use of imaginary symbols, thus :\n\n$$\\begin{align*}\n& 2^{\\sigma-1} D s=\\sigma \\frac{d^{\\sigma-1}}{d x^{\\sigma-1}} \\frac{d}{d y}-\\frac{\\sigma(\\sigma-1)(\\sigma-2)}{1.2 \\cdot 3} \\frac{d^{\\sigma-3}}{d x^{\\sigma-3}} \\frac{d^{3}}{d y^{3}}+\\text { \\&c. }  \\tag{60}\\\\\n& 2^{\\sigma-1} D c=\\frac{d^{\\sigma}}{d x^{\\sigma}}-\\frac{\\sigma(\\sigma-1) d^{\\sigma-2}}{1.2} \\frac{d^{2}}{d x^{\\sigma-2}} \\frac{d y^{2}}{d y^{2}}+\\text { \\&c. } \\tag{61}\n\\end{align*}$$\n\n\nWe shall albo write\n\n$$\\begin{equation*}\n\\frac{d^{n-\\sigma}}{d z^{n-\\sigma}} D_{s}^{(\\sigma)}=D_{s}^{(\\sigma)}, \\text { and } \\quad \\frac{d^{n-\\sigma}}{d z^{n-\\sigma}} D_{c}^{(\\sigma)}=D_{n}^{(\\sigma)} ; \\tag{62}\n\\end{equation*}$$\n\nso that $\\underset{n}{(\\sigma)}$ and $\\underset{n}{\\stackrel{(\\sigma)}{\\nu}}$ denote the operations of differentiating with\n respect to $n$ axes, $n-\\sigma$ of which coincide with the axis of $z$,\n while the remaining $\\sigma$ make equal angles with each other in the\n plane of $x y, D_{\\underset{n}{(\\sigma)}}$ being used when the axis of $y$ coincides with\n one of the axes, and $D_{n}^{c}$ when the axis of $y$ bisects the angle\n between two of the axes.\n\n\nThe two tesseral surface harmonics of order $n$ and type $\\sigma$ may\n now be written\n\n$$\\begin{align*}\nY_{n}^{(\\sigma)} & =(-1)^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r},  \\tag{63}\\\\\nY_{n}^{(\\sigma)} & =(-1)^{n} \\frac{1}{n!} r^{n+1} D_{n}^{(\\sigma)} \\frac{1}{r} . \\tag{64}\n\\end{align*}$$\n\n\nWriting $\\mu=\\cos \\theta, \\quad \\nu=\\sin \\theta, \\quad \\rho^{2}=x^{2}+y^{2}, \\quad r^{2}=\\xi \\eta+z^{2}$,\n so that $\\quad z=\\mu r, \\quad \\rho=\\nu r, \\quad x=\\rho \\cos \\phi, \\quad y=\\rho \\sin \\phi$,\n\nwe have\n\n$$\\begin{equation*}\nD_{\\delta}^{(\\sigma)} \\frac{1}{\\gamma}=(-1)^{\\sigma} \\frac{(2 \\sigma)!}{2^{2 \\sigma} \\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right) \\frac{1}{r^{2 \\sigma+1}}, \\tag{65}\n\\end{equation*}$$\n",
+        "structured_lines": [
+          {
+            "page": 246,
+            "line_number": 6,
+            "type": "text",
+            "content": "This equals",
+            "mathpix_content": "\n\nThis equals",
+            "font_size": 26,
+            "confidence": 1.0
+          },
+          {
+            "page": 246,
+            "line_number": 10,
+            "type": "text",
+            "content": "If $\\sigma$ is even we may prove that the operation of differentiating",
+            "mathpix_content": "\n\nIf $\\sigma$ is even we may prove that the operation of differentiating",
+            "font_size": 26,
+            "confidence": 1.0
+          },
+          {
+            "page": 246,
+            "line_number": 11,
+            "type": "text",
+            "content": "may be written",
+            "mathpix_content": " may be written",
+            "font_size": 26,
+            "confidence": 1.0
+          },
+          {
+            "page": 246,
+            "line_number": 15,
+            "type": "text",
+            "content": "Thus, if $i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)=D_{s,}^{(\\sigma)}, \\quad \\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}=D_{c}^{(\\sigma)}$,",
+            "mathpix_content": "\n\nThus, if $i\\left(\\frac{d^{\\sigma}}{d \\xi^{\\sigma}}-\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}\\right)=D_{s,}^{(\\sigma)}, \\quad \\frac{d^{\\sigma}}{d \\xi^{\\sigma}}+\\frac{d^{\\sigma}}{d \\eta^{\\sigma}}=D_{c}^{(\\sigma)}$,",
+            "font_size": 26,
+            "confidence": 0.5114579346287061
+          },
+          {
+            "page": 246,
+            "line_number": 16,
+            "type": "text",
+            "content": "we may express the operation of differentiating with respect to the",
+            "mathpix_content": "\nwe may express the operation of differentiating with respect to the",
+            "font_size": 26,
+            "confidence": 1.0
+          },
+          {
+            "page": 246,
+            "line_number": 17,
+            "type": "text",
+            "content": "$\\sigma$ axes in terms of $D_{s,}^{(\\sigma)} D_{c}^{(\\sigma)}$. These are, of course, real operations,",
+            "mathpix_content": " $\\sigma$ axes in terms of $D_{s,}^{(\\sigma)} D_{c}^{(\\sigma)}$. These are, of course, real operations,",
+            "font_size": 26,
+            "confidence": 0.5451216828803562
+          },
+          {
+            "page": 246,
+            "line_number": 18,
+            "type": "text",
+            "content": "and may be expressed without the use of imaginary symbols, thus :",
+            "mathpix_content": " and may be expressed without the use of imaginary symbols, thus :",
+            "font_size": 26,
+            "confidence": 0.986328125
+          },
+          {
+            "page": 246,
+            "line_number": 24,
+            "type": "text",
+            "content": "We shall albo write",
+            "mathpix_content": "\n\nWe shall albo write",
+            "font_size": 26,
+            "confidence": 0.8135673999786377
+          },
+          {
+            "page": 246,
+            "line_number": 28,
+            "type": "text",
+            "content": "so that $\\underset{n}{(\\sigma)}$ and $\\underset{n}{\\stackrel{(\\sigma)}{\\nu}}$ denote the operations of differentiating with",
+            "mathpix_content": "\nso that $\\underset{n}{(\\sigma)}$ and $\\underset{n}{\\stackrel{(\\sigma)}{\\nu}}$ denote the operations of differentiating with",
+            "font_size": 26,
+            "confidence": 0.4723954910149708
+          },
+          {
+            "page": 246,
+            "line_number": 29,
+            "type": "text",
+            "content": "respect to $n$ axes, $n-\\sigma$ of which coincide with the axis of $z$,",
+            "mathpix_content": " respect to $n$ axes, $n-\\sigma$ of which coincide with the axis of $z$,",
+            "font_size": 26,
+            "confidence": 0.998046875
+          },
+          {
+            "page": 246,
+            "line_number": 30,
+            "type": "text",
+            "content": "while the remaining $\\sigma$ make equal angles with each other in the",
+            "mathpix_content": " while the remaining $\\sigma$ make equal angles with each other in the",
+            "font_size": 26,
+            "confidence": 1.0
+          },
+          {
+            "page": 246,
+            "line_number": 31,
+            "type": "text",
+            "content": "plane of $x y, D_{\\underset{n}{(\\sigma)}}$ being used when the axis of $y$ coincides with",
+            "mathpix_content": " plane of $x y, D_{\\underset{n}{(\\sigma)}}$ being used when the axis of $y$ coincides with",
+            "font_size": 26,
+            "confidence": 0.5651851533512011
+          },
+          {
+            "page": 246,
+            "line_number": 32,
+            "type": "text",
+            "content": "one of the axes, and $D_{n}^{c}$ when the axis of $y$ bisects the angle",
+            "mathpix_content": " one of the axes, and $D_{n}^{c}$ when the axis of $y$ bisects the angle",
+            "font_size": 26,
+            "confidence": 0.3412966728210449
+          },
+          {
+            "page": 246,
+            "line_number": 33,
+            "type": "text",
+            "content": "between two of the axes.",
+            "mathpix_content": " between two of the axes.",
+            "font_size": 26,
+            "confidence": 1.0
+          },
+          {
+            "page": 246,
+            "line_number": 34,
+            "type": "text",
+            "content": "The two tesseral surface harmonics of order $n$ and type $\\sigma$ may",
+            "mathpix_content": "\n\nThe two tesseral surface harmonics of order $n$ and type $\\sigma$ may",
+            "font_size": 26,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 246,
+            "line_number": 35,
+            "type": "text",
+            "content": "now be written",
+            "mathpix_content": " now be written",
+            "font_size": 26,
+            "confidence": 1.0
+          },
+          {
+            "page": 246,
+            "line_number": 41,
+            "type": "text",
+            "content": "Writing $\\mu=\\cos \\theta, \\quad \\nu=\\sin \\theta, \\quad \\rho^{2}=x^{2}+y^{2}, \\quad r^{2}=\\xi \\eta+z^{2}$,",
+            "mathpix_content": "\n\nWriting $\\mu=\\cos \\theta, \\quad \\nu=\\sin \\theta, \\quad \\rho^{2}=x^{2}+y^{2}, \\quad r^{2}=\\xi \\eta+z^{2}$,",
+            "font_size": 26,
+            "confidence": 0.5747280120849609
+          },
+          {
+            "page": 246,
+            "line_number": 42,
+            "type": "text",
+            "content": "so that $\\quad z=\\mu r, \\quad \\rho=\\nu r, \\quad x=\\rho \\cos \\phi, \\quad y=\\rho \\sin \\phi$,",
+            "mathpix_content": " so that $\\quad z=\\mu r, \\quad \\rho=\\nu r, \\quad x=\\rho \\cos \\phi, \\quad y=\\rho \\sin \\phi$,",
+            "font_size": 26,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 246,
+            "line_number": 43,
+            "type": "text",
+            "content": "we have",
+            "mathpix_content": "\nwe have",
+            "font_size": 26,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "e^{-4 \\pi \\frac{b_{1}+b_{3}}{a}}\\left(1+e^{-4 \\pi \\frac{b_{1}}{a}}+e^{-4 \\pi \\frac{b_{2}}{a}}+\\& c .\\right)+\\& c .\\right\\} \\\\",
+  "title_safe": "e-4 pi fracb1plusb3aleft1pluse-4 pi fracb1apluse-4 pi fracb2",
+  "page_start": 351,
+  "page_end": 350,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

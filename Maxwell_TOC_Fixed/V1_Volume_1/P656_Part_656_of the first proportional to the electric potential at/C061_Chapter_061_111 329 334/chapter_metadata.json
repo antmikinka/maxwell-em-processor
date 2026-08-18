@@ -1,0 +1,189 @@
+{
+  "chapter_id": "chapter_15",
+  "chapter_number": 61,
+  "title": ", 111, 329, 334.",
+  "page_start": 401,
+  "page_end": 401,
+  "articles": [
+    {
+      "article_id": "article_334",
+      "article_number": 334,
+      "title_original": "external action, but it is impossible to isolate a quantity of elec",
+      "title_safe": "external action but it is impossible to isolate a quantity o",
+      "page_start": 401,
+      "page_end": 400,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_366",
+      "article_number": 366,
+      "title_original": "CONDUCTION AND RESISTANCE.",
+      "title_safe": "CONDUCTION AND RESISTANCE",
+      "page_start": 401,
+      "page_end": 400,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_61",
+      "article_number": 61,
+      "title_original": ", 111, 329, 334.",
+      "title_safe": "111 329 334",
+      "page_start": 401,
+      "page_end": 400,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_61",
+      "article_number": 61,
+      "title_original": ", 111, 329, 334.",
+      "title_safe": "111 329 334",
+      "page_start": 401,
+      "page_end": 401,
+      "content": {
+        "raw_text": "\n--- Page 401 ---\n366\nCONDUCTION AND RESISTANCE.\nexternal action, but it is impossible to isolate a quantity of elec-\ntricity so as to prevent it from being constantly in inductive\nrelation with an equal quantity of electricity of the opposite\nkind.\nThere is nothing therefore among electric phenomena which\ncorresponds to the capacity of a body for heat. This follows at\nonce from the doctrine which is asserted in this treatise, that\nelectricity obeys the same condition of continuity as an incom-\npressible fluid. It is therefore impossible to give a bodily charge\nof electricity to any substance by forcing an additional quantity\nof electricity into it. See Arts. 61, 111, 329, 334.\n",
+        "mathpix_markdown": "\n--- Page 401 ---\n\nexternal action, but it is impossible to isolate a quantity of elec\ntricity so as to prevent it from being constantly in inductive\n relation with an equal quantity of electricity of the opposite\n kind.\n\n\nThere is nothing therefore among electric phenomena which\n corresponds to the capacity of a body for heat. This follows at\n once from the doctrine which is asserted in this treatise, that\n electricity obeys the same condition of continuity as an incom\npressible fluid. It is therefore impossible to give a bodily charge\n of electricity to any substance by forcing an additional quantity\n of electricity into it. See Arts. 61, 111, 329, 334.\n",
+        "structured_lines": [
+          {
+            "page": 401,
+            "line_number": 3,
+            "type": "text",
+            "content": "external action, but it is impossible to isolate a quantity of elec-",
+            "mathpix_content": "\nexternal action, but it is impossible to isolate a quantity of elec",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 4,
+            "type": "text",
+            "content": "tricity so as to prevent it from being constantly in inductive",
+            "mathpix_content": "tricity so as to prevent it from being constantly in inductive",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 401,
+            "line_number": 5,
+            "type": "text",
+            "content": "relation with an equal quantity of electricity of the opposite",
+            "mathpix_content": " relation with an equal quantity of electricity of the opposite",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 6,
+            "type": "text",
+            "content": "kind.",
+            "mathpix_content": " kind.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 7,
+            "type": "text",
+            "content": "There is nothing therefore among electric phenomena which",
+            "mathpix_content": "\n\nThere is nothing therefore among electric phenomena which",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 8,
+            "type": "text",
+            "content": "corresponds to the capacity of a body for heat. This follows at",
+            "mathpix_content": " corresponds to the capacity of a body for heat. This follows at",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 9,
+            "type": "text",
+            "content": "once from the doctrine which is asserted in this treatise, that",
+            "mathpix_content": " once from the doctrine which is asserted in this treatise, that",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 10,
+            "type": "text",
+            "content": "electricity obeys the same condition of continuity as an incom-",
+            "mathpix_content": " electricity obeys the same condition of continuity as an incom",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 11,
+            "type": "text",
+            "content": "pressible fluid. It is therefore impossible to give a bodily charge",
+            "mathpix_content": "pressible fluid. It is therefore impossible to give a bodily charge",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 12,
+            "type": "text",
+            "content": "of electricity to any substance by forcing an additional quantity",
+            "mathpix_content": " of electricity to any substance by forcing an additional quantity",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 401,
+            "line_number": 13,
+            "type": "text",
+            "content": "of electricity into it. See Arts. 61, 111, 329, 334.",
+            "mathpix_content": " of electricity into it. See Arts. 61, 111, 329, 334.",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

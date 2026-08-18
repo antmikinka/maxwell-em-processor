@@ -1,0 +1,300 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "}$, and in the second,",
+  "title_safe": "and in the second",
+  "page_start": 523,
+  "page_end": 523,
+  "content": {
+    "raw_text": "\n--- Page 523 ---\n488\nMEASUREMENT OF RESISTANCE.\n[355.\nmay be estimated. This is Messrs. Bright and Clark's method\nof testing the joints of submarine cables.\n355.] But the simplest method of measuring the resistance of\nsuch a conductor is to charge a condenser of great capacity and\nto connect its two surfaces with the electrodes of an electrometer\nand also with the extremities of the conductor. If $E$ is the\ndifference of potentials as shewn by the electrometer, $S$ the\ncapacity of the condenser, and $Q$ the charge on either surface,\n$R$ the resistance of the conductor and $x$ the current in it, then,\nby the theory of condensers,\nBy Ohm's Law,\n$$\\begin{aligned}\n& Q=S E \\\\\n& E=R x\n\\end{aligned}$$\nand by the definition of a current,\nHence\nand\n$$\\begin{aligned}\nx & =-\\frac{d Q}{d t} \\\\\n-Q & =R S \\frac{d Q}{d t} \\\\\nQ & =Q_{0} e^{-\\frac{t}{R S}}\n\\end{aligned}$$\nwhere $Q_{0}$ is the charge at first when $t=0$.\nSimilarly\n$$E=E_{0} e^{-\\frac{t}{R s}}$$\nwhere $E_{0}$ is the original reading of the electrometer, and $E$ the\nsame after a time $t$. From this we find\n$$R=\\frac{t}{S\\left\\{\\log _{e} E_{0}-\\log _{e} E\\right\\}},$$\nwhich gives $R$ in absolute measure. In this expression a\nknowledge of the value of the unit of the electrometer scale is\nnot required.\nIf $S$, the capacity of the condenser, is given in electrostatic\nmeasure as a certain number of metres, then $R$ is also given in\nelectrostatic measure as the reciprocal of a velocity.\nIf $S$ is given in electromagnetic measure its dimensions are\n$T^{2}$\n$\\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.\nSince the condenser itself is not a perfect insulator it is\nnecessary to make two experiments. In the first we determine\nthe resistance of the condenser itself, $R_{0}$, and in the second,\nthat of the condenser when the conductor is made to connect its\n",
+    "mathpix_markdown": "\n--- Page 523 ---\n\nmay be estimated. This is Messrs. Bright and Clark's method\n of testing the joints of submarine cables.\n\n355.] But the simplest method of measuring the resistance of\n such a conductor is to charge a condenser of great capacity and\n to connect its two surfaces with the electrodes of an electrometer\n and also with the extremities of the conductor. If $E$ is the\n difference of potentials as shewn by the electrometer, $S$ the\n capacity of the condenser, and $Q$ the charge on either surface,\n $R$ the resistance of the conductor and $x$ the current in it, then,\n by the theory of condensers,\n\n\nBy Ohm's Law,\n\n$$\\begin{aligned}\n& Q=S E \\\\\n& E=R x\n\\end{aligned}$$\n\nand by the definition of a current,\n\n\nHence\n\nand\n\n$$\\begin{aligned}\nx & =-\\frac{d Q}{d t} \\\\\n-Q & =R S \\frac{d Q}{d t} \\\\\nQ & =Q_{0} e^{-\\frac{t}{R S}}\n\\end{aligned}$$\n\nwhere $Q_{0}$ is the charge at first when $t=0$.\n\nSimilarly\n\n$$E=E_{0} e^{-\\frac{t}{R s}}$$\n\nwhere $E_{0}$ is the original reading of the electrometer, and $E$ the\n same after a time $t$. From this we find\n\n$$R=\\frac{t}{S\\left\\{\\log _{e} E_{0}-\\log _{e} E\\right\\}},$$\n\nwhich gives $R$ in absolute measure. In this expression a\n knowledge of the value of the unit of the electrometer scale is\n not required.\n\n\nIf $S$, the capacity of the condenser, is given in electrostatic\n measure as a certain number of metres, then $R$ is also given in\n electrostatic measure as the reciprocal of a velocity.\n\n\nIf $S$ is given in electromagnetic measure its dimensions are\n $T^{2}\n \\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.\n\n\nSince the condenser itself is not a perfect insulator it is\n necessary to make two experiments. In the first we determine\n the resistance of the condenser itself, $R_{0}$, and in the second,\n that of the condenser when the conductor is made to connect its\n",
+    "structured_lines": [
+      {
+        "page": 523,
+        "line_number": 4,
+        "type": "text",
+        "content": "may be estimated. This is Messrs. Bright and Clark's method",
+        "mathpix_content": "\nmay be estimated. This is Messrs. Bright and Clark's method",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 5,
+        "type": "text",
+        "content": "of testing the joints of submarine cables.",
+        "mathpix_content": " of testing the joints of submarine cables.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 6,
+        "type": "text",
+        "content": "355.] But the simplest method of measuring the resistance of",
+        "mathpix_content": "\n355.] But the simplest method of measuring the resistance of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 7,
+        "type": "text",
+        "content": "such a conductor is to charge a condenser of great capacity and",
+        "mathpix_content": " such a conductor is to charge a condenser of great capacity and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 8,
+        "type": "text",
+        "content": "to connect its two surfaces with the electrodes of an electrometer",
+        "mathpix_content": " to connect its two surfaces with the electrodes of an electrometer",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 9,
+        "type": "text",
+        "content": "and also with the extremities of the conductor. If $E$ is the",
+        "mathpix_content": " and also with the extremities of the conductor. If $E$ is the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 10,
+        "type": "text",
+        "content": "difference of potentials as shewn by the electrometer, $S$ the",
+        "mathpix_content": " difference of potentials as shewn by the electrometer, $S$ the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 11,
+        "type": "text",
+        "content": "capacity of the condenser, and $Q$ the charge on either surface,",
+        "mathpix_content": " capacity of the condenser, and $Q$ the charge on either surface,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 12,
+        "type": "text",
+        "content": "$R$ the resistance of the conductor and $x$ the current in it, then,",
+        "mathpix_content": " $R$ the resistance of the conductor and $x$ the current in it, then,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 13,
+        "type": "text",
+        "content": "by the theory of condensers,",
+        "mathpix_content": " by the theory of condensers,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 14,
+        "type": "text",
+        "content": "By Ohm's Law,",
+        "mathpix_content": "\n\nBy Ohm's Law,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 18,
+        "type": "text",
+        "content": "and by the definition of a current,",
+        "mathpix_content": "\nand by the definition of a current,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 19,
+        "type": "text",
+        "content": "Hence",
+        "mathpix_content": "\n\nHence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 20,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 25,
+        "type": "text",
+        "content": "where $Q_{0}$ is the charge at first when $t=0$.",
+        "mathpix_content": "\nwhere $Q_{0}$ is the charge at first when $t=0$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 26,
+        "type": "text",
+        "content": "Similarly",
+        "mathpix_content": "\nSimilarly",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 29,
+        "type": "text",
+        "content": "where $E_{0}$ is the original reading of the electrometer, and $E$ the",
+        "mathpix_content": "\nwhere $E_{0}$ is the original reading of the electrometer, and $E$ the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 30,
+        "type": "text",
+        "content": "same after a time $t$. From this we find",
+        "mathpix_content": " same after a time $t$. From this we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 33,
+        "type": "text",
+        "content": "which gives $R$ in absolute measure. In this expression a",
+        "mathpix_content": "\nwhich gives $R$ in absolute measure. In this expression a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 34,
+        "type": "text",
+        "content": "knowledge of the value of the unit of the electrometer scale is",
+        "mathpix_content": " knowledge of the value of the unit of the electrometer scale is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 35,
+        "type": "text",
+        "content": "not required.",
+        "mathpix_content": " not required.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 36,
+        "type": "text",
+        "content": "If $S$, the capacity of the condenser, is given in electrostatic",
+        "mathpix_content": "\n\nIf $S$, the capacity of the condenser, is given in electrostatic",
+        "font_size": 27,
+        "confidence": 0.9873046875
+      },
+      {
+        "page": 523,
+        "line_number": 37,
+        "type": "text",
+        "content": "measure as a certain number of metres, then $R$ is also given in",
+        "mathpix_content": " measure as a certain number of metres, then $R$ is also given in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 38,
+        "type": "text",
+        "content": "electrostatic measure as the reciprocal of a velocity.",
+        "mathpix_content": " electrostatic measure as the reciprocal of a velocity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 39,
+        "type": "text",
+        "content": "If $S$ is given in electromagnetic measure its dimensions are",
+        "mathpix_content": "\n\nIf $S$ is given in electromagnetic measure its dimensions are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 40,
+        "type": "text",
+        "content": "$T^{2}$",
+        "mathpix_content": " $T^{2}",
+        "font_size": 27,
+        "confidence": 0.9951221942901611
+      },
+      {
+        "page": 523,
+        "line_number": 41,
+        "type": "text",
+        "content": "$\\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.",
+        "mathpix_content": " \\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.",
+        "font_size": 27,
+        "confidence": 0.5480918884277344
+      },
+      {
+        "page": 523,
+        "line_number": 42,
+        "type": "text",
+        "content": "Since the condenser itself is not a perfect insulator it is",
+        "mathpix_content": "\n\nSince the condenser itself is not a perfect insulator it is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 43,
+        "type": "text",
+        "content": "necessary to make two experiments. In the first we determine",
+        "mathpix_content": " necessary to make two experiments. In the first we determine",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 44,
+        "type": "text",
+        "content": "the resistance of the condenser itself, $R_{0}$, and in the second,",
+        "mathpix_content": " the resistance of the condenser itself, $R_{0}$, and in the second,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 523,
+        "line_number": 45,
+        "type": "text",
+        "content": "that of the condenser when the conductor is made to connect its",
+        "mathpix_content": " that of the condenser when the conductor is made to connect its",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

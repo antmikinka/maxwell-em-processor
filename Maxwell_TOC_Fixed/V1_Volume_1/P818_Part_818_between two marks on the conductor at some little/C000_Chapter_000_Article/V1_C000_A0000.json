@@ -1,0 +1,210 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": ".$$",
+  "title_safe": "Article",
+  "page_start": 519,
+  "page_end": 519,
+  "content": {
+    "raw_text": "\n--- Page 519 ---\n484\nMEASUREMENT OF RESISTANCE.\n[351.\n$V, V^{\\prime}$ are taken so that the resistances in the branches of either\nwire leading to the two conductors are nearly in the ratio of the\nresistances of the two conductors.\nCall $H$ and $F^{\\prime}$ the resistances of the conductors $S S^{\\prime}$ and $T^{\\prime} T$.\n,, $A$ and $C$ those of the branches $S V$ and $V T$.\n,, $P$ and $R$ those of the branches $S^{\\prime} V^{\\prime}$ and $V^{\\prime} T^{\\nu}$.\n,, $Q$ that of the connecting piece $S^{\\prime} T^{v}$.\n,, $B$ that of the battery and its connexions.\n,, $G$ that of the galvanometer and its connexions.\nThe symmetry of the system may be understood from the\nskeleton diagram. Fig. 34.\n\nFig. 36.\nThe condition that $B$ the battery and $G$ the galvanometer\nmay be conjugate conductors is, in this case *,\n$$\\frac{F}{\\bar{C}}-\\frac{H}{A}+\\left(\\frac{R}{\\bar{C}}-\\frac{P}{A}\\right) \\frac{Q}{P+Q+R}=0 .$$\nNow the resistance of the connector $Q$ is as small as we can\nmake it. If it were zero this equation would be reduced to\n$$\\frac{F}{\\bar{C}}=\\frac{H}{A},$$\nand the ratio of the resistances of the conductors to be compared\nwould be that of $C$ to $A$, as in Wheatstone's Bridge in the\nordinary form.\nIn the present case the value of $Q$ is small compared with $P$\nor with $R$, so that if we select the points $V, V^{\\prime}$ so that the\n\n* \\{This may easily be deduced by the rule given in the Appendix to Chap. vi.\\}\n",
+    "mathpix_markdown": "\n--- Page 519 ---\n\n$V, V^{\\prime}$ are taken so that the resistances in the branches of either\n wire leading to the two conductors are nearly in the ratio of the\n resistances of the two conductors.\n\n\nCall $H$ and $F^{\\prime}$ the resistances of the conductors $S S^{\\prime}$ and $T^{\\prime} T$.\n\n,, $A$ and $C$ those of the branches $S V$ and $V T$.\n\n,, $P$ and $R$ those of the branches $S^{\\prime} V^{\\prime}$ and $V^{\\prime} T^{\\nu}$.\n\n,, $Q$ that of the connecting piece $S^{\\prime} T^{v}$.\n\n,, $B$ that of the battery and its connexions.\n\n,, $G$ that of the galvanometer and its connexions.\n\nThe symmetry of the system may be understood from the\n skeleton diagram. Fig. 34.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-519.jpg?height=491&width=866&top_left_y=694&top_left_x=203}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 36.}\n\\end{figure}\n\n\nThe condition that $B$ the battery and $G$ the galvanometer\n may be conjugate conductors is, in this case *,\n\n$$\\frac{F}{\\bar{C}}-\\frac{H}{A}+\\left(\\frac{R}{\\bar{C}}-\\frac{P}{A}\\right) \\frac{Q}{P+Q+R}=0 .$$\n\n\nNow the resistance of the connector $Q$ is as small as we can\n make it. If it were zero this equation would be reduced to\n\n$$\\frac{F}{\\bar{C}}=\\frac{H}{A},$$\n\nand the ratio of the resistances of the conductors to be compared\n would be that of $C$ to $A$, as in Wheatstone's Bridge in the\n ordinary form.\n\n\nIn the present case the value of $Q$ is small compared with $P$\n or with $R$, so that if we select the points $V, V^{\\prime}$ so that the\n\n\n\\footnotetext{\n* \\{This may easily be deduced by the rule given in the Appendix to Chap. vi.\\}\n}\n",
+    "structured_lines": [
+      {
+        "page": 519,
+        "line_number": 4,
+        "type": "text",
+        "content": "$V, V^{\\prime}$ are taken so that the resistances in the branches of either",
+        "mathpix_content": "\n$V, V^{\\prime}$ are taken so that the resistances in the branches of either",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 519,
+        "line_number": 5,
+        "type": "text",
+        "content": "wire leading to the two conductors are nearly in the ratio of the",
+        "mathpix_content": " wire leading to the two conductors are nearly in the ratio of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 6,
+        "type": "text",
+        "content": "resistances of the two conductors.",
+        "mathpix_content": " resistances of the two conductors.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 7,
+        "type": "text",
+        "content": "Call $H$ and $F^{\\prime}$ the resistances of the conductors $S S^{\\prime}$ and $T^{\\prime} T$.",
+        "mathpix_content": "\n\nCall $H$ and $F^{\\prime}$ the resistances of the conductors $S S^{\\prime}$ and $T^{\\prime} T$.",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 519,
+        "line_number": 8,
+        "type": "text",
+        "content": ",, $A$ and $C$ those of the branches $S V$ and $V T$.",
+        "mathpix_content": "\n,, $A$ and $C$ those of the branches $S V$ and $V T$.",
+        "font_size": 34,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 519,
+        "line_number": 9,
+        "type": "text",
+        "content": ",, $P$ and $R$ those of the branches $S^{\\prime} V^{\\prime}$ and $V^{\\prime} T^{\\nu}$.",
+        "mathpix_content": "\n,, $P$ and $R$ those of the branches $S^{\\prime} V^{\\prime}$ and $V^{\\prime} T^{\\nu}$.",
+        "font_size": 34,
+        "confidence": 0.6129560596309602
+      },
+      {
+        "page": 519,
+        "line_number": 10,
+        "type": "text",
+        "content": ",, $Q$ that of the connecting piece $S^{\\prime} T^{v}$.",
+        "mathpix_content": "\n,, $Q$ that of the connecting piece $S^{\\prime} T^{v}$.",
+        "font_size": 34,
+        "confidence": 0.8982921979531966
+      },
+      {
+        "page": 519,
+        "line_number": 11,
+        "type": "text",
+        "content": ",, $B$ that of the battery and its connexions.",
+        "mathpix_content": "\n,, $B$ that of the battery and its connexions.",
+        "font_size": 34,
+        "confidence": 0.9936609268188477
+      },
+      {
+        "page": 519,
+        "line_number": 12,
+        "type": "text",
+        "content": ",, $G$ that of the galvanometer and its connexions.",
+        "mathpix_content": "\n,, $G$ that of the galvanometer and its connexions.",
+        "font_size": 34,
+        "confidence": 0.9279115498065948
+      },
+      {
+        "page": 519,
+        "line_number": 13,
+        "type": "text",
+        "content": "The symmetry of the system may be understood from the",
+        "mathpix_content": "\nThe symmetry of the system may be understood from the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 14,
+        "type": "text",
+        "content": "skeleton diagram. Fig. 34.",
+        "mathpix_content": " skeleton diagram. Fig. 34.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 17,
+        "type": "text",
+        "content": "The condition that $B$ the battery and $G$ the galvanometer",
+        "mathpix_content": "\n\nThe condition that $B$ the battery and $G$ the galvanometer",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 18,
+        "type": "text",
+        "content": "may be conjugate conductors is, in this case *,",
+        "mathpix_content": " may be conjugate conductors is, in this case *,",
+        "font_size": 34,
+        "confidence": 0.978515625
+      },
+      {
+        "page": 519,
+        "line_number": 21,
+        "type": "text",
+        "content": "Now the resistance of the connector $Q$ is as small as we can",
+        "mathpix_content": "\n\nNow the resistance of the connector $Q$ is as small as we can",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 22,
+        "type": "text",
+        "content": "make it. If it were zero this equation would be reduced to",
+        "mathpix_content": " make it. If it were zero this equation would be reduced to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 25,
+        "type": "text",
+        "content": "and the ratio of the resistances of the conductors to be compared",
+        "mathpix_content": "\nand the ratio of the resistances of the conductors to be compared",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 26,
+        "type": "text",
+        "content": "would be that of $C$ to $A$, as in Wheatstone's Bridge in the",
+        "mathpix_content": " would be that of $C$ to $A$, as in Wheatstone's Bridge in the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 27,
+        "type": "text",
+        "content": "ordinary form.",
+        "mathpix_content": " ordinary form.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 28,
+        "type": "text",
+        "content": "In the present case the value of $Q$ is small compared with $P$",
+        "mathpix_content": "\n\nIn the present case the value of $Q$ is small compared with $P$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 29,
+        "type": "text",
+        "content": "or with $R$, so that if we select the points $V, V^{\\prime}$ so that the",
+        "mathpix_content": " or with $R$, so that if we select the points $V, V^{\\prime}$ so that the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 519,
+        "line_number": 31,
+        "type": "text",
+        "content": "* \\{This may easily be deduced by the rule given in the Appendix to Chap. vi.\\}",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{This may easily be deduced by the rule given in the Appendix to Chap. vi.\\}\n}",
+        "font_size": 21,
+        "confidence": 0.9839453268796206
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "\\end{aligned}$$",
+  "title_safe": "endaligned",
+  "page_start": 511,
+  "page_end": 511,
+  "content": {
+    "raw_text": "\n--- Page 511 ---\n476\nMEASUREMENT OF RESISTANCE.\n[347.\nbattery introduced between $B$ and $C$. The current between the\nother two points $O$ and $A$ is measured by a galvanometer.\n\n\nFig. 32.\nUnder certain circumstances this current\nbecomes zero. The conductors $B C$ and\n$O A$ are then said to be conjugate to each\nother, which implies a certain relation\nbetween the resistances of the other four\nconductors, and this relation is made use\nof in measuring resistances.\nIf the current in $O A$ is zero, the\npotential at $O$ must be equal to that\nat $A$. Now when we know the potentials at $B$ and $C$ we\ncan determine those at $O$ and $A$ by the rule given in Art. 275,\nprovided there is no current in $O A$,\n$$O=\\frac{B \\gamma+C \\beta}{\\beta+\\gamma}, \\quad A=\\frac{B b+C c}{b+c},$$\nwhence the condition is $\\quad b \\beta=c \\gamma$,\nwhere $b, c, \\beta, \\gamma$ are the resistances in $C A, A B, B O$, and $O C$ re-\nspectively.\nTo determine the degree of accuracy attainable by this method\nwe must ascertain the strength of the current in $O A$ when this\ncondition is not fulfilled exactly.\nLet $A, B, C$ and $O$ be the four points. Let the currents along\n$B C, C A$ and $A B$ be $x, y$ and $z$, and the resistances of these\nconductors $a, b$ and $c$. Let the currents along $O A, O B$ and $O C$\nbe $\\xi, \\eta, \\zeta$, and the resistances $\\alpha, \\beta$ and $\\gamma$. Let an electromotive\nforce $E$ act along $B C$. Required the current $\\xi$ along $O A$.\nLet the potentials at the points $A, B, C$ and $O$ be denoted by\nthe symbols $A, B, C$ and $O$. The equations of conduction are\n$$\\begin{array}{ll}\na x=B-C+E, & a \\xi=0-A, \\\\\nb y=C-A, & \\beta \\eta=0-B, \\\\\nc z=A-B, & \\gamma \\zeta=0-C ;\n\\end{array}$$\nwith the equations of continuity\n$$\\begin{aligned}\n& \\xi+y-z=0 \\\\\n& \\eta+z-x=0 \\\\\n& \\zeta+x-y=0\n\\end{aligned}$$\nBy considering the system as made up of three circuits $O B C$,\n$O C A$ and $O A B$, in which the currents are $x, y, z$ respectively,\n",
+    "mathpix_markdown": "\n--- Page 511 ---\n\nbattery introduced between $B$ and $C$. The current between the\n other two points $O$ and $A$ is measured by a galvanometer.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-511.jpg?height=296&width=298&top_left_y=307&top_left_x=149}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 32.}\n\\end{figure}\n\n\nUnder certain circumstances this current\n becomes zero. The conductors $B C$ and\n $O A$ are then said to be conjugate to each\n other, which implies a certain relation\n between the resistances of the other four\n conductors, and this relation is made use\n of in measuring resistances.\n\n\nIf the current in $O A$ is zero, the\n potential at $O$ must be equal to that\n at $A$. Now when we know the potentials at $B$ and $C$ we\n can determine those at $O$ and $A$ by the rule given in Art. 275,\n provided there is no current in $O A$,\n\n$$O=\\frac{B \\gamma+C \\beta}{\\beta+\\gamma}, \\quad A=\\frac{B b+C c}{b+c},$$\n\nwhence the condition is $\\quad b \\beta=c \\gamma$,\n where $b, c, \\beta, \\gamma$ are the resistances in $C A, A B, B O$, and $O C$ re\nspectively.\n\n\nTo determine the degree of accuracy attainable by this method\n we must ascertain the strength of the current in $O A$ when this\n condition is not fulfilled exactly.\n\n\nLet $A, B, C$ and $O$ be the four points. Let the currents along\n $B C, C A$ and $A B$ be $x, y$ and $z$, and the resistances of these\n conductors $a, b$ and $c$. Let the currents along $O A, O B$ and $O C$\n be $\\xi, \\eta, \\zeta$, and the resistances $\\alpha, \\beta$ and $\\gamma$. Let an electromotive\n force $E$ act along $B C$. Required the current $\\xi$ along $O A$.\n\n\nLet the potentials at the points $A, B, C$ and $O$ be denoted by\n the symbols $A, B, C$ and $O$. The equations of conduction are\n\n$$\\begin{array}{ll}\na x=B-C+E, & a \\xi=0-A, \\\\\nb y=C-A, & \\beta \\eta=0-B, \\\\\nc z=A-B, & \\gamma \\zeta=0-C ;\n\\end{array}$$\n\nwith the equations of continuity\n\n$$\\begin{aligned}\n& \\xi+y-z=0 \\\\\n& \\eta+z-x=0 \\\\\n& \\zeta+x-y=0\n\\end{aligned}$$\n\n\nBy considering the system as made up of three circuits $O B C$,\n $O C A$ and $O A B$, in which the currents are $x, y, z$ respectively,\n",
+    "structured_lines": [
+      {
+        "page": 511,
+        "line_number": 4,
+        "type": "text",
+        "content": "battery introduced between $B$ and $C$. The current between the",
+        "mathpix_content": "\nbattery introduced between $B$ and $C$. The current between the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 5,
+        "type": "text",
+        "content": "other two points $O$ and $A$ is measured by a galvanometer.",
+        "mathpix_content": " other two points $O$ and $A$ is measured by a galvanometer.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 9,
+        "type": "text",
+        "content": "Under certain circumstances this current",
+        "mathpix_content": "\n\nUnder certain circumstances this current",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 10,
+        "type": "text",
+        "content": "becomes zero. The conductors $B C$ and",
+        "mathpix_content": " becomes zero. The conductors $B C$ and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 11,
+        "type": "text",
+        "content": "$O A$ are then said to be conjugate to each",
+        "mathpix_content": " $O A$ are then said to be conjugate to each",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 12,
+        "type": "text",
+        "content": "other, which implies a certain relation",
+        "mathpix_content": " other, which implies a certain relation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 13,
+        "type": "text",
+        "content": "between the resistances of the other four",
+        "mathpix_content": " between the resistances of the other four",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 14,
+        "type": "text",
+        "content": "conductors, and this relation is made use",
+        "mathpix_content": " conductors, and this relation is made use",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 15,
+        "type": "text",
+        "content": "of in measuring resistances.",
+        "mathpix_content": " of in measuring resistances.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 16,
+        "type": "text",
+        "content": "If the current in $O A$ is zero, the",
+        "mathpix_content": "\n\nIf the current in $O A$ is zero, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 17,
+        "type": "text",
+        "content": "potential at $O$ must be equal to that",
+        "mathpix_content": " potential at $O$ must be equal to that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 18,
+        "type": "text",
+        "content": "at $A$. Now when we know the potentials at $B$ and $C$ we",
+        "mathpix_content": " at $A$. Now when we know the potentials at $B$ and $C$ we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 19,
+        "type": "text",
+        "content": "can determine those at $O$ and $A$ by the rule given in Art. 275,",
+        "mathpix_content": " can determine those at $O$ and $A$ by the rule given in Art. 275,",
+        "font_size": 27,
+        "confidence": 0.99072265625
+      },
+      {
+        "page": 511,
+        "line_number": 20,
+        "type": "text",
+        "content": "provided there is no current in $O A$,",
+        "mathpix_content": " provided there is no current in $O A$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 23,
+        "type": "text",
+        "content": "whence the condition is $\\quad b \\beta=c \\gamma$,",
+        "mathpix_content": "\nwhence the condition is $\\quad b \\beta=c \\gamma$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 24,
+        "type": "text",
+        "content": "where $b, c, \\beta, \\gamma$ are the resistances in $C A, A B, B O$, and $O C$ re-",
+        "mathpix_content": " where $b, c, \\beta, \\gamma$ are the resistances in $C A, A B, B O$, and $O C$ re",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 511,
+        "line_number": 25,
+        "type": "text",
+        "content": "spectively.",
+        "mathpix_content": "spectively.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 26,
+        "type": "text",
+        "content": "To determine the degree of accuracy attainable by this method",
+        "mathpix_content": "\n\nTo determine the degree of accuracy attainable by this method",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 27,
+        "type": "text",
+        "content": "we must ascertain the strength of the current in $O A$ when this",
+        "mathpix_content": " we must ascertain the strength of the current in $O A$ when this",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 28,
+        "type": "text",
+        "content": "condition is not fulfilled exactly.",
+        "mathpix_content": " condition is not fulfilled exactly.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 29,
+        "type": "text",
+        "content": "Let $A, B, C$ and $O$ be the four points. Let the currents along",
+        "mathpix_content": "\n\nLet $A, B, C$ and $O$ be the four points. Let the currents along",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 30,
+        "type": "text",
+        "content": "$B C, C A$ and $A B$ be $x, y$ and $z$, and the resistances of these",
+        "mathpix_content": " $B C, C A$ and $A B$ be $x, y$ and $z$, and the resistances of these",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 511,
+        "line_number": 31,
+        "type": "text",
+        "content": "conductors $a, b$ and $c$. Let the currents along $O A, O B$ and $O C$",
+        "mathpix_content": " conductors $a, b$ and $c$. Let the currents along $O A, O B$ and $O C$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 32,
+        "type": "text",
+        "content": "be $\\xi, \\eta, \\zeta$, and the resistances $\\alpha, \\beta$ and $\\gamma$. Let an electromotive",
+        "mathpix_content": " be $\\xi, \\eta, \\zeta$, and the resistances $\\alpha, \\beta$ and $\\gamma$. Let an electromotive",
+        "font_size": 27,
+        "confidence": 0.7769641876220703
+      },
+      {
+        "page": 511,
+        "line_number": 33,
+        "type": "text",
+        "content": "force $E$ act along $B C$. Required the current $\\xi$ along $O A$.",
+        "mathpix_content": " force $E$ act along $B C$. Required the current $\\xi$ along $O A$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 34,
+        "type": "text",
+        "content": "Let the potentials at the points $A, B, C$ and $O$ be denoted by",
+        "mathpix_content": "\n\nLet the potentials at the points $A, B, C$ and $O$ be denoted by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 35,
+        "type": "text",
+        "content": "the symbols $A, B, C$ and $O$. The equations of conduction are",
+        "mathpix_content": " the symbols $A, B, C$ and $O$. The equations of conduction are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 43,
+        "type": "text",
+        "content": "with the equations of continuity",
+        "mathpix_content": "\nwith the equations of continuity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 48,
+        "type": "text",
+        "content": "By considering the system as made up of three circuits $O B C$,",
+        "mathpix_content": "\n\nBy considering the system as made up of three circuits $O B C$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 511,
+        "line_number": 49,
+        "type": "text",
+        "content": "$O C A$ and $O A B$, in which the currents are $x, y, z$ respectively,",
+        "mathpix_content": " $O C A$ and $O A B$, in which the currents are $x, y, z$ respectively,",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

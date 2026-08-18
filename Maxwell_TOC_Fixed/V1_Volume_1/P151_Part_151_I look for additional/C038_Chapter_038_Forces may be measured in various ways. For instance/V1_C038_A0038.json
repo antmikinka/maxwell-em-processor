@@ -1,0 +1,372 @@
+{
+  "article_id": "article_38",
+  "article_number": 38,
+  "title_original": ".] Forces may be measured in various ways. For instance,",
+  "title_safe": "Forces may be measured in various ways. For instance",
+  "page_start": 78,
+  "page_end": 78,
+  "content": {
+    "raw_text": "\n--- Page 78 ---\n38.]\nTHEORY OF ONE FLUID.\n43\nelectricity repel one another, is in direct antagonism with the\nwell-established fact that every particle of matter attracts every\nother particle throughout the universe. If the theory of One\nFluid were true we should have the heavenly bodies repelling\none another.\nIt is manifest however that the heavenly bodies, according to\nthis theory, if they consisted of matter uncombined with elec-\ntricity, would be in the highest state of negative electrification,\nand would repel each other. We have no reason to believe that\nthey are in such a highly electrified state, or could be maintained\nin that state. The earth and all the bodies whose attraction has\nbeen observed are rather in an unelectrified state, that is, they con-\ntain the normal charge of electricity, and the only action between\nthem is the residual force lately mentioned. The artificial manner,\nhowever, in which this residual force is introduced is a much\nmore valid objection to the theory.\nIn the present treatise I propose, at different stages of the in-\nvestigation, to test the different theories in the light of additional\nclasses of phenomena. For my own part, I look for additional\nlight on the nature of electricity from a study of what takes place\nin the space intervening between the electrified bodies. Such is\nthe essential character of the mode of investigation pursued by\nFaraday in his Experimental Researches, and as we go on I\nintend to exhibit the results, as developed by Faraday,\nW. Thomson, \\&c., in a connected and mathematical form, so\nthat we may perceive what phenomena are explained equally well\nby all the theories, and what phenomena indicate the peculiar\ndifficulties of each theory.\n\nMeasurement of the Force between Electrified Bodies.\n38.] Forces may be measured in various ways. For instance,\none of the bodies may be suspended from one arm of a delicate\nbalance, and weights suspended from the other arm, till the body,\nwhen unelectrified, is in equilibrium. The other body may then\nbe placed at a known distance beneath the first, so that the\nattraction or repulsion of the bodies when electrified may increase\nor diminish the apparent weight of the first. The weight which\nmust be added to or taken from the other arm, when expressed\nin dynamical measure, will measure the force between the bodies.\nThis arrangement was used by Sir W. Snow Harris, and is that\n",
+    "mathpix_markdown": "\n--- Page 78 ---\n\nelectricity repel one another, is in direct antagonism with the\n well-established fact that every particle of matter attracts every\n other particle throughout the universe. If the theory of One\n Fluid were true we should have the heavenly bodies repelling\n one another.\n\n\nIt is manifest however that the heavenly bodies, according to\n this theory, if they consisted of matter uncombined with elec\ntricity, would be in the highest state of negative electrification,\n and would repel each other. We have no reason to believe that\n they are in such a highly electrified state, or could be maintained\n in that state. The earth and all the bodies whose attraction has\n been observed are rather in an unelectrified state, that is, they con\ntain the normal charge of electricity, and the only action between\n them is the residual force lately mentioned. The artificial manner,\n however, in which this residual force is introduced is a much\n more valid objection to the theory.\n\n\nIn the present treatise I propose, at different stages of the in\nvestigation, to test the different theories in the light of additional\n classes of phenomena. For my own part, I look for additional\n light on the nature of electricity from a study of what takes place\n in the space intervening between the electrified bodies. Such is\n the essential character of the mode of investigation pursued by\n Faraday in his Experimental Researches, and as we go on I\n intend to exhibit the results, as developed by Faraday,\n W. Thomson, \\&c., in a connected and mathematical form, so\n that we may perceive what phenomena are explained equally well\n by all the theories, and what phenomena indicate the peculiar\n difficulties of each theory.\n\n\n\\section*{Measurement of the Force between Electrified Bodies.}\n\n38.] Forces may be measured in various ways. For instance,\n one of the bodies may be suspended from one arm of a delicate\n balance, and weights suspended from the other arm, till the body,\n when unelectrified, is in equilibrium. The other body may then\n be placed at a known distance beneath the first, so that the\n attraction or repulsion of the bodies when electrified may increase\n or diminish the apparent weight of the first. The weight which\n must be added to or taken from the other arm, when expressed\n in dynamical measure, will measure the force between the bodies.\n This arrangement was used by Sir W. Snow Harris, and is that\n",
+    "structured_lines": [
+      {
+        "page": 78,
+        "line_number": 4,
+        "type": "text",
+        "content": "electricity repel one another, is in direct antagonism with the",
+        "mathpix_content": "\nelectricity repel one another, is in direct antagonism with the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 5,
+        "type": "text",
+        "content": "well-established fact that every particle of matter attracts every",
+        "mathpix_content": " well-established fact that every particle of matter attracts every",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 6,
+        "type": "text",
+        "content": "other particle throughout the universe. If the theory of One",
+        "mathpix_content": " other particle throughout the universe. If the theory of One",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 7,
+        "type": "text",
+        "content": "Fluid were true we should have the heavenly bodies repelling",
+        "mathpix_content": " Fluid were true we should have the heavenly bodies repelling",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 8,
+        "type": "text",
+        "content": "one another.",
+        "mathpix_content": " one another.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 9,
+        "type": "text",
+        "content": "It is manifest however that the heavenly bodies, according to",
+        "mathpix_content": "\n\nIt is manifest however that the heavenly bodies, according to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 10,
+        "type": "text",
+        "content": "this theory, if they consisted of matter uncombined with elec-",
+        "mathpix_content": " this theory, if they consisted of matter uncombined with elec",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 11,
+        "type": "text",
+        "content": "tricity, would be in the highest state of negative electrification,",
+        "mathpix_content": "tricity, would be in the highest state of negative electrification,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 12,
+        "type": "text",
+        "content": "and would repel each other. We have no reason to believe that",
+        "mathpix_content": " and would repel each other. We have no reason to believe that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 13,
+        "type": "text",
+        "content": "they are in such a highly electrified state, or could be maintained",
+        "mathpix_content": " they are in such a highly electrified state, or could be maintained",
+        "font_size": 27,
+        "confidence": 0.70556640625
+      },
+      {
+        "page": 78,
+        "line_number": 14,
+        "type": "text",
+        "content": "in that state. The earth and all the bodies whose attraction has",
+        "mathpix_content": " in that state. The earth and all the bodies whose attraction has",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 15,
+        "type": "text",
+        "content": "been observed are rather in an unelectrified state, that is, they con-",
+        "mathpix_content": " been observed are rather in an unelectrified state, that is, they con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 16,
+        "type": "text",
+        "content": "tain the normal charge of electricity, and the only action between",
+        "mathpix_content": "tain the normal charge of electricity, and the only action between",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 17,
+        "type": "text",
+        "content": "them is the residual force lately mentioned. The artificial manner,",
+        "mathpix_content": " them is the residual force lately mentioned. The artificial manner,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 18,
+        "type": "text",
+        "content": "however, in which this residual force is introduced is a much",
+        "mathpix_content": " however, in which this residual force is introduced is a much",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 19,
+        "type": "text",
+        "content": "more valid objection to the theory.",
+        "mathpix_content": " more valid objection to the theory.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 20,
+        "type": "text",
+        "content": "In the present treatise I propose, at different stages of the in-",
+        "mathpix_content": "\n\nIn the present treatise I propose, at different stages of the in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 21,
+        "type": "text",
+        "content": "vestigation, to test the different theories in the light of additional",
+        "mathpix_content": "vestigation, to test the different theories in the light of additional",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 22,
+        "type": "text",
+        "content": "classes of phenomena. For my own part, I look for additional",
+        "mathpix_content": " classes of phenomena. For my own part, I look for additional",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 23,
+        "type": "text",
+        "content": "light on the nature of electricity from a study of what takes place",
+        "mathpix_content": " light on the nature of electricity from a study of what takes place",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 24,
+        "type": "text",
+        "content": "in the space intervening between the electrified bodies. Such is",
+        "mathpix_content": " in the space intervening between the electrified bodies. Such is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 25,
+        "type": "text",
+        "content": "the essential character of the mode of investigation pursued by",
+        "mathpix_content": " the essential character of the mode of investigation pursued by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 26,
+        "type": "text",
+        "content": "Faraday in his Experimental Researches, and as we go on I",
+        "mathpix_content": " Faraday in his Experimental Researches, and as we go on I",
+        "font_size": 27,
+        "confidence": 0.9682769775390625
+      },
+      {
+        "page": 78,
+        "line_number": 27,
+        "type": "text",
+        "content": "intend to exhibit the results, as developed by Faraday,",
+        "mathpix_content": " intend to exhibit the results, as developed by Faraday,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 28,
+        "type": "text",
+        "content": "W. Thomson, \\&c., in a connected and mathematical form, so",
+        "mathpix_content": " W. Thomson, \\&c., in a connected and mathematical form, so",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 29,
+        "type": "text",
+        "content": "that we may perceive what phenomena are explained equally well",
+        "mathpix_content": " that we may perceive what phenomena are explained equally well",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 30,
+        "type": "text",
+        "content": "by all the theories, and what phenomena indicate the peculiar",
+        "mathpix_content": " by all the theories, and what phenomena indicate the peculiar",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 31,
+        "type": "text",
+        "content": "difficulties of each theory.",
+        "mathpix_content": " difficulties of each theory.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 33,
+        "type": "text",
+        "content": "Measurement of the Force between Electrified Bodies.",
+        "mathpix_content": "\n\n\\section*{Measurement of the Force between Electrified Bodies.}",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 78,
+        "line_number": 34,
+        "type": "text",
+        "content": "38.] Forces may be measured in various ways. For instance,",
+        "mathpix_content": "\n38.] Forces may be measured in various ways. For instance,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 35,
+        "type": "text",
+        "content": "one of the bodies may be suspended from one arm of a delicate",
+        "mathpix_content": " one of the bodies may be suspended from one arm of a delicate",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 36,
+        "type": "text",
+        "content": "balance, and weights suspended from the other arm, till the body,",
+        "mathpix_content": " balance, and weights suspended from the other arm, till the body,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 37,
+        "type": "text",
+        "content": "when unelectrified, is in equilibrium. The other body may then",
+        "mathpix_content": " when unelectrified, is in equilibrium. The other body may then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 38,
+        "type": "text",
+        "content": "be placed at a known distance beneath the first, so that the",
+        "mathpix_content": " be placed at a known distance beneath the first, so that the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 39,
+        "type": "text",
+        "content": "attraction or repulsion of the bodies when electrified may increase",
+        "mathpix_content": " attraction or repulsion of the bodies when electrified may increase",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 40,
+        "type": "text",
+        "content": "or diminish the apparent weight of the first. The weight which",
+        "mathpix_content": " or diminish the apparent weight of the first. The weight which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 41,
+        "type": "text",
+        "content": "must be added to or taken from the other arm, when expressed",
+        "mathpix_content": " must be added to or taken from the other arm, when expressed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 42,
+        "type": "text",
+        "content": "in dynamical measure, will measure the force between the bodies.",
+        "mathpix_content": " in dynamical measure, will measure the force between the bodies.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 78,
+        "line_number": 43,
+        "type": "text",
+        "content": "This arrangement was used by Sir W. Snow Harris, and is that",
+        "mathpix_content": " This arrangement was used by Sir W. Snow Harris, and is that",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

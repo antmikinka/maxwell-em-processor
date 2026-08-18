@@ -1,0 +1,1301 @@
+{
+  "part_id": "part_814",
+  "part_number": 814,
+  "title": "of",
+  "page_start": 516,
+  "page_end": 517,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 350,
+      "title": "]",
+      "page_start": 516,
+      "page_end": 515,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 481,
+      "title": "their electrodes in mercury cups so that the current of the",
+      "page_start": 516,
+      "page_end": 515,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 2,
+      "title": "}}{\\beta^{2}}=1+\\frac{(b+c)(y-x)}{(c+x)(b-y)}",
+      "page_start": 516,
+      "page_end": 515,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 2,
+      "title": "}}{\\beta^{2}}=1+4 \\frac{y-x}{b+c} \\\\",
+      "page_start": 516,
+      "page_end": 515,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 1,
+      "title": "+2 \\frac{y-x}{b+c}\\right)",
+      "page_start": 516,
+      "page_end": 515,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 2,
+      "title": "}}{\\beta^{2}}=1+\\frac{(b+c)(y-x)}{(c+x)(b-y)}",
+      "page_start": 516,
+      "page_end": 515,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 2,
+      "title": "}}{\\beta^{2}}=1+4 \\frac{y-x}{b+c} \\\\",
+      "page_start": 516,
+      "page_end": 515,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": "+2 \\frac{y-x}{b+c}\\right)",
+      "page_start": 516,
+      "page_end": 516,
+      "articles": [
+        {
+          "article_id": "article_350",
+          "article_number": 350,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_350",
+          "article_number": 350,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_481",
+          "article_number": 481,
+          "title_original": "their electrodes in mercury cups so that the current of the",
+          "title_safe": "their electrodes in mercury cups so that the current of the",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{\\beta^{2}}=1+\\frac{(b+c)(y-x)}{(c+x)(b-y)}",
+          "title_safe": "beta2equals1plusfracbpluscy-xcplusxb-y",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{\\beta^{2}}=1+4 \\frac{y-x}{b+c} \\\\",
+          "title_safe": "beta2equals1plus4 fracy-xbplusc",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+2 \\frac{y-x}{b+c}\\right)",
+          "title_safe": "plus2 fracy-xbpluscright",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{\\beta^{2}}=1+\\frac{(b+c)(y-x)}{(c+x)(b-y)}",
+          "title_safe": "beta2equals1plusfracbpluscy-xcplusxb-y",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{\\beta^{2}}=1+4 \\frac{y-x}{b+c} \\\\",
+          "title_safe": "beta2equals1plus4 fracy-xbplusc",
+          "page_start": 516,
+          "page_end": 515,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+2 \\frac{y-x}{b+c}\\right)",
+          "title_safe": "plus2 fracy-xbpluscright",
+          "page_start": 516,
+          "page_end": 516,
+          "content": {
+            "raw_text": "\n--- Page 516 ---\n350.]\nUSE OF WHEATSTONE'S BRIDGE.\n481\ntheir electrodes in mercury cups so that the current of the\nbattery is divided between two branches, one consisting of $\\beta$\nand $\\gamma$ and the other of $b$ and $c$. The coils $b$ and $c$ are connected\nby a wire $P R$, as uniform in its resistance as possible, and fur-\nnished with a scale of equal parts.\nThe galvanometer wire connects the junction of $\\beta$ and $\\gamma$ with\na point $Q$ of the wire $P R$, and the point of contact $Q$ is made\nto vary till on closing first the battery circuit and then the\ngalvanometer circuit, no deflexion of the galvanometer needle\nis observed.\nThe coils $\\beta$ and $\\gamma$ are then made to change places, and a new\nposition is found for $Q$. If this new position is the same as\nthe old one, then we know that the exchange of $\\beta$ and $\\gamma$ has\nproduced no change in the proportions of the resistances, and\ntherefore $\\gamma$ is rightly adjusted. If $Q$ has to be moved, the\ndirection and amount of the change will indicate the nature\nand amount of the alteration of the length of the wire of $\\gamma$,\nwhich will make its resistance equal to that of $\\beta$.\nIf the resistances of the coils $b$ and $c$, each including part of\nthe wire $P R$ up to its zero reading, are equal to that of $b$ and $c$\ndivisions of the wire respectively, then, if $x$ is the scale reading\nof $Q$ in the first case, and $y$ that in the second,\nwhence\n$$\\begin{gathered}\n\\frac{c+x}{b-x}=\\frac{\\beta}{\\gamma}, \\quad \\frac{c+y}{b-y}=\\frac{\\gamma}{\\beta} \\\\\n\\frac{\\gamma^{2}}{\\beta^{2}}=1+\\frac{(b+c)(y-x)}{(c+x)(b-y)}\n\\end{gathered}$$\nSince $b-y$ is nearly equal to $c+x$, and both are great with\nrespect to $x$ or $y$, we may write this\nand\n$$\\begin{aligned}\n& \\frac{\\gamma^{2}}{\\beta^{2}}=1+4 \\frac{y-x}{b+c} \\\\\n& \\gamma=\\beta\\left(1+2 \\frac{y-x}{b+c}\\right)\n\\end{aligned}$$\nWhen $\\gamma$ is adjusted as well as we can, we substitute for $b$ and $c$\nother coils of (say) ten times greater resistance.\nThe remaining difference between $\\beta$ and $\\gamma$ will now produce\na ten times greater difference in the position of $Q$ than with\nthe original coils $b$ and $c$, and in this way we can continually\nincrease the accuracy of the comparison.\nThe adjustment by means of the wire with sliding contact\nVOL. I.\nI i\n",
+            "mathpix_markdown": "\n--- Page 516 ---\n\ntheir electrodes in mercury cups so that the current of the\n battery is divided between two branches, one consisting of $\\beta$\n and $\\gamma$ and the other of $b$ and $c$. The coils $b$ and $c$ are connected\n by a wire $P R$, as uniform in its resistance as possible, and fur\nnished with a scale of equal parts.\n\n\nThe galvanometer wire connects the junction of $\\beta$ and $\\gamma$ with\n a point $Q$ of the wire $P R$, and the point of contact $Q$ is made\n to vary till on closing first the battery circuit and then the\n galvanometer circuit, no deflexion of the galvanometer needle\n is observed.\n\n\nThe coils $\\beta$ and $\\gamma$ are then made to change places, and a new\n position is found for $Q$. If this new position is the same as\n the old one, then we know that the exchange of $\\beta$ and $\\gamma$ has\n produced no change in the proportions of the resistances, and\n therefore $\\gamma$ is rightly adjusted. If $Q$ has to be moved, the\n direction and amount of the change will indicate the nature\n and amount of the alteration of the length of the wire of $\\gamma$,\n which will make its resistance equal to that of $\\beta$.\n\n\nIf the resistances of the coils $b$ and $c$, each including part of\n the wire $P R$ up to its zero reading, are equal to that of $b$ and $c$\n divisions of the wire respectively, then, if $x$ is the scale reading\n of $Q$ in the first case, and $y$ that in the second,\n\nwhence\n\n$$\\begin{gathered}\n\\frac{c+x}{b-x}=\\frac{\\beta}{\\gamma}, \\quad \\frac{c+y}{b-y}=\\frac{\\gamma}{\\beta} \\\\\n\\frac{\\gamma^{2}}{\\beta^{2}}=1+\\frac{(b+c)(y-x)}{(c+x)(b-y)}\n\\end{gathered}$$\n\n\nSince $b-y$ is nearly equal to $c+x$, and both are great with\n respect to $x$ or $y$, we may write this\n\nand\n\n$$\\begin{aligned}\n& \\frac{\\gamma^{2}}{\\beta^{2}}=1+4 \\frac{y-x}{b+c} \\\\\n& \\gamma=\\beta\\left(1+2 \\frac{y-x}{b+c}\\right)\n\\end{aligned}$$\n\n\nWhen $\\gamma$ is adjusted as well as we can, we substitute for $b$ and $c$\n other coils of (say) ten times greater resistance.\n\n\nThe remaining difference between $\\beta$ and $\\gamma$ will now produce\n a ten times greater difference in the position of $Q$ than with\n the original coils $b$ and $c$, and in this way we can continually\n increase the accuracy of the comparison.\n\n\nThe adjustment by means of the wire with sliding contact\n",
+            "structured_lines": [
+              {
+                "page": 516,
+                "line_number": 4,
+                "type": "text",
+                "content": "their electrodes in mercury cups so that the current of the",
+                "mathpix_content": "\ntheir electrodes in mercury cups so that the current of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 5,
+                "type": "text",
+                "content": "battery is divided between two branches, one consisting of $\\beta$",
+                "mathpix_content": " battery is divided between two branches, one consisting of $\\beta$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 6,
+                "type": "text",
+                "content": "and $\\gamma$ and the other of $b$ and $c$. The coils $b$ and $c$ are connected",
+                "mathpix_content": " and $\\gamma$ and the other of $b$ and $c$. The coils $b$ and $c$ are connected",
+                "font_size": 27,
+                "confidence": 0.9541015625
+              },
+              {
+                "page": 516,
+                "line_number": 7,
+                "type": "text",
+                "content": "by a wire $P R$, as uniform in its resistance as possible, and fur-",
+                "mathpix_content": " by a wire $P R$, as uniform in its resistance as possible, and fur",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 8,
+                "type": "text",
+                "content": "nished with a scale of equal parts.",
+                "mathpix_content": "nished with a scale of equal parts.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 9,
+                "type": "text",
+                "content": "The galvanometer wire connects the junction of $\\beta$ and $\\gamma$ with",
+                "mathpix_content": "\n\nThe galvanometer wire connects the junction of $\\beta$ and $\\gamma$ with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 10,
+                "type": "text",
+                "content": "a point $Q$ of the wire $P R$, and the point of contact $Q$ is made",
+                "mathpix_content": " a point $Q$ of the wire $P R$, and the point of contact $Q$ is made",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 516,
+                "line_number": 11,
+                "type": "text",
+                "content": "to vary till on closing first the battery circuit and then the",
+                "mathpix_content": " to vary till on closing first the battery circuit and then the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 12,
+                "type": "text",
+                "content": "galvanometer circuit, no deflexion of the galvanometer needle",
+                "mathpix_content": " galvanometer circuit, no deflexion of the galvanometer needle",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 13,
+                "type": "text",
+                "content": "is observed.",
+                "mathpix_content": " is observed.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 14,
+                "type": "text",
+                "content": "The coils $\\beta$ and $\\gamma$ are then made to change places, and a new",
+                "mathpix_content": "\n\nThe coils $\\beta$ and $\\gamma$ are then made to change places, and a new",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 15,
+                "type": "text",
+                "content": "position is found for $Q$. If this new position is the same as",
+                "mathpix_content": " position is found for $Q$. If this new position is the same as",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 16,
+                "type": "text",
+                "content": "the old one, then we know that the exchange of $\\beta$ and $\\gamma$ has",
+                "mathpix_content": " the old one, then we know that the exchange of $\\beta$ and $\\gamma$ has",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 17,
+                "type": "text",
+                "content": "produced no change in the proportions of the resistances, and",
+                "mathpix_content": " produced no change in the proportions of the resistances, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 18,
+                "type": "text",
+                "content": "therefore $\\gamma$ is rightly adjusted. If $Q$ has to be moved, the",
+                "mathpix_content": " therefore $\\gamma$ is rightly adjusted. If $Q$ has to be moved, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 19,
+                "type": "text",
+                "content": "direction and amount of the change will indicate the nature",
+                "mathpix_content": " direction and amount of the change will indicate the nature",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 20,
+                "type": "text",
+                "content": "and amount of the alteration of the length of the wire of $\\gamma$,",
+                "mathpix_content": " and amount of the alteration of the length of the wire of $\\gamma$,",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 516,
+                "line_number": 21,
+                "type": "text",
+                "content": "which will make its resistance equal to that of $\\beta$.",
+                "mathpix_content": " which will make its resistance equal to that of $\\beta$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 22,
+                "type": "text",
+                "content": "If the resistances of the coils $b$ and $c$, each including part of",
+                "mathpix_content": "\n\nIf the resistances of the coils $b$ and $c$, each including part of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 23,
+                "type": "text",
+                "content": "the wire $P R$ up to its zero reading, are equal to that of $b$ and $c$",
+                "mathpix_content": " the wire $P R$ up to its zero reading, are equal to that of $b$ and $c$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 24,
+                "type": "text",
+                "content": "divisions of the wire respectively, then, if $x$ is the scale reading",
+                "mathpix_content": " divisions of the wire respectively, then, if $x$ is the scale reading",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 516,
+                "line_number": 25,
+                "type": "text",
+                "content": "of $Q$ in the first case, and $y$ that in the second,",
+                "mathpix_content": " of $Q$ in the first case, and $y$ that in the second,",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 516,
+                "line_number": 26,
+                "type": "text",
+                "content": "whence",
+                "mathpix_content": "\nwhence",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 30,
+                "type": "text",
+                "content": "Since $b-y$ is nearly equal to $c+x$, and both are great with",
+                "mathpix_content": "\n\nSince $b-y$ is nearly equal to $c+x$, and both are great with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 31,
+                "type": "text",
+                "content": "respect to $x$ or $y$, we may write this",
+                "mathpix_content": " respect to $x$ or $y$, we may write this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 32,
+                "type": "text",
+                "content": "and",
+                "mathpix_content": "\nand",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 36,
+                "type": "text",
+                "content": "When $\\gamma$ is adjusted as well as we can, we substitute for $b$ and $c$",
+                "mathpix_content": "\n\nWhen $\\gamma$ is adjusted as well as we can, we substitute for $b$ and $c$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 37,
+                "type": "text",
+                "content": "other coils of (say) ten times greater resistance.",
+                "mathpix_content": " other coils of (say) ten times greater resistance.",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 516,
+                "line_number": 38,
+                "type": "text",
+                "content": "The remaining difference between $\\beta$ and $\\gamma$ will now produce",
+                "mathpix_content": "\n\nThe remaining difference between $\\beta$ and $\\gamma$ will now produce",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 39,
+                "type": "text",
+                "content": "a ten times greater difference in the position of $Q$ than with",
+                "mathpix_content": " a ten times greater difference in the position of $Q$ than with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 40,
+                "type": "text",
+                "content": "the original coils $b$ and $c$, and in this way we can continually",
+                "mathpix_content": " the original coils $b$ and $c$, and in this way we can continually",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 516,
+                "line_number": 41,
+                "type": "text",
+                "content": "increase the accuracy of the comparison.",
+                "mathpix_content": " increase the accuracy of the comparison.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 516,
+                "line_number": 42,
+                "type": "text",
+                "content": "The adjustment by means of the wire with sliding contact",
+                "mathpix_content": "\n\nThe adjustment by means of the wire with sliding contact",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 482,
+      "title": "MEASUREMENT OF RESISTANCE.",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 351,
+      "title": "piece is more quickly made than by means of a resistance box,",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 1873,
+      "title": ") to be",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 351,
+      "title": "] When a short and thick conductor is introduced into a",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 34,
+      "title": "want of contact or imperfect soldering,",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 6,
+      "title": ", 1861.",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 1873,
+      "title": ") to be",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 351,
+      "title": "] When a short and thick conductor is introduced into a",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 2025,
+      "title": "_11_28_e96c2f916abc8f617e8eg-517.jpg?height=327&width=350&top_left_y=1247&top_left_x=153}",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 34,
+      "title": "}",
+      "page_start": 517,
+      "page_end": 516,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 6,
+      "title": ", 1861.",
+      "page_start": 517,
+      "page_end": 517,
+      "articles": [
+        {
+          "article_id": "article_351",
+          "article_number": 351,
+          "title_original": "piece is more quickly made than by means of a resistance box,",
+          "title_safe": "piece is more quickly made than by means of a resistance box",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_351",
+          "article_number": 351,
+          "title_original": "] When a short and thick conductor is introduced into a",
+          "title_safe": "When a short and thick conductor is introduced into a",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_34",
+          "article_number": 34,
+          "title_original": "want of contact or imperfect soldering,",
+          "title_safe": "want of contact or imperfect soldering",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1861",
+          "article_number": 1861,
+          "title_original": "piece is more quickly made than by means of a resistance box,",
+          "title_safe": "piece is more quickly made than by means of a resistance box",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_351",
+          "article_number": 351,
+          "title_original": "] When a short and thick conductor is introduced into a",
+          "title_safe": "When a short and thick conductor is introduced into a",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_517",
+          "article_number": 517,
+          "title_original": "jpg?height=327&width=350&top_left_y=1247&top_left_x=153}",
+          "title_safe": "jpgheightequals327andwidthequals350andtopleftyequals1247andt",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_34",
+          "article_number": 34,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1861",
+          "article_number": 1861,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_482",
+          "article_number": 482,
+          "title_original": "MEASUREMENT OF RESISTANCE.",
+          "title_safe": "MEASUREMENT OF RESISTANCE",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_351",
+          "article_number": 351,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1873",
+          "article_number": 1873,
+          "title_original": ") to be",
+          "title_safe": "to be",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_351",
+          "article_number": 351,
+          "title_original": ".] When a short and thick conductor is introduced into a",
+          "title_safe": "When a short and thick conductor is introduced into a",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_34",
+          "article_number": 34,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": ", 1861.",
+          "title_safe": "1861",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1873",
+          "article_number": 1873,
+          "title_original": ") to be",
+          "title_safe": "to be",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_351",
+          "article_number": 351,
+          "title_original": ".] When a short and thick conductor is introduced into a",
+          "title_safe": "When a short and thick conductor is introduced into a",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2025",
+          "article_number": 2025,
+          "title_original": "_11_28_e96c2f916abc8f617e8eg-517.jpg?height=327&width=350&top_left_y=1247&top_left_x=153}",
+          "title_safe": "1128e96c2f916abc8f617e8eg-517.jpgheightequals327andwidthequa",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_34",
+          "article_number": 34,
+          "title_original": ".}",
+          "title_safe": "Article",
+          "page_start": 517,
+          "page_end": 516,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": ", 1861.",
+          "title_safe": "1861",
+          "page_start": 517,
+          "page_end": 517,
+          "content": {
+            "raw_text": "\n--- Page 517 ---\n482\nMEASUREMENT OF RESISTANCE.\n[351.\npiece is more quickly made than by means of a resistance box,\nand it is capable of continuous variation.\nThe battery must never be introduced instead of the galvano-\nmeter into the wire with a sliding contact, for the passage of a\npowerful current at the point of contact would injure the surface\nof the wire. Hence this arrangement is adapted for the case in\nwhich the resistance of the galvanometer is greater than that of\nthe battery.\nWhen $\\gamma$ the resistance to be measured, $a$ the resistance of the\nbattery, and $a$ the resistance of the galvanometer, are given,\nthe best values of the other resistances have been shewn by\nMr. Oliver Heaviside (Phil. Mag., Feb. 1873) to be\n$$\\begin{aligned}\n& c=\\sqrt{a a}, \\\\\n& b=\\sqrt{a \\gamma \\frac{a+\\gamma}{a+\\gamma}}, \\\\\n& \\beta=\\sqrt{a \\gamma \\frac{a+\\gamma}{a+\\gamma}} .\n\\end{aligned}$$\nOn the Measurement of Small Resistances.\n351.] When a short and thick conductor is introduced into a\ncircuit its resistance is so small compared with the resistance\noccasioned by unavoidable faults in the connexions, such as\n\n\nFig. 34.\nwant of contact or imperfect soldering,\nthat no correct value of the resistance\ncan be deduced from experiments made\nin the way described above.\nThe object of such experiments is\ngenerally to determine the specific\nresistance of the substance, and it is\nresorted to in cases when the substance\ncannot be obtained in the form of a\nlong thin wire, or when the resistance\nto transverse as well as to longitudinal conduction has to be\nmeasured.\nSir W. Thomson * has described a method applicable to such\ncases, which we may take as an example of a system of nine\nconductors.\n\n* Proc. R. S., June 6, 1861.\n",
+            "mathpix_markdown": "\n--- Page 517 ---\n\npiece is more quickly made than by means of a resistance box,\n and it is capable of continuous variation.\n\n\nThe battery must never be introduced instead of the galvano\nmeter into the wire with a sliding contact, for the passage of a\n powerful current at the point of contact would injure the surface\n of the wire. Hence this arrangement is adapted for the case in\n which the resistance of the galvanometer is greater than that of\n the battery.\n\n\nWhen $\\gamma$ the resistance to be measured, $a$ the resistance of the\n battery, and $a$ the resistance of the galvanometer, are given,\n the best values of the other resistances have been shewn by\n Mr. Oliver Heaviside (Phil. Mag., Feb. 1873) to be\n\n$$\\begin{aligned}\n& c=\\sqrt{a a}, \\\\\n& b=\\sqrt{a \\gamma \\frac{a+\\gamma}{a+\\gamma}}, \\\\\n& \\beta=\\sqrt{a \\gamma \\frac{a+\\gamma}{a+\\gamma}} .\n\\end{aligned}$$\n\n\n\\section*{On the Measurement of Small Resistances.}\n\n351.] When a short and thick conductor is introduced into a\n circuit its resistance is so small compared with the resistance\n occasioned by unavoidable faults in the connexions, such as\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-517.jpg?height=327&width=350&top_left_y=1247&top_left_x=153}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 34.}\n\\end{figure}\n\nwant of contact or imperfect soldering,\n that no correct value of the resistance\n can be deduced from experiments made\n in the way described above.\n\n\nThe object of such experiments is\n generally to determine the specific\n resistance of the substance, and it is\n resorted to in cases when the substance\n cannot be obtained in the form of a\n long thin wire, or when the resistance\n to transverse as well as to longitudinal conduction has to be\n measured.\n\n\nSir W. Thomson * has described a method applicable to such\n cases, which we may take as an example of a system of nine\n conductors.\n\n\n\\footnotetext{\n* Proc. R. S., June 6, 1861.\n}\n",
+            "structured_lines": [
+              {
+                "page": 517,
+                "line_number": 4,
+                "type": "text",
+                "content": "piece is more quickly made than by means of a resistance box,",
+                "mathpix_content": "\npiece is more quickly made than by means of a resistance box,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 5,
+                "type": "text",
+                "content": "and it is capable of continuous variation.",
+                "mathpix_content": " and it is capable of continuous variation.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 517,
+                "line_number": 6,
+                "type": "text",
+                "content": "The battery must never be introduced instead of the galvano-",
+                "mathpix_content": "\n\nThe battery must never be introduced instead of the galvano",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 7,
+                "type": "text",
+                "content": "meter into the wire with a sliding contact, for the passage of a",
+                "mathpix_content": "meter into the wire with a sliding contact, for the passage of a",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 8,
+                "type": "text",
+                "content": "powerful current at the point of contact would injure the surface",
+                "mathpix_content": " powerful current at the point of contact would injure the surface",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 9,
+                "type": "text",
+                "content": "of the wire. Hence this arrangement is adapted for the case in",
+                "mathpix_content": " of the wire. Hence this arrangement is adapted for the case in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 10,
+                "type": "text",
+                "content": "which the resistance of the galvanometer is greater than that of",
+                "mathpix_content": " which the resistance of the galvanometer is greater than that of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 11,
+                "type": "text",
+                "content": "the battery.",
+                "mathpix_content": " the battery.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 12,
+                "type": "text",
+                "content": "When $\\gamma$ the resistance to be measured, $a$ the resistance of the",
+                "mathpix_content": "\n\nWhen $\\gamma$ the resistance to be measured, $a$ the resistance of the",
+                "font_size": 34,
+                "confidence": 0.6394023895263672
+              },
+              {
+                "page": 517,
+                "line_number": 13,
+                "type": "text",
+                "content": "battery, and $a$ the resistance of the galvanometer, are given,",
+                "mathpix_content": " battery, and $a$ the resistance of the galvanometer, are given,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 14,
+                "type": "text",
+                "content": "the best values of the other resistances have been shewn by",
+                "mathpix_content": " the best values of the other resistances have been shewn by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 15,
+                "type": "text",
+                "content": "Mr. Oliver Heaviside (Phil. Mag., Feb. 1873) to be",
+                "mathpix_content": " Mr. Oliver Heaviside (Phil. Mag., Feb. 1873) to be",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 517,
+                "line_number": 21,
+                "type": "text",
+                "content": "351.] When a short and thick conductor is introduced into a",
+                "mathpix_content": "\n351.] When a short and thick conductor is introduced into a",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 22,
+                "type": "text",
+                "content": "circuit its resistance is so small compared with the resistance",
+                "mathpix_content": " circuit its resistance is so small compared with the resistance",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 23,
+                "type": "text",
+                "content": "occasioned by unavoidable faults in the connexions, such as",
+                "mathpix_content": " occasioned by unavoidable faults in the connexions, such as",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 27,
+                "type": "text",
+                "content": "want of contact or imperfect soldering,",
+                "mathpix_content": "\nwant of contact or imperfect soldering,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 28,
+                "type": "text",
+                "content": "that no correct value of the resistance",
+                "mathpix_content": " that no correct value of the resistance",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 29,
+                "type": "text",
+                "content": "can be deduced from experiments made",
+                "mathpix_content": " can be deduced from experiments made",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 30,
+                "type": "text",
+                "content": "in the way described above.",
+                "mathpix_content": " in the way described above.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 31,
+                "type": "text",
+                "content": "The object of such experiments is",
+                "mathpix_content": "\n\nThe object of such experiments is",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 32,
+                "type": "text",
+                "content": "generally to determine the specific",
+                "mathpix_content": " generally to determine the specific",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 33,
+                "type": "text",
+                "content": "resistance of the substance, and it is",
+                "mathpix_content": " resistance of the substance, and it is",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 34,
+                "type": "text",
+                "content": "resorted to in cases when the substance",
+                "mathpix_content": " resorted to in cases when the substance",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 35,
+                "type": "text",
+                "content": "cannot be obtained in the form of a",
+                "mathpix_content": " cannot be obtained in the form of a",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 36,
+                "type": "text",
+                "content": "long thin wire, or when the resistance",
+                "mathpix_content": " long thin wire, or when the resistance",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 37,
+                "type": "text",
+                "content": "to transverse as well as to longitudinal conduction has to be",
+                "mathpix_content": " to transverse as well as to longitudinal conduction has to be",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 38,
+                "type": "text",
+                "content": "measured.",
+                "mathpix_content": " measured.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 39,
+                "type": "text",
+                "content": "Sir W. Thomson * has described a method applicable to such",
+                "mathpix_content": "\n\nSir W. Thomson * has described a method applicable to such",
+                "font_size": 34,
+                "confidence": 0.9946346282958984
+              },
+              {
+                "page": 517,
+                "line_number": 40,
+                "type": "text",
+                "content": "cases, which we may take as an example of a system of nine",
+                "mathpix_content": " cases, which we may take as an example of a system of nine",
+                "font_size": 34,
+                "confidence": 0.9654650688171387
+              },
+              {
+                "page": 517,
+                "line_number": 41,
+                "type": "text",
+                "content": "conductors.",
+                "mathpix_content": " conductors.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 517,
+                "line_number": 43,
+                "type": "text",
+                "content": "* Proc. R. S., June 6, 1861.",
+                "mathpix_content": "\n\n\\footnotetext{\n* Proc. R. S., June 6, 1861.\n}",
+                "font_size": 21,
+                "confidence": 0.99951171875
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "article_id": "article_23",
+  "article_number": 23,
+  "title_original": ".] In this treatise the motions of translation along any axis",
+  "title_safe": "In this treatise the motions of translation along any axis",
+  "page_start": 60,
+  "page_end": 60,
+  "content": {
+    "raw_text": "\n--- Page 60 ---\n23.$]$\nPERIPHRACTIC REGIONS.\n25\nnumber, or the number of internal surfaces. In drawing these\nlines we must remember that any line joining surfaces which are\nalready connected does not diminish the periphraxy, but introduces\ncyclosis. When these lines have been drawn we may assert that\nif the solenoidal condition is satisfied in the region $S$, any closed\nsurface drawn entirely within $S$, and not cutting any of the lines,\nhas its surface-integral zero. If it cuts any line, say $L_{1}$, once or\nany odd number of times, it encloses the surface $S_{1}$ and the\nsurface-integral is $Q_{1}$.\nThe most familiar example of a periphractic region within which\nthe solenoidal condition is satisfied is the region surrounding a\nmass attracting or repelling inversely as the square of the distance.\nIn the latter case we have\n$$X=m \\frac{x}{r^{3}}, \\quad Y=m \\frac{y}{r^{3}}, \\quad Z=m \\frac{z}{r^{3}} ;$$\nwhere $m$ is the mass, supposed to be at the origin of coordinates.\nAt any point where $r$ is finite\n$$\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=0,$$\nbut at the origin these quantities become infinite. For any closed\nsurface not including the origin, the surface-integral is zero. If a\nclosed surface includes the origin, its surface-integral is $4 \\pi m$.\nIf, for any reason, we wish to treat the region round $m$ as if it\nwere not periphractic, we must draw a line from $m$ to an infinite\ndistance, and in taking surface-integrals we must remember to\nadd $4 \\pi m$ whenever this line crosses from the negative to the\npositive side of the surface.\n\nOn Right-handed and Left-handed Relations in Space.\n23.] In this treatise the motions of translation along any axis\nand of rotation about that axis will be assumed to be of the same\nsign when their directions correspond to those of the translation\nand rotation of an ordinary or right-handed screw \\%.\n\n* The combined action of the muscles of the arm when we turn the upper side of\nthe right-hand outwards, and at the same time thrust the hand forwards, will impress\nthe right-handed screw motion on the memory more firmly than any verbal definition.\nA common corksorew may be used as a material symbol of the same relation.\nProfessor W. H. Miller has suggested to me that as the tendrils of the vine are\nright-handed screws and those of the hop left-handed, the two systems of relations\nin space might be called those of the vine and the hop respectively.\nThe system of the vine, which we adopt, is that of Linn\u00e6us, and of screw-makers\nin all civilized countries except Japan. De Candolle was the first who called the\nhop-tendril right-handed, and in this be is followed by Listing, and by most writers\non the circular polarization of light. Screws like the hop-tendril are made for the\ncouplings of railway-carriages, and for the fittings of wheels on the left side of ordinary\ncarriages, but they are always called left-handed screws by those who use them.\n",
+    "mathpix_markdown": "\n--- Page 60 ---\n\nnumber, or the number of internal surfaces. In drawing these\n lines we must remember that any line joining surfaces which are\n already connected does not diminish the periphraxy, but introduces\n cyclosis. When these lines have been drawn we may assert that\n if the solenoidal condition is satisfied in the region $S$, any closed\n surface drawn entirely within $S$, and not cutting any of the lines,\n has its surface-integral zero. If it cuts any line, say $L_{1}$, once or\n any odd number of times, it encloses the surface $S_{1}$ and the\n surface-integral is $Q_{1}$.\n\n\nThe most familiar example of a periphractic region within which\n the solenoidal condition is satisfied is the region surrounding a\n mass attracting or repelling inversely as the square of the distance.\n\n\nIn the latter case we have\n\n$$X=m \\frac{x}{r^{3}}, \\quad Y=m \\frac{y}{r^{3}}, \\quad Z=m \\frac{z}{r^{3}} ;$$\n\nwhere $m$ is the mass, supposed to be at the origin of coordinates.\n\nAt any point where $r$ is finite\n\n$$\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=0,$$\n\nbut at the origin these quantities become infinite. For any closed\n surface not including the origin, the surface-integral is zero. If a\n closed surface includes the origin, its surface-integral is $4 \\pi m$.\n\n\nIf, for any reason, we wish to treat the region round $m$ as if it\n were not periphractic, we must draw a line from $m$ to an infinite\n distance, and in taking surface-integrals we must remember to\n add $4 \\pi m$ whenever this line crosses from the negative to the\n positive side of the surface.\n\n\n\\section*{On Right-handed and Left-handed Relations in Space.}\n\n23.] In this treatise the motions of translation along any axis\n and of rotation about that axis will be assumed to be of the same\n sign when their directions correspond to those of the translation\n and rotation of an ordinary or right-handed screw \\%.\n\n\n\\footnotetext{\n* The combined action of the muscles of the arm when we turn the upper side of\n the right-hand outwards, and at the same time thrust the hand forwards, will impress\n the right-handed screw motion on the memory more firmly than any verbal definition.\n A common corksorew may be used as a material symbol of the same relation.\n\n\nProfessor W. H. Miller has suggested to me that as the tendrils of the vine are\n right-handed screws and those of the hop left-handed, the two systems of relations\n in space might be called those of the vine and the hop respectively.\n\n\nThe system of the vine, which we adopt, is that of Linn\u00e6us, and of screw-makers\n in all civilized countries except Japan. De Candolle was the first who called the\n hop-tendril right-handed, and in this be is followed by Listing, and by most writers\n on the circular polarization of light. Screws like the hop-tendril are made for the\n couplings of railway-carriages, and for the fittings of wheels on the left side of ordinary\n carriages, but they are always called left-handed screws by those who use them.\n}\n",
+    "structured_lines": [
+      {
+        "page": 60,
+        "line_number": 4,
+        "type": "text",
+        "content": "number, or the number of internal surfaces. In drawing these",
+        "mathpix_content": "\nnumber, or the number of internal surfaces. In drawing these",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 5,
+        "type": "text",
+        "content": "lines we must remember that any line joining surfaces which are",
+        "mathpix_content": " lines we must remember that any line joining surfaces which are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 6,
+        "type": "text",
+        "content": "already connected does not diminish the periphraxy, but introduces",
+        "mathpix_content": " already connected does not diminish the periphraxy, but introduces",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 7,
+        "type": "text",
+        "content": "cyclosis. When these lines have been drawn we may assert that",
+        "mathpix_content": " cyclosis. When these lines have been drawn we may assert that",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 60,
+        "line_number": 8,
+        "type": "text",
+        "content": "if the solenoidal condition is satisfied in the region $S$, any closed",
+        "mathpix_content": " if the solenoidal condition is satisfied in the region $S$, any closed",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 60,
+        "line_number": 9,
+        "type": "text",
+        "content": "surface drawn entirely within $S$, and not cutting any of the lines,",
+        "mathpix_content": " surface drawn entirely within $S$, and not cutting any of the lines,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 10,
+        "type": "text",
+        "content": "has its surface-integral zero. If it cuts any line, say $L_{1}$, once or",
+        "mathpix_content": " has its surface-integral zero. If it cuts any line, say $L_{1}$, once or",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 60,
+        "line_number": 11,
+        "type": "text",
+        "content": "any odd number of times, it encloses the surface $S_{1}$ and the",
+        "mathpix_content": " any odd number of times, it encloses the surface $S_{1}$ and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 12,
+        "type": "text",
+        "content": "surface-integral is $Q_{1}$.",
+        "mathpix_content": " surface-integral is $Q_{1}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 13,
+        "type": "text",
+        "content": "The most familiar example of a periphractic region within which",
+        "mathpix_content": "\n\nThe most familiar example of a periphractic region within which",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 60,
+        "line_number": 14,
+        "type": "text",
+        "content": "the solenoidal condition is satisfied is the region surrounding a",
+        "mathpix_content": " the solenoidal condition is satisfied is the region surrounding a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 15,
+        "type": "text",
+        "content": "mass attracting or repelling inversely as the square of the distance.",
+        "mathpix_content": " mass attracting or repelling inversely as the square of the distance.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 16,
+        "type": "text",
+        "content": "In the latter case we have",
+        "mathpix_content": "\n\nIn the latter case we have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 19,
+        "type": "text",
+        "content": "where $m$ is the mass, supposed to be at the origin of coordinates.",
+        "mathpix_content": "\nwhere $m$ is the mass, supposed to be at the origin of coordinates.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 20,
+        "type": "text",
+        "content": "At any point where $r$ is finite",
+        "mathpix_content": "\nAt any point where $r$ is finite",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 23,
+        "type": "text",
+        "content": "but at the origin these quantities become infinite. For any closed",
+        "mathpix_content": "\nbut at the origin these quantities become infinite. For any closed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 24,
+        "type": "text",
+        "content": "surface not including the origin, the surface-integral is zero. If a",
+        "mathpix_content": " surface not including the origin, the surface-integral is zero. If a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 25,
+        "type": "text",
+        "content": "closed surface includes the origin, its surface-integral is $4 \\pi m$.",
+        "mathpix_content": " closed surface includes the origin, its surface-integral is $4 \\pi m$.",
+        "font_size": 27,
+        "confidence": 0.970703125
+      },
+      {
+        "page": 60,
+        "line_number": 26,
+        "type": "text",
+        "content": "If, for any reason, we wish to treat the region round $m$ as if it",
+        "mathpix_content": "\n\nIf, for any reason, we wish to treat the region round $m$ as if it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 27,
+        "type": "text",
+        "content": "were not periphractic, we must draw a line from $m$ to an infinite",
+        "mathpix_content": " were not periphractic, we must draw a line from $m$ to an infinite",
+        "font_size": 27,
+        "confidence": 0.9570519924163818
+      },
+      {
+        "page": 60,
+        "line_number": 28,
+        "type": "text",
+        "content": "distance, and in taking surface-integrals we must remember to",
+        "mathpix_content": " distance, and in taking surface-integrals we must remember to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 29,
+        "type": "text",
+        "content": "add $4 \\pi m$ whenever this line crosses from the negative to the",
+        "mathpix_content": " add $4 \\pi m$ whenever this line crosses from the negative to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 30,
+        "type": "text",
+        "content": "positive side of the surface.",
+        "mathpix_content": " positive side of the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 32,
+        "type": "text",
+        "content": "On Right-handed and Left-handed Relations in Space.",
+        "mathpix_content": "\n\n\\section*{On Right-handed and Left-handed Relations in Space.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 33,
+        "type": "text",
+        "content": "23.] In this treatise the motions of translation along any axis",
+        "mathpix_content": "\n23.] In this treatise the motions of translation along any axis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 34,
+        "type": "text",
+        "content": "and of rotation about that axis will be assumed to be of the same",
+        "mathpix_content": " and of rotation about that axis will be assumed to be of the same",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 35,
+        "type": "text",
+        "content": "sign when their directions correspond to those of the translation",
+        "mathpix_content": " sign when their directions correspond to those of the translation",
+        "font_size": 27,
+        "confidence": 0.5012199878692627
+      },
+      {
+        "page": 60,
+        "line_number": 36,
+        "type": "text",
+        "content": "and rotation of an ordinary or right-handed screw \\%.",
+        "mathpix_content": " and rotation of an ordinary or right-handed screw \\%.",
+        "font_size": 27,
+        "confidence": 0.6076133251190186
+      },
+      {
+        "page": 60,
+        "line_number": 38,
+        "type": "text",
+        "content": "* The combined action of the muscles of the arm when we turn the upper side of",
+        "mathpix_content": "\n\n\\footnotetext{\n* The combined action of the muscles of the arm when we turn the upper side of",
+        "font_size": 21,
+        "confidence": 0.9712314605712891
+      },
+      {
+        "page": 60,
+        "line_number": 39,
+        "type": "text",
+        "content": "the right-hand outwards, and at the same time thrust the hand forwards, will impress",
+        "mathpix_content": " the right-hand outwards, and at the same time thrust the hand forwards, will impress",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 40,
+        "type": "text",
+        "content": "the right-handed screw motion on the memory more firmly than any verbal definition.",
+        "mathpix_content": " the right-handed screw motion on the memory more firmly than any verbal definition.",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 41,
+        "type": "text",
+        "content": "A common corksorew may be used as a material symbol of the same relation.",
+        "mathpix_content": " A common corksorew may be used as a material symbol of the same relation.",
+        "font_size": 21,
+        "confidence": 0.99462890625
+      },
+      {
+        "page": 60,
+        "line_number": 42,
+        "type": "text",
+        "content": "Professor W. H. Miller has suggested to me that as the tendrils of the vine are",
+        "mathpix_content": "\n\nProfessor W. H. Miller has suggested to me that as the tendrils of the vine are",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 43,
+        "type": "text",
+        "content": "right-handed screws and those of the hop left-handed, the two systems of relations",
+        "mathpix_content": " right-handed screws and those of the hop left-handed, the two systems of relations",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 44,
+        "type": "text",
+        "content": "in space might be called those of the vine and the hop respectively.",
+        "mathpix_content": " in space might be called those of the vine and the hop respectively.",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 45,
+        "type": "text",
+        "content": "The system of the vine, which we adopt, is that of Linn\u00e6us, and of screw-makers",
+        "mathpix_content": "\n\nThe system of the vine, which we adopt, is that of Linn\u00e6us, and of screw-makers",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 60,
+        "line_number": 46,
+        "type": "text",
+        "content": "in all civilized countries except Japan. De Candolle was the first who called the",
+        "mathpix_content": " in all civilized countries except Japan. De Candolle was the first who called the",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 47,
+        "type": "text",
+        "content": "hop-tendril right-handed, and in this be is followed by Listing, and by most writers",
+        "mathpix_content": " hop-tendril right-handed, and in this be is followed by Listing, and by most writers",
+        "font_size": 21,
+        "confidence": 0.99365234375
+      },
+      {
+        "page": 60,
+        "line_number": 48,
+        "type": "text",
+        "content": "on the circular polarization of light. Screws like the hop-tendril are made for the",
+        "mathpix_content": " on the circular polarization of light. Screws like the hop-tendril are made for the",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 49,
+        "type": "text",
+        "content": "couplings of railway-carriages, and for the fittings of wheels on the left side of ordinary",
+        "mathpix_content": " couplings of railway-carriages, and for the fittings of wheels on the left side of ordinary",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 60,
+        "line_number": 50,
+        "type": "text",
+        "content": "carriages, but they are always called left-handed screws by those who use them.",
+        "mathpix_content": " carriages, but they are always called left-handed screws by those who use them.\n}",
+        "font_size": 21,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{4 \\pi} \\iiint \\frac{1}{r} \\nabla^{2} \\Psi d x d y d z \\tag{27}",
+  "title_safe": "4 pi iiint frac1r nabla2 Psi d x d y d z tag27",
+  "page_start": 198,
+  "page_end": 197,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

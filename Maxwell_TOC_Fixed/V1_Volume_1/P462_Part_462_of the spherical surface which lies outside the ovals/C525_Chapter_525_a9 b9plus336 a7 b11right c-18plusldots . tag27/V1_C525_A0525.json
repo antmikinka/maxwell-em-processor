@@ -1,0 +1,111 @@
+{
+  "article_id": "article_525",
+  "article_number": 525,
+  "title_original": "a^{9} b^{9}+336 a^{7} b^{11}\\right) c^{-18}+\\ldots . \\tag{27}",
+  "title_safe": "a9 b9plus336 a7 b11right c-18plusldots . tag27",
+  "page_start": 264,
+  "page_end": 264,
+  "content": {
+    "raw_text": "\n--- Page 264 ---\n146.]\nTWO SPHERICAL CONDUCTORS.\n229\n$$\\begin{aligned}\n&+\\left(9 a^{2} b^{17}+280 a^{5} b^{14}+735 a^{7} b^{12}+192 a^{8} b^{11}+780 a^{9} b^{10}\\right. \\\\\n&+\\left.144 a^{10} b^{9}+375 a^{11} b^{8}+72 a^{19} b^{6}\\right) c^{-19}+\\ldots .\n\\end{aligned}$$\n(22)\n$q_{1}=a^{2} c^{-2}+4 a^{5} b^{3} c^{-8}+\\left(6 a^{7} b^{3}+9 a^{5} b^{5}\\right) c^{-10}$\n$+\\left(8 a^{9} b^{3}+18 a^{7} b^{5}+16 a^{5} b^{7}\\right) c^{-12}$\n$+\\left(10 a^{11} b^{3}+30 a^{9} b^{5}+16 a^{8} b^{6}+40 a^{7} b^{7}+25 a^{5} b^{9}\\right) c^{-14}$\n$+\\left(12 a^{13} b^{3}+45 a^{11} b^{5}+60 a^{10} b^{6}+80 a^{9} b^{7}\\right.$\n$$\\left.+72 a^{8} b^{8}+75 a^{7} b^{9}+36 a^{5} b^{11}\\right) c^{-16}$$\n$$\\begin{aligned}\n& +\\left(14 a^{15} b^{3}+63 a^{13} b^{5}+150 a^{12} b^{6}+140 a^{11} b^{7}+342 a^{10} b^{8}\\right. \\\\\n& \\left.+175 a^{9} b^{9}+209 a^{8} b^{10}+126 a^{7} b^{11}+49 a^{5} b^{13}\\right) c^{-18} \\\\\n& +\\left(16 a^{17} b^{3}+84 a^{15} b^{5}+308 a^{14} b^{6}+224 a^{13} b^{7}+1050 a^{12} b^{8}\\right. \\\\\n& +414 a^{11} b^{9}+1222 a^{10} b^{10}+336 a^{9} b^{11}+488 a^{8} b^{12}+196 a^{7} b^{19} \\\\\n& \\left.+64 a^{5} b^{15}\\right) c^{-20}+\\ldots\n\\end{aligned}$$\n(23)\n$$\\begin{aligned}\n& p_{2}=3 a^{3} b^{3} c^{-6}+6 a^{3} b^{5} c^{-8}+10 a^{3} b^{7} c^{-10}+\\left(12 a^{6} b^{6}+15 a^{3} b^{9}\\right) c^{-12} \\\\\n& +\\left(27 a^{8} b^{6}+54 a^{6} b^{8}+21 a^{3} b^{11}\\right) c^{-14} \\\\\n& +\\left(48 a^{10} b^{6}+162 a^{8} b^{8}+158 a^{6} b^{10}+28 a^{3} b^{13}\\right) c^{-16} \\\\\n& +\\left(75 a^{12} b^{6}+360 a^{10} b^{8}+48 a^{9} b^{9}+606 a^{8} b^{10}\\right. \\\\\n& \\left.+372 a^{6} b^{12}+36 a^{3} b^{15}\\right) c^{-18}+\\ldots\n\\end{aligned}$$\n(24)\n$q_{2}=a^{3} c^{-3}+6 a^{6} b^{3} c^{-9}+\\left(9 a^{8} b^{3}+18 a^{6} b^{5}\\right) c^{-11}$\n$+\\left(12 a^{10} b^{3}+36 a^{8} b^{5}+40 a^{6} b^{7}\\right) c^{-13}$\n$+\\left(15 a^{12} b^{3}+60 a^{10} b^{5}+24 a^{9} b^{6}+100 a^{8} b^{7}+75 a^{6} b^{9}\\right) c^{-15}$\n$+\\left(18 a^{14} b^{3}+90 a^{12} b^{5}+90 a^{11} b^{6}+200 a^{10} b^{7}\\right.$\n$$\\left.+126 a^{9} b^{8}+225 a^{8} b^{9}+126 c^{6} b^{11}\\right) c^{-17}$$\n$+\\left(21 a^{16} b^{3}+126 a^{14} b^{5}+225 a^{13} b^{6}+350 a^{12} b^{7}+594 a^{11} b^{8}\\right.$\n$$\\left.+525 a^{10} b^{9}+418 a^{9} b^{10}+441 a^{8} b^{11}+196 a^{6} b^{13}\\right) c^{-19}+\\ldots .$$\n(25)\n$$p_{3}=4 a^{4} b^{3} c^{-7}+10 a^{4} b^{5} c^{-9}+20 a^{4} b^{7} c^{-11}+\\left(16 a^{7} b^{6}+35 a^{4} b^{9}\\right) c^{-13}$$\n$+\\left(36 a^{9} b^{6}+84 a^{7} b^{8}+56 a^{4} b^{11}\\right) c^{-15}$\n$$+\\left(64 a^{11} b^{6}+252 a^{9} b^{8}+282 a^{7} b^{10}+84 a^{4} b^{13}\\right) c^{-17}+\\ldots .$$\n(26)\n$$q_{3}=a^{4} c^{-4}+8 a^{7} b^{3} c^{-10}+\\left(12 a^{9} b^{3}+30 a^{7} b^{5}\\right) c^{-12}$$\n$$+\\left(16 a^{11} b^{3}+60 a^{9} b^{5}+80 a^{7} b^{7}\\right) c^{-14}$$\n$$+\\left(20 a^{13} b^{3}+100 a^{11} b^{5}+32 a^{10} b^{6}+200 a^{9} b^{7}+175 a^{7} b^{9}\\right) c^{-16}$$\n$$+\\left(24 a^{16} b^{3}+150 a^{13} b^{5}+120 a^{12} b^{6}+400 a^{11} b^{7}+192 a^{10} b^{8}\\right.$$\n$$\\left.+525 a^{9} b^{9}+336 a^{7} b^{11}\\right) c^{-18}+\\ldots .$$\n(27)\n",
+    "mathpix_markdown": "\n--- Page 264 ---\n\n$$\\begin{align*}\n&+\\left(9 a^{2} b^{17}+280 a^{5} b^{14}+735 a^{7} b^{12}+192 a^{8} b^{11}+780 a^{9} b^{10}\\right. \\\\\n&+\\left.144 a^{10} b^{9}+375 a^{11} b^{8}+72 a^{19} b^{6}\\right) c^{-19}+\\ldots . \\tag{22}\n\\end{align*}$$\n\n$q_{1}=a^{2} c^{-2}+4 a^{5} b^{3} c^{-8}+\\left(6 a^{7} b^{3}+9 a^{5} b^{5}\\right) c^{-10}$\n\n$+\\left(8 a^{9} b^{3}+18 a^{7} b^{5}+16 a^{5} b^{7}\\right) c^{-12}$\n\n$+\\left(10 a^{11} b^{3}+30 a^{9} b^{5}+16 a^{8} b^{6}+40 a^{7} b^{7}+25 a^{5} b^{9}\\right) c^{-14}$\n\n$+\\left(12 a^{13} b^{3}+45 a^{11} b^{5}+60 a^{10} b^{6}+80 a^{9} b^{7}\\right.$\n\n$$\\left.+72 a^{8} b^{8}+75 a^{7} b^{9}+36 a^{5} b^{11}\\right) c^{-16}$$\n\n$$\\begin{align*}\n& +\\left(14 a^{15} b^{3}+63 a^{13} b^{5}+150 a^{12} b^{6}+140 a^{11} b^{7}+342 a^{10} b^{8}\\right. \\\\\n& \\left.+175 a^{9} b^{9}+209 a^{8} b^{10}+126 a^{7} b^{11}+49 a^{5} b^{13}\\right) c^{-18} \\\\\n& +\\left(16 a^{17} b^{3}+84 a^{15} b^{5}+308 a^{14} b^{6}+224 a^{13} b^{7}+1050 a^{12} b^{8}\\right. \\\\\n& +414 a^{11} b^{9}+1222 a^{10} b^{10}+336 a^{9} b^{11}+488 a^{8} b^{12}+196 a^{7} b^{19} \\\\\n& \\left.+64 a^{5} b^{15}\\right) c^{-20}+\\ldots \\tag{23}\n\\end{align*}$$\n\n$$\\begin{align*}\n& p_{2}=3 a^{3} b^{3} c^{-6}+6 a^{3} b^{5} c^{-8}+10 a^{3} b^{7} c^{-10}+\\left(12 a^{6} b^{6}+15 a^{3} b^{9}\\right) c^{-12} \\\\\n& +\\left(27 a^{8} b^{6}+54 a^{6} b^{8}+21 a^{3} b^{11}\\right) c^{-14} \\\\\n& +\\left(48 a^{10} b^{6}+162 a^{8} b^{8}+158 a^{6} b^{10}+28 a^{3} b^{13}\\right) c^{-16} \\\\\n& +\\left(75 a^{12} b^{6}+360 a^{10} b^{8}+48 a^{9} b^{9}+606 a^{8} b^{10}\\right. \\\\\n& \\left.+372 a^{6} b^{12}+36 a^{3} b^{15}\\right) c^{-18}+\\ldots \\tag{24}\n\\end{align*}$$\n\n$q_{2}=a^{3} c^{-3}+6 a^{6} b^{3} c^{-9}+\\left(9 a^{8} b^{3}+18 a^{6} b^{5}\\right) c^{-11}$\n\n$+\\left(12 a^{10} b^{3}+36 a^{8} b^{5}+40 a^{6} b^{7}\\right) c^{-13}$\n\n$+\\left(15 a^{12} b^{3}+60 a^{10} b^{5}+24 a^{9} b^{6}+100 a^{8} b^{7}+75 a^{6} b^{9}\\right) c^{-15}$\n\n$+\\left(18 a^{14} b^{3}+90 a^{12} b^{5}+90 a^{11} b^{6}+200 a^{10} b^{7}\\right.$\n\n$$\\left.+126 a^{9} b^{8}+225 a^{8} b^{9}+126 c^{6} b^{11}\\right) c^{-17}$$\n\n$+\\left(21 a^{16} b^{3}+126 a^{14} b^{5}+225 a^{13} b^{6}+350 a^{12} b^{7}+594 a^{11} b^{8}\\right.$\n\n$$\\begin{equation*}\n\\left.+525 a^{10} b^{9}+418 a^{9} b^{10}+441 a^{8} b^{11}+196 a^{6} b^{13}\\right) c^{-19}+\\ldots . \\tag{25}\n\\end{equation*}$$\n\n$$p_{3}=4 a^{4} b^{3} c^{-7}+10 a^{4} b^{5} c^{-9}+20 a^{4} b^{7} c^{-11}+\\left(16 a^{7} b^{6}+35 a^{4} b^{9}\\right) c^{-13}$$\n\n$+\\left(36 a^{9} b^{6}+84 a^{7} b^{8}+56 a^{4} b^{11}\\right) c^{-15}$\n\n$$\\begin{equation*}\n+\\left(64 a^{11} b^{6}+252 a^{9} b^{8}+282 a^{7} b^{10}+84 a^{4} b^{13}\\right) c^{-17}+\\ldots . \\tag{26}\n\\end{equation*}$$\n\n$$q_{3}=a^{4} c^{-4}+8 a^{7} b^{3} c^{-10}+\\left(12 a^{9} b^{3}+30 a^{7} b^{5}\\right) c^{-12}$$\n\n$$+\\left(16 a^{11} b^{3}+60 a^{9} b^{5}+80 a^{7} b^{7}\\right) c^{-14}$$\n\n$$+\\left(20 a^{13} b^{3}+100 a^{11} b^{5}+32 a^{10} b^{6}+200 a^{9} b^{7}+175 a^{7} b^{9}\\right) c^{-16}$$\n\n$$+\\left(24 a^{16} b^{3}+150 a^{13} b^{5}+120 a^{12} b^{6}+400 a^{11} b^{7}+192 a^{10} b^{8}\\right.$$\n\n$$\\begin{equation*}\n\\left.+525 a^{9} b^{9}+336 a^{7} b^{11}\\right) c^{-18}+\\ldots . \\tag{27}\n\\end{equation*}$$\n",
+    "structured_lines": [
+      {
+        "page": 264,
+        "line_number": 8,
+        "type": "text",
+        "content": "$q_{1}=a^{2} c^{-2}+4 a^{5} b^{3} c^{-8}+\\left(6 a^{7} b^{3}+9 a^{5} b^{5}\\right) c^{-10}$",
+        "mathpix_content": "\n$q_{1}=a^{2} c^{-2}+4 a^{5} b^{3} c^{-8}+\\left(6 a^{7} b^{3}+9 a^{5} b^{5}\\right) c^{-10}$",
+        "font_size": 26,
+        "confidence": 0.5226938724517822
+      },
+      {
+        "page": 264,
+        "line_number": 9,
+        "type": "text",
+        "content": "$+\\left(8 a^{9} b^{3}+18 a^{7} b^{5}+16 a^{5} b^{7}\\right) c^{-12}$",
+        "mathpix_content": "\n$+\\left(8 a^{9} b^{3}+18 a^{7} b^{5}+16 a^{5} b^{7}\\right) c^{-12}$",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 264,
+        "line_number": 10,
+        "type": "text",
+        "content": "$+\\left(10 a^{11} b^{3}+30 a^{9} b^{5}+16 a^{8} b^{6}+40 a^{7} b^{7}+25 a^{5} b^{9}\\right) c^{-14}$",
+        "mathpix_content": "\n$+\\left(10 a^{11} b^{3}+30 a^{9} b^{5}+16 a^{8} b^{6}+40 a^{7} b^{7}+25 a^{5} b^{9}\\right) c^{-14}$",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 264,
+        "line_number": 11,
+        "type": "text",
+        "content": "$+\\left(12 a^{13} b^{3}+45 a^{11} b^{5}+60 a^{10} b^{6}+80 a^{9} b^{7}\\right.$",
+        "mathpix_content": "\n$+\\left(12 a^{13} b^{3}+45 a^{11} b^{5}+60 a^{10} b^{6}+80 a^{9} b^{7}\\right.$",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 264,
+        "line_number": 28,
+        "type": "text",
+        "content": "$q_{2}=a^{3} c^{-3}+6 a^{6} b^{3} c^{-9}+\\left(9 a^{8} b^{3}+18 a^{6} b^{5}\\right) c^{-11}$",
+        "mathpix_content": "\n$q_{2}=a^{3} c^{-3}+6 a^{6} b^{3} c^{-9}+\\left(9 a^{8} b^{3}+18 a^{6} b^{5}\\right) c^{-11}$",
+        "font_size": 26,
+        "confidence": 0.9638671875
+      },
+      {
+        "page": 264,
+        "line_number": 29,
+        "type": "text",
+        "content": "$+\\left(12 a^{10} b^{3}+36 a^{8} b^{5}+40 a^{6} b^{7}\\right) c^{-13}$",
+        "mathpix_content": "\n$+\\left(12 a^{10} b^{3}+36 a^{8} b^{5}+40 a^{6} b^{7}\\right) c^{-13}$",
+        "font_size": 26,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 264,
+        "line_number": 30,
+        "type": "text",
+        "content": "$+\\left(15 a^{12} b^{3}+60 a^{10} b^{5}+24 a^{9} b^{6}+100 a^{8} b^{7}+75 a^{6} b^{9}\\right) c^{-15}$",
+        "mathpix_content": "\n$+\\left(15 a^{12} b^{3}+60 a^{10} b^{5}+24 a^{9} b^{6}+100 a^{8} b^{7}+75 a^{6} b^{9}\\right) c^{-15}$",
+        "font_size": 26,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 264,
+        "line_number": 31,
+        "type": "text",
+        "content": "$+\\left(18 a^{14} b^{3}+90 a^{12} b^{5}+90 a^{11} b^{6}+200 a^{10} b^{7}\\right.$",
+        "mathpix_content": "\n$+\\left(18 a^{14} b^{3}+90 a^{12} b^{5}+90 a^{11} b^{6}+200 a^{10} b^{7}\\right.$",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 264,
+        "line_number": 34,
+        "type": "text",
+        "content": "$+\\left(21 a^{16} b^{3}+126 a^{14} b^{5}+225 a^{13} b^{6}+350 a^{12} b^{7}+594 a^{11} b^{8}\\right.$",
+        "mathpix_content": "\n$+\\left(21 a^{16} b^{3}+126 a^{14} b^{5}+225 a^{13} b^{6}+350 a^{12} b^{7}+594 a^{11} b^{8}\\right.$",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 264,
+        "line_number": 40,
+        "type": "text",
+        "content": "$+\\left(36 a^{9} b^{6}+84 a^{7} b^{8}+56 a^{4} b^{11}\\right) c^{-15}$",
+        "mathpix_content": "\n$+\\left(36 a^{9} b^{6}+84 a^{7} b^{8}+56 a^{4} b^{11}\\right) c^{-15}$",
+        "font_size": 26,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

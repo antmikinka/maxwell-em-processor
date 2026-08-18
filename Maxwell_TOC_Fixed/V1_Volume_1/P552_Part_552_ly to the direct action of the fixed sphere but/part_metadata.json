@@ -1,0 +1,1592 @@
+{
+  "part_id": "part_552",
+  "part_number": 552,
+  "title": "ly to the direct action of the fixed sphere, but",
+  "page_start": 363,
+  "page_end": 364,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 328,
+      "title": "ELECTROSTATIO INSTRUMENTS.",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 215,
+      "title": "The whole of this apparatus is enclosed in a case. Another",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 2,
+      "title": "a \\sin \\frac{1}{2} \\theta$, where $a$",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 1,
+      "title": "}{2} \\theta .}$$",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 1,
+      "title": "}{2} \\theta=M(\\theta-\\phi) .$$",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 2,
+      "title": "a \\sin \\frac{1}{2} \\theta$.",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 4,
+      "title": "\\pi^{2} \\stackrel{I}{T^{2}}$$",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 2,
+      "title": "a \\sin \\frac{1}{2} \\theta$, where $a$",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 1,
+      "title": "}{2} \\theta .}$$",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 1,
+      "title": "}{2} \\theta=M(\\theta-\\phi) .$$",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 2,
+      "title": "a \\sin \\frac{1}{2} \\theta$.",
+      "page_start": 363,
+      "page_end": 362,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 4,
+      "title": "\\pi^{2} \\stackrel{I}{T^{2}}$$",
+      "page_start": 363,
+      "page_end": 363,
+      "articles": [
+        {
+          "article_id": "article_215",
+          "article_number": 215,
+          "title_original": "The whole of this apparatus is enclosed in a case. Another",
+          "title_safe": "The whole of this apparatus is enclosed in a case. Another",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_328",
+          "article_number": 328,
+          "title_original": "ELECTROSTATIO INSTRUMENTS.",
+          "title_safe": "ELECTROSTATIO INSTRUMENTS",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_215",
+          "article_number": 215,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a \\sin \\frac{1}{2} \\theta$, where $a$",
+          "title_safe": "a sin frac12 theta where a",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} \\theta .}$$",
+          "title_safe": "2 theta",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} \\theta=M(\\theta-\\phi) .$$",
+          "title_safe": "2 thetaequalsMtheta-phi",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a \\sin \\frac{1}{2} \\theta$.",
+          "title_safe": "a sin frac12 theta",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi^{2} \\stackrel{I}{T^{2}}$$",
+          "title_safe": "pi2 stackrelIT2",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a \\sin \\frac{1}{2} \\theta$, where $a$",
+          "title_safe": "a sin frac12 theta where a",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} \\theta .}$$",
+          "title_safe": "2 theta",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} \\theta=M(\\theta-\\phi) .$$",
+          "title_safe": "2 thetaequalsMtheta-phi",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a \\sin \\frac{1}{2} \\theta$.",
+          "title_safe": "a sin frac12 theta",
+          "page_start": 363,
+          "page_end": 362,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi^{2} \\stackrel{I}{T^{2}}$$",
+          "title_safe": "pi2 stackrelIT2",
+          "page_start": 363,
+          "page_end": 363,
+          "content": {
+            "raw_text": "\n--- Page 363 ---\n328\nELECTROSTATIO INSTRUMENTS.\n[215.\nThe whole of this apparatus is enclosed in a case. Another\nlittle sphere is so mounted on an insulating stem that it can be\ncharged and introduced into the case through a hole, and brought\nso that its centre coincides with a definite point in the horizontal\ncircle described by the suspended sphere. The position of the\nsuspended sphere is ascertained by means of a graduated circle\nengraved on the cylindrical glass case of the instrument.\nNow suppose both spheres charged, and the suspended sphere\nin equilibrium in a known position such that the torsion-arm\nmakes an angle $\\theta$ with the radius through the centre of the fixed\nsphere. The distance of the centres is then $2 a \\sin \\frac{1}{2} \\theta$, where $a$\nis the radius of the torsion-arm, and if $F$ is the force between the\nspheres the moment of this force about the axis of torsion is\n$$F_{t l \\cos \\frac{1}{2} \\theta .}$$\nLet both spheres be completely discharged, and let the torsion-\narm now be in equilibrium at an angle $\\phi$ with the radius through\nthe fixed sphere.\nThen the angle through which the electrical force twisted the\ntorsion-arm must have been $\\theta-\\phi$, and if $M$ is the moment of\nthe torsional elasticity of the fibre, we shall have the equation\n$$F a \\cos \\frac{1}{2} \\theta=M(\\theta-\\phi) .$$\nHence, if we can ascertain $M$, we can determine $F$, the actual\nforce between the spheres at the distance $2 a \\sin \\frac{1}{2} \\theta$.\nTo find $M$, the moment of torsion, let $I$ be the moment of\ninertia of the torsion-arm, and $T$ the time of a double vibration\nof the arm under the action of the torsional elasticity, then\n$$M=4 \\pi^{2} \\stackrel{I}{T^{2}}$$\nIn all electrometers it is of the greatest importance to know\nwhat force we are measuring. The force acting on the suspended\nsphere is due partly to the direct action of the fixed sphere, but\npartly also to the electrification, if any, of the sides of the case.\nIf the case is made of glass it is impossible to determine the\nelectrification of its surface otherwise than by very difficult\nmeasurements at every point. If, however, either the case is\nmade of metal, or if a metallic case which almost completely\nencloses the apparatus is placed as a screen between the spheres\nand the glass case, the electrification of the inside of the metal\nscreen will depend entirely on that of the spheres, and the\n",
+            "mathpix_markdown": "\n--- Page 363 ---\n\n\nThe whole of this apparatus is enclosed in a case. Another\n little sphere is so mounted on an insulating stem that it can be\n charged and introduced into the case through a hole, and brought\n so that its centre coincides with a definite point in the horizontal\n circle described by the suspended sphere. The position of the\n suspended sphere is ascertained by means of a graduated circle\n engraved on the cylindrical glass case of the instrument.\n\n\nNow suppose both spheres charged, and the suspended sphere\n in equilibrium in a known position such that the torsion-arm\n makes an angle $\\theta$ with the radius through the centre of the fixed\n sphere. The distance of the centres is then $2 a \\sin \\frac{1}{2} \\theta$, where $a$\n is the radius of the torsion-arm, and if $F$ is the force between the\n spheres the moment of this force about the axis of torsion is\n\n$$F_{t l \\cos \\frac{1}{2} \\theta .}$$\n\n\nLet both spheres be completely discharged, and let the torsion\narm now be in equilibrium at an angle $\\phi$ with the radius through\n the fixed sphere.\n\n\nThen the angle through which the electrical force twisted the\n torsion-arm must have been $\\theta-\\phi$, and if $M$ is the moment of\n the torsional elasticity of the fibre, we shall have the equation\n\n$$F a \\cos \\frac{1}{2} \\theta=M(\\theta-\\phi) .$$\n\n\nHence, if we can ascertain $M$, we can determine $F$, the actual\n force between the spheres at the distance $2 a \\sin \\frac{1}{2} \\theta$.\n\n\nTo find $M$, the moment of torsion, let $I$ be the moment of\n inertia of the torsion-arm, and $T$ the time of a double vibration\n of the arm under the action of the torsional elasticity, then\n\n$$M=4 \\pi^{2} \\stackrel{I}{T^{2}}$$\n\n\nIn all electrometers it is of the greatest importance to know\n what force we are measuring. The force acting on the suspended\n sphere is due partly to the direct action of the fixed sphere, but\n partly also to the electrification, if any, of the sides of the case.\n\n\nIf the case is made of glass it is impossible to determine the\n electrification of its surface otherwise than by very difficult\n measurements at every point. If, however, either the case is\n made of metal, or if a metallic case which almost completely\n encloses the apparatus is placed as a screen between the spheres\n and the glass case, the electrification of the inside of the metal\n screen will depend entirely on that of the spheres, and the\n",
+            "structured_lines": [
+              {
+                "page": 363,
+                "line_number": 4,
+                "type": "text",
+                "content": "The whole of this apparatus is enclosed in a case. Another",
+                "mathpix_content": "\n\nThe whole of this apparatus is enclosed in a case. Another",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 5,
+                "type": "text",
+                "content": "little sphere is so mounted on an insulating stem that it can be",
+                "mathpix_content": " little sphere is so mounted on an insulating stem that it can be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 6,
+                "type": "text",
+                "content": "charged and introduced into the case through a hole, and brought",
+                "mathpix_content": " charged and introduced into the case through a hole, and brought",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 363,
+                "line_number": 7,
+                "type": "text",
+                "content": "so that its centre coincides with a definite point in the horizontal",
+                "mathpix_content": " so that its centre coincides with a definite point in the horizontal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 8,
+                "type": "text",
+                "content": "circle described by the suspended sphere. The position of the",
+                "mathpix_content": " circle described by the suspended sphere. The position of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 9,
+                "type": "text",
+                "content": "suspended sphere is ascertained by means of a graduated circle",
+                "mathpix_content": " suspended sphere is ascertained by means of a graduated circle",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 10,
+                "type": "text",
+                "content": "engraved on the cylindrical glass case of the instrument.",
+                "mathpix_content": " engraved on the cylindrical glass case of the instrument.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 11,
+                "type": "text",
+                "content": "Now suppose both spheres charged, and the suspended sphere",
+                "mathpix_content": "\n\nNow suppose both spheres charged, and the suspended sphere",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 12,
+                "type": "text",
+                "content": "in equilibrium in a known position such that the torsion-arm",
+                "mathpix_content": " in equilibrium in a known position such that the torsion-arm",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 363,
+                "line_number": 13,
+                "type": "text",
+                "content": "makes an angle $\\theta$ with the radius through the centre of the fixed",
+                "mathpix_content": " makes an angle $\\theta$ with the radius through the centre of the fixed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 14,
+                "type": "text",
+                "content": "sphere. The distance of the centres is then $2 a \\sin \\frac{1}{2} \\theta$, where $a$",
+                "mathpix_content": " sphere. The distance of the centres is then $2 a \\sin \\frac{1}{2} \\theta$, where $a$",
+                "font_size": 27,
+                "confidence": 0.92431640625
+              },
+              {
+                "page": 363,
+                "line_number": 15,
+                "type": "text",
+                "content": "is the radius of the torsion-arm, and if $F$ is the force between the",
+                "mathpix_content": " is the radius of the torsion-arm, and if $F$ is the force between the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 363,
+                "line_number": 16,
+                "type": "text",
+                "content": "spheres the moment of this force about the axis of torsion is",
+                "mathpix_content": " spheres the moment of this force about the axis of torsion is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 19,
+                "type": "text",
+                "content": "Let both spheres be completely discharged, and let the torsion-",
+                "mathpix_content": "\n\nLet both spheres be completely discharged, and let the torsion",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 20,
+                "type": "text",
+                "content": "arm now be in equilibrium at an angle $\\phi$ with the radius through",
+                "mathpix_content": "arm now be in equilibrium at an angle $\\phi$ with the radius through",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 21,
+                "type": "text",
+                "content": "the fixed sphere.",
+                "mathpix_content": " the fixed sphere.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 22,
+                "type": "text",
+                "content": "Then the angle through which the electrical force twisted the",
+                "mathpix_content": "\n\nThen the angle through which the electrical force twisted the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 23,
+                "type": "text",
+                "content": "torsion-arm must have been $\\theta-\\phi$, and if $M$ is the moment of",
+                "mathpix_content": " torsion-arm must have been $\\theta-\\phi$, and if $M$ is the moment of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 24,
+                "type": "text",
+                "content": "the torsional elasticity of the fibre, we shall have the equation",
+                "mathpix_content": " the torsional elasticity of the fibre, we shall have the equation",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 27,
+                "type": "text",
+                "content": "Hence, if we can ascertain $M$, we can determine $F$, the actual",
+                "mathpix_content": "\n\nHence, if we can ascertain $M$, we can determine $F$, the actual",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 28,
+                "type": "text",
+                "content": "force between the spheres at the distance $2 a \\sin \\frac{1}{2} \\theta$.",
+                "mathpix_content": " force between the spheres at the distance $2 a \\sin \\frac{1}{2} \\theta$.",
+                "font_size": 27,
+                "confidence": 0.99169921875
+              },
+              {
+                "page": 363,
+                "line_number": 29,
+                "type": "text",
+                "content": "To find $M$, the moment of torsion, let $I$ be the moment of",
+                "mathpix_content": "\n\nTo find $M$, the moment of torsion, let $I$ be the moment of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 30,
+                "type": "text",
+                "content": "inertia of the torsion-arm, and $T$ the time of a double vibration",
+                "mathpix_content": " inertia of the torsion-arm, and $T$ the time of a double vibration",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 31,
+                "type": "text",
+                "content": "of the arm under the action of the torsional elasticity, then",
+                "mathpix_content": " of the arm under the action of the torsional elasticity, then",
+                "font_size": 27,
+                "confidence": 0.90966796875
+              },
+              {
+                "page": 363,
+                "line_number": 34,
+                "type": "text",
+                "content": "In all electrometers it is of the greatest importance to know",
+                "mathpix_content": "\n\nIn all electrometers it is of the greatest importance to know",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 35,
+                "type": "text",
+                "content": "what force we are measuring. The force acting on the suspended",
+                "mathpix_content": " what force we are measuring. The force acting on the suspended",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 36,
+                "type": "text",
+                "content": "sphere is due partly to the direct action of the fixed sphere, but",
+                "mathpix_content": " sphere is due partly to the direct action of the fixed sphere, but",
+                "font_size": 27,
+                "confidence": 0.98681640625
+              },
+              {
+                "page": 363,
+                "line_number": 37,
+                "type": "text",
+                "content": "partly also to the electrification, if any, of the sides of the case.",
+                "mathpix_content": " partly also to the electrification, if any, of the sides of the case.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 38,
+                "type": "text",
+                "content": "If the case is made of glass it is impossible to determine the",
+                "mathpix_content": "\n\nIf the case is made of glass it is impossible to determine the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 39,
+                "type": "text",
+                "content": "electrification of its surface otherwise than by very difficult",
+                "mathpix_content": " electrification of its surface otherwise than by very difficult",
+                "font_size": 27,
+                "confidence": 0.99560546875
+              },
+              {
+                "page": 363,
+                "line_number": 40,
+                "type": "text",
+                "content": "measurements at every point. If, however, either the case is",
+                "mathpix_content": " measurements at every point. If, however, either the case is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 41,
+                "type": "text",
+                "content": "made of metal, or if a metallic case which almost completely",
+                "mathpix_content": " made of metal, or if a metallic case which almost completely",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 42,
+                "type": "text",
+                "content": "encloses the apparatus is placed as a screen between the spheres",
+                "mathpix_content": " encloses the apparatus is placed as a screen between the spheres",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 43,
+                "type": "text",
+                "content": "and the glass case, the electrification of the inside of the metal",
+                "mathpix_content": " and the glass case, the electrification of the inside of the metal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 363,
+                "line_number": 44,
+                "type": "text",
+                "content": "screen will depend entirely on that of the spheres, and the",
+                "mathpix_content": " screen will depend entirely on that of the spheres, and the",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 215,
+      "title": "]",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 329,
+      "title": "electrification of the glass case will have no influence on the",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 1,
+      "title": "}$ and $E$, and that the angle between their",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 1,
+      "title": "}$ from the",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": "}}{r^{2}},$$",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "} \\alpha a_{1} \\sin \\theta}{\\vartheta^{3}} .$$",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": "}$ due to the spherical surface of the case is a",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 2,
+      "title": "}}{a_{1}}$ with",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": "} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 1,
+      "title": "} \\frac{b}{a_{1}} \\frac{a \\frac{l^{2}}{a_{1}} \\sin \\theta}{\\left\\{a^{2}-2 \\frac{a b^{2}}{a_{1}} \\cos \\theta+\\frac{b^{4} \\eta^{2}}{a_{1}^{2}}\\right\\}} \\\\",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 1,
+      "title": "} \\frac{a a_{1} \\sin \\theta}{b^{3}\\left\\{1-2 \\frac{a a_{1}}{b^{2}} \\cos \\theta+\\frac{a^{2} a^{2}}{b^{4}}\\right\\}^{\\frac{3}{2}}}",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 1,
+      "title": "}$, the distances of the spheres from the centre, we may",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 1,
+      "title": "} a \\alpha_{1} \\sin \\theta\\left\\{\\frac{1}{r^{3}}-\\frac{1}{b^{3}}\\right\\}=M(\\theta-\\phi) .$$",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 1,
+      "title": "}$ and $E$, and that the angle between their",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 1,
+      "title": "}$ from the",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 1,
+      "title": "}}{r^{2}},$$",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 1,
+      "title": "} \\alpha a_{1} \\sin \\theta}{\\vartheta^{3}} .$$",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 1,
+      "title": "}$ due to the spherical surface of the case is a",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": "}}{a_{1}}$ with",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 1,
+      "title": "} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 1,
+      "title": "} \\frac{b}{a_{1}} \\frac{a \\frac{l^{2}}{a_{1}} \\sin \\theta}{\\left\\{a^{2}-2 \\frac{a b^{2}}{a_{1}} \\cos \\theta+\\frac{b^{4} \\eta^{2}}{a_{1}^{2}}\\right\\}} \\\\",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 1,
+      "title": "} \\frac{a a_{1} \\sin \\theta}{b^{3}\\left\\{1-2 \\frac{a a_{1}}{b^{2}} \\cos \\theta+\\frac{a^{2} a^{2}}{b^{4}}\\right\\}^{\\frac{3}{2}}}",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 1,
+      "title": "}$, the distances of the spheres from the centre, we may",
+      "page_start": 364,
+      "page_end": 363,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 1,
+      "title": "} a \\alpha_{1} \\sin \\theta\\left\\{\\frac{1}{r^{3}}-\\frac{1}{b^{3}}\\right\\}=M(\\theta-\\phi) .$$",
+      "page_start": 364,
+      "page_end": 364,
+      "articles": [
+        {
+          "article_id": "article_215",
+          "article_number": 215,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_215",
+          "article_number": 215,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_329",
+          "article_number": 329,
+          "title_original": "electrification of the glass case will have no influence on the",
+          "title_safe": "electrification of the glass case will have no influence on",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $E$, and that the angle between their",
+          "title_safe": "and E and that the angle between their",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ from the",
+          "title_safe": "from the",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{r^{2}},$$",
+          "title_safe": "r2",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\alpha a_{1} \\sin \\theta}{\\vartheta^{3}} .$$",
+          "title_safe": "alpha a1 sin thetavartheta3",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ due to the spherical surface of the case is a",
+          "title_safe": "due to the spherical surface of the case is a",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{a_{1}}$ with",
+          "title_safe": "a1 with",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$",
+          "title_safe": "fracba1 and the moment of the attraction between E",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\frac{b}{a_{1}} \\frac{a \\frac{l^{2}}{a_{1}} \\sin \\theta}{\\left\\{a^{2}-2 \\frac{a b^{2}}{a_{1}} \\cos \\theta+\\frac{b^{4} \\eta^{2}}{a_{1}^{2}}\\right\\}} \\\\",
+          "title_safe": "fracba1 fraca fracl2a1 sin thetalefta2-2 fraca b2a1 cos thet",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\frac{a a_{1} \\sin \\theta}{b^{3}\\left\\{1-2 \\frac{a a_{1}}{b^{2}} \\cos \\theta+\\frac{a^{2} a^{2}}{b^{4}}\\right\\}^{\\frac{3}{2}}}",
+          "title_safe": "fraca a1 sin thetab3left1-2 fraca a1b2 cos thetaplusfraca2 a",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, the distances of the spheres from the centre, we may",
+          "title_safe": "the distances of the spheres from the centre we may",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} a \\alpha_{1} \\sin \\theta\\left\\{\\frac{1}{r^{3}}-\\frac{1}{b^{3}}\\right\\}=M(\\theta-\\phi) .$$",
+          "title_safe": "a alpha1 sin thetaleftfrac1r3-frac1b3rightequalsMtheta-phi",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $E$, and that the angle between their",
+          "title_safe": "and E and that the angle between their",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ from the",
+          "title_safe": "from the",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{r^{2}},$$",
+          "title_safe": "r2",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\alpha a_{1} \\sin \\theta}{\\vartheta^{3}} .$$",
+          "title_safe": "alpha a1 sin thetavartheta3",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ due to the spherical surface of the case is a",
+          "title_safe": "due to the spherical surface of the case is a",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{a_{1}}$ with",
+          "title_safe": "a1 with",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$",
+          "title_safe": "fracba1 and the moment of the attraction between E",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\frac{b}{a_{1}} \\frac{a \\frac{l^{2}}{a_{1}} \\sin \\theta}{\\left\\{a^{2}-2 \\frac{a b^{2}}{a_{1}} \\cos \\theta+\\frac{b^{4} \\eta^{2}}{a_{1}^{2}}\\right\\}} \\\\",
+          "title_safe": "fracba1 fraca fracl2a1 sin thetalefta2-2 fraca b2a1 cos thet",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\frac{a a_{1} \\sin \\theta}{b^{3}\\left\\{1-2 \\frac{a a_{1}}{b^{2}} \\cos \\theta+\\frac{a^{2} a^{2}}{b^{4}}\\right\\}^{\\frac{3}{2}}}",
+          "title_safe": "fraca a1 sin thetab3left1-2 fraca a1b2 cos thetaplusfraca2 a",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, the distances of the spheres from the centre, we may",
+          "title_safe": "the distances of the spheres from the centre we may",
+          "page_start": 364,
+          "page_end": 363,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} a \\alpha_{1} \\sin \\theta\\left\\{\\frac{1}{r^{3}}-\\frac{1}{b^{3}}\\right\\}=M(\\theta-\\phi) .$$",
+          "title_safe": "a alpha1 sin thetaleftfrac1r3-frac1b3rightequalsMtheta-phi",
+          "page_start": 364,
+          "page_end": 364,
+          "content": {
+            "raw_text": "\n--- Page 364 ---\n215.]\nINFLUENCE OF THE CASE.\n329\nelectrification of the glass case will have no influence on the\nspheres. In this way we may avoid any indefiniteness due to\nthe action of the case.\nTo illustrate this by an example in which we can calculate all\nthe effects, let us suppose that the case is a sphere of radius $b$,\nthat the centre of motion of the torsion-arm coincides with the\ncentre of the sphere and that its radius is $a$; that the charges on\nthe two spheres are $E_{1}$ and $E$, and that the angle between their\npositions is $\\theta$; that the fixed sphere is at a distance $\\alpha_{1}$ from the\ncentre, and that $r$ is the distance between the two small spheres.\nNeglecting for the present the effect of induction on the dis-\ntribution of electricity on the small spheres, the force between\nthem will be a repulsion\n$$=\\frac{E E_{1}}{r^{2}},$$\nand the moment of this force round a vertical axis through the\ncentre will be\n$$\\frac{E E_{1} \\alpha a_{1} \\sin \\theta}{\\vartheta^{3}} .$$\nThe image of $E_{1}$ due to the spherical surface of the case is a\npoint in the same radius at a distance from the centre $\\frac{b^{2}}{a_{1}}$ with\na charge $-E_{1} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$\nand this image about the axis of suspension is\n$$\\begin{aligned}\n& E E_{1} \\frac{b}{a_{1}} \\frac{a \\frac{l^{2}}{a_{1}} \\sin \\theta}{\\left\\{a^{2}-2 \\frac{a b^{2}}{a_{1}} \\cos \\theta+\\frac{b^{4} \\eta^{2}}{a_{1}^{2}}\\right\\}} \\\\\n= & E E_{1} \\frac{a a_{1} \\sin \\theta}{b^{3}\\left\\{1-2 \\frac{a a_{1}}{b^{2}} \\cos \\theta+\\frac{a^{2} a^{2}}{b^{4}}\\right\\}^{\\frac{3}{2}}}\n\\end{aligned} .$$\nIf $b$, the radius of the spherical case, is large compared with $a$\nand $\\alpha_{1}$, the distances of the spheres from the centre, we may\nneglect the second and third terms of the factor in the de-\nnominator. Equating the moments tending to turn the torsion-\narm, we get\n$$E E_{1} a \\alpha_{1} \\sin \\theta\\left\\{\\frac{1}{r^{3}}-\\frac{1}{b^{3}}\\right\\}=M(\\theta-\\phi) .$$\n",
+            "mathpix_markdown": "\n--- Page 364 ---\n\nelectrification of the glass case will have no influence on the\n spheres. In this way we may avoid any indefiniteness due to\n the action of the case.\n\n\nTo illustrate this by an example in which we can calculate all\n the effects, let us suppose that the case is a sphere of radius $b$,\n that the centre of motion of the torsion-arm coincides with the\n centre of the sphere and that its radius is $a$; that the charges on\n the two spheres are $E_{1}$ and $E$, and that the angle between their\n positions is $\\theta$; that the fixed sphere is at a distance $\\alpha_{1}$ from the\n centre, and that $r$ is the distance between the two small spheres.\n\n\nNeglecting for the present the effect of induction on the dis\ntribution of electricity on the small spheres, the force between\n them will be a repulsion\n\n$$=\\frac{E E_{1}}{r^{2}},$$\n\nand the moment of this force round a vertical axis through the\n centre will be\n\n$$\\frac{E E_{1} \\alpha a_{1} \\sin \\theta}{\\vartheta^{3}} .$$\n\n\nThe image of $E_{1}$ due to the spherical surface of the case is a\n point in the same radius at a distance from the centre $\\frac{b^{2}}{a_{1}}$ with\n a charge $-E_{1} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$\n and this image about the axis of suspension is\n\n$$\\begin{aligned}\n& E E_{1} \\frac{b}{a_{1}} \\frac{a \\frac{l^{2}}{a_{1}} \\sin \\theta}{\\left\\{a^{2}-2 \\frac{a b^{2}}{a_{1}} \\cos \\theta+\\frac{b^{4} \\eta^{2}}{a_{1}^{2}}\\right\\}} \\\\\n= & E E_{1} \\frac{a a_{1} \\sin \\theta}{b^{3}\\left\\{1-2 \\frac{a a_{1}}{b^{2}} \\cos \\theta+\\frac{a^{2} a^{2}}{b^{4}}\\right\\}^{\\frac{3}{2}}}\n\\end{aligned} .$$\n\n\nIf $b$, the radius of the spherical case, is large compared with $a$\n and $\\alpha_{1}$, the distances of the spheres from the centre, we may\n neglect the second and third terms of the factor in the de\nnominator. Equating the moments tending to turn the torsion\narm, we get\n\n$$E E_{1} a \\alpha_{1} \\sin \\theta\\left\\{\\frac{1}{r^{3}}-\\frac{1}{b^{3}}\\right\\}=M(\\theta-\\phi) .$$\n",
+            "structured_lines": [
+              {
+                "page": 364,
+                "line_number": 4,
+                "type": "text",
+                "content": "electrification of the glass case will have no influence on the",
+                "mathpix_content": "\nelectrification of the glass case will have no influence on the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 5,
+                "type": "text",
+                "content": "spheres. In this way we may avoid any indefiniteness due to",
+                "mathpix_content": " spheres. In this way we may avoid any indefiniteness due to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 6,
+                "type": "text",
+                "content": "the action of the case.",
+                "mathpix_content": " the action of the case.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 7,
+                "type": "text",
+                "content": "To illustrate this by an example in which we can calculate all",
+                "mathpix_content": "\n\nTo illustrate this by an example in which we can calculate all",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 8,
+                "type": "text",
+                "content": "the effects, let us suppose that the case is a sphere of radius $b$,",
+                "mathpix_content": " the effects, let us suppose that the case is a sphere of radius $b$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 9,
+                "type": "text",
+                "content": "that the centre of motion of the torsion-arm coincides with the",
+                "mathpix_content": " that the centre of motion of the torsion-arm coincides with the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 10,
+                "type": "text",
+                "content": "centre of the sphere and that its radius is $a$; that the charges on",
+                "mathpix_content": " centre of the sphere and that its radius is $a$; that the charges on",
+                "font_size": 27,
+                "confidence": 0.9887938499450684
+              },
+              {
+                "page": 364,
+                "line_number": 11,
+                "type": "text",
+                "content": "the two spheres are $E_{1}$ and $E$, and that the angle between their",
+                "mathpix_content": " the two spheres are $E_{1}$ and $E$, and that the angle between their",
+                "font_size": 27,
+                "confidence": 0.708984375
+              },
+              {
+                "page": 364,
+                "line_number": 12,
+                "type": "text",
+                "content": "positions is $\\theta$; that the fixed sphere is at a distance $\\alpha_{1}$ from the",
+                "mathpix_content": " positions is $\\theta$; that the fixed sphere is at a distance $\\alpha_{1}$ from the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 364,
+                "line_number": 13,
+                "type": "text",
+                "content": "centre, and that $r$ is the distance between the two small spheres.",
+                "mathpix_content": " centre, and that $r$ is the distance between the two small spheres.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 14,
+                "type": "text",
+                "content": "Neglecting for the present the effect of induction on the dis-",
+                "mathpix_content": "\n\nNeglecting for the present the effect of induction on the dis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 15,
+                "type": "text",
+                "content": "tribution of electricity on the small spheres, the force between",
+                "mathpix_content": "tribution of electricity on the small spheres, the force between",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 16,
+                "type": "text",
+                "content": "them will be a repulsion",
+                "mathpix_content": " them will be a repulsion",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 19,
+                "type": "text",
+                "content": "and the moment of this force round a vertical axis through the",
+                "mathpix_content": "\nand the moment of this force round a vertical axis through the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 20,
+                "type": "text",
+                "content": "centre will be",
+                "mathpix_content": " centre will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 23,
+                "type": "text",
+                "content": "The image of $E_{1}$ due to the spherical surface of the case is a",
+                "mathpix_content": "\n\nThe image of $E_{1}$ due to the spherical surface of the case is a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 24,
+                "type": "text",
+                "content": "point in the same radius at a distance from the centre $\\frac{b^{2}}{a_{1}}$ with",
+                "mathpix_content": " point in the same radius at a distance from the centre $\\frac{b^{2}}{a_{1}}$ with",
+                "font_size": 27,
+                "confidence": 0.98828125
+              },
+              {
+                "page": 364,
+                "line_number": 25,
+                "type": "text",
+                "content": "a charge $-E_{1} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$",
+                "mathpix_content": " a charge $-E_{1} \\frac{b}{a_{1}}$, and the moment of the attraction between $E$",
+                "font_size": 27,
+                "confidence": 0.5796468257904053
+              },
+              {
+                "page": 364,
+                "line_number": 26,
+                "type": "text",
+                "content": "and this image about the axis of suspension is",
+                "mathpix_content": " and this image about the axis of suspension is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 30,
+                "type": "text",
+                "content": "If $b$, the radius of the spherical case, is large compared with $a$",
+                "mathpix_content": "\n\nIf $b$, the radius of the spherical case, is large compared with $a$",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 364,
+                "line_number": 31,
+                "type": "text",
+                "content": "and $\\alpha_{1}$, the distances of the spheres from the centre, we may",
+                "mathpix_content": " and $\\alpha_{1}$, the distances of the spheres from the centre, we may",
+                "font_size": 27,
+                "confidence": 0.9527463912963867
+              },
+              {
+                "page": 364,
+                "line_number": 32,
+                "type": "text",
+                "content": "neglect the second and third terms of the factor in the de-",
+                "mathpix_content": " neglect the second and third terms of the factor in the de",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 33,
+                "type": "text",
+                "content": "nominator. Equating the moments tending to turn the torsion-",
+                "mathpix_content": "nominator. Equating the moments tending to turn the torsion",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 364,
+                "line_number": 34,
+                "type": "text",
+                "content": "arm, we get",
+                "mathpix_content": "arm, we get",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

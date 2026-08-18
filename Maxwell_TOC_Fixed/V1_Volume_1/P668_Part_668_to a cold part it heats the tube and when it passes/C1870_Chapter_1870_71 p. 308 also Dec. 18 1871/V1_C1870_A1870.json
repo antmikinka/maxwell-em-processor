@@ -1,0 +1,318 @@
+{
+  "article_id": "article_1870",
+  "article_number": 1870,
+  "title_original": "71, p. 308, also Dec. 18, 1871.",
+  "title_safe": "71 p. 308 also Dec. 18 1871",
+  "page_start": 409,
+  "page_end": 409,
+  "content": {
+    "raw_text": "\n--- Page 409 ---\n374\nCONTACT FORCE.\ndynamics to indicate relations between the quantities which we\nhave denoted by $P$ and $Q$, and has investigated the possible\nthermoelectric properties of bodies whose structure is different\nin different directions. He has also investigated experimentally\nthe conditions under which these properties are developed by\npressure, magnetization, \\&c.\n254.] Professor Tait* has recently investigated the electro-\nmotive force of thermoelectric circuits of different metals, having\ntheir junctions at different temperatures. He finds that the\nelectromotive force of a circuit may be expressed very ac-\ncurately by the formula\n$$E=a\\left(t_{1}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$\nwhere $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that\nof the cold junction, and $t_{0}$ the temperature at which the two\nmetals are neutral to each other. The factor $a$ is a coefficient\ndepending on the nature of the two metals composing the circuit.\nThis law has been verified through considerable ranges of tem-\nperature by Professor Tait and his students, and he hopes to\nmake the thermoelectric circuit available as a thermometric\ninstrument in his experiments on the conduction of heat, and in\nother cases in which the mercurial thermometer is not convenient\nor has not a sufficient range.\nAccording to Tait's theory, the quantity which Thomson calls\nthe specific heat of electricity is proportional to the absolute\ntemperature in each pure metal, though its magnitude and even\nits sign vary in different metals. From this he has deduced by\nthermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$\nbe the specific heats of electricity in three metals $a, b, c$, and let\n$T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals\nare neutral to each other, then the equations\n$$\\begin{gathered}\n\\left(k_{b}-k_{c}\\right) T_{b c}+\\left(k_{c}-k_{a}\\right) T_{c a}+\\left(k_{a}-k_{b}\\right) T_{a b}=0, \\\\\nJ \\Pi_{a b}=\\left(k_{a}-k_{b}\\right) t\\left(T_{a b}-t\\right), \\\\\nE_{a b}=\\left(k_{a}-k_{b}\\right)\\left(t_{1}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]\n\\end{gathered}$$\nexpress the relation of the neutral temperatures, the value of\nthe Peltier effect, and the electromotive force of a thermoelectric\ncircuit.\n\n* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.\n",
+    "mathpix_markdown": "\n--- Page 409 ---\n\ndynamics to indicate relations between the quantities which we\n have denoted by $P$ and $Q$, and has investigated the possible\n thermoelectric properties of bodies whose structure is different\n in different directions. He has also investigated experimentally\n the conditions under which these properties are developed by\n pressure, magnetization, \\&c.\n\n254.] Professor Tait* has recently investigated the electro\nmotive force of thermoelectric circuits of different metals, having\n their junctions at different temperatures. He finds that the\n electromotive force of a circuit may be expressed very ac\ncurately by the formula\n\n$$E=a\\left(t_{1}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$\n\nwhere $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that\n of the cold junction, and $t_{0}$ the temperature at which the two\n metals are neutral to each other. The factor $a$ is a coefficient\n depending on the nature of the two metals composing the circuit.\n This law has been verified through considerable ranges of tem\nperature by Professor Tait and his students, and he hopes to\n make the thermoelectric circuit available as a thermometric\n instrument in his experiments on the conduction of heat, and in\n other cases in which the mercurial thermometer is not convenient\n or has not a sufficient range.\n\n\nAccording to Tait's theory, the quantity which Thomson calls\n the specific heat of electricity is proportional to the absolute\n temperature in each pure metal, though its magnitude and even\n its sign vary in different metals. From this he has deduced by\n thermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$\n be the specific heats of electricity in three metals $a, b, c$, and let\n $T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals\n are neutral to each other, then the equations\n\n$$\\begin{gathered}\n\\left(k_{b}-k_{c}\\right) T_{b c}+\\left(k_{c}-k_{a}\\right) T_{c a}+\\left(k_{a}-k_{b}\\right) T_{a b}=0, \\\\\nJ \\Pi_{a b}=\\left(k_{a}-k_{b}\\right) t\\left(T_{a b}-t\\right), \\\\\nE_{a b}=\\left(k_{a}-k_{b}\\right)\\left(t_{1}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]\n\\end{gathered}$$\n\nexpress the relation of the neutral temperatures, the value of\n the Peltier effect, and the electromotive force of a thermoelectric\n circuit.\n\n\n\\footnotetext{\n* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.\n}\n",
+    "structured_lines": [
+      {
+        "page": 409,
+        "line_number": 3,
+        "type": "text",
+        "content": "dynamics to indicate relations between the quantities which we",
+        "mathpix_content": "\ndynamics to indicate relations between the quantities which we",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 4,
+        "type": "text",
+        "content": "have denoted by $P$ and $Q$, and has investigated the possible",
+        "mathpix_content": " have denoted by $P$ and $Q$, and has investigated the possible",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 5,
+        "type": "text",
+        "content": "thermoelectric properties of bodies whose structure is different",
+        "mathpix_content": " thermoelectric properties of bodies whose structure is different",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 6,
+        "type": "text",
+        "content": "in different directions. He has also investigated experimentally",
+        "mathpix_content": " in different directions. He has also investigated experimentally",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 7,
+        "type": "text",
+        "content": "the conditions under which these properties are developed by",
+        "mathpix_content": " the conditions under which these properties are developed by",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 8,
+        "type": "text",
+        "content": "pressure, magnetization, \\&c.",
+        "mathpix_content": " pressure, magnetization, \\&c.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 9,
+        "type": "text",
+        "content": "254.] Professor Tait* has recently investigated the electro-",
+        "mathpix_content": "\n254.] Professor Tait* has recently investigated the electro",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 10,
+        "type": "text",
+        "content": "motive force of thermoelectric circuits of different metals, having",
+        "mathpix_content": "motive force of thermoelectric circuits of different metals, having",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 11,
+        "type": "text",
+        "content": "their junctions at different temperatures. He finds that the",
+        "mathpix_content": " their junctions at different temperatures. He finds that the",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 409,
+        "line_number": 12,
+        "type": "text",
+        "content": "electromotive force of a circuit may be expressed very ac-",
+        "mathpix_content": " electromotive force of a circuit may be expressed very ac",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 13,
+        "type": "text",
+        "content": "curately by the formula",
+        "mathpix_content": "curately by the formula",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 16,
+        "type": "text",
+        "content": "where $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+        "mathpix_content": "\nwhere $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 409,
+        "line_number": 17,
+        "type": "text",
+        "content": "of the cold junction, and $t_{0}$ the temperature at which the two",
+        "mathpix_content": " of the cold junction, and $t_{0}$ the temperature at which the two",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 18,
+        "type": "text",
+        "content": "metals are neutral to each other. The factor $a$ is a coefficient",
+        "mathpix_content": " metals are neutral to each other. The factor $a$ is a coefficient",
+        "font_size": 34,
+        "confidence": 0.9436308924341574
+      },
+      {
+        "page": 409,
+        "line_number": 19,
+        "type": "text",
+        "content": "depending on the nature of the two metals composing the circuit.",
+        "mathpix_content": " depending on the nature of the two metals composing the circuit.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 20,
+        "type": "text",
+        "content": "This law has been verified through considerable ranges of tem-",
+        "mathpix_content": " This law has been verified through considerable ranges of tem",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 21,
+        "type": "text",
+        "content": "perature by Professor Tait and his students, and he hopes to",
+        "mathpix_content": "perature by Professor Tait and his students, and he hopes to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 22,
+        "type": "text",
+        "content": "make the thermoelectric circuit available as a thermometric",
+        "mathpix_content": " make the thermoelectric circuit available as a thermometric",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 23,
+        "type": "text",
+        "content": "instrument in his experiments on the conduction of heat, and in",
+        "mathpix_content": " instrument in his experiments on the conduction of heat, and in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 24,
+        "type": "text",
+        "content": "other cases in which the mercurial thermometer is not convenient",
+        "mathpix_content": " other cases in which the mercurial thermometer is not convenient",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 409,
+        "line_number": 25,
+        "type": "text",
+        "content": "or has not a sufficient range.",
+        "mathpix_content": " or has not a sufficient range.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 26,
+        "type": "text",
+        "content": "According to Tait's theory, the quantity which Thomson calls",
+        "mathpix_content": "\n\nAccording to Tait's theory, the quantity which Thomson calls",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 27,
+        "type": "text",
+        "content": "the specific heat of electricity is proportional to the absolute",
+        "mathpix_content": " the specific heat of electricity is proportional to the absolute",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 28,
+        "type": "text",
+        "content": "temperature in each pure metal, though its magnitude and even",
+        "mathpix_content": " temperature in each pure metal, though its magnitude and even",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 29,
+        "type": "text",
+        "content": "its sign vary in different metals. From this he has deduced by",
+        "mathpix_content": " its sign vary in different metals. From this he has deduced by",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 30,
+        "type": "text",
+        "content": "thermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$",
+        "mathpix_content": " thermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 31,
+        "type": "text",
+        "content": "be the specific heats of electricity in three metals $a, b, c$, and let",
+        "mathpix_content": " be the specific heats of electricity in three metals $a, b, c$, and let",
+        "font_size": 34,
+        "confidence": 0.957560290931724
+      },
+      {
+        "page": 409,
+        "line_number": 32,
+        "type": "text",
+        "content": "$T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals",
+        "mathpix_content": " $T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals",
+        "font_size": 34,
+        "confidence": 0.3556673526763916
+      },
+      {
+        "page": 409,
+        "line_number": 33,
+        "type": "text",
+        "content": "are neutral to each other, then the equations",
+        "mathpix_content": " are neutral to each other, then the equations",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 38,
+        "type": "text",
+        "content": "express the relation of the neutral temperatures, the value of",
+        "mathpix_content": "\nexpress the relation of the neutral temperatures, the value of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 39,
+        "type": "text",
+        "content": "the Peltier effect, and the electromotive force of a thermoelectric",
+        "mathpix_content": " the Peltier effect, and the electromotive force of a thermoelectric",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 40,
+        "type": "text",
+        "content": "circuit.",
+        "mathpix_content": " circuit.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 409,
+        "line_number": 42,
+        "type": "text",
+        "content": "* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.",
+        "mathpix_content": "\n\n\\footnotetext{\n* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.\n}",
+        "font_size": 21,
+        "confidence": 0.9917194658243034
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

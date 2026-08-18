@@ -1,0 +1,390 @@
+{
+  "article_id": "article_1856",
+  "article_number": 1856,
+  "title_original": ", p. 649.",
+  "title_safe": "p. 649",
+  "page_start": 353,
+  "page_end": 353,
+  "content": {
+    "raw_text": "\n--- Page 353 ---\n318\nCONJUGATE FUNCTIONS.\n[207.\nrubber has thus a smaller positive charge than that which is\nleaving it at the same time, so that the rubber, and the con-\nductors in communication with it, become negatively electrified.\nThe highly positive surface of the glass where it leaves the\nrubber is more attracted by the negative charge of the rubber\nthan the partially discharged surface which is advancing towards\nthe rubber. The electrical forces therefore act as a resistance to\nthe force employed in turning the machine. The work done in\nturning the machine is therefore greater than that spent in over-\ncoming ordinary friction and other resistances, and the excess is\nemployed in producing a state of electrification whose energy is\nequivalent to this excess.\nThe work done in overcoming friction is at once converted\ninto heat in the bodies rubbed together. The electrical energy\nmay be also converted either into mechanical energy or into\nheat.\nIf the machine does not store up mechanical energy, all the\nenergy will be converted into heat, and the only difference be-\ntween the heat due to friction and that due to electrical action\nis that the former is generated at the rubbing surfaces while\nthe latter may be generated in conductors at a distance*.\nWe have seen that the electrical charge on the surface of the\nglass is attracted by the rubber. If this attraction were suffi-\nciently intense there would be a discharge between the glass and\nthe rubber, instead of between the glass and the collecting points.\nTo prevent this, flaps of silk are attached to the rubber. These\nbecome negatively electrified and adhere to the glass, and so\ndiminish the potential near the rubber.\nThe potential therefore increases more gradually as the glass\nmoves away from the rubber, and therefore at any one point\nthere is less attraction of the charge on the glass towards the\nrubber, and consequently less danger of direct discharge to the\nrubber.\nIn some electrical machines the moving part is of ebonite\ninstead of glass, and the rubbers of wool or fur. The rubber\nis then electrified positively and the prime conductor negatively.\n\n* It is probable that in many cases where dynamical energy is converted into heat\nby friction, part of the energy may be first transformed into electrical energy and\nthen converted into heat as the electrical energy is spent in maintaining currents of\nshort circuit close to the rubbing surfaces. See Sir W. Thomson, 'On the Electro-\ndynamic Qualities of Metals.' Phil. Trans., 1856, p. 649.\n",
+    "mathpix_markdown": "\n--- Page 353 ---\n\nrubber has thus a smaller positive charge than that which is\n leaving it at the same time, so that the rubber, and the con\nductors in communication with it, become negatively electrified.\n\n\nThe highly positive surface of the glass where it leaves the\n rubber is more attracted by the negative charge of the rubber\n than the partially discharged surface which is advancing towards\n the rubber. The electrical forces therefore act as a resistance to\n the force employed in turning the machine. The work done in\n turning the machine is therefore greater than that spent in over\ncoming ordinary friction and other resistances, and the excess is\n employed in producing a state of electrification whose energy is\n equivalent to this excess.\n\n\nThe work done in overcoming friction is at once converted\n into heat in the bodies rubbed together. The electrical energy\n may be also converted either into mechanical energy or into\n heat.\n\n\nIf the machine does not store up mechanical energy, all the\n energy will be converted into heat, and the only difference be\ntween the heat due to friction and that due to electrical action\n is that the former is generated at the rubbing surfaces while\n the latter may be generated in conductors at a distance*.\n\n\nWe have seen that the electrical charge on the surface of the\n glass is attracted by the rubber. If this attraction were suffi\nciently intense there would be a discharge between the glass and\n the rubber, instead of between the glass and the collecting points.\n To prevent this, flaps of silk are attached to the rubber. These\n become negatively electrified and adhere to the glass, and so\n diminish the potential near the rubber.\n\n\nThe potential therefore increases more gradually as the glass\n moves away from the rubber, and therefore at any one point\n there is less attraction of the charge on the glass towards the\n rubber, and consequently less danger of direct discharge to the\n rubber.\n\n\nIn some electrical machines the moving part is of ebonite\n instead of glass, and the rubbers of wool or fur. The rubber\n is then electrified positively and the prime conductor negatively.\n\n\n\\footnotetext{\n* It is probable that in many cases where dynamical energy is converted into heat\n by friction, part of the energy may be first transformed into electrical energy and\n then converted into heat as the electrical energy is spent in maintaining currents of\n short circuit close to the rubbing surfaces. See Sir W. Thomson, 'On the Electro\ndynamic Qualities of Metals.' Phil. Trans., 1856, p. 649.\n}\n",
+    "structured_lines": [
+      {
+        "page": 353,
+        "line_number": 4,
+        "type": "text",
+        "content": "rubber has thus a smaller positive charge than that which is",
+        "mathpix_content": "\nrubber has thus a smaller positive charge than that which is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 5,
+        "type": "text",
+        "content": "leaving it at the same time, so that the rubber, and the con-",
+        "mathpix_content": " leaving it at the same time, so that the rubber, and the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 6,
+        "type": "text",
+        "content": "ductors in communication with it, become negatively electrified.",
+        "mathpix_content": "ductors in communication with it, become negatively electrified.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 7,
+        "type": "text",
+        "content": "The highly positive surface of the glass where it leaves the",
+        "mathpix_content": "\n\nThe highly positive surface of the glass where it leaves the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 8,
+        "type": "text",
+        "content": "rubber is more attracted by the negative charge of the rubber",
+        "mathpix_content": " rubber is more attracted by the negative charge of the rubber",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 9,
+        "type": "text",
+        "content": "than the partially discharged surface which is advancing towards",
+        "mathpix_content": " than the partially discharged surface which is advancing towards",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 10,
+        "type": "text",
+        "content": "the rubber. The electrical forces therefore act as a resistance to",
+        "mathpix_content": " the rubber. The electrical forces therefore act as a resistance to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 11,
+        "type": "text",
+        "content": "the force employed in turning the machine. The work done in",
+        "mathpix_content": " the force employed in turning the machine. The work done in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 12,
+        "type": "text",
+        "content": "turning the machine is therefore greater than that spent in over-",
+        "mathpix_content": " turning the machine is therefore greater than that spent in over",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 13,
+        "type": "text",
+        "content": "coming ordinary friction and other resistances, and the excess is",
+        "mathpix_content": "coming ordinary friction and other resistances, and the excess is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 14,
+        "type": "text",
+        "content": "employed in producing a state of electrification whose energy is",
+        "mathpix_content": " employed in producing a state of electrification whose energy is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 15,
+        "type": "text",
+        "content": "equivalent to this excess.",
+        "mathpix_content": " equivalent to this excess.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 16,
+        "type": "text",
+        "content": "The work done in overcoming friction is at once converted",
+        "mathpix_content": "\n\nThe work done in overcoming friction is at once converted",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 353,
+        "line_number": 17,
+        "type": "text",
+        "content": "into heat in the bodies rubbed together. The electrical energy",
+        "mathpix_content": " into heat in the bodies rubbed together. The electrical energy",
+        "font_size": 27,
+        "confidence": 0.5849609375
+      },
+      {
+        "page": 353,
+        "line_number": 18,
+        "type": "text",
+        "content": "may be also converted either into mechanical energy or into",
+        "mathpix_content": " may be also converted either into mechanical energy or into",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 19,
+        "type": "text",
+        "content": "heat.",
+        "mathpix_content": " heat.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 20,
+        "type": "text",
+        "content": "If the machine does not store up mechanical energy, all the",
+        "mathpix_content": "\n\nIf the machine does not store up mechanical energy, all the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 21,
+        "type": "text",
+        "content": "energy will be converted into heat, and the only difference be-",
+        "mathpix_content": " energy will be converted into heat, and the only difference be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 22,
+        "type": "text",
+        "content": "tween the heat due to friction and that due to electrical action",
+        "mathpix_content": "tween the heat due to friction and that due to electrical action",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 23,
+        "type": "text",
+        "content": "is that the former is generated at the rubbing surfaces while",
+        "mathpix_content": " is that the former is generated at the rubbing surfaces while",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 24,
+        "type": "text",
+        "content": "the latter may be generated in conductors at a distance*.",
+        "mathpix_content": " the latter may be generated in conductors at a distance*.",
+        "font_size": 27,
+        "confidence": 0.6652023792266846
+      },
+      {
+        "page": 353,
+        "line_number": 25,
+        "type": "text",
+        "content": "We have seen that the electrical charge on the surface of the",
+        "mathpix_content": "\n\nWe have seen that the electrical charge on the surface of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 26,
+        "type": "text",
+        "content": "glass is attracted by the rubber. If this attraction were suffi-",
+        "mathpix_content": " glass is attracted by the rubber. If this attraction were suffi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 27,
+        "type": "text",
+        "content": "ciently intense there would be a discharge between the glass and",
+        "mathpix_content": "ciently intense there would be a discharge between the glass and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 28,
+        "type": "text",
+        "content": "the rubber, instead of between the glass and the collecting points.",
+        "mathpix_content": " the rubber, instead of between the glass and the collecting points.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 29,
+        "type": "text",
+        "content": "To prevent this, flaps of silk are attached to the rubber. These",
+        "mathpix_content": " To prevent this, flaps of silk are attached to the rubber. These",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 30,
+        "type": "text",
+        "content": "become negatively electrified and adhere to the glass, and so",
+        "mathpix_content": " become negatively electrified and adhere to the glass, and so",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 31,
+        "type": "text",
+        "content": "diminish the potential near the rubber.",
+        "mathpix_content": " diminish the potential near the rubber.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 32,
+        "type": "text",
+        "content": "The potential therefore increases more gradually as the glass",
+        "mathpix_content": "\n\nThe potential therefore increases more gradually as the glass",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 33,
+        "type": "text",
+        "content": "moves away from the rubber, and therefore at any one point",
+        "mathpix_content": " moves away from the rubber, and therefore at any one point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 34,
+        "type": "text",
+        "content": "there is less attraction of the charge on the glass towards the",
+        "mathpix_content": " there is less attraction of the charge on the glass towards the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 35,
+        "type": "text",
+        "content": "rubber, and consequently less danger of direct discharge to the",
+        "mathpix_content": " rubber, and consequently less danger of direct discharge to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 36,
+        "type": "text",
+        "content": "rubber.",
+        "mathpix_content": " rubber.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 37,
+        "type": "text",
+        "content": "In some electrical machines the moving part is of ebonite",
+        "mathpix_content": "\n\nIn some electrical machines the moving part is of ebonite",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 38,
+        "type": "text",
+        "content": "instead of glass, and the rubbers of wool or fur. The rubber",
+        "mathpix_content": " instead of glass, and the rubbers of wool or fur. The rubber",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 39,
+        "type": "text",
+        "content": "is then electrified positively and the prime conductor negatively.",
+        "mathpix_content": " is then electrified positively and the prime conductor negatively.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 41,
+        "type": "text",
+        "content": "* It is probable that in many cases where dynamical energy is converted into heat",
+        "mathpix_content": "\n\n\\footnotetext{\n* It is probable that in many cases where dynamical energy is converted into heat",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 353,
+        "line_number": 42,
+        "type": "text",
+        "content": "by friction, part of the energy may be first transformed into electrical energy and",
+        "mathpix_content": " by friction, part of the energy may be first transformed into electrical energy and",
+        "font_size": 21,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 353,
+        "line_number": 43,
+        "type": "text",
+        "content": "then converted into heat as the electrical energy is spent in maintaining currents of",
+        "mathpix_content": " then converted into heat as the electrical energy is spent in maintaining currents of",
+        "font_size": 21,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 353,
+        "line_number": 44,
+        "type": "text",
+        "content": "short circuit close to the rubbing surfaces. See Sir W. Thomson, 'On the Electro-",
+        "mathpix_content": " short circuit close to the rubbing surfaces. See Sir W. Thomson, 'On the Electro",
+        "font_size": 21,
+        "confidence": 0.9770617485046387
+      },
+      {
+        "page": 353,
+        "line_number": 45,
+        "type": "text",
+        "content": "dynamic Qualities of Metals.' Phil. Trans., 1856, p. 649.",
+        "mathpix_content": "dynamic Qualities of Metals.' Phil. Trans., 1856, p. 649.\n}",
+        "font_size": 21,
+        "confidence": 0.9990234375
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

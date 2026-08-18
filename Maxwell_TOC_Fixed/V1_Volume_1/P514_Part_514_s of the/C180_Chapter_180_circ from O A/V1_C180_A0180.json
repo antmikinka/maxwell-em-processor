@@ -1,0 +1,237 @@
+{
+  "article_id": "article_180",
+  "article_number": 180,
+  "title_original": "^{\\circ}$ from $O A$.",
+  "title_safe": "circ from O A",
+  "page_start": 325,
+  "page_end": 325,
+  "content": {
+    "raw_text": "\n--- Page 325 ---\n290\nCONJUGATE FUNCTIONS.\n[188.\nor the quantity of electricity in corresponding portions of two\nsystems is the same if the coordinates of one system are conjugate\nfunctions of those of the other.\nAdditional Theorems on Conjugate Functions.\n187.] Theorem IV. If $x_{1}$ and $y_{1}$, and also $x_{2}$ and $y_{2}$, are\nconjugate functions of $x$ and $y$, then, if\n$$X=x_{1} x_{2}-y_{1} y_{2}, \\quad \\text { and } \\quad Y=x_{1} y_{2}+x_{2} y_{1},$$\n$X$ and $Y$ will be conjugate functions of $x$ and $y$.\nFor $\\quad X+\\sqrt{-1} Y=\\left(x_{1}+\\sqrt{-1} y_{1}\\right)\\left(x_{2}+\\sqrt{-1} y_{2}\\right)$.\nTheorem V. If $\\phi$ be a solution of the equation\n$$\\frac{d^{2} \\phi}{d x^{2}}+\\begin{aligned}\n& d^{2} \\phi \\\\\n& d y^{2}\n\\end{aligned}=0,$$\nand if $2 R=\\log \\left(\\left.\\frac{\\overline{d q}}{\\overline{d x}}\\right|^{2}+\\frac{\\left.\\overline{d \\phi}\\right|^{2}}{d y}\\right)$, and $\\quad \\Theta=-\\tan ^{-1} \\frac{\\frac{d \\phi}{d x}}{\\frac{d \\phi}{d y}}$,\n$R$ and $\\Theta$ will be conjugate funtions of $x$ and $y$.\nFor $R$ and $\\Theta$ are conjugate functions of $\\frac{d \\phi}{d y}$ and $\\frac{d \\phi}{d x}$, and these\nare conjugate functions of $x$ and $y$.\n\nExample I.-Inversion.\n188.] As an example of the general method of transformation\nlet us take the case of inversion in two dimensions.\nIf $O$ is a fixed point in a plane, and $O A$ a fixed direction, and\nif $r=O P=\\alpha e^{p}$, and $\\theta=A O \\dot{P}$, and if $x, y$ are the rectangular\ncoordinates of $P$ with respect to $O$,\n$$\\left.\\begin{array}{ll}\n\\rho=\\log \\frac{1}{a} \\sqrt{x^{2}+y^{2},} & \\theta=\\tan ^{-1} \\frac{y}{x}, \\\\\nx=a e^{\\rho} \\cos \\theta, & y=a e^{\\rho} \\sin \\theta,\n\\end{array}\\right\\}$$\n(5)\nthus $\\rho$ and $\\theta$ are conjugate functions of $x$ and $y$.\nIf $\\rho^{\\prime}=n \\rho$ and $\\theta^{\\prime}=n \\theta, \\rho^{\\prime}$ and $\\theta^{\\prime}$ will be conjugate functions of\n$\\rho$ and $\\theta$. In the case in which $n=-1$ we have\n$$r^{\\prime}=\\frac{a^{2}}{r}, \\text { and } \\theta^{\\prime}=-\\theta$$\n(6)\nwhich is the case of ordinary inversion combined with turning\nthe figure $180^{\\circ}$ from $O A$.\n",
+    "mathpix_markdown": "\n--- Page 325 ---\n\nor the quantity of electricity in corresponding portions of two\n systems is the same if the coordinates of one system are conjugate\n functions of those of the other.\n\n\nAdditional Theorems on Conjugate Functions.\n\n187.] Theorem IV. If $x_{1}$ and $y_{1}$, and also $x_{2}$ and $y_{2}$, are\n conjugate functions of $x$ and $y$, then, if\n\n$$X=x_{1} x_{2}-y_{1} y_{2}, \\quad \\text { and } \\quad Y=x_{1} y_{2}+x_{2} y_{1},$$\n\n$X$ and $Y$ will be conjugate functions of $x$ and $y$.\n\nFor $\\quad X+\\sqrt{-1} Y=\\left(x_{1}+\\sqrt{-1} y_{1}\\right)\\left(x_{2}+\\sqrt{-1} y_{2}\\right)$.\n\nTheorem V. If $\\phi$ be a solution of the equation\n\n$$\\frac{d^{2} \\phi}{d x^{2}}+\\begin{aligned}\n& d^{2} \\phi \\\\\n& d y^{2}\n\\end{aligned}=0,$$\n\nand if $2 R=\\log \\left(\\left.\\frac{\\overline{d q}}{\\overline{d x}}\\right|^{2}+\\frac{\\left.\\overline{d \\phi}\\right|^{2}}{d y}\\right)$, and $\\quad \\Theta=-\\tan ^{-1} \\frac{\\frac{d \\phi}{d x}}{\\frac{d \\phi}{d y}}$,\n\n$R$ and $\\Theta$ will be conjugate funtions of $x$ and $y$.\n\nFor $R$ and $\\Theta$ are conjugate functions of $\\frac{d \\phi}{d y}$ and $\\frac{d \\phi}{d x}$, and these\n are conjugate functions of $x$ and $y$.\n\n\n\\section*{Example I.-Inversion.}\n\n188.] As an example of the general method of transformation\n let us take the case of inversion in two dimensions.\n\n\nIf $O$ is a fixed point in a plane, and $O A$ a fixed direction, and\n if $r=O P=\\alpha e^{p}$, and $\\theta=A O \\dot{P}$, and if $x, y$ are the rectangular\n coordinates of $P$ with respect to $O$,\n\n$$\\left.\\begin{array}{ll}\n\\rho=\\log \\frac{1}{a} \\sqrt{x^{2}+y^{2},} & \\theta=\\tan ^{-1} \\frac{y}{x},  \\tag{5}\\\\\nx=a e^{\\rho} \\cos \\theta, & y=a e^{\\rho} \\sin \\theta,\n\\end{array}\\right\\}$$\n\nthus $\\rho$ and $\\theta$ are conjugate functions of $x$ and $y$.\n\nIf $\\rho^{\\prime}=n \\rho$ and $\\theta^{\\prime}=n \\theta, \\rho^{\\prime}$ and $\\theta^{\\prime}$ will be conjugate functions of\n $\\rho$ and $\\theta$. In the case in which $n=-1$ we have\n\n$$\\begin{equation*}\nr^{\\prime}=\\frac{a^{2}}{r}, \\text { and } \\theta^{\\prime}=-\\theta \\tag{6}\n\\end{equation*}$$\n\nwhich is the case of ordinary inversion combined with turning\n the figure $180^{\\circ}$ from $O A$.\n",
+    "structured_lines": [
+      {
+        "page": 325,
+        "line_number": 4,
+        "type": "text",
+        "content": "or the quantity of electricity in corresponding portions of two",
+        "mathpix_content": "\nor the quantity of electricity in corresponding portions of two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 5,
+        "type": "text",
+        "content": "systems is the same if the coordinates of one system are conjugate",
+        "mathpix_content": " systems is the same if the coordinates of one system are conjugate",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 6,
+        "type": "text",
+        "content": "functions of those of the other.",
+        "mathpix_content": " functions of those of the other.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 7,
+        "type": "text",
+        "content": "Additional Theorems on Conjugate Functions.",
+        "mathpix_content": "\n\nAdditional Theorems on Conjugate Functions.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 8,
+        "type": "text",
+        "content": "187.] Theorem IV. If $x_{1}$ and $y_{1}$, and also $x_{2}$ and $y_{2}$, are",
+        "mathpix_content": "\n187.] Theorem IV. If $x_{1}$ and $y_{1}$, and also $x_{2}$ and $y_{2}$, are",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 325,
+        "line_number": 9,
+        "type": "text",
+        "content": "conjugate functions of $x$ and $y$, then, if",
+        "mathpix_content": " conjugate functions of $x$ and $y$, then, if",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 325,
+        "line_number": 12,
+        "type": "text",
+        "content": "$X$ and $Y$ will be conjugate functions of $x$ and $y$.",
+        "mathpix_content": "\n$X$ and $Y$ will be conjugate functions of $x$ and $y$.",
+        "font_size": 27,
+        "confidence": 0.9064338580509457
+      },
+      {
+        "page": 325,
+        "line_number": 13,
+        "type": "text",
+        "content": "For $\\quad X+\\sqrt{-1} Y=\\left(x_{1}+\\sqrt{-1} y_{1}\\right)\\left(x_{2}+\\sqrt{-1} y_{2}\\right)$.",
+        "mathpix_content": "\nFor $\\quad X+\\sqrt{-1} Y=\\left(x_{1}+\\sqrt{-1} y_{1}\\right)\\left(x_{2}+\\sqrt{-1} y_{2}\\right)$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 14,
+        "type": "text",
+        "content": "Theorem V. If $\\phi$ be a solution of the equation",
+        "mathpix_content": "\nTheorem V. If $\\phi$ be a solution of the equation",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 325,
+        "line_number": 17,
+        "type": "text",
+        "content": "and if $2 R=\\log \\left(\\left.\\frac{\\overline{d q}}{\\overline{d x}}\\right|^{2}+\\frac{\\left.\\overline{d \\phi}\\right|^{2}}{d y}\\right)$, and $\\quad \\Theta=-\\tan ^{-1} \\frac{\\frac{d \\phi}{d x}}{\\frac{d \\phi}{d y}}$,",
+        "mathpix_content": "\nand if $2 R=\\log \\left(\\left.\\frac{\\overline{d q}}{\\overline{d x}}\\right|^{2}+\\frac{\\left.\\overline{d \\phi}\\right|^{2}}{d y}\\right)$, and $\\quad \\Theta=-\\tan ^{-1} \\frac{\\frac{d \\phi}{d x}}{\\frac{d \\phi}{d y}}$,",
+        "font_size": 27,
+        "confidence": 0.08285654005424821
+      },
+      {
+        "page": 325,
+        "line_number": 18,
+        "type": "text",
+        "content": "$R$ and $\\Theta$ will be conjugate funtions of $x$ and $y$.",
+        "mathpix_content": "\n$R$ and $\\Theta$ will be conjugate funtions of $x$ and $y$.",
+        "font_size": 27,
+        "confidence": 0.8901510238647461
+      },
+      {
+        "page": 325,
+        "line_number": 19,
+        "type": "text",
+        "content": "For $R$ and $\\Theta$ are conjugate functions of $\\frac{d \\phi}{d y}$ and $\\frac{d \\phi}{d x}$, and these",
+        "mathpix_content": "\nFor $R$ and $\\Theta$ are conjugate functions of $\\frac{d \\phi}{d y}$ and $\\frac{d \\phi}{d x}$, and these",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 20,
+        "type": "text",
+        "content": "are conjugate functions of $x$ and $y$.",
+        "mathpix_content": " are conjugate functions of $x$ and $y$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 22,
+        "type": "text",
+        "content": "Example I.-Inversion.",
+        "mathpix_content": "\n\n\\section*{Example I.-Inversion.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 23,
+        "type": "text",
+        "content": "188.] As an example of the general method of transformation",
+        "mathpix_content": "\n188.] As an example of the general method of transformation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 24,
+        "type": "text",
+        "content": "let us take the case of inversion in two dimensions.",
+        "mathpix_content": " let us take the case of inversion in two dimensions.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 25,
+        "type": "text",
+        "content": "If $O$ is a fixed point in a plane, and $O A$ a fixed direction, and",
+        "mathpix_content": "\n\nIf $O$ is a fixed point in a plane, and $O A$ a fixed direction, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 26,
+        "type": "text",
+        "content": "if $r=O P=\\alpha e^{p}$, and $\\theta=A O \\dot{P}$, and if $x, y$ are the rectangular",
+        "mathpix_content": " if $r=O P=\\alpha e^{p}$, and $\\theta=A O \\dot{P}$, and if $x, y$ are the rectangular",
+        "font_size": 27,
+        "confidence": 0.8609636710089297
+      },
+      {
+        "page": 325,
+        "line_number": 27,
+        "type": "text",
+        "content": "coordinates of $P$ with respect to $O$,",
+        "mathpix_content": " coordinates of $P$ with respect to $O$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 31,
+        "type": "text",
+        "content": "thus $\\rho$ and $\\theta$ are conjugate functions of $x$ and $y$.",
+        "mathpix_content": "\nthus $\\rho$ and $\\theta$ are conjugate functions of $x$ and $y$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 32,
+        "type": "text",
+        "content": "If $\\rho^{\\prime}=n \\rho$ and $\\theta^{\\prime}=n \\theta, \\rho^{\\prime}$ and $\\theta^{\\prime}$ will be conjugate functions of",
+        "mathpix_content": "\nIf $\\rho^{\\prime}=n \\rho$ and $\\theta^{\\prime}=n \\theta, \\rho^{\\prime}$ and $\\theta^{\\prime}$ will be conjugate functions of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 33,
+        "type": "text",
+        "content": "$\\rho$ and $\\theta$. In the case in which $n=-1$ we have",
+        "mathpix_content": " $\\rho$ and $\\theta$. In the case in which $n=-1$ we have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 37,
+        "type": "text",
+        "content": "which is the case of ordinary inversion combined with turning",
+        "mathpix_content": "\nwhich is the case of ordinary inversion combined with turning",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 325,
+        "line_number": 38,
+        "type": "text",
+        "content": "the figure $180^{\\circ}$ from $O A$.",
+        "mathpix_content": " the figure $180^{\\circ}$ from $O A$.",
+        "font_size": 27,
+        "confidence": 0.9980475902557373
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

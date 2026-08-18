@@ -1,0 +1,300 @@
+{
+  "article_id": "article_225",
+  "article_number": 225,
+  "title_original": ".] The most convenient form for the proof plane is that of",
+  "title_safe": "The most convenient form for the proof plane is that of",
+  "page_start": 379,
+  "page_end": 379,
+  "content": {
+    "raw_text": "\n--- Page 379 ---\n344\nELEOTROSTATIO INSTRUMENTS.\n[225.\nIf $A$ and $B$ be the centres of the two spheres cutting each\nother at right angles, $D D^{\\prime}$ a diameter of the circle of intersection,\nand $C$ the centre of that circle, then if $V$ is the potential of a\nconductor whose outer surface coincides with that of the two\nspheres, the quantity of electricity on the exposed surface of the\nsphere $A$ is\n$$\\frac{1}{2} V(A D+B D+A C-C D-B C),$$\nand that on the exposed surface of the sphere $B$ is\n$$\\frac{1}{2} V(A D+B D+B C-C D-A C),$$\nthe total charge being the sum of these, or\n$$V(A D+B D-C D)$$\nIf $a$ and $\\beta$ are the radii of the spheres, then, when $\\alpha$ is large\ncompared with $\\beta$, the charge on $B$ is to that on $A$ in the ratio of\n$$\\frac{3}{4} \\frac{\\beta^{2}}{a^{2}}\\left(1+\\frac{1}{3} a+\\frac{1}{6} \\frac{\\beta^{2}}{a^{2}}+\\text { \\&c. }\\right) \\text { to } 1 .$$\nNow let $\\sigma$ be the uniform surface-density on $A$ when $B$ is\nremoved, then the charge on $A$ is\n$$4 \\pi a^{2} \\sigma,$$\nand therefore the charge on $B$ is\n$$3 \\pi \\beta^{2} \\sigma\\left(1+\\frac{1}{3} \\frac{\\beta}{a}+\\& \\mathrm{c} .\\right)$$\nor, when $\\beta$ is very small compared with $a$, the charge on the\nhemisphere $B$ is equal to three times that due to a surface-density\n$\\sigma$ extending over an area equal to that of the circular base of the\nhemisphere.\nIt appears from Art. 175 that if a small sphere is made to\ntouch an electrified body, and is then removed to a distance\nfrom it, the mean surface-density on the sphere is to the surface-\ndensity of the body at the point of contact as $\\pi^{2}$ is to 6 , or\nas 1.645 to 1 .\n225.] The most convenient form for the proof plane is that of\na circular disk. We shall therefore shew how the charge on a\ncircular disk laid on an electrified surface is to be measured.\nFor this purpose we shall construct a value of the potential\nfunction so that one of the equipotential surfaces resembles a\ncircular flattened protuberance whose general form is somewhat\nlike that of a disk lying on a plane.\nLet $\\sigma$ be the surface-density of a plane, which we shall suppose\nto be that of $x y$.\n",
+    "mathpix_markdown": "\n--- Page 379 ---\n\n\nIf $A$ and $B$ be the centres of the two spheres cutting each\n other at right angles, $D D^{\\prime}$ a diameter of the circle of intersection,\n and $C$ the centre of that circle, then if $V$ is the potential of a\n conductor whose outer surface coincides with that of the two\n spheres, the quantity of electricity on the exposed surface of the\n sphere $A$ is\n\n$$\\frac{1}{2} V(A D+B D+A C-C D-B C),$$\n\nand that on the exposed surface of the sphere $B$ is\n\n$$\\frac{1}{2} V(A D+B D+B C-C D-A C),$$\n\nthe total charge being the sum of these, or\n\n$$V(A D+B D-C D)$$\n\n\nIf $a$ and $\\beta$ are the radii of the spheres, then, when $\\alpha$ is large\n compared with $\\beta$, the charge on $B$ is to that on $A$ in the ratio of\n\n$$\\frac{3}{4} \\frac{\\beta^{2}}{a^{2}}\\left(1+\\frac{1}{3} a+\\frac{1}{6} \\frac{\\beta^{2}}{a^{2}}+\\text { \\&c. }\\right) \\text { to } 1 .$$\n\n\nNow let $\\sigma$ be the uniform surface-density on $A$ when $B$ is\n removed, then the charge on $A$ is\n\n$$4 \\pi a^{2} \\sigma,$$\n\nand therefore the charge on $B$ is\n\n$$3 \\pi \\beta^{2} \\sigma\\left(1+\\frac{1}{3} \\frac{\\beta}{a}+\\& \\mathrm{c} .\\right)$$\n\nor, when $\\beta$ is very small compared with $a$, the charge on the\n hemisphere $B$ is equal to three times that due to a surface-density\n $\\sigma$ extending over an area equal to that of the circular base of the\n hemisphere.\n\n\nIt appears from Art. 175 that if a small sphere is made to\n touch an electrified body, and is then removed to a distance\n from it, the mean surface-density on the sphere is to the surface\ndensity of the body at the point of contact as $\\pi^{2}$ is to 6 , or\n as 1.645 to 1 .\n\n225.] The most convenient form for the proof plane is that of\n a circular disk. We shall therefore shew how the charge on a\n circular disk laid on an electrified surface is to be measured.\n\n\nFor this purpose we shall construct a value of the potential\n function so that one of the equipotential surfaces resembles a\n circular flattened protuberance whose general form is somewhat\n like that of a disk lying on a plane.\n\n\nLet $\\sigma$ be the surface-density of a plane, which we shall suppose\n to be that of $x y$.\n",
+    "structured_lines": [
+      {
+        "page": 379,
+        "line_number": 4,
+        "type": "text",
+        "content": "If $A$ and $B$ be the centres of the two spheres cutting each",
+        "mathpix_content": "\n\nIf $A$ and $B$ be the centres of the two spheres cutting each",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 379,
+        "line_number": 5,
+        "type": "text",
+        "content": "other at right angles, $D D^{\\prime}$ a diameter of the circle of intersection,",
+        "mathpix_content": " other at right angles, $D D^{\\prime}$ a diameter of the circle of intersection,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 379,
+        "line_number": 6,
+        "type": "text",
+        "content": "and $C$ the centre of that circle, then if $V$ is the potential of a",
+        "mathpix_content": " and $C$ the centre of that circle, then if $V$ is the potential of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 7,
+        "type": "text",
+        "content": "conductor whose outer surface coincides with that of the two",
+        "mathpix_content": " conductor whose outer surface coincides with that of the two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 8,
+        "type": "text",
+        "content": "spheres, the quantity of electricity on the exposed surface of the",
+        "mathpix_content": " spheres, the quantity of electricity on the exposed surface of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 9,
+        "type": "text",
+        "content": "sphere $A$ is",
+        "mathpix_content": " sphere $A$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 12,
+        "type": "text",
+        "content": "and that on the exposed surface of the sphere $B$ is",
+        "mathpix_content": "\nand that on the exposed surface of the sphere $B$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 15,
+        "type": "text",
+        "content": "the total charge being the sum of these, or",
+        "mathpix_content": "\nthe total charge being the sum of these, or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 18,
+        "type": "text",
+        "content": "If $a$ and $\\beta$ are the radii of the spheres, then, when $\\alpha$ is large",
+        "mathpix_content": "\n\nIf $a$ and $\\beta$ are the radii of the spheres, then, when $\\alpha$ is large",
+        "font_size": 27,
+        "confidence": 0.9975595474243164
+      },
+      {
+        "page": 379,
+        "line_number": 19,
+        "type": "text",
+        "content": "compared with $\\beta$, the charge on $B$ is to that on $A$ in the ratio of",
+        "mathpix_content": " compared with $\\beta$, the charge on $B$ is to that on $A$ in the ratio of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 22,
+        "type": "text",
+        "content": "Now let $\\sigma$ be the uniform surface-density on $A$ when $B$ is",
+        "mathpix_content": "\n\nNow let $\\sigma$ be the uniform surface-density on $A$ when $B$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 23,
+        "type": "text",
+        "content": "removed, then the charge on $A$ is",
+        "mathpix_content": " removed, then the charge on $A$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 26,
+        "type": "text",
+        "content": "and therefore the charge on $B$ is",
+        "mathpix_content": "\nand therefore the charge on $B$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 29,
+        "type": "text",
+        "content": "or, when $\\beta$ is very small compared with $a$, the charge on the",
+        "mathpix_content": "\nor, when $\\beta$ is very small compared with $a$, the charge on the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 30,
+        "type": "text",
+        "content": "hemisphere $B$ is equal to three times that due to a surface-density",
+        "mathpix_content": " hemisphere $B$ is equal to three times that due to a surface-density",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 379,
+        "line_number": 31,
+        "type": "text",
+        "content": "$\\sigma$ extending over an area equal to that of the circular base of the",
+        "mathpix_content": " $\\sigma$ extending over an area equal to that of the circular base of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 32,
+        "type": "text",
+        "content": "hemisphere.",
+        "mathpix_content": " hemisphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 33,
+        "type": "text",
+        "content": "It appears from Art. 175 that if a small sphere is made to",
+        "mathpix_content": "\n\nIt appears from Art. 175 that if a small sphere is made to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 34,
+        "type": "text",
+        "content": "touch an electrified body, and is then removed to a distance",
+        "mathpix_content": " touch an electrified body, and is then removed to a distance",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 35,
+        "type": "text",
+        "content": "from it, the mean surface-density on the sphere is to the surface-",
+        "mathpix_content": " from it, the mean surface-density on the sphere is to the surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 36,
+        "type": "text",
+        "content": "density of the body at the point of contact as $\\pi^{2}$ is to 6 , or",
+        "mathpix_content": "density of the body at the point of contact as $\\pi^{2}$ is to 6 , or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 37,
+        "type": "text",
+        "content": "as 1.645 to 1 .",
+        "mathpix_content": " as 1.645 to 1 .",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 38,
+        "type": "text",
+        "content": "225.] The most convenient form for the proof plane is that of",
+        "mathpix_content": "\n225.] The most convenient form for the proof plane is that of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 39,
+        "type": "text",
+        "content": "a circular disk. We shall therefore shew how the charge on a",
+        "mathpix_content": " a circular disk. We shall therefore shew how the charge on a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 40,
+        "type": "text",
+        "content": "circular disk laid on an electrified surface is to be measured.",
+        "mathpix_content": " circular disk laid on an electrified surface is to be measured.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 41,
+        "type": "text",
+        "content": "For this purpose we shall construct a value of the potential",
+        "mathpix_content": "\n\nFor this purpose we shall construct a value of the potential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 42,
+        "type": "text",
+        "content": "function so that one of the equipotential surfaces resembles a",
+        "mathpix_content": " function so that one of the equipotential surfaces resembles a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 43,
+        "type": "text",
+        "content": "circular flattened protuberance whose general form is somewhat",
+        "mathpix_content": " circular flattened protuberance whose general form is somewhat",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 44,
+        "type": "text",
+        "content": "like that of a disk lying on a plane.",
+        "mathpix_content": " like that of a disk lying on a plane.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 45,
+        "type": "text",
+        "content": "Let $\\sigma$ be the surface-density of a plane, which we shall suppose",
+        "mathpix_content": "\n\nLet $\\sigma$ be the surface-density of a plane, which we shall suppose",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 379,
+        "line_number": 46,
+        "type": "text",
+        "content": "to be that of $x y$.",
+        "mathpix_content": " to be that of $x y$.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

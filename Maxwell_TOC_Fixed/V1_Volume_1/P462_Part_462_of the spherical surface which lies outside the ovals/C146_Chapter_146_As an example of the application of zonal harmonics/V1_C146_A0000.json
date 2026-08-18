@@ -1,0 +1,20 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "} a^{n} b^{n} \\frac{b^{n+1} f_{n}^{(\\sigma)}-a^{n+1} g_{n}^{(\\sigma)}}{b^{2 n+1}-a^{2 n+1}} \\tag{30}",
+  "title_safe": "an bn fracbnplus1 fnsigma-anplus1 gnsigmab2 nplus1-a2 nplus1",
+  "page_start": 259,
+  "page_end": 258,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

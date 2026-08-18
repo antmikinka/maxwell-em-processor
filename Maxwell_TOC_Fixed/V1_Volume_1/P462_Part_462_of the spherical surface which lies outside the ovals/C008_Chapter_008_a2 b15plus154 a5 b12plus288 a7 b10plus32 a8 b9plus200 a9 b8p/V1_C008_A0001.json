@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}=2 a^{2} b^{3} c^{-5}+3 a^{2} b^{5} c^{-7}+4 a^{2} b^{7} c^{-9}+\\left(5 a^{2} b^{9}+8 a^{5} b^{6}\\right) c^{-11} \\\\",
+  "title_safe": "equals2 a2 b3 c-5plus3 a2 b5 c-7plus4 a2 b7 c-9plusleft5 a2",
+  "page_start": 263,
+  "page_end": 262,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

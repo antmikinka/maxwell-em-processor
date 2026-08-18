@@ -1,0 +1,57 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "$",
+  "title_safe": "Article",
+  "page_start": 558,
+  "page_end": 559,
+  "content": {
+    "raw_text": "\n--- Page 558 ---\nClerk Maxwells Flectricity, Vol.1.\nFIG.VII.\nArt . 143.\n\nSpherical Harmonic of the third order.\n$n-3$\nIfriversity Press, Oxford\n\n--- Page 559 ---\n\"\n",
+    "mathpix_markdown": "\n--- Page 558 ---\n\n\nArt . 143.\n\n\n\\begin{figure}\n\\captionsetup{labelformat=empty}\n\\caption{FIG.VII.}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-558.jpg?height=1051&width=1015&top_left_y=489&top_left_x=144}\n\\end{figure}\n\n\nSpherical Harmonic of the third order.\n\n$n-3$\n\n--- Page 559 ---\n\n\"\n",
+    "structured_lines": [
+      {
+        "page": 558,
+        "line_number": 3,
+        "type": "text",
+        "content": "Art . 143.",
+        "mathpix_content": "\n\nArt . 143.",
+        "font_size": 21,
+        "confidence": 0.9854094202423767
+      },
+      {
+        "page": 558,
+        "line_number": 5,
+        "type": "text",
+        "content": "Spherical Harmonic of the third order.",
+        "mathpix_content": "\n\nSpherical Harmonic of the third order.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 558,
+        "line_number": 6,
+        "type": "text",
+        "content": "$n-3$",
+        "mathpix_content": "\n$n-3$",
+        "font_size": 33,
+        "confidence": 0.9669570922851562
+      },
+      {
+        "page": 559,
+        "line_number": 1,
+        "type": "text",
+        "content": "\"",
+        "mathpix_content": "\n\"",
+        "font_size": 80,
+        "confidence": 0.7652674871496856
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

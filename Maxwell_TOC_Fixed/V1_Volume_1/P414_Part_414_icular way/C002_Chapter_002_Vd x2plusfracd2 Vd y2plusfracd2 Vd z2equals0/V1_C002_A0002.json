@@ -1,0 +1,300 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$",
+  "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2equals0",
+  "page_start": 212,
+  "page_end": 212,
+  "content": {
+    "raw_text": "\n--- Page 212 ---\n\nCHAPTER VII.\n\nFORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF\nINDUCTION IN SIMPLE CASES.\n117.] We have seen that the determination of the distribution\nof electricity on the surface of conductors may be made to depend\non the solution of Laplace's equation\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$\n$V$ being a function of $x, y$, and $z$, which is always finite and con-\ntinuous, which vanishes at an infinite distance, and which has a\ngiven constant value at the surface of each conductor.\nIt is not in general possible by known mathematical methods\nto solve this equation so as to fulfil arbitrarily given conditions,\nbut it is easy to write down any number of expressions for the\nfunction $V$ which shall satisfy the equation, and to determine in\neach case the forms of the conducting surfaces, so that the func-\ntion $V$ shall be the true solution.\nIt appears, therefore, that what we should naturally call the\ninverse problem of determining the forms of the conductors when\nthe expression for the potential is given is more manageable than\nthe direct problem of determining the potential when the form of\nthe conductors is given.\nIn fact, every electrical problem of which we know the solu-\ntion has been constructed by this inverse process. It is therefore\nof great importance to the electrician that he should know what\nresults have been obtained in this way, since the only method by\nwhich he can expect to solve a new problem is by reducing it to\none of the cases in which a similar problem has been constructed\nby the inverse process.\nThis historical knowledge of results can be turned to account\nin two ways. If we are required to devise an instrument for\nmaking electrical measurements with the greatest accuracy, we\nmay select those forms for the electrified surfaces which corre-\nVOL. I.\nN\n",
+    "mathpix_markdown": "\n--- Page 212 ---\n\n\n\\section*{CHAPTER VII.}\n\n\n\\section*{FORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF\n INDUCTION IN SIMPLE CASES.}\n\n117.] We have seen that the determination of the distribution\n of electricity on the surface of conductors may be made to depend\n on the solution of Laplace's equation\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$\n\n$V$ being a function of $x, y$, and $z$, which is always finite and con\ntinuous, which vanishes at an infinite distance, and which has a\n given constant value at the surface of each conductor.\n\n\nIt is not in general possible by known mathematical methods\n to solve this equation so as to fulfil arbitrarily given conditions,\n but it is easy to write down any number of expressions for the\n function $V$ which shall satisfy the equation, and to determine in\n each case the forms of the conducting surfaces, so that the func\ntion $V$ shall be the true solution.\n\n\nIt appears, therefore, that what we should naturally call the\n inverse problem of determining the forms of the conductors when\n the expression for the potential is given is more manageable than\n the direct problem of determining the potential when the form of\n the conductors is given.\n\n\nIn fact, every electrical problem of which we know the solu\ntion has been constructed by this inverse process. It is therefore\n of great importance to the electrician that he should know what\n results have been obtained in this way, since the only method by\n which he can expect to solve a new problem is by reducing it to\n one of the cases in which a similar problem has been constructed\n by the inverse process.\n\n\nThis historical knowledge of results can be turned to account\n in two ways. If we are required to devise an instrument for\n making electrical measurements with the greatest accuracy, we\n may select those forms for the electrified surfaces which corre-\n",
+    "structured_lines": [
+      {
+        "page": 212,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER VII.",
+        "mathpix_content": "\n\n\\section*{CHAPTER VII.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 4,
+        "type": "text",
+        "content": "FORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF",
+        "mathpix_content": "\n\n\\section*{FORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 5,
+        "type": "text",
+        "content": "INDUCTION IN SIMPLE CASES.",
+        "mathpix_content": " INDUCTION IN SIMPLE CASES.}",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 6,
+        "type": "text",
+        "content": "117.] We have seen that the determination of the distribution",
+        "mathpix_content": "\n117.] We have seen that the determination of the distribution",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 212,
+        "line_number": 7,
+        "type": "text",
+        "content": "of electricity on the surface of conductors may be made to depend",
+        "mathpix_content": " of electricity on the surface of conductors may be made to depend",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 8,
+        "type": "text",
+        "content": "on the solution of Laplace's equation",
+        "mathpix_content": " on the solution of Laplace's equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 11,
+        "type": "text",
+        "content": "$V$ being a function of $x, y$, and $z$, which is always finite and con-",
+        "mathpix_content": "\n$V$ being a function of $x, y$, and $z$, which is always finite and con",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 212,
+        "line_number": 12,
+        "type": "text",
+        "content": "tinuous, which vanishes at an infinite distance, and which has a",
+        "mathpix_content": "tinuous, which vanishes at an infinite distance, and which has a",
+        "font_size": 27,
+        "confidence": 0.9609375
+      },
+      {
+        "page": 212,
+        "line_number": 13,
+        "type": "text",
+        "content": "given constant value at the surface of each conductor.",
+        "mathpix_content": " given constant value at the surface of each conductor.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 14,
+        "type": "text",
+        "content": "It is not in general possible by known mathematical methods",
+        "mathpix_content": "\n\nIt is not in general possible by known mathematical methods",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 15,
+        "type": "text",
+        "content": "to solve this equation so as to fulfil arbitrarily given conditions,",
+        "mathpix_content": " to solve this equation so as to fulfil arbitrarily given conditions,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 16,
+        "type": "text",
+        "content": "but it is easy to write down any number of expressions for the",
+        "mathpix_content": " but it is easy to write down any number of expressions for the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 212,
+        "line_number": 17,
+        "type": "text",
+        "content": "function $V$ which shall satisfy the equation, and to determine in",
+        "mathpix_content": " function $V$ which shall satisfy the equation, and to determine in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 18,
+        "type": "text",
+        "content": "each case the forms of the conducting surfaces, so that the func-",
+        "mathpix_content": " each case the forms of the conducting surfaces, so that the func",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 19,
+        "type": "text",
+        "content": "tion $V$ shall be the true solution.",
+        "mathpix_content": "tion $V$ shall be the true solution.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 20,
+        "type": "text",
+        "content": "It appears, therefore, that what we should naturally call the",
+        "mathpix_content": "\n\nIt appears, therefore, that what we should naturally call the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 21,
+        "type": "text",
+        "content": "inverse problem of determining the forms of the conductors when",
+        "mathpix_content": " inverse problem of determining the forms of the conductors when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 22,
+        "type": "text",
+        "content": "the expression for the potential is given is more manageable than",
+        "mathpix_content": " the expression for the potential is given is more manageable than",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 23,
+        "type": "text",
+        "content": "the direct problem of determining the potential when the form of",
+        "mathpix_content": " the direct problem of determining the potential when the form of",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 212,
+        "line_number": 24,
+        "type": "text",
+        "content": "the conductors is given.",
+        "mathpix_content": " the conductors is given.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 25,
+        "type": "text",
+        "content": "In fact, every electrical problem of which we know the solu-",
+        "mathpix_content": "\n\nIn fact, every electrical problem of which we know the solu",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 212,
+        "line_number": 26,
+        "type": "text",
+        "content": "tion has been constructed by this inverse process. It is therefore",
+        "mathpix_content": "tion has been constructed by this inverse process. It is therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 27,
+        "type": "text",
+        "content": "of great importance to the electrician that he should know what",
+        "mathpix_content": " of great importance to the electrician that he should know what",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 28,
+        "type": "text",
+        "content": "results have been obtained in this way, since the only method by",
+        "mathpix_content": " results have been obtained in this way, since the only method by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 29,
+        "type": "text",
+        "content": "which he can expect to solve a new problem is by reducing it to",
+        "mathpix_content": " which he can expect to solve a new problem is by reducing it to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 30,
+        "type": "text",
+        "content": "one of the cases in which a similar problem has been constructed",
+        "mathpix_content": " one of the cases in which a similar problem has been constructed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 31,
+        "type": "text",
+        "content": "by the inverse process.",
+        "mathpix_content": " by the inverse process.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 32,
+        "type": "text",
+        "content": "This historical knowledge of results can be turned to account",
+        "mathpix_content": "\n\nThis historical knowledge of results can be turned to account",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 212,
+        "line_number": 33,
+        "type": "text",
+        "content": "in two ways. If we are required to devise an instrument for",
+        "mathpix_content": " in two ways. If we are required to devise an instrument for",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 212,
+        "line_number": 34,
+        "type": "text",
+        "content": "making electrical measurements with the greatest accuracy, we",
+        "mathpix_content": " making electrical measurements with the greatest accuracy, we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 212,
+        "line_number": 35,
+        "type": "text",
+        "content": "may select those forms for the electrified surfaces which corre-",
+        "mathpix_content": " may select those forms for the electrified surfaces which corre-",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

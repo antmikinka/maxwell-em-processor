@@ -1,0 +1,20 @@
+{
+  "article_id": "article_75",
+  "article_number": 75,
+  "title_original": "a^{12} b^{6}+360 a^{10} b^{8}+48 a^{9} b^{9}+606 a^{8} b^{10}\\right. \\\\",
+  "title_safe": "a12 b6plus360 a10 b8plus48 a9 b9plus606 a8 b10right",
+  "page_start": 264,
+  "page_end": 263,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

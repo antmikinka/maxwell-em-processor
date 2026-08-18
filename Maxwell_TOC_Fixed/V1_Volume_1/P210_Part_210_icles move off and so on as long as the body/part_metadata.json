@@ -1,0 +1,447 @@
+{
+  "part_id": "part_210",
+  "part_number": 210,
+  "title": "icles move off, and so on as long as the body",
+  "page_start": 93,
+  "page_end": 93,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 58,
+      "title": "ELECTROSTATIC PHENOMENA.",
+      "page_start": 93,
+      "page_end": 92,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 55,
+      "title": "The Electric Glow.",
+      "page_start": 93,
+      "page_end": 93,
+      "articles": [
+        {
+          "article_id": "article_55",
+          "article_number": 55,
+          "title_original": "The Electric Glow.",
+          "title_safe": "The Electric Glow",
+          "page_start": 93,
+          "page_end": 92,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_58",
+          "article_number": 58,
+          "title_original": "ELECTROSTATIC PHENOMENA.",
+          "title_safe": "ELECTROSTATIC PHENOMENA",
+          "page_start": 93,
+          "page_end": 92,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_55",
+          "article_number": 55,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 93,
+          "page_end": 93,
+          "content": {
+            "raw_text": "\n--- Page 93 ---\n58\nELECTROSTATIC PHENOMENA.\n[55.\n\nThe Electric Glow.\nThus, when a conductor having a sharp point is electrified, the\ntheory, based on the hypothesis that it retains its charge, leads\nto the conclusion that as we approach the point the superficial\ndensity of the electricity increases without limit, so that at the\npoint itself the surface-density, and therefore the resultant\nelectromotive intensity, would be infinite. If the air, or other\nsurrounding dielectric, had an invincible insulating power, this\nresult would actually occur; but the fact is, that as soon as the\nresultant intensity in the neighbourhood of the point has reached\na certain limit, the insulating power of the air gives way, so that\nthe air close to the point becomes a conductor. At a certain\ndistance from the point the resultant intensity is not sufficient to\nbreak through the insulation of the air, so that the electric current\nis checked, and the electricity accumulates in the air round the\npoint.\nThe point is thus surrounded by particles of air * charged with\nelectricity of the same kind as its own. The effect of this charged\nair round the point is to relieve the air at the point itself from\npart of the enormous electromotive intensity which it would have\nexperienced if the conductor alone had been clectrified. In fact\nthe surface of the electrified body is no longer pointed, because the\npoint is enveloped by a rounded mass of charged air, the surface\nof which, rather than that of the solid conductor, may be regarded\nas the outer electrified surface.\nIf this portion of charged air could be kept still, the electrified\nbody would retain its charge, if not on itself at least in its\nneighbourhood, but the charged particles of air being free to move\nunder the action of electrical force, tend to move away from the\nelectrified body because it is charged with the same kind of elec-\ntricity. The charged particles of air therefore tend to move off\nin the direction of the lines of force and to approach those sur-\nrounding bodies which are oppositely electrified. When they are\ngone, other uncharged particles take their place round the point,\nand since these cannot shield those next the point itself from the\nexcessive electric tension, a new discharge takes place, after which\nthe newly charged particles move off, and so on as long as the body\nremains electrified.\n\n* \\{Or dust ? It is doubtful whether air free from dust and aqueous vapour can be\nelectrified except at very high temperatures; see Supplementary Volume.\\}\n",
+            "mathpix_markdown": "\n--- Page 93 ---\n\n\n\\section*{The Electric Glow.}\n\n\nThus, when a conductor having a sharp point is electrified, the\n theory, based on the hypothesis that it retains its charge, leads\n to the conclusion that as we approach the point the superficial\n density of the electricity increases without limit, so that at the\n point itself the surface-density, and therefore the resultant\n electromotive intensity, would be infinite. If the air, or other\n surrounding dielectric, had an invincible insulating power, this\n result would actually occur; but the fact is, that as soon as the\n resultant intensity in the neighbourhood of the point has reached\n a certain limit, the insulating power of the air gives way, so that\n the air close to the point becomes a conductor. At a certain\n distance from the point the resultant intensity is not sufficient to\n break through the insulation of the air, so that the electric current\n is checked, and the electricity accumulates in the air round the\n point.\n\n\nThe point is thus surrounded by particles of air * charged with\n electricity of the same kind as its own. The effect of this charged\n air round the point is to relieve the air at the point itself from\n part of the enormous electromotive intensity which it would have\n experienced if the conductor alone had been clectrified. In fact\n the surface of the electrified body is no longer pointed, because the\n point is enveloped by a rounded mass of charged air, the surface\n of which, rather than that of the solid conductor, may be regarded\n as the outer electrified surface.\n\n\nIf this portion of charged air could be kept still, the electrified\n body would retain its charge, if not on itself at least in its\n neighbourhood, but the charged particles of air being free to move\n under the action of electrical force, tend to move away from the\n electrified body because it is charged with the same kind of elec\ntricity. The charged particles of air therefore tend to move off\n in the direction of the lines of force and to approach those sur\nrounding bodies which are oppositely electrified. When they are\n gone, other uncharged particles take their place round the point,\n and since these cannot shield those next the point itself from the\n excessive electric tension, a new discharge takes place, after which\n the newly charged particles move off, and so on as long as the body\n remains electrified.\n\n\n\\footnotetext{\n* \\{Or dust ? It is doubtful whether air free from dust and aqueous vapour can be\n electrified except at very high temperatures; see Supplementary Volume.\\}\n}\n",
+            "structured_lines": [
+              {
+                "page": 93,
+                "line_number": 5,
+                "type": "text",
+                "content": "The Electric Glow.",
+                "mathpix_content": "\n\n\\section*{The Electric Glow.}",
+                "font_size": 34,
+                "confidence": 0.62255859375
+              },
+              {
+                "page": 93,
+                "line_number": 6,
+                "type": "text",
+                "content": "Thus, when a conductor having a sharp point is electrified, the",
+                "mathpix_content": "\n\nThus, when a conductor having a sharp point is electrified, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 7,
+                "type": "text",
+                "content": "theory, based on the hypothesis that it retains its charge, leads",
+                "mathpix_content": " theory, based on the hypothesis that it retains its charge, leads",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 8,
+                "type": "text",
+                "content": "to the conclusion that as we approach the point the superficial",
+                "mathpix_content": " to the conclusion that as we approach the point the superficial",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 9,
+                "type": "text",
+                "content": "density of the electricity increases without limit, so that at the",
+                "mathpix_content": " density of the electricity increases without limit, so that at the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 10,
+                "type": "text",
+                "content": "point itself the surface-density, and therefore the resultant",
+                "mathpix_content": " point itself the surface-density, and therefore the resultant",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 11,
+                "type": "text",
+                "content": "electromotive intensity, would be infinite. If the air, or other",
+                "mathpix_content": " electromotive intensity, would be infinite. If the air, or other",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 12,
+                "type": "text",
+                "content": "surrounding dielectric, had an invincible insulating power, this",
+                "mathpix_content": " surrounding dielectric, had an invincible insulating power, this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 13,
+                "type": "text",
+                "content": "result would actually occur; but the fact is, that as soon as the",
+                "mathpix_content": " result would actually occur; but the fact is, that as soon as the",
+                "font_size": 27,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 93,
+                "line_number": 14,
+                "type": "text",
+                "content": "resultant intensity in the neighbourhood of the point has reached",
+                "mathpix_content": " resultant intensity in the neighbourhood of the point has reached",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 15,
+                "type": "text",
+                "content": "a certain limit, the insulating power of the air gives way, so that",
+                "mathpix_content": " a certain limit, the insulating power of the air gives way, so that",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 16,
+                "type": "text",
+                "content": "the air close to the point becomes a conductor. At a certain",
+                "mathpix_content": " the air close to the point becomes a conductor. At a certain",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 17,
+                "type": "text",
+                "content": "distance from the point the resultant intensity is not sufficient to",
+                "mathpix_content": " distance from the point the resultant intensity is not sufficient to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 18,
+                "type": "text",
+                "content": "break through the insulation of the air, so that the electric current",
+                "mathpix_content": " break through the insulation of the air, so that the electric current",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 19,
+                "type": "text",
+                "content": "is checked, and the electricity accumulates in the air round the",
+                "mathpix_content": " is checked, and the electricity accumulates in the air round the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 20,
+                "type": "text",
+                "content": "point.",
+                "mathpix_content": " point.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 21,
+                "type": "text",
+                "content": "The point is thus surrounded by particles of air * charged with",
+                "mathpix_content": "\n\nThe point is thus surrounded by particles of air * charged with",
+                "font_size": 27,
+                "confidence": 0.98388671875
+              },
+              {
+                "page": 93,
+                "line_number": 22,
+                "type": "text",
+                "content": "electricity of the same kind as its own. The effect of this charged",
+                "mathpix_content": " electricity of the same kind as its own. The effect of this charged",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 23,
+                "type": "text",
+                "content": "air round the point is to relieve the air at the point itself from",
+                "mathpix_content": " air round the point is to relieve the air at the point itself from",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 24,
+                "type": "text",
+                "content": "part of the enormous electromotive intensity which it would have",
+                "mathpix_content": " part of the enormous electromotive intensity which it would have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 25,
+                "type": "text",
+                "content": "experienced if the conductor alone had been clectrified. In fact",
+                "mathpix_content": " experienced if the conductor alone had been clectrified. In fact",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 93,
+                "line_number": 26,
+                "type": "text",
+                "content": "the surface of the electrified body is no longer pointed, because the",
+                "mathpix_content": " the surface of the electrified body is no longer pointed, because the",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 93,
+                "line_number": 27,
+                "type": "text",
+                "content": "point is enveloped by a rounded mass of charged air, the surface",
+                "mathpix_content": " point is enveloped by a rounded mass of charged air, the surface",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 28,
+                "type": "text",
+                "content": "of which, rather than that of the solid conductor, may be regarded",
+                "mathpix_content": " of which, rather than that of the solid conductor, may be regarded",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 29,
+                "type": "text",
+                "content": "as the outer electrified surface.",
+                "mathpix_content": " as the outer electrified surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 30,
+                "type": "text",
+                "content": "If this portion of charged air could be kept still, the electrified",
+                "mathpix_content": "\n\nIf this portion of charged air could be kept still, the electrified",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 31,
+                "type": "text",
+                "content": "body would retain its charge, if not on itself at least in its",
+                "mathpix_content": " body would retain its charge, if not on itself at least in its",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 32,
+                "type": "text",
+                "content": "neighbourhood, but the charged particles of air being free to move",
+                "mathpix_content": " neighbourhood, but the charged particles of air being free to move",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 33,
+                "type": "text",
+                "content": "under the action of electrical force, tend to move away from the",
+                "mathpix_content": " under the action of electrical force, tend to move away from the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 34,
+                "type": "text",
+                "content": "electrified body because it is charged with the same kind of elec-",
+                "mathpix_content": " electrified body because it is charged with the same kind of elec",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 35,
+                "type": "text",
+                "content": "tricity. The charged particles of air therefore tend to move off",
+                "mathpix_content": "tricity. The charged particles of air therefore tend to move off",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 36,
+                "type": "text",
+                "content": "in the direction of the lines of force and to approach those sur-",
+                "mathpix_content": " in the direction of the lines of force and to approach those sur",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 37,
+                "type": "text",
+                "content": "rounding bodies which are oppositely electrified. When they are",
+                "mathpix_content": "rounding bodies which are oppositely electrified. When they are",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 38,
+                "type": "text",
+                "content": "gone, other uncharged particles take their place round the point,",
+                "mathpix_content": " gone, other uncharged particles take their place round the point,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 39,
+                "type": "text",
+                "content": "and since these cannot shield those next the point itself from the",
+                "mathpix_content": " and since these cannot shield those next the point itself from the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 40,
+                "type": "text",
+                "content": "excessive electric tension, a new discharge takes place, after which",
+                "mathpix_content": " excessive electric tension, a new discharge takes place, after which",
+                "font_size": 27,
+                "confidence": 0.99365234375
+              },
+              {
+                "page": 93,
+                "line_number": 41,
+                "type": "text",
+                "content": "the newly charged particles move off, and so on as long as the body",
+                "mathpix_content": " the newly charged particles move off, and so on as long as the body",
+                "font_size": 27,
+                "confidence": 0.93603515625
+              },
+              {
+                "page": 93,
+                "line_number": 42,
+                "type": "text",
+                "content": "remains electrified.",
+                "mathpix_content": " remains electrified.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 93,
+                "line_number": 44,
+                "type": "text",
+                "content": "* \\{Or dust ? It is doubtful whether air free from dust and aqueous vapour can be",
+                "mathpix_content": "\n\n\\footnotetext{\n* \\{Or dust ? It is doubtful whether air free from dust and aqueous vapour can be",
+                "font_size": 21,
+                "confidence": 0.9741334915161133
+              },
+              {
+                "page": 93,
+                "line_number": 45,
+                "type": "text",
+                "content": "electrified except at very high temperatures; see Supplementary Volume.\\}",
+                "mathpix_content": " electrified except at very high temperatures; see Supplementary Volume.\\}\n}",
+                "font_size": 21,
+                "confidence": 0.7792751789093018
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

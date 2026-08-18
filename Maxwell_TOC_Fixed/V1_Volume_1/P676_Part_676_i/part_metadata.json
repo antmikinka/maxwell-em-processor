@@ -1,0 +1,447 @@
+{
+  "part_id": "part_676",
+  "part_number": 676,
+  "title": "i",
+  "page_start": 411,
+  "page_end": 411,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 376,
+      "title": "ELECTROLYSIS.",
+      "page_start": 411,
+      "page_end": 410,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 255,
+      "title": "The electrochemical equivalent of a substance is that quantity",
+      "page_start": 411,
+      "page_end": 411,
+      "articles": [
+        {
+          "article_id": "article_255",
+          "article_number": 255,
+          "title_original": "The electrochemical equivalent of a substance is that quantity",
+          "title_safe": "The electrochemical equivalent of a substance is that quanti",
+          "page_start": 411,
+          "page_end": 410,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_376",
+          "article_number": 376,
+          "title_original": "ELECTROLYSIS.",
+          "title_safe": "ELECTROLYSIS",
+          "page_start": 411,
+          "page_end": 410,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_255",
+          "article_number": 255,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 411,
+          "page_end": 411,
+          "content": {
+            "raw_text": "\n--- Page 411 ---\n376\nELECTROLYSIS.\n[255.\nThe electrochemical equivalent of a substance is that quantity\nof the substance which is electrolysed by a unit current passing\nthrough the substance for a unit of time, or, in other words, by\nthe passage of a unit of electricity. When the unit of electricity\nis defined in absolute measure the absolute value of the electro-\nchemical equivalent of each substance can be determined in\ngrains or in grammes.\nThe electrochemical equivalents of different substances are\nproportional to their ordinary chemical equivalents. The\nordinary chemical equivalents, however, are the mere numerical\nratios in which the substances combine, whereas the electro-\nchemical equivalents are quantities of matter of a determinate\nmagnitude, depending on the definition of the unit of electricity.\nEvery electrolyte consists of two components, which, during\nthe electrolysis, appear where the current enters and leaves the\nelectrolyte, and nowhere else. Hence, if we conceive a surface\ndescribed within the substance of the electrolyte, the amount of\nelectrolysis which takes place through this surface, as measured\nby the electrochemical equivalents of the components transferred\nacross it in opposite directions, will be proportional to the total\nelectric current through the surface.\nThe actual transfer of the ions through the substance of the\nelectrolyte in opposite directions is therefore part of the pheno-\nmenon of the conduction of an electric current through an\nelectrolyte. At every point of the electrolyte through which\nan electric current is passing there are also two opposite material\ncurrents of the anion and the cation, which have the same lines\nof flow with the electric current, and are proportional to it in\nmagnitude.\nIt is therefore extremely natural to suppose that the currents\nof the ions are convection currents of electricity, and, in parti-\ncular, that every molecule of the cation is charged with a certain\nfixed quantity of positive electricity, which is the same for the\nmolecules of all cations, and that every molecule of the anion is\ncharged with an equal quantity of negative electricty.\nThe opposite motion of the ions through the electrolyte would\nthen be a complete physical representation of the electric current.\nWe may compare this motion of the ions with the motion of\ngases and liquids through each other during the process of\ndiffusion, there being this difference between the two processes,\n",
+            "mathpix_markdown": "\n--- Page 411 ---\n\n\nThe electrochemical equivalent of a substance is that quantity\n of the substance which is electrolysed by a unit current passing\n through the substance for a unit of time, or, in other words, by\n the passage of a unit of electricity. When the unit of electricity\n is defined in absolute measure the absolute value of the electro\nchemical equivalent of each substance can be determined in\n grains or in grammes.\n\n\nThe electrochemical equivalents of different substances are\n proportional to their ordinary chemical equivalents. The\n ordinary chemical equivalents, however, are the mere numerical\n ratios in which the substances combine, whereas the electro\nchemical equivalents are quantities of matter of a determinate\n magnitude, depending on the definition of the unit of electricity.\n\n\nEvery electrolyte consists of two components, which, during\n the electrolysis, appear where the current enters and leaves the\n electrolyte, and nowhere else. Hence, if we conceive a surface\n described within the substance of the electrolyte, the amount of\n electrolysis which takes place through this surface, as measured\n by the electrochemical equivalents of the components transferred\n across it in opposite directions, will be proportional to the total\n electric current through the surface.\n\n\nThe actual transfer of the ions through the substance of the\n electrolyte in opposite directions is therefore part of the pheno\nmenon of the conduction of an electric current through an\n electrolyte. At every point of the electrolyte through which\n an electric current is passing there are also two opposite material\n currents of the anion and the cation, which have the same lines\n of flow with the electric current, and are proportional to it in\n magnitude.\n\n\nIt is therefore extremely natural to suppose that the currents\n of the ions are convection currents of electricity, and, in parti\ncular, that every molecule of the cation is charged with a certain\n fixed quantity of positive electricity, which is the same for the\n molecules of all cations, and that every molecule of the anion is\n charged with an equal quantity of negative electricty.\n\n\nThe opposite motion of the ions through the electrolyte would\n then be a complete physical representation of the electric current.\n We may compare this motion of the ions with the motion of\n gases and liquids through each other during the process of\n diffusion, there being this difference between the two processes,\n",
+            "structured_lines": [
+              {
+                "page": 411,
+                "line_number": 4,
+                "type": "text",
+                "content": "The electrochemical equivalent of a substance is that quantity",
+                "mathpix_content": "\n\nThe electrochemical equivalent of a substance is that quantity",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 5,
+                "type": "text",
+                "content": "of the substance which is electrolysed by a unit current passing",
+                "mathpix_content": " of the substance which is electrolysed by a unit current passing",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 6,
+                "type": "text",
+                "content": "through the substance for a unit of time, or, in other words, by",
+                "mathpix_content": " through the substance for a unit of time, or, in other words, by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 7,
+                "type": "text",
+                "content": "the passage of a unit of electricity. When the unit of electricity",
+                "mathpix_content": " the passage of a unit of electricity. When the unit of electricity",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 8,
+                "type": "text",
+                "content": "is defined in absolute measure the absolute value of the electro-",
+                "mathpix_content": " is defined in absolute measure the absolute value of the electro",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 9,
+                "type": "text",
+                "content": "chemical equivalent of each substance can be determined in",
+                "mathpix_content": "chemical equivalent of each substance can be determined in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 10,
+                "type": "text",
+                "content": "grains or in grammes.",
+                "mathpix_content": " grains or in grammes.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 11,
+                "type": "text",
+                "content": "The electrochemical equivalents of different substances are",
+                "mathpix_content": "\n\nThe electrochemical equivalents of different substances are",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 12,
+                "type": "text",
+                "content": "proportional to their ordinary chemical equivalents. The",
+                "mathpix_content": " proportional to their ordinary chemical equivalents. The",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 13,
+                "type": "text",
+                "content": "ordinary chemical equivalents, however, are the mere numerical",
+                "mathpix_content": " ordinary chemical equivalents, however, are the mere numerical",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 14,
+                "type": "text",
+                "content": "ratios in which the substances combine, whereas the electro-",
+                "mathpix_content": " ratios in which the substances combine, whereas the electro",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 15,
+                "type": "text",
+                "content": "chemical equivalents are quantities of matter of a determinate",
+                "mathpix_content": "chemical equivalents are quantities of matter of a determinate",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 16,
+                "type": "text",
+                "content": "magnitude, depending on the definition of the unit of electricity.",
+                "mathpix_content": " magnitude, depending on the definition of the unit of electricity.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 17,
+                "type": "text",
+                "content": "Every electrolyte consists of two components, which, during",
+                "mathpix_content": "\n\nEvery electrolyte consists of two components, which, during",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 18,
+                "type": "text",
+                "content": "the electrolysis, appear where the current enters and leaves the",
+                "mathpix_content": " the electrolysis, appear where the current enters and leaves the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 19,
+                "type": "text",
+                "content": "electrolyte, and nowhere else. Hence, if we conceive a surface",
+                "mathpix_content": " electrolyte, and nowhere else. Hence, if we conceive a surface",
+                "font_size": 34,
+                "confidence": 0.99609375
+              },
+              {
+                "page": 411,
+                "line_number": 20,
+                "type": "text",
+                "content": "described within the substance of the electrolyte, the amount of",
+                "mathpix_content": " described within the substance of the electrolyte, the amount of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 21,
+                "type": "text",
+                "content": "electrolysis which takes place through this surface, as measured",
+                "mathpix_content": " electrolysis which takes place through this surface, as measured",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 22,
+                "type": "text",
+                "content": "by the electrochemical equivalents of the components transferred",
+                "mathpix_content": " by the electrochemical equivalents of the components transferred",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 23,
+                "type": "text",
+                "content": "across it in opposite directions, will be proportional to the total",
+                "mathpix_content": " across it in opposite directions, will be proportional to the total",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 24,
+                "type": "text",
+                "content": "electric current through the surface.",
+                "mathpix_content": " electric current through the surface.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 25,
+                "type": "text",
+                "content": "The actual transfer of the ions through the substance of the",
+                "mathpix_content": "\n\nThe actual transfer of the ions through the substance of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 26,
+                "type": "text",
+                "content": "electrolyte in opposite directions is therefore part of the pheno-",
+                "mathpix_content": " electrolyte in opposite directions is therefore part of the pheno",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 27,
+                "type": "text",
+                "content": "menon of the conduction of an electric current through an",
+                "mathpix_content": "menon of the conduction of an electric current through an",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 28,
+                "type": "text",
+                "content": "electrolyte. At every point of the electrolyte through which",
+                "mathpix_content": " electrolyte. At every point of the electrolyte through which",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 29,
+                "type": "text",
+                "content": "an electric current is passing there are also two opposite material",
+                "mathpix_content": " an electric current is passing there are also two opposite material",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 30,
+                "type": "text",
+                "content": "currents of the anion and the cation, which have the same lines",
+                "mathpix_content": " currents of the anion and the cation, which have the same lines",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 31,
+                "type": "text",
+                "content": "of flow with the electric current, and are proportional to it in",
+                "mathpix_content": " of flow with the electric current, and are proportional to it in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 32,
+                "type": "text",
+                "content": "magnitude.",
+                "mathpix_content": " magnitude.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 33,
+                "type": "text",
+                "content": "It is therefore extremely natural to suppose that the currents",
+                "mathpix_content": "\n\nIt is therefore extremely natural to suppose that the currents",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 34,
+                "type": "text",
+                "content": "of the ions are convection currents of electricity, and, in parti-",
+                "mathpix_content": " of the ions are convection currents of electricity, and, in parti",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 35,
+                "type": "text",
+                "content": "cular, that every molecule of the cation is charged with a certain",
+                "mathpix_content": "cular, that every molecule of the cation is charged with a certain",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 36,
+                "type": "text",
+                "content": "fixed quantity of positive electricity, which is the same for the",
+                "mathpix_content": " fixed quantity of positive electricity, which is the same for the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 37,
+                "type": "text",
+                "content": "molecules of all cations, and that every molecule of the anion is",
+                "mathpix_content": " molecules of all cations, and that every molecule of the anion is",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 38,
+                "type": "text",
+                "content": "charged with an equal quantity of negative electricty.",
+                "mathpix_content": " charged with an equal quantity of negative electricty.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 39,
+                "type": "text",
+                "content": "The opposite motion of the ions through the electrolyte would",
+                "mathpix_content": "\n\nThe opposite motion of the ions through the electrolyte would",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 40,
+                "type": "text",
+                "content": "then be a complete physical representation of the electric current.",
+                "mathpix_content": " then be a complete physical representation of the electric current.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 411,
+                "line_number": 41,
+                "type": "text",
+                "content": "We may compare this motion of the ions with the motion of",
+                "mathpix_content": " We may compare this motion of the ions with the motion of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 42,
+                "type": "text",
+                "content": "gases and liquids through each other during the process of",
+                "mathpix_content": " gases and liquids through each other during the process of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 411,
+                "line_number": 43,
+                "type": "text",
+                "content": "diffusion, there being this difference between the two processes,",
+                "mathpix_content": " diffusion, there being this difference between the two processes,",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

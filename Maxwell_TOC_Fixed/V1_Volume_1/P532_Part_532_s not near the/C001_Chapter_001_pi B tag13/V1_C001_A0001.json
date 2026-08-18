@@ -1,0 +1,291 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{\\pi} B \\tag{13}",
+  "title_safe": "pi B tag13",
+  "page_start": 335,
+  "page_end": 335,
+  "content": {
+    "raw_text": "\n--- Page 335 ---\n300\nCONJUGATE FUNCTIONS.\n[196.\nThe electricity on the part of this strip extending from $x_{1}^{\\prime}$ to\n$x_{2}{ }^{\\prime}$ is $\\frac{1}{4 \\pi}\\left(\\phi_{2}-\\phi_{1}\\right)$.\nHence from the origin to $x^{\\prime}=a$ the amount on one side of the\nmiddle plate is\n$$E=\\frac{1}{4 \\pi} \\log \\left(e^{\\frac{a}{b}}+\\sqrt{e^{\\frac{2 a}{b}}}-1\\right)$$\n(11)\nIf $a$ is large compared with $b$, this becomes\n$$\\begin{aligned}\nE & =\\frac{1}{4 \\pi} \\log 2 e^{\\frac{a}{b}} \\\\\n& =\\frac{a+b \\log _{e} 2}{4 \\pi b}\n\\end{aligned}$$\n(12)\nHence the quantity of electricity on the plane bounded by\nthe straight edge is greater than it would have been if the elec-\ntricity had been uniformly distributed over it with the same\ndensity that it has at a distance from the boundary, and it is\nequal to the quantity of electricity having the same uniform\nsurface-density, but extending to a breadth equal to $b \\log _{e} 2$\nbeyond the actual boundary of the plate.\nThis imaginary uniform distribution is indicated by the dotted\nstraight lines in Fig. XI. The vertical lines represent lines of\nforce, and the horizontal lines equipotential surfaces, on the\nhypothesis that the density is uniform over both planes, pro-\nduced to infinity in all directions.\n196.] Electrical condensers are sometimes formed of a plate\nplaced midway between two parallel plates extending con-\nsiderably beyond the intermediate one on all sides. If the\nradius of curvature of the boundary of the intermediate plate\nis great compared with the distance between the plates, we\nmay treat the boundary as approximately a straight line, and\ncalculate the capacity of the condenser by supposing the inter-\nmediate plate to have its area extended by a strip of uniform\nbreadth round its boundary, and assuming the surface-density\non the extended plate the same as it is in the parts not near the\nboundary.\nThus, if $S$ be the actual area of the plate, $L$ its circumference,\nand $B$ the distance between the large plates, we have\n$$b=\\frac{1}{\\pi} B$$\n(13)\n",
+    "mathpix_markdown": "\n--- Page 335 ---\n\n\nThe electricity on the part of this strip extending from $x_{1}^{\\prime}$ to\n $x_{2}{ }^{\\prime}$ is $\\frac{1}{4 \\pi}\\left(\\phi_{2}-\\phi_{1}\\right)$.\n\n\nHence from the origin to $x^{\\prime}=a$ the amount on one side of the\n middle plate is\n\n$$\\begin{equation*}\nE=\\frac{1}{4 \\pi} \\log \\left(e^{\\frac{a}{b}}+\\sqrt{e^{\\frac{2 a}{b}}}-1\\right) \\tag{11}\n\\end{equation*}$$\n\n\nIf $a$ is large compared with $b$, this becomes\n\n$$\\begin{align*}\nE & =\\frac{1}{4 \\pi} \\log 2 e^{\\frac{a}{b}} \\\\\n& =\\frac{a+b \\log _{e} 2}{4 \\pi b} \\tag{12}\n\\end{align*}$$\n\n\nHence the quantity of electricity on the plane bounded by\n the straight edge is greater than it would have been if the elec\ntricity had been uniformly distributed over it with the same\n density that it has at a distance from the boundary, and it is\n equal to the quantity of electricity having the same uniform\n surface-density, but extending to a breadth equal to $b \\log _{e} 2$\n beyond the actual boundary of the plate.\n\n\nThis imaginary uniform distribution is indicated by the dotted\n straight lines in Fig. XI. The vertical lines represent lines of\n force, and the horizontal lines equipotential surfaces, on the\n hypothesis that the density is uniform over both planes, pro\nduced to infinity in all directions.\n\n196.] Electrical condensers are sometimes formed of a plate\n placed midway between two parallel plates extending con\nsiderably beyond the intermediate one on all sides. If the\n radius of curvature of the boundary of the intermediate plate\n is great compared with the distance between the plates, we\n may treat the boundary as approximately a straight line, and\n calculate the capacity of the condenser by supposing the inter\nmediate plate to have its area extended by a strip of uniform\n breadth round its boundary, and assuming the surface-density\n on the extended plate the same as it is in the parts not near the\n boundary.\n\n\nThus, if $S$ be the actual area of the plate, $L$ its circumference,\n and $B$ the distance between the large plates, we have\n\n$$\\begin{equation*}\nb=\\frac{1}{\\pi} B \\tag{13}\n\\end{equation*}$$\n",
+    "structured_lines": [
+      {
+        "page": 335,
+        "line_number": 4,
+        "type": "text",
+        "content": "The electricity on the part of this strip extending from $x_{1}^{\\prime}$ to",
+        "mathpix_content": "\n\nThe electricity on the part of this strip extending from $x_{1}^{\\prime}$ to",
+        "font_size": 27,
+        "confidence": 0.98828125
+      },
+      {
+        "page": 335,
+        "line_number": 5,
+        "type": "text",
+        "content": "$x_{2}{ }^{\\prime}$ is $\\frac{1}{4 \\pi}\\left(\\phi_{2}-\\phi_{1}\\right)$.",
+        "mathpix_content": " $x_{2}{ }^{\\prime}$ is $\\frac{1}{4 \\pi}\\left(\\phi_{2}-\\phi_{1}\\right)$.",
+        "font_size": 27,
+        "confidence": 0.93896484375
+      },
+      {
+        "page": 335,
+        "line_number": 6,
+        "type": "text",
+        "content": "Hence from the origin to $x^{\\prime}=a$ the amount on one side of the",
+        "mathpix_content": "\n\nHence from the origin to $x^{\\prime}=a$ the amount on one side of the",
+        "font_size": 27,
+        "confidence": 0.995610237121582
+      },
+      {
+        "page": 335,
+        "line_number": 7,
+        "type": "text",
+        "content": "middle plate is",
+        "mathpix_content": " middle plate is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 11,
+        "type": "text",
+        "content": "If $a$ is large compared with $b$, this becomes",
+        "mathpix_content": "\n\nIf $a$ is large compared with $b$, this becomes",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 335,
+        "line_number": 16,
+        "type": "text",
+        "content": "Hence the quantity of electricity on the plane bounded by",
+        "mathpix_content": "\n\nHence the quantity of electricity on the plane bounded by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 17,
+        "type": "text",
+        "content": "the straight edge is greater than it would have been if the elec-",
+        "mathpix_content": " the straight edge is greater than it would have been if the elec",
+        "font_size": 27,
+        "confidence": 0.81298828125
+      },
+      {
+        "page": 335,
+        "line_number": 18,
+        "type": "text",
+        "content": "tricity had been uniformly distributed over it with the same",
+        "mathpix_content": "tricity had been uniformly distributed over it with the same",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 19,
+        "type": "text",
+        "content": "density that it has at a distance from the boundary, and it is",
+        "mathpix_content": " density that it has at a distance from the boundary, and it is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 20,
+        "type": "text",
+        "content": "equal to the quantity of electricity having the same uniform",
+        "mathpix_content": " equal to the quantity of electricity having the same uniform",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 21,
+        "type": "text",
+        "content": "surface-density, but extending to a breadth equal to $b \\log _{e} 2$",
+        "mathpix_content": " surface-density, but extending to a breadth equal to $b \\log _{e} 2$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 22,
+        "type": "text",
+        "content": "beyond the actual boundary of the plate.",
+        "mathpix_content": " beyond the actual boundary of the plate.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 23,
+        "type": "text",
+        "content": "This imaginary uniform distribution is indicated by the dotted",
+        "mathpix_content": "\n\nThis imaginary uniform distribution is indicated by the dotted",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 335,
+        "line_number": 24,
+        "type": "text",
+        "content": "straight lines in Fig. XI. The vertical lines represent lines of",
+        "mathpix_content": " straight lines in Fig. XI. The vertical lines represent lines of",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 335,
+        "line_number": 25,
+        "type": "text",
+        "content": "force, and the horizontal lines equipotential surfaces, on the",
+        "mathpix_content": " force, and the horizontal lines equipotential surfaces, on the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 26,
+        "type": "text",
+        "content": "hypothesis that the density is uniform over both planes, pro-",
+        "mathpix_content": " hypothesis that the density is uniform over both planes, pro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 27,
+        "type": "text",
+        "content": "duced to infinity in all directions.",
+        "mathpix_content": "duced to infinity in all directions.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 28,
+        "type": "text",
+        "content": "196.] Electrical condensers are sometimes formed of a plate",
+        "mathpix_content": "\n196.] Electrical condensers are sometimes formed of a plate",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 29,
+        "type": "text",
+        "content": "placed midway between two parallel plates extending con-",
+        "mathpix_content": " placed midway between two parallel plates extending con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 30,
+        "type": "text",
+        "content": "siderably beyond the intermediate one on all sides. If the",
+        "mathpix_content": "siderably beyond the intermediate one on all sides. If the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 31,
+        "type": "text",
+        "content": "radius of curvature of the boundary of the intermediate plate",
+        "mathpix_content": " radius of curvature of the boundary of the intermediate plate",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 32,
+        "type": "text",
+        "content": "is great compared with the distance between the plates, we",
+        "mathpix_content": " is great compared with the distance between the plates, we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 33,
+        "type": "text",
+        "content": "may treat the boundary as approximately a straight line, and",
+        "mathpix_content": " may treat the boundary as approximately a straight line, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 34,
+        "type": "text",
+        "content": "calculate the capacity of the condenser by supposing the inter-",
+        "mathpix_content": " calculate the capacity of the condenser by supposing the inter",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 35,
+        "type": "text",
+        "content": "mediate plate to have its area extended by a strip of uniform",
+        "mathpix_content": "mediate plate to have its area extended by a strip of uniform",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 36,
+        "type": "text",
+        "content": "breadth round its boundary, and assuming the surface-density",
+        "mathpix_content": " breadth round its boundary, and assuming the surface-density",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 37,
+        "type": "text",
+        "content": "on the extended plate the same as it is in the parts not near the",
+        "mathpix_content": " on the extended plate the same as it is in the parts not near the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 38,
+        "type": "text",
+        "content": "boundary.",
+        "mathpix_content": " boundary.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 39,
+        "type": "text",
+        "content": "Thus, if $S$ be the actual area of the plate, $L$ its circumference,",
+        "mathpix_content": "\n\nThus, if $S$ be the actual area of the plate, $L$ its circumference,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 335,
+        "line_number": 40,
+        "type": "text",
+        "content": "and $B$ the distance between the large plates, we have",
+        "mathpix_content": " and $B$ the distance between the large plates, we have",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

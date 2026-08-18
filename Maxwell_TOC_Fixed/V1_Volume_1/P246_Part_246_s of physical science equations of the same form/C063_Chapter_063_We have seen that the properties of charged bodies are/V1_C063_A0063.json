@@ -1,0 +1,291 @@
+{
+  "article_id": "article_63",
+  "article_number": 63,
+  "title_original": ".] We have seen that the properties of charged bodies are",
+  "title_safe": "We have seen that the properties of charged bodies are",
+  "page_start": 106,
+  "page_end": 106,
+  "content": {
+    "raw_text": "\n--- Page 106 ---\n\nCHAPTER II.\n\nELEMENTARY MATHEMATICAL THEORY OF STATICAL\nELECTRIOITY.\n\nDefinition of Electricity as a Mathematical Quantity.\n63.] We have seen that the properties of charged bodies are\nsuch that the charge of one body may be equal to that of an-\nother, or to the sum of the charges of two bodies, and that when\ntwo bodies are equally and oppositely charged they have no elec-\ntrical effect on external bodies when placed together within a\nclosed insulated conducting vessel. We may express all these\nresults in a concise and consistent manner by describing an\nelectrified body as charged with a certain quantity of electricity,\nwhich we may denote by $e$. When the charge is positive, that\nis, according to the usual convention, vitreous, $e$ will be a positive\nquantity. When the charge is negative or resinous, $e$ will be\nnegative, and the quantity - $e$ may be interpreted either as a\nnegative quantity of vitreous electricity or as a positive quantity\nof resinous electricity.\nThe effect of adding together two equal and opposite charges\nof electricity, $+e$ and $-e$, is to produce a state of no charge\nexpressed by zero. We may therefore regard a body not charged\nas virtually charged with equal and opposite charges of indefinite\nmagnitude, and a charged body as virtually charged with un-\nequal quantities of positive and negative electricity, the algebraic\nsum of these charges constituting the observed electrification.\nIt is manifest, however, that this way of regarding an electrified\nbody is entirely artificial, and may be compared to the concep-\ntion of the velocity of a body as compounded of two or more\ndifferent velocities, no one of which is the actual velocity of the\nbody.\n",
+    "mathpix_markdown": "\n--- Page 106 ---\n\n\n\\section*{CHAPTER II.}\n\n\n\\section*{ELEMENTARY MATHEMATICAL THEORY OF STATICAL\n ELECTRIOITY.}\n\n\n\\section*{Definition of Electricity as a Mathematical Quantity.}\n\n63.] We have seen that the properties of charged bodies are\n such that the charge of one body may be equal to that of an\nother, or to the sum of the charges of two bodies, and that when\n two bodies are equally and oppositely charged they have no elec\ntrical effect on external bodies when placed together within a\n closed insulated conducting vessel. We may express all these\n results in a concise and consistent manner by describing an\n electrified body as charged with a certain quantity of electricity,\n which we may denote by $e$. When the charge is positive, that\n is, according to the usual convention, vitreous, $e$ will be a positive\n quantity. When the charge is negative or resinous, $e$ will be\n negative, and the quantity - $e$ may be interpreted either as a\n negative quantity of vitreous electricity or as a positive quantity\n of resinous electricity.\n\n\nThe effect of adding together two equal and opposite charges\n of electricity, $+e$ and $-e$, is to produce a state of no charge\n expressed by zero. We may therefore regard a body not charged\n as virtually charged with equal and opposite charges of indefinite\n magnitude, and a charged body as virtually charged with un\nequal quantities of positive and negative electricity, the algebraic\n sum of these charges constituting the observed electrification.\n It is manifest, however, that this way of regarding an electrified\n body is entirely artificial, and may be compared to the concep\ntion of the velocity of a body as compounded of two or more\n different velocities, no one of which is the actual velocity of the\n body.\n",
+    "structured_lines": [
+      {
+        "page": 106,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER II.",
+        "mathpix_content": "\n\n\\section*{CHAPTER II.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 4,
+        "type": "text",
+        "content": "ELEMENTARY MATHEMATICAL THEORY OF STATICAL",
+        "mathpix_content": "\n\n\\section*{ELEMENTARY MATHEMATICAL THEORY OF STATICAL",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 5,
+        "type": "text",
+        "content": "ELECTRIOITY.",
+        "mathpix_content": " ELECTRIOITY.}",
+        "font_size": 21,
+        "confidence": 0.5385360717773438
+      },
+      {
+        "page": 106,
+        "line_number": 7,
+        "type": "text",
+        "content": "Definition of Electricity as a Mathematical Quantity.",
+        "mathpix_content": "\n\n\\section*{Definition of Electricity as a Mathematical Quantity.}",
+        "font_size": 34,
+        "confidence": 0.9598050328519321
+      },
+      {
+        "page": 106,
+        "line_number": 8,
+        "type": "text",
+        "content": "63.] We have seen that the properties of charged bodies are",
+        "mathpix_content": "\n63.] We have seen that the properties of charged bodies are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 9,
+        "type": "text",
+        "content": "such that the charge of one body may be equal to that of an-",
+        "mathpix_content": " such that the charge of one body may be equal to that of an",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 10,
+        "type": "text",
+        "content": "other, or to the sum of the charges of two bodies, and that when",
+        "mathpix_content": "other, or to the sum of the charges of two bodies, and that when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 11,
+        "type": "text",
+        "content": "two bodies are equally and oppositely charged they have no elec-",
+        "mathpix_content": " two bodies are equally and oppositely charged they have no elec",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 106,
+        "line_number": 12,
+        "type": "text",
+        "content": "trical effect on external bodies when placed together within a",
+        "mathpix_content": "trical effect on external bodies when placed together within a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 13,
+        "type": "text",
+        "content": "closed insulated conducting vessel. We may express all these",
+        "mathpix_content": " closed insulated conducting vessel. We may express all these",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 14,
+        "type": "text",
+        "content": "results in a concise and consistent manner by describing an",
+        "mathpix_content": " results in a concise and consistent manner by describing an",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 15,
+        "type": "text",
+        "content": "electrified body as charged with a certain quantity of electricity,",
+        "mathpix_content": " electrified body as charged with a certain quantity of electricity,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 106,
+        "line_number": 16,
+        "type": "text",
+        "content": "which we may denote by $e$. When the charge is positive, that",
+        "mathpix_content": " which we may denote by $e$. When the charge is positive, that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 17,
+        "type": "text",
+        "content": "is, according to the usual convention, vitreous, $e$ will be a positive",
+        "mathpix_content": " is, according to the usual convention, vitreous, $e$ will be a positive",
+        "font_size": 27,
+        "confidence": 0.993659496307373
+      },
+      {
+        "page": 106,
+        "line_number": 18,
+        "type": "text",
+        "content": "quantity. When the charge is negative or resinous, $e$ will be",
+        "mathpix_content": " quantity. When the charge is negative or resinous, $e$ will be",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 106,
+        "line_number": 19,
+        "type": "text",
+        "content": "negative, and the quantity - $e$ may be interpreted either as a",
+        "mathpix_content": " negative, and the quantity - $e$ may be interpreted either as a",
+        "font_size": 27,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 106,
+        "line_number": 20,
+        "type": "text",
+        "content": "negative quantity of vitreous electricity or as a positive quantity",
+        "mathpix_content": " negative quantity of vitreous electricity or as a positive quantity",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 106,
+        "line_number": 21,
+        "type": "text",
+        "content": "of resinous electricity.",
+        "mathpix_content": " of resinous electricity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 22,
+        "type": "text",
+        "content": "The effect of adding together two equal and opposite charges",
+        "mathpix_content": "\n\nThe effect of adding together two equal and opposite charges",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 23,
+        "type": "text",
+        "content": "of electricity, $+e$ and $-e$, is to produce a state of no charge",
+        "mathpix_content": " of electricity, $+e$ and $-e$, is to produce a state of no charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 24,
+        "type": "text",
+        "content": "expressed by zero. We may therefore regard a body not charged",
+        "mathpix_content": " expressed by zero. We may therefore regard a body not charged",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 25,
+        "type": "text",
+        "content": "as virtually charged with equal and opposite charges of indefinite",
+        "mathpix_content": " as virtually charged with equal and opposite charges of indefinite",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 26,
+        "type": "text",
+        "content": "magnitude, and a charged body as virtually charged with un-",
+        "mathpix_content": " magnitude, and a charged body as virtually charged with un",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 27,
+        "type": "text",
+        "content": "equal quantities of positive and negative electricity, the algebraic",
+        "mathpix_content": "equal quantities of positive and negative electricity, the algebraic",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 28,
+        "type": "text",
+        "content": "sum of these charges constituting the observed electrification.",
+        "mathpix_content": " sum of these charges constituting the observed electrification.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 106,
+        "line_number": 29,
+        "type": "text",
+        "content": "It is manifest, however, that this way of regarding an electrified",
+        "mathpix_content": " It is manifest, however, that this way of regarding an electrified",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 30,
+        "type": "text",
+        "content": "body is entirely artificial, and may be compared to the concep-",
+        "mathpix_content": " body is entirely artificial, and may be compared to the concep",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 31,
+        "type": "text",
+        "content": "tion of the velocity of a body as compounded of two or more",
+        "mathpix_content": "tion of the velocity of a body as compounded of two or more",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 32,
+        "type": "text",
+        "content": "different velocities, no one of which is the actual velocity of the",
+        "mathpix_content": " different velocities, no one of which is the actual velocity of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 106,
+        "line_number": 33,
+        "type": "text",
+        "content": "body.",
+        "mathpix_content": " body.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

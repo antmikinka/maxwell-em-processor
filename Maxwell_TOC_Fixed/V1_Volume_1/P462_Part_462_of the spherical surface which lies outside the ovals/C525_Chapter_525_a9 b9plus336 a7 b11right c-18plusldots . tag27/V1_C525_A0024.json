@@ -1,0 +1,20 @@
+{
+  "article_id": "article_24",
+  "article_number": 24,
+  "title_original": "a^{16} b^{3}+150 a^{13} b^{5}+120 a^{12} b^{6}+400 a^{11} b^{7}+192 a^{10} b^{8}\\right.$$",
+  "title_safe": "a16 b3plus150 a13 b5plus120 a12 b6plus400 a11 b7plus192 a10",
+  "page_start": 264,
+  "page_end": 263,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

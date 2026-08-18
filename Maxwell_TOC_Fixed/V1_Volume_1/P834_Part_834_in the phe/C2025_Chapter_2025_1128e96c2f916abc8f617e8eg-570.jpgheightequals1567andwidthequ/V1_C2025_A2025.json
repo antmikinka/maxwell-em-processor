@@ -1,0 +1,48 @@
+{
+  "article_id": "article_2025",
+  "article_number": 2025,
+  "title_original": "_11_28_e96c2f916abc8f617e8eg-570.jpg?height=1567&width=874&top_left_y=210&top_left_x=277}",
+  "title_safe": "1128e96c2f916abc8f617e8eg-570.jpgheightequals1567andwidthequ",
+  "page_start": 570,
+  "page_end": 572,
+  "content": {
+    "raw_text": "\n--- Page 570 ---\nClerk Maxwell's Electricity Vol.I.\n\nFIG. XIII.\nArt. 203\n\nLines of Force near a Grating.\nUraversiy Press, Oxford.\n\n--- Page 571 ---\n\n\n--- Page 572 ---\n\n",
+    "mathpix_markdown": "\n--- Page 570 ---\n\n\n\\begin{figure}\n\\captionsetup{labelformat=empty}\n\\caption{FIG. XIII.\nArt. 203}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-570.jpg?height=1567&width=874&top_left_y=210&top_left_x=277}\n\\end{figure}\n\n\nLines of Force near a Grating.\n\n--- Page 571 ---\n\n\n--- Page 572 ---\n\n",
+    "structured_lines": [
+      {
+        "page": 570,
+        "line_number": 3,
+        "type": "text",
+        "content": "FIG. XIII.",
+        "mathpix_content": "",
+        "font_size": 26,
+        "confidence": 0.9941475370433182
+      },
+      {
+        "page": 570,
+        "line_number": 4,
+        "type": "text",
+        "content": "Art. 203",
+        "mathpix_content": "",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 570,
+        "line_number": 6,
+        "type": "text",
+        "content": "Lines of Force near a Grating.",
+        "mathpix_content": "\n\nLines of Force near a Grating.",
+        "font_size": 33,
+        "confidence": 0.8656622841954231
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

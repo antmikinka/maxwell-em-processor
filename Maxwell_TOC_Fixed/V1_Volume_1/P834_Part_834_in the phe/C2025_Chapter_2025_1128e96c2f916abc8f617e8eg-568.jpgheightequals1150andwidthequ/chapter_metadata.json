@@ -1,0 +1,139 @@
+{
+  "chapter_id": "chapter_59",
+  "chapter_number": 2025,
+  "title": "_11_28_e96c2f916abc8f617e8eg-568.jpg?height=1150&width=1031&top_left_y=483&top_left_x=133}",
+  "page_start": 568,
+  "page_end": 569,
+  "articles": [
+    {
+      "article_id": "article_202",
+      "article_number": 202,
+      "title_original": "Lines of Force between two Plates",
+      "title_safe": "Lines of Force between two Plates",
+      "page_start": 568,
+      "page_end": 567,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_202",
+      "article_number": 202,
+      "title_original": "\\begin{figure}",
+      "title_safe": "beginfigure",
+      "page_start": 568,
+      "page_end": 567,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_568",
+      "article_number": 568,
+      "title_original": "jpg?height=1150&width=1031&top_left_y=483&top_left_x=133}",
+      "title_safe": "jpgheightequals1150andwidthequals1031andtopleftyequals483and",
+      "page_start": 568,
+      "page_end": 567,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_202",
+      "article_number": 202,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 568,
+      "page_end": 567,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_202",
+      "article_number": 202,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 568,
+      "page_end": 567,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2025",
+      "article_number": 2025,
+      "title_original": "_11_28_e96c2f916abc8f617e8eg-568.jpg?height=1150&width=1031&top_left_y=483&top_left_x=133}",
+      "title_safe": "1128e96c2f916abc8f617e8eg-568.jpgheightequals1150andwidthequ",
+      "page_start": 568,
+      "page_end": 569,
+      "content": {
+        "raw_text": "\n--- Page 568 ---\nClerk Maxwell's Eleatricaty, Vol I\nFIG XII.\nArt 202.\n\nLines of Force between two Plates\n\n\n--- Page 569 ---\n\n",
+        "mathpix_markdown": "\n--- Page 568 ---\n\n\nArt 202.\n\n\n\\begin{figure}\n\\captionsetup{labelformat=empty}\n\\caption{FIG XII.}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-568.jpg?height=1150&width=1031&top_left_y=483&top_left_x=133}\n\\end{figure}\n\n\nLines of Force between two Plates\n\n--- Page 569 ---\n\n",
+        "structured_lines": [
+          {
+            "page": 568,
+            "line_number": 3,
+            "type": "text",
+            "content": "Art 202.",
+            "mathpix_content": "\n\nArt 202.",
+            "font_size": 26,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "\\quad o-2$$",
+  "title_safe": "quad o-2",
+  "page_start": 560,
+  "page_end": 561,
+  "content": {
+    "raw_text": "\n--- Page 560 ---\nClerk Maxwell's Electracty Vol.I\nFIG.VII\nArt. 143\n\nSpherical Harmonic of the fourth order\n$$n-4 \\quad o-2$$\nUnwersuty Press, Oxford\n\n--- Page 561 ---\n\"\n",
+    "mathpix_markdown": "\n--- Page 560 ---\n\n\nFIG.VII\n\nArt. 143\n\n![](https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-560.jpg?height=1060&width=1053&top_left_y=459&top_left_x=117)\n\n\nSpherical Harmonic of the fourth order\n\n$$n-4 \\quad o-2$$\n\n--- Page 561 ---\n\n\"\n",
+    "structured_lines": [
+      {
+        "page": 560,
+        "line_number": 2,
+        "type": "text",
+        "content": "FIG.VII",
+        "mathpix_content": "\n\nFIG.VII",
+        "font_size": 21,
+        "confidence": 0.9956088066101074
+      },
+      {
+        "page": 560,
+        "line_number": 3,
+        "type": "text",
+        "content": "Art. 143",
+        "mathpix_content": "\nArt. 143",
+        "font_size": 21,
+        "confidence": 0.95703125
+      },
+      {
+        "page": 560,
+        "line_number": 5,
+        "type": "text",
+        "content": "Spherical Harmonic of the fourth order",
+        "mathpix_content": "\n\nSpherical Harmonic of the fourth order",
+        "font_size": 33,
+        "confidence": 0.9970722198486328
+      },
+      {
+        "page": 561,
+        "line_number": 1,
+        "type": "text",
+        "content": "\"",
+        "mathpix_content": "\n\"",
+        "font_size": 80,
+        "confidence": 0.3354455642402172
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

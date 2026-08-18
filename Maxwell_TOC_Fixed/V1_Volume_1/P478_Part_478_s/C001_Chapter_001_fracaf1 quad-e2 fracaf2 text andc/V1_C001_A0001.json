@@ -1,0 +1,291 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "} \\frac{a}{f_{1}}, \\quad-e_{2} \\frac{a}{f_{2}}, \\text { \\&c. }$$",
+  "title_safe": "fracaf1 quad-e2 fracaf2 text andc",
+  "page_start": 284,
+  "page_end": 284,
+  "content": {
+    "raw_text": "\n--- Page 284 ---\n159.]\nDISTRIBUTION OF ELECTRICITY.\n249\naction of a distribution of electricity on a spherical surface, the\nsurface-density being inversely as the cube of the distance from\na point $A$ either without or within the sphere.\nLet the density be given by the equation\n$$\\sigma=\\frac{C}{A \\overline{P^{3}}}$$\n(7)\nwhere $C$ is some constant quantity, then by equation (6)\n$$C=-e \\frac{A D \\cdot A d}{4 \\pi a}$$\n(8)\nThe action of this superficial distribution on any point\nseparated from $A$ by the surface is equal to that of a quantity\nof electricity $-e$, or\n$$\\frac{4 \\pi a C}{A D \\cdot A d}$$\nconcentrated at $A$.\nIts action on any point on the same side of the surface with $A$\nis equal to that of a quantity of electricity\n$$\\frac{4 \\pi C a^{2}}{f . A D . A d}$$\nconcentrated at $B$ the image of $A$.\nThe whole quantity of electricity on the sphere is equal to the\nfirst of these quantities if $A$ is within the sphere, and to the\nsecond if $A$ is without the sphere.\nThese propositions were established by Sir W. Thomson in his\noriginal geometrical investigations with reference to the distribu-\ntion of electricity on spherical conductors, to which the student\nought to refer.\n159.] If a system in which the distribution of electricity is\nknown is placed in the neighbourhood of a conducting sphere of\nradius $a$, which is maintained at potential zero by connection\nwith the earth, then the electrifications due to the several parts\nof the system will be superposed.\nLet $A_{1}, A_{2}$, \\&c. be the electrified points of the system, $f_{1}, f_{2}$, \\&c.\ntheir distances from the centre of the sphere, $e_{1}, e_{2}$, \\&c. their\ncharges, then the images $B_{1}, B_{2}$, \\&c. of these points will be in the\nsame radii as the points themselves, and at distances $\\frac{a^{2}}{f_{1}}, \\frac{a^{2}}{f_{2}}$, \\&c.\nfrom the centre of the sphere, and their charges will be\n$$-e_{1} \\frac{a}{f_{1}}, \\quad-e_{2} \\frac{a}{f_{2}}, \\text { \\&c. }$$\nThe potential on the outside of the sphere due to the superficial\n",
+    "mathpix_markdown": "\n--- Page 284 ---\n\naction of a distribution of electricity on a spherical surface, the\n surface-density being inversely as the cube of the distance from\n a point $A$ either without or within the sphere.\n\n\nLet the density be given by the equation\n\n$$\\begin{equation*}\n\\sigma=\\frac{C}{A \\overline{P^{3}}} \\tag{7}\n\\end{equation*}$$\n\nwhere $C$ is some constant quantity, then by equation (6)\n\n$$\\begin{equation*}\nC=-e \\frac{A D \\cdot A d}{4 \\pi a} \\tag{8}\n\\end{equation*}$$\n\n\nThe action of this superficial distribution on any point\n separated from $A$ by the surface is equal to that of a quantity\n of electricity $-e$, or\n\n$$\\frac{4 \\pi a C}{A D \\cdot A d}$$\n\nconcentrated at $A$.\n\nIts action on any point on the same side of the surface with $A$\n is equal to that of a quantity of electricity\n\n$$\\frac{4 \\pi C a^{2}}{f . A D . A d}$$\n\nconcentrated at $B$ the image of $A$.\n\nThe whole quantity of electricity on the sphere is equal to the\n first of these quantities if $A$ is within the sphere, and to the\n second if $A$ is without the sphere.\n\n\nThese propositions were established by Sir W. Thomson in his\n original geometrical investigations with reference to the distribu\ntion of electricity on spherical conductors, to which the student\n ought to refer.\n\n159.] If a system in which the distribution of electricity is\n known is placed in the neighbourhood of a conducting sphere of\n radius $a$, which is maintained at potential zero by connection\n with the earth, then the electrifications due to the several parts\n of the system will be superposed.\n\n\nLet $A_{1}, A_{2}$, \\&c. be the electrified points of the system, $f_{1}, f_{2}$, \\&c.\n their distances from the centre of the sphere, $e_{1}, e_{2}$, \\&c. their\n charges, then the images $B_{1}, B_{2}$, \\&c. of these points will be in the\n same radii as the points themselves, and at distances $\\frac{a^{2}}{f_{1}}, \\frac{a^{2}}{f_{2}}$, \\&c.\n from the centre of the sphere, and their charges will be\n\n$$-e_{1} \\frac{a}{f_{1}}, \\quad-e_{2} \\frac{a}{f_{2}}, \\text { \\&c. }$$\n\n\nThe potential on the outside of the sphere due to the superficial\n",
+    "structured_lines": [
+      {
+        "page": 284,
+        "line_number": 4,
+        "type": "text",
+        "content": "action of a distribution of electricity on a spherical surface, the",
+        "mathpix_content": "\naction of a distribution of electricity on a spherical surface, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 5,
+        "type": "text",
+        "content": "surface-density being inversely as the cube of the distance from",
+        "mathpix_content": " surface-density being inversely as the cube of the distance from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 6,
+        "type": "text",
+        "content": "a point $A$ either without or within the sphere.",
+        "mathpix_content": " a point $A$ either without or within the sphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 7,
+        "type": "text",
+        "content": "Let the density be given by the equation",
+        "mathpix_content": "\n\nLet the density be given by the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 11,
+        "type": "text",
+        "content": "where $C$ is some constant quantity, then by equation (6)",
+        "mathpix_content": "\nwhere $C$ is some constant quantity, then by equation (6)",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 15,
+        "type": "text",
+        "content": "The action of this superficial distribution on any point",
+        "mathpix_content": "\n\nThe action of this superficial distribution on any point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 16,
+        "type": "text",
+        "content": "separated from $A$ by the surface is equal to that of a quantity",
+        "mathpix_content": " separated from $A$ by the surface is equal to that of a quantity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 17,
+        "type": "text",
+        "content": "of electricity $-e$, or",
+        "mathpix_content": " of electricity $-e$, or",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 284,
+        "line_number": 20,
+        "type": "text",
+        "content": "concentrated at $A$.",
+        "mathpix_content": "\nconcentrated at $A$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 21,
+        "type": "text",
+        "content": "Its action on any point on the same side of the surface with $A$",
+        "mathpix_content": "\nIts action on any point on the same side of the surface with $A$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 22,
+        "type": "text",
+        "content": "is equal to that of a quantity of electricity",
+        "mathpix_content": " is equal to that of a quantity of electricity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 25,
+        "type": "text",
+        "content": "concentrated at $B$ the image of $A$.",
+        "mathpix_content": "\nconcentrated at $B$ the image of $A$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 26,
+        "type": "text",
+        "content": "The whole quantity of electricity on the sphere is equal to the",
+        "mathpix_content": "\nThe whole quantity of electricity on the sphere is equal to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 27,
+        "type": "text",
+        "content": "first of these quantities if $A$ is within the sphere, and to the",
+        "mathpix_content": " first of these quantities if $A$ is within the sphere, and to the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 284,
+        "line_number": 28,
+        "type": "text",
+        "content": "second if $A$ is without the sphere.",
+        "mathpix_content": " second if $A$ is without the sphere.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 284,
+        "line_number": 29,
+        "type": "text",
+        "content": "These propositions were established by Sir W. Thomson in his",
+        "mathpix_content": "\n\nThese propositions were established by Sir W. Thomson in his",
+        "font_size": 27,
+        "confidence": 0.99365234375
+      },
+      {
+        "page": 284,
+        "line_number": 30,
+        "type": "text",
+        "content": "original geometrical investigations with reference to the distribu-",
+        "mathpix_content": " original geometrical investigations with reference to the distribu",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 284,
+        "line_number": 31,
+        "type": "text",
+        "content": "tion of electricity on spherical conductors, to which the student",
+        "mathpix_content": "tion of electricity on spherical conductors, to which the student",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 32,
+        "type": "text",
+        "content": "ought to refer.",
+        "mathpix_content": " ought to refer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 33,
+        "type": "text",
+        "content": "159.] If a system in which the distribution of electricity is",
+        "mathpix_content": "\n159.] If a system in which the distribution of electricity is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 34,
+        "type": "text",
+        "content": "known is placed in the neighbourhood of a conducting sphere of",
+        "mathpix_content": " known is placed in the neighbourhood of a conducting sphere of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 35,
+        "type": "text",
+        "content": "radius $a$, which is maintained at potential zero by connection",
+        "mathpix_content": " radius $a$, which is maintained at potential zero by connection",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 284,
+        "line_number": 36,
+        "type": "text",
+        "content": "with the earth, then the electrifications due to the several parts",
+        "mathpix_content": " with the earth, then the electrifications due to the several parts",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 37,
+        "type": "text",
+        "content": "of the system will be superposed.",
+        "mathpix_content": " of the system will be superposed.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 38,
+        "type": "text",
+        "content": "Let $A_{1}, A_{2}$, \\&c. be the electrified points of the system, $f_{1}, f_{2}$, \\&c.",
+        "mathpix_content": "\n\nLet $A_{1}, A_{2}$, \\&c. be the electrified points of the system, $f_{1}, f_{2}$, \\&c.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 39,
+        "type": "text",
+        "content": "their distances from the centre of the sphere, $e_{1}, e_{2}$, \\&c. their",
+        "mathpix_content": " their distances from the centre of the sphere, $e_{1}, e_{2}$, \\&c. their",
+        "font_size": 27,
+        "confidence": 0.989750862121582
+      },
+      {
+        "page": 284,
+        "line_number": 40,
+        "type": "text",
+        "content": "charges, then the images $B_{1}, B_{2}$, \\&c. of these points will be in the",
+        "mathpix_content": " charges, then the images $B_{1}, B_{2}$, \\&c. of these points will be in the",
+        "font_size": 27,
+        "confidence": 0.9936552047729492
+      },
+      {
+        "page": 284,
+        "line_number": 41,
+        "type": "text",
+        "content": "same radii as the points themselves, and at distances $\\frac{a^{2}}{f_{1}}, \\frac{a^{2}}{f_{2}}$, \\&c.",
+        "mathpix_content": " same radii as the points themselves, and at distances $\\frac{a^{2}}{f_{1}}, \\frac{a^{2}}{f_{2}}$, \\&c.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 42,
+        "type": "text",
+        "content": "from the centre of the sphere, and their charges will be",
+        "mathpix_content": " from the centre of the sphere, and their charges will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 284,
+        "line_number": 45,
+        "type": "text",
+        "content": "The potential on the outside of the sphere due to the superficial",
+        "mathpix_content": "\n\nThe potential on the outside of the sphere due to the superficial",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

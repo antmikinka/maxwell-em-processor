@@ -1,0 +1,1626 @@
+{
+  "part_id": "part_512",
+  "part_number": 512,
+  "title": "of the field bounded by two planes perpendicular to the axis of $z$",
+  "page_start": 319,
+  "page_end": 320,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 182,
+      "title": "] The number of independent cases in which the problem",
+      "page_start": 319,
+      "page_end": 318,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0 .$$",
+      "page_start": 319,
+      "page_end": 318,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 182,
+      "title": "] The number of independent cases in which the problem",
+      "page_start": 319,
+      "page_end": 318,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0 .$$",
+      "page_start": 319,
+      "page_end": 319,
+      "articles": [
+        {
+          "article_id": "article_182",
+          "article_number": 182,
+          "title_original": "] The number of independent cases in which the problem",
+          "title_safe": "The number of independent cases in which the problem",
+          "page_start": 319,
+          "page_end": 318,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_182",
+          "article_number": 182,
+          "title_original": "] The number of independent cases in which the problem",
+          "title_safe": "The number of independent cases in which the problem",
+          "page_start": 319,
+          "page_end": 318,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_182",
+          "article_number": 182,
+          "title_original": ".] The number of independent cases in which the problem",
+          "title_safe": "The number of independent cases in which the problem",
+          "page_start": 319,
+          "page_end": 318,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0 .$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plus4 pi rhoequals0",
+          "page_start": 319,
+          "page_end": 318,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_182",
+          "article_number": 182,
+          "title_original": ".] The number of independent cases in which the problem",
+          "title_safe": "The number of independent cases in which the problem",
+          "page_start": 319,
+          "page_end": 318,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0 .$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plus4 pi rhoequals0",
+          "page_start": 319,
+          "page_end": 319,
+          "content": {
+            "raw_text": "\n--- Page 319 ---\n\nCHAPTER XII.\n\nTHEORY OF CONJUGATE FUNCTIONS IN TWO DIMENSIONS.\n182.] The number of independent cases in which the problem\nof electrical equilibrium has been solved is very small. The\nmethod of spherical harmonics has been employed for spherical\nconductors, and the methods of electrical images and of inversion\nane still more powerful in the cases to which they can be applied.\nThe case of surfaces of the second degree is the only one, as far\nas I know, in which both the equipotential surfaces and the lines\nof force are known when the lines of force are not plane curves.\nBut there is an important class of problems in the theory of\nelectrical equilibrium, and in that of the conduction of currents,\nin which we have to consider space of two dimensions only.\nFor instance, if throughout the part of the electric field under\nconsideration, and for a considerable distance beyond it, the\nsurfaces of all the conductors are generated by the motion of\nstraight lines parallel to the axis of $z$, and if the part of the\nfield where this ceases to be the case is so far from the part con-\nsidered that the electrical action of the distant part of the field\nmay be neglected, then the electricity will be uniformly dis-\ntributed along each generating line, and if we consider a part\nof the field bounded by two planes perpendicular to the axis of $z$\nand at distance unity, the potential and the distributions of\nelectricity will be functions of $x$ and $y$ only.\nIf $\\rho d x d y$ denotes the quantity of electricity in an element\nwhose base is $d x d y$ and height unity, and $\\sigma d z$ the quantity on an\nelement of area whose base is the linear element $d s$ and height\nunity, then the equation of Poisson may be written\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0 .$$\n",
+            "mathpix_markdown": "\n--- Page 319 ---\n\n\n\\section*{CHAPTER XII.}\n\n\n\\section*{THEORY OF CONJUGATE FUNCTIONS IN TWO DIMENSIONS.}\n\n182.] The number of independent cases in which the problem\n of electrical equilibrium has been solved is very small. The\n method of spherical harmonics has been employed for spherical\n conductors, and the methods of electrical images and of inversion\n ane still more powerful in the cases to which they can be applied.\n The case of surfaces of the second degree is the only one, as far\n as I know, in which both the equipotential surfaces and the lines\n of force are known when the lines of force are not plane curves.\n\n\nBut there is an important class of problems in the theory of\n electrical equilibrium, and in that of the conduction of currents,\n in which we have to consider space of two dimensions only.\n\n\nFor instance, if throughout the part of the electric field under\n consideration, and for a considerable distance beyond it, the\n surfaces of all the conductors are generated by the motion of\n straight lines parallel to the axis of $z$, and if the part of the\n field where this ceases to be the case is so far from the part con\nsidered that the electrical action of the distant part of the field\n may be neglected, then the electricity will be uniformly dis\ntributed along each generating line, and if we consider a part\n of the field bounded by two planes perpendicular to the axis of $z$\n and at distance unity, the potential and the distributions of\n electricity will be functions of $x$ and $y$ only.\n\n\nIf $\\rho d x d y$ denotes the quantity of electricity in an element\n whose base is $d x d y$ and height unity, and $\\sigma d z$ the quantity on an\n element of area whose base is the linear element $d s$ and height\n unity, then the equation of Poisson may be written\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+4 \\pi \\rho=0 .$$\n",
+            "structured_lines": [
+              {
+                "page": 319,
+                "line_number": 2,
+                "type": "text",
+                "content": "CHAPTER XII.",
+                "mathpix_content": "\n\n\\section*{CHAPTER XII.}",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 319,
+                "line_number": 4,
+                "type": "text",
+                "content": "THEORY OF CONJUGATE FUNCTIONS IN TWO DIMENSIONS.",
+                "mathpix_content": "\n\n\\section*{THEORY OF CONJUGATE FUNCTIONS IN TWO DIMENSIONS.}",
+                "font_size": 21,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 5,
+                "type": "text",
+                "content": "182.] The number of independent cases in which the problem",
+                "mathpix_content": "\n182.] The number of independent cases in which the problem",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 319,
+                "line_number": 6,
+                "type": "text",
+                "content": "of electrical equilibrium has been solved is very small. The",
+                "mathpix_content": " of electrical equilibrium has been solved is very small. The",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 7,
+                "type": "text",
+                "content": "method of spherical harmonics has been employed for spherical",
+                "mathpix_content": " method of spherical harmonics has been employed for spherical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 8,
+                "type": "text",
+                "content": "conductors, and the methods of electrical images and of inversion",
+                "mathpix_content": " conductors, and the methods of electrical images and of inversion",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 9,
+                "type": "text",
+                "content": "ane still more powerful in the cases to which they can be applied.",
+                "mathpix_content": " ane still more powerful in the cases to which they can be applied.",
+                "font_size": 27,
+                "confidence": 0.7119140625
+              },
+              {
+                "page": 319,
+                "line_number": 10,
+                "type": "text",
+                "content": "The case of surfaces of the second degree is the only one, as far",
+                "mathpix_content": " The case of surfaces of the second degree is the only one, as far",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 11,
+                "type": "text",
+                "content": "as I know, in which both the equipotential surfaces and the lines",
+                "mathpix_content": " as I know, in which both the equipotential surfaces and the lines",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 12,
+                "type": "text",
+                "content": "of force are known when the lines of force are not plane curves.",
+                "mathpix_content": " of force are known when the lines of force are not plane curves.",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 319,
+                "line_number": 13,
+                "type": "text",
+                "content": "But there is an important class of problems in the theory of",
+                "mathpix_content": "\n\nBut there is an important class of problems in the theory of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 14,
+                "type": "text",
+                "content": "electrical equilibrium, and in that of the conduction of currents,",
+                "mathpix_content": " electrical equilibrium, and in that of the conduction of currents,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 15,
+                "type": "text",
+                "content": "in which we have to consider space of two dimensions only.",
+                "mathpix_content": " in which we have to consider space of two dimensions only.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 16,
+                "type": "text",
+                "content": "For instance, if throughout the part of the electric field under",
+                "mathpix_content": "\n\nFor instance, if throughout the part of the electric field under",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 17,
+                "type": "text",
+                "content": "consideration, and for a considerable distance beyond it, the",
+                "mathpix_content": " consideration, and for a considerable distance beyond it, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 18,
+                "type": "text",
+                "content": "surfaces of all the conductors are generated by the motion of",
+                "mathpix_content": " surfaces of all the conductors are generated by the motion of",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 319,
+                "line_number": 19,
+                "type": "text",
+                "content": "straight lines parallel to the axis of $z$, and if the part of the",
+                "mathpix_content": " straight lines parallel to the axis of $z$, and if the part of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 20,
+                "type": "text",
+                "content": "field where this ceases to be the case is so far from the part con-",
+                "mathpix_content": " field where this ceases to be the case is so far from the part con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 21,
+                "type": "text",
+                "content": "sidered that the electrical action of the distant part of the field",
+                "mathpix_content": "sidered that the electrical action of the distant part of the field",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 22,
+                "type": "text",
+                "content": "may be neglected, then the electricity will be uniformly dis-",
+                "mathpix_content": " may be neglected, then the electricity will be uniformly dis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 23,
+                "type": "text",
+                "content": "tributed along each generating line, and if we consider a part",
+                "mathpix_content": "tributed along each generating line, and if we consider a part",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 24,
+                "type": "text",
+                "content": "of the field bounded by two planes perpendicular to the axis of $z$",
+                "mathpix_content": " of the field bounded by two planes perpendicular to the axis of $z$",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 319,
+                "line_number": 25,
+                "type": "text",
+                "content": "and at distance unity, the potential and the distributions of",
+                "mathpix_content": " and at distance unity, the potential and the distributions of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 26,
+                "type": "text",
+                "content": "electricity will be functions of $x$ and $y$ only.",
+                "mathpix_content": " electricity will be functions of $x$ and $y$ only.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 27,
+                "type": "text",
+                "content": "If $\\rho d x d y$ denotes the quantity of electricity in an element",
+                "mathpix_content": "\n\nIf $\\rho d x d y$ denotes the quantity of electricity in an element",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 28,
+                "type": "text",
+                "content": "whose base is $d x d y$ and height unity, and $\\sigma d z$ the quantity on an",
+                "mathpix_content": " whose base is $d x d y$ and height unity, and $\\sigma d z$ the quantity on an",
+                "font_size": 27,
+                "confidence": 0.40673828125
+              },
+              {
+                "page": 319,
+                "line_number": 29,
+                "type": "text",
+                "content": "element of area whose base is the linear element $d s$ and height",
+                "mathpix_content": " element of area whose base is the linear element $d s$ and height",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 319,
+                "line_number": 30,
+                "type": "text",
+                "content": "unity, then the equation of Poisson may be written",
+                "mathpix_content": " unity, then the equation of Poisson may be written",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 285,
+      "title": "When there is no free electricity, this is reduced to the equa-",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 .$$",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 1,
+      "title": "}, C_{2}$, \\&c. being given, to find the form of a function, $V$,",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": "}, V_{2}$, \\&c. re-",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 190,
+      "title": "is applicable to this case, and is much more",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 183,
+      "title": "] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 1,
+      "title": "} \\beta$ is a function of $x+\\sqrt{-1} y$.",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 0,
+      "title": "; \\\\",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 2,
+      "title": "} a}{d x^{2}}+\\frac{d^{2} a}{d y^{2}}=0, \\quad \\frac{d^{2} \\beta}{d x^{2}}+\\frac{d^{2} \\beta}{d y^{2}}=0 .",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 1,
+      "title": ")",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 2,
+      "title": ")",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 2,
+      "title": "}+\\left.\\overline{d a}\\right|^{2}=\\left.\\overline{d y}\\right|^{2}=\\left.\\frac{\\overline{d \\beta}}{d x}\\right|^{2}+\\overline{d \\beta^{2}}+\\overline{d y}=R^{2}$$",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 3,
+      "title": ")",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "}$ is the inter-",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 2,
+      "title": "}$ the intercept of $a$ between the curves ( $\\beta$ ) and",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 1,
+      "title": "}}{d a}=\\frac{d s_{2}}{d \\beta}=\\frac{1}{R},$$",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 4,
+      "title": ")",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 0,
+      "title": "}+k a$, where $k$ is some con-",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 .$$",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 1,
+      "title": "}, C_{2}$, \\&c. being given, to find the form of a function, $V$,",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 1,
+      "title": "}, V_{2}$, \\&c. re",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 190,
+      "title": "is applicable to this case, and is much more",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 183,
+      "title": "] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 1,
+      "title": "} \\beta$ is a function of $x+\\sqrt{-1} y$.",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 0,
+      "title": ";  \\tag{1}\\\\",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 2,
+      "title": "} a}{d x^{2}}+\\frac{d^{2} a}{d y^{2}}=0, \\quad \\frac{d^{2} \\beta}{d x^{2}}+\\frac{d^{2} \\beta}{d y^{2}}=0 . \\tag{2}",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": "}+\\left.\\overline{d a}\\right|^{2}=\\left.\\overline{d y}\\right|^{2}=\\left.\\frac{\\overline{d \\beta}}{d x}\\right|^{2}+\\overline{d \\beta^{2}}+\\overline{d y}=R^{2} \\tag{3}",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 1,
+      "title": "}$ is the inter",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 2,
+      "title": "}$ the intercept of $a$ between the curves ( $\\beta$ ) and",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 1,
+      "title": "}}{d a}=\\frac{d s_{2}}{d \\beta}=\\frac{1}{R}, \\tag{4}",
+      "page_start": 320,
+      "page_end": 319,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 0,
+      "title": "}+k a$, where $k$ is some con",
+      "page_start": 320,
+      "page_end": 320,
+      "articles": [
+        {
+          "article_id": "article_190",
+          "article_number": 190,
+          "title_original": "is applicable to this case, and is much more",
+          "title_safe": "is applicable to this case and is much more",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_190",
+          "article_number": 190,
+          "title_original": "is applicable to this case, and is much more",
+          "title_safe": "is applicable to this case and is much more",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_183",
+          "article_number": 183,
+          "title_original": "] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+          "title_safe": "Two quantities alpha and beta are said to be conjugate funct",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_183",
+          "article_number": 183,
+          "title_original": "] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+          "title_safe": "Two quantities alpha and beta are said to be conjugate funct",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_285",
+          "article_number": 285,
+          "title_original": "When there is no free electricity, this is reduced to the equa-",
+          "title_safe": "When there is no free electricity this is reduced to the equ",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 .$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2equals0",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, C_{2}$, \\&c. being given, to find the form of a function, $V$,",
+          "title_safe": "C2 andc. being given to find the form of a function V",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, V_{2}$, \\&c. re-",
+          "title_safe": "V2 andc. re",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_190",
+          "article_number": 190,
+          "title_original": "is applicable to this case, and is much more",
+          "title_safe": "is applicable to this case and is much more",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_183",
+          "article_number": 183,
+          "title_original": ".] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+          "title_safe": "Two quantities alpha and beta are said to be conjugate fun",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\beta$ is a function of $x+\\sqrt{-1} y$.",
+          "title_safe": "beta is a function of xplussqrt-1 y",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "; \\\\",
+          "title_safe": "Article",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} a}{d x^{2}}+\\frac{d^{2} a}{d y^{2}}=0, \\quad \\frac{d^{2} \\beta}{d x^{2}}+\\frac{d^{2} \\beta}{d y^{2}}=0 .",
+          "title_safe": "ad x2plusfracd2 ad y2equals0 quad fracd2 betad x2plusfracd2",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+\\left.\\overline{d a}\\right|^{2}=\\left.\\overline{d y}\\right|^{2}=\\left.\\frac{\\overline{d \\beta}}{d x}\\right|^{2}+\\overline{d \\beta^{2}}+\\overline{d y}=R^{2}$$",
+          "title_safe": "plusleft.overlined arightPIPE2equalsleft.overlined yrightPIP",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ is the inter-",
+          "title_safe": "is the inter",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ the intercept of $a$ between the curves ( $\\beta$ ) and",
+          "title_safe": "the intercept of a between the curves beta and",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{d a}=\\frac{d s_{2}}{d \\beta}=\\frac{1}{R},$$",
+          "title_safe": "d aequalsfracd s2d betaequalsfrac1R",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}+k a$, where $k$ is some con-",
+          "title_safe": "plusk a where k is some con",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 .$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2equals0",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, C_{2}$, \\&c. being given, to find the form of a function, $V$,",
+          "title_safe": "C2 andc. being given to find the form of a function V",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, V_{2}$, \\&c. re",
+          "title_safe": "V2 andc. re",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_190",
+          "article_number": 190,
+          "title_original": "is applicable to this case, and is much more",
+          "title_safe": "is applicable to this case and is much more",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_183",
+          "article_number": 183,
+          "title_original": ".] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+          "title_safe": "Two quantities alpha and beta are said to be conjugate fun",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} \\beta$ is a function of $x+\\sqrt{-1} y$.",
+          "title_safe": "beta is a function of xplussqrt-1 y",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ";  \\tag{1}\\\\",
+          "title_safe": "tag1",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} a}{d x^{2}}+\\frac{d^{2} a}{d y^{2}}=0, \\quad \\frac{d^{2} \\beta}{d x^{2}}+\\frac{d^{2} \\beta}{d y^{2}}=0 . \\tag{2}",
+          "title_safe": "ad x2plusfracd2 ad y2equals0 quad fracd2 betad x2plusfracd2",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+\\left.\\overline{d a}\\right|^{2}=\\left.\\overline{d y}\\right|^{2}=\\left.\\frac{\\overline{d \\beta}}{d x}\\right|^{2}+\\overline{d \\beta^{2}}+\\overline{d y}=R^{2} \\tag{3}",
+          "title_safe": "plusleft.overlined arightPIPE2equalsleft.overlined yrightPIP",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ is the inter",
+          "title_safe": "is the inter",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ the intercept of $a$ between the curves ( $\\beta$ ) and",
+          "title_safe": "the intercept of a between the curves beta and",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{d a}=\\frac{d s_{2}}{d \\beta}=\\frac{1}{R}, \\tag{4}",
+          "title_safe": "d aequalsfracd s2d betaequalsfrac1R tag4",
+          "page_start": 320,
+          "page_end": 319,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}+k a$, where $k$ is some con",
+          "title_safe": "plusk a where k is some con",
+          "page_start": 320,
+          "page_end": 320,
+          "content": {
+            "raw_text": "\n--- Page 320 ---\nPROBLEMS IN TWO DIMENSIONS.\n285\nWhen there is no free electricity, this is reduced to the equa-\ntion of Laplace,\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 .$$\nThe general problem of electric equilibrium may be stated as\nfollows:-\nA continuous space of two dimensions, bounded by closed\ncurves $C_{1}, C_{2}$, \\&c. being given, to find the form of a function, $V$,\nsuch that at these boundaries its value may be $V_{1}, V_{2}$, \\&c. re-\nspectively, being constant for each boundary, and that within\nthis space $V$ may be everywhere finite, continuous, and single\nvalued, and may satisfy Laplace's equation.\nI am not aware that any perfectly general solution of even\nthis problem has been given, but the method of transformation\ngiven in Art. 190 is applicable to this case, and is much more\npowerful than any known method applicable to three dimen-\nsions.\nThe method depends on the properties of conjugate functions\nof two variables.\n\nDefinition of Conjugate Functions.\n183.] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions\nof $x$ and $y$, if $a+\\sqrt{-1} \\beta$ is a function of $x+\\sqrt{-1} y$.\nIt follows from this definition that\n$$\\begin{aligned}\n& \\frac{d a}{d x}=\\frac{d \\beta}{d y}, \\quad \\text { and } \\quad \\frac{d a}{d y}+\\frac{d \\beta}{d x}=0 ; \\\\\n& \\frac{d^{2} a}{d x^{2}}+\\frac{d^{2} a}{d y^{2}}=0, \\quad \\frac{d^{2} \\beta}{d x^{2}}+\\frac{d^{2} \\beta}{d y^{2}}=0 .\n\\end{aligned}$$\n(1)\n(2)\nHence both functions satisfy Laplace's equation. Also\n$$\\frac{d a d \\beta}{d x d y}-\\frac{d a d \\beta}{d y} \\overline{d x}=\\left.\\overline{d a}\\right|^{2}+\\left.\\overline{d a}\\right|^{2}=\\left.\\overline{d y}\\right|^{2}=\\left.\\frac{\\overline{d \\beta}}{d x}\\right|^{2}+\\overline{d \\beta^{2}}+\\overline{d y}=R^{2}$$\n(3)\nIf $x$ and $y$ are rectangular coordinates, and if $d s_{1}$ is the inter-\ncept of the curve ( $\\beta=$ constant) between the curves ( $a$ ) and\n( $a+d \\alpha$ ), and $d s_{2}$ the intercept of $a$ between the curves ( $\\beta$ ) and\n$(\\beta+d \\beta)$, then\n$$-\\frac{d s_{1}}{d a}=\\frac{d s_{2}}{d \\beta}=\\frac{1}{R},$$\n(4)\nand the curves intersect at right angles.\nIf we suppose the potential $V=V_{0}+k a$, where $k$ is some con-\nstant, then $V$ will satisfy Laplace's equation, and the curves ( $a$ )\n",
+            "mathpix_markdown": "\n--- Page 320 ---\n\n\nWhen there is no free electricity, this is reduced to the equa\ntion of Laplace,\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}=0 .$$\n\n\nThe general problem of electric equilibrium may be stated as\n follows:-\n\n\nA continuous space of two dimensions, bounded by closed\n curves $C_{1}, C_{2}$, \\&c. being given, to find the form of a function, $V$,\n such that at these boundaries its value may be $V_{1}, V_{2}$, \\&c. re\nspectively, being constant for each boundary, and that within\n this space $V$ may be everywhere finite, continuous, and single\n valued, and may satisfy Laplace's equation.\n\n\nI am not aware that any perfectly general solution of even\n this problem has been given, but the method of transformation\n given in Art. 190 is applicable to this case, and is much more\n powerful than any known method applicable to three dimen\nsions.\n\n\nThe method depends on the properties of conjugate functions\n of two variables.\n\n\n\\section*{Definition of Conjugate Functions.}\n\n183.] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions\n of $x$ and $y$, if $a+\\sqrt{-1} \\beta$ is a function of $x+\\sqrt{-1} y$.\n\n\nIt follows from this definition that\n\n$$\\begin{align*}\n& \\frac{d a}{d x}=\\frac{d \\beta}{d y}, \\quad \\text { and } \\quad \\frac{d a}{d y}+\\frac{d \\beta}{d x}=0 ;  \\tag{1}\\\\\n& \\frac{d^{2} a}{d x^{2}}+\\frac{d^{2} a}{d y^{2}}=0, \\quad \\frac{d^{2} \\beta}{d x^{2}}+\\frac{d^{2} \\beta}{d y^{2}}=0 . \\tag{2}\n\\end{align*}$$\n\n\nHence both functions satisfy Laplace's equation. Also\n\n$$\\begin{equation*}\n\\frac{d a d \\beta}{d x d y}-\\frac{d a d \\beta}{d y} \\overline{d x}=\\left.\\overline{d a}\\right|^{2}+\\left.\\overline{d a}\\right|^{2}=\\left.\\overline{d y}\\right|^{2}=\\left.\\frac{\\overline{d \\beta}}{d x}\\right|^{2}+\\overline{d \\beta^{2}}+\\overline{d y}=R^{2} \\tag{3}\n\\end{equation*}$$\n\n\nIf $x$ and $y$ are rectangular coordinates, and if $d s_{1}$ is the inter\ncept of the curve ( $\\beta=$ constant) between the curves ( $a$ ) and\n ( $a+d \\alpha$ ), and $d s_{2}$ the intercept of $a$ between the curves ( $\\beta$ ) and\n $(\\beta+d \\beta)$, then\n\n$$\\begin{equation*}\n-\\frac{d s_{1}}{d a}=\\frac{d s_{2}}{d \\beta}=\\frac{1}{R}, \\tag{4}\n\\end{equation*}$$\n\nand the curves intersect at right angles.\n\nIf we suppose the potential $V=V_{0}+k a$, where $k$ is some con\nstant, then $V$ will satisfy Laplace's equation, and the curves ( $a$ )\n",
+            "structured_lines": [
+              {
+                "page": 320,
+                "line_number": 3,
+                "type": "text",
+                "content": "When there is no free electricity, this is reduced to the equa-",
+                "mathpix_content": "\n\nWhen there is no free electricity, this is reduced to the equa",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 4,
+                "type": "text",
+                "content": "tion of Laplace,",
+                "mathpix_content": "tion of Laplace,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 7,
+                "type": "text",
+                "content": "The general problem of electric equilibrium may be stated as",
+                "mathpix_content": "\n\nThe general problem of electric equilibrium may be stated as",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 8,
+                "type": "text",
+                "content": "follows:-",
+                "mathpix_content": " follows:-",
+                "font_size": 34,
+                "confidence": 0.943359375
+              },
+              {
+                "page": 320,
+                "line_number": 9,
+                "type": "text",
+                "content": "A continuous space of two dimensions, bounded by closed",
+                "mathpix_content": "\n\nA continuous space of two dimensions, bounded by closed",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 10,
+                "type": "text",
+                "content": "curves $C_{1}, C_{2}$, \\&c. being given, to find the form of a function, $V$,",
+                "mathpix_content": " curves $C_{1}, C_{2}$, \\&c. being given, to find the form of a function, $V$,",
+                "font_size": 34,
+                "confidence": 0.998535871389322
+              },
+              {
+                "page": 320,
+                "line_number": 11,
+                "type": "text",
+                "content": "such that at these boundaries its value may be $V_{1}, V_{2}$, \\&c. re-",
+                "mathpix_content": " such that at these boundaries its value may be $V_{1}, V_{2}$, \\&c. re",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 12,
+                "type": "text",
+                "content": "spectively, being constant for each boundary, and that within",
+                "mathpix_content": "spectively, being constant for each boundary, and that within",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 13,
+                "type": "text",
+                "content": "this space $V$ may be everywhere finite, continuous, and single",
+                "mathpix_content": " this space $V$ may be everywhere finite, continuous, and single",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 14,
+                "type": "text",
+                "content": "valued, and may satisfy Laplace's equation.",
+                "mathpix_content": " valued, and may satisfy Laplace's equation.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 15,
+                "type": "text",
+                "content": "I am not aware that any perfectly general solution of even",
+                "mathpix_content": "\n\nI am not aware that any perfectly general solution of even",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 16,
+                "type": "text",
+                "content": "this problem has been given, but the method of transformation",
+                "mathpix_content": " this problem has been given, but the method of transformation",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 17,
+                "type": "text",
+                "content": "given in Art. 190 is applicable to this case, and is much more",
+                "mathpix_content": " given in Art. 190 is applicable to this case, and is much more",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 18,
+                "type": "text",
+                "content": "powerful than any known method applicable to three dimen-",
+                "mathpix_content": " powerful than any known method applicable to three dimen",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 19,
+                "type": "text",
+                "content": "sions.",
+                "mathpix_content": "sions.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 20,
+                "type": "text",
+                "content": "The method depends on the properties of conjugate functions",
+                "mathpix_content": "\n\nThe method depends on the properties of conjugate functions",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 21,
+                "type": "text",
+                "content": "of two variables.",
+                "mathpix_content": " of two variables.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 23,
+                "type": "text",
+                "content": "Definition of Conjugate Functions.",
+                "mathpix_content": "\n\n\\section*{Definition of Conjugate Functions.}",
+                "font_size": 34,
+                "confidence": 0.9985356330871582
+              },
+              {
+                "page": 320,
+                "line_number": 24,
+                "type": "text",
+                "content": "183.] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+                "mathpix_content": "\n183.] Two quantities $\\alpha$ and $\\beta$ are said to be conjugate functions",
+                "font_size": 34,
+                "confidence": 0.9727277755737305
+              },
+              {
+                "page": 320,
+                "line_number": 25,
+                "type": "text",
+                "content": "of $x$ and $y$, if $a+\\sqrt{-1} \\beta$ is a function of $x+\\sqrt{-1} y$.",
+                "mathpix_content": " of $x$ and $y$, if $a+\\sqrt{-1} \\beta$ is a function of $x+\\sqrt{-1} y$.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 320,
+                "line_number": 26,
+                "type": "text",
+                "content": "It follows from this definition that",
+                "mathpix_content": "\n\nIt follows from this definition that",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 320,
+                "line_number": 32,
+                "type": "text",
+                "content": "Hence both functions satisfy Laplace's equation. Also",
+                "mathpix_content": "\n\nHence both functions satisfy Laplace's equation. Also",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 36,
+                "type": "text",
+                "content": "If $x$ and $y$ are rectangular coordinates, and if $d s_{1}$ is the inter-",
+                "mathpix_content": "\n\nIf $x$ and $y$ are rectangular coordinates, and if $d s_{1}$ is the inter",
+                "font_size": 34,
+                "confidence": 0.9931640625
+              },
+              {
+                "page": 320,
+                "line_number": 37,
+                "type": "text",
+                "content": "cept of the curve ( $\\beta=$ constant) between the curves ( $a$ ) and",
+                "mathpix_content": "cept of the curve ( $\\beta=$ constant) between the curves ( $a$ ) and",
+                "font_size": 34,
+                "confidence": 0.989290215075016
+              },
+              {
+                "page": 320,
+                "line_number": 38,
+                "type": "text",
+                "content": "( $a+d \\alpha$ ), and $d s_{2}$ the intercept of $a$ between the curves ( $\\beta$ ) and",
+                "mathpix_content": " ( $a+d \\alpha$ ), and $d s_{2}$ the intercept of $a$ between the curves ( $\\beta$ ) and",
+                "font_size": 34,
+                "confidence": 0.3397174142540164
+              },
+              {
+                "page": 320,
+                "line_number": 39,
+                "type": "text",
+                "content": "$(\\beta+d \\beta)$, then",
+                "mathpix_content": " $(\\beta+d \\beta)$, then",
+                "font_size": 34,
+                "confidence": 0.754514217376709
+              },
+              {
+                "page": 320,
+                "line_number": 43,
+                "type": "text",
+                "content": "and the curves intersect at right angles.",
+                "mathpix_content": "\nand the curves intersect at right angles.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 44,
+                "type": "text",
+                "content": "If we suppose the potential $V=V_{0}+k a$, where $k$ is some con-",
+                "mathpix_content": "\nIf we suppose the potential $V=V_{0}+k a$, where $k$ is some con",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 320,
+                "line_number": 45,
+                "type": "text",
+                "content": "stant, then $V$ will satisfy Laplace's equation, and the curves ( $a$ )",
+                "mathpix_content": "stant, then $V$ will satisfy Laplace's equation, and the curves ( $a$ )",
+                "font_size": 34,
+                "confidence": 0.9670416396011206
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

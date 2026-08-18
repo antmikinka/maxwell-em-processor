@@ -1,0 +1,363 @@
+{
+  "article_id": "article_236",
+  "article_number": 236,
+  "title_original": ".] As long as the circuit is broken no chemical action goes",
+  "title_safe": "As long as the circuit is broken no chemical action goes",
+  "page_start": 392,
+  "page_end": 392,
+  "content": {
+    "raw_text": "\n--- Page 392 ---\n236.]\nELECTROLYSIS.\n357\nor vitreously electrified, and the zinc end will be negatively or\nresinously electrified.\nLet the two ends of the battery be now connected by means\nof a wire. An electric current will commence, and will in a\nvery short time attain a constant value. It is then said to be\na Steady Current.\n\nProperties of the Current.\n235.] The current forms a closed circuit in the direction from\ncopper to zinc through the wires, and from zinc to copper\nthrough the solutions.\nIf the circuit be broken by cutting any of the wires which\nconnect the copper of one cell with the zinc of the next in order,\nthe current will be stopped, and the potential of the end of\nthe wire in connexion with the copper will be found to exceed\nthat of the end of the wire in connexion with the zinc by a\nconstant quantity, namely, the total electromotive force of the\ncircuit.\n\nElectrolytic Action of the Current.\n236.] As long as the circuit is broken no chemical action goes\non in the cells, but as soon as the circuit is completed, zinc is\ndissolved from the zinc in each of the Daniell's cells, and copper\nis deposited on the copper.\nThe quantity of sulphate of zinc increases, and the quantity\nof sulphate of copper diminishes unless more is constantly\nsupplied.\nThe quantity of zinc dissolved, and also that of copper de-\nposited, is the same in each of the Daniell's cells throughout the\ncircuit, whatever the size of the plates of the cell, and if any one\nof the cells be of a different construction, the amount of chemical\naction in it bears a constant proportion to the action in the\nDaniell's cell. For instance, if one of the cells consists of two\nplatinum plates dipped into sulphuric acid diluted with water,\noxygen will be given off at the surface of the plate where\nthe current enters the liquid, namely, the plate in metallic\nconnexion with the copper of Daniell's cell, and hydrogen\nat the surface of the plate where the current leaves the liquid,\nnamely, the plate connected with the zinc of Daniell's cell.\nThe volume of the hydrogen is exactly twice the volume of\n",
+    "mathpix_markdown": "\n--- Page 392 ---\n\nor vitreously electrified, and the zinc end will be negatively or\n resinously electrified.\n\n\nLet the two ends of the battery be now connected by means\n of a wire. An electric current will commence, and will in a\n very short time attain a constant value. It is then said to be\n a Steady Current.\n\n\n\\section*{Properties of the Current.}\n\n235.] The current forms a closed circuit in the direction from\n copper to zinc through the wires, and from zinc to copper\n through the solutions.\n\n\nIf the circuit be broken by cutting any of the wires which\n connect the copper of one cell with the zinc of the next in order,\n the current will be stopped, and the potential of the end of\n the wire in connexion with the copper will be found to exceed\n that of the end of the wire in connexion with the zinc by a\n constant quantity, namely, the total electromotive force of the\n circuit.\n\n\n\\section*{Electrolytic Action of the Current.}\n\n236.] As long as the circuit is broken no chemical action goes\n on in the cells, but as soon as the circuit is completed, zinc is\n dissolved from the zinc in each of the Daniell's cells, and copper\n is deposited on the copper.\n\n\nThe quantity of sulphate of zinc increases, and the quantity\n of sulphate of copper diminishes unless more is constantly\n supplied.\n\n\nThe quantity of zinc dissolved, and also that of copper de\nposited, is the same in each of the Daniell's cells throughout the\n circuit, whatever the size of the plates of the cell, and if any one\n of the cells be of a different construction, the amount of chemical\n action in it bears a constant proportion to the action in the\n Daniell's cell. For instance, if one of the cells consists of two\n platinum plates dipped into sulphuric acid diluted with water,\n oxygen will be given off at the surface of the plate where\n the current enters the liquid, namely, the plate in metallic\n connexion with the copper of Daniell's cell, and hydrogen\n at the surface of the plate where the current leaves the liquid,\n namely, the plate connected with the zinc of Daniell's cell.\n\n\nThe volume of the hydrogen is exactly twice the volume of\n",
+    "structured_lines": [
+      {
+        "page": 392,
+        "line_number": 4,
+        "type": "text",
+        "content": "or vitreously electrified, and the zinc end will be negatively or",
+        "mathpix_content": "\nor vitreously electrified, and the zinc end will be negatively or",
+        "font_size": 27,
+        "confidence": 0.99169921875
+      },
+      {
+        "page": 392,
+        "line_number": 5,
+        "type": "text",
+        "content": "resinously electrified.",
+        "mathpix_content": " resinously electrified.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 6,
+        "type": "text",
+        "content": "Let the two ends of the battery be now connected by means",
+        "mathpix_content": "\n\nLet the two ends of the battery be now connected by means",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 7,
+        "type": "text",
+        "content": "of a wire. An electric current will commence, and will in a",
+        "mathpix_content": " of a wire. An electric current will commence, and will in a",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 392,
+        "line_number": 8,
+        "type": "text",
+        "content": "very short time attain a constant value. It is then said to be",
+        "mathpix_content": " very short time attain a constant value. It is then said to be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 9,
+        "type": "text",
+        "content": "a Steady Current.",
+        "mathpix_content": " a Steady Current.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 11,
+        "type": "text",
+        "content": "Properties of the Current.",
+        "mathpix_content": "\n\n\\section*{Properties of the Current.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 12,
+        "type": "text",
+        "content": "235.] The current forms a closed circuit in the direction from",
+        "mathpix_content": "\n235.] The current forms a closed circuit in the direction from",
+        "font_size": 27,
+        "confidence": 0.87060546875
+      },
+      {
+        "page": 392,
+        "line_number": 13,
+        "type": "text",
+        "content": "copper to zinc through the wires, and from zinc to copper",
+        "mathpix_content": " copper to zinc through the wires, and from zinc to copper",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 392,
+        "line_number": 14,
+        "type": "text",
+        "content": "through the solutions.",
+        "mathpix_content": " through the solutions.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 15,
+        "type": "text",
+        "content": "If the circuit be broken by cutting any of the wires which",
+        "mathpix_content": "\n\nIf the circuit be broken by cutting any of the wires which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 16,
+        "type": "text",
+        "content": "connect the copper of one cell with the zinc of the next in order,",
+        "mathpix_content": " connect the copper of one cell with the zinc of the next in order,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 392,
+        "line_number": 17,
+        "type": "text",
+        "content": "the current will be stopped, and the potential of the end of",
+        "mathpix_content": " the current will be stopped, and the potential of the end of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 18,
+        "type": "text",
+        "content": "the wire in connexion with the copper will be found to exceed",
+        "mathpix_content": " the wire in connexion with the copper will be found to exceed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 19,
+        "type": "text",
+        "content": "that of the end of the wire in connexion with the zinc by a",
+        "mathpix_content": " that of the end of the wire in connexion with the zinc by a",
+        "font_size": 27,
+        "confidence": 0.99462890625
+      },
+      {
+        "page": 392,
+        "line_number": 20,
+        "type": "text",
+        "content": "constant quantity, namely, the total electromotive force of the",
+        "mathpix_content": " constant quantity, namely, the total electromotive force of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 21,
+        "type": "text",
+        "content": "circuit.",
+        "mathpix_content": " circuit.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 23,
+        "type": "text",
+        "content": "Electrolytic Action of the Current.",
+        "mathpix_content": "\n\n\\section*{Electrolytic Action of the Current.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 24,
+        "type": "text",
+        "content": "236.] As long as the circuit is broken no chemical action goes",
+        "mathpix_content": "\n236.] As long as the circuit is broken no chemical action goes",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 392,
+        "line_number": 25,
+        "type": "text",
+        "content": "on in the cells, but as soon as the circuit is completed, zinc is",
+        "mathpix_content": " on in the cells, but as soon as the circuit is completed, zinc is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 26,
+        "type": "text",
+        "content": "dissolved from the zinc in each of the Daniell's cells, and copper",
+        "mathpix_content": " dissolved from the zinc in each of the Daniell's cells, and copper",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 27,
+        "type": "text",
+        "content": "is deposited on the copper.",
+        "mathpix_content": " is deposited on the copper.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 28,
+        "type": "text",
+        "content": "The quantity of sulphate of zinc increases, and the quantity",
+        "mathpix_content": "\n\nThe quantity of sulphate of zinc increases, and the quantity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 29,
+        "type": "text",
+        "content": "of sulphate of copper diminishes unless more is constantly",
+        "mathpix_content": " of sulphate of copper diminishes unless more is constantly",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 30,
+        "type": "text",
+        "content": "supplied.",
+        "mathpix_content": " supplied.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 31,
+        "type": "text",
+        "content": "The quantity of zinc dissolved, and also that of copper de-",
+        "mathpix_content": "\n\nThe quantity of zinc dissolved, and also that of copper de",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 32,
+        "type": "text",
+        "content": "posited, is the same in each of the Daniell's cells throughout the",
+        "mathpix_content": "posited, is the same in each of the Daniell's cells throughout the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 33,
+        "type": "text",
+        "content": "circuit, whatever the size of the plates of the cell, and if any one",
+        "mathpix_content": " circuit, whatever the size of the plates of the cell, and if any one",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 34,
+        "type": "text",
+        "content": "of the cells be of a different construction, the amount of chemical",
+        "mathpix_content": " of the cells be of a different construction, the amount of chemical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 35,
+        "type": "text",
+        "content": "action in it bears a constant proportion to the action in the",
+        "mathpix_content": " action in it bears a constant proportion to the action in the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 392,
+        "line_number": 36,
+        "type": "text",
+        "content": "Daniell's cell. For instance, if one of the cells consists of two",
+        "mathpix_content": " Daniell's cell. For instance, if one of the cells consists of two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 37,
+        "type": "text",
+        "content": "platinum plates dipped into sulphuric acid diluted with water,",
+        "mathpix_content": " platinum plates dipped into sulphuric acid diluted with water,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 38,
+        "type": "text",
+        "content": "oxygen will be given off at the surface of the plate where",
+        "mathpix_content": " oxygen will be given off at the surface of the plate where",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 39,
+        "type": "text",
+        "content": "the current enters the liquid, namely, the plate in metallic",
+        "mathpix_content": " the current enters the liquid, namely, the plate in metallic",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 40,
+        "type": "text",
+        "content": "connexion with the copper of Daniell's cell, and hydrogen",
+        "mathpix_content": " connexion with the copper of Daniell's cell, and hydrogen",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 392,
+        "line_number": 41,
+        "type": "text",
+        "content": "at the surface of the plate where the current leaves the liquid,",
+        "mathpix_content": " at the surface of the plate where the current leaves the liquid,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 42,
+        "type": "text",
+        "content": "namely, the plate connected with the zinc of Daniell's cell.",
+        "mathpix_content": " namely, the plate connected with the zinc of Daniell's cell.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 392,
+        "line_number": 43,
+        "type": "text",
+        "content": "The volume of the hydrogen is exactly twice the volume of",
+        "mathpix_content": "\n\nThe volume of the hydrogen is exactly twice the volume of",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

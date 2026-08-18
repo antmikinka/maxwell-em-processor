@@ -1,0 +1,1342 @@
+{
+  "part_id": "part_668",
+  "part_number": 668,
+  "title": "to a cold part it heats the tube, and when it passes",
+  "page_start": 408,
+  "page_end": 409,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 253,
+      "title": "]",
+      "page_start": 408,
+      "page_end": 407,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 373,
+      "title": "The current may be made to work an engine or to generate heat",
+      "page_start": 408,
+      "page_end": 407,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 1856,
+      "title": "The current may be made to work an engine or to generate heat",
+      "page_start": 408,
+      "page_end": 407,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 1856,
+      "title": "}",
+      "page_start": 408,
+      "page_end": 408,
+      "articles": [
+        {
+          "article_id": "article_253",
+          "article_number": 253,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 408,
+          "page_end": 407,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1856",
+          "article_number": 1856,
+          "title_original": "The current may be made to work an engine or to generate heat",
+          "title_safe": "The current may be made to work an engine or to generate hea",
+          "page_start": 408,
+          "page_end": 407,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1856",
+          "article_number": 1856,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 408,
+          "page_end": 407,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_253",
+          "article_number": 253,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 408,
+          "page_end": 407,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_373",
+          "article_number": 373,
+          "title_original": "The current may be made to work an engine or to generate heat",
+          "title_safe": "The current may be made to work an engine or to generate hea",
+          "page_start": 408,
+          "page_end": 407,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1856",
+          "article_number": 1856,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 408,
+          "page_end": 407,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1856",
+          "article_number": 1856,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 408,
+          "page_end": 408,
+          "content": {
+            "raw_text": "\n--- Page 408 ---\n253.]\nTHERMOELECTRIC PHENOMENA.\n373\nThe current may be made to work an engine or to generate heat\nin a wire, and this expenditure of energy must be kept up by\nthe transformation of heat into electric energy, that is to say,\nheat must disappear somewhere in the circuit. Now at the\ntemperature $T$ iron and copper are neutral to each other, so that\nno reversible thermal effect is produced at the hot junction, and\nat the cold junction there is, by Peltier's principle, an evolution\nof heat by the current. Hence the only place where the heat\ncan disappear is in the copper or iron portions of the circuit, so\nthat either a current in iron from hot to cold must cool the iron,\nor a current in copper from cold to hot must cool the copper, or\nboth these effects may take place. \\{This reasoning assumes that\nthe thermoelectric junction acts merely as a heat engine, and\nthat there is no alteration (such as would occur in a battery) in\nthe energy of the substance forming the junction when electricity\npasses across it.\\} By an elaborate series of ingenious experi-\nments Thomson succeeded in detecting the reversible thermal\naction of the current in passing between parts of different\ntemperatures, and he found that the current produced opposite\neffects in copper and in iron*.\nWhen a stream of a material fluid passes along a tube from\na hot part to a cold part it heats the tube, and when it passes\nfrom cold to hot it cools the tube, and these effects depend on\nthe specific capacity for heat of the fluid. If we supposed elec-\ntricity, whether positive or negative, to be a material fluid, we\nmight measure its specific heat by the thermal effect on an un-\nequally heated conductor. Now Thomson's experiments shew\nthat positive electricity in copper and negative electricity in\niron carry heat with them from hot to cold. Hence, if we\nsupposed either positive or negative electricity to be a fluid,\ncapable of being heated and cooled, and of communicating heat\nto other bodies, we should find the supposition contradicted by\niron for positive electricity and by copper for negative electricity,\nso that we should have to abandon both hypotheses.\nThis scientific prediction of the reversible effect of an electric\ncurrent upon an unequally heated conductor of one metal is\nanother instructive example of the application of the theory of\nConservation of Energy to indicate new directions of scientific\nresearch. Thomson has also applied the Second Law of Thermo-\n\n* 'On the Electrodynamic Qualities of Metals.' Phil. Trans., Part III, 1856.\n",
+            "mathpix_markdown": "\n--- Page 408 ---\n\n\nThe current may be made to work an engine or to generate heat\n in a wire, and this expenditure of energy must be kept up by\n the transformation of heat into electric energy, that is to say,\n heat must disappear somewhere in the circuit. Now at the\n temperature $T$ iron and copper are neutral to each other, so that\n no reversible thermal effect is produced at the hot junction, and\n at the cold junction there is, by Peltier's principle, an evolution\n of heat by the current. Hence the only place where the heat\n can disappear is in the copper or iron portions of the circuit, so\n that either a current in iron from hot to cold must cool the iron,\n or a current in copper from cold to hot must cool the copper, or\n both these effects may take place. \\{This reasoning assumes that\n the thermoelectric junction acts merely as a heat engine, and\n that there is no alteration (such as would occur in a battery) in\n the energy of the substance forming the junction when electricity\n passes across it.\\} By an elaborate series of ingenious experi\nments Thomson succeeded in detecting the reversible thermal\n action of the current in passing between parts of different\n temperatures, and he found that the current produced opposite\n effects in copper and in iron*.\n\n\nWhen a stream of a material fluid passes along a tube from\n a hot part to a cold part it heats the tube, and when it passes\n from cold to hot it cools the tube, and these effects depend on\n the specific capacity for heat of the fluid. If we supposed elec\ntricity, whether positive or negative, to be a material fluid, we\n might measure its specific heat by the thermal effect on an un\nequally heated conductor. Now Thomson's experiments shew\n that positive electricity in copper and negative electricity in\n iron carry heat with them from hot to cold. Hence, if we\n supposed either positive or negative electricity to be a fluid,\n capable of being heated and cooled, and of communicating heat\n to other bodies, we should find the supposition contradicted by\n iron for positive electricity and by copper for negative electricity,\n so that we should have to abandon both hypotheses.\n\n\nThis scientific prediction of the reversible effect of an electric\n current upon an unequally heated conductor of one metal is\n another instructive example of the application of the theory of\n Conservation of Energy to indicate new directions of scientific\n research. Thomson has also applied the Second Law of Thermo-\n\n\n\\footnotetext{\n* 'On the Electrodynamic Qualities of Metals.' Phil. Trans., Part III, 1856.\n}\n",
+            "structured_lines": [
+              {
+                "page": 408,
+                "line_number": 4,
+                "type": "text",
+                "content": "The current may be made to work an engine or to generate heat",
+                "mathpix_content": "\n\nThe current may be made to work an engine or to generate heat",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 5,
+                "type": "text",
+                "content": "in a wire, and this expenditure of energy must be kept up by",
+                "mathpix_content": " in a wire, and this expenditure of energy must be kept up by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 6,
+                "type": "text",
+                "content": "the transformation of heat into electric energy, that is to say,",
+                "mathpix_content": " the transformation of heat into electric energy, that is to say,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 7,
+                "type": "text",
+                "content": "heat must disappear somewhere in the circuit. Now at the",
+                "mathpix_content": " heat must disappear somewhere in the circuit. Now at the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 8,
+                "type": "text",
+                "content": "temperature $T$ iron and copper are neutral to each other, so that",
+                "mathpix_content": " temperature $T$ iron and copper are neutral to each other, so that",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 9,
+                "type": "text",
+                "content": "no reversible thermal effect is produced at the hot junction, and",
+                "mathpix_content": " no reversible thermal effect is produced at the hot junction, and",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 10,
+                "type": "text",
+                "content": "at the cold junction there is, by Peltier's principle, an evolution",
+                "mathpix_content": " at the cold junction there is, by Peltier's principle, an evolution",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 11,
+                "type": "text",
+                "content": "of heat by the current. Hence the only place where the heat",
+                "mathpix_content": " of heat by the current. Hence the only place where the heat",
+                "font_size": 34,
+                "confidence": 0.9970715045928955
+              },
+              {
+                "page": 408,
+                "line_number": 12,
+                "type": "text",
+                "content": "can disappear is in the copper or iron portions of the circuit, so",
+                "mathpix_content": " can disappear is in the copper or iron portions of the circuit, so",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 13,
+                "type": "text",
+                "content": "that either a current in iron from hot to cold must cool the iron,",
+                "mathpix_content": " that either a current in iron from hot to cold must cool the iron,",
+                "font_size": 34,
+                "confidence": 0.6335961818695068
+              },
+              {
+                "page": 408,
+                "line_number": 14,
+                "type": "text",
+                "content": "or a current in copper from cold to hot must cool the copper, or",
+                "mathpix_content": " or a current in copper from cold to hot must cool the copper, or",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 15,
+                "type": "text",
+                "content": "both these effects may take place. \\{This reasoning assumes that",
+                "mathpix_content": " both these effects may take place. \\{This reasoning assumes that",
+                "font_size": 34,
+                "confidence": 0.98388671875
+              },
+              {
+                "page": 408,
+                "line_number": 16,
+                "type": "text",
+                "content": "the thermoelectric junction acts merely as a heat engine, and",
+                "mathpix_content": " the thermoelectric junction acts merely as a heat engine, and",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 408,
+                "line_number": 17,
+                "type": "text",
+                "content": "that there is no alteration (such as would occur in a battery) in",
+                "mathpix_content": " that there is no alteration (such as would occur in a battery) in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 18,
+                "type": "text",
+                "content": "the energy of the substance forming the junction when electricity",
+                "mathpix_content": " the energy of the substance forming the junction when electricity",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 19,
+                "type": "text",
+                "content": "passes across it.\\} By an elaborate series of ingenious experi-",
+                "mathpix_content": " passes across it.\\} By an elaborate series of ingenious experi",
+                "font_size": 34,
+                "confidence": 0.71875
+              },
+              {
+                "page": 408,
+                "line_number": 20,
+                "type": "text",
+                "content": "ments Thomson succeeded in detecting the reversible thermal",
+                "mathpix_content": "ments Thomson succeeded in detecting the reversible thermal",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 21,
+                "type": "text",
+                "content": "action of the current in passing between parts of different",
+                "mathpix_content": " action of the current in passing between parts of different",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 22,
+                "type": "text",
+                "content": "temperatures, and he found that the current produced opposite",
+                "mathpix_content": " temperatures, and he found that the current produced opposite",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 23,
+                "type": "text",
+                "content": "effects in copper and in iron*.",
+                "mathpix_content": " effects in copper and in iron*.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 24,
+                "type": "text",
+                "content": "When a stream of a material fluid passes along a tube from",
+                "mathpix_content": "\n\nWhen a stream of a material fluid passes along a tube from",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 25,
+                "type": "text",
+                "content": "a hot part to a cold part it heats the tube, and when it passes",
+                "mathpix_content": " a hot part to a cold part it heats the tube, and when it passes",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 26,
+                "type": "text",
+                "content": "from cold to hot it cools the tube, and these effects depend on",
+                "mathpix_content": " from cold to hot it cools the tube, and these effects depend on",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 408,
+                "line_number": 27,
+                "type": "text",
+                "content": "the specific capacity for heat of the fluid. If we supposed elec-",
+                "mathpix_content": " the specific capacity for heat of the fluid. If we supposed elec",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 28,
+                "type": "text",
+                "content": "tricity, whether positive or negative, to be a material fluid, we",
+                "mathpix_content": "tricity, whether positive or negative, to be a material fluid, we",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 29,
+                "type": "text",
+                "content": "might measure its specific heat by the thermal effect on an un-",
+                "mathpix_content": " might measure its specific heat by the thermal effect on an un",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 30,
+                "type": "text",
+                "content": "equally heated conductor. Now Thomson's experiments shew",
+                "mathpix_content": "equally heated conductor. Now Thomson's experiments shew",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 31,
+                "type": "text",
+                "content": "that positive electricity in copper and negative electricity in",
+                "mathpix_content": " that positive electricity in copper and negative electricity in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 32,
+                "type": "text",
+                "content": "iron carry heat with them from hot to cold. Hence, if we",
+                "mathpix_content": " iron carry heat with them from hot to cold. Hence, if we",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 33,
+                "type": "text",
+                "content": "supposed either positive or negative electricity to be a fluid,",
+                "mathpix_content": " supposed either positive or negative electricity to be a fluid,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 34,
+                "type": "text",
+                "content": "capable of being heated and cooled, and of communicating heat",
+                "mathpix_content": " capable of being heated and cooled, and of communicating heat",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 35,
+                "type": "text",
+                "content": "to other bodies, we should find the supposition contradicted by",
+                "mathpix_content": " to other bodies, we should find the supposition contradicted by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 36,
+                "type": "text",
+                "content": "iron for positive electricity and by copper for negative electricity,",
+                "mathpix_content": " iron for positive electricity and by copper for negative electricity,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 37,
+                "type": "text",
+                "content": "so that we should have to abandon both hypotheses.",
+                "mathpix_content": " so that we should have to abandon both hypotheses.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 38,
+                "type": "text",
+                "content": "This scientific prediction of the reversible effect of an electric",
+                "mathpix_content": "\n\nThis scientific prediction of the reversible effect of an electric",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 39,
+                "type": "text",
+                "content": "current upon an unequally heated conductor of one metal is",
+                "mathpix_content": " current upon an unequally heated conductor of one metal is",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 40,
+                "type": "text",
+                "content": "another instructive example of the application of the theory of",
+                "mathpix_content": " another instructive example of the application of the theory of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 41,
+                "type": "text",
+                "content": "Conservation of Energy to indicate new directions of scientific",
+                "mathpix_content": " Conservation of Energy to indicate new directions of scientific",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 408,
+                "line_number": 42,
+                "type": "text",
+                "content": "research. Thomson has also applied the Second Law of Thermo-",
+                "mathpix_content": " research. Thomson has also applied the Second Law of Thermo-",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 408,
+                "line_number": 44,
+                "type": "text",
+                "content": "* 'On the Electrodynamic Qualities of Metals.' Phil. Trans., Part III, 1856.",
+                "mathpix_content": "\n\n\\footnotetext{\n* 'On the Electrodynamic Qualities of Metals.' Phil. Trans., Part III, 1856.\n}",
+                "font_size": 27,
+                "confidence": 0.9227074496562708
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 374,
+      "title": "CONTACT FORCE.",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 254,
+      "title": "] Professor Tait* has recently investigated the electro-",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 1,
+      "title": "}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": "}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 0,
+      "title": "}$ the temperature at which the two",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 0,
+      "title": ", \\\\",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 1,
+      "title": "}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 1870,
+      "title": "71, p. 308, also Dec. 18, 1871.",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 254,
+      "title": "] Professor Tait* has recently investigated the electro",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 1,
+      "title": "}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 1,
+      "title": "}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 0,
+      "title": "}$ the temperature at which the two",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 0,
+      "title": ", \\\\",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]",
+      "page_start": 409,
+      "page_end": 408,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1870,
+      "title": "71, p. 308, also Dec. 18, 1871.",
+      "page_start": 409,
+      "page_end": 409,
+      "articles": [
+        {
+          "article_id": "article_254",
+          "article_number": 254,
+          "title_original": "] Professor Tait* has recently investigated the electro-",
+          "title_safe": "Professor TaitASTERISK has recently investigated the electro",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1871",
+          "article_number": 1871,
+          "title_original": "dynamics to indicate relations between the quantities which we",
+          "title_safe": "dynamics to indicate relations between the quantities which",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_254",
+          "article_number": 254,
+          "title_original": "] Professor Tait* has recently investigated the electro",
+          "title_safe": "Professor TaitASTERISK has recently investigated the electro",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1871",
+          "article_number": 1871,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_374",
+          "article_number": 374,
+          "title_original": "CONTACT FORCE.",
+          "title_safe": "CONTACT FORCE",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_254",
+          "article_number": 254,
+          "title_original": ".] Professor Tait* has recently investigated the electro-",
+          "title_safe": "Professor TaitASTERISK has recently investigated the elect",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$",
+          "title_safe": "t2rightleftt0-frac12leftt1plust2rightright",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+          "title_safe": "is the absolute temperature of the hot junction t2 that",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ the temperature at which the two",
+          "title_safe": "the temperature at which the two",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ", \\\\",
+          "title_safe": "Article",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]",
+          "title_safe": "t2rightleftTa b-frac12leftt1plust2rightright",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1870",
+          "article_number": 1870,
+          "title_original": "71, p. 308, also Dec. 18, 1871.",
+          "title_safe": "71 p. 308 also Dec. 18 1871",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_254",
+          "article_number": 254,
+          "title_original": ".] Professor Tait* has recently investigated the electro",
+          "title_safe": "Professor TaitASTERISK has recently investigated the elect",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$",
+          "title_safe": "t2rightleftt0-frac12leftt1plust2rightright",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+          "title_safe": "is the absolute temperature of the hot junction t2 that",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ the temperature at which the two",
+          "title_safe": "the temperature at which the two",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ", \\\\",
+          "title_safe": "Article",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]",
+          "title_safe": "t2rightleftTa b-frac12leftt1plust2rightright",
+          "page_start": 409,
+          "page_end": 408,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1870",
+          "article_number": 1870,
+          "title_original": "71, p. 308, also Dec. 18, 1871.",
+          "title_safe": "71 p. 308 also Dec. 18 1871",
+          "page_start": 409,
+          "page_end": 409,
+          "content": {
+            "raw_text": "\n--- Page 409 ---\n374\nCONTACT FORCE.\ndynamics to indicate relations between the quantities which we\nhave denoted by $P$ and $Q$, and has investigated the possible\nthermoelectric properties of bodies whose structure is different\nin different directions. He has also investigated experimentally\nthe conditions under which these properties are developed by\npressure, magnetization, \\&c.\n254.] Professor Tait* has recently investigated the electro-\nmotive force of thermoelectric circuits of different metals, having\ntheir junctions at different temperatures. He finds that the\nelectromotive force of a circuit may be expressed very ac-\ncurately by the formula\n$$E=a\\left(t_{1}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$\nwhere $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that\nof the cold junction, and $t_{0}$ the temperature at which the two\nmetals are neutral to each other. The factor $a$ is a coefficient\ndepending on the nature of the two metals composing the circuit.\nThis law has been verified through considerable ranges of tem-\nperature by Professor Tait and his students, and he hopes to\nmake the thermoelectric circuit available as a thermometric\ninstrument in his experiments on the conduction of heat, and in\nother cases in which the mercurial thermometer is not convenient\nor has not a sufficient range.\nAccording to Tait's theory, the quantity which Thomson calls\nthe specific heat of electricity is proportional to the absolute\ntemperature in each pure metal, though its magnitude and even\nits sign vary in different metals. From this he has deduced by\nthermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$\nbe the specific heats of electricity in three metals $a, b, c$, and let\n$T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals\nare neutral to each other, then the equations\n$$\\begin{gathered}\n\\left(k_{b}-k_{c}\\right) T_{b c}+\\left(k_{c}-k_{a}\\right) T_{c a}+\\left(k_{a}-k_{b}\\right) T_{a b}=0, \\\\\nJ \\Pi_{a b}=\\left(k_{a}-k_{b}\\right) t\\left(T_{a b}-t\\right), \\\\\nE_{a b}=\\left(k_{a}-k_{b}\\right)\\left(t_{1}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]\n\\end{gathered}$$\nexpress the relation of the neutral temperatures, the value of\nthe Peltier effect, and the electromotive force of a thermoelectric\ncircuit.\n\n* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.\n",
+            "mathpix_markdown": "\n--- Page 409 ---\n\ndynamics to indicate relations between the quantities which we\n have denoted by $P$ and $Q$, and has investigated the possible\n thermoelectric properties of bodies whose structure is different\n in different directions. He has also investigated experimentally\n the conditions under which these properties are developed by\n pressure, magnetization, \\&c.\n\n254.] Professor Tait* has recently investigated the electro\nmotive force of thermoelectric circuits of different metals, having\n their junctions at different temperatures. He finds that the\n electromotive force of a circuit may be expressed very ac\ncurately by the formula\n\n$$E=a\\left(t_{1}-t_{2}\\right)\\left[t_{0}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right],$$\n\nwhere $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that\n of the cold junction, and $t_{0}$ the temperature at which the two\n metals are neutral to each other. The factor $a$ is a coefficient\n depending on the nature of the two metals composing the circuit.\n This law has been verified through considerable ranges of tem\nperature by Professor Tait and his students, and he hopes to\n make the thermoelectric circuit available as a thermometric\n instrument in his experiments on the conduction of heat, and in\n other cases in which the mercurial thermometer is not convenient\n or has not a sufficient range.\n\n\nAccording to Tait's theory, the quantity which Thomson calls\n the specific heat of electricity is proportional to the absolute\n temperature in each pure metal, though its magnitude and even\n its sign vary in different metals. From this he has deduced by\n thermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$\n be the specific heats of electricity in three metals $a, b, c$, and let\n $T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals\n are neutral to each other, then the equations\n\n$$\\begin{gathered}\n\\left(k_{b}-k_{c}\\right) T_{b c}+\\left(k_{c}-k_{a}\\right) T_{c a}+\\left(k_{a}-k_{b}\\right) T_{a b}=0, \\\\\nJ \\Pi_{a b}=\\left(k_{a}-k_{b}\\right) t\\left(T_{a b}-t\\right), \\\\\nE_{a b}=\\left(k_{a}-k_{b}\\right)\\left(t_{1}-t_{2}\\right)\\left[T_{a b}-\\frac{1}{2}\\left(t_{1}+t_{2}\\right)\\right]\n\\end{gathered}$$\n\nexpress the relation of the neutral temperatures, the value of\n the Peltier effect, and the electromotive force of a thermoelectric\n circuit.\n\n\n\\footnotetext{\n* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.\n}\n",
+            "structured_lines": [
+              {
+                "page": 409,
+                "line_number": 3,
+                "type": "text",
+                "content": "dynamics to indicate relations between the quantities which we",
+                "mathpix_content": "\ndynamics to indicate relations between the quantities which we",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 4,
+                "type": "text",
+                "content": "have denoted by $P$ and $Q$, and has investigated the possible",
+                "mathpix_content": " have denoted by $P$ and $Q$, and has investigated the possible",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 5,
+                "type": "text",
+                "content": "thermoelectric properties of bodies whose structure is different",
+                "mathpix_content": " thermoelectric properties of bodies whose structure is different",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 6,
+                "type": "text",
+                "content": "in different directions. He has also investigated experimentally",
+                "mathpix_content": " in different directions. He has also investigated experimentally",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 7,
+                "type": "text",
+                "content": "the conditions under which these properties are developed by",
+                "mathpix_content": " the conditions under which these properties are developed by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 8,
+                "type": "text",
+                "content": "pressure, magnetization, \\&c.",
+                "mathpix_content": " pressure, magnetization, \\&c.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 9,
+                "type": "text",
+                "content": "254.] Professor Tait* has recently investigated the electro-",
+                "mathpix_content": "\n254.] Professor Tait* has recently investigated the electro",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 10,
+                "type": "text",
+                "content": "motive force of thermoelectric circuits of different metals, having",
+                "mathpix_content": "motive force of thermoelectric circuits of different metals, having",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 11,
+                "type": "text",
+                "content": "their junctions at different temperatures. He finds that the",
+                "mathpix_content": " their junctions at different temperatures. He finds that the",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 409,
+                "line_number": 12,
+                "type": "text",
+                "content": "electromotive force of a circuit may be expressed very ac-",
+                "mathpix_content": " electromotive force of a circuit may be expressed very ac",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 13,
+                "type": "text",
+                "content": "curately by the formula",
+                "mathpix_content": "curately by the formula",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 16,
+                "type": "text",
+                "content": "where $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+                "mathpix_content": "\nwhere $t_{1}$ is the absolute temperature of the hot junction, $t_{2}$ that",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 409,
+                "line_number": 17,
+                "type": "text",
+                "content": "of the cold junction, and $t_{0}$ the temperature at which the two",
+                "mathpix_content": " of the cold junction, and $t_{0}$ the temperature at which the two",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 18,
+                "type": "text",
+                "content": "metals are neutral to each other. The factor $a$ is a coefficient",
+                "mathpix_content": " metals are neutral to each other. The factor $a$ is a coefficient",
+                "font_size": 34,
+                "confidence": 0.9436308924341574
+              },
+              {
+                "page": 409,
+                "line_number": 19,
+                "type": "text",
+                "content": "depending on the nature of the two metals composing the circuit.",
+                "mathpix_content": " depending on the nature of the two metals composing the circuit.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 20,
+                "type": "text",
+                "content": "This law has been verified through considerable ranges of tem-",
+                "mathpix_content": " This law has been verified through considerable ranges of tem",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 21,
+                "type": "text",
+                "content": "perature by Professor Tait and his students, and he hopes to",
+                "mathpix_content": "perature by Professor Tait and his students, and he hopes to",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 22,
+                "type": "text",
+                "content": "make the thermoelectric circuit available as a thermometric",
+                "mathpix_content": " make the thermoelectric circuit available as a thermometric",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 23,
+                "type": "text",
+                "content": "instrument in his experiments on the conduction of heat, and in",
+                "mathpix_content": " instrument in his experiments on the conduction of heat, and in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 24,
+                "type": "text",
+                "content": "other cases in which the mercurial thermometer is not convenient",
+                "mathpix_content": " other cases in which the mercurial thermometer is not convenient",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 409,
+                "line_number": 25,
+                "type": "text",
+                "content": "or has not a sufficient range.",
+                "mathpix_content": " or has not a sufficient range.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 26,
+                "type": "text",
+                "content": "According to Tait's theory, the quantity which Thomson calls",
+                "mathpix_content": "\n\nAccording to Tait's theory, the quantity which Thomson calls",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 27,
+                "type": "text",
+                "content": "the specific heat of electricity is proportional to the absolute",
+                "mathpix_content": " the specific heat of electricity is proportional to the absolute",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 28,
+                "type": "text",
+                "content": "temperature in each pure metal, though its magnitude and even",
+                "mathpix_content": " temperature in each pure metal, though its magnitude and even",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 29,
+                "type": "text",
+                "content": "its sign vary in different metals. From this he has deduced by",
+                "mathpix_content": " its sign vary in different metals. From this he has deduced by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 30,
+                "type": "text",
+                "content": "thermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$",
+                "mathpix_content": " thermodynamic principles the following results. Let $k_{a} t, k_{b} t, k_{c} t$",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 31,
+                "type": "text",
+                "content": "be the specific heats of electricity in three metals $a, b, c$, and let",
+                "mathpix_content": " be the specific heats of electricity in three metals $a, b, c$, and let",
+                "font_size": 34,
+                "confidence": 0.957560290931724
+              },
+              {
+                "page": 409,
+                "line_number": 32,
+                "type": "text",
+                "content": "$T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals",
+                "mathpix_content": " $T_{b c}, T_{c a}, T_{a b}$ be the temperatures at which pairs of these metals",
+                "font_size": 34,
+                "confidence": 0.3556673526763916
+              },
+              {
+                "page": 409,
+                "line_number": 33,
+                "type": "text",
+                "content": "are neutral to each other, then the equations",
+                "mathpix_content": " are neutral to each other, then the equations",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 38,
+                "type": "text",
+                "content": "express the relation of the neutral temperatures, the value of",
+                "mathpix_content": "\nexpress the relation of the neutral temperatures, the value of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 39,
+                "type": "text",
+                "content": "the Peltier effect, and the electromotive force of a thermoelectric",
+                "mathpix_content": " the Peltier effect, and the electromotive force of a thermoelectric",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 40,
+                "type": "text",
+                "content": "circuit.",
+                "mathpix_content": " circuit.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 409,
+                "line_number": 42,
+                "type": "text",
+                "content": "* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.",
+                "mathpix_content": "\n\n\\footnotetext{\n* Proc. R. S. Edin., Session 1870-71, p. 308, also Dec. 18, 1871.\n}",
+                "font_size": 21,
+                "confidence": 0.9917194658243034
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

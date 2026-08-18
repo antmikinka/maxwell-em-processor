@@ -1,0 +1,255 @@
+{
+  "article_id": "article_17",
+  "article_number": 17,
+  "title_original": ").",
+  "title_safe": "Article",
+  "page_start": 452,
+  "page_end": 452,
+  "content": {
+    "raw_text": "\n--- Page 452 ---\n296.]\nELECTRIGITY THROUGH A GIVEN SURFACE.\n417\nknow the velocity with which the electricity passes through the\nbody, or even whether it moves in the positive or the negative\ndirection of the current. All that we know is the algebraical\nvalue of the quantity which crosses unit of area in unit of time,\na quantity corresponding to ( $\\rho u$ ) in the equation (18). We have\nno means of ascertaining the value of either of the factors $\\rho$\nor $u$, and therefore we cannot follow a particular portion of\nelectricity in its course through the body. The other method of\ninvestigation, in which we consider what passes through the\nwalls of an element of volume, is applicable to electric currents,\nand is perhaps preferable in point of form to that which we\nhave given, but as it may be found in any treatise on Hydro-\ndynamics we need not repeat it here.\n\nQuantity of Electricity which passes through a given Surface.\n296.] Let $\\Gamma$ be the resultant current at any point of the\nsurface. Let $d S$ be an element of the surface, and let $\\epsilon$ be the\nangle between $\\Gamma$ and the normal to the surface drawn outwards,\nthen the total current through the surface will be\n$$\\iint \\Gamma \\cos \\epsilon d S,$$\nthe integration being extended over the surface.\nAs in Art. 21, we may transform this integral into the form\n$$\\iint \\Gamma \\cos \\epsilon d S=\\iiint\\left(\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}\\right) d x d y d z$$\n(19)\nin the case of any closed surface, the limits of the triple integra-\ntion being those included by the surface. This is the expression\nfor the total efflux from the closed surface. Since in all cases of\nsteady currents this must be zero whatever the limits of the\nintegration, the quantity under the integral sign must vanish,\nand we obtain in this way the equation of continuity (17).\nVOL. I.\nE e\n",
+    "mathpix_markdown": "\n--- Page 452 ---\n\nknow the velocity with which the electricity passes through the\n body, or even whether it moves in the positive or the negative\n direction of the current. All that we know is the algebraical\n value of the quantity which crosses unit of area in unit of time,\n a quantity corresponding to ( $\\rho u$ ) in the equation (18). We have\n no means of ascertaining the value of either of the factors $\\rho$\n or $u$, and therefore we cannot follow a particular portion of\n electricity in its course through the body. The other method of\n investigation, in which we consider what passes through the\n walls of an element of volume, is applicable to electric currents,\n and is perhaps preferable in point of form to that which we\n have given, but as it may be found in any treatise on Hydro\ndynamics we need not repeat it here.\n\n\n\\section*{Quantity of Electricity which passes through a given Surface.}\n\n296.] Let $\\Gamma$ be the resultant current at any point of the\n surface. Let $d S$ be an element of the surface, and let $\\epsilon$ be the\n angle between $\\Gamma$ and the normal to the surface drawn outwards,\n then the total current through the surface will be\n\n$$\\iint \\Gamma \\cos \\epsilon d S,$$\n\nthe integration being extended over the surface.\n\nAs in Art. 21, we may transform this integral into the form\n\n$$\\begin{equation*}\n\\iint \\Gamma \\cos \\epsilon d S=\\iiint\\left(\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}\\right) d x d y d z \\tag{19}\n\\end{equation*}$$\n\nin the case of any closed surface, the limits of the triple integra\ntion being those included by the surface. This is the expression\n for the total efflux from the closed surface. Since in all cases of\n steady currents this must be zero whatever the limits of the\n integration, the quantity under the integral sign must vanish,\n and we obtain in this way the equation of continuity (17).\n",
+    "structured_lines": [
+      {
+        "page": 452,
+        "line_number": 4,
+        "type": "text",
+        "content": "know the velocity with which the electricity passes through the",
+        "mathpix_content": "\nknow the velocity with which the electricity passes through the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 5,
+        "type": "text",
+        "content": "body, or even whether it moves in the positive or the negative",
+        "mathpix_content": " body, or even whether it moves in the positive or the negative",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 6,
+        "type": "text",
+        "content": "direction of the current. All that we know is the algebraical",
+        "mathpix_content": " direction of the current. All that we know is the algebraical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 7,
+        "type": "text",
+        "content": "value of the quantity which crosses unit of area in unit of time,",
+        "mathpix_content": " value of the quantity which crosses unit of area in unit of time,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 8,
+        "type": "text",
+        "content": "a quantity corresponding to ( $\\rho u$ ) in the equation (18). We have",
+        "mathpix_content": " a quantity corresponding to ( $\\rho u$ ) in the equation (18). We have",
+        "font_size": 27,
+        "confidence": 0.9619140625
+      },
+      {
+        "page": 452,
+        "line_number": 9,
+        "type": "text",
+        "content": "no means of ascertaining the value of either of the factors $\\rho$",
+        "mathpix_content": " no means of ascertaining the value of either of the factors $\\rho$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 10,
+        "type": "text",
+        "content": "or $u$, and therefore we cannot follow a particular portion of",
+        "mathpix_content": " or $u$, and therefore we cannot follow a particular portion of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 11,
+        "type": "text",
+        "content": "electricity in its course through the body. The other method of",
+        "mathpix_content": " electricity in its course through the body. The other method of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 12,
+        "type": "text",
+        "content": "investigation, in which we consider what passes through the",
+        "mathpix_content": " investigation, in which we consider what passes through the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 13,
+        "type": "text",
+        "content": "walls of an element of volume, is applicable to electric currents,",
+        "mathpix_content": " walls of an element of volume, is applicable to electric currents,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 14,
+        "type": "text",
+        "content": "and is perhaps preferable in point of form to that which we",
+        "mathpix_content": " and is perhaps preferable in point of form to that which we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 15,
+        "type": "text",
+        "content": "have given, but as it may be found in any treatise on Hydro-",
+        "mathpix_content": " have given, but as it may be found in any treatise on Hydro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 16,
+        "type": "text",
+        "content": "dynamics we need not repeat it here.",
+        "mathpix_content": "dynamics we need not repeat it here.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 18,
+        "type": "text",
+        "content": "Quantity of Electricity which passes through a given Surface.",
+        "mathpix_content": "\n\n\\section*{Quantity of Electricity which passes through a given Surface.}",
+        "font_size": 27,
+        "confidence": 0.97216796875
+      },
+      {
+        "page": 452,
+        "line_number": 19,
+        "type": "text",
+        "content": "296.] Let $\\Gamma$ be the resultant current at any point of the",
+        "mathpix_content": "\n296.] Let $\\Gamma$ be the resultant current at any point of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 20,
+        "type": "text",
+        "content": "surface. Let $d S$ be an element of the surface, and let $\\epsilon$ be the",
+        "mathpix_content": " surface. Let $d S$ be an element of the surface, and let $\\epsilon$ be the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 452,
+        "line_number": 21,
+        "type": "text",
+        "content": "angle between $\\Gamma$ and the normal to the surface drawn outwards,",
+        "mathpix_content": " angle between $\\Gamma$ and the normal to the surface drawn outwards,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 22,
+        "type": "text",
+        "content": "then the total current through the surface will be",
+        "mathpix_content": " then the total current through the surface will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 25,
+        "type": "text",
+        "content": "the integration being extended over the surface.",
+        "mathpix_content": "\nthe integration being extended over the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 26,
+        "type": "text",
+        "content": "As in Art. 21, we may transform this integral into the form",
+        "mathpix_content": "\nAs in Art. 21, we may transform this integral into the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 30,
+        "type": "text",
+        "content": "in the case of any closed surface, the limits of the triple integra-",
+        "mathpix_content": "\nin the case of any closed surface, the limits of the triple integra",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 31,
+        "type": "text",
+        "content": "tion being those included by the surface. This is the expression",
+        "mathpix_content": "tion being those included by the surface. This is the expression",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 32,
+        "type": "text",
+        "content": "for the total efflux from the closed surface. Since in all cases of",
+        "mathpix_content": " for the total efflux from the closed surface. Since in all cases of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 33,
+        "type": "text",
+        "content": "steady currents this must be zero whatever the limits of the",
+        "mathpix_content": " steady currents this must be zero whatever the limits of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 34,
+        "type": "text",
+        "content": "integration, the quantity under the integral sign must vanish,",
+        "mathpix_content": " integration, the quantity under the integral sign must vanish,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 452,
+        "line_number": 35,
+        "type": "text",
+        "content": "and we obtain in this way the equation of continuity (17).",
+        "mathpix_content": " and we obtain in this way the equation of continuity (17).",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

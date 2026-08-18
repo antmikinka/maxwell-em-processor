@@ -1,0 +1,165 @@
+{
+  "article_id": "article_21",
+  "article_number": 21,
+  "title_original": ",",
+  "title_safe": "Article",
+  "page_start": 182,
+  "page_end": 182,
+  "content": {
+    "raw_text": "\n--- Page 182 ---\nIOI h.] EXTENSION OF GREEN'S THEOREM.\n147\nWe have thus, in all, six different expressions for the energy\nof the electric field. Three of these involve the charges and\npotentials of the surfaces of conductors, and are given in Art. 87.\nThe other three are volume-integrals taken throughout the\nelectric field, and involve the components of electromotive in-\ntensity or of electric displacement, or of both.\nThe first three therefore belong to the theory of action at a\ndistance, and the last three to the theory of action by means of\nthe intervening medium.\nThese three expressions for $W$ may be written,\n$$\\begin{aligned}\nW & =-\\frac{1}{2} \\iiint S \\cdot \\mathfrak{D} \\mathfrak{E} d \\zeta \\\\\nW_{\\mathscr{E}} & =-\\frac{1}{8 \\pi} \\iiint S \\cdot \\mathscr{C} \\phi(\\mathscr{E}) d \\zeta \\\\\nW_{\\mathscr{D}} & =-2 \\pi \\iiint S \\cdot \\mathfrak{D} \\phi^{-1}(\\mathfrak{D}) d \\zeta\n\\end{aligned}$$\n101h.] To extend Green's Theorem to the case of a hetero-\ngeneous anisotropic \\{non-isotropic\\} medium, we have only to\nwrite in Theorem III, Art. 21,\n$$\\begin{aligned}\nX & =\\Psi\\left[K_{x x} \\frac{d \\Phi}{d x}+K_{x y} \\frac{d \\Phi}{d y}+K_{x x} \\frac{d \\Phi}{d z}\\right] \\\\\nY & =\\Psi\\left[K_{y x} \\frac{d \\Phi}{d x}+K_{y y} \\frac{d \\Phi}{d y}+K_{y z} \\frac{d \\Phi}{d z}\\right] \\\\\nZ & =\\Psi\\left[K_{z x} \\frac{d \\Phi}{d x}+K_{z y} \\frac{d \\Phi}{d y}+K_{z z} \\frac{d \\Phi}{d z}\\right]\n\\end{aligned}$$\nand we obtain, if $l, m, n$ are the direction cosines of the outward\nnormal to the surface (remembering that the order of the suffixes\nof the coefficients is indifferent),\n$$\\begin{gathered}\n\\iint \\Psi\\left[\\left(K_{x x} l+K_{y x} m+K_{x x} n\\right) \\frac{d \\Phi}{d x}+\\left(K_{x y} l+K_{y y} m+K_{x y} n\\right) \\frac{d \\Phi}{d y}\\right. \\\\\n\\left.+\\left(K_{x z} l+K_{y z} m+K_{z z} n\\right) \\frac{d \\Phi}{d z}\\right] d s \\\\\n-\\iiint \\Psi\\left[\\frac{d}{d x}\\left(K_{x x} \\frac{d \\Phi}{d x}+K_{x y} \\frac{d \\Phi}{d y}+K_{x x} \\frac{d \\Phi}{d z}\\right)\\right. \\\\\n+\\frac{d}{d y}\\left(K_{y x} \\frac{d \\Phi}{d x}+K_{y y} \\frac{d \\Phi}{d y}+K_{y z} \\frac{d \\Phi}{d z}\\right) \\\\\n\\left.+\\frac{d}{d z}\\left(K_{z x} \\frac{d \\Phi}{d x}+K_{z y} \\frac{d \\Phi}{d y}+K_{z x} \\frac{d \\Phi}{d z}\\right)\\right] d x d y d z\n\\end{gathered}$$\n1. 0\n",
+    "mathpix_markdown": "\n--- Page 182 ---\n\n\nWe have thus, in all, six different expressions for the energy\n of the electric field. Three of these involve the charges and\n potentials of the surfaces of conductors, and are given in Art. 87.\n\n\nThe other three are volume-integrals taken throughout the\n electric field, and involve the components of electromotive in\ntensity or of electric displacement, or of both.\n\n\nThe first three therefore belong to the theory of action at a\n distance, and the last three to the theory of action by means of\n the intervening medium.\n\n\nThese three expressions for $W$ may be written,\n\n$$\\begin{aligned}\nW & =-\\frac{1}{2} \\iiint S \\cdot \\mathfrak{D} \\mathfrak{E} d \\zeta \\\\\nW_{\\mathscr{E}} & =-\\frac{1}{8 \\pi} \\iiint S \\cdot \\mathscr{C} \\phi(\\mathscr{E}) d \\zeta \\\\\nW_{\\mathscr{D}} & =-2 \\pi \\iiint S \\cdot \\mathfrak{D} \\phi^{-1}(\\mathfrak{D}) d \\zeta\n\\end{aligned}$$\n\n\n101h.] To extend Green's Theorem to the case of a hetero\ngeneous anisotropic \\{non-isotropic\\} medium, we have only to\n write in Theorem III, Art. 21,\n\n$$\\begin{aligned}\nX & =\\Psi\\left[K_{x x} \\frac{d \\Phi}{d x}+K_{x y} \\frac{d \\Phi}{d y}+K_{x x} \\frac{d \\Phi}{d z}\\right] \\\\\nY & =\\Psi\\left[K_{y x} \\frac{d \\Phi}{d x}+K_{y y} \\frac{d \\Phi}{d y}+K_{y z} \\frac{d \\Phi}{d z}\\right] \\\\\nZ & =\\Psi\\left[K_{z x} \\frac{d \\Phi}{d x}+K_{z y} \\frac{d \\Phi}{d y}+K_{z z} \\frac{d \\Phi}{d z}\\right]\n\\end{aligned}$$\n\nand we obtain, if $l, m, n$ are the direction cosines of the outward\n normal to the surface (remembering that the order of the suffixes\n of the coefficients is indifferent),\n\n$$\\begin{gathered}\n\\iint \\Psi\\left[\\left(K_{x x} l+K_{y x} m+K_{x x} n\\right) \\frac{d \\Phi}{d x}+\\left(K_{x y} l+K_{y y} m+K_{x y} n\\right) \\frac{d \\Phi}{d y}\\right. \\\\\n\\left.+\\left(K_{x z} l+K_{y z} m+K_{z z} n\\right) \\frac{d \\Phi}{d z}\\right] d s \\\\\n-\\iiint \\Psi\\left[\\frac{d}{d x}\\left(K_{x x} \\frac{d \\Phi}{d x}+K_{x y} \\frac{d \\Phi}{d y}+K_{x x} \\frac{d \\Phi}{d z}\\right)\\right. \\\\\n+\\frac{d}{d y}\\left(K_{y x} \\frac{d \\Phi}{d x}+K_{y y} \\frac{d \\Phi}{d y}+K_{y z} \\frac{d \\Phi}{d z}\\right) \\\\\n\\left.+\\frac{d}{d z}\\left(K_{z x} \\frac{d \\Phi}{d x}+K_{z y} \\frac{d \\Phi}{d y}+K_{z x} \\frac{d \\Phi}{d z}\\right)\\right] d x d y d z\n\\end{gathered}$$\n",
+    "structured_lines": [
+      {
+        "page": 182,
+        "line_number": 3,
+        "type": "text",
+        "content": "We have thus, in all, six different expressions for the energy",
+        "mathpix_content": "\n\nWe have thus, in all, six different expressions for the energy",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 4,
+        "type": "text",
+        "content": "of the electric field. Three of these involve the charges and",
+        "mathpix_content": " of the electric field. Three of these involve the charges and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 5,
+        "type": "text",
+        "content": "potentials of the surfaces of conductors, and are given in Art. 87.",
+        "mathpix_content": " potentials of the surfaces of conductors, and are given in Art. 87.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 6,
+        "type": "text",
+        "content": "The other three are volume-integrals taken throughout the",
+        "mathpix_content": "\n\nThe other three are volume-integrals taken throughout the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 7,
+        "type": "text",
+        "content": "electric field, and involve the components of electromotive in-",
+        "mathpix_content": " electric field, and involve the components of electromotive in",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 182,
+        "line_number": 8,
+        "type": "text",
+        "content": "tensity or of electric displacement, or of both.",
+        "mathpix_content": "tensity or of electric displacement, or of both.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 9,
+        "type": "text",
+        "content": "The first three therefore belong to the theory of action at a",
+        "mathpix_content": "\n\nThe first three therefore belong to the theory of action at a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 10,
+        "type": "text",
+        "content": "distance, and the last three to the theory of action by means of",
+        "mathpix_content": " distance, and the last three to the theory of action by means of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 11,
+        "type": "text",
+        "content": "the intervening medium.",
+        "mathpix_content": " the intervening medium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 12,
+        "type": "text",
+        "content": "These three expressions for $W$ may be written,",
+        "mathpix_content": "\n\nThese three expressions for $W$ may be written,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 17,
+        "type": "text",
+        "content": "101h.] To extend Green's Theorem to the case of a hetero-",
+        "mathpix_content": "\n\n101h.] To extend Green's Theorem to the case of a hetero",
+        "font_size": 27,
+        "confidence": 0.9106879234313965
+      },
+      {
+        "page": 182,
+        "line_number": 18,
+        "type": "text",
+        "content": "geneous anisotropic \\{non-isotropic\\} medium, we have only to",
+        "mathpix_content": "geneous anisotropic \\{non-isotropic\\} medium, we have only to",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 182,
+        "line_number": 19,
+        "type": "text",
+        "content": "write in Theorem III, Art. 21,",
+        "mathpix_content": " write in Theorem III, Art. 21,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 24,
+        "type": "text",
+        "content": "and we obtain, if $l, m, n$ are the direction cosines of the outward",
+        "mathpix_content": "\nand we obtain, if $l, m, n$ are the direction cosines of the outward",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 25,
+        "type": "text",
+        "content": "normal to the surface (remembering that the order of the suffixes",
+        "mathpix_content": " normal to the surface (remembering that the order of the suffixes",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 182,
+        "line_number": 26,
+        "type": "text",
+        "content": "of the coefficients is indifferent),",
+        "mathpix_content": " of the coefficients is indifferent),",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

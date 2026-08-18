@@ -1,0 +1,291 @@
+{
+  "article_id": "article_163",
+  "article_number": 163,
+  "title_original": ".] The following geometrical theorems are useful in studying",
+  "title_safe": "The following geometrical theorems are useful in studying",
+  "page_start": 289,
+  "page_end": 289,
+  "content": {
+    "raw_text": "\n--- Page 289 ---\n254\nELECTRIC IMAGES.\n[163.\npotential at the image of $B$ due to the electrical image of $A$ as $R$\nis to $O B$.\nSince this ratio depends only on $O B$ and not on $O A$, the poten-\ntial at $B$ due to any system of electrified bodies is to that at $B^{\\prime}$\ndue to the image of the system as $R$ is to $O B$.\nIf $r$ be the distance of any point $A$ from the centre, and $r^{\\prime}$ that\nof its image $A^{\\prime}$, and if $e$ be the electrification of $A$, and $e^{\\prime}$ that of\n$A^{\\prime}$, also if $L, S, K$ be linear, superficial, and solid elements at $A$,\nand $L^{\\prime}, S^{\\prime}, K^{\\prime}$ their images at $A^{\\prime}$, and $\\lambda, \\sigma, \\rho, \\lambda^{\\prime}, \\sigma^{\\prime}, \\rho^{\\prime}$ the corre-\nsponding line-surface and volume-densities of electricity at the\ntwo points, $V$ the potential at $A$ due to the original system, and\n$V^{\\prime}$ the potential at $A^{\\prime}$ due to the inverse system, then\n$$\\left.\\begin{array}{c}\n\\frac{r^{\\prime}}{r}=\\frac{L^{\\prime}}{L}=\\frac{R^{2}}{r^{2}}=\\frac{r^{2}}{R^{2}}, \\quad \\frac{S^{\\prime}}{\\bar{S}}=\\frac{R^{4}}{r^{4}}=\\frac{r^{4}}{R^{4}}, \\quad \\frac{K^{\\prime}}{K}=\\frac{R^{6}}{r^{6}}=\\frac{r^{6}}{R^{6}}, \\\\\n\\frac{e^{\\prime}}{e}=\\frac{R}{r}=\\frac{r^{\\prime}}{R}, \\quad \\frac{\\lambda^{\\prime}}{\\lambda}=\\frac{r}{R}=\\frac{R}{r^{\\prime}}, \\\\\n\\frac{\\sigma^{\\prime}}{\\sigma}=\\frac{r^{3}}{R^{3}}=\\frac{R^{3}}{r^{\\prime 3}}, \\quad \\frac{\\rho^{\\prime}}{\\rho}=\\frac{r^{5}}{R^{5}}=\\frac{R^{5}}{r^{\\prime 5}}, \\\\\nV^{\\prime}=\\frac{r}{R}=\\frac{R}{r^{\\prime}} .\n\\end{array}\\right\\}$$\n$*(18)$\nIf in the original system a certain surface is that of a con-\nductor, and has therefore a constant potential $P$, then in the\ntransformed system the image of the surface will have a potential\n$P \\frac{R}{r^{\\prime}}$. But by placing at $O$, the centre of inversion, a quantity\nof electricity equal to $-P R$, the potential of the transformed\nsurface is reduced to zero.\nHence, if we know the distribution of electricity on a con-\nductor when insulated in open space and charged to the potential\n$P$, we can find by inversion the distribution on a conductor,\nwhose form is the image of the first, under the influence of an\nelectrified point with a charge $-P R$ placed at the centre of\ninversion, the conductor being in connexion with the earth.\n163.] The following geometrical theorems are useful in studying\ncases of inversion.\nEvery sphere becomes, when inverted, another sphere, unless\nit passes through the centre of inversion, in which case it becomes\na plane.\nIf the distances of the centres of the spheres from the centre\n\n",
+    "mathpix_markdown": "\n--- Page 289 ---\n\npotential at the image of $B$ due to the electrical image of $A$ as $R$\n is to $O B$.\n\n\nSince this ratio depends only on $O B$ and not on $O A$, the poten\ntial at $B$ due to any system of electrified bodies is to that at $B^{\\prime}$\n due to the image of the system as $R$ is to $O B$.\n\n\nIf $r$ be the distance of any point $A$ from the centre, and $r^{\\prime}$ that\n of its image $A^{\\prime}$, and if $e$ be the electrification of $A$, and $e^{\\prime}$ that of\n $A^{\\prime}$, also if $L, S, K$ be linear, superficial, and solid elements at $A$,\n and $L^{\\prime}, S^{\\prime}, K^{\\prime}$ their images at $A^{\\prime}$, and $\\lambda, \\sigma, \\rho, \\lambda^{\\prime}, \\sigma^{\\prime}, \\rho^{\\prime}$ the corre\nsponding line-surface and volume-densities of electricity at the\n two points, $V$ the potential at $A$ due to the original system, and\n $V^{\\prime}$ the potential at $A^{\\prime}$ due to the inverse system, then\n\n$$\\left.\\begin{array}{c}\n\\frac{r^{\\prime}}{r}=\\frac{L^{\\prime}}{L}=\\frac{R^{2}}{r^{2}}=\\frac{r^{2}}{R^{2}}, \\quad \\frac{S^{\\prime}}{\\bar{S}}=\\frac{R^{4}}{r^{4}}=\\frac{r^{4}}{R^{4}}, \\quad \\frac{K^{\\prime}}{K}=\\frac{R^{6}}{r^{6}}=\\frac{r^{6}}{R^{6}}, \\\\\n\\frac{e^{\\prime}}{e}=\\frac{R}{r}=\\frac{r^{\\prime}}{R}, \\quad \\frac{\\lambda^{\\prime}}{\\lambda}=\\frac{r}{R}=\\frac{R}{r^{\\prime}},  \\tag{18}\\\\\n\\frac{\\sigma^{\\prime}}{\\sigma}=\\frac{r^{3}}{R^{3}}=\\frac{R^{3}}{r^{\\prime 3}}, \\quad \\frac{\\rho^{\\prime}}{\\rho}=\\frac{r^{5}}{R^{5}}=\\frac{R^{5}}{r^{\\prime 5}}, \\\\\nV^{\\prime}=\\frac{r}{R}=\\frac{R}{r^{\\prime}} .\n\\end{array}\\right\\}$$\n\n\nIf in the original system a certain surface is that of a con\nductor, and has therefore a constant potential $P$, then in the\n transformed system the image of the surface will have a potential\n $P \\frac{R}{r^{\\prime}}$. But by placing at $O$, the centre of inversion, a quantity\n of electricity equal to $-P R$, the potential of the transformed\n surface is reduced to zero.\n\n\nHence, if we know the distribution of electricity on a con\nductor when insulated in open space and charged to the potential\n $P$, we can find by inversion the distribution on a conductor,\n whose form is the image of the first, under the influence of an\n electrified point with a charge $-P R$ placed at the centre of\n inversion, the conductor being in connexion with the earth.\n\n163.] The following geometrical theorems are useful in studying\n cases of inversion.\n\n\nEvery sphere becomes, when inverted, another sphere, unless\n it passes through the centre of inversion, in which case it becomes\n a plane.\n\n\nIf the distances of the centres of the spheres from the centre\n",
+    "structured_lines": [
+      {
+        "page": 289,
+        "line_number": 4,
+        "type": "text",
+        "content": "potential at the image of $B$ due to the electrical image of $A$ as $R$",
+        "mathpix_content": "\npotential at the image of $B$ due to the electrical image of $A$ as $R$",
+        "font_size": 34,
+        "confidence": 0.9907379080541432
+      },
+      {
+        "page": 289,
+        "line_number": 5,
+        "type": "text",
+        "content": "is to $O B$.",
+        "mathpix_content": " is to $O B$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 6,
+        "type": "text",
+        "content": "Since this ratio depends only on $O B$ and not on $O A$, the poten-",
+        "mathpix_content": "\n\nSince this ratio depends only on $O B$ and not on $O A$, the poten",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 289,
+        "line_number": 7,
+        "type": "text",
+        "content": "tial at $B$ due to any system of electrified bodies is to that at $B^{\\prime}$",
+        "mathpix_content": "tial at $B$ due to any system of electrified bodies is to that at $B^{\\prime}$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 8,
+        "type": "text",
+        "content": "due to the image of the system as $R$ is to $O B$.",
+        "mathpix_content": " due to the image of the system as $R$ is to $O B$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 9,
+        "type": "text",
+        "content": "If $r$ be the distance of any point $A$ from the centre, and $r^{\\prime}$ that",
+        "mathpix_content": "\n\nIf $r$ be the distance of any point $A$ from the centre, and $r^{\\prime}$ that",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 10,
+        "type": "text",
+        "content": "of its image $A^{\\prime}$, and if $e$ be the electrification of $A$, and $e^{\\prime}$ that of",
+        "mathpix_content": " of its image $A^{\\prime}$, and if $e$ be the electrification of $A$, and $e^{\\prime}$ that of",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 289,
+        "line_number": 11,
+        "type": "text",
+        "content": "$A^{\\prime}$, also if $L, S, K$ be linear, superficial, and solid elements at $A$,",
+        "mathpix_content": " $A^{\\prime}$, also if $L, S, K$ be linear, superficial, and solid elements at $A$,",
+        "font_size": 34,
+        "confidence": 0.998535871389322
+      },
+      {
+        "page": 289,
+        "line_number": 12,
+        "type": "text",
+        "content": "and $L^{\\prime}, S^{\\prime}, K^{\\prime}$ their images at $A^{\\prime}$, and $\\lambda, \\sigma, \\rho, \\lambda^{\\prime}, \\sigma^{\\prime}, \\rho^{\\prime}$ the corre-",
+        "mathpix_content": " and $L^{\\prime}, S^{\\prime}, K^{\\prime}$ their images at $A^{\\prime}$, and $\\lambda, \\sigma, \\rho, \\lambda^{\\prime}, \\sigma^{\\prime}, \\rho^{\\prime}$ the corre",
+        "font_size": 34,
+        "confidence": 0.39023950205024915
+      },
+      {
+        "page": 289,
+        "line_number": 13,
+        "type": "text",
+        "content": "sponding line-surface and volume-densities of electricity at the",
+        "mathpix_content": "sponding line-surface and volume-densities of electricity at the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 14,
+        "type": "text",
+        "content": "two points, $V$ the potential at $A$ due to the original system, and",
+        "mathpix_content": " two points, $V$ the potential at $A$ due to the original system, and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 15,
+        "type": "text",
+        "content": "$V^{\\prime}$ the potential at $A^{\\prime}$ due to the inverse system, then",
+        "mathpix_content": " $V^{\\prime}$ the potential at $A^{\\prime}$ due to the inverse system, then",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 22,
+        "type": "text",
+        "content": "If in the original system a certain surface is that of a con-",
+        "mathpix_content": "\n\nIf in the original system a certain surface is that of a con",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 23,
+        "type": "text",
+        "content": "ductor, and has therefore a constant potential $P$, then in the",
+        "mathpix_content": "ductor, and has therefore a constant potential $P$, then in the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 24,
+        "type": "text",
+        "content": "transformed system the image of the surface will have a potential",
+        "mathpix_content": " transformed system the image of the surface will have a potential",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 25,
+        "type": "text",
+        "content": "$P \\frac{R}{r^{\\prime}}$. But by placing at $O$, the centre of inversion, a quantity",
+        "mathpix_content": " $P \\frac{R}{r^{\\prime}}$. But by placing at $O$, the centre of inversion, a quantity",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 26,
+        "type": "text",
+        "content": "of electricity equal to $-P R$, the potential of the transformed",
+        "mathpix_content": " of electricity equal to $-P R$, the potential of the transformed",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 27,
+        "type": "text",
+        "content": "surface is reduced to zero.",
+        "mathpix_content": " surface is reduced to zero.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 28,
+        "type": "text",
+        "content": "Hence, if we know the distribution of electricity on a con-",
+        "mathpix_content": "\n\nHence, if we know the distribution of electricity on a con",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 29,
+        "type": "text",
+        "content": "ductor when insulated in open space and charged to the potential",
+        "mathpix_content": "ductor when insulated in open space and charged to the potential",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 289,
+        "line_number": 30,
+        "type": "text",
+        "content": "$P$, we can find by inversion the distribution on a conductor,",
+        "mathpix_content": " $P$, we can find by inversion the distribution on a conductor,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 31,
+        "type": "text",
+        "content": "whose form is the image of the first, under the influence of an",
+        "mathpix_content": " whose form is the image of the first, under the influence of an",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 32,
+        "type": "text",
+        "content": "electrified point with a charge $-P R$ placed at the centre of",
+        "mathpix_content": " electrified point with a charge $-P R$ placed at the centre of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 33,
+        "type": "text",
+        "content": "inversion, the conductor being in connexion with the earth.",
+        "mathpix_content": " inversion, the conductor being in connexion with the earth.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 34,
+        "type": "text",
+        "content": "163.] The following geometrical theorems are useful in studying",
+        "mathpix_content": "\n163.] The following geometrical theorems are useful in studying",
+        "font_size": 34,
+        "confidence": 0.943359375
+      },
+      {
+        "page": 289,
+        "line_number": 35,
+        "type": "text",
+        "content": "cases of inversion.",
+        "mathpix_content": " cases of inversion.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 36,
+        "type": "text",
+        "content": "Every sphere becomes, when inverted, another sphere, unless",
+        "mathpix_content": "\n\nEvery sphere becomes, when inverted, another sphere, unless",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 37,
+        "type": "text",
+        "content": "it passes through the centre of inversion, in which case it becomes",
+        "mathpix_content": " it passes through the centre of inversion, in which case it becomes",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 38,
+        "type": "text",
+        "content": "a plane.",
+        "mathpix_content": " a plane.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 289,
+        "line_number": 39,
+        "type": "text",
+        "content": "If the distances of the centres of the spheres from the centre",
+        "mathpix_content": "\n\nIf the distances of the centres of the spheres from the centre",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

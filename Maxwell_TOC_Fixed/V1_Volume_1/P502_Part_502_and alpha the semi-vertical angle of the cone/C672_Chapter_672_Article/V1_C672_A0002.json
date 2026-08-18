@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "\\int_{0}^{\\infty} \\frac{\\sin (2 t \\log \\xi)-a \\sin (2 t \\log \\xi / a)}{\\left(\\epsilon^{2 \\pi t}-1\\right)\\left(1-2 a \\cos (2 t \\log a)+a^{2}\\right)}\\right\\} d t",
+  "title_safe": "int0infty fracsin 2 t log xi-a sin 2 t log xi SLASH alefteps",
+  "page_start": 318,
+  "page_end": 317,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

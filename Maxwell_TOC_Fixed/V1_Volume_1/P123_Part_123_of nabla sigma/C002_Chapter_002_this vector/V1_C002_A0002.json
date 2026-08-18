@@ -1,0 +1,300 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "), this vector",
+  "title_safe": "this vector",
+  "page_start": 65,
+  "page_end": 65,
+  "content": {
+    "raw_text": "\n--- Page 65 ---\n30\nPRELIMINARY.\n[25.\nThe scalar part is\n$$S \\nabla \\sigma=-\\left(\\begin{array}{c}\nd X \\\\\nd x\n\\end{array}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right), \\text { see Theorem III, }$$\nand the vector part is\n$$V \\nabla \\sigma=i\\left(\\frac{d Z}{d y}-\\frac{d Y}{d z}\\right)+j\\left(\\frac{d X}{d z}-\\frac{d Z}{d x}\\right)+k\\left(\\frac{d Y}{d x}-\\frac{d X}{d y}\\right) .$$\nIf the relation between $X, Y, Z$ and $\\xi, \\eta, \\zeta$ is that given by\nequation (1) of the last theorem, we may write\n$$V \\nabla \\sigma=i \\xi+j \\eta+k \\zeta . \\quad \\text { See Theorem IV. }$$\nIt appears therefore that the functions of $X, Y, Z$ which occur\nin the two theorems are both obtained by the operation $\\nabla$ on\nthe vector whose components are $X, Y, Z$. The theorems them-\nselves may be written\n$$\\begin{aligned}\n\\iiint S \\nabla \\sigma d s & =\\iint S \\cdot \\sigma U \\nu d s \\\\\n\\text { and } \\int S \\sigma d \\rho & =-\\iint S \\cdot \\nabla \\sigma U v d s\n\\end{aligned}$$\n(III)\n(IV)\nwhere $d s$ is an element of a volume, $d s$ of a surface, $d \\rho$ of a\n\n\nFig. 1.\ncurve, and $U_{v}$ a unit-vector in the direction\nof the normal.\nTo understand the meaning of these func-\ntions of a vector, let us suppose that $\\sigma_{0}$ is the\nvalue of $\\sigma$ at a point $P$, and let us examine\nthe value of $\\sigma-\\sigma_{0}$ in the neighbourhood of $P$.\nIf we draw a closed surface round $P$, then,\nif the surface-integral of $\\sigma$ over this surface\nis directed inwards, $S \\nabla \\sigma$ will be positive, and the vector $\\sigma-\\sigma_{0}$\n\n\nFig. 2.\nnear the point $P$ will be on the whole directed\ntowards $P$, as in the figure (1).\nI propose therefore to call the scalar part of $\\nabla \\sigma$\nthe convergence of $\\sigma$ at the point $P$.\nTo interpret the vector part of $\\nabla \\sigma$, let the direc-\ntion of the vector whose components are $\\xi, \\eta, \\zeta$ be\nupwards from the paper and at right angles to it,\nand let us examine the vector $\\sigma-\\sigma_{0}$ near the point\n$P$. It will appear as in the figure (2), this vector\nbeing arranged on the whole tangentially in the\ndirection opposite to the hands of a watch.\nI propose (with great diffidence) to call the vector part of $\\nabla \\sigma$\nthe rotation of $\\sigma$ at the point $P$.\n",
+    "mathpix_markdown": "\n--- Page 65 ---\n\n\nThe scalar part is\n\n$$S \\nabla \\sigma=-\\left(\\begin{array}{c}\nd X \\\\\nd x\n\\end{array}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right), \\text { see Theorem III, }$$\n\nand the vector part is\n\n$$V \\nabla \\sigma=i\\left(\\frac{d Z}{d y}-\\frac{d Y}{d z}\\right)+j\\left(\\frac{d X}{d z}-\\frac{d Z}{d x}\\right)+k\\left(\\frac{d Y}{d x}-\\frac{d X}{d y}\\right) .$$\n\n\nIf the relation between $X, Y, Z$ and $\\xi, \\eta, \\zeta$ is that given by\n equation (1) of the last theorem, we may write\n\n$$V \\nabla \\sigma=i \\xi+j \\eta+k \\zeta . \\quad \\text { See Theorem IV. }$$\n\n\nIt appears therefore that the functions of $X, Y, Z$ which occur\n in the two theorems are both obtained by the operation $\\nabla$ on\n the vector whose components are $X, Y, Z$. The theorems them\nselves may be written\n\n$$\\begin{align*}\n\\iiint S \\nabla \\sigma d s & =\\iint S \\cdot \\sigma U \\nu d s  \\tag{III}\\\\\n\\text { and } \\int S \\sigma d \\rho & =-\\iint S \\cdot \\nabla \\sigma U v d s \\tag{IV}\n\\end{align*}$$\n\nwhere $d s$ is an element of a volume, $d s$ of a surface, $d \\rho$ of a\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-065.jpg?height=248&width=254&top_left_y=972&top_left_x=139}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 1.}\n\\end{figure}\n\ncurve, and $U_{v}$ a unit-vector in the direction\n of the normal.\n\n\nTo understand the meaning of these func\ntions of a vector, let us suppose that $\\sigma_{0}$ is the\n value of $\\sigma$ at a point $P$, and let us examine\n the value of $\\sigma-\\sigma_{0}$ in the neighbourhood of $P$.\n If we draw a closed surface round $P$, then,\n if the surface-integral of $\\sigma$ over this surface\n is directed inwards, $S \\nabla \\sigma$ will be positive, and the vector $\\sigma-\\sigma_{0}$\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-065.jpg?height=153&width=157&top_left_y=1334&top_left_x=153}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 2.}\n\\end{figure}\n\nnear the point $P$ will be on the whole directed\n towards $P$, as in the figure (1).\n\n\nI propose therefore to call the scalar part of $\\nabla \\sigma$\n the convergence of $\\sigma$ at the point $P$.\n\n\nTo interpret the vector part of $\\nabla \\sigma$, let the direc\ntion of the vector whose components are $\\xi, \\eta, \\zeta$ be\n upwards from the paper and at right angles to it,\n and let us examine the vector $\\sigma-\\sigma_{0}$ near the point\n $P$. It will appear as in the figure (2), this vector\n being arranged on the whole tangentially in the\n direction opposite to the hands of a watch.\n\nI propose (with great diffidence) to call the vector part of $\\nabla \\sigma$\n the rotation of $\\sigma$ at the point $P$.\n",
+    "structured_lines": [
+      {
+        "page": 65,
+        "line_number": 4,
+        "type": "text",
+        "content": "The scalar part is",
+        "mathpix_content": "\n\nThe scalar part is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 7,
+        "type": "text",
+        "content": "and the vector part is",
+        "mathpix_content": "\nand the vector part is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 10,
+        "type": "text",
+        "content": "If the relation between $X, Y, Z$ and $\\xi, \\eta, \\zeta$ is that given by",
+        "mathpix_content": "\n\nIf the relation between $X, Y, Z$ and $\\xi, \\eta, \\zeta$ is that given by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 11,
+        "type": "text",
+        "content": "equation (1) of the last theorem, we may write",
+        "mathpix_content": " equation (1) of the last theorem, we may write",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 14,
+        "type": "text",
+        "content": "It appears therefore that the functions of $X, Y, Z$ which occur",
+        "mathpix_content": "\n\nIt appears therefore that the functions of $X, Y, Z$ which occur",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 65,
+        "line_number": 15,
+        "type": "text",
+        "content": "in the two theorems are both obtained by the operation $\\nabla$ on",
+        "mathpix_content": " in the two theorems are both obtained by the operation $\\nabla$ on",
+        "font_size": 27,
+        "confidence": 0.82666015625
+      },
+      {
+        "page": 65,
+        "line_number": 16,
+        "type": "text",
+        "content": "the vector whose components are $X, Y, Z$. The theorems them-",
+        "mathpix_content": " the vector whose components are $X, Y, Z$. The theorems them",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 17,
+        "type": "text",
+        "content": "selves may be written",
+        "mathpix_content": "selves may be written",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 23,
+        "type": "text",
+        "content": "where $d s$ is an element of a volume, $d s$ of a surface, $d \\rho$ of a",
+        "mathpix_content": "\nwhere $d s$ is an element of a volume, $d s$ of a surface, $d \\rho$ of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 27,
+        "type": "text",
+        "content": "curve, and $U_{v}$ a unit-vector in the direction",
+        "mathpix_content": "\ncurve, and $U_{v}$ a unit-vector in the direction",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 28,
+        "type": "text",
+        "content": "of the normal.",
+        "mathpix_content": " of the normal.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 29,
+        "type": "text",
+        "content": "To understand the meaning of these func-",
+        "mathpix_content": "\n\nTo understand the meaning of these func",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 30,
+        "type": "text",
+        "content": "tions of a vector, let us suppose that $\\sigma_{0}$ is the",
+        "mathpix_content": "tions of a vector, let us suppose that $\\sigma_{0}$ is the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 31,
+        "type": "text",
+        "content": "value of $\\sigma$ at a point $P$, and let us examine",
+        "mathpix_content": " value of $\\sigma$ at a point $P$, and let us examine",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 32,
+        "type": "text",
+        "content": "the value of $\\sigma-\\sigma_{0}$ in the neighbourhood of $P$.",
+        "mathpix_content": " the value of $\\sigma-\\sigma_{0}$ in the neighbourhood of $P$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 65,
+        "line_number": 33,
+        "type": "text",
+        "content": "If we draw a closed surface round $P$, then,",
+        "mathpix_content": " If we draw a closed surface round $P$, then,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 34,
+        "type": "text",
+        "content": "if the surface-integral of $\\sigma$ over this surface",
+        "mathpix_content": " if the surface-integral of $\\sigma$ over this surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 35,
+        "type": "text",
+        "content": "is directed inwards, $S \\nabla \\sigma$ will be positive, and the vector $\\sigma-\\sigma_{0}$",
+        "mathpix_content": " is directed inwards, $S \\nabla \\sigma$ will be positive, and the vector $\\sigma-\\sigma_{0}$",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 65,
+        "line_number": 39,
+        "type": "text",
+        "content": "near the point $P$ will be on the whole directed",
+        "mathpix_content": "\nnear the point $P$ will be on the whole directed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 40,
+        "type": "text",
+        "content": "towards $P$, as in the figure (1).",
+        "mathpix_content": " towards $P$, as in the figure (1).",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 41,
+        "type": "text",
+        "content": "I propose therefore to call the scalar part of $\\nabla \\sigma$",
+        "mathpix_content": "\n\nI propose therefore to call the scalar part of $\\nabla \\sigma$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 42,
+        "type": "text",
+        "content": "the convergence of $\\sigma$ at the point $P$.",
+        "mathpix_content": " the convergence of $\\sigma$ at the point $P$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 43,
+        "type": "text",
+        "content": "To interpret the vector part of $\\nabla \\sigma$, let the direc-",
+        "mathpix_content": "\n\nTo interpret the vector part of $\\nabla \\sigma$, let the direc",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 65,
+        "line_number": 44,
+        "type": "text",
+        "content": "tion of the vector whose components are $\\xi, \\eta, \\zeta$ be",
+        "mathpix_content": "tion of the vector whose components are $\\xi, \\eta, \\zeta$ be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 45,
+        "type": "text",
+        "content": "upwards from the paper and at right angles to it,",
+        "mathpix_content": " upwards from the paper and at right angles to it,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 46,
+        "type": "text",
+        "content": "and let us examine the vector $\\sigma-\\sigma_{0}$ near the point",
+        "mathpix_content": " and let us examine the vector $\\sigma-\\sigma_{0}$ near the point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 47,
+        "type": "text",
+        "content": "$P$. It will appear as in the figure (2), this vector",
+        "mathpix_content": " $P$. It will appear as in the figure (2), this vector",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 48,
+        "type": "text",
+        "content": "being arranged on the whole tangentially in the",
+        "mathpix_content": " being arranged on the whole tangentially in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 49,
+        "type": "text",
+        "content": "direction opposite to the hands of a watch.",
+        "mathpix_content": " direction opposite to the hands of a watch.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 50,
+        "type": "text",
+        "content": "I propose (with great diffidence) to call the vector part of $\\nabla \\sigma$",
+        "mathpix_content": "\nI propose (with great diffidence) to call the vector part of $\\nabla \\sigma$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 65,
+        "line_number": 51,
+        "type": "text",
+        "content": "the rotation of $\\sigma$ at the point $P$.",
+        "mathpix_content": " the rotation of $\\sigma$ at the point $P$.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

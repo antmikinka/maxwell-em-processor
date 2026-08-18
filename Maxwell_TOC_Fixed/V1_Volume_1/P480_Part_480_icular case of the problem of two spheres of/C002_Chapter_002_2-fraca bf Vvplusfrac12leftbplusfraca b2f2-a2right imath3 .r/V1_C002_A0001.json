@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "} \\frac{a}{f_{1}}-e_{2} \\frac{a}{f_{3}}-\\& \\mathrm{c} ., \\tag{9}",
+  "title_safe": "fracaf1-e2 fracaf3-and mathrmc . tag9",
+  "page_start": 285,
+  "page_end": 284,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

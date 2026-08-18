@@ -1,0 +1,156 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": ", x=2 \\dot{n} c$ when $n$ is an integer can easily be found. \\}",
+  "title_safe": "xequals2 dotn c when n is an integer can easily be found",
+  "page_start": 479,
+  "page_end": 479,
+  "content": {
+    "raw_text": "\n--- Page 479 ---\n444\nCONDUCTION IN HETEROGENEOUS MEDIA.\n[318.\nThen, by Article 315, we have from the conditions for the\nsurface through $A$,\n$$I=\\frac{k_{2}-k_{1}}{k_{2}+k_{1}} E, \\quad E^{\\prime}=\\frac{2 k_{2}}{k_{2}+k_{1}} E$$\n(11)\nFor the surface through $B$ we find\n$$I_{1}^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}} E^{\\prime \\prime}, \\quad E^{\\prime \\prime}=\\frac{2 k_{3}}{k_{2}+k_{3}} E^{\\prime}$$\n(12)\nSimilarly for the surface through $A$ again,\n$$J_{1}^{\\prime}=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}} I_{1}^{\\prime}, \\quad I_{1}=\\frac{2 k_{1}}{k_{1}+k_{2}} I_{1}^{\\prime}$$\n(13)\nand for the surface through $B$,\n$$I_{2}^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}} J_{1}^{\\prime}, \\quad J_{1}=\\frac{2 k_{3}}{k_{3}+k_{2}} J_{1}^{\\prime}$$\n(14)\nIf we make $\\quad \\rho=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}}$ and $\\rho^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}}$,\nwe find for the potential in the first medium,\n$$\\begin{aligned}\n& V=\\frac{E}{P S}-\\rho \\frac{E}{P I}+\\left(1-\\rho^{2}\\right) \\rho^{\\prime} \\frac{E}{P I_{1}}+\\rho^{\\prime}\\left(1-\\rho^{2}\\right) \\rho \\rho^{\\prime} \\frac{E}{P I_{2}}+\\text { \\&c. } \\\\\n&+\\rho^{\\prime}\\left(1-\\rho^{2}\\right)\\left(\\rho \\rho^{\\prime}\\right)^{n-1} \\frac{E}{P I_{n}}+\\ldots .\n\\end{aligned}$$\n(15)\nFor the potential in the third medium we find\n$$V=\\left(1+\\rho^{\\prime}\\right)(1-\\rho) E\\left\\{\\frac{1}{P S}+\\frac{\\rho \\rho^{\\prime}}{P J_{1}}+\\text { \\&c. }+\\frac{\\left(\\rho \\rho^{\\prime}\\right)^{n}}{P J_{n}}+\\ldots\\right\\}^{*}$$\n(16)\n* \\{These expressions may be reduced to definite integrals by the relation\n$$\\frac{1}{\\sqrt{a^{3}+b^{2}}}=\\int_{0}^{\\infty} J_{0}(b t) e^{-a t} d t$$\nwhere $J_{0}$ denotes Bessel's function of zero order.\nHence if we take $S$ as the origin of coordinates, and the normal to the plate as\nthe axis of $x$,\n$$\\begin{aligned}\n\\frac{1}{P S} & =\\int_{0}^{\\infty} J_{0}(y t) e^{-x t} d t \\\\\n\\frac{1}{P J_{1}} & =\\int_{0}^{\\infty} J_{0}(y t) e^{-(x+2 c) t} d t\n\\end{aligned}$$\nwhere $c$ is the thickness of the plate,\n$$\\frac{1}{P J_{2}}=\\int_{0}^{\\infty} J_{0}(y t) e^{-(x+4 c) t} d t$$\nand so on. Substituting these values in (16), we see that $V$ equals\n$$E\\left(1+\\rho^{\\prime}\\right)(1-\\rho) \\int_{0}^{\\infty} \\frac{J_{0}(y t) e^{-x t}}{1-\\rho \\rho^{\\prime} e^{-2 c t}} d t$$\nThe values of this when $y=0, x=2 \\dot{n} c$ when $n$ is an integer can easily be found. \\}\n",
+    "mathpix_markdown": "\n--- Page 479 ---\n\n\nThen, by Article 315, we have from the conditions for the\n surface through $A$,\n\n$$\\begin{equation*}\nI=\\frac{k_{2}-k_{1}}{k_{2}+k_{1}} E, \\quad E^{\\prime}=\\frac{2 k_{2}}{k_{2}+k_{1}} E \\tag{11}\n\\end{equation*}$$\n\n\nFor the surface through $B$ we find\n\n$$\\begin{equation*}\nI_{1}^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}} E^{\\prime \\prime}, \\quad E^{\\prime \\prime}=\\frac{2 k_{3}}{k_{2}+k_{3}} E^{\\prime} \\tag{12}\n\\end{equation*}$$\n\n\nSimilarly for the surface through $A$ again,\n\n$$\\begin{equation*}\nJ_{1}^{\\prime}=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}} I_{1}^{\\prime}, \\quad I_{1}=\\frac{2 k_{1}}{k_{1}+k_{2}} I_{1}^{\\prime} \\tag{13}\n\\end{equation*}$$\n\nand for the surface through $B$,\n\n$$\\begin{equation*}\nI_{2}^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}} J_{1}^{\\prime}, \\quad J_{1}=\\frac{2 k_{3}}{k_{3}+k_{2}} J_{1}^{\\prime} \\tag{14}\n\\end{equation*}$$\n\n\nIf we make $\\quad \\rho=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}}$ and $\\rho^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}}$,\n\nwe find for the potential in the first medium,\n\n$$\\begin{align*}\n& V=\\frac{E}{P S}-\\rho \\frac{E}{P I}+\\left(1-\\rho^{2}\\right) \\rho^{\\prime} \\frac{E}{P I_{1}}+\\rho^{\\prime}\\left(1-\\rho^{2}\\right) \\rho \\rho^{\\prime} \\frac{E}{P I_{2}}+\\text { \\&c. } \\\\\n&+\\rho^{\\prime}\\left(1-\\rho^{2}\\right)\\left(\\rho \\rho^{\\prime}\\right)^{n-1} \\frac{E}{P I_{n}}+\\ldots . \\tag{15}\n\\end{align*}$$\n\n\nFor the potential in the third medium we find\n\n$$\\begin{equation*}\nV=\\left(1+\\rho^{\\prime}\\right)(1-\\rho) E\\left\\{\\frac{1}{P S}+\\frac{\\rho \\rho^{\\prime}}{P J_{1}}+\\text { \\&c. }+\\frac{\\left(\\rho \\rho^{\\prime}\\right)^{n}}{P J_{n}}+\\ldots\\right\\}^{*} \\tag{16}\n\\end{equation*}$$\n\n* \\{These expressions may be reduced to definite integrals by the relation\n\n$$\\frac{1}{\\sqrt{a^{3}+b^{2}}}=\\int_{0}^{\\infty} J_{0}(b t) e^{-a t} d t$$\n\nwhere $J_{0}$ denotes Bessel's function of zero order.\n\nHence if we take $S$ as the origin of coordinates, and the normal to the plate as\n the axis of $x$,\n\n$$\\begin{aligned}\n\\frac{1}{P S} & =\\int_{0}^{\\infty} J_{0}(y t) e^{-x t} d t \\\\\n\\frac{1}{P J_{1}} & =\\int_{0}^{\\infty} J_{0}(y t) e^{-(x+2 c) t} d t\n\\end{aligned}$$\n\nwhere $c$ is the thickness of the plate,\n\n$$\\frac{1}{P J_{2}}=\\int_{0}^{\\infty} J_{0}(y t) e^{-(x+4 c) t} d t$$\n\nand so on. Substituting these values in (16), we see that $V$ equals\n\n$$E\\left(1+\\rho^{\\prime}\\right)(1-\\rho) \\int_{0}^{\\infty} \\frac{J_{0}(y t) e^{-x t}}{1-\\rho \\rho^{\\prime} e^{-2 c t}} d t$$\n\n\nThe values of this when $y=0, x=2 \\dot{n} c$ when $n$ is an integer can easily be found. \\}\n",
+    "structured_lines": [
+      {
+        "page": 479,
+        "line_number": 4,
+        "type": "text",
+        "content": "Then, by Article 315, we have from the conditions for the",
+        "mathpix_content": "\n\nThen, by Article 315, we have from the conditions for the",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 5,
+        "type": "text",
+        "content": "surface through $A$,",
+        "mathpix_content": " surface through $A$,",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 9,
+        "type": "text",
+        "content": "For the surface through $B$ we find",
+        "mathpix_content": "\n\nFor the surface through $B$ we find",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 13,
+        "type": "text",
+        "content": "Similarly for the surface through $A$ again,",
+        "mathpix_content": "\n\nSimilarly for the surface through $A$ again,",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 17,
+        "type": "text",
+        "content": "and for the surface through $B$,",
+        "mathpix_content": "\nand for the surface through $B$,",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 21,
+        "type": "text",
+        "content": "If we make $\\quad \\rho=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}}$ and $\\rho^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}}$,",
+        "mathpix_content": "\n\nIf we make $\\quad \\rho=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}}$ and $\\rho^{\\prime}=\\frac{k_{3}-k_{2}}{k_{3}+k_{2}}$,",
+        "font_size": 33,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 479,
+        "line_number": 22,
+        "type": "text",
+        "content": "we find for the potential in the first medium,",
+        "mathpix_content": "\nwe find for the potential in the first medium,",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 479,
+        "line_number": 27,
+        "type": "text",
+        "content": "For the potential in the third medium we find",
+        "mathpix_content": "\n\nFor the potential in the third medium we find",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 31,
+        "type": "text",
+        "content": "* \\{These expressions may be reduced to definite integrals by the relation",
+        "mathpix_content": "\n* \\{These expressions may be reduced to definite integrals by the relation",
+        "font_size": 26,
+        "confidence": 0.8826712146401405
+      },
+      {
+        "page": 479,
+        "line_number": 34,
+        "type": "text",
+        "content": "where $J_{0}$ denotes Bessel's function of zero order.",
+        "mathpix_content": "\nwhere $J_{0}$ denotes Bessel's function of zero order.",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 35,
+        "type": "text",
+        "content": "Hence if we take $S$ as the origin of coordinates, and the normal to the plate as",
+        "mathpix_content": "\nHence if we take $S$ as the origin of coordinates, and the normal to the plate as",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 36,
+        "type": "text",
+        "content": "the axis of $x$,",
+        "mathpix_content": " the axis of $x$,",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 40,
+        "type": "text",
+        "content": "where $c$ is the thickness of the plate,",
+        "mathpix_content": "\nwhere $c$ is the thickness of the plate,",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 479,
+        "line_number": 43,
+        "type": "text",
+        "content": "and so on. Substituting these values in (16), we see that $V$ equals",
+        "mathpix_content": "\nand so on. Substituting these values in (16), we see that $V$ equals",
+        "font_size": 26,
+        "confidence": 0.99169921875
+      },
+      {
+        "page": 479,
+        "line_number": 46,
+        "type": "text",
+        "content": "The values of this when $y=0, x=2 \\dot{n} c$ when $n$ is an integer can easily be found. \\}",
+        "mathpix_content": "\n\nThe values of this when $y=0, x=2 \\dot{n} c$ when $n$ is an integer can easily be found. \\}",
+        "font_size": 26,
+        "confidence": 0.5041496716439724
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

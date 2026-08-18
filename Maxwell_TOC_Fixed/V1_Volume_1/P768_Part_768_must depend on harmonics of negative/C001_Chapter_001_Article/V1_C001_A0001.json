@@ -1,0 +1,300 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}$.",
+  "title_safe": "Article",
+  "page_start": 473,
+  "page_end": 473,
+  "content": {
+    "raw_text": "\n--- Page 473 ---\n438\nCONDUCTION IN HETEROGENEOUS MEDIA.\n[312\nIn this way we can find the conditions which each term of the\nharmonic expansion of the potential must satisfy for any number\nof strata bounded by concentric spherical surfaces.\n312.] Let us suppose the radius of the first spherical surface\nto be $\\alpha_{1}$, and let there be a second spherical surface of radius $\\alpha_{2}$\ngreater than $a_{1}$, beyond which the specific resistance is $k_{3}$. If\nthere are no sources or sinks of electricity within these spheres\nthere will be no infinite values of $V$, and we shall have $B_{1}=0$.\nWe then find for $A_{3}$ and $B_{3}$, the coefficients for the outer\nmedium,\n$$\\left.\\begin{array}{rl}\nA_{3} k_{1} k_{2}(2 i+1)^{2}= & {\\left[\\left\\{k_{1}(i+1)+k_{2} i\\right\\}\\left\\{k_{2}(i+1)+k_{3} i\\right\\}\\right.} \\\\\n& \\left.+i(i+1)\\left(k_{1}-k_{2}\\right)\\left(k_{2}-k_{3}\\right)\\left(\\frac{a_{1}}{a_{2}}\\right)^{2 i+1}\\right] A_{1} \\\\\nB_{3} k_{1} k_{2}(2 i+1)^{2}= & {\\left[i\\left(k_{2}-k_{3}\\right)\\left\\{k_{1}(i+1)+k_{2} i\\right\\} a_{2}^{2 i+1}\\right.} \\\\\n& \\left.+i\\left(k_{1}-k_{2}\\right)\\left\\{k_{2} i+k_{3}(i+1)\\right\\} a_{1}^{2 i+1}\\right] A_{1} .\n\\end{array}\\right\\}$$\n(6)\nThe value of the potential in the outer medium depends partly\non the external sources of electricity, which produce currents\nindependently of the existence of the sphere of heterogeneous\nmatter within, and partly on the disturbance caused by the\nintroduction of the heterogeneous sphere.\nThe first part must depend on solid harmonics of positive\ndegrees only, because it cannot have infinite values within the\nsphere. The second part must depend on harmonics of negative\ndegrees, because it must vanish at an infinite distance from the\ncentre of the sphere.\nHence the potential due to the external electromotive forces\nmust be expanded in a series of solid harmonics of positive\ndegree. Let $A_{3}$ be the coefficient of one of these, of the form\n$$A_{3} S_{i} r^{i}$$\nThen we can find $A_{1}$, the corresponding coefficient for the\ninner sphere by equation (6), and from this deduce $A_{2}, B_{2}$,\nand $B_{3}$. Of these $B_{3}$ represents the effect on the potential in\nthe outer medium due to the introduction of the heterogeneous\nsphere.\nLet us now suppose $k_{3}=k_{1}$, so that the case is that of a hollow\nshell for which $k=k_{2}$, separating an inner from an outer portion\nof a medium for which $k=k_{1}$.\n",
+    "mathpix_markdown": "\n--- Page 473 ---\n\n\nIn this way we can find the conditions which each term of the\n harmonic expansion of the potential must satisfy for any number\n of strata bounded by concentric spherical surfaces.\n\n312.] Let us suppose the radius of the first spherical surface\n to be $\\alpha_{1}$, and let there be a second spherical surface of radius $\\alpha_{2}$\n greater than $a_{1}$, beyond which the specific resistance is $k_{3}$. If\n there are no sources or sinks of electricity within these spheres\n there will be no infinite values of $V$, and we shall have $B_{1}=0$.\n\n\nWe then find for $A_{3}$ and $B_{3}$, the coefficients for the outer\n medium,\n\n$$\\left.\\begin{array}{rl}\nA_{3} k_{1} k_{2}(2 i+1)^{2}= & {\\left[\\left\\{k_{1}(i+1)+k_{2} i\\right\\}\\left\\{k_{2}(i+1)+k_{3} i\\right\\}\\right.}  \\tag{6}\\\\\n& \\left.+i(i+1)\\left(k_{1}-k_{2}\\right)\\left(k_{2}-k_{3}\\right)\\left(\\frac{a_{1}}{a_{2}}\\right)^{2 i+1}\\right] A_{1} \\\\\nB_{3} k_{1} k_{2}(2 i+1)^{2}= & {\\left[i\\left(k_{2}-k_{3}\\right)\\left\\{k_{1}(i+1)+k_{2} i\\right\\} a_{2}^{2 i+1}\\right.} \\\\\n& \\left.+i\\left(k_{1}-k_{2}\\right)\\left\\{k_{2} i+k_{3}(i+1)\\right\\} a_{1}^{2 i+1}\\right] A_{1} .\n\\end{array}\\right\\}$$\n\n\nThe value of the potential in the outer medium depends partly\n on the external sources of electricity, which produce currents\n independently of the existence of the sphere of heterogeneous\n matter within, and partly on the disturbance caused by the\n introduction of the heterogeneous sphere.\n\n\nThe first part must depend on solid harmonics of positive\n degrees only, because it cannot have infinite values within the\n sphere. The second part must depend on harmonics of negative\n degrees, because it must vanish at an infinite distance from the\n centre of the sphere.\n\n\nHence the potential due to the external electromotive forces\n must be expanded in a series of solid harmonics of positive\n degree. Let $A_{3}$ be the coefficient of one of these, of the form\n\n$$A_{3} S_{i} r^{i}$$\n\n\nThen we can find $A_{1}$, the corresponding coefficient for the\n inner sphere by equation (6), and from this deduce $A_{2}, B_{2}$,\n and $B_{3}$. Of these $B_{3}$ represents the effect on the potential in\n the outer medium due to the introduction of the heterogeneous\n sphere.\n\n\nLet us now suppose $k_{3}=k_{1}$, so that the case is that of a hollow\n shell for which $k=k_{2}$, separating an inner from an outer portion\n of a medium for which $k=k_{1}$.\n",
+    "structured_lines": [
+      {
+        "page": 473,
+        "line_number": 4,
+        "type": "text",
+        "content": "In this way we can find the conditions which each term of the",
+        "mathpix_content": "\n\nIn this way we can find the conditions which each term of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 5,
+        "type": "text",
+        "content": "harmonic expansion of the potential must satisfy for any number",
+        "mathpix_content": " harmonic expansion of the potential must satisfy for any number",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 6,
+        "type": "text",
+        "content": "of strata bounded by concentric spherical surfaces.",
+        "mathpix_content": " of strata bounded by concentric spherical surfaces.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 7,
+        "type": "text",
+        "content": "312.] Let us suppose the radius of the first spherical surface",
+        "mathpix_content": "\n312.] Let us suppose the radius of the first spherical surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 8,
+        "type": "text",
+        "content": "to be $\\alpha_{1}$, and let there be a second spherical surface of radius $\\alpha_{2}$",
+        "mathpix_content": " to be $\\alpha_{1}$, and let there be a second spherical surface of radius $\\alpha_{2}$",
+        "font_size": 27,
+        "confidence": 0.5989889501270227
+      },
+      {
+        "page": 473,
+        "line_number": 9,
+        "type": "text",
+        "content": "greater than $a_{1}$, beyond which the specific resistance is $k_{3}$. If",
+        "mathpix_content": " greater than $a_{1}$, beyond which the specific resistance is $k_{3}$. If",
+        "font_size": 27,
+        "confidence": 0.98193359375
+      },
+      {
+        "page": 473,
+        "line_number": 10,
+        "type": "text",
+        "content": "there are no sources or sinks of electricity within these spheres",
+        "mathpix_content": " there are no sources or sinks of electricity within these spheres",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 11,
+        "type": "text",
+        "content": "there will be no infinite values of $V$, and we shall have $B_{1}=0$.",
+        "mathpix_content": " there will be no infinite values of $V$, and we shall have $B_{1}=0$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 12,
+        "type": "text",
+        "content": "We then find for $A_{3}$ and $B_{3}$, the coefficients for the outer",
+        "mathpix_content": "\n\nWe then find for $A_{3}$ and $B_{3}$, the coefficients for the outer",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 13,
+        "type": "text",
+        "content": "medium,",
+        "mathpix_content": " medium,",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 473,
+        "line_number": 17,
+        "type": "text",
+        "content": "The value of the potential in the outer medium depends partly",
+        "mathpix_content": "\n\nThe value of the potential in the outer medium depends partly",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 18,
+        "type": "text",
+        "content": "on the external sources of electricity, which produce currents",
+        "mathpix_content": " on the external sources of electricity, which produce currents",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 19,
+        "type": "text",
+        "content": "independently of the existence of the sphere of heterogeneous",
+        "mathpix_content": " independently of the existence of the sphere of heterogeneous",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 20,
+        "type": "text",
+        "content": "matter within, and partly on the disturbance caused by the",
+        "mathpix_content": " matter within, and partly on the disturbance caused by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 21,
+        "type": "text",
+        "content": "introduction of the heterogeneous sphere.",
+        "mathpix_content": " introduction of the heterogeneous sphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 22,
+        "type": "text",
+        "content": "The first part must depend on solid harmonics of positive",
+        "mathpix_content": "\n\nThe first part must depend on solid harmonics of positive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 23,
+        "type": "text",
+        "content": "degrees only, because it cannot have infinite values within the",
+        "mathpix_content": " degrees only, because it cannot have infinite values within the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 24,
+        "type": "text",
+        "content": "sphere. The second part must depend on harmonics of negative",
+        "mathpix_content": " sphere. The second part must depend on harmonics of negative",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 25,
+        "type": "text",
+        "content": "degrees, because it must vanish at an infinite distance from the",
+        "mathpix_content": " degrees, because it must vanish at an infinite distance from the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 26,
+        "type": "text",
+        "content": "centre of the sphere.",
+        "mathpix_content": " centre of the sphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 27,
+        "type": "text",
+        "content": "Hence the potential due to the external electromotive forces",
+        "mathpix_content": "\n\nHence the potential due to the external electromotive forces",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 28,
+        "type": "text",
+        "content": "must be expanded in a series of solid harmonics of positive",
+        "mathpix_content": " must be expanded in a series of solid harmonics of positive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 29,
+        "type": "text",
+        "content": "degree. Let $A_{3}$ be the coefficient of one of these, of the form",
+        "mathpix_content": " degree. Let $A_{3}$ be the coefficient of one of these, of the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 32,
+        "type": "text",
+        "content": "Then we can find $A_{1}$, the corresponding coefficient for the",
+        "mathpix_content": "\n\nThen we can find $A_{1}$, the corresponding coefficient for the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 33,
+        "type": "text",
+        "content": "inner sphere by equation (6), and from this deduce $A_{2}, B_{2}$,",
+        "mathpix_content": " inner sphere by equation (6), and from this deduce $A_{2}, B_{2}$,",
+        "font_size": 27,
+        "confidence": 0.98779296875
+      },
+      {
+        "page": 473,
+        "line_number": 34,
+        "type": "text",
+        "content": "and $B_{3}$. Of these $B_{3}$ represents the effect on the potential in",
+        "mathpix_content": " and $B_{3}$. Of these $B_{3}$ represents the effect on the potential in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 35,
+        "type": "text",
+        "content": "the outer medium due to the introduction of the heterogeneous",
+        "mathpix_content": " the outer medium due to the introduction of the heterogeneous",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 36,
+        "type": "text",
+        "content": "sphere.",
+        "mathpix_content": " sphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 37,
+        "type": "text",
+        "content": "Let us now suppose $k_{3}=k_{1}$, so that the case is that of a hollow",
+        "mathpix_content": "\n\nLet us now suppose $k_{3}=k_{1}$, so that the case is that of a hollow",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 38,
+        "type": "text",
+        "content": "shell for which $k=k_{2}$, separating an inner from an outer portion",
+        "mathpix_content": " shell for which $k=k_{2}$, separating an inner from an outer portion",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 473,
+        "line_number": 39,
+        "type": "text",
+        "content": "of a medium for which $k=k_{1}$.",
+        "mathpix_content": " of a medium for which $k=k_{1}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

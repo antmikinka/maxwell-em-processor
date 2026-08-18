@@ -1,0 +1,291 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}}{d r_{1}}=\\frac{4 \\pi \\sigma^{\\prime} K_{2}}{K_{1}-K_{2}}, \\quad \\frac{d V_{2}}{d r_{2}}=\\frac{4 \\pi \\sigma^{\\prime} K_{1}}{K_{2}-K_{2}} .",
+  "title_safe": "d r1equalsfrac4 pi sigmaprime K2K1-K2 quad fracd V2d r2equal",
+  "page_start": 135,
+  "page_end": 135,
+  "content": {
+    "raw_text": "\n--- Page 135 ---\n100\nELECTROSTATICS.\n[83 b.\nmay call $\\rho^{\\prime}$ the apparent volume-density and $\\sigma^{\\prime}$ the apparent\nsurface-density, because a distribution of electricity thus defined\nwould account for the actual distribution of potential, on the\nhypothesis that the law of electric force as given in Art. 66\nrequires no modification on account of the different properties of\ndielectrics.\nThe apparent charge of electricity within a given region may\nincrease or diminish without any passage of electricity through\nthe bounding surface of the region. We must therefore dis-\ntinguish it from the true charge, which satisfies the equation of\ncontinuity.\nIn a heterogeneous dielectric in which $K$ varies continuously,\nif $\\rho^{\\prime}$ be the apparent volume-density,\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho^{\\prime}=0 .$$\n(3)\nComparing this with the equation (1) above, we find\n$$4 \\pi\\left(\\rho-K \\rho^{\\prime}\\right)+\\frac{d K}{d x} \\frac{d V}{d x}+\\frac{d K}{d y} \\frac{d V}{d y}+\\frac{d K}{d z} \\frac{d V}{d z}=0$$\n(4)\nThe true electrification, indicated by $n$, in the dielectric whose\nvariable inductive capacity is denoted by $K$, will produce the\nsame potential at every point as the apparent electrification,\ndenoted by $\\rho^{\\prime}$, would produce in a dielectric whose inductive\ncapacity is everywhere equal to unity.\nThe apparent surface charge, $\\sigma^{\\prime}$, is that deduced from the\nelectrical forces in the neighbourhood of the surface, using the\nordinary characteristic equation\n$$\\frac{d V_{1}}{d v_{1}}+\\frac{d V_{2}}{d v_{2}}+4 \\pi \\sigma^{\\prime}=0 .$$\n(5)\nIf a solid dielectric of any form is a perfect insulator, and if\nits surface receives no charge, then the true electrification\nremains zero, whatever be the electrical forces acting on it.\nHence\n$$\\begin{gathered}\nK_{1} \\frac{d V_{1}}{d \\nu_{1}}+K_{2} \\frac{d V_{2}}{d r_{2}}=0 \\\\\n\\frac{d V_{1}}{d r_{1}}=\\frac{4 \\pi \\sigma^{\\prime} K_{2}}{K_{1}-K_{2}}, \\quad \\frac{d V_{2}}{d r_{2}}=\\frac{4 \\pi \\sigma^{\\prime} K_{1}}{K_{2}-K_{2}} .\n\\end{gathered}$$\nThe surface-density $\\sigma^{\\prime}$ is that of the apparent electrification\nproduced at the surface of the solid dielectric by induction. It\ndisappears entirely when the inducing force is removed, but if\nduring the action of the inducing force the apparent electrifica-\n",
+    "mathpix_markdown": "\n--- Page 135 ---\n\nmay call $\\rho^{\\prime}$ the apparent volume-density and $\\sigma^{\\prime}$ the apparent\n surface-density, because a distribution of electricity thus defined\n would account for the actual distribution of potential, on the\n hypothesis that the law of electric force as given in Art. 66\n requires no modification on account of the different properties of\n dielectrics.\n\n\nThe apparent charge of electricity within a given region may\n increase or diminish without any passage of electricity through\n the bounding surface of the region. We must therefore dis\ntinguish it from the true charge, which satisfies the equation of\n continuity.\n\n\nIn a heterogeneous dielectric in which $K$ varies continuously,\n if $\\rho^{\\prime}$ be the apparent volume-density,\n\n$$\\begin{equation*}\n\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho^{\\prime}=0 . \\tag{3}\n\\end{equation*}$$\n\n\nComparing this with the equation (1) above, we find\n\n$$\\begin{equation*}\n4 \\pi\\left(\\rho-K \\rho^{\\prime}\\right)+\\frac{d K}{d x} \\frac{d V}{d x}+\\frac{d K}{d y} \\frac{d V}{d y}+\\frac{d K}{d z} \\frac{d V}{d z}=0 \\tag{4}\n\\end{equation*}$$\n\n\nThe true electrification, indicated by $n$, in the dielectric whose\n variable inductive capacity is denoted by $K$, will produce the\n same potential at every point as the apparent electrification,\n denoted by $\\rho^{\\prime}$, would produce in a dielectric whose inductive\n capacity is everywhere equal to unity.\n\n\nThe apparent surface charge, $\\sigma^{\\prime}$, is that deduced from the\n electrical forces in the neighbourhood of the surface, using the\n ordinary characteristic equation\n\n$$\\begin{equation*}\n\\frac{d V_{1}}{d v_{1}}+\\frac{d V_{2}}{d v_{2}}+4 \\pi \\sigma^{\\prime}=0 . \\tag{5}\n\\end{equation*}$$\n\n\nIf a solid dielectric of any form is a perfect insulator, and if\n its surface receives no charge, then the true electrification\n remains zero, whatever be the electrical forces acting on it.\n\n\nHence\n\n$$\\begin{gathered}\nK_{1} \\frac{d V_{1}}{d \\nu_{1}}+K_{2} \\frac{d V_{2}}{d r_{2}}=0 \\\\\n\\frac{d V_{1}}{d r_{1}}=\\frac{4 \\pi \\sigma^{\\prime} K_{2}}{K_{1}-K_{2}}, \\quad \\frac{d V_{2}}{d r_{2}}=\\frac{4 \\pi \\sigma^{\\prime} K_{1}}{K_{2}-K_{2}} .\n\\end{gathered}$$\n\n\nThe surface-density $\\sigma^{\\prime}$ is that of the apparent electrification\n produced at the surface of the solid dielectric by induction. It\n disappears entirely when the inducing force is removed, but if\n during the action of the inducing force the apparent electrifica-\n",
+    "structured_lines": [
+      {
+        "page": 135,
+        "line_number": 4,
+        "type": "text",
+        "content": "may call $\\rho^{\\prime}$ the apparent volume-density and $\\sigma^{\\prime}$ the apparent",
+        "mathpix_content": "\nmay call $\\rho^{\\prime}$ the apparent volume-density and $\\sigma^{\\prime}$ the apparent",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 5,
+        "type": "text",
+        "content": "surface-density, because a distribution of electricity thus defined",
+        "mathpix_content": " surface-density, because a distribution of electricity thus defined",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 6,
+        "type": "text",
+        "content": "would account for the actual distribution of potential, on the",
+        "mathpix_content": " would account for the actual distribution of potential, on the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 7,
+        "type": "text",
+        "content": "hypothesis that the law of electric force as given in Art. 66",
+        "mathpix_content": " hypothesis that the law of electric force as given in Art. 66",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 8,
+        "type": "text",
+        "content": "requires no modification on account of the different properties of",
+        "mathpix_content": " requires no modification on account of the different properties of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 9,
+        "type": "text",
+        "content": "dielectrics.",
+        "mathpix_content": " dielectrics.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 10,
+        "type": "text",
+        "content": "The apparent charge of electricity within a given region may",
+        "mathpix_content": "\n\nThe apparent charge of electricity within a given region may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 11,
+        "type": "text",
+        "content": "increase or diminish without any passage of electricity through",
+        "mathpix_content": " increase or diminish without any passage of electricity through",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 12,
+        "type": "text",
+        "content": "the bounding surface of the region. We must therefore dis-",
+        "mathpix_content": " the bounding surface of the region. We must therefore dis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 13,
+        "type": "text",
+        "content": "tinguish it from the true charge, which satisfies the equation of",
+        "mathpix_content": "tinguish it from the true charge, which satisfies the equation of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 14,
+        "type": "text",
+        "content": "continuity.",
+        "mathpix_content": " continuity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 15,
+        "type": "text",
+        "content": "In a heterogeneous dielectric in which $K$ varies continuously,",
+        "mathpix_content": "\n\nIn a heterogeneous dielectric in which $K$ varies continuously,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 16,
+        "type": "text",
+        "content": "if $\\rho^{\\prime}$ be the apparent volume-density,",
+        "mathpix_content": " if $\\rho^{\\prime}$ be the apparent volume-density,",
+        "font_size": 27,
+        "confidence": 0.9694175720214844
+      },
+      {
+        "page": 135,
+        "line_number": 20,
+        "type": "text",
+        "content": "Comparing this with the equation (1) above, we find",
+        "mathpix_content": "\n\nComparing this with the equation (1) above, we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 24,
+        "type": "text",
+        "content": "The true electrification, indicated by $n$, in the dielectric whose",
+        "mathpix_content": "\n\nThe true electrification, indicated by $n$, in the dielectric whose",
+        "font_size": 27,
+        "confidence": 0.96923828125
+      },
+      {
+        "page": 135,
+        "line_number": 25,
+        "type": "text",
+        "content": "variable inductive capacity is denoted by $K$, will produce the",
+        "mathpix_content": " variable inductive capacity is denoted by $K$, will produce the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 26,
+        "type": "text",
+        "content": "same potential at every point as the apparent electrification,",
+        "mathpix_content": " same potential at every point as the apparent electrification,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 27,
+        "type": "text",
+        "content": "denoted by $\\rho^{\\prime}$, would produce in a dielectric whose inductive",
+        "mathpix_content": " denoted by $\\rho^{\\prime}$, would produce in a dielectric whose inductive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 28,
+        "type": "text",
+        "content": "capacity is everywhere equal to unity.",
+        "mathpix_content": " capacity is everywhere equal to unity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 29,
+        "type": "text",
+        "content": "The apparent surface charge, $\\sigma^{\\prime}$, is that deduced from the",
+        "mathpix_content": "\n\nThe apparent surface charge, $\\sigma^{\\prime}$, is that deduced from the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 30,
+        "type": "text",
+        "content": "electrical forces in the neighbourhood of the surface, using the",
+        "mathpix_content": " electrical forces in the neighbourhood of the surface, using the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 31,
+        "type": "text",
+        "content": "ordinary characteristic equation",
+        "mathpix_content": " ordinary characteristic equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 35,
+        "type": "text",
+        "content": "If a solid dielectric of any form is a perfect insulator, and if",
+        "mathpix_content": "\n\nIf a solid dielectric of any form is a perfect insulator, and if",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 36,
+        "type": "text",
+        "content": "its surface receives no charge, then the true electrification",
+        "mathpix_content": " its surface receives no charge, then the true electrification",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 37,
+        "type": "text",
+        "content": "remains zero, whatever be the electrical forces acting on it.",
+        "mathpix_content": " remains zero, whatever be the electrical forces acting on it.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 38,
+        "type": "text",
+        "content": "Hence",
+        "mathpix_content": "\n\nHence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 42,
+        "type": "text",
+        "content": "The surface-density $\\sigma^{\\prime}$ is that of the apparent electrification",
+        "mathpix_content": "\n\nThe surface-density $\\sigma^{\\prime}$ is that of the apparent electrification",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 43,
+        "type": "text",
+        "content": "produced at the surface of the solid dielectric by induction. It",
+        "mathpix_content": " produced at the surface of the solid dielectric by induction. It",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 44,
+        "type": "text",
+        "content": "disappears entirely when the inducing force is removed, but if",
+        "mathpix_content": " disappears entirely when the inducing force is removed, but if",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 135,
+        "line_number": 45,
+        "type": "text",
+        "content": "during the action of the inducing force the apparent electrifica-",
+        "mathpix_content": " during the action of the inducing force the apparent electrifica-",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

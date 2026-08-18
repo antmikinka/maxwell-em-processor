@@ -1,0 +1,300 @@
+{
+  "article_id": "article_5",
+  "article_number": 5,
+  "title_original": ").",
+  "title_safe": "Article",
+  "page_start": 140,
+  "page_end": 140,
+  "content": {
+    "raw_text": "\n--- Page 140 ---\n86.]\nRECIPROCAL RELATIONS.\n105\nBut\n$$W=\\frac{1}{2} \\Sigma(e V),$$\nand\n$$W^{\\prime}=\\frac{1}{2} \\Sigma\\left(e^{\\prime} V^{\\prime}\\right) .$$\nSubstituting these values in equation (4), we find\n$$\\Sigma\\left(e V^{\\prime}\\right)=\\Sigma\\left(e^{\\prime} V\\right) .$$\n(5)\nHence if, in the same fixed system of electrified conductors, we\nconsider two different states of electrification, the sum of the\nproducts of the charges in the first state into the potentials of\nthe corresponding portions of the conductors in the second state,\nis equal to the sum of the products of the charges in the second\nstate into the potentials of the corresponding conductors in the\nfirst state.\nThis result corresponds, in the elementary theory of electricity,\nto Green's Theorem in the analytical theory. By properly\nchoosing the initial and final states of the system, we may deduce\na number of useful results.\n85 b.] From (4) and (5) we find another expression for the in-\ncrement of the energy, in which it is expressed in terms of the\nincrements of potential,\n$$W^{\\prime}-W=\\frac{1}{2} \\Sigma\\left(e^{\\prime}+e\\right)\\left(V^{\\prime}-V\\right) .$$\n(6)\nIf the increments are infinitesimal, we may write (4) and (6)\n$$d W=\\Sigma(V \\delta e)=\\Sigma(e \\delta V) ;$$\n(7)\nand if we denote by $W_{c}$ and $W_{w}$ the expressions for $W$ in terms\nof the charges and the potentials of the system respectively, and\nby $A_{r}, e_{r}$, and $V_{r}$ a particular conductor of the system, its charge,\nand its potential, then\n$$\\begin{aligned}\n& V_{r}=\\frac{d W_{0}}{d e_{r}}, \\\\\n& e_{r}=\\frac{d W_{V}}{d V_{r}} .\n\\end{aligned}$$\n(8)\n(9)\n86.] If in any fixed system of conductors, any one of them,\nwhich we may denote by $A_{t}$, is without charge, both in the initial\nand final state, then for that conductor $e_{t}=0$, and $e_{t}^{\\prime}=0$, so\nthat the terms depending on $A_{t}$ vanish from both members of\nequation (5).\nIf another conductor, say $A_{w}$, is at potential zero in both states\nof the system, then $V_{u}=0$ and $V_{u}^{\\prime}=0$, so that the terms de-\npending on $A_{w}$ vanish from both members of equation (5).\nIf, therefore, all the conductors except two, $A_{r}$ and $A_{g}$, are\n",
+    "mathpix_markdown": "\n--- Page 140 ---\n\n\nBut\n\n$$W=\\frac{1}{2} \\Sigma(e V),$$\n\nand\n\n$$W^{\\prime}=\\frac{1}{2} \\Sigma\\left(e^{\\prime} V^{\\prime}\\right) .$$\n\n\nSubstituting these values in equation (4), we find\n\n$$\\begin{equation*}\n\\Sigma\\left(e V^{\\prime}\\right)=\\Sigma\\left(e^{\\prime} V\\right) . \\tag{5}\n\\end{equation*}$$\n\n\nHence if, in the same fixed system of electrified conductors, we\n consider two different states of electrification, the sum of the\n products of the charges in the first state into the potentials of\n the corresponding portions of the conductors in the second state,\n is equal to the sum of the products of the charges in the second\n state into the potentials of the corresponding conductors in the\n first state.\n\n\nThis result corresponds, in the elementary theory of electricity,\n to Green's Theorem in the analytical theory. By properly\n choosing the initial and final states of the system, we may deduce\n a number of useful results.\n\n\n85 b.] From (4) and (5) we find another expression for the in\ncrement of the energy, in which it is expressed in terms of the\n increments of potential,\n\n$$\\begin{equation*}\nW^{\\prime}-W=\\frac{1}{2} \\Sigma\\left(e^{\\prime}+e\\right)\\left(V^{\\prime}-V\\right) . \\tag{6}\n\\end{equation*}$$\n\n\nIf the increments are infinitesimal, we may write (4) and (6)\n\n$$\\begin{equation*}\nd W=\\Sigma(V \\delta e)=\\Sigma(e \\delta V) ; \\tag{7}\n\\end{equation*}$$\n\nand if we denote by $W_{c}$ and $W_{w}$ the expressions for $W$ in terms\n of the charges and the potentials of the system respectively, and\n by $A_{r}, e_{r}$, and $V_{r}$ a particular conductor of the system, its charge,\n and its potential, then\n\n$$\\begin{align*}\n& V_{r}=\\frac{d W_{0}}{d e_{r}},  \\tag{8}\\\\\n& e_{r}=\\frac{d W_{V}}{d V_{r}} . \\tag{9}\n\\end{align*}$$\n\n86.] If in any fixed system of conductors, any one of them,\n which we may denote by $A_{t}$, is without charge, both in the initial\n and final state, then for that conductor $e_{t}=0$, and $e_{t}^{\\prime}=0$, so\n that the terms depending on $A_{t}$ vanish from both members of\n equation (5).\n\n\nIf another conductor, say $A_{w}$, is at potential zero in both states\n of the system, then $V_{u}=0$ and $V_{u}^{\\prime}=0$, so that the terms de\npending on $A_{w}$ vanish from both members of equation (5).\n\n\nIf, therefore, all the conductors except two, $A_{r}$ and $A_{g}$, are\n",
+    "structured_lines": [
+      {
+        "page": 140,
+        "line_number": 4,
+        "type": "text",
+        "content": "But",
+        "mathpix_content": "\n\nBut",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 7,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 10,
+        "type": "text",
+        "content": "Substituting these values in equation (4), we find",
+        "mathpix_content": "\n\nSubstituting these values in equation (4), we find",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 14,
+        "type": "text",
+        "content": "Hence if, in the same fixed system of electrified conductors, we",
+        "mathpix_content": "\n\nHence if, in the same fixed system of electrified conductors, we",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 15,
+        "type": "text",
+        "content": "consider two different states of electrification, the sum of the",
+        "mathpix_content": " consider two different states of electrification, the sum of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 16,
+        "type": "text",
+        "content": "products of the charges in the first state into the potentials of",
+        "mathpix_content": " products of the charges in the first state into the potentials of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 17,
+        "type": "text",
+        "content": "the corresponding portions of the conductors in the second state,",
+        "mathpix_content": " the corresponding portions of the conductors in the second state,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 18,
+        "type": "text",
+        "content": "is equal to the sum of the products of the charges in the second",
+        "mathpix_content": " is equal to the sum of the products of the charges in the second",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 19,
+        "type": "text",
+        "content": "state into the potentials of the corresponding conductors in the",
+        "mathpix_content": " state into the potentials of the corresponding conductors in the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 20,
+        "type": "text",
+        "content": "first state.",
+        "mathpix_content": " first state.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 21,
+        "type": "text",
+        "content": "This result corresponds, in the elementary theory of electricity,",
+        "mathpix_content": "\n\nThis result corresponds, in the elementary theory of electricity,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 22,
+        "type": "text",
+        "content": "to Green's Theorem in the analytical theory. By properly",
+        "mathpix_content": " to Green's Theorem in the analytical theory. By properly",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 23,
+        "type": "text",
+        "content": "choosing the initial and final states of the system, we may deduce",
+        "mathpix_content": " choosing the initial and final states of the system, we may deduce",
+        "font_size": 34,
+        "confidence": 0.9917030334472656
+      },
+      {
+        "page": 140,
+        "line_number": 24,
+        "type": "text",
+        "content": "a number of useful results.",
+        "mathpix_content": " a number of useful results.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 25,
+        "type": "text",
+        "content": "85 b.] From (4) and (5) we find another expression for the in-",
+        "mathpix_content": "\n\n85 b.] From (4) and (5) we find another expression for the in",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 140,
+        "line_number": 26,
+        "type": "text",
+        "content": "crement of the energy, in which it is expressed in terms of the",
+        "mathpix_content": "crement of the energy, in which it is expressed in terms of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 27,
+        "type": "text",
+        "content": "increments of potential,",
+        "mathpix_content": " increments of potential,",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 140,
+        "line_number": 31,
+        "type": "text",
+        "content": "If the increments are infinitesimal, we may write (4) and (6)",
+        "mathpix_content": "\n\nIf the increments are infinitesimal, we may write (4) and (6)",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 35,
+        "type": "text",
+        "content": "and if we denote by $W_{c}$ and $W_{w}$ the expressions for $W$ in terms",
+        "mathpix_content": "\nand if we denote by $W_{c}$ and $W_{w}$ the expressions for $W$ in terms",
+        "font_size": 34,
+        "confidence": 0.8167610168457031
+      },
+      {
+        "page": 140,
+        "line_number": 36,
+        "type": "text",
+        "content": "of the charges and the potentials of the system respectively, and",
+        "mathpix_content": " of the charges and the potentials of the system respectively, and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 37,
+        "type": "text",
+        "content": "by $A_{r}, e_{r}$, and $V_{r}$ a particular conductor of the system, its charge,",
+        "mathpix_content": " by $A_{r}, e_{r}$, and $V_{r}$ a particular conductor of the system, its charge,",
+        "font_size": 34,
+        "confidence": 0.996584415435791
+      },
+      {
+        "page": 140,
+        "line_number": 38,
+        "type": "text",
+        "content": "and its potential, then",
+        "mathpix_content": " and its potential, then",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 44,
+        "type": "text",
+        "content": "86.] If in any fixed system of conductors, any one of them,",
+        "mathpix_content": "\n86.] If in any fixed system of conductors, any one of them,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 45,
+        "type": "text",
+        "content": "which we may denote by $A_{t}$, is without charge, both in the initial",
+        "mathpix_content": " which we may denote by $A_{t}$, is without charge, both in the initial",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 46,
+        "type": "text",
+        "content": "and final state, then for that conductor $e_{t}=0$, and $e_{t}^{\\prime}=0$, so",
+        "mathpix_content": " and final state, then for that conductor $e_{t}=0$, and $e_{t}^{\\prime}=0$, so",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 47,
+        "type": "text",
+        "content": "that the terms depending on $A_{t}$ vanish from both members of",
+        "mathpix_content": " that the terms depending on $A_{t}$ vanish from both members of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 48,
+        "type": "text",
+        "content": "equation (5).",
+        "mathpix_content": " equation (5).",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 140,
+        "line_number": 49,
+        "type": "text",
+        "content": "If another conductor, say $A_{w}$, is at potential zero in both states",
+        "mathpix_content": "\n\nIf another conductor, say $A_{w}$, is at potential zero in both states",
+        "font_size": 34,
+        "confidence": 0.6845703125
+      },
+      {
+        "page": 140,
+        "line_number": 50,
+        "type": "text",
+        "content": "of the system, then $V_{u}=0$ and $V_{u}^{\\prime}=0$, so that the terms de-",
+        "mathpix_content": " of the system, then $V_{u}=0$ and $V_{u}^{\\prime}=0$, so that the terms de",
+        "font_size": 34,
+        "confidence": 0.9553070068359375
+      },
+      {
+        "page": 140,
+        "line_number": 51,
+        "type": "text",
+        "content": "pending on $A_{w}$ vanish from both members of equation (5).",
+        "mathpix_content": "pending on $A_{w}$ vanish from both members of equation (5).",
+        "font_size": 34,
+        "confidence": 0.82177734375
+      },
+      {
+        "page": 140,
+        "line_number": 52,
+        "type": "text",
+        "content": "If, therefore, all the conductors except two, $A_{r}$ and $A_{g}$, are",
+        "mathpix_content": "\n\nIf, therefore, all the conductors except two, $A_{r}$ and $A_{g}$, are",
+        "font_size": 34,
+        "confidence": 0.4960627555847168
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

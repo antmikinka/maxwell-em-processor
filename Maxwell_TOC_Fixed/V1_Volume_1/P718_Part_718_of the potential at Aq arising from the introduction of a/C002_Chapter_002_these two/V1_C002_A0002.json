@@ -1,0 +1,309 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "), these two",
+  "title_safe": "these two",
+  "page_start": 440,
+  "page_end": 440,
+  "content": {
+    "raw_text": "\n--- Page 440 ---\n281.]\nSYSTEM OF LINEAR CONDUCTORS.\n405\nIf we denote by $D$ the determinant\n$$\\left|\\begin{array}{lll}\nK_{11}, & K_{12}, & \\ldots \\ldots K_{1(n-1)}, \\\\\nK_{21}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\\nK_{(n-1) 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},\n\\end{array}\\right|$$\n(9)\nand by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,\n$$\\begin{array}{r}\n\\left(P_{p}-P_{n}\\right) D=\\left(K_{12} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\\n+\\left(K_{q 1} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. }\n\\end{array}$$\n(10)\nIn the same way the excess of the potential of any other point,\nsay $A_{q}$, over that of $A_{n}$ may be determined. We may then de-\ntermine the current between $A_{p}$ and $A_{q}$ from equation (1), and\nso solve the problem completely.\n281.] We shall now demonstrate a reciprocal property of any\ntwo conductors of the system, answering to the reciprocal\nproperty we have already demonstrated for statical electricity\nin Art. 86.\nThe coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That\nof $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.\nNow $D_{p q}$ differs from $D_{q p}$ only by the substitution of the\nsymbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two\nsymbols are equal, since the conductivity of a conductor is the\nsame both ways. Hence $D_{p q}=D_{q p}$.\n(11)\nIt follows from this that the part of the potential at $A_{p}$ arising\nfrom the introduction of a unit current at $A_{q}$ is equal to the\npart of the potential at $A_{q}$ arising from the introduction of a\nunit current at $A_{p}$.\nWe may deduce from this a proposition of a more practical\nform.\nLet $A, B, C, D$ be any four points of the system, and let the\neffect of a current $Q$, made to enter the system at $A$ and leave\nit at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.\nThen, if an equal current $Q$ be made to enter the system at $C$\nand leave it at $D$, the potential at $A$ will exceed that at $B$ by\nthe same quantity $P$.\nIf an electromotive force $E$ be introduced, acting in the con-\nductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,\nthen the same electromotive force $E$ introduced into the con-\nductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.\n",
+    "mathpix_markdown": "\n--- Page 440 ---\n\n\nIf we denote by $D$ the determinant\n\n$$\\left|\\begin{array}{lll}\nK_{11}, & K_{12}, & \\ldots \\ldots K_{1(n-1)},  \\tag{9}\\\\\nK_{21}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\\nK_{(n-1) 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},\n\\end{array}\\right|$$\n\nand by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,\n\n$$\\begin{array}{r}\n\\left(P_{p}-P_{n}\\right) D=\\left(K_{12} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\\n+\\left(K_{q 1} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. } \\tag{10}\n\\end{array}$$\n\n\nIn the same way the excess of the potential of any other point,\n say $A_{q}$, over that of $A_{n}$ may be determined. We may then de\ntermine the current between $A_{p}$ and $A_{q}$ from equation (1), and\n so solve the problem completely.\n\n281.] We shall now demonstrate a reciprocal property of any\n two conductors of the system, answering to the reciprocal\n property we have already demonstrated for statical electricity\n in Art. 86.\n\n\nThe coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That\n of $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.\n\n\nNow $D_{p q}$ differs from $D_{q p}$ only by the substitution of the\n symbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two\n symbols are equal, since the conductivity of a conductor is the\n same both ways. Hence $D_{p q}=D_{q p}$.\n\n\nIt follows from this that the part of the potential at $A_{p}$ arising\n from the introduction of a unit current at $A_{q}$ is equal to the\n part of the potential at $A_{q}$ arising from the introduction of a\n unit current at $A_{p}$.\n\n\nWe may deduce from this a proposition of a more practical\n form.\n\n\nLet $A, B, C, D$ be any four points of the system, and let the\n effect of a current $Q$, made to enter the system at $A$ and leave\n it at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.\n Then, if an equal current $Q$ be made to enter the system at $C$\n and leave it at $D$, the potential at $A$ will exceed that at $B$ by\n the same quantity $P$.\n\n\nIf an electromotive force $E$ be introduced, acting in the con\nductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,\n then the same electromotive force $E$ introduced into the con\nductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.\n",
+    "structured_lines": [
+      {
+        "page": 440,
+        "line_number": 4,
+        "type": "text",
+        "content": "If we denote by $D$ the determinant",
+        "mathpix_content": "\n\nIf we denote by $D$ the determinant",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 8,
+        "type": "text",
+        "content": "and by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,",
+        "mathpix_content": "\nand by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,",
+        "font_size": 27,
+        "confidence": 0.7843658525413275
+      },
+      {
+        "page": 440,
+        "line_number": 13,
+        "type": "text",
+        "content": "In the same way the excess of the potential of any other point,",
+        "mathpix_content": "\n\nIn the same way the excess of the potential of any other point,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 14,
+        "type": "text",
+        "content": "say $A_{q}$, over that of $A_{n}$ may be determined. We may then de-",
+        "mathpix_content": " say $A_{q}$, over that of $A_{n}$ may be determined. We may then de",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 15,
+        "type": "text",
+        "content": "termine the current between $A_{p}$ and $A_{q}$ from equation (1), and",
+        "mathpix_content": "termine the current between $A_{p}$ and $A_{q}$ from equation (1), and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 16,
+        "type": "text",
+        "content": "so solve the problem completely.",
+        "mathpix_content": " so solve the problem completely.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 17,
+        "type": "text",
+        "content": "281.] We shall now demonstrate a reciprocal property of any",
+        "mathpix_content": "\n281.] We shall now demonstrate a reciprocal property of any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 18,
+        "type": "text",
+        "content": "two conductors of the system, answering to the reciprocal",
+        "mathpix_content": " two conductors of the system, answering to the reciprocal",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 19,
+        "type": "text",
+        "content": "property we have already demonstrated for statical electricity",
+        "mathpix_content": " property we have already demonstrated for statical electricity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 20,
+        "type": "text",
+        "content": "in Art. 86.",
+        "mathpix_content": " in Art. 86.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 21,
+        "type": "text",
+        "content": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+        "mathpix_content": "\n\nThe coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+        "font_size": 27,
+        "confidence": 0.9868583679199219
+      },
+      {
+        "page": 440,
+        "line_number": 22,
+        "type": "text",
+        "content": "of $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.",
+        "mathpix_content": " of $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 440,
+        "line_number": 23,
+        "type": "text",
+        "content": "Now $D_{p q}$ differs from $D_{q p}$ only by the substitution of the",
+        "mathpix_content": "\n\nNow $D_{p q}$ differs from $D_{q p}$ only by the substitution of the",
+        "font_size": 27,
+        "confidence": 0.9689252376556396
+      },
+      {
+        "page": 440,
+        "line_number": 24,
+        "type": "text",
+        "content": "symbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two",
+        "mathpix_content": " symbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two",
+        "font_size": 27,
+        "confidence": 0.9921875
+      },
+      {
+        "page": 440,
+        "line_number": 25,
+        "type": "text",
+        "content": "symbols are equal, since the conductivity of a conductor is the",
+        "mathpix_content": " symbols are equal, since the conductivity of a conductor is the",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 440,
+        "line_number": 26,
+        "type": "text",
+        "content": "same both ways. Hence $D_{p q}=D_{q p}$.",
+        "mathpix_content": " same both ways. Hence $D_{p q}=D_{q p}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 28,
+        "type": "text",
+        "content": "It follows from this that the part of the potential at $A_{p}$ arising",
+        "mathpix_content": "\n\nIt follows from this that the part of the potential at $A_{p}$ arising",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 440,
+        "line_number": 29,
+        "type": "text",
+        "content": "from the introduction of a unit current at $A_{q}$ is equal to the",
+        "mathpix_content": " from the introduction of a unit current at $A_{q}$ is equal to the",
+        "font_size": 27,
+        "confidence": 0.8828125
+      },
+      {
+        "page": 440,
+        "line_number": 30,
+        "type": "text",
+        "content": "part of the potential at $A_{q}$ arising from the introduction of a",
+        "mathpix_content": " part of the potential at $A_{q}$ arising from the introduction of a",
+        "font_size": 27,
+        "confidence": 0.83349609375
+      },
+      {
+        "page": 440,
+        "line_number": 31,
+        "type": "text",
+        "content": "unit current at $A_{p}$.",
+        "mathpix_content": " unit current at $A_{p}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 32,
+        "type": "text",
+        "content": "We may deduce from this a proposition of a more practical",
+        "mathpix_content": "\n\nWe may deduce from this a proposition of a more practical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 33,
+        "type": "text",
+        "content": "form.",
+        "mathpix_content": " form.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 34,
+        "type": "text",
+        "content": "Let $A, B, C, D$ be any four points of the system, and let the",
+        "mathpix_content": "\n\nLet $A, B, C, D$ be any four points of the system, and let the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 35,
+        "type": "text",
+        "content": "effect of a current $Q$, made to enter the system at $A$ and leave",
+        "mathpix_content": " effect of a current $Q$, made to enter the system at $A$ and leave",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 36,
+        "type": "text",
+        "content": "it at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.",
+        "mathpix_content": " it at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 37,
+        "type": "text",
+        "content": "Then, if an equal current $Q$ be made to enter the system at $C$",
+        "mathpix_content": " Then, if an equal current $Q$ be made to enter the system at $C$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 38,
+        "type": "text",
+        "content": "and leave it at $D$, the potential at $A$ will exceed that at $B$ by",
+        "mathpix_content": " and leave it at $D$, the potential at $A$ will exceed that at $B$ by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 39,
+        "type": "text",
+        "content": "the same quantity $P$.",
+        "mathpix_content": " the same quantity $P$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 40,
+        "type": "text",
+        "content": "If an electromotive force $E$ be introduced, acting in the con-",
+        "mathpix_content": "\n\nIf an electromotive force $E$ be introduced, acting in the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 41,
+        "type": "text",
+        "content": "ductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,",
+        "mathpix_content": "ductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 42,
+        "type": "text",
+        "content": "then the same electromotive force $E$ introduced into the con-",
+        "mathpix_content": " then the same electromotive force $E$ introduced into the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 440,
+        "line_number": 43,
+        "type": "text",
+        "content": "ductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.",
+        "mathpix_content": "ductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

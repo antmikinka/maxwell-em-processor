@@ -1,0 +1,20 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "=B_{n}+A y^{n+1}+(n+1) A_{1} x y^{n+1}+\\frac{1}{2}(n+1)(n+2) A_{2} x^{2} y^{n+1}+\\text { \\&c. } \\\\",
+  "title_safe": "equalsBnplusA ynplus1plusnplus1 A1 x ynplus1plusfrac12nplus1",
+  "page_start": 261,
+  "page_end": 260,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

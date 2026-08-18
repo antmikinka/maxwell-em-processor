@@ -1,0 +1,336 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "} \\theta=\\sigma .$$",
+  "title_safe": "thetaequalssigma",
+  "page_start": 107,
+  "page_end": 107,
+  "content": {
+    "raw_text": "\n--- Page 107 ---\n72\nELECTROSTATICS.\n[64.\n\nON ELECTRIC DENSITY.\n\nDistribution in Three Dimensions.\n64.] Definition. The electric volume-density at a given point\nin space is the limiting ratio of the quantity of electricity within\na sphere whose centre is the given point to the volume of the\nsphere, when its radius is diminished without limit.\nWe shall denote this ratio by the symbol $\\rho$, which may be\npositive or negative.\n\nDistribution over a Surface.\nIt is a result alike of theory and of experiment, that, in certain\ncases, the charge of a body is entirely on the surface. The density\nat a point on the surface, if defined according to the method given\nabove, would be infinite. We therefore adopt a different method\nfor the measurement of surface-density.\nDefinition. The electric density at a given point on a surface\nis the limiting ratio of the quantity of electricity within a sphere\nwhose centre is the given point to the area of the surface con-\ntained within the sphere, when its radius is diminished without\nlimit.\nWe shall denote the surface-density by the symbol $\\sigma$.\nThose writers who supposed electricity to be a material fluid\nor a collection of particles, were obliged in this case to suppose\nthe electricity distributed on the surface in the form of a stratum\nof a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$\nwhich would result from the particles having the closest contact\nof which they are capable. It is manifest that on this theory\n$$\\rho_{0} \\theta=\\sigma .$$\nWhen $\\sigma$ is negative, according to this theory, a certain stratum\nof thickness $\\theta$ is left entirely devoid of positive electricity, and\nfilled entirely with negative electricity, or, on the theory of one\nfluid, with matter.\nThere is, however, no experimental evidence either of the\nelectric stratum having any thickness, or of electricity being a\nfluid or a collection of particles. We therefore prefer to do\nwithout the symbol for the thickness of the stratum, and to use\na special symbol for surface-density.\n",
+    "mathpix_markdown": "\n--- Page 107 ---\n\n\n\\section*{ON ELECTRIC DENSITY.}\n\n\n\\section*{Distribution in Three Dimensions.}\n\n64.] Definition. The electric volume-density at a given point\n in space is the limiting ratio of the quantity of electricity within\n a sphere whose centre is the given point to the volume of the\n sphere, when its radius is diminished without limit.\n\n\nWe shall denote this ratio by the symbol $\\rho$, which may be\n positive or negative.\n\n\n\\section*{Distribution over a Surface.}\n\n\nIt is a result alike of theory and of experiment, that, in certain\n cases, the charge of a body is entirely on the surface. The density\n at a point on the surface, if defined according to the method given\n above, would be infinite. We therefore adopt a different method\n for the measurement of surface-density.\n\n\nDefinition. The electric density at a given point on a surface\n is the limiting ratio of the quantity of electricity within a sphere\n whose centre is the given point to the area of the surface con\ntained within the sphere, when its radius is diminished without\n limit.\n\n\nWe shall denote the surface-density by the symbol $\\sigma$.\n\nThose writers who supposed electricity to be a material fluid\n or a collection of particles, were obliged in this case to suppose\n the electricity distributed on the surface in the form of a stratum\n of a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$\n which would result from the particles having the closest contact\n of which they are capable. It is manifest that on this theory\n\n$$\\rho_{0} \\theta=\\sigma .$$\n\n\nWhen $\\sigma$ is negative, according to this theory, a certain stratum\n of thickness $\\theta$ is left entirely devoid of positive electricity, and\n filled entirely with negative electricity, or, on the theory of one\n fluid, with matter.\n\n\nThere is, however, no experimental evidence either of the\n electric stratum having any thickness, or of electricity being a\n fluid or a collection of particles. We therefore prefer to do\n without the symbol for the thickness of the stratum, and to use\n a special symbol for surface-density.\n",
+    "structured_lines": [
+      {
+        "page": 107,
+        "line_number": 5,
+        "type": "text",
+        "content": "ON ELECTRIC DENSITY.",
+        "mathpix_content": "\n\n\\section*{ON ELECTRIC DENSITY.}",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 7,
+        "type": "text",
+        "content": "Distribution in Three Dimensions.",
+        "mathpix_content": "\n\n\\section*{Distribution in Three Dimensions.}",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 107,
+        "line_number": 8,
+        "type": "text",
+        "content": "64.] Definition. The electric volume-density at a given point",
+        "mathpix_content": "\n64.] Definition. The electric volume-density at a given point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 9,
+        "type": "text",
+        "content": "in space is the limiting ratio of the quantity of electricity within",
+        "mathpix_content": " in space is the limiting ratio of the quantity of electricity within",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 10,
+        "type": "text",
+        "content": "a sphere whose centre is the given point to the volume of the",
+        "mathpix_content": " a sphere whose centre is the given point to the volume of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 11,
+        "type": "text",
+        "content": "sphere, when its radius is diminished without limit.",
+        "mathpix_content": " sphere, when its radius is diminished without limit.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 12,
+        "type": "text",
+        "content": "We shall denote this ratio by the symbol $\\rho$, which may be",
+        "mathpix_content": "\n\nWe shall denote this ratio by the symbol $\\rho$, which may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 13,
+        "type": "text",
+        "content": "positive or negative.",
+        "mathpix_content": " positive or negative.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 15,
+        "type": "text",
+        "content": "Distribution over a Surface.",
+        "mathpix_content": "\n\n\\section*{Distribution over a Surface.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 16,
+        "type": "text",
+        "content": "It is a result alike of theory and of experiment, that, in certain",
+        "mathpix_content": "\n\nIt is a result alike of theory and of experiment, that, in certain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 17,
+        "type": "text",
+        "content": "cases, the charge of a body is entirely on the surface. The density",
+        "mathpix_content": " cases, the charge of a body is entirely on the surface. The density",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 18,
+        "type": "text",
+        "content": "at a point on the surface, if defined according to the method given",
+        "mathpix_content": " at a point on the surface, if defined according to the method given",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 19,
+        "type": "text",
+        "content": "above, would be infinite. We therefore adopt a different method",
+        "mathpix_content": " above, would be infinite. We therefore adopt a different method",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 20,
+        "type": "text",
+        "content": "for the measurement of surface-density.",
+        "mathpix_content": " for the measurement of surface-density.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 21,
+        "type": "text",
+        "content": "Definition. The electric density at a given point on a surface",
+        "mathpix_content": "\n\nDefinition. The electric density at a given point on a surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 22,
+        "type": "text",
+        "content": "is the limiting ratio of the quantity of electricity within a sphere",
+        "mathpix_content": " is the limiting ratio of the quantity of electricity within a sphere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 23,
+        "type": "text",
+        "content": "whose centre is the given point to the area of the surface con-",
+        "mathpix_content": " whose centre is the given point to the area of the surface con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 24,
+        "type": "text",
+        "content": "tained within the sphere, when its radius is diminished without",
+        "mathpix_content": "tained within the sphere, when its radius is diminished without",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 107,
+        "line_number": 25,
+        "type": "text",
+        "content": "limit.",
+        "mathpix_content": " limit.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 26,
+        "type": "text",
+        "content": "We shall denote the surface-density by the symbol $\\sigma$.",
+        "mathpix_content": "\n\nWe shall denote the surface-density by the symbol $\\sigma$.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 107,
+        "line_number": 27,
+        "type": "text",
+        "content": "Those writers who supposed electricity to be a material fluid",
+        "mathpix_content": "\nThose writers who supposed electricity to be a material fluid",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 107,
+        "line_number": 28,
+        "type": "text",
+        "content": "or a collection of particles, were obliged in this case to suppose",
+        "mathpix_content": " or a collection of particles, were obliged in this case to suppose",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 29,
+        "type": "text",
+        "content": "the electricity distributed on the surface in the form of a stratum",
+        "mathpix_content": " the electricity distributed on the surface in the form of a stratum",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 30,
+        "type": "text",
+        "content": "of a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$",
+        "mathpix_content": " of a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 31,
+        "type": "text",
+        "content": "which would result from the particles having the closest contact",
+        "mathpix_content": " which would result from the particles having the closest contact",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 32,
+        "type": "text",
+        "content": "of which they are capable. It is manifest that on this theory",
+        "mathpix_content": " of which they are capable. It is manifest that on this theory",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 35,
+        "type": "text",
+        "content": "When $\\sigma$ is negative, according to this theory, a certain stratum",
+        "mathpix_content": "\n\nWhen $\\sigma$ is negative, according to this theory, a certain stratum",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 36,
+        "type": "text",
+        "content": "of thickness $\\theta$ is left entirely devoid of positive electricity, and",
+        "mathpix_content": " of thickness $\\theta$ is left entirely devoid of positive electricity, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 37,
+        "type": "text",
+        "content": "filled entirely with negative electricity, or, on the theory of one",
+        "mathpix_content": " filled entirely with negative electricity, or, on the theory of one",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 38,
+        "type": "text",
+        "content": "fluid, with matter.",
+        "mathpix_content": " fluid, with matter.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 39,
+        "type": "text",
+        "content": "There is, however, no experimental evidence either of the",
+        "mathpix_content": "\n\nThere is, however, no experimental evidence either of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 40,
+        "type": "text",
+        "content": "electric stratum having any thickness, or of electricity being a",
+        "mathpix_content": " electric stratum having any thickness, or of electricity being a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 41,
+        "type": "text",
+        "content": "fluid or a collection of particles. We therefore prefer to do",
+        "mathpix_content": " fluid or a collection of particles. We therefore prefer to do",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 42,
+        "type": "text",
+        "content": "without the symbol for the thickness of the stratum, and to use",
+        "mathpix_content": " without the symbol for the thickness of the stratum, and to use",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 107,
+        "line_number": 43,
+        "type": "text",
+        "content": "a special symbol for surface-density.",
+        "mathpix_content": " a special symbol for surface-density.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

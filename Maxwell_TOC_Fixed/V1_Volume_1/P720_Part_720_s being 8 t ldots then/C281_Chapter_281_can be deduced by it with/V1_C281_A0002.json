@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}+b y^{2}+c z^{2}+\\beta(x-z)^{2}+\\gamma(y-x)^{2}+a(z-y)^{2}-2 E x,$$",
+  "title_safe": "plusb y2plusc z2plusbetax-z2plusgammay-x2plusaz-y2-2 E x",
+  "page_start": 443,
+  "page_end": 442,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

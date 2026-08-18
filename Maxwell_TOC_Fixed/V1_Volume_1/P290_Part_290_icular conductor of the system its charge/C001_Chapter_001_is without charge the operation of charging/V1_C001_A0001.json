@@ -1,0 +1,309 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}$ is without charge, the operation of charging",
+  "title_safe": "is without charge the operation of charging",
+  "page_start": 141,
+  "page_end": 141,
+  "content": {
+    "raw_text": "\n--- Page 141 ---\n106\nSYSTEM OF CONDUCTORS.\n[86.\neither insulated and without charge, or else connected to the\nearth, equation (5) is reduced to the form\n$$e_{r} V_{r}^{\\prime}+e_{s} V_{s}^{\\prime}=e_{r}^{\\prime} V_{r}+e_{s}^{\\prime} V_{e} .$$\n(10)\nIf in the initial state\n$$e_{r}=1 \\text { and } e_{s}=0$$\nand in the final state\n$$e_{r}^{\\prime}=0 \\text { and } e_{s}^{\\prime}=1,$$\nequation (10) becomes $\\quad V_{\\prime}^{\\prime}=V_{s}$;\n(11)\nor if a unit charge communicated to $A$, raises $A$, when insulated\nto a potential $V$, then a unit charge communicated to $A_{8}$ will\nraise $A_{r}$ when insulated to the same potential $V$, provided that\nevery one of the other conductors of the system is either insulated\nand without charge, or else connected to earth so that its poten-\ntial is zero.\nThis is the first instance we have met with in electricity of a\nreciprocal relation. Such reciprocal relations occur in every\nbranch of science, and often enable us to deduce the solutions of\nnew problems from those of simpler problems already solved.\nThus from the fact that at a point outside a conducting sphere\nwhose charge is 1 the potential is $r^{-1}$, where $r$ is the distance\nfrom the centre, we conclude that if a small body whose charge\nis 1 is placed at a distance $r$ from the centre of a conducting\nsphere without charge, it will raise the potential of the sphere\nto $r^{-1}$.\nLet us next suppose that in the initial state\n$$V_{r}=1 \\text { and } V_{t}=0,$$\nand in the final state\n$$V_{r}^{\\prime}=0 \\text { and } V_{s}^{\\prime}=1,$$\nequation (10) becomes $\\quad e_{s}=e_{r}^{\\prime}$;\n(12)\nor if, when $A_{r}$ is raised to unit potential, a charge $e$ is induced\non $A_{s}$, put to earth, then if $A_{\\kappa}$ is raised to unit potential, an equal\ncharge $e$ will be induced on $A_{\\text {, }}$ put to earth.\nLet us suppose in the third place, that in the initial state\n$$V_{r}=1 \\text { and } e_{s}=0$$\nand that in the final state\n$$V_{r}^{\\prime}=0 \\text { and } e_{s}^{\\prime}=1,$$\nequation (10) becomes in this case\n$$e_{r}^{\\prime}+V_{s}=0$$\n(13)\nHence if when $A_{1}$ is without charge, the operation of charging\n$A_{r}$ to potential unity raises $A_{s}$ to potential $V$, then if $A_{r}$ is kept\n",
+    "mathpix_markdown": "\n--- Page 141 ---\n\neither insulated and without charge, or else connected to the\n earth, equation (5) is reduced to the form\n\n$$\\begin{equation*}\ne_{r} V_{r}^{\\prime}+e_{s} V_{s}^{\\prime}=e_{r}^{\\prime} V_{r}+e_{s}^{\\prime} V_{e} . \\tag{10}\n\\end{equation*}$$\n\n\nIf in the initial state\n\n$$e_{r}=1 \\text { and } e_{s}=0$$\n\nand in the final state\n\n$$\\begin{equation*}\ne_{r}^{\\prime}=0 \\text { and } e_{s}^{\\prime}=1, \\tag{11}\n\\end{equation*}$$\n\nequation (10) becomes $\\quad V_{\\prime}^{\\prime}=V_{s}$;\n\nor if a unit charge communicated to $A$, raises $A$, when insulated\n to a potential $V$, then a unit charge communicated to $A_{8}$ will\n raise $A_{r}$ when insulated to the same potential $V$, provided that\n every one of the other conductors of the system is either insulated\n and without charge, or else connected to earth so that its poten\ntial is zero.\n\n\nThis is the first instance we have met with in electricity of a\n reciprocal relation. Such reciprocal relations occur in every\n branch of science, and often enable us to deduce the solutions of\n new problems from those of simpler problems already solved.\n\n\nThus from the fact that at a point outside a conducting sphere\n whose charge is 1 the potential is $r^{-1}$, where $r$ is the distance\n from the centre, we conclude that if a small body whose charge\n is 1 is placed at a distance $r$ from the centre of a conducting\n sphere without charge, it will raise the potential of the sphere\n to $r^{-1}$.\n\n\nLet us next suppose that in the initial state\n\n$$V_{r}=1 \\text { and } V_{t}=0,$$\n\nand in the final state\n\n$$\\begin{equation*}\nV_{r}^{\\prime}=0 \\text { and } V_{s}^{\\prime}=1, \\tag{12}\n\\end{equation*}$$\n\nequation (10) becomes $\\quad e_{s}=e_{r}^{\\prime}$;\n\nor if, when $A_{r}$ is raised to unit potential, a charge $e$ is induced\n on $A_{s}$, put to earth, then if $A_{\\kappa}$ is raised to unit potential, an equal\n charge $e$ will be induced on $A_{\\text {, }}$ put to earth.\n\n\nLet us suppose in the third place, that in the initial state\n\n$$V_{r}=1 \\text { and } e_{s}=0$$\n\nand that in the final state\n\n$$V_{r}^{\\prime}=0 \\text { and } e_{s}^{\\prime}=1,$$\n\nequation (10) becomes in this case\n\n$$\\begin{equation*}\ne_{r}^{\\prime}+V_{s}=0 \\tag{13}\n\\end{equation*}$$\n\n\nHence if when $A_{1}$ is without charge, the operation of charging\n $A_{r}$ to potential unity raises $A_{s}$ to potential $V$, then if $A_{r}$ is kept\n",
+    "structured_lines": [
+      {
+        "page": 141,
+        "line_number": 4,
+        "type": "text",
+        "content": "either insulated and without charge, or else connected to the",
+        "mathpix_content": "\neither insulated and without charge, or else connected to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 5,
+        "type": "text",
+        "content": "earth, equation (5) is reduced to the form",
+        "mathpix_content": " earth, equation (5) is reduced to the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 9,
+        "type": "text",
+        "content": "If in the initial state",
+        "mathpix_content": "\n\nIf in the initial state",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 12,
+        "type": "text",
+        "content": "and in the final state",
+        "mathpix_content": "\nand in the final state",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 15,
+        "type": "text",
+        "content": "equation (10) becomes $\\quad V_{\\prime}^{\\prime}=V_{s}$;",
+        "mathpix_content": "\nequation (10) becomes $\\quad V_{\\prime}^{\\prime}=V_{s}$;",
+        "font_size": 27,
+        "confidence": 0.3477197820710103
+      },
+      {
+        "page": 141,
+        "line_number": 17,
+        "type": "text",
+        "content": "or if a unit charge communicated to $A$, raises $A$, when insulated",
+        "mathpix_content": "\nor if a unit charge communicated to $A$, raises $A$, when insulated",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 141,
+        "line_number": 18,
+        "type": "text",
+        "content": "to a potential $V$, then a unit charge communicated to $A_{8}$ will",
+        "mathpix_content": " to a potential $V$, then a unit charge communicated to $A_{8}$ will",
+        "font_size": 27,
+        "confidence": 0.99365234375
+      },
+      {
+        "page": 141,
+        "line_number": 19,
+        "type": "text",
+        "content": "raise $A_{r}$ when insulated to the same potential $V$, provided that",
+        "mathpix_content": " raise $A_{r}$ when insulated to the same potential $V$, provided that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 20,
+        "type": "text",
+        "content": "every one of the other conductors of the system is either insulated",
+        "mathpix_content": " every one of the other conductors of the system is either insulated",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 21,
+        "type": "text",
+        "content": "and without charge, or else connected to earth so that its poten-",
+        "mathpix_content": " and without charge, or else connected to earth so that its poten",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 22,
+        "type": "text",
+        "content": "tial is zero.",
+        "mathpix_content": "tial is zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 23,
+        "type": "text",
+        "content": "This is the first instance we have met with in electricity of a",
+        "mathpix_content": "\n\nThis is the first instance we have met with in electricity of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 24,
+        "type": "text",
+        "content": "reciprocal relation. Such reciprocal relations occur in every",
+        "mathpix_content": " reciprocal relation. Such reciprocal relations occur in every",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 25,
+        "type": "text",
+        "content": "branch of science, and often enable us to deduce the solutions of",
+        "mathpix_content": " branch of science, and often enable us to deduce the solutions of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 26,
+        "type": "text",
+        "content": "new problems from those of simpler problems already solved.",
+        "mathpix_content": " new problems from those of simpler problems already solved.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 141,
+        "line_number": 27,
+        "type": "text",
+        "content": "Thus from the fact that at a point outside a conducting sphere",
+        "mathpix_content": "\n\nThus from the fact that at a point outside a conducting sphere",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 141,
+        "line_number": 28,
+        "type": "text",
+        "content": "whose charge is 1 the potential is $r^{-1}$, where $r$ is the distance",
+        "mathpix_content": " whose charge is 1 the potential is $r^{-1}$, where $r$ is the distance",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 141,
+        "line_number": 29,
+        "type": "text",
+        "content": "from the centre, we conclude that if a small body whose charge",
+        "mathpix_content": " from the centre, we conclude that if a small body whose charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 30,
+        "type": "text",
+        "content": "is 1 is placed at a distance $r$ from the centre of a conducting",
+        "mathpix_content": " is 1 is placed at a distance $r$ from the centre of a conducting",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 31,
+        "type": "text",
+        "content": "sphere without charge, it will raise the potential of the sphere",
+        "mathpix_content": " sphere without charge, it will raise the potential of the sphere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 32,
+        "type": "text",
+        "content": "to $r^{-1}$.",
+        "mathpix_content": " to $r^{-1}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 33,
+        "type": "text",
+        "content": "Let us next suppose that in the initial state",
+        "mathpix_content": "\n\nLet us next suppose that in the initial state",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 36,
+        "type": "text",
+        "content": "and in the final state",
+        "mathpix_content": "\nand in the final state",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 39,
+        "type": "text",
+        "content": "equation (10) becomes $\\quad e_{s}=e_{r}^{\\prime}$;",
+        "mathpix_content": "\nequation (10) becomes $\\quad e_{s}=e_{r}^{\\prime}$;",
+        "font_size": 27,
+        "confidence": 0.8433380126953125
+      },
+      {
+        "page": 141,
+        "line_number": 41,
+        "type": "text",
+        "content": "or if, when $A_{r}$ is raised to unit potential, a charge $e$ is induced",
+        "mathpix_content": "\nor if, when $A_{r}$ is raised to unit potential, a charge $e$ is induced",
+        "font_size": 27,
+        "confidence": 0.9892578125
+      },
+      {
+        "page": 141,
+        "line_number": 42,
+        "type": "text",
+        "content": "on $A_{s}$, put to earth, then if $A_{\\kappa}$ is raised to unit potential, an equal",
+        "mathpix_content": " on $A_{s}$, put to earth, then if $A_{\\kappa}$ is raised to unit potential, an equal",
+        "font_size": 27,
+        "confidence": 0.7066956076812403
+      },
+      {
+        "page": 141,
+        "line_number": 43,
+        "type": "text",
+        "content": "charge $e$ will be induced on $A_{\\text {, }}$ put to earth.",
+        "mathpix_content": " charge $e$ will be induced on $A_{\\text {, }}$ put to earth.",
+        "font_size": 27,
+        "confidence": 0.3951890717726201
+      },
+      {
+        "page": 141,
+        "line_number": 44,
+        "type": "text",
+        "content": "Let us suppose in the third place, that in the initial state",
+        "mathpix_content": "\n\nLet us suppose in the third place, that in the initial state",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 47,
+        "type": "text",
+        "content": "and that in the final state",
+        "mathpix_content": "\nand that in the final state",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 50,
+        "type": "text",
+        "content": "equation (10) becomes in this case",
+        "mathpix_content": "\nequation (10) becomes in this case",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 141,
+        "line_number": 54,
+        "type": "text",
+        "content": "Hence if when $A_{1}$ is without charge, the operation of charging",
+        "mathpix_content": "\n\nHence if when $A_{1}$ is without charge, the operation of charging",
+        "font_size": 27,
+        "confidence": 0.32764577865600586
+      },
+      {
+        "page": 141,
+        "line_number": 55,
+        "type": "text",
+        "content": "$A_{r}$ to potential unity raises $A_{s}$ to potential $V$, then if $A_{r}$ is kept",
+        "mathpix_content": " $A_{r}$ to potential unity raises $A_{s}$ to potential $V$, then if $A_{r}$ is kept",
+        "font_size": 27,
+        "confidence": 0.6163885639980435
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

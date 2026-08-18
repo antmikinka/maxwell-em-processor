@@ -1,0 +1,219 @@
+{
+  "article_id": "article_1857",
+  "article_number": 1857,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 267,
+  "page_end": 267,
+  "content": {
+    "raw_text": "\n--- Page 267 ---\n\nCHAPTER X.\n\nCONFOCAI QUADRIC SURFACES *\n147.] Let the general equation of a confocal system be\n$$\\frac{x^{2}}{\\lambda^{2}-a^{2}}+\\frac{y^{2}}{\\lambda^{2}-\\bar{b}^{2}}+\\frac{z^{2}}{\\lambda^{2}-c^{2}}=1,$$\n(1)\nwhere $\\lambda$ is a variable parameter, which we shall distinguish by a\nsuffix for the species of quadric, viz. we shall take $\\lambda_{1}$ for the\nhyperboloids of two sheets, $\\lambda_{2}$ for the hyperboloids of one sheet,\nand $\\lambda_{3}$ for the ellipsoids. The quantities\n$$a, \\lambda_{1}, b, \\lambda_{2}, c, \\lambda_{3}$$\nare in ascending order of magnitude. The quantity $a$ is intro-\nduced for the sake of symmetry, but in our results we shall\nalways suppose $a=0$.\nIf we consider the three surfaces whose parameters are\n$\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$, we find, by elimination between their equations, that\nthe value of $x^{2}$ at their point of intersection satisfies the\nequation\n$$x^{2}\\left(b^{2}-a^{2}\\right)\\left(c^{2}-a^{2}\\right)=\\left(\\lambda_{1}^{2}-a^{2}\\right)\\left(\\lambda_{2}^{2}-a^{2}\\right)\\left(\\lambda_{3}^{2}-a^{2}\\right) .$$\n(2)\nThe values of $y^{2}$ and $z^{2}$ may be found by transposing $a, b, c$\nsymmetrically.\nDifferentiating this equation with respect to $\\lambda_{1}$, we find\n$$\\frac{d x}{d \\lambda_{1}}=\\frac{\\lambda_{1}}{\\lambda_{1}^{2}-a^{2}} x .$$\n(3)\nIf $d s_{1}$ is the length of the intercept of the curve of intersection\nof $\\lambda_{2}$ and $\\lambda_{3}$ cut off between the surfaces $\\lambda_{1}$ and $\\lambda_{1}+d \\lambda_{1}$, then\n$$\\left.\\frac{\\overline{d s_{1}}}{d \\lambda_{1}}\\right|^{2}=\\left.\\frac{\\overline{d x}}{d \\lambda_{1}}\\right|^{2}+\\left.\\frac{\\overline{d y}}{d \\lambda_{1}}\\right|^{2}+\\left.\\frac{\\overline{d z}}{d \\lambda_{1}}\\right|^{2}=\\frac{\\lambda_{1}{ }^{2}\\left(\\lambda_{2}{ }^{2}-\\lambda_{1}{ }^{2}\\right)\\left(\\lambda_{3}{ }^{2}-\\lambda_{1}{ }^{2}\\right)}{\\left(\\lambda_{1}{ }^{2}-a^{2}\\right)\\left(\\lambda_{1}{ }^{2}-b^{2}\\right)\\left(\\lambda_{1}{ }^{2}-c^{2}\\right)} .$$\n(4)\n\n* This investigation is chiefly borrowed from a very interesting work,-Lecons sur\nles Fonctions Inverses des Transcendantes et les Surfaces Isothermes. Par G. Lam\u00e9,\nParis, 1857.\n",
+    "mathpix_markdown": "\n--- Page 267 ---\n\n\n\\section*{CHAPTER X.}\n\n\n\\section*{CONFOCAI QUADRIC SURFACES *}\n\n147.] Let the general equation of a confocal system be\n\n$$\\begin{equation*}\n\\frac{x^{2}}{\\lambda^{2}-a^{2}}+\\frac{y^{2}}{\\lambda^{2}-\\bar{b}^{2}}+\\frac{z^{2}}{\\lambda^{2}-c^{2}}=1, \\tag{1}\n\\end{equation*}$$\n\nwhere $\\lambda$ is a variable parameter, which we shall distinguish by a\n suffix for the species of quadric, viz. we shall take $\\lambda_{1}$ for the\n hyperboloids of two sheets, $\\lambda_{2}$ for the hyperboloids of one sheet,\n and $\\lambda_{3}$ for the ellipsoids. The quantities\n\n$$a, \\lambda_{1}, b, \\lambda_{2}, c, \\lambda_{3}$$\n\nare in ascending order of magnitude. The quantity $a$ is intro\nduced for the sake of symmetry, but in our results we shall\n always suppose $a=0$.\n\n\nIf we consider the three surfaces whose parameters are\n $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$, we find, by elimination between their equations, that\n the value of $x^{2}$ at their point of intersection satisfies the\n equation\n\n$$\\begin{equation*}\nx^{2}\\left(b^{2}-a^{2}\\right)\\left(c^{2}-a^{2}\\right)=\\left(\\lambda_{1}^{2}-a^{2}\\right)\\left(\\lambda_{2}^{2}-a^{2}\\right)\\left(\\lambda_{3}^{2}-a^{2}\\right) . \\tag{2}\n\\end{equation*}$$\n\n\nThe values of $y^{2}$ and $z^{2}$ may be found by transposing $a, b, c$\n symmetrically.\n\n\nDifferentiating this equation with respect to $\\lambda_{1}$, we find\n\n$$\\begin{equation*}\n\\frac{d x}{d \\lambda_{1}}=\\frac{\\lambda_{1}}{\\lambda_{1}^{2}-a^{2}} x . \\tag{3}\n\\end{equation*}$$\n\n\nIf $d s_{1}$ is the length of the intercept of the curve of intersection\n of $\\lambda_{2}$ and $\\lambda_{3}$ cut off between the surfaces $\\lambda_{1}$ and $\\lambda_{1}+d \\lambda_{1}$, then\n\n$$\\begin{equation*}\n\\left.\\frac{\\overline{d s_{1}}}{d \\lambda_{1}}\\right|^{2}=\\left.\\frac{\\overline{d x}}{d \\lambda_{1}}\\right|^{2}+\\left.\\frac{\\overline{d y}}{d \\lambda_{1}}\\right|^{2}+\\left.\\frac{\\overline{d z}}{d \\lambda_{1}}\\right|^{2}=\\frac{\\lambda_{1}{ }^{2}\\left(\\lambda_{2}{ }^{2}-\\lambda_{1}{ }^{2}\\right)\\left(\\lambda_{3}{ }^{2}-\\lambda_{1}{ }^{2}\\right)}{\\left(\\lambda_{1}{ }^{2}-a^{2}\\right)\\left(\\lambda_{1}{ }^{2}-b^{2}\\right)\\left(\\lambda_{1}{ }^{2}-c^{2}\\right)} . \\tag{4}\n\\end{equation*}$$\n\n\n\\footnotetext{\n* This investigation is chiefly borrowed from a very interesting work,-Lecons sur\n les Fonctions Inverses des Transcendantes et les Surfaces Isothermes. Par G. Lam\u00e9,\n Paris, 1857.\n}\n",
+    "structured_lines": [
+      {
+        "page": 267,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER X.",
+        "mathpix_content": "\n\n\\section*{CHAPTER X.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 4,
+        "type": "text",
+        "content": "CONFOCAI QUADRIC SURFACES *",
+        "mathpix_content": "\n\n\\section*{CONFOCAI QUADRIC SURFACES *}",
+        "font_size": 21,
+        "confidence": 0.6935702303179081
+      },
+      {
+        "page": 267,
+        "line_number": 5,
+        "type": "text",
+        "content": "147.] Let the general equation of a confocal system be",
+        "mathpix_content": "\n147.] Let the general equation of a confocal system be",
+        "font_size": 27,
+        "confidence": 0.8069652465637773
+      },
+      {
+        "page": 267,
+        "line_number": 9,
+        "type": "text",
+        "content": "where $\\lambda$ is a variable parameter, which we shall distinguish by a",
+        "mathpix_content": "\nwhere $\\lambda$ is a variable parameter, which we shall distinguish by a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 10,
+        "type": "text",
+        "content": "suffix for the species of quadric, viz. we shall take $\\lambda_{1}$ for the",
+        "mathpix_content": " suffix for the species of quadric, viz. we shall take $\\lambda_{1}$ for the",
+        "font_size": 27,
+        "confidence": 0.9912109375
+      },
+      {
+        "page": 267,
+        "line_number": 11,
+        "type": "text",
+        "content": "hyperboloids of two sheets, $\\lambda_{2}$ for the hyperboloids of one sheet,",
+        "mathpix_content": " hyperboloids of two sheets, $\\lambda_{2}$ for the hyperboloids of one sheet,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 12,
+        "type": "text",
+        "content": "and $\\lambda_{3}$ for the ellipsoids. The quantities",
+        "mathpix_content": " and $\\lambda_{3}$ for the ellipsoids. The quantities",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 15,
+        "type": "text",
+        "content": "are in ascending order of magnitude. The quantity $a$ is intro-",
+        "mathpix_content": "\nare in ascending order of magnitude. The quantity $a$ is intro",
+        "font_size": 27,
+        "confidence": 0.9873046875
+      },
+      {
+        "page": 267,
+        "line_number": 16,
+        "type": "text",
+        "content": "duced for the sake of symmetry, but in our results we shall",
+        "mathpix_content": "duced for the sake of symmetry, but in our results we shall",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 17,
+        "type": "text",
+        "content": "always suppose $a=0$.",
+        "mathpix_content": " always suppose $a=0$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 18,
+        "type": "text",
+        "content": "If we consider the three surfaces whose parameters are",
+        "mathpix_content": "\n\nIf we consider the three surfaces whose parameters are",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 267,
+        "line_number": 19,
+        "type": "text",
+        "content": "$\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$, we find, by elimination between their equations, that",
+        "mathpix_content": " $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$, we find, by elimination between their equations, that",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 267,
+        "line_number": 20,
+        "type": "text",
+        "content": "the value of $x^{2}$ at their point of intersection satisfies the",
+        "mathpix_content": " the value of $x^{2}$ at their point of intersection satisfies the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 21,
+        "type": "text",
+        "content": "equation",
+        "mathpix_content": " equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 25,
+        "type": "text",
+        "content": "The values of $y^{2}$ and $z^{2}$ may be found by transposing $a, b, c$",
+        "mathpix_content": "\n\nThe values of $y^{2}$ and $z^{2}$ may be found by transposing $a, b, c$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 26,
+        "type": "text",
+        "content": "symmetrically.",
+        "mathpix_content": " symmetrically.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 27,
+        "type": "text",
+        "content": "Differentiating this equation with respect to $\\lambda_{1}$, we find",
+        "mathpix_content": "\n\nDifferentiating this equation with respect to $\\lambda_{1}$, we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 31,
+        "type": "text",
+        "content": "If $d s_{1}$ is the length of the intercept of the curve of intersection",
+        "mathpix_content": "\n\nIf $d s_{1}$ is the length of the intercept of the curve of intersection",
+        "font_size": 27,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 267,
+        "line_number": 32,
+        "type": "text",
+        "content": "of $\\lambda_{2}$ and $\\lambda_{3}$ cut off between the surfaces $\\lambda_{1}$ and $\\lambda_{1}+d \\lambda_{1}$, then",
+        "mathpix_content": " of $\\lambda_{2}$ and $\\lambda_{3}$ cut off between the surfaces $\\lambda_{1}$ and $\\lambda_{1}+d \\lambda_{1}$, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 267,
+        "line_number": 37,
+        "type": "text",
+        "content": "* This investigation is chiefly borrowed from a very interesting work,-Lecons sur",
+        "mathpix_content": "\n\n\\footnotetext{\n* This investigation is chiefly borrowed from a very interesting work,-Lecons sur",
+        "font_size": 21,
+        "confidence": 0.6387174515281493
+      },
+      {
+        "page": 267,
+        "line_number": 38,
+        "type": "text",
+        "content": "les Fonctions Inverses des Transcendantes et les Surfaces Isothermes. Par G. Lam\u00e9,",
+        "mathpix_content": " les Fonctions Inverses des Transcendantes et les Surfaces Isothermes. Par G. Lam\u00e9,",
+        "font_size": 21,
+        "confidence": 0.9902655752375722
+      },
+      {
+        "page": 267,
+        "line_number": 39,
+        "type": "text",
+        "content": "Paris, 1857.",
+        "mathpix_content": " Paris, 1857.\n}",
+        "font_size": 21,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

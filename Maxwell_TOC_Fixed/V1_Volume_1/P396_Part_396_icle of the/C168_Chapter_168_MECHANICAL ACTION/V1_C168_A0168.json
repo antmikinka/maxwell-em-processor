@@ -1,0 +1,138 @@
+{
+  "article_id": "article_168",
+  "article_number": 168,
+  "title_original": "MECHANICAL ACTION.",
+  "title_safe": "MECHANICAL ACTION",
+  "page_start": 203,
+  "page_end": 203,
+  "content": {
+    "raw_text": "\n--- Page 203 ---\n168\nMECHANICAL ACTION.\nWe have supposed the medium after being polarized to be\nsimply left to itself. In the phenomenon called the electric\ncurrent the constant passage of electricity through the medium\ntends to restore the state of polarization as fast as the con-\nductivity of the medium allows it to decay. Thus the external\nagency which maintains the current is always doing work in\nrestoring the polarization of the medium, which is continually\nbecoming relaxed, and the potential energy of this polarization\nis continually becoming transformed into heat, so that the final\nresult of the energy expended in maintaining the current is to\ngradually raise the temperature of the conductor, till as much\nheat is lost by conduction and radiation from its surface as is\ngenerated in the same time by the electric current.\n",
+    "mathpix_markdown": "\n--- Page 203 ---\n\n\nWe have supposed the medium after being polarized to be\n simply left to itself. In the phenomenon called the electric\n current the constant passage of electricity through the medium\n tends to restore the state of polarization as fast as the con\nductivity of the medium allows it to decay. Thus the external\n agency which maintains the current is always doing work in\n restoring the polarization of the medium, which is continually\n becoming relaxed, and the potential energy of this polarization\n is continually becoming transformed into heat, so that the final\n result of the energy expended in maintaining the current is to\n gradually raise the temperature of the conductor, till as much\n heat is lost by conduction and radiation from its surface as is\n generated in the same time by the electric current.\n",
+    "structured_lines": [
+      {
+        "page": 203,
+        "line_number": 3,
+        "type": "text",
+        "content": "We have supposed the medium after being polarized to be",
+        "mathpix_content": "\n\nWe have supposed the medium after being polarized to be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 4,
+        "type": "text",
+        "content": "simply left to itself. In the phenomenon called the electric",
+        "mathpix_content": " simply left to itself. In the phenomenon called the electric",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 5,
+        "type": "text",
+        "content": "current the constant passage of electricity through the medium",
+        "mathpix_content": " current the constant passage of electricity through the medium",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 6,
+        "type": "text",
+        "content": "tends to restore the state of polarization as fast as the con-",
+        "mathpix_content": " tends to restore the state of polarization as fast as the con",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 7,
+        "type": "text",
+        "content": "ductivity of the medium allows it to decay. Thus the external",
+        "mathpix_content": "ductivity of the medium allows it to decay. Thus the external",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 8,
+        "type": "text",
+        "content": "agency which maintains the current is always doing work in",
+        "mathpix_content": " agency which maintains the current is always doing work in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 9,
+        "type": "text",
+        "content": "restoring the polarization of the medium, which is continually",
+        "mathpix_content": " restoring the polarization of the medium, which is continually",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 10,
+        "type": "text",
+        "content": "becoming relaxed, and the potential energy of this polarization",
+        "mathpix_content": " becoming relaxed, and the potential energy of this polarization",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 11,
+        "type": "text",
+        "content": "is continually becoming transformed into heat, so that the final",
+        "mathpix_content": " is continually becoming transformed into heat, so that the final",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 12,
+        "type": "text",
+        "content": "result of the energy expended in maintaining the current is to",
+        "mathpix_content": " result of the energy expended in maintaining the current is to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 13,
+        "type": "text",
+        "content": "gradually raise the temperature of the conductor, till as much",
+        "mathpix_content": " gradually raise the temperature of the conductor, till as much",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 14,
+        "type": "text",
+        "content": "heat is lost by conduction and radiation from its surface as is",
+        "mathpix_content": " heat is lost by conduction and radiation from its surface as is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 203,
+        "line_number": 15,
+        "type": "text",
+        "content": "generated in the same time by the electric current.",
+        "mathpix_content": " generated in the same time by the electric current.",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

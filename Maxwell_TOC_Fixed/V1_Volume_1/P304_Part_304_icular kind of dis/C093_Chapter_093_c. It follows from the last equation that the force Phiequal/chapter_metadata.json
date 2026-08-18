@@ -1,0 +1,695 @@
+{
+  "chapter_id": "chapter_51",
+  "chapter_number": 93,
+  "title": "c.] It follows from the last equation that the force $\\Phi=\\frac{d W_{V}}{d \\phi}$,",
+  "page_start": 154,
+  "page_end": 154,
+  "articles": [
+    {
+      "article_id": "article_93",
+      "article_number": 93,
+      "title_original": "c.]",
+      "title_safe": "c",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_119",
+      "article_number": 119,
+      "title_original": "where $W_{e}$ denotes the expression for the electric energy as a",
+      "title_safe": "where We denotes the expression for the electric energy as a",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_93",
+      "article_number": 93,
+      "title_original": "b.] To prove that $\\frac{d W_{p}}{d \\psi}+\\frac{d W_{v}}{d \\phi}=0$.",
+      "title_safe": "b. To prove that fracd Wpd psiplusfracd Wvd phiequals0",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma(e V),$$",
+      "title_safe": "2 Sigmae V",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma \\Sigma\\left(e_{r} e_{s} v_{r s}\\right),$$",
+      "title_safe": "2 Sigma Sigmalefter es vr sright",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma \\Sigma\\left(V_{r} V_{b} q_{r s}\\right),$$",
+      "title_safe": "2 Sigma SigmaleftVr Vb qr sright",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "W=0",
+      "title_safe": "Wequals0",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "$ of them can be",
+      "title_safe": "of them can be",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_93",
+      "article_number": 93,
+      "title_original": "c.] It follows from the last equation that the force $\\Phi=\\frac{d W_{V}}{d \\phi}$,",
+      "title_safe": "c. It follows from the last equation that the force Phiequal",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_93",
+      "article_number": 93,
+      "title_original": "b.] To prove that $\\frac{d W_{p}}{d \\psi}+\\frac{d W_{v}}{d \\phi}=0$.",
+      "title_safe": "b. To prove that fracd Wpd psiplusfracd Wvd phiequals0",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma(e V), \\tag{1}",
+      "title_safe": "2 Sigmae V tag1",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma \\Sigma\\left(e_{r} e_{s} v_{r s}\\right), \\tag{2}",
+      "title_safe": "2 Sigma Sigmalefter es vr sright tag2",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma \\Sigma\\left(V_{r} V_{b} q_{r s}\\right), \\tag{3}",
+      "title_safe": "2 Sigma SigmaleftVr Vb qr sright tag3",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "W=0",
+      "title_safe": "Wequals0",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "$ of them can be",
+      "title_safe": "of them can be",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 154,
+      "page_end": 153,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_93",
+      "article_number": 93,
+      "title_original": "c.] It follows from the last equation that the force $\\Phi=\\frac{d W_{V}}{d \\phi}$,",
+      "title_safe": "c. It follows from the last equation that the force Phiequal",
+      "page_start": 154,
+      "page_end": 154,
+      "content": {
+        "raw_text": "\n--- Page 154 ---\n93 c.]\nMECHANICAL FORCES.\n119\nwhere $W_{e}$ denotes the expression for the electric energy as a\nquadratic function of the charges.\n93 b.] To prove that $\\frac{d W_{p}}{d \\psi}+\\frac{d W_{v}}{d \\phi}=0$.\nWe have three different expressions for the energy of the system,\n(1)\n$$W=\\frac{1}{2} \\Sigma(e V),$$\na definite function of the $n$ charges and $n$ potentials,\n(2)\n$$W_{e}=\\frac{1}{2} \\Sigma \\Sigma\\left(e_{r} e_{s} v_{r s}\\right),$$\nwhere $r$ and $s$ may be the same or different, and both $r s$ and $s r$\nare to be included in the summation.\nThis is a function of the $n$ charges and of the variables which\ndefine the configuration. Let $\\phi$ be one of these.\n(3)\n$$W_{V}=\\frac{1}{2} \\Sigma \\Sigma\\left(V_{r} V_{b} q_{r s}\\right),$$\nwhere the summation is to be taken as before. This is a function\nof the $n$ potentials and of the variables which define the con-\nfiguration of which $\\phi$ is one.\nSince\n$$\\begin{gathered}\nW=W_{e}=W_{V} \\\\\nW_{e}+W_{V}-2 W=0\n\\end{gathered}$$\nNow let the $n$ charges, the $n$ potentials, and $\\phi$ vary in any\nconsistent manner, and we must have\n$$\\Sigma\\left[\\left(\\frac{d W_{e}}{d e_{r}}-V_{r}\\right) \\delta e_{r}\\right]+\\Sigma\\left[\\left(\\frac{d W_{V}}{d V_{s}}-e_{s}\\right) \\delta V_{s}\\right]+\\left(\\frac{d W_{e}}{d \\phi}+\\frac{d W_{r}}{d \\phi}\\right) \\delta \\phi=0 .$$\nNow the $n$ charges, the $n$ potentials, and $\\phi$ are not all inde-\npendent of each other, for in fact only $n+1$ of them can be\nindependent. But we have already proved that\n$$\\frac{d W_{B}}{d e_{r}}=V_{r},$$\nso that the first sum of terms vanishes identically, and it follows\nfrom this, even if we had not already proved it, that\n$$\\frac{d W_{V}}{d V_{s}}=e_{s},$$\nand that lastly,\n$$\\frac{d W_{e}}{d \\phi}+\\frac{d W_{V}}{d \\phi}=0 .$$\nWork done by the electric forces during the displacement of a\nsystem whose potentials are maintained constant.\n93 c.] It follows from the last equation that the force $\\Phi=\\frac{d W_{V}}{d \\phi}$,\nand if the system is displaced under the condition that all the\n",
+        "mathpix_markdown": "\n--- Page 154 ---\n\nwhere $W_{e}$ denotes the expression for the electric energy as a\n quadratic function of the charges.\n\n\n93 b.] To prove that $\\frac{d W_{p}}{d \\psi}+\\frac{d W_{v}}{d \\phi}=0$.\n\nWe have three different expressions for the energy of the system,\n\n$$\\begin{equation*}\nW=\\frac{1}{2} \\Sigma(e V), \\tag{1}\n\\end{equation*}$$\n\na definite function of the $n$ charges and $n$ potentials,\n\n$$\\begin{equation*}\nW_{e}=\\frac{1}{2} \\Sigma \\Sigma\\left(e_{r} e_{s} v_{r s}\\right), \\tag{2}\n\\end{equation*}$$\n\nwhere $r$ and $s$ may be the same or different, and both $r s$ and $s r$\n are to be included in the summation.\n\n\nThis is a function of the $n$ charges and of the variables which\n define the configuration. Let $\\phi$ be one of these.\n\n$$\\begin{equation*}\nW_{V}=\\frac{1}{2} \\Sigma \\Sigma\\left(V_{r} V_{b} q_{r s}\\right), \\tag{3}\n\\end{equation*}$$\n\nwhere the summation is to be taken as before. This is a function\n of the $n$ potentials and of the variables which define the con\nfiguration of which $\\phi$ is one.\n\n\nSince\n\n$$\\begin{gathered}\nW=W_{e}=W_{V} \\\\\nW_{e}+W_{V}-2 W=0\n\\end{gathered}$$\n\n\nNow let the $n$ charges, the $n$ potentials, and $\\phi$ vary in any\n consistent manner, and we must have\n\n$$\\Sigma\\left[\\left(\\frac{d W_{e}}{d e_{r}}-V_{r}\\right) \\delta e_{r}\\right]+\\Sigma\\left[\\left(\\frac{d W_{V}}{d V_{s}}-e_{s}\\right) \\delta V_{s}\\right]+\\left(\\frac{d W_{e}}{d \\phi}+\\frac{d W_{r}}{d \\phi}\\right) \\delta \\phi=0 .$$\n\n\nNow the $n$ charges, the $n$ potentials, and $\\phi$ are not all inde\npendent of each other, for in fact only $n+1$ of them can be\n independent. But we have already proved that\n\n$$\\frac{d W_{B}}{d e_{r}}=V_{r},$$\n\nso that the first sum of terms vanishes identically, and it follows\n from this, even if we had not already proved it, that\n\n$$\\frac{d W_{V}}{d V_{s}}=e_{s},$$\n\nand that lastly,\n\n$$\\frac{d W_{e}}{d \\phi}+\\frac{d W_{V}}{d \\phi}=0 .$$\n\n\nWork done by the electric forces during the displacement of a\n system whose potentials are maintained constant.\n\n93 c.] It follows from the last equation that the force $\\Phi=\\frac{d W_{V}}{d \\phi}$,\n and if the system is displaced under the condition that all the\n",
+        "structured_lines": [
+          {
+            "page": 154,
+            "line_number": 4,
+            "type": "text",
+            "content": "where $W_{e}$ denotes the expression for the electric energy as a",
+            "mathpix_content": "\nwhere $W_{e}$ denotes the expression for the electric energy as a",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 5,
+            "type": "text",
+            "content": "quadratic function of the charges.",
+            "mathpix_content": " quadratic function of the charges.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 6,
+            "type": "text",
+            "content": "93 b.] To prove that $\\frac{d W_{p}}{d \\psi}+\\frac{d W_{v}}{d \\phi}=0$.",
+            "mathpix_content": "\n\n93 b.] To prove that $\\frac{d W_{p}}{d \\psi}+\\frac{d W_{v}}{d \\phi}=0$.",
+            "font_size": 27,
+            "confidence": 0.5064798490068796
+          },
+          {
+            "page": 154,
+            "line_number": 7,
+            "type": "text",
+            "content": "We have three different expressions for the energy of the system,",
+            "mathpix_content": "\nWe have three different expressions for the energy of the system,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 11,
+            "type": "text",
+            "content": "a definite function of the $n$ charges and $n$ potentials,",
+            "mathpix_content": "\na definite function of the $n$ charges and $n$ potentials,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 15,
+            "type": "text",
+            "content": "where $r$ and $s$ may be the same or different, and both $r s$ and $s r$",
+            "mathpix_content": "\nwhere $r$ and $s$ may be the same or different, and both $r s$ and $s r$",
+            "font_size": 27,
+            "confidence": 0.6112026317134645
+          },
+          {
+            "page": 154,
+            "line_number": 16,
+            "type": "text",
+            "content": "are to be included in the summation.",
+            "mathpix_content": " are to be included in the summation.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 17,
+            "type": "text",
+            "content": "This is a function of the $n$ charges and of the variables which",
+            "mathpix_content": "\n\nThis is a function of the $n$ charges and of the variables which",
+            "font_size": 27,
+            "confidence": 0.994140625
+          },
+          {
+            "page": 154,
+            "line_number": 18,
+            "type": "text",
+            "content": "define the configuration. Let $\\phi$ be one of these.",
+            "mathpix_content": " define the configuration. Let $\\phi$ be one of these.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 22,
+            "type": "text",
+            "content": "where the summation is to be taken as before. This is a function",
+            "mathpix_content": "\nwhere the summation is to be taken as before. This is a function",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 154,
+            "line_number": 23,
+            "type": "text",
+            "content": "of the $n$ potentials and of the variables which define the con-",
+            "mathpix_content": " of the $n$ potentials and of the variables which define the con",
+            "font_size": 27,
+            "confidence": 0.98876953125
+          },
+          {
+            "page": 154,
+            "line_number": 24,
+            "type": "text",
+            "content": "figuration of which $\\phi$ is one.",
+            "mathpix_content": "figuration of which $\\phi$ is one.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 25,
+            "type": "text",
+            "content": "Since",
+            "mathpix_content": "\n\nSince",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 29,
+            "type": "text",
+            "content": "Now let the $n$ charges, the $n$ potentials, and $\\phi$ vary in any",
+            "mathpix_content": "\n\nNow let the $n$ charges, the $n$ potentials, and $\\phi$ vary in any",
+            "font_size": 27,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 154,
+            "line_number": 30,
+            "type": "text",
+            "content": "consistent manner, and we must have",
+            "mathpix_content": " consistent manner, and we must have",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 33,
+            "type": "text",
+            "content": "Now the $n$ charges, the $n$ potentials, and $\\phi$ are not all inde-",
+            "mathpix_content": "\n\nNow the $n$ charges, the $n$ potentials, and $\\phi$ are not all inde",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 34,
+            "type": "text",
+            "content": "pendent of each other, for in fact only $n+1$ of them can be",
+            "mathpix_content": "pendent of each other, for in fact only $n+1$ of them can be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 35,
+            "type": "text",
+            "content": "independent. But we have already proved that",
+            "mathpix_content": " independent. But we have already proved that",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 38,
+            "type": "text",
+            "content": "so that the first sum of terms vanishes identically, and it follows",
+            "mathpix_content": "\nso that the first sum of terms vanishes identically, and it follows",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 39,
+            "type": "text",
+            "content": "from this, even if we had not already proved it, that",
+            "mathpix_content": " from this, even if we had not already proved it, that",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 42,
+            "type": "text",
+            "content": "and that lastly,",
+            "mathpix_content": "\nand that lastly,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 154,
+            "line_number": 45,
+            "type": "text",
+            "content": "Work done by the electric forces during the displacement of a",
+            "mathpix_content": "\n\nWork done by the electric forces during the displacement of a",
+            "font_size": 27,
+            "confidence": 0.9731574058532715
+          },
+          {
+            "page": 154,
+            "line_number": 46,
+            "type": "text",
+            "content": "system whose potentials are maintained constant.",
+            "mathpix_content": " system whose potentials are maintained constant.",
+            "font_size": 27,
+            "confidence": 0.99365234375
+          },
+          {
+            "page": 154,
+            "line_number": 47,
+            "type": "text",
+            "content": "93 c.] It follows from the last equation that the force $\\Phi=\\frac{d W_{V}}{d \\phi}$,",
+            "mathpix_content": "\n93 c.] It follows from the last equation that the force $\\Phi=\\frac{d W_{V}}{d \\phi}$,",
+            "font_size": 27,
+            "confidence": 0.9770617485046387
+          },
+          {
+            "page": 154,
+            "line_number": 48,
+            "type": "text",
+            "content": "and if the system is displaced under the condition that all the",
+            "mathpix_content": " and if the system is displaced under the condition that all the",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

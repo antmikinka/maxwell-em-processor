@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": ")}{1.2} \\frac{d^{\\sigma-2}}{d x^{\\sigma-2}} \\frac{d^{2}}{d y^{2}}\\right. & +\\& \\mathrm{c} .] \\Psi \\\\",
+  "title_safe": "1.2 fracdsigma-2d xsigma-2 fracd2d y2right. and plusand math",
+  "page_start": 251,
+  "page_end": 250,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

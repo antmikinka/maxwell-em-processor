@@ -1,0 +1,4155 @@
+{
+  "part_id": "part_430",
+  "part_number": 430,
+  "title": "of $S$ is near the boundary of the",
+  "page_start": 222,
+  "page_end": 225,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 187,
+      "title": "density $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 1,
+      "title": "}=S \\sigma$, and, by",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 79,
+      "title": ", the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 1,
+      "title": "}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 1,
+      "title": "}$, on the area $S$, is",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 2,
+      "title": "\\pi}{S} e_{1}^{2}$$",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": "}{2}\\left(e_{1} A+e_{2} B\\right) \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 1,
+      "title": "}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 2,
+      "title": "}}{8 \\pi} S c \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 2,
+      "title": "\\pi}{S} e_{1}^{\\prime \\prime} c \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 84,
+      "title": ").",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 8,
+      "title": "\\pi p=R^{2}$.",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 1,
+      "title": "}=S \\sigma$, and, by",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 79,
+      "title": ", the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": "}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "}$, on the area $S$, is",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 2,
+      "title": "\\pi}{S} e_{1}^{2}$$",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 1,
+      "title": "}{2}\\left(e_{1} A+e_{2} B\\right) \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": "}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 2,
+      "title": "}}{8 \\pi} S c \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 2,
+      "title": "\\pi}{S} e_{1}^{\\prime \\prime} c \\\\",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 84,
+      "title": ").",
+      "page_start": 222,
+      "page_end": 221,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 8,
+      "title": "\\pi p=R^{2}$.",
+      "page_start": 222,
+      "page_end": 222,
+      "articles": [
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": ", the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+          "title_safe": "the force acting on every unit of electricity is frac12 R so",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_84",
+          "article_number": 84,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": ", the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+          "title_safe": "the force acting on every unit of electricity is frac12 R so",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_84",
+          "article_number": 84,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_187",
+          "article_number": 187,
+          "title_original": "density $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and",
+          "title_safe": "density sigmaprime will be equal and opposite to sigma and",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$",
+          "title_safe": "pi sigmaprimeequals-KequalsfracB-Ac",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=S \\sigma$, and, by",
+          "title_safe": "equalsS sigma and by",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": ", the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+          "title_safe": "the force acting on every unit of electricity is frac12 R so",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$",
+          "title_safe": "2 R S sigmaequalsfrac18 pi R2 SequalsfracS8 pi fracB-A2c2",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, on the area $S$, is",
+          "title_safe": "on the area S is",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{S} e_{1}^{2}$$",
+          "title_safe": "piS e12",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(e_{1} A+e_{2} B\\right) \\\\",
+          "title_safe": "2lefte1 Apluse2 Bright",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\",
+          "title_safe": "2 fracS4 pi fracA-B2c",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{8 \\pi} S c \\\\",
+          "title_safe": "8 pi S c",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{S} e_{1}^{\\prime \\prime} c \\\\",
+          "title_safe": "piS e1prime prime c",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_84",
+          "article_number": 84,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\\pi p=R^{2}$.",
+          "title_safe": "pi pequalsR2",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$",
+          "title_safe": "pi sigmaprimeequals-KequalsfracB-Ac",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=S \\sigma$, and, by",
+          "title_safe": "equalsS sigma and by",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": ", the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+          "title_safe": "the force acting on every unit of electricity is frac12 R so",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$",
+          "title_safe": "2 R S sigmaequalsfrac18 pi R2 SequalsfracS8 pi fracB-A2c2",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, on the area $S$, is",
+          "title_safe": "on the area S is",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{S} e_{1}^{2}$$",
+          "title_safe": "piS e12",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(e_{1} A+e_{2} B\\right) \\\\",
+          "title_safe": "2lefte1 Apluse2 Bright",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\",
+          "title_safe": "2 fracS4 pi fracA-B2c",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{8 \\pi} S c \\\\",
+          "title_safe": "8 pi S c",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{S} e_{1}^{\\prime \\prime} c \\\\",
+          "title_safe": "piS e1prime prime c",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_84",
+          "article_number": 84,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 222,
+          "page_end": 221,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\\pi p=R^{2}$.",
+          "title_safe": "pi pequalsR2",
+          "page_start": 222,
+          "page_end": 222,
+          "content": {
+            "raw_text": "\n--- Page 222 ---\nSIMPLE CASES. PARALLEL PLANES.\n187\ndensity $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and\n$$4 \\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$\nLet us next consider a portion of the first surface whose area\nis $S$, taken so that no part of $S$ is near the boundary of the\nsurface.\nThe quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by\nArt. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so\nthat the whole force acting on the area $S$, and attracting it\ntowards the other plane, is\n$$F=\\frac{1}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$\nHere the attraction is expressed in terms of the area $S$, the\ndifference of potentials of the two surfaces $(A-B)$, and the dis-\ntance between them $c$. The attraction, expressed in terms of the\ncharge $e_{1}$, on the area $S$, is\n$$F=\\frac{2 \\pi}{S} e_{1}^{2}$$\nThe electric energy due to the distribution of electricity on\nthe area $S$, and that on the corresponding area $S^{\\prime}$ on the surface\n$B$ defined by projecting $S$ on the surface $B$ by a system of lines\nof force, which in this case are normals to the plane, is\n$$\\begin{aligned}\nW & =\\frac{1}{2}\\left(e_{1} A+e_{2} B\\right) \\\\\n& =\\frac{1}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\\n& =\\frac{R^{2}}{8 \\pi} S c \\\\\n& =\\frac{2 \\pi}{S} e_{1}^{\\prime \\prime} c \\\\\n& =F c\n\\end{aligned}$$\nThe first of these expressions is the general expression of elec-\ntric energy (Art. 84).\nThe second gives the energy in terms of the area, the distance,\nand difference of potentials.\nThe third gives it in terms of the resultant force $R$, and the\nvolume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that\nthe energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.\nThe attraction between the planes is $p S$, or in other words,\nthere is an electrical tension (or negative pressure) equal to $p$ on\nevery unit of area.\n",
+            "mathpix_markdown": "\n--- Page 222 ---\n\ndensity $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and\n\n$$4 \\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$\n\n\nLet us next consider a portion of the first surface whose area\n is $S$, taken so that no part of $S$ is near the boundary of the\n surface.\n\n\nThe quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by\n Art. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so\n that the whole force acting on the area $S$, and attracting it\n towards the other plane, is\n\n$$F=\\frac{1}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$\n\n\nHere the attraction is expressed in terms of the area $S$, the\n difference of potentials of the two surfaces $(A-B)$, and the dis\ntance between them $c$. The attraction, expressed in terms of the\n charge $e_{1}$, on the area $S$, is\n\n$$F=\\frac{2 \\pi}{S} e_{1}^{2}$$\n\n\nThe electric energy due to the distribution of electricity on\n the area $S$, and that on the corresponding area $S^{\\prime}$ on the surface\n $B$ defined by projecting $S$ on the surface $B$ by a system of lines\n of force, which in this case are normals to the plane, is\n\n$$\\begin{aligned}\nW & =\\frac{1}{2}\\left(e_{1} A+e_{2} B\\right) \\\\\n& =\\frac{1}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\\n& =\\frac{R^{2}}{8 \\pi} S c \\\\\n& =\\frac{2 \\pi}{S} e_{1}^{\\prime \\prime} c \\\\\n& =F c\n\\end{aligned}$$\n\n\nThe first of these expressions is the general expression of elec\ntric energy (Art. 84).\n\n\nThe second gives the energy in terms of the area, the distance,\n and difference of potentials.\n\n\nThe third gives it in terms of the resultant force $R$, and the\n volume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that\n the energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.\n\n\nThe attraction between the planes is $p S$, or in other words,\n there is an electrical tension (or negative pressure) equal to $p$ on\n every unit of area.\n",
+            "structured_lines": [
+              {
+                "page": 222,
+                "line_number": 3,
+                "type": "text",
+                "content": "density $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and",
+                "mathpix_content": "\ndensity $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 6,
+                "type": "text",
+                "content": "Let us next consider a portion of the first surface whose area",
+                "mathpix_content": "\n\nLet us next consider a portion of the first surface whose area",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 7,
+                "type": "text",
+                "content": "is $S$, taken so that no part of $S$ is near the boundary of the",
+                "mathpix_content": " is $S$, taken so that no part of $S$ is near the boundary of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 8,
+                "type": "text",
+                "content": "surface.",
+                "mathpix_content": " surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 9,
+                "type": "text",
+                "content": "The quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by",
+                "mathpix_content": "\n\nThe quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by",
+                "font_size": 27,
+                "confidence": 0.97412109375
+              },
+              {
+                "page": 222,
+                "line_number": 10,
+                "type": "text",
+                "content": "Art. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+                "mathpix_content": " Art. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 222,
+                "line_number": 11,
+                "type": "text",
+                "content": "that the whole force acting on the area $S$, and attracting it",
+                "mathpix_content": " that the whole force acting on the area $S$, and attracting it",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 12,
+                "type": "text",
+                "content": "towards the other plane, is",
+                "mathpix_content": " towards the other plane, is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 15,
+                "type": "text",
+                "content": "Here the attraction is expressed in terms of the area $S$, the",
+                "mathpix_content": "\n\nHere the attraction is expressed in terms of the area $S$, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 16,
+                "type": "text",
+                "content": "difference of potentials of the two surfaces $(A-B)$, and the dis-",
+                "mathpix_content": " difference of potentials of the two surfaces $(A-B)$, and the dis",
+                "font_size": 27,
+                "confidence": 0.935546875
+              },
+              {
+                "page": 222,
+                "line_number": 17,
+                "type": "text",
+                "content": "tance between them $c$. The attraction, expressed in terms of the",
+                "mathpix_content": "tance between them $c$. The attraction, expressed in terms of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 18,
+                "type": "text",
+                "content": "charge $e_{1}$, on the area $S$, is",
+                "mathpix_content": " charge $e_{1}$, on the area $S$, is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 21,
+                "type": "text",
+                "content": "The electric energy due to the distribution of electricity on",
+                "mathpix_content": "\n\nThe electric energy due to the distribution of electricity on",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 22,
+                "type": "text",
+                "content": "the area $S$, and that on the corresponding area $S^{\\prime}$ on the surface",
+                "mathpix_content": " the area $S$, and that on the corresponding area $S^{\\prime}$ on the surface",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 23,
+                "type": "text",
+                "content": "$B$ defined by projecting $S$ on the surface $B$ by a system of lines",
+                "mathpix_content": " $B$ defined by projecting $S$ on the surface $B$ by a system of lines",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 24,
+                "type": "text",
+                "content": "of force, which in this case are normals to the plane, is",
+                "mathpix_content": " of force, which in this case are normals to the plane, is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 31,
+                "type": "text",
+                "content": "The first of these expressions is the general expression of elec-",
+                "mathpix_content": "\n\nThe first of these expressions is the general expression of elec",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 32,
+                "type": "text",
+                "content": "tric energy (Art. 84).",
+                "mathpix_content": "tric energy (Art. 84).",
+                "font_size": 27,
+                "confidence": 0.966796875
+              },
+              {
+                "page": 222,
+                "line_number": 33,
+                "type": "text",
+                "content": "The second gives the energy in terms of the area, the distance,",
+                "mathpix_content": "\n\nThe second gives the energy in terms of the area, the distance,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 34,
+                "type": "text",
+                "content": "and difference of potentials.",
+                "mathpix_content": " and difference of potentials.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 35,
+                "type": "text",
+                "content": "The third gives it in terms of the resultant force $R$, and the",
+                "mathpix_content": "\n\nThe third gives it in terms of the resultant force $R$, and the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 36,
+                "type": "text",
+                "content": "volume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that",
+                "mathpix_content": " volume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that",
+                "font_size": 27,
+                "confidence": 0.88720703125
+              },
+              {
+                "page": 222,
+                "line_number": 37,
+                "type": "text",
+                "content": "the energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.",
+                "mathpix_content": " the energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 38,
+                "type": "text",
+                "content": "The attraction between the planes is $p S$, or in other words,",
+                "mathpix_content": "\n\nThe attraction between the planes is $p S$, or in other words,",
+                "font_size": 27,
+                "confidence": 0.99072265625
+              },
+              {
+                "page": 222,
+                "line_number": 39,
+                "type": "text",
+                "content": "there is an electrical tension (or negative pressure) equal to $p$ on",
+                "mathpix_content": " there is an electrical tension (or negative pressure) equal to $p$ on",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 222,
+                "line_number": 40,
+                "type": "text",
+                "content": "every unit of area.",
+                "mathpix_content": " every unit of area.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 188,
+      "title": "SIMPLE CASES.",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 125,
+      "title": "The fourth expression gives the energy in terms of the charge.",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 1,
+      "title": "}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 1,
+      "title": "}=\\frac{K S}{4 \\pi c}(A-B) .$$",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 8,
+      "title": "\\pi c}(A-B)^{2} \\\\",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": "\\pi}{K S} e_{1}^{2} c .",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 8,
+      "title": "\\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 2,
+      "title": "\\pi}{K S} e_{1}^{2} .",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 125,
+      "title": "] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 2,
+      "title": "} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 1,
+      "title": "}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 1,
+      "title": "}=\\frac{K S}{4 \\pi c}(A-B) .$$",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 8,
+      "title": "\\pi c}(A-B)^{2} \\\\",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 2,
+      "title": "\\pi}{K S} e_{1}^{2} c .",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 8,
+      "title": "\\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 2,
+      "title": "\\pi}{K S} e_{1}^{2} .",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 125,
+      "title": "] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+      "page_start": 223,
+      "page_end": 222,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 2,
+      "title": "} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$",
+      "page_start": 223,
+      "page_end": 223,
+      "articles": [
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": "The fourth expression gives the energy in terms of the charge.",
+          "title_safe": "The fourth expression gives the energy in terms of the charg",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": "] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+          "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": "] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+          "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_188",
+          "article_number": 188,
+          "title_original": "SIMPLE CASES.",
+          "title_safe": "SIMPLE CASES",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$",
+          "title_safe": "equalsfrac14 pi fracScA-BequalsqA-B",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{K S}{4 \\pi c}(A-B) .$$",
+          "title_safe": "equalsfracK S4 pi cA-B",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\\pi c}(A-B)^{2} \\\\",
+          "title_safe": "pi cA-B2",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{K S} e_{1}^{2} c .",
+          "title_safe": "piK S e12 c",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\",
+          "title_safe": "pi fracA-B2c2",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{K S} e_{1}^{2} .",
+          "title_safe": "piK S e12",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": ".] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+          "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$",
+          "title_safe": "Vd r2plusfrac2r fracd Vd requals0",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$",
+          "title_safe": "equalsfrac14 pi fracScA-BequalsqA-B",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{K S}{4 \\pi c}(A-B) .$$",
+          "title_safe": "equalsfracK S4 pi cA-B",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\\pi c}(A-B)^{2} \\\\",
+          "title_safe": "pi cA-B2",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{K S} e_{1}^{2} c .",
+          "title_safe": "piK S e12 c",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\",
+          "title_safe": "pi fracA-B2c2",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{K S} e_{1}^{2} .",
+          "title_safe": "piK S e12",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": ".] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+          "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+          "page_start": 223,
+          "page_end": 222,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$",
+          "title_safe": "Vd r2plusfrac2r fracd Vd requals0",
+          "page_start": 223,
+          "page_end": 223,
+          "content": {
+            "raw_text": "\n--- Page 223 ---\n188\nSIMPLE CASES.\n[125.\nThe fourth expression gives the energy in terms of the charge.\nThe fifth shews that the electrical energy is equal to the work\nwhich would be done by the electric force if the two surfaces\nwere to be brought together, moving parallel to themselves, with\ntheir electric charges constant.\nTo express the charge in terms of the difference of potentials,\nwe have\n$$e_{1}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$\nThe coefficient $q$ represents the charge due to a difference of\npotentials equal to unity. This coefficient is called the Capacity\nof the surface $S$, due to its position relatively to the opposite\nsurface.\nLet us now suppose that the medium between the two surfaces\nis no longer air but some other dielectric substance whose specific\ninductive capacity is $K$, then the charge due to a given difference\nof potentials will be $K$ times; as great as when the dielectric is\nair, or\n$$e_{1}=\\frac{K S}{4 \\pi c}(A-B) .$$\nThe total energy will be\n$$\\begin{aligned}\nW & =\\frac{K S}{8 \\pi c}(A-B)^{2} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} c .\n\\end{aligned}$$\nThe force between the surfaces will be\n$$\\begin{aligned}\nF=p S & =\\frac{K S}{8 \\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} .\n\\end{aligned}$$\nHence the force between two surfaces kept at given potentials\nvaries directly as $K$, the specific inductive capacity of the dielec-\ntric, but the force between two surfaces charged with given\nquantities of electricity varies inversely as $K$.\n\nTwo Concentric Spherical Surfuces.\n125.] Let two concentric spherical surfaces of radii $a$ and $b$, of\nwhich $b$ is the greater, be maintained at potentials $A$ and $B$\nrespectively, then it is manifest that the potential $V$ is a function\nof $r$ the distance from the centre. In this case, Laplace's equa-\ntion becomes\n$$\\frac{d^{2} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$\n",
+            "mathpix_markdown": "\n--- Page 223 ---\n\n\nThe fourth expression gives the energy in terms of the charge.\n\nThe fifth shews that the electrical energy is equal to the work\n which would be done by the electric force if the two surfaces\n were to be brought together, moving parallel to themselves, with\n their electric charges constant.\n\n\nTo express the charge in terms of the difference of potentials,\n we have\n\n$$e_{1}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$\n\n\nThe coefficient $q$ represents the charge due to a difference of\n potentials equal to unity. This coefficient is called the Capacity\n of the surface $S$, due to its position relatively to the opposite\n surface.\n\n\nLet us now suppose that the medium between the two surfaces\n is no longer air but some other dielectric substance whose specific\n inductive capacity is $K$, then the charge due to a given difference\n of potentials will be $K$ times; as great as when the dielectric is\n air, or\n\n$$e_{1}=\\frac{K S}{4 \\pi c}(A-B) .$$\n\n\nThe total energy will be\n\n$$\\begin{aligned}\nW & =\\frac{K S}{8 \\pi c}(A-B)^{2} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} c .\n\\end{aligned}$$\n\n\nThe force between the surfaces will be\n\n$$\\begin{aligned}\nF=p S & =\\frac{K S}{8 \\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} .\n\\end{aligned}$$\n\n\nHence the force between two surfaces kept at given potentials\n varies directly as $K$, the specific inductive capacity of the dielec\ntric, but the force between two surfaces charged with given\n quantities of electricity varies inversely as $K$.\n\n\n\\section*{Two Concentric Spherical Surfuces.}\n\n125.] Let two concentric spherical surfaces of radii $a$ and $b$, of\n which $b$ is the greater, be maintained at potentials $A$ and $B$\n respectively, then it is manifest that the potential $V$ is a function\n of $r$ the distance from the centre. In this case, Laplace's equa\ntion becomes\n\n$$\\frac{d^{2} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$\n",
+            "structured_lines": [
+              {
+                "page": 223,
+                "line_number": 4,
+                "type": "text",
+                "content": "The fourth expression gives the energy in terms of the charge.",
+                "mathpix_content": "\n\nThe fourth expression gives the energy in terms of the charge.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 5,
+                "type": "text",
+                "content": "The fifth shews that the electrical energy is equal to the work",
+                "mathpix_content": "\nThe fifth shews that the electrical energy is equal to the work",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 6,
+                "type": "text",
+                "content": "which would be done by the electric force if the two surfaces",
+                "mathpix_content": " which would be done by the electric force if the two surfaces",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 7,
+                "type": "text",
+                "content": "were to be brought together, moving parallel to themselves, with",
+                "mathpix_content": " were to be brought together, moving parallel to themselves, with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 8,
+                "type": "text",
+                "content": "their electric charges constant.",
+                "mathpix_content": " their electric charges constant.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 9,
+                "type": "text",
+                "content": "To express the charge in terms of the difference of potentials,",
+                "mathpix_content": "\n\nTo express the charge in terms of the difference of potentials,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 10,
+                "type": "text",
+                "content": "we have",
+                "mathpix_content": " we have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 13,
+                "type": "text",
+                "content": "The coefficient $q$ represents the charge due to a difference of",
+                "mathpix_content": "\n\nThe coefficient $q$ represents the charge due to a difference of",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 223,
+                "line_number": 14,
+                "type": "text",
+                "content": "potentials equal to unity. This coefficient is called the Capacity",
+                "mathpix_content": " potentials equal to unity. This coefficient is called the Capacity",
+                "font_size": 27,
+                "confidence": 0.955078125
+              },
+              {
+                "page": 223,
+                "line_number": 15,
+                "type": "text",
+                "content": "of the surface $S$, due to its position relatively to the opposite",
+                "mathpix_content": " of the surface $S$, due to its position relatively to the opposite",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 223,
+                "line_number": 16,
+                "type": "text",
+                "content": "surface.",
+                "mathpix_content": " surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 17,
+                "type": "text",
+                "content": "Let us now suppose that the medium between the two surfaces",
+                "mathpix_content": "\n\nLet us now suppose that the medium between the two surfaces",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 223,
+                "line_number": 18,
+                "type": "text",
+                "content": "is no longer air but some other dielectric substance whose specific",
+                "mathpix_content": " is no longer air but some other dielectric substance whose specific",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 19,
+                "type": "text",
+                "content": "inductive capacity is $K$, then the charge due to a given difference",
+                "mathpix_content": " inductive capacity is $K$, then the charge due to a given difference",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 20,
+                "type": "text",
+                "content": "of potentials will be $K$ times; as great as when the dielectric is",
+                "mathpix_content": " of potentials will be $K$ times; as great as when the dielectric is",
+                "font_size": 27,
+                "confidence": 0.6684532973449677
+              },
+              {
+                "page": 223,
+                "line_number": 21,
+                "type": "text",
+                "content": "air, or",
+                "mathpix_content": " air, or",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 24,
+                "type": "text",
+                "content": "The total energy will be",
+                "mathpix_content": "\n\nThe total energy will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 28,
+                "type": "text",
+                "content": "The force between the surfaces will be",
+                "mathpix_content": "\n\nThe force between the surfaces will be",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 223,
+                "line_number": 32,
+                "type": "text",
+                "content": "Hence the force between two surfaces kept at given potentials",
+                "mathpix_content": "\n\nHence the force between two surfaces kept at given potentials",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 33,
+                "type": "text",
+                "content": "varies directly as $K$, the specific inductive capacity of the dielec-",
+                "mathpix_content": " varies directly as $K$, the specific inductive capacity of the dielec",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 34,
+                "type": "text",
+                "content": "tric, but the force between two surfaces charged with given",
+                "mathpix_content": "tric, but the force between two surfaces charged with given",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 35,
+                "type": "text",
+                "content": "quantities of electricity varies inversely as $K$.",
+                "mathpix_content": " quantities of electricity varies inversely as $K$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 37,
+                "type": "text",
+                "content": "Two Concentric Spherical Surfuces.",
+                "mathpix_content": "\n\n\\section*{Two Concentric Spherical Surfuces.}",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 223,
+                "line_number": 38,
+                "type": "text",
+                "content": "125.] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+                "mathpix_content": "\n125.] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+                "font_size": 27,
+                "confidence": 0.9956109506310895
+              },
+              {
+                "page": 223,
+                "line_number": 39,
+                "type": "text",
+                "content": "which $b$ is the greater, be maintained at potentials $A$ and $B$",
+                "mathpix_content": " which $b$ is the greater, be maintained at potentials $A$ and $B$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 40,
+                "type": "text",
+                "content": "respectively, then it is manifest that the potential $V$ is a function",
+                "mathpix_content": " respectively, then it is manifest that the potential $V$ is a function",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 41,
+                "type": "text",
+                "content": "of $r$ the distance from the centre. In this case, Laplace's equa-",
+                "mathpix_content": " of $r$ the distance from the centre. In this case, Laplace's equa",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 223,
+                "line_number": 42,
+                "type": "text",
+                "content": "tion becomes",
+                "mathpix_content": "tion becomes",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 125,
+      "title": "]",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 189,
+      "title": "The solution of this is",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 1,
+      "title": "}+C_{2} r^{-1}$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 1,
+      "title": "}-b^{-1}} r^{-1} \\\\",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 1,
+      "title": "}-b^{-1}} r^{-2}",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 1,
+      "title": "}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 1,
+      "title": "}=\\begin{array}{cc}",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 1,
+      "title": "& A-B \\\\",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 4,
+      "title": "\\pi a^{2} a^{-1}-b^{-1}",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 2,
+      "title": "}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 1,
+      "title": "}$ and $e_{2}$ are the whole charges of electricity on these",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 1,
+      "title": "}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 3,
+      "title": "}=B c .$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 1,
+      "title": "}=\\frac{a b}{b-a}(A-B)$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 2,
+      "title": "}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 1,
+      "title": "}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 2,
+      "title": "} p=F^{\\prime}$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 2,
+      "title": "\\pi a T .$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 1,
+      "title": "}+C_{2} r^{-1}$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 1,
+      "title": "}-b^{-1}} r^{-1} \\\\",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 1,
+      "title": "}-b^{-1}} r^{-2}",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 1,
+      "title": "}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 1,
+      "title": "}=\\begin{array}{cc}",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_67",
+      "chapter_number": 1,
+      "title": "& A-B \\\\",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_68",
+      "chapter_number": 4,
+      "title": "\\pi a^{2} a^{-1}-b^{-1}",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_69",
+      "chapter_number": 2,
+      "title": "}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_70",
+      "chapter_number": 1,
+      "title": "}$ and $e_{2}$ are the whole charges of electricity on these",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_71",
+      "chapter_number": 1,
+      "title": "}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_72",
+      "chapter_number": 3,
+      "title": "}=B c .$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_73",
+      "chapter_number": 1,
+      "title": "}=\\frac{a b}{b-a}(A-B)$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_74",
+      "chapter_number": 2,
+      "title": "}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_75",
+      "chapter_number": 1,
+      "title": "}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_76",
+      "chapter_number": 2,
+      "title": "} p=F^{\\prime}$",
+      "page_start": 224,
+      "page_end": 223,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_77",
+      "chapter_number": 2,
+      "title": "\\pi a T .$$",
+      "page_start": 224,
+      "page_end": 224,
+      "articles": [
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_125",
+          "article_number": 125,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_189",
+          "article_number": 189,
+          "title_original": "The solution of this is",
+          "title_safe": "The solution of this is",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+C_{2} r^{-1}$$",
+          "title_safe": "plusC2 r-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-b^{-1}} r^{-1} \\\\",
+          "title_safe": "b-1 r-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-b^{-1}} r^{-2}",
+          "title_safe": "b-1 r-2",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+          "title_safe": "sigma2 are the surface-densities on the opposed surfaces of",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\begin{array}{cc}",
+          "title_safe": "equalsbeginarraycc",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "& A-B \\\\",
+          "title_safe": "and A-B",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi a^{2} a^{-1}-b^{-1}",
+          "title_safe": "pi a2 a-1-b-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$",
+          "title_safe": "equalsfrac14 pi b2 fracB-Aa-1-b-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $e_{2}$ are the whole charges of electricity on these",
+          "title_safe": "and e2 are the whole charges of electricity on these",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$",
+          "title_safe": "equals4 pi a2 sigma1equalsfracA-Ba-1-b-1equals-e2",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}=B c .$$",
+          "title_safe": "equalsB c",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{a b}{b-a}(A-B)$$",
+          "title_safe": "equalsfraca bb-aA-B",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$",
+          "title_safe": "pluse3equalsfraca bb-aB-AplusB c",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$",
+          "title_safe": "8 pi fracb2a2 fracA-B2b-a2",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} p=F^{\\prime}$",
+          "title_safe": "pequalsFprime",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi a T .$$",
+          "title_safe": "pi a T",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+C_{2} r^{-1}$$",
+          "title_safe": "plusC2 r-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-b^{-1}} r^{-1} \\\\",
+          "title_safe": "b-1 r-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-b^{-1}} r^{-2}",
+          "title_safe": "b-1 r-2",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+          "title_safe": "sigma2 are the surface-densities on the opposed surfaces of",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\begin{array}{cc}",
+          "title_safe": "equalsbeginarraycc",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "& A-B \\\\",
+          "title_safe": "and A-B",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi a^{2} a^{-1}-b^{-1}",
+          "title_safe": "pi a2 a-1-b-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$",
+          "title_safe": "equalsfrac14 pi b2 fracB-Aa-1-b-1",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $e_{2}$ are the whole charges of electricity on these",
+          "title_safe": "and e2 are the whole charges of electricity on these",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$",
+          "title_safe": "equals4 pi a2 sigma1equalsfracA-Ba-1-b-1equals-e2",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}=B c .$$",
+          "title_safe": "equalsB c",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{a b}{b-a}(A-B)$$",
+          "title_safe": "equalsfraca bb-aA-B",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$",
+          "title_safe": "pluse3equalsfraca bb-aB-AplusB c",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$",
+          "title_safe": "8 pi fracb2a2 fracA-B2b-a2",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} p=F^{\\prime}$",
+          "title_safe": "pequalsFprime",
+          "page_start": 224,
+          "page_end": 223,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi a T .$$",
+          "title_safe": "pi a T",
+          "page_start": 224,
+          "page_end": 224,
+          "content": {
+            "raw_text": "\n--- Page 224 ---\n125.]\nCONCENTRIC SPHERICAL SURFACES.\n189\nThe solution of this is\n$$V=C_{1}+C_{2} r^{-1}$$\nand the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,\ngive for the space between the spherical surfaces,\n$$\\begin{aligned}\n& V=\\frac{A a-B b}{a-b}+\\frac{A-B}{a^{-1}-b^{-1}} r^{-1} \\\\\n& R=-\\frac{d V}{d r}=\\frac{A-B}{a^{-1}-b^{-1}} r^{-2}\n\\end{aligned}$$\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a\nsolid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then\n$$\\sigma_{1}=\\begin{array}{cc}\n1 & A-B \\\\\n4 \\pi a^{2} a^{-1}-b^{-1}\n\\end{array}, \\quad \\sigma_{2}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$\nIf $e_{1}$ and $e_{2}$ are the whole charges of electricity on these\nsurfaces,\n$$e_{1}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$\nThe capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.\nIf the outer surface of the shell is also spherical and of radius $c$,\nthen, if there are no other conductors in the neighbourhood, the\ncharge on the outer surface is\n$$e_{3}=B c .$$\nHence the whole charge on the inner sphere is\n$$e_{1}=\\frac{a b}{b-a}(A-B)$$\nand that on the outer shell\n$$e_{2}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$\nIf we put $b=\\infty$, we have the case of a sphere in an infinite\nspace. The electric capacity of such a sphere is $c$, or it is\nnumerically equal to its radius.\nThe electric tension on the inner sphere per unit of area is\n$$p=\\frac{1}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$\nThe resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$\nnormal to the base of the hemisphere, and if this is balanced by\na surface tension exerted across the circular boundary of the\nhemisphere, the tension on unit of length being $T$, we have\n$$F=2 \\pi a T .$$\n",
+            "mathpix_markdown": "\n--- Page 224 ---\n\n\nThe solution of this is\n\n$$V=C_{1}+C_{2} r^{-1}$$\n\nand the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,\n give for the space between the spherical surfaces,\n\n$$\\begin{aligned}\n& V=\\frac{A a-B b}{a-b}+\\frac{A-B}{a^{-1}-b^{-1}} r^{-1} \\\\\n& R=-\\frac{d V}{d r}=\\frac{A-B}{a^{-1}-b^{-1}} r^{-2}\n\\end{aligned}$$\n\n\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a\n solid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then\n\n$$\\sigma_{1}=\\begin{array}{cc}\n1 & A-B \\\\\n4 \\pi a^{2} a^{-1}-b^{-1}\n\\end{array}, \\quad \\sigma_{2}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$\n\n\nIf $e_{1}$ and $e_{2}$ are the whole charges of electricity on these\n surfaces,\n\n$$e_{1}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$\n\n\nThe capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.\n\nIf the outer surface of the shell is also spherical and of radius $c$,\n then, if there are no other conductors in the neighbourhood, the\n charge on the outer surface is\n\n$$e_{3}=B c .$$\n\n\nHence the whole charge on the inner sphere is\n\n$$e_{1}=\\frac{a b}{b-a}(A-B)$$\n\nand that on the outer shell\n\n$$e_{2}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$\n\n\nIf we put $b=\\infty$, we have the case of a sphere in an infinite\n space. The electric capacity of such a sphere is $c$, or it is\n numerically equal to its radius.\n\n\nThe electric tension on the inner sphere per unit of area is\n\n$$p=\\frac{1}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$\n\n\nThe resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$\n normal to the base of the hemisphere, and if this is balanced by\n a surface tension exerted across the circular boundary of the\n hemisphere, the tension on unit of length being $T$, we have\n\n$$F=2 \\pi a T .$$\n",
+            "structured_lines": [
+              {
+                "page": 224,
+                "line_number": 4,
+                "type": "text",
+                "content": "The solution of this is",
+                "mathpix_content": "\n\nThe solution of this is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 7,
+                "type": "text",
+                "content": "and the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,",
+                "mathpix_content": "\nand the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 224,
+                "line_number": 8,
+                "type": "text",
+                "content": "give for the space between the spherical surfaces,",
+                "mathpix_content": " give for the space between the spherical surfaces,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 12,
+                "type": "text",
+                "content": "If $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+                "mathpix_content": "\n\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 13,
+                "type": "text",
+                "content": "solid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then",
+                "mathpix_content": " solid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then",
+                "font_size": 27,
+                "confidence": 0.9833984375
+              },
+              {
+                "page": 224,
+                "line_number": 16,
+                "type": "text",
+                "content": "If $e_{1}$ and $e_{2}$ are the whole charges of electricity on these",
+                "mathpix_content": "\n\nIf $e_{1}$ and $e_{2}$ are the whole charges of electricity on these",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 17,
+                "type": "text",
+                "content": "surfaces,",
+                "mathpix_content": " surfaces,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 20,
+                "type": "text",
+                "content": "The capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.",
+                "mathpix_content": "\n\nThe capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.",
+                "font_size": 27,
+                "confidence": 0.92626953125
+              },
+              {
+                "page": 224,
+                "line_number": 21,
+                "type": "text",
+                "content": "If the outer surface of the shell is also spherical and of radius $c$,",
+                "mathpix_content": "\nIf the outer surface of the shell is also spherical and of radius $c$,",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 224,
+                "line_number": 22,
+                "type": "text",
+                "content": "then, if there are no other conductors in the neighbourhood, the",
+                "mathpix_content": " then, if there are no other conductors in the neighbourhood, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 23,
+                "type": "text",
+                "content": "charge on the outer surface is",
+                "mathpix_content": " charge on the outer surface is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 26,
+                "type": "text",
+                "content": "Hence the whole charge on the inner sphere is",
+                "mathpix_content": "\n\nHence the whole charge on the inner sphere is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 29,
+                "type": "text",
+                "content": "and that on the outer shell",
+                "mathpix_content": "\nand that on the outer shell",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 32,
+                "type": "text",
+                "content": "If we put $b=\\infty$, we have the case of a sphere in an infinite",
+                "mathpix_content": "\n\nIf we put $b=\\infty$, we have the case of a sphere in an infinite",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 224,
+                "line_number": 33,
+                "type": "text",
+                "content": "space. The electric capacity of such a sphere is $c$, or it is",
+                "mathpix_content": " space. The electric capacity of such a sphere is $c$, or it is",
+                "font_size": 27,
+                "confidence": 0.9863746166229248
+              },
+              {
+                "page": 224,
+                "line_number": 34,
+                "type": "text",
+                "content": "numerically equal to its radius.",
+                "mathpix_content": " numerically equal to its radius.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 35,
+                "type": "text",
+                "content": "The electric tension on the inner sphere per unit of area is",
+                "mathpix_content": "\n\nThe electric tension on the inner sphere per unit of area is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 38,
+                "type": "text",
+                "content": "The resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$",
+                "mathpix_content": "\n\nThe resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$",
+                "font_size": 27,
+                "confidence": 0.8545629978179932
+              },
+              {
+                "page": 224,
+                "line_number": 39,
+                "type": "text",
+                "content": "normal to the base of the hemisphere, and if this is balanced by",
+                "mathpix_content": " normal to the base of the hemisphere, and if this is balanced by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 40,
+                "type": "text",
+                "content": "a surface tension exerted across the circular boundary of the",
+                "mathpix_content": " a surface tension exerted across the circular boundary of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 224,
+                "line_number": 41,
+                "type": "text",
+                "content": "hemisphere, the tension on unit of length being $T$, we have",
+                "mathpix_content": " hemisphere, the tension on unit of length being $T$, we have",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_78",
+      "chapter_number": 190,
+      "title": "SIMPLE CASES.",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_79",
+      "chapter_number": 126,
+      "title": "Hence",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_80",
+      "chapter_number": 2,
+      "title": "}}{8} \\frac{(A-B)^{2}}{(b-a)^{2}}=\\frac{e_{1}^{2}}{8 a^{2}} \\\\",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_81",
+      "chapter_number": 2,
+      "title": "}(A-B)^{2}}{16 \\pi a}(b-a)^{2}",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_82",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} \\frac{A}{a} .$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_83",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma$,",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_84",
+      "chapter_number": 79,
+      "title": "the electric",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_85",
+      "chapter_number": 2,
+      "title": "\\pi \\sigma^{2}$, acting outwards.",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_86",
+      "chapter_number": 2,
+      "title": "\\pi \\sigma^{2}$, or",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_87",
+      "chapter_number": 1,
+      "title": "}{8 \\pi} \\frac{A^{2}}{a^{2}} .$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_88",
+      "chapter_number": 0,
+      "title": "}$ is the tension which the liquid",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_89",
+      "chapter_number": 2,
+      "title": "T_{0}^{\\prime} / a_{\\text {. }}$ If",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_90",
+      "chapter_number": 2,
+      "title": "}=16 \\pi \\alpha T_{0} .$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_91",
+      "chapter_number": 126,
+      "title": "] Let the radius of the outer surface of a conducting",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_92",
+      "chapter_number": 2,
+      "title": "} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}=0,$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_93",
+      "chapter_number": 1,
+      "title": "}+C_{2} \\log r .$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_94",
+      "chapter_number": 2,
+      "title": "}}{8} \\frac{(A-B)^{2}}{(b-a)^{2}}=\\frac{e_{1}^{2}}{8 a^{2}} \\\\",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_95",
+      "chapter_number": 2,
+      "title": "}(A-B)^{2}}{16 \\pi a}(b-a)^{2}",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_96",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} \\frac{A}{a} .$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_97",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma$,",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_98",
+      "chapter_number": 79,
+      "title": "the electric",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_99",
+      "chapter_number": 2,
+      "title": "\\pi \\sigma^{2}$, acting outwards.",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_100",
+      "chapter_number": 2,
+      "title": "\\pi \\sigma^{2}$, or",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_101",
+      "chapter_number": 1,
+      "title": "}{8 \\pi} \\frac{A^{2}}{a^{2}} .$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_102",
+      "chapter_number": 0,
+      "title": "}$ is the tension which the liquid",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_103",
+      "chapter_number": 2,
+      "title": "T_{0}^{\\prime} / a_{\\text {. }}$ If",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_104",
+      "chapter_number": 2,
+      "title": "}=16 \\pi \\alpha T_{0} .$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_105",
+      "chapter_number": 126,
+      "title": "] Let the radius of the outer surface of a conducting",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_106",
+      "chapter_number": 2,
+      "title": "} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}=0,$$",
+      "page_start": 225,
+      "page_end": 224,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_107",
+      "chapter_number": 1,
+      "title": "}+C_{2} \\log r .$$",
+      "page_start": 225,
+      "page_end": 225,
+      "articles": [
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": "the electric",
+          "title_safe": "the electric",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": "the electric",
+          "title_safe": "the electric",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_126",
+          "article_number": 126,
+          "title_original": "Hence",
+          "title_safe": "Hence",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_126",
+          "article_number": 126,
+          "title_original": "] Let the radius of the outer surface of a conducting",
+          "title_safe": "Let the radius of the outer surface of a conducting",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_126",
+          "article_number": 126,
+          "title_original": "] Let the radius of the outer surface of a conducting",
+          "title_safe": "Let the radius of the outer surface of a conducting",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_190",
+          "article_number": 190,
+          "title_original": "SIMPLE CASES.",
+          "title_safe": "SIMPLE CASES",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_126",
+          "article_number": 126,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{8} \\frac{(A-B)^{2}}{(b-a)^{2}}=\\frac{e_{1}^{2}}{8 a^{2}} \\\\",
+          "title_safe": "8 fracA-B2b-a2equalsfrace128 a2",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}(A-B)^{2}}{16 \\pi a}(b-a)^{2}",
+          "title_safe": "A-B216 pi ab-a2",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} \\frac{A}{a} .$$",
+          "title_safe": "4 pi fracAa",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma$,",
+          "title_safe": "pi sigma",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": "the electric",
+          "title_safe": "the electric",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\sigma^{2}$, acting outwards.",
+          "title_safe": "pi sigma2 acting outwards",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\sigma^{2}$, or",
+          "title_safe": "pi sigma2 or",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{8 \\pi} \\frac{A^{2}}{a^{2}} .$$",
+          "title_safe": "8 pi fracA2a2",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the tension which the liquid",
+          "title_safe": "is the tension which the liquid",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "T_{0}^{\\prime} / a_{\\text {. }}$ If",
+          "title_safe": "T0prime SLASH atext . If",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=16 \\pi \\alpha T_{0} .$$",
+          "title_safe": "equals16 pi alpha T0",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_126",
+          "article_number": 126,
+          "title_original": ".] Let the radius of the outer surface of a conducting",
+          "title_safe": "Let the radius of the outer surface of a conducting",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}=0,$$",
+          "title_safe": "Vd r2plusfrac1r fracd Vd requals0",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+C_{2} \\log r .$$",
+          "title_safe": "plusC2 log r",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{8} \\frac{(A-B)^{2}}{(b-a)^{2}}=\\frac{e_{1}^{2}}{8 a^{2}} \\\\",
+          "title_safe": "8 fracA-B2b-a2equalsfrace128 a2",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}(A-B)^{2}}{16 \\pi a}(b-a)^{2}",
+          "title_safe": "A-B216 pi ab-a2",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} \\frac{A}{a} .$$",
+          "title_safe": "4 pi fracAa",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma$,",
+          "title_safe": "pi sigma",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_79",
+          "article_number": 79,
+          "title_original": "the electric",
+          "title_safe": "the electric",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\sigma^{2}$, acting outwards.",
+          "title_safe": "pi sigma2 acting outwards",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\sigma^{2}$, or",
+          "title_safe": "pi sigma2 or",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{8 \\pi} \\frac{A^{2}}{a^{2}} .$$",
+          "title_safe": "8 pi fracA2a2",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the tension which the liquid",
+          "title_safe": "is the tension which the liquid",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "T_{0}^{\\prime} / a_{\\text {. }}$ If",
+          "title_safe": "T0prime SLASH atext . If",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=16 \\pi \\alpha T_{0} .$$",
+          "title_safe": "equals16 pi alpha T0",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_126",
+          "article_number": 126,
+          "title_original": ".] Let the radius of the outer surface of a conducting",
+          "title_safe": "Let the radius of the outer surface of a conducting",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}=0,$$",
+          "title_safe": "Vd r2plusfrac1r fracd Vd requals0",
+          "page_start": 225,
+          "page_end": 224,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+C_{2} \\log r .$$",
+          "title_safe": "plusC2 log r",
+          "page_start": 225,
+          "page_end": 225,
+          "content": {
+            "raw_text": "\n--- Page 225 ---\n190\nSIMPLE CASES.\n[126.\nHence\n$$\\begin{aligned}\n& F=\\frac{b^{2}}{8} \\frac{(A-B)^{2}}{(b-a)^{2}}=\\frac{e_{1}^{2}}{8 a^{2}} \\\\\n& T=\\frac{b^{2}(A-B)^{2}}{16 \\pi a}(b-a)^{2}\n\\end{aligned}$$\nIf a spherical soap bubble is electrified to a potential $A$, then,\nif its radius is $u$, the charge will be $A u$, and the surface-density\nwill be\n$$\\sigma=\\frac{1}{4 \\pi} \\frac{A}{a} .$$\nThe resultant intensity just outside the surface will be $4 \\pi \\sigma$,\nand inside the bubble it is zero, so that by Art. 79 the electric\nforce on unit of area of the surface will be $2 \\pi \\sigma^{2}$, acting outwards.\nHence the electrification will diminish the pressure of the air\nwithin the bubble by $2 \\pi \\sigma^{2}$, or\n$$\\frac{1}{8 \\pi} \\frac{A^{2}}{a^{2}} .$$\nBut it may be shewn that if $T_{0}$ is the tension which the liquid\nfilm exerts across a line of unit length, then the pressure from\nwithin required to keep the bubble from collapsing is $2 T_{0}^{\\prime} / a_{\\text {. }}$ If\nthe electric force is just sufficient to keep the bubble in equi-\nlibrium when the air within and without is at the same pressure,\n$$A^{2}=16 \\pi \\alpha T_{0} .$$\n\nTwo Infinite Coaxal Cylindric Surfaces.\n126.] Let the radius of the outer surface of a conducting\ncylinder be $a$, and let the radius of an inner surface of a hollow\ncylinder, having the same axis with the first, be $b$. Let their\npotentials be $A$ and $B$ respectively. Then, since the potential $V$\nis in this case a function only of $r$, the distance from the axis,\nLaplace's equation becomes\n$$\\frac{d^{2} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}=0,$$\nwhence\n$$V=C_{1}+C_{2} \\log r .$$\nSince $V=A$ when $r=a$, and $V=b$ when $r=b$,\n$$V=\\frac{A \\log \\frac{b}{r}+B \\log \\frac{r}{a}}{\\log \\frac{b}{a}}$$\n",
+            "mathpix_markdown": "\n--- Page 225 ---\n\n\nHence\n\n$$\\begin{aligned}\n& F=\\frac{b^{2}}{8} \\frac{(A-B)^{2}}{(b-a)^{2}}=\\frac{e_{1}^{2}}{8 a^{2}} \\\\\n& T=\\frac{b^{2}(A-B)^{2}}{16 \\pi a}(b-a)^{2}\n\\end{aligned}$$\n\n\nIf a spherical soap bubble is electrified to a potential $A$, then,\n if its radius is $u$, the charge will be $A u$, and the surface-density\n will be\n\n$$\\sigma=\\frac{1}{4 \\pi} \\frac{A}{a} .$$\n\n\nThe resultant intensity just outside the surface will be $4 \\pi \\sigma$,\n and inside the bubble it is zero, so that by Art. 79 the electric\n force on unit of area of the surface will be $2 \\pi \\sigma^{2}$, acting outwards.\n Hence the electrification will diminish the pressure of the air\n within the bubble by $2 \\pi \\sigma^{2}$, or\n\n$$\\frac{1}{8 \\pi} \\frac{A^{2}}{a^{2}} .$$\n\n\nBut it may be shewn that if $T_{0}$ is the tension which the liquid\n film exerts across a line of unit length, then the pressure from\n within required to keep the bubble from collapsing is $2 T_{0}^{\\prime} / a_{\\text {. }}$ If\n the electric force is just sufficient to keep the bubble in equi\nlibrium when the air within and without is at the same pressure,\n\n$$A^{2}=16 \\pi \\alpha T_{0} .$$\n\n\n\\section*{Two Infinite Coaxal Cylindric Surfaces.}\n\n126.] Let the radius of the outer surface of a conducting\n cylinder be $a$, and let the radius of an inner surface of a hollow\n cylinder, having the same axis with the first, be $b$. Let their\n potentials be $A$ and $B$ respectively. Then, since the potential $V$\n is in this case a function only of $r$, the distance from the axis,\n Laplace's equation becomes\n\n$$\\frac{d^{2} V}{d r^{2}}+\\frac{1}{r} \\frac{d V}{d r}=0,$$\n\nwhence\n\n$$V=C_{1}+C_{2} \\log r .$$\n\n\nSince $V=A$ when $r=a$, and $V=b$ when $r=b$,\n\n$$V=\\frac{A \\log \\frac{b}{r}+B \\log \\frac{r}{a}}{\\log \\frac{b}{a}}$$\n",
+            "structured_lines": [
+              {
+                "page": 225,
+                "line_number": 4,
+                "type": "text",
+                "content": "Hence",
+                "mathpix_content": "\n\nHence",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 8,
+                "type": "text",
+                "content": "If a spherical soap bubble is electrified to a potential $A$, then,",
+                "mathpix_content": "\n\nIf a spherical soap bubble is electrified to a potential $A$, then,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 9,
+                "type": "text",
+                "content": "if its radius is $u$, the charge will be $A u$, and the surface-density",
+                "mathpix_content": " if its radius is $u$, the charge will be $A u$, and the surface-density",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 225,
+                "line_number": 10,
+                "type": "text",
+                "content": "will be",
+                "mathpix_content": " will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 13,
+                "type": "text",
+                "content": "The resultant intensity just outside the surface will be $4 \\pi \\sigma$,",
+                "mathpix_content": "\n\nThe resultant intensity just outside the surface will be $4 \\pi \\sigma$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 14,
+                "type": "text",
+                "content": "and inside the bubble it is zero, so that by Art. 79 the electric",
+                "mathpix_content": " and inside the bubble it is zero, so that by Art. 79 the electric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 15,
+                "type": "text",
+                "content": "force on unit of area of the surface will be $2 \\pi \\sigma^{2}$, acting outwards.",
+                "mathpix_content": " force on unit of area of the surface will be $2 \\pi \\sigma^{2}$, acting outwards.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 16,
+                "type": "text",
+                "content": "Hence the electrification will diminish the pressure of the air",
+                "mathpix_content": " Hence the electrification will diminish the pressure of the air",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 17,
+                "type": "text",
+                "content": "within the bubble by $2 \\pi \\sigma^{2}$, or",
+                "mathpix_content": " within the bubble by $2 \\pi \\sigma^{2}$, or",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 20,
+                "type": "text",
+                "content": "But it may be shewn that if $T_{0}$ is the tension which the liquid",
+                "mathpix_content": "\n\nBut it may be shewn that if $T_{0}$ is the tension which the liquid",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 225,
+                "line_number": 21,
+                "type": "text",
+                "content": "film exerts across a line of unit length, then the pressure from",
+                "mathpix_content": " film exerts across a line of unit length, then the pressure from",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 22,
+                "type": "text",
+                "content": "within required to keep the bubble from collapsing is $2 T_{0}^{\\prime} / a_{\\text {. }}$ If",
+                "mathpix_content": " within required to keep the bubble from collapsing is $2 T_{0}^{\\prime} / a_{\\text {. }}$ If",
+                "font_size": 27,
+                "confidence": 0.27002298605558367
+              },
+              {
+                "page": 225,
+                "line_number": 23,
+                "type": "text",
+                "content": "the electric force is just sufficient to keep the bubble in equi-",
+                "mathpix_content": " the electric force is just sufficient to keep the bubble in equi",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 24,
+                "type": "text",
+                "content": "librium when the air within and without is at the same pressure,",
+                "mathpix_content": "librium when the air within and without is at the same pressure,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 225,
+                "line_number": 28,
+                "type": "text",
+                "content": "Two Infinite Coaxal Cylindric Surfaces.",
+                "mathpix_content": "\n\n\\section*{Two Infinite Coaxal Cylindric Surfaces.}",
+                "font_size": 34,
+                "confidence": 0.9849154729163274
+              },
+              {
+                "page": 225,
+                "line_number": 29,
+                "type": "text",
+                "content": "126.] Let the radius of the outer surface of a conducting",
+                "mathpix_content": "\n126.] Let the radius of the outer surface of a conducting",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 30,
+                "type": "text",
+                "content": "cylinder be $a$, and let the radius of an inner surface of a hollow",
+                "mathpix_content": " cylinder be $a$, and let the radius of an inner surface of a hollow",
+                "font_size": 27,
+                "confidence": 0.98876953125
+              },
+              {
+                "page": 225,
+                "line_number": 31,
+                "type": "text",
+                "content": "cylinder, having the same axis with the first, be $b$. Let their",
+                "mathpix_content": " cylinder, having the same axis with the first, be $b$. Let their",
+                "font_size": 27,
+                "confidence": 0.99169921875
+              },
+              {
+                "page": 225,
+                "line_number": 32,
+                "type": "text",
+                "content": "potentials be $A$ and $B$ respectively. Then, since the potential $V$",
+                "mathpix_content": " potentials be $A$ and $B$ respectively. Then, since the potential $V$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 33,
+                "type": "text",
+                "content": "is in this case a function only of $r$, the distance from the axis,",
+                "mathpix_content": " is in this case a function only of $r$, the distance from the axis,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 225,
+                "line_number": 34,
+                "type": "text",
+                "content": "Laplace's equation becomes",
+                "mathpix_content": " Laplace's equation becomes",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 37,
+                "type": "text",
+                "content": "whence",
+                "mathpix_content": "\nwhence",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 225,
+                "line_number": 40,
+                "type": "text",
+                "content": "Since $V=A$ when $r=a$, and $V=b$ when $r=b$,",
+                "mathpix_content": "\n\nSince $V=A$ when $r=a$, and $V=b$ when $r=b$,",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

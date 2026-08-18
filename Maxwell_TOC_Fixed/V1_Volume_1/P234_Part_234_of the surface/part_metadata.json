@@ -1,0 +1,735 @@
+{
+  "part_id": "part_234",
+  "part_number": 234,
+  "title": "of the surface",
+  "page_start": 96,
+  "page_end": 96,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 58,
+      "title": "]",
+      "page_start": 96,
+      "page_end": 95,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 61,
+      "title": "so that if the electricity, for example, is passing along a tube",
+      "page_start": 96,
+      "page_end": 95,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 58,
+      "title": "] Certain crystals of tourmaline, and of other minerals,",
+      "page_start": 96,
+      "page_end": 95,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 1866,
+      "title": "\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant",
+      "page_start": 96,
+      "page_end": 95,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 28,
+      "title": ", p. 316.\\}",
+      "page_start": 96,
+      "page_end": 95,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 58,
+      "title": "] Certain crystals of tourmaline, and of other minerals,",
+      "page_start": 96,
+      "page_end": 95,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 1866,
+      "title": "\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant",
+      "page_start": 96,
+      "page_end": 95,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 28,
+      "title": ", p. 316.\\}",
+      "page_start": 96,
+      "page_end": 96,
+      "articles": [
+        {
+          "article_id": "article_58",
+          "article_number": 58,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_58",
+          "article_number": 58,
+          "title_original": "] Certain crystals of tourmaline, and of other minerals,",
+          "title_safe": "Certain crystals of tourmaline and of other minerals",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1866",
+          "article_number": 1866,
+          "title_original": "\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant",
+          "title_safe": "\u2020 For a fuller account of this property and the electrificat",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_316",
+          "article_number": 316,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_58",
+          "article_number": 58,
+          "title_original": "] Certain crystals of tourmaline, and of other minerals,",
+          "title_safe": "Certain crystals of tourmaline and of other minerals",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1866",
+          "article_number": 1866,
+          "title_original": "\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant",
+          "title_safe": "\u2020 For a fuller account of this property and the electrificat",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_316",
+          "article_number": 316,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_58",
+          "article_number": 58,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_61",
+          "article_number": 61,
+          "title_original": "so that if the electricity, for example, is passing along a tube",
+          "title_safe": "so that if the electricity for example is passing along a tu",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_58",
+          "article_number": 58,
+          "title_original": ".] Certain crystals of tourmaline, and of other minerals,",
+          "title_safe": "Certain crystals of tourmaline and of other minerals",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1866",
+          "article_number": 1866,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": ", p. 316.\\}",
+          "title_safe": "p. 316",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_58",
+          "article_number": 58,
+          "title_original": ".] Certain crystals of tourmaline, and of other minerals,",
+          "title_safe": "Certain crystals of tourmaline and of other minerals",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1866",
+          "article_number": 1866,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 96,
+          "page_end": 95,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": ", p. 316.\\}",
+          "title_safe": "p. 316",
+          "page_start": 96,
+          "page_end": 96,
+          "content": {
+            "raw_text": "\n--- Page 96 ---\n58.]\nELECTRIC PHENOMENA OF TOURMALINE.\n61\nso that if the electricity, for example, is passing along a tube\ncontaining a very small quantity of gas, a number of luminous\ndisks will be seen arranged transversely at nearly equal intervals\nalong the axis of the tube and separated by dark strata. If the\nstrength of the current be increased a new disk will start into\nexistence, and it and the old disks will arrange themselves in\ncloser order. In a tube described by Mr. Gassiot * the light of\neach of the disks is bluish on the negative and reddish on the\npositive side, and bright red in the central stratum.\nThese, and many other phenomena of electrical discharge, are\nexceedingly important, and when they are better understood they\nwill probably throw great light on the nature of electricity as\nwell as on the nature of gases and of the medium pervading space.\nAt pesent, however, they must be considered as outside the\ndomain of the mathematical theory of electricity.\n\nElectric Phenomena of Tourmaline \u2020 .\n58.] Certain crystals of tourmaline, and of other minerals,\npossess what may be called Electric Polarity. Suppose a crystal\nof tourmaline to be at a uniform temperature, and apparently\nfree from electrification on its surface. Let its temperature be\nnow raised, the crystal remaining insulated. One end will be\nfound positively and the other end negatively electrified. Let\nthe surface be deprived of this apparent electrification by means\nof a flame or otherwise, then if the crystal be made still hotter,\nelectrification of the same kind as before will appear, but if the\ncrystal be cooled the end which was positive when the crystal\nwas heated will become negative.\nThese electrifications are observed at the extremities of the\ncrystallographic axis. Some crystals are terminated by a six-\nsided pyramid at one end and by a three-sided pyramid at the\nother. In these the end having the six-sided pyramid becomes\npositive when the crystal is heated.\nSir W. Thomson supposes every portion of these and other\nhemihedral crystals to have a definite electric polarity, the\nintensity of which depends on the temperature. When the\nsurface is passed through a flame, every part of the surface\nbecomes electrified to such an extent as to exactly neutralize,\n\n* Intellectual Observer, March 1866.\n\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant\nlight and heat, see Wiedemann's Elektricit\u00e4t, v. 28, p. 316.\\}\n",
+            "mathpix_markdown": "\n--- Page 96 ---\n\nso that if the electricity, for example, is passing along a tube\n containing a very small quantity of gas, a number of luminous\n disks will be seen arranged transversely at nearly equal intervals\n along the axis of the tube and separated by dark strata. If the\n strength of the current be increased a new disk will start into\n existence, and it and the old disks will arrange themselves in\n closer order. In a tube described by Mr. Gassiot * the light of\n each of the disks is bluish on the negative and reddish on the\n positive side, and bright red in the central stratum.\n\n\nThese, and many other phenomena of electrical discharge, are\n exceedingly important, and when they are better understood they\n will probably throw great light on the nature of electricity as\n well as on the nature of gases and of the medium pervading space.\n At pesent, however, they must be considered as outside the\n domain of the mathematical theory of electricity.\n\n\n\\section*{Electric Phenomena of Tourmaline \u2020 .}\n\n58.] Certain crystals of tourmaline, and of other minerals,\n possess what may be called Electric Polarity. Suppose a crystal\n of tourmaline to be at a uniform temperature, and apparently\n free from electrification on its surface. Let its temperature be\n now raised, the crystal remaining insulated. One end will be\n found positively and the other end negatively electrified. Let\n the surface be deprived of this apparent electrification by means\n of a flame or otherwise, then if the crystal be made still hotter,\n electrification of the same kind as before will appear, but if the\n crystal be cooled the end which was positive when the crystal\n was heated will become negative.\n\n\nThese electrifications are observed at the extremities of the\n crystallographic axis. Some crystals are terminated by a six\nsided pyramid at one end and by a three-sided pyramid at the\n other. In these the end having the six-sided pyramid becomes\n positive when the crystal is heated.\n\n\nSir W. Thomson supposes every portion of these and other\n hemihedral crystals to have a definite electric polarity, the\n intensity of which depends on the temperature. When the\n surface is passed through a flame, every part of the surface\n becomes electrified to such an extent as to exactly neutralize,\n\n\n\\footnotetext{\n* Intellectual Observer, March 1866.\n\n\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant\n light and heat, see Wiedemann's Elektricit\u00e4t, v. 28, p. 316.\\}\n}\n",
+            "structured_lines": [
+              {
+                "page": 96,
+                "line_number": 4,
+                "type": "text",
+                "content": "so that if the electricity, for example, is passing along a tube",
+                "mathpix_content": "\nso that if the electricity, for example, is passing along a tube",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 5,
+                "type": "text",
+                "content": "containing a very small quantity of gas, a number of luminous",
+                "mathpix_content": " containing a very small quantity of gas, a number of luminous",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 6,
+                "type": "text",
+                "content": "disks will be seen arranged transversely at nearly equal intervals",
+                "mathpix_content": " disks will be seen arranged transversely at nearly equal intervals",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 7,
+                "type": "text",
+                "content": "along the axis of the tube and separated by dark strata. If the",
+                "mathpix_content": " along the axis of the tube and separated by dark strata. If the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 8,
+                "type": "text",
+                "content": "strength of the current be increased a new disk will start into",
+                "mathpix_content": " strength of the current be increased a new disk will start into",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 9,
+                "type": "text",
+                "content": "existence, and it and the old disks will arrange themselves in",
+                "mathpix_content": " existence, and it and the old disks will arrange themselves in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 10,
+                "type": "text",
+                "content": "closer order. In a tube described by Mr. Gassiot * the light of",
+                "mathpix_content": " closer order. In a tube described by Mr. Gassiot * the light of",
+                "font_size": 27,
+                "confidence": 0.9956073760986328
+              },
+              {
+                "page": 96,
+                "line_number": 11,
+                "type": "text",
+                "content": "each of the disks is bluish on the negative and reddish on the",
+                "mathpix_content": " each of the disks is bluish on the negative and reddish on the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 12,
+                "type": "text",
+                "content": "positive side, and bright red in the central stratum.",
+                "mathpix_content": " positive side, and bright red in the central stratum.",
+                "font_size": 27,
+                "confidence": 0.86376953125
+              },
+              {
+                "page": 96,
+                "line_number": 13,
+                "type": "text",
+                "content": "These, and many other phenomena of electrical discharge, are",
+                "mathpix_content": "\n\nThese, and many other phenomena of electrical discharge, are",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 14,
+                "type": "text",
+                "content": "exceedingly important, and when they are better understood they",
+                "mathpix_content": " exceedingly important, and when they are better understood they",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 15,
+                "type": "text",
+                "content": "will probably throw great light on the nature of electricity as",
+                "mathpix_content": " will probably throw great light on the nature of electricity as",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 16,
+                "type": "text",
+                "content": "well as on the nature of gases and of the medium pervading space.",
+                "mathpix_content": " well as on the nature of gases and of the medium pervading space.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 17,
+                "type": "text",
+                "content": "At pesent, however, they must be considered as outside the",
+                "mathpix_content": " At pesent, however, they must be considered as outside the",
+                "font_size": 27,
+                "confidence": 0.5989255905151367
+              },
+              {
+                "page": 96,
+                "line_number": 18,
+                "type": "text",
+                "content": "domain of the mathematical theory of electricity.",
+                "mathpix_content": " domain of the mathematical theory of electricity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 20,
+                "type": "text",
+                "content": "Electric Phenomena of Tourmaline \u2020 .",
+                "mathpix_content": "\n\n\\section*{Electric Phenomena of Tourmaline \u2020 .}",
+                "font_size": 27,
+                "confidence": 0.89892578125
+              },
+              {
+                "page": 96,
+                "line_number": 21,
+                "type": "text",
+                "content": "58.] Certain crystals of tourmaline, and of other minerals,",
+                "mathpix_content": "\n58.] Certain crystals of tourmaline, and of other minerals,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 22,
+                "type": "text",
+                "content": "possess what may be called Electric Polarity. Suppose a crystal",
+                "mathpix_content": " possess what may be called Electric Polarity. Suppose a crystal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 23,
+                "type": "text",
+                "content": "of tourmaline to be at a uniform temperature, and apparently",
+                "mathpix_content": " of tourmaline to be at a uniform temperature, and apparently",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 24,
+                "type": "text",
+                "content": "free from electrification on its surface. Let its temperature be",
+                "mathpix_content": " free from electrification on its surface. Let its temperature be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 25,
+                "type": "text",
+                "content": "now raised, the crystal remaining insulated. One end will be",
+                "mathpix_content": " now raised, the crystal remaining insulated. One end will be",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 96,
+                "line_number": 26,
+                "type": "text",
+                "content": "found positively and the other end negatively electrified. Let",
+                "mathpix_content": " found positively and the other end negatively electrified. Let",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 27,
+                "type": "text",
+                "content": "the surface be deprived of this apparent electrification by means",
+                "mathpix_content": " the surface be deprived of this apparent electrification by means",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 28,
+                "type": "text",
+                "content": "of a flame or otherwise, then if the crystal be made still hotter,",
+                "mathpix_content": " of a flame or otherwise, then if the crystal be made still hotter,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 29,
+                "type": "text",
+                "content": "electrification of the same kind as before will appear, but if the",
+                "mathpix_content": " electrification of the same kind as before will appear, but if the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 30,
+                "type": "text",
+                "content": "crystal be cooled the end which was positive when the crystal",
+                "mathpix_content": " crystal be cooled the end which was positive when the crystal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 31,
+                "type": "text",
+                "content": "was heated will become negative.",
+                "mathpix_content": " was heated will become negative.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 32,
+                "type": "text",
+                "content": "These electrifications are observed at the extremities of the",
+                "mathpix_content": "\n\nThese electrifications are observed at the extremities of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 33,
+                "type": "text",
+                "content": "crystallographic axis. Some crystals are terminated by a six-",
+                "mathpix_content": " crystallographic axis. Some crystals are terminated by a six",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 34,
+                "type": "text",
+                "content": "sided pyramid at one end and by a three-sided pyramid at the",
+                "mathpix_content": "sided pyramid at one end and by a three-sided pyramid at the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 35,
+                "type": "text",
+                "content": "other. In these the end having the six-sided pyramid becomes",
+                "mathpix_content": " other. In these the end having the six-sided pyramid becomes",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 36,
+                "type": "text",
+                "content": "positive when the crystal is heated.",
+                "mathpix_content": " positive when the crystal is heated.",
+                "font_size": 27,
+                "confidence": 0.994140625
+              },
+              {
+                "page": 96,
+                "line_number": 37,
+                "type": "text",
+                "content": "Sir W. Thomson supposes every portion of these and other",
+                "mathpix_content": "\n\nSir W. Thomson supposes every portion of these and other",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 38,
+                "type": "text",
+                "content": "hemihedral crystals to have a definite electric polarity, the",
+                "mathpix_content": " hemihedral crystals to have a definite electric polarity, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 39,
+                "type": "text",
+                "content": "intensity of which depends on the temperature. When the",
+                "mathpix_content": " intensity of which depends on the temperature. When the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 40,
+                "type": "text",
+                "content": "surface is passed through a flame, every part of the surface",
+                "mathpix_content": " surface is passed through a flame, every part of the surface",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 41,
+                "type": "text",
+                "content": "becomes electrified to such an extent as to exactly neutralize,",
+                "mathpix_content": " becomes electrified to such an extent as to exactly neutralize,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 96,
+                "line_number": 43,
+                "type": "text",
+                "content": "* Intellectual Observer, March 1866.",
+                "mathpix_content": "\n\n\\footnotetext{\n* Intellectual Observer, March 1866.",
+                "font_size": 21,
+                "confidence": 0.990234375
+              },
+              {
+                "page": 96,
+                "line_number": 44,
+                "type": "text",
+                "content": "\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant",
+                "mathpix_content": "\n\u2020 \\{For a fuller account of this property and the electrification of crystals by radiant",
+                "font_size": 21,
+                "confidence": 0.9800491333007812
+              },
+              {
+                "page": 96,
+                "line_number": 45,
+                "type": "text",
+                "content": "light and heat, see Wiedemann's Elektricit\u00e4t, v. 28, p. 316.\\}",
+                "mathpix_content": " light and heat, see Wiedemann's Elektricit\u00e4t, v. 28, p. 316.\\}\n}",
+                "font_size": 21,
+                "confidence": 0.5425842013394799
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

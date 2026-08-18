@@ -1,0 +1,20 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "} b^{3}\\left[8 a^{12}+28 a^{10} b^{2}+154 a^{9} b^{3}+56 a^{8} b^{4}+446 a^{7} b^{5}+102 a^{6} b^{6}\\right. \\\\",
+  "title_safe": "b3left8 a12plus28 a10 b2plus154 a9 b3plus56 a8 b4plus446 a7",
+  "page_start": 265,
+  "page_end": 264,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

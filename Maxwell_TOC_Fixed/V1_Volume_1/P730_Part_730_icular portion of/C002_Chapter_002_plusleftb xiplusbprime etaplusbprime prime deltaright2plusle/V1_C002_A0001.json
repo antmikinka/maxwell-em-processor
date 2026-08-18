@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "} \\xi^{2}+r_{2} \\eta^{2}+r_{3} \\zeta^{2}+2 s_{1} \\eta \\zeta+\\ldots$$",
+  "title_safe": "xi2plusr2 eta2plusr3 zeta2plus2 s1 eta zetaplusldots",
+  "page_start": 456,
+  "page_end": 455,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

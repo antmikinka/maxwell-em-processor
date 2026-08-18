@@ -1,0 +1,345 @@
+{
+  "article_id": "article_28",
+  "article_number": 28,
+  "title_original": ", pp. 203, 250, 274. \\}",
+  "title_safe": "pp. 203 250 274",
+  "page_start": 39,
+  "page_end": 39,
+  "content": {
+    "raw_text": "\n--- Page 39 ---\n4\nPRELIMINARY.\n[5.\nto be compared directly with the standard, and not deduced from\nexperiments on water.\nIn descriptive astronomy the mass of the sun or that of the\nearth is sometimes taken as a unit, but in the dynamical theory\nof astronomy the unit of mass is deduced from the units of time\nand length, combined with the fact of universal gravitation. The\nastronomical unit of mass is that mass which attracts another\nbody placed at the unit of distance so as to produce in that body\nthe unit of acceleration.\nIn framing a universal system of units we may either deduce\nthe unit of mass in this way from those of length and time\nalready defined, and this we can do to a rough approximation in\nthe present state of science; or, if we expect * soon to be able to\ndetermine the mass of a single molecule of a standard substance,\nwe may wait for this determination before fixing a universal\nstandard of mass.\nWe shall denote the concrete unit of mass by the symbol $[M]$\nin treating of the dimensions of other units. The unit of mass\nwill be taken as one of the three fundamental units. When, as\nin the French system, a particular substance, water, is taken as\na standard of density, then the unit of mass is no longer inde-\npendent, but varies as the unit of volume, or us $\\left[L^{3}\\right]$.\nIf, as in the astronomical system, the unit of mass is defined\nwith respect to its attractive power, the dimensions of $[M]$ are\n$\\left[L^{3} T^{-2}\\right]$.\nFor the acceleration due to the attraction of a mass $m$ at a\ndistance $r$ is by the Newtonian Law $\\frac{m}{r^{2}}$. Suppose this attraction\nto act for a very small time $t$ on a body originally at rest, and to\ncause it to describe a space 8, then by the formula of Galileo,\n$$s=\\frac{1}{2} f t^{2}=\\frac{1}{2} \\frac{m}{r^{2}} t^{2} ;$$\nwhence $m=2 \\frac{r^{2} s}{t^{2}}$. Since $r$ and $s$ are both lengths, and $t$ is a\ntime, this equation cannot be true unless the dimensions of $m$ are\n$\\left[L^{3} T^{-2}\\right]$. The same can be shewn from any astronomical equa-\n\n* See Prof. J. Loschmidt, 'Zur Gr\u00f6sse der Luftmolecule,' Academy of Vienna,\nOct. 12, 1865 : G. J. Stoney on 'The Internal Motions of Gases,' Phil. Mag., Aug.\n1868 ; and Sir W. Thomson on 'The Size of Atoms,' Nature, March 31, 1870.\n\\{See also Sir W. Thomson on 'The Size of Atoms,' Nature, v. 28, pp. 203, 250, 274. \\}\n",
+    "mathpix_markdown": "\n--- Page 39 ---\n\nto be compared directly with the standard, and not deduced from\n experiments on water.\n\n\nIn descriptive astronomy the mass of the sun or that of the\n earth is sometimes taken as a unit, but in the dynamical theory\n of astronomy the unit of mass is deduced from the units of time\n and length, combined with the fact of universal gravitation. The\n astronomical unit of mass is that mass which attracts another\n body placed at the unit of distance so as to produce in that body\n the unit of acceleration.\n\n\nIn framing a universal system of units we may either deduce\n the unit of mass in this way from those of length and time\n already defined, and this we can do to a rough approximation in\n the present state of science; or, if we expect * soon to be able to\n determine the mass of a single molecule of a standard substance,\n we may wait for this determination before fixing a universal\n standard of mass.\n\n\nWe shall denote the concrete unit of mass by the symbol $[M]$\n in treating of the dimensions of other units. The unit of mass\n will be taken as one of the three fundamental units. When, as\n in the French system, a particular substance, water, is taken as\n a standard of density, then the unit of mass is no longer inde\npendent, but varies as the unit of volume, or us $\\left[L^{3}\\right]$.\n\n\nIf, as in the astronomical system, the unit of mass is defined\n with respect to its attractive power, the dimensions of $[M]$ are\n $\\left[L^{3} T^{-2}\\right]$.\n\n\nFor the acceleration due to the attraction of a mass $m$ at a\n distance $r$ is by the Newtonian Law $\\frac{m}{r^{2}}$. Suppose this attraction\n to act for a very small time $t$ on a body originally at rest, and to\n cause it to describe a space 8, then by the formula of Galileo,\n\n$$s=\\frac{1}{2} f t^{2}=\\frac{1}{2} \\frac{m}{r^{2}} t^{2} ;$$\n\nwhence $m=2 \\frac{r^{2} s}{t^{2}}$. Since $r$ and $s$ are both lengths, and $t$ is a\n time, this equation cannot be true unless the dimensions of $m$ are\n $\\left[L^{3} T^{-2}\\right]$. The same can be shewn from any astronomical equa-\n\n\n\\footnotetext{\n* See Prof. J. Loschmidt, 'Zur Gr\u00f6sse der Luftmolecule,' Academy of Vienna,\n Oct. 12, 1865 : G. J. Stoney on 'The Internal Motions of Gases,' Phil. Mag., Aug.\n 1868 ; and Sir W. Thomson on 'The Size of Atoms,' Nature, March 31, 1870.\n\n\\{See also Sir W. Thomson on 'The Size of Atoms,' Nature, v. 28, pp. 203, 250, 274. \\}\n}\n",
+    "structured_lines": [
+      {
+        "page": 39,
+        "line_number": 4,
+        "type": "text",
+        "content": "to be compared directly with the standard, and not deduced from",
+        "mathpix_content": "\nto be compared directly with the standard, and not deduced from",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 39,
+        "line_number": 5,
+        "type": "text",
+        "content": "experiments on water.",
+        "mathpix_content": " experiments on water.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 6,
+        "type": "text",
+        "content": "In descriptive astronomy the mass of the sun or that of the",
+        "mathpix_content": "\n\nIn descriptive astronomy the mass of the sun or that of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 7,
+        "type": "text",
+        "content": "earth is sometimes taken as a unit, but in the dynamical theory",
+        "mathpix_content": " earth is sometimes taken as a unit, but in the dynamical theory",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 8,
+        "type": "text",
+        "content": "of astronomy the unit of mass is deduced from the units of time",
+        "mathpix_content": " of astronomy the unit of mass is deduced from the units of time",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 9,
+        "type": "text",
+        "content": "and length, combined with the fact of universal gravitation. The",
+        "mathpix_content": " and length, combined with the fact of universal gravitation. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 10,
+        "type": "text",
+        "content": "astronomical unit of mass is that mass which attracts another",
+        "mathpix_content": " astronomical unit of mass is that mass which attracts another",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 11,
+        "type": "text",
+        "content": "body placed at the unit of distance so as to produce in that body",
+        "mathpix_content": " body placed at the unit of distance so as to produce in that body",
+        "font_size": 27,
+        "confidence": 0.9051612196490169
+      },
+      {
+        "page": 39,
+        "line_number": 12,
+        "type": "text",
+        "content": "the unit of acceleration.",
+        "mathpix_content": " the unit of acceleration.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 13,
+        "type": "text",
+        "content": "In framing a universal system of units we may either deduce",
+        "mathpix_content": "\n\nIn framing a universal system of units we may either deduce",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 14,
+        "type": "text",
+        "content": "the unit of mass in this way from those of length and time",
+        "mathpix_content": " the unit of mass in this way from those of length and time",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 15,
+        "type": "text",
+        "content": "already defined, and this we can do to a rough approximation in",
+        "mathpix_content": " already defined, and this we can do to a rough approximation in",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 39,
+        "line_number": 16,
+        "type": "text",
+        "content": "the present state of science; or, if we expect * soon to be able to",
+        "mathpix_content": " the present state of science; or, if we expect * soon to be able to",
+        "font_size": 27,
+        "confidence": 0.5862346182901854
+      },
+      {
+        "page": 39,
+        "line_number": 17,
+        "type": "text",
+        "content": "determine the mass of a single molecule of a standard substance,",
+        "mathpix_content": " determine the mass of a single molecule of a standard substance,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 18,
+        "type": "text",
+        "content": "we may wait for this determination before fixing a universal",
+        "mathpix_content": " we may wait for this determination before fixing a universal",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 19,
+        "type": "text",
+        "content": "standard of mass.",
+        "mathpix_content": " standard of mass.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 20,
+        "type": "text",
+        "content": "We shall denote the concrete unit of mass by the symbol $[M]$",
+        "mathpix_content": "\n\nWe shall denote the concrete unit of mass by the symbol $[M]$",
+        "font_size": 27,
+        "confidence": 0.98193359375
+      },
+      {
+        "page": 39,
+        "line_number": 21,
+        "type": "text",
+        "content": "in treating of the dimensions of other units. The unit of mass",
+        "mathpix_content": " in treating of the dimensions of other units. The unit of mass",
+        "font_size": 27,
+        "confidence": 0.9580078125
+      },
+      {
+        "page": 39,
+        "line_number": 22,
+        "type": "text",
+        "content": "will be taken as one of the three fundamental units. When, as",
+        "mathpix_content": " will be taken as one of the three fundamental units. When, as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 23,
+        "type": "text",
+        "content": "in the French system, a particular substance, water, is taken as",
+        "mathpix_content": " in the French system, a particular substance, water, is taken as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 24,
+        "type": "text",
+        "content": "a standard of density, then the unit of mass is no longer inde-",
+        "mathpix_content": " a standard of density, then the unit of mass is no longer inde",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 39,
+        "line_number": 25,
+        "type": "text",
+        "content": "pendent, but varies as the unit of volume, or us $\\left[L^{3}\\right]$.",
+        "mathpix_content": "pendent, but varies as the unit of volume, or us $\\left[L^{3}\\right]$.",
+        "font_size": 27,
+        "confidence": 0.9653487205505371
+      },
+      {
+        "page": 39,
+        "line_number": 26,
+        "type": "text",
+        "content": "If, as in the astronomical system, the unit of mass is defined",
+        "mathpix_content": "\n\nIf, as in the astronomical system, the unit of mass is defined",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 27,
+        "type": "text",
+        "content": "with respect to its attractive power, the dimensions of $[M]$ are",
+        "mathpix_content": " with respect to its attractive power, the dimensions of $[M]$ are",
+        "font_size": 27,
+        "confidence": 0.9912109375
+      },
+      {
+        "page": 39,
+        "line_number": 28,
+        "type": "text",
+        "content": "$\\left[L^{3} T^{-2}\\right]$.",
+        "mathpix_content": " $\\left[L^{3} T^{-2}\\right]$.",
+        "font_size": 27,
+        "confidence": 0.9854049682617188
+      },
+      {
+        "page": 39,
+        "line_number": 29,
+        "type": "text",
+        "content": "For the acceleration due to the attraction of a mass $m$ at a",
+        "mathpix_content": "\n\nFor the acceleration due to the attraction of a mass $m$ at a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 30,
+        "type": "text",
+        "content": "distance $r$ is by the Newtonian Law $\\frac{m}{r^{2}}$. Suppose this attraction",
+        "mathpix_content": " distance $r$ is by the Newtonian Law $\\frac{m}{r^{2}}$. Suppose this attraction",
+        "font_size": 27,
+        "confidence": 0.9483394622802734
+      },
+      {
+        "page": 39,
+        "line_number": 31,
+        "type": "text",
+        "content": "to act for a very small time $t$ on a body originally at rest, and to",
+        "mathpix_content": " to act for a very small time $t$ on a body originally at rest, and to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 32,
+        "type": "text",
+        "content": "cause it to describe a space 8, then by the formula of Galileo,",
+        "mathpix_content": " cause it to describe a space 8, then by the formula of Galileo,",
+        "font_size": 27,
+        "confidence": 0.6032209396362305
+      },
+      {
+        "page": 39,
+        "line_number": 35,
+        "type": "text",
+        "content": "whence $m=2 \\frac{r^{2} s}{t^{2}}$. Since $r$ and $s$ are both lengths, and $t$ is a",
+        "mathpix_content": "\nwhence $m=2 \\frac{r^{2} s}{t^{2}}$. Since $r$ and $s$ are both lengths, and $t$ is a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 36,
+        "type": "text",
+        "content": "time, this equation cannot be true unless the dimensions of $m$ are",
+        "mathpix_content": " time, this equation cannot be true unless the dimensions of $m$ are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 39,
+        "line_number": 37,
+        "type": "text",
+        "content": "$\\left[L^{3} T^{-2}\\right]$. The same can be shewn from any astronomical equa-",
+        "mathpix_content": " $\\left[L^{3} T^{-2}\\right]$. The same can be shewn from any astronomical equa-",
+        "font_size": 27,
+        "confidence": 0.9436864852905273
+      },
+      {
+        "page": 39,
+        "line_number": 39,
+        "type": "text",
+        "content": "* See Prof. J. Loschmidt, 'Zur Gr\u00f6sse der Luftmolecule,' Academy of Vienna,",
+        "mathpix_content": "\n\n\\footnotetext{\n* See Prof. J. Loschmidt, 'Zur Gr\u00f6sse der Luftmolecule,' Academy of Vienna,",
+        "font_size": 21,
+        "confidence": 0.8413858413696289
+      },
+      {
+        "page": 39,
+        "line_number": 40,
+        "type": "text",
+        "content": "Oct. 12, 1865 : G. J. Stoney on 'The Internal Motions of Gases,' Phil. Mag., Aug.",
+        "mathpix_content": " Oct. 12, 1865 : G. J. Stoney on 'The Internal Motions of Gases,' Phil. Mag., Aug.",
+        "font_size": 21,
+        "confidence": 0.998535871389322
+      },
+      {
+        "page": 39,
+        "line_number": 41,
+        "type": "text",
+        "content": "1868 ; and Sir W. Thomson on 'The Size of Atoms,' Nature, March 31, 1870.",
+        "mathpix_content": " 1868 ; and Sir W. Thomson on 'The Size of Atoms,' Nature, March 31, 1870.",
+        "font_size": 21,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 39,
+        "line_number": 42,
+        "type": "text",
+        "content": "\\{See also Sir W. Thomson on 'The Size of Atoms,' Nature, v. 28, pp. 203, 250, 274. \\}",
+        "mathpix_content": "\n\\{See also Sir W. Thomson on 'The Size of Atoms,' Nature, v. 28, pp. 203, 250, 274. \\}\n}",
+        "font_size": 21,
+        "confidence": 0.49042138603960994
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

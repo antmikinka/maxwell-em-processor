@@ -1,0 +1,363 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "\\end{aligned}$$",
+  "title_safe": "endaligned",
+  "page_start": 375,
+  "page_end": 375,
+  "content": {
+    "raw_text": "\n--- Page 375 ---\n340\nELECTROSTATIC INSTRUMENTS.\n[221.\nelectrode of the electrometer very nearly equal to that of the\nbody before making contact, then the uncertainty of the values\nof $K$ and $K^{\\prime}$ will be of little consequence.\nIf we know the value of the potential of the body approxi-\nmately, we may charge the electrode by means of a 'replenisher'\nor otherwise to this approximate potential, and the next experi-\nment will give a closer approximation. In this way we may\nmeasure the potential of a conductor whose capacity is small\ncompared with that of the electrometer.\n\nTo Measure the Potential at any Point in the Air.\n221.] First Method. Place a sphere, whose radius is small\ncompared with the distance of electrified conductors, with its\ncentre at the given point. Connect it by means of a fine wire\nwith the earth, then insulate it, and carry it to an electrometer\nand ascertain the total charge on the sphere.\nThen, if $V$ be the potential at the given point, and $a$ the\nradius of the sphere, the charge on the sphere will be $-V a=Q$,\nand if $V^{\\prime}$ be the potential of the sphere as measured by an\nelectrometer when placed in a room whose walls are connected\nwith the earth, then\n$$\\begin{aligned}\n& Q=V^{\\prime} \\iota \\\\\n& V+V^{\\prime}=0\n\\end{aligned}$$\nwhence\nor the potential of the air at the point where the centre of the\nsphere was placed is equal but of opposite sign to the potential\nof the sphere after being connected to earth, then insulated, and\nbrought into a room.\nThis method has been employed by M. Delmann of Creuznach\nin measuring the potential at a certain height above the earth's\nsurface.\nSecond Method. We have supposed the sphere placed at the\ngiven point and first connected to earth, and then insulated,\nand carried into a space surrounded with conducting matter at\npotential zero.\nNow let us suppose a fine insulated wire carried from the\nelectrode of the electrometer to t'e place where the potential is\nto be measured. Let the sphere be first discharged completely.\nThis may be done by putting it into the inside of a vessel of\nthe same metal which nearly surrounds it and making it touch\nthe vessel. Now let the sphere thus discharged be carried to\n",
+    "mathpix_markdown": "\n--- Page 375 ---\n\nelectrode of the electrometer very nearly equal to that of the\n body before making contact, then the uncertainty of the values\n of $K$ and $K^{\\prime}$ will be of little consequence.\n\n\nIf we know the value of the potential of the body approxi\nmately, we may charge the electrode by means of a 'replenisher'\n or otherwise to this approximate potential, and the next experi\nment will give a closer approximation. In this way we may\n measure the potential of a conductor whose capacity is small\n compared with that of the electrometer.\n\n\n\\section*{To Measure the Potential at any Point in the Air.}\n\n221.] First Method. Place a sphere, whose radius is small\n compared with the distance of electrified conductors, with its\n centre at the given point. Connect it by means of a fine wire\n with the earth, then insulate it, and carry it to an electrometer\n and ascertain the total charge on the sphere.\n\n\nThen, if $V$ be the potential at the given point, and $a$ the\n radius of the sphere, the charge on the sphere will be $-V a=Q$,\n and if $V^{\\prime}$ be the potential of the sphere as measured by an\n electrometer when placed in a room whose walls are connected\n with the earth, then\n\n$$\\begin{aligned}\n& Q=V^{\\prime} \\iota \\\\\n& V+V^{\\prime}=0\n\\end{aligned}$$\n\nwhence\n\nor the potential of the air at the point where the centre of the\n sphere was placed is equal but of opposite sign to the potential\n of the sphere after being connected to earth, then insulated, and\n brought into a room.\n\n\nThis method has been employed by M. Delmann of Creuznach\n in measuring the potential at a certain height above the earth's\n surface.\n\n\nSecond Method. We have supposed the sphere placed at the\n given point and first connected to earth, and then insulated,\n and carried into a space surrounded with conducting matter at\n potential zero.\n\n\nNow let us suppose a fine insulated wire carried from the\n electrode of the electrometer to t'e place where the potential is\n to be measured. Let the sphere be first discharged completely.\n This may be done by putting it into the inside of a vessel of\n the same metal which nearly surrounds it and making it touch\n the vessel. Now let the sphere thus discharged be carried to\n",
+    "structured_lines": [
+      {
+        "page": 375,
+        "line_number": 4,
+        "type": "text",
+        "content": "electrode of the electrometer very nearly equal to that of the",
+        "mathpix_content": "\nelectrode of the electrometer very nearly equal to that of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 5,
+        "type": "text",
+        "content": "body before making contact, then the uncertainty of the values",
+        "mathpix_content": " body before making contact, then the uncertainty of the values",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 6,
+        "type": "text",
+        "content": "of $K$ and $K^{\\prime}$ will be of little consequence.",
+        "mathpix_content": " of $K$ and $K^{\\prime}$ will be of little consequence.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 7,
+        "type": "text",
+        "content": "If we know the value of the potential of the body approxi-",
+        "mathpix_content": "\n\nIf we know the value of the potential of the body approxi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 8,
+        "type": "text",
+        "content": "mately, we may charge the electrode by means of a 'replenisher'",
+        "mathpix_content": "mately, we may charge the electrode by means of a 'replenisher'",
+        "font_size": 27,
+        "confidence": 0.9931671619415283
+      },
+      {
+        "page": 375,
+        "line_number": 9,
+        "type": "text",
+        "content": "or otherwise to this approximate potential, and the next experi-",
+        "mathpix_content": " or otherwise to this approximate potential, and the next experi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 10,
+        "type": "text",
+        "content": "ment will give a closer approximation. In this way we may",
+        "mathpix_content": "ment will give a closer approximation. In this way we may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 11,
+        "type": "text",
+        "content": "measure the potential of a conductor whose capacity is small",
+        "mathpix_content": " measure the potential of a conductor whose capacity is small",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 12,
+        "type": "text",
+        "content": "compared with that of the electrometer.",
+        "mathpix_content": " compared with that of the electrometer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 14,
+        "type": "text",
+        "content": "To Measure the Potential at any Point in the Air.",
+        "mathpix_content": "\n\n\\section*{To Measure the Potential at any Point in the Air.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 15,
+        "type": "text",
+        "content": "221.] First Method. Place a sphere, whose radius is small",
+        "mathpix_content": "\n221.] First Method. Place a sphere, whose radius is small",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 16,
+        "type": "text",
+        "content": "compared with the distance of electrified conductors, with its",
+        "mathpix_content": " compared with the distance of electrified conductors, with its",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 17,
+        "type": "text",
+        "content": "centre at the given point. Connect it by means of a fine wire",
+        "mathpix_content": " centre at the given point. Connect it by means of a fine wire",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 18,
+        "type": "text",
+        "content": "with the earth, then insulate it, and carry it to an electrometer",
+        "mathpix_content": " with the earth, then insulate it, and carry it to an electrometer",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 19,
+        "type": "text",
+        "content": "and ascertain the total charge on the sphere.",
+        "mathpix_content": " and ascertain the total charge on the sphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 20,
+        "type": "text",
+        "content": "Then, if $V$ be the potential at the given point, and $a$ the",
+        "mathpix_content": "\n\nThen, if $V$ be the potential at the given point, and $a$ the",
+        "font_size": 27,
+        "confidence": 0.958984375
+      },
+      {
+        "page": 375,
+        "line_number": 21,
+        "type": "text",
+        "content": "radius of the sphere, the charge on the sphere will be $-V a=Q$,",
+        "mathpix_content": " radius of the sphere, the charge on the sphere will be $-V a=Q$,",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 375,
+        "line_number": 22,
+        "type": "text",
+        "content": "and if $V^{\\prime}$ be the potential of the sphere as measured by an",
+        "mathpix_content": " and if $V^{\\prime}$ be the potential of the sphere as measured by an",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 375,
+        "line_number": 23,
+        "type": "text",
+        "content": "electrometer when placed in a room whose walls are connected",
+        "mathpix_content": " electrometer when placed in a room whose walls are connected",
+        "font_size": 27,
+        "confidence": 0.7607421875
+      },
+      {
+        "page": 375,
+        "line_number": 24,
+        "type": "text",
+        "content": "with the earth, then",
+        "mathpix_content": " with the earth, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 28,
+        "type": "text",
+        "content": "whence",
+        "mathpix_content": "\nwhence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 29,
+        "type": "text",
+        "content": "or the potential of the air at the point where the centre of the",
+        "mathpix_content": "\nor the potential of the air at the point where the centre of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 30,
+        "type": "text",
+        "content": "sphere was placed is equal but of opposite sign to the potential",
+        "mathpix_content": " sphere was placed is equal but of opposite sign to the potential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 31,
+        "type": "text",
+        "content": "of the sphere after being connected to earth, then insulated, and",
+        "mathpix_content": " of the sphere after being connected to earth, then insulated, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 32,
+        "type": "text",
+        "content": "brought into a room.",
+        "mathpix_content": " brought into a room.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 33,
+        "type": "text",
+        "content": "This method has been employed by M. Delmann of Creuznach",
+        "mathpix_content": "\n\nThis method has been employed by M. Delmann of Creuznach",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 34,
+        "type": "text",
+        "content": "in measuring the potential at a certain height above the earth's",
+        "mathpix_content": " in measuring the potential at a certain height above the earth's",
+        "font_size": 27,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 375,
+        "line_number": 35,
+        "type": "text",
+        "content": "surface.",
+        "mathpix_content": " surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 36,
+        "type": "text",
+        "content": "Second Method. We have supposed the sphere placed at the",
+        "mathpix_content": "\n\nSecond Method. We have supposed the sphere placed at the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 375,
+        "line_number": 37,
+        "type": "text",
+        "content": "given point and first connected to earth, and then insulated,",
+        "mathpix_content": " given point and first connected to earth, and then insulated,",
+        "font_size": 27,
+        "confidence": 0.873046875
+      },
+      {
+        "page": 375,
+        "line_number": 38,
+        "type": "text",
+        "content": "and carried into a space surrounded with conducting matter at",
+        "mathpix_content": " and carried into a space surrounded with conducting matter at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 39,
+        "type": "text",
+        "content": "potential zero.",
+        "mathpix_content": " potential zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 40,
+        "type": "text",
+        "content": "Now let us suppose a fine insulated wire carried from the",
+        "mathpix_content": "\n\nNow let us suppose a fine insulated wire carried from the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 41,
+        "type": "text",
+        "content": "electrode of the electrometer to t'e place where the potential is",
+        "mathpix_content": " electrode of the electrometer to t'e place where the potential is",
+        "font_size": 27,
+        "confidence": 0.5084993583150208
+      },
+      {
+        "page": 375,
+        "line_number": 42,
+        "type": "text",
+        "content": "to be measured. Let the sphere be first discharged completely.",
+        "mathpix_content": " to be measured. Let the sphere be first discharged completely.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 43,
+        "type": "text",
+        "content": "This may be done by putting it into the inside of a vessel of",
+        "mathpix_content": " This may be done by putting it into the inside of a vessel of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 44,
+        "type": "text",
+        "content": "the same metal which nearly surrounds it and making it touch",
+        "mathpix_content": " the same metal which nearly surrounds it and making it touch",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 375,
+        "line_number": 45,
+        "type": "text",
+        "content": "the vessel. Now let the sphere thus discharged be carried to",
+        "mathpix_content": " the vessel. Now let the sphere thus discharged be carried to",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

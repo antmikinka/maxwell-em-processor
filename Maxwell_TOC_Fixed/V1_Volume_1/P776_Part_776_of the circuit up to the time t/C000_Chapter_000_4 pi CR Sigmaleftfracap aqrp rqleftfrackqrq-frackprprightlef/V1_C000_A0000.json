@@ -1,0 +1,273 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "} 4 \\pi C}{R} \\Sigma\\left[\\frac{a_{p} a_{q}}{r_{p} r_{q}}\\left\\{\\frac{k_{q}}{r_{q}}-\\frac{k_{p}}{r_{p}}\\right\\}\\left\\{e^{-\\frac{4 \\pi k_{p}}{r_{p}} t}-e^{-\\frac{4 \\pi k_{q}}{r_{q}} t}\\right\\}\\right]\\right\\}$$",
+  "title_safe": "4 pi CR Sigmaleftfracap aqrp rqleftfrackqrq-frackprprightlef",
+  "page_start": 491,
+  "page_end": 491,
+  "content": {
+    "raw_text": "\n--- Page 491 ---\n456\nCONDUCTION IN DIELECTRICS.\n[330.\nthis discharge. We shall then have $u=0$, so that by equation (8),\n$$X_{1}=X_{1}^{\\prime} e^{-\\frac{4 \\pi k_{1}}{r_{1}} t}$$\n(23)\nwhere $X_{1}{ }^{\\prime}$ is the initial value after the discharge.\nHence, at any time $t$, we have by (23) and (20)\n$$X_{1}=E_{0}\\left\\{\\frac{r_{1}}{R}-4 \\pi k_{1} C\\right\\} e^{-\\frac{4 \\pi k_{1}}{r_{1}} t} .$$\nThe value of $E$ at any time is therefore\n$$=E_{0}\\left\\{\\left(\\frac{a_{1} r_{1}}{R}-4 \\pi a_{1} k_{1} C\\right) e^{-\\frac{4 \\pi k_{1}}{r_{1}} t}+\\left(\\frac{a_{2} r_{2}}{R}-4 \\pi a_{2} k_{2} C\\right) e^{-\\frac{4 \\pi k_{2}}{r_{2}} t}+\\text { \\&c. }\\right\\}$$\n(24)\nand the instantaneous discharge after any time $t$ is $E C$. This is\ncalled the residual discharge.\nIf the ratio of $r$ to $k$ is the same for all the strata, the value\nof $E$ will be reduced to zero. If, however, this ratio is not the\nsame, let the terms be arranged according to the values of this\nratio in descending order of magnitude.\nThe sum of all the coefficients is evidently zero, so that when\n$t=0, E=0$. The coefficients are also in descending order of\nmagnitude, and so are the exponential terms when $t$ is positive.\nHence, when $t$ is positive, $E$ will be positive *, so that the residual\ndischarge is always of the same sign as the primary discharge.\nWhen $t$ is indefinitely great all the terms disappear unless any\nof the strata are perfect insulators, in which case $r_{1}$ is infinite for\nthat stratum, and $R$ is infinite for the whole system, and the\nfinal value of $E$ is not zero but\n$$E=E_{0}\\left(1-4 \\pi a_{1} k_{1} C\\right) .$$\n(25)\nHence, when some, but not all, of the strata are perfect in-\nsulators, a residual discharge may be permanently preserved in\nthe system.\n330.] We shall next determine the total discharge through a\nwire of resistance $R_{0}$ kept permanently in connexion with the\nextreme strata of the system, supposing the system first charged\nby means of a long-continued application of the electromotive\nforce $E$.\n* \\{This is perhaps more easily seen if we write (24) as\n$$\\left.E=\\frac{E_{0} 4 \\pi C}{R} \\Sigma\\left[\\frac{a_{p} a_{q}}{r_{p} r_{q}}\\left\\{\\frac{k_{q}}{r_{q}}-\\frac{k_{p}}{r_{p}}\\right\\}\\left\\{e^{-\\frac{4 \\pi k_{p}}{r_{p}} t}-e^{-\\frac{4 \\pi k_{q}}{r_{q}} t}\\right\\}\\right]\\right\\}$$\n",
+    "mathpix_markdown": "\n--- Page 491 ---\n\nthis discharge. We shall then have $u=0$, so that by equation (8),\n\n$$\\begin{equation*}\nX_{1}=X_{1}^{\\prime} e^{-\\frac{4 \\pi k_{1}}{r_{1}} t} \\tag{23}\n\\end{equation*}$$\n\nwhere $X_{1}{ }^{\\prime}$ is the initial value after the discharge.\n\nHence, at any time $t$, we have by (23) and (20)\n\n$$X_{1}=E_{0}\\left\\{\\frac{r_{1}}{R}-4 \\pi k_{1} C\\right\\} e^{-\\frac{4 \\pi k_{1}}{r_{1}} t} .$$\n\n\nThe value of $E$ at any time is therefore\n\n$$\\begin{equation*}\n=E_{0}\\left\\{\\left(\\frac{a_{1} r_{1}}{R}-4 \\pi a_{1} k_{1} C\\right) e^{-\\frac{4 \\pi k_{1}}{r_{1}} t}+\\left(\\frac{a_{2} r_{2}}{R}-4 \\pi a_{2} k_{2} C\\right) e^{-\\frac{4 \\pi k_{2}}{r_{2}} t}+\\text { \\&c. }\\right\\} \\tag{24}\n\\end{equation*}$$\n\nand the instantaneous discharge after any time $t$ is $E C$. This is\n called the residual discharge.\n\n\nIf the ratio of $r$ to $k$ is the same for all the strata, the value\n of $E$ will be reduced to zero. If, however, this ratio is not the\n same, let the terms be arranged according to the values of this\n ratio in descending order of magnitude.\n\n\nThe sum of all the coefficients is evidently zero, so that when\n $t=0, E=0$. The coefficients are also in descending order of\n magnitude, and so are the exponential terms when $t$ is positive.\n Hence, when $t$ is positive, $E$ will be positive *, so that the residual\n discharge is always of the same sign as the primary discharge.\n\n\nWhen $t$ is indefinitely great all the terms disappear unless any\n of the strata are perfect insulators, in which case $r_{1}$ is infinite for\n that stratum, and $R$ is infinite for the whole system, and the\n final value of $E$ is not zero but\n\n$$\\begin{equation*}\nE=E_{0}\\left(1-4 \\pi a_{1} k_{1} C\\right) . \\tag{25}\n\\end{equation*}$$\n\n\nHence, when some, but not all, of the strata are perfect in\nsulators, a residual discharge may be permanently preserved in\n the system.\n\n330.] We shall next determine the total discharge through a\n wire of resistance $R_{0}$ kept permanently in connexion with the\n extreme strata of the system, supposing the system first charged\n by means of a long-continued application of the electromotive\n force $E$.\n\n* \\{This is perhaps more easily seen if we write (24) as\n\n$$\\left.E=\\frac{E_{0} 4 \\pi C}{R} \\Sigma\\left[\\frac{a_{p} a_{q}}{r_{p} r_{q}}\\left\\{\\frac{k_{q}}{r_{q}}-\\frac{k_{p}}{r_{p}}\\right\\}\\left\\{e^{-\\frac{4 \\pi k_{p}}{r_{p}} t}-e^{-\\frac{4 \\pi k_{q}}{r_{q}} t}\\right\\}\\right]\\right\\}$$\n",
+    "structured_lines": [
+      {
+        "page": 491,
+        "line_number": 4,
+        "type": "text",
+        "content": "this discharge. We shall then have $u=0$, so that by equation (8),",
+        "mathpix_content": "\nthis discharge. We shall then have $u=0$, so that by equation (8),",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 491,
+        "line_number": 8,
+        "type": "text",
+        "content": "where $X_{1}{ }^{\\prime}$ is the initial value after the discharge.",
+        "mathpix_content": "\nwhere $X_{1}{ }^{\\prime}$ is the initial value after the discharge.",
+        "font_size": 27,
+        "confidence": 0.79541015625
+      },
+      {
+        "page": 491,
+        "line_number": 9,
+        "type": "text",
+        "content": "Hence, at any time $t$, we have by (23) and (20)",
+        "mathpix_content": "\nHence, at any time $t$, we have by (23) and (20)",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 12,
+        "type": "text",
+        "content": "The value of $E$ at any time is therefore",
+        "mathpix_content": "\n\nThe value of $E$ at any time is therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 16,
+        "type": "text",
+        "content": "and the instantaneous discharge after any time $t$ is $E C$. This is",
+        "mathpix_content": "\nand the instantaneous discharge after any time $t$ is $E C$. This is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 17,
+        "type": "text",
+        "content": "called the residual discharge.",
+        "mathpix_content": " called the residual discharge.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 18,
+        "type": "text",
+        "content": "If the ratio of $r$ to $k$ is the same for all the strata, the value",
+        "mathpix_content": "\n\nIf the ratio of $r$ to $k$ is the same for all the strata, the value",
+        "font_size": 27,
+        "confidence": 0.994631290435791
+      },
+      {
+        "page": 491,
+        "line_number": 19,
+        "type": "text",
+        "content": "of $E$ will be reduced to zero. If, however, this ratio is not the",
+        "mathpix_content": " of $E$ will be reduced to zero. If, however, this ratio is not the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 20,
+        "type": "text",
+        "content": "same, let the terms be arranged according to the values of this",
+        "mathpix_content": " same, let the terms be arranged according to the values of this",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 21,
+        "type": "text",
+        "content": "ratio in descending order of magnitude.",
+        "mathpix_content": " ratio in descending order of magnitude.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 22,
+        "type": "text",
+        "content": "The sum of all the coefficients is evidently zero, so that when",
+        "mathpix_content": "\n\nThe sum of all the coefficients is evidently zero, so that when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 23,
+        "type": "text",
+        "content": "$t=0, E=0$. The coefficients are also in descending order of",
+        "mathpix_content": " $t=0, E=0$. The coefficients are also in descending order of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 24,
+        "type": "text",
+        "content": "magnitude, and so are the exponential terms when $t$ is positive.",
+        "mathpix_content": " magnitude, and so are the exponential terms when $t$ is positive.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 25,
+        "type": "text",
+        "content": "Hence, when $t$ is positive, $E$ will be positive *, so that the residual",
+        "mathpix_content": " Hence, when $t$ is positive, $E$ will be positive *, so that the residual",
+        "font_size": 27,
+        "confidence": 0.6754512786865234
+      },
+      {
+        "page": 491,
+        "line_number": 26,
+        "type": "text",
+        "content": "discharge is always of the same sign as the primary discharge.",
+        "mathpix_content": " discharge is always of the same sign as the primary discharge.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 27,
+        "type": "text",
+        "content": "When $t$ is indefinitely great all the terms disappear unless any",
+        "mathpix_content": "\n\nWhen $t$ is indefinitely great all the terms disappear unless any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 28,
+        "type": "text",
+        "content": "of the strata are perfect insulators, in which case $r_{1}$ is infinite for",
+        "mathpix_content": " of the strata are perfect insulators, in which case $r_{1}$ is infinite for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 29,
+        "type": "text",
+        "content": "that stratum, and $R$ is infinite for the whole system, and the",
+        "mathpix_content": " that stratum, and $R$ is infinite for the whole system, and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 30,
+        "type": "text",
+        "content": "final value of $E$ is not zero but",
+        "mathpix_content": " final value of $E$ is not zero but",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 34,
+        "type": "text",
+        "content": "Hence, when some, but not all, of the strata are perfect in-",
+        "mathpix_content": "\n\nHence, when some, but not all, of the strata are perfect in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 35,
+        "type": "text",
+        "content": "sulators, a residual discharge may be permanently preserved in",
+        "mathpix_content": "sulators, a residual discharge may be permanently preserved in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 36,
+        "type": "text",
+        "content": "the system.",
+        "mathpix_content": " the system.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 37,
+        "type": "text",
+        "content": "330.] We shall next determine the total discharge through a",
+        "mathpix_content": "\n330.] We shall next determine the total discharge through a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 38,
+        "type": "text",
+        "content": "wire of resistance $R_{0}$ kept permanently in connexion with the",
+        "mathpix_content": " wire of resistance $R_{0}$ kept permanently in connexion with the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 491,
+        "line_number": 39,
+        "type": "text",
+        "content": "extreme strata of the system, supposing the system first charged",
+        "mathpix_content": " extreme strata of the system, supposing the system first charged",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 40,
+        "type": "text",
+        "content": "by means of a long-continued application of the electromotive",
+        "mathpix_content": " by means of a long-continued application of the electromotive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 41,
+        "type": "text",
+        "content": "force $E$.",
+        "mathpix_content": " force $E$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 491,
+        "line_number": 42,
+        "type": "text",
+        "content": "* \\{This is perhaps more easily seen if we write (24) as",
+        "mathpix_content": "\n* \\{This is perhaps more easily seen if we write (24) as",
+        "font_size": 21,
+        "confidence": 0.99755859375
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

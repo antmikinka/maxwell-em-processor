@@ -1,0 +1,291 @@
+{
+  "article_id": "article_40",
+  "article_number": 40,
+  "title_original": ", 381, 1890.\\}",
+  "title_safe": "381 1890",
+  "page_start": 492,
+  "page_end": 492,
+  "content": {
+    "raw_text": "\n--- Page 492 ---\n330.]\nRESIDUAL DISCHARGE.\n457\nAt any instant we have\n$$E=a_{1} r_{1} p_{1}+a_{2} r_{2} p_{2}+\\text { \\&c. }+R_{0} u=0$$\n(26)\nand also, by (3),\n$$u=p_{1}+\\frac{d f_{1}}{d t} .$$\n(27)\nHence $\\quad\\left(R+R_{0}\\right) u=a_{1} r_{1} \\frac{d f_{1}}{d t}+a_{2} r_{2} \\frac{d f_{2}}{d t}+$ \\&c.\n(28)\nIntegrating with respect to $t$ in order to find $Q$, we get\n$$\\left(R+R_{0}\\right) Q=a_{1} r_{1}\\left(f_{1}^{\\prime}-f_{1}\\right)+a_{2} r_{2}\\left(f_{2}^{\\prime}-f_{2}\\right)+\\& \\mathrm{c} .,$$\n(29)\nwhere $f_{1}$ is the initial, and $f_{1}^{\\prime}$ the final value of $f_{1}$.\nIn this case $f_{1}^{\\prime}=0$, and by (2) and (20) $f_{1}=E_{0}\\left(\\frac{r_{1}}{4 \\pi k_{1} R}-C\\right)$.\nHence\n$$\\begin{aligned}\n\\left(R+R_{0}\\right) Q & =-\\frac{E}{4 \\pi R}\\left(\\frac{a_{1} r_{1}^{2}}{k_{1}}+\\frac{a_{2} r_{2}^{2}}{k_{2}}+\\text { \\&c. }\\right)+E_{0} C R, \\\\\n& =-\\frac{C E_{0}}{R} \\Sigma \\Sigma\\left[a_{1} a_{2} k_{1} k_{2}\\left(\\frac{r_{1}}{k_{1}}-\\frac{r_{2}}{k_{2}}\\right)\\right],\n\\end{aligned}$$\n(30)\n(31)\nwhere the summation is extended to all quantities of this form\nbelonging to every pair of strata.\nIt appears from this that $Q$ is always negative, that is to say,\nin the opposite direction to that of the current employed in\ncharging the system.\nThis investigation shews that a dielectric composed of strata\nof different kinds may exhibit the phenomena known as electric\nabsorption and residual discharge, although none of the sub-\nstances of which it is made exhibit these phenomena when\nalone. An investigation of the cases in which the materials are\narranged otherwise than in strata would lead to similar results,\nthough the calculations would be more complicated, so that we\nmay conclude that the phenomena of electric absorption may be\nexpected in the case of substances composed of parts of different\nkinds, even though these individual parts should be micro-\nscopically small *.\nIt by no means follows that every substance which exhibits\nthis phenomenon is so composed, for it may indicate a new kind\nof electric polarization of which a homogeneous substance may\n\n* \\{Rowland and Nichols have shewn that crystals of Iceland Spar whick are very\nhomogeneous shew no Electric Absorption, Phil. Mug. xi. p. 414, 1881. Muraoka\nfound that while paraffin and xylol shewed no residual charge when separate, a layer\nof xylol on a layer of paraffin did. Wied. Ann. 40, 381, 1890.\\}\n",
+    "mathpix_markdown": "\n--- Page 492 ---\n\n\nAt any instant we have\n\n$$\\begin{equation*}\nE=a_{1} r_{1} p_{1}+a_{2} r_{2} p_{2}+\\text { \\&c. }+R_{0} u=0 \\tag{26}\n\\end{equation*}$$\n\nand also, by (3),\n\n$$\\begin{equation*}\nu=p_{1}+\\frac{d f_{1}}{d t} . \\tag{27}\n\\end{equation*}$$\n\n\nHence $\\quad\\left(R+R_{0}\\right) u=a_{1} r_{1} \\frac{d f_{1}}{d t}+a_{2} r_{2} \\frac{d f_{2}}{d t}+$ \\&c.\n\n\nIntegrating with respect to $t$ in order to find $Q$, we get\n\n$$\\begin{equation*}\n\\left(R+R_{0}\\right) Q=a_{1} r_{1}\\left(f_{1}^{\\prime}-f_{1}\\right)+a_{2} r_{2}\\left(f_{2}^{\\prime}-f_{2}\\right)+\\& \\mathrm{c} ., \\tag{29}\n\\end{equation*}$$\n\nwhere $f_{1}$ is the initial, and $f_{1}^{\\prime}$ the final value of $f_{1}$.\n\nIn this case $f_{1}^{\\prime}=0$, and by (2) and (20) $f_{1}=E_{0}\\left(\\frac{r_{1}}{4 \\pi k_{1} R}-C\\right)$.\n\nHence\n\n$$\\begin{align*}\n\\left(R+R_{0}\\right) Q & =-\\frac{E}{4 \\pi R}\\left(\\frac{a_{1} r_{1}^{2}}{k_{1}}+\\frac{a_{2} r_{2}^{2}}{k_{2}}+\\text { \\&c. }\\right)+E_{0} C R,  \\tag{30}\\\\\n& =-\\frac{C E_{0}}{R} \\Sigma \\Sigma\\left[a_{1} a_{2} k_{1} k_{2}\\left(\\frac{r_{1}}{k_{1}}-\\frac{r_{2}}{k_{2}}\\right)\\right], \\tag{31}\n\\end{align*}$$\n\nwhere the summation is extended to all quantities of this form\n belonging to every pair of strata.\n\n\nIt appears from this that $Q$ is always negative, that is to say,\n in the opposite direction to that of the current employed in\n charging the system.\n\n\nThis investigation shews that a dielectric composed of strata\n of different kinds may exhibit the phenomena known as electric\n absorption and residual discharge, although none of the sub\nstances of which it is made exhibit these phenomena when\n alone. An investigation of the cases in which the materials are\n arranged otherwise than in strata would lead to similar results,\n though the calculations would be more complicated, so that we\n may conclude that the phenomena of electric absorption may be\n expected in the case of substances composed of parts of different\n kinds, even though these individual parts should be micro\nscopically small *.\n\n\nIt by no means follows that every substance which exhibits\n this phenomenon is so composed, for it may indicate a new kind\n of electric polarization of which a homogeneous substance may\n\n\n\\footnotetext{\n* \\{Rowland and Nichols have shewn that crystals of Iceland Spar whick are very\n homogeneous shew no Electric Absorption, Phil. Mug. xi. p. 414, 1881. Muraoka\n found that while paraffin and xylol shewed no residual charge when separate, a layer\n of xylol on a layer of paraffin did. Wied. Ann. 40, 381, 1890.\\}\n}\n",
+    "structured_lines": [
+      {
+        "page": 492,
+        "line_number": 4,
+        "type": "text",
+        "content": "At any instant we have",
+        "mathpix_content": "\n\nAt any instant we have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 8,
+        "type": "text",
+        "content": "and also, by (3),",
+        "mathpix_content": "\nand also, by (3),",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 12,
+        "type": "text",
+        "content": "Hence $\\quad\\left(R+R_{0}\\right) u=a_{1} r_{1} \\frac{d f_{1}}{d t}+a_{2} r_{2} \\frac{d f_{2}}{d t}+$ \\&c.",
+        "mathpix_content": "\n\nHence $\\quad\\left(R+R_{0}\\right) u=a_{1} r_{1} \\frac{d f_{1}}{d t}+a_{2} r_{2} \\frac{d f_{2}}{d t}+$ \\&c.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 14,
+        "type": "text",
+        "content": "Integrating with respect to $t$ in order to find $Q$, we get",
+        "mathpix_content": "\n\nIntegrating with respect to $t$ in order to find $Q$, we get",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 18,
+        "type": "text",
+        "content": "where $f_{1}$ is the initial, and $f_{1}^{\\prime}$ the final value of $f_{1}$.",
+        "mathpix_content": "\nwhere $f_{1}$ is the initial, and $f_{1}^{\\prime}$ the final value of $f_{1}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 19,
+        "type": "text",
+        "content": "In this case $f_{1}^{\\prime}=0$, and by (2) and (20) $f_{1}=E_{0}\\left(\\frac{r_{1}}{4 \\pi k_{1} R}-C\\right)$.",
+        "mathpix_content": "\nIn this case $f_{1}^{\\prime}=0$, and by (2) and (20) $f_{1}=E_{0}\\left(\\frac{r_{1}}{4 \\pi k_{1} R}-C\\right)$.",
+        "font_size": 27,
+        "confidence": 0.9960973262786865
+      },
+      {
+        "page": 492,
+        "line_number": 20,
+        "type": "text",
+        "content": "Hence",
+        "mathpix_content": "\nHence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 26,
+        "type": "text",
+        "content": "where the summation is extended to all quantities of this form",
+        "mathpix_content": "\nwhere the summation is extended to all quantities of this form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 27,
+        "type": "text",
+        "content": "belonging to every pair of strata.",
+        "mathpix_content": " belonging to every pair of strata.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 28,
+        "type": "text",
+        "content": "It appears from this that $Q$ is always negative, that is to say,",
+        "mathpix_content": "\n\nIt appears from this that $Q$ is always negative, that is to say,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 29,
+        "type": "text",
+        "content": "in the opposite direction to that of the current employed in",
+        "mathpix_content": " in the opposite direction to that of the current employed in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 30,
+        "type": "text",
+        "content": "charging the system.",
+        "mathpix_content": " charging the system.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 31,
+        "type": "text",
+        "content": "This investigation shews that a dielectric composed of strata",
+        "mathpix_content": "\n\nThis investigation shews that a dielectric composed of strata",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 492,
+        "line_number": 32,
+        "type": "text",
+        "content": "of different kinds may exhibit the phenomena known as electric",
+        "mathpix_content": " of different kinds may exhibit the phenomena known as electric",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 33,
+        "type": "text",
+        "content": "absorption and residual discharge, although none of the sub-",
+        "mathpix_content": " absorption and residual discharge, although none of the sub",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 34,
+        "type": "text",
+        "content": "stances of which it is made exhibit these phenomena when",
+        "mathpix_content": "stances of which it is made exhibit these phenomena when",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 492,
+        "line_number": 35,
+        "type": "text",
+        "content": "alone. An investigation of the cases in which the materials are",
+        "mathpix_content": " alone. An investigation of the cases in which the materials are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 36,
+        "type": "text",
+        "content": "arranged otherwise than in strata would lead to similar results,",
+        "mathpix_content": " arranged otherwise than in strata would lead to similar results,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 37,
+        "type": "text",
+        "content": "though the calculations would be more complicated, so that we",
+        "mathpix_content": " though the calculations would be more complicated, so that we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 38,
+        "type": "text",
+        "content": "may conclude that the phenomena of electric absorption may be",
+        "mathpix_content": " may conclude that the phenomena of electric absorption may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 39,
+        "type": "text",
+        "content": "expected in the case of substances composed of parts of different",
+        "mathpix_content": " expected in the case of substances composed of parts of different",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 492,
+        "line_number": 40,
+        "type": "text",
+        "content": "kinds, even though these individual parts should be micro-",
+        "mathpix_content": " kinds, even though these individual parts should be micro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 41,
+        "type": "text",
+        "content": "scopically small *.",
+        "mathpix_content": "scopically small *.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 42,
+        "type": "text",
+        "content": "It by no means follows that every substance which exhibits",
+        "mathpix_content": "\n\nIt by no means follows that every substance which exhibits",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 43,
+        "type": "text",
+        "content": "this phenomenon is so composed, for it may indicate a new kind",
+        "mathpix_content": " this phenomenon is so composed, for it may indicate a new kind",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 44,
+        "type": "text",
+        "content": "of electric polarization of which a homogeneous substance may",
+        "mathpix_content": " of electric polarization of which a homogeneous substance may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 492,
+        "line_number": 46,
+        "type": "text",
+        "content": "* \\{Rowland and Nichols have shewn that crystals of Iceland Spar whick are very",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{Rowland and Nichols have shewn that crystals of Iceland Spar whick are very",
+        "font_size": 21,
+        "confidence": 0.9047887779186681
+      },
+      {
+        "page": 492,
+        "line_number": 47,
+        "type": "text",
+        "content": "homogeneous shew no Electric Absorption, Phil. Mug. xi. p. 414, 1881. Muraoka",
+        "mathpix_content": " homogeneous shew no Electric Absorption, Phil. Mug. xi. p. 414, 1881. Muraoka",
+        "font_size": 21,
+        "confidence": 0.8424382209777832
+      },
+      {
+        "page": 492,
+        "line_number": 48,
+        "type": "text",
+        "content": "found that while paraffin and xylol shewed no residual charge when separate, a layer",
+        "mathpix_content": " found that while paraffin and xylol shewed no residual charge when separate, a layer",
+        "font_size": 21,
+        "confidence": 0.9496192932128906
+      },
+      {
+        "page": 492,
+        "line_number": 49,
+        "type": "text",
+        "content": "of xylol on a layer of paraffin did. Wied. Ann. 40, 381, 1890.\\}",
+        "mathpix_content": " of xylol on a layer of paraffin did. Wied. Ann. 40, 381, 1890.\\}\n}",
+        "font_size": 21,
+        "confidence": 0.7932991981506348
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

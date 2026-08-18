@@ -1,0 +1,4429 @@
+{
+  "part_id": "part_486",
+  "part_number": 486,
+  "title": "of",
+  "page_start": 306,
+  "page_end": 310,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 73,
+      "title": "]",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 271,
+      "title": "of the sphere $A$ will be those of the actual distribution of elec-",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 172,
+      "title": ", only the third",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 4,
+      "title": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}}{2 c} \\\\",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 2,
+      "title": "a, \\quad \\phi=0$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 1,
+      "title": "}{\\sinh a}$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 2,
+      "title": "a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{1}{\\sinh (8 \\varpi-a)},$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{1}{\\sinh 8 \\omega} .$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{1}{\\sinh (\\beta+8 \\omega)} .$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 4,
+      "title": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 2,
+      "title": "a c}, \\sinh \\beta=\\frac{K}{2 b c}, \\sinh \\varpi=\\frac{K}{2 a b},$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 2,
+      "title": "}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 172,
+      "title": ", only the third",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 4,
+      "title": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}}{2 c} \\\\",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 2,
+      "title": "a, \\quad \\phi=0$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": "}{\\sinh a}$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 2,
+      "title": "a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{1}{\\sinh (8 \\varpi-a)},$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{1}{\\sinh 8 \\omega} .$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{1}{\\sinh (\\beta+8 \\omega)} .$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 4,
+      "title": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 2,
+      "title": "a c}, \\sinh \\beta=\\frac{K}{2 b c}, \\sinh \\varpi=\\frac{K}{2 a b},$$",
+      "page_start": 306,
+      "page_end": 305,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 2,
+      "title": "}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$",
+      "page_start": 306,
+      "page_end": 306,
+      "articles": [
+        {
+          "article_id": "article_172",
+          "article_number": 172,
+          "title_original": ", only the third",
+          "title_safe": "only the third",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_172",
+          "article_number": 172,
+          "title_original": ", only the third",
+          "title_safe": "only the third",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_73",
+          "article_number": 73,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_73",
+          "article_number": 73,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_271",
+          "article_number": 271,
+          "title_original": "of the sphere $A$ will be those of the actual distribution of elec-",
+          "title_safe": "of the sphere A will be those of the actual distribution of",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_172",
+          "article_number": 172,
+          "title_original": ", only the third",
+          "title_safe": "only the third",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}}{2 c} \\\\",
+          "title_safe": "plusb4plusc4-2 b2 c2-2 c2 a2-2 a2 b22 c",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a, \\quad \\phi=0$$",
+          "title_safe": "a quad phiequals0",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\sinh a}$",
+          "title_safe": "sinh a",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of",
+          "title_safe": "a for theta and 0 for phi remembering that P itself forms pa",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\sinh (8 \\varpi-a)},$$",
+          "title_safe": "sequalsinfty frac1sinh 8 varpi-a",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\sinh 8 \\omega} .$$",
+          "title_safe": "sequalsinfty frac1sinh 8 omega",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\sinh (\\beta+8 \\omega)} .$$",
+          "title_safe": "sequalsinfty frac1sinh betaplus8 omega",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}$$",
+          "title_safe": "plusb4plusc4-2 b2 c2-2 c2 a2-2 a2 b2",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a c}, \\sinh \\beta=\\frac{K}{2 b c}, \\sinh \\varpi=\\frac{K}{2 a b},$$",
+          "title_safe": "a c sinh betaequalsfracK2 b c sinh varpiequalsfracK2 a b",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$",
+          "title_safe": "plusa2-b22 c a cosh betaequalsfracc2plusb2-a22 c b cosh varp",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_172",
+          "article_number": 172,
+          "title_original": ", only the third",
+          "title_safe": "only the third",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}}{2 c} \\\\",
+          "title_safe": "plusb4plusc4-2 b2 c2-2 c2 a2-2 a2 b22 c",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a, \\quad \\phi=0$$",
+          "title_safe": "a quad phiequals0",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\sinh a}$",
+          "title_safe": "sinh a",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of",
+          "title_safe": "a for theta and 0 for phi remembering that P itself forms pa",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\sinh (8 \\varpi-a)},$$",
+          "title_safe": "sequalsinfty frac1sinh 8 varpi-a",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\sinh 8 \\omega} .$$",
+          "title_safe": "sequalsinfty frac1sinh 8 omega",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\sinh (\\beta+8 \\omega)} .$$",
+          "title_safe": "sequalsinfty frac1sinh betaplus8 omega",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}$$",
+          "title_safe": "plusb4plusc4-2 b2 c2-2 c2 a2-2 a2 b2",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a c}, \\sinh \\beta=\\frac{K}{2 b c}, \\sinh \\varpi=\\frac{K}{2 a b},$$",
+          "title_safe": "a c sinh betaequalsfracK2 b c sinh varpiequalsfracK2 a b",
+          "page_start": 306,
+          "page_end": 305,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$",
+          "title_safe": "plusa2-b22 c a cosh betaequalsfracc2plusb2-a22 c b cosh varp",
+          "page_start": 306,
+          "page_end": 306,
+          "content": {
+            "raw_text": "\n--- Page 306 ---\nI73.]\nTWO ELECTRIFIED SPHERES.\n271\nof the sphere $A$ will be those of the actual distribution of elec-\ntricity. All the images will lie on the axis between the poles\nand the centres of the spheres, and it will be observed that of\nthe four systems of images determined in Art. 172, only the third\nand fourth exist in this case.\nIf we put\n$$\\begin{gathered}\nk=\\frac{\\sqrt{a^{4}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}}{2 c} \\\\\n\\text { then } \\quad \\sinh a=-\\frac{k}{a}, \\quad \\sinh \\beta=\\frac{k}{b}\n\\end{gathered}$$\nThe values of $\\theta$ and $\\phi$ for the centre of the sphere $A$ are\n$$\\theta=2 a, \\quad \\phi=0$$\nHence in the equations we must substitute $a$ or $-k \\frac{1}{\\sinh a}$\nfor $P, 2 a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of\nthe charge of $A$. We thus find for the coefficient of capacity of $A$\n$$q_{a a}=k \\sum_{s=0}^{s=\\infty} \\frac{1}{\\sinh (8 \\varpi-a)},$$\nfor the coefficient of induction of $A$ on $B$ or of $B$ on $A$\n$$q_{a b}=-k \\sum_{s=1}^{s=\\infty} \\frac{1}{\\sinh 8 \\omega} .$$\nWe might, in like manner, by supposing $B$ at potential unity\nand $A$ at potential zero, determine the value of $q_{b b}$. We should\nfind, with our present notation,\n$$q_{b b}=k \\sum_{s=0}^{s=\\infty} \\frac{1}{\\sinh (\\beta+8 \\omega)} .$$\nTo calculate these quantities in terms of $a$ and $b$, the radii of\nthe spheres, and of $c$ the distance between their centres, we\nobserve that if\n$$K=\\sqrt{a^{4}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}$$\nwe may write\n$$\\sinh a=-\\frac{K}{2 a c}, \\sinh \\beta=\\frac{K}{2 b c}, \\sinh \\varpi=\\frac{K}{2 a b},$$\n$\\cosh \\alpha=\\frac{c^{2}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$\nand we may make use of\n$$\\begin{aligned}\n& \\sinh (a+\\beta)=\\sinh a \\cosh \\beta+\\cosh a \\sinh \\beta \\\\\n& \\cosh (a+\\beta)=\\cosh a \\cosh \\beta+\\sinh a \\sinh \\beta\n\\end{aligned}$$\n",
+            "mathpix_markdown": "\n--- Page 306 ---\n\nof the sphere $A$ will be those of the actual distribution of elec\ntricity. All the images will lie on the axis between the poles\n and the centres of the spheres, and it will be observed that of\n the four systems of images determined in Art. 172, only the third\n and fourth exist in this case.\n\n\nIf we put\n\n$$\\begin{gathered}\nk=\\frac{\\sqrt{a^{4}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}}{2 c} \\\\\n\\text { then } \\quad \\sinh a=-\\frac{k}{a}, \\quad \\sinh \\beta=\\frac{k}{b}\n\\end{gathered}$$\n\n\nThe values of $\\theta$ and $\\phi$ for the centre of the sphere $A$ are\n\n$$\\theta=2 a, \\quad \\phi=0$$\n\n\nHence in the equations we must substitute $a$ or $-k \\frac{1}{\\sinh a}$\n for $P, 2 a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of\n the charge of $A$. We thus find for the coefficient of capacity of $A$\n\n$$q_{a a}=k \\sum_{s=0}^{s=\\infty} \\frac{1}{\\sinh (8 \\varpi-a)},$$\n\nfor the coefficient of induction of $A$ on $B$ or of $B$ on $A$\n\n$$q_{a b}=-k \\sum_{s=1}^{s=\\infty} \\frac{1}{\\sinh 8 \\omega} .$$\n\n\nWe might, in like manner, by supposing $B$ at potential unity\n and $A$ at potential zero, determine the value of $q_{b b}$. We should\n find, with our present notation,\n\n$$q_{b b}=k \\sum_{s=0}^{s=\\infty} \\frac{1}{\\sinh (\\beta+8 \\omega)} .$$\n\n\nTo calculate these quantities in terms of $a$ and $b$, the radii of\n the spheres, and of $c$ the distance between their centres, we\n observe that if\n\n$$K=\\sqrt{a^{4}+b^{4}+c^{4}-2 b^{2} c^{2}-2 c^{2} a^{2}-2 a^{2} b^{2}}$$\n\nwe may write\n\n$$\\sinh a=-\\frac{K}{2 a c}, \\sinh \\beta=\\frac{K}{2 b c}, \\sinh \\varpi=\\frac{K}{2 a b},$$\n\n$\\cosh \\alpha=\\frac{c^{2}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$\n\nand we may make use of\n\n$$\\begin{aligned}\n& \\sinh (a+\\beta)=\\sinh a \\cosh \\beta+\\cosh a \\sinh \\beta \\\\\n& \\cosh (a+\\beta)=\\cosh a \\cosh \\beta+\\sinh a \\sinh \\beta\n\\end{aligned}$$\n",
+            "structured_lines": [
+              {
+                "page": 306,
+                "line_number": 4,
+                "type": "text",
+                "content": "of the sphere $A$ will be those of the actual distribution of elec-",
+                "mathpix_content": "\nof the sphere $A$ will be those of the actual distribution of elec",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 5,
+                "type": "text",
+                "content": "tricity. All the images will lie on the axis between the poles",
+                "mathpix_content": "tricity. All the images will lie on the axis between the poles",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 6,
+                "type": "text",
+                "content": "and the centres of the spheres, and it will be observed that of",
+                "mathpix_content": " and the centres of the spheres, and it will be observed that of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 7,
+                "type": "text",
+                "content": "the four systems of images determined in Art. 172, only the third",
+                "mathpix_content": " the four systems of images determined in Art. 172, only the third",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 8,
+                "type": "text",
+                "content": "and fourth exist in this case.",
+                "mathpix_content": " and fourth exist in this case.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 9,
+                "type": "text",
+                "content": "If we put",
+                "mathpix_content": "\n\nIf we put",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 13,
+                "type": "text",
+                "content": "The values of $\\theta$ and $\\phi$ for the centre of the sphere $A$ are",
+                "mathpix_content": "\n\nThe values of $\\theta$ and $\\phi$ for the centre of the sphere $A$ are",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 306,
+                "line_number": 16,
+                "type": "text",
+                "content": "Hence in the equations we must substitute $a$ or $-k \\frac{1}{\\sinh a}$",
+                "mathpix_content": "\n\nHence in the equations we must substitute $a$ or $-k \\frac{1}{\\sinh a}$",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 306,
+                "line_number": 17,
+                "type": "text",
+                "content": "for $P, 2 a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of",
+                "mathpix_content": " for $P, 2 a$ for $\\theta$ and 0 for $\\phi$, remembering that $P$ itself forms part of",
+                "font_size": 27,
+                "confidence": 0.9985356330871582
+              },
+              {
+                "page": 306,
+                "line_number": 18,
+                "type": "text",
+                "content": "the charge of $A$. We thus find for the coefficient of capacity of $A$",
+                "mathpix_content": " the charge of $A$. We thus find for the coefficient of capacity of $A$",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 306,
+                "line_number": 21,
+                "type": "text",
+                "content": "for the coefficient of induction of $A$ on $B$ or of $B$ on $A$",
+                "mathpix_content": "\nfor the coefficient of induction of $A$ on $B$ or of $B$ on $A$",
+                "font_size": 27,
+                "confidence": 0.9985356330871582
+              },
+              {
+                "page": 306,
+                "line_number": 24,
+                "type": "text",
+                "content": "We might, in like manner, by supposing $B$ at potential unity",
+                "mathpix_content": "\n\nWe might, in like manner, by supposing $B$ at potential unity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 25,
+                "type": "text",
+                "content": "and $A$ at potential zero, determine the value of $q_{b b}$. We should",
+                "mathpix_content": " and $A$ at potential zero, determine the value of $q_{b b}$. We should",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 26,
+                "type": "text",
+                "content": "find, with our present notation,",
+                "mathpix_content": " find, with our present notation,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 29,
+                "type": "text",
+                "content": "To calculate these quantities in terms of $a$ and $b$, the radii of",
+                "mathpix_content": "\n\nTo calculate these quantities in terms of $a$ and $b$, the radii of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 30,
+                "type": "text",
+                "content": "the spheres, and of $c$ the distance between their centres, we",
+                "mathpix_content": " the spheres, and of $c$ the distance between their centres, we",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 306,
+                "line_number": 31,
+                "type": "text",
+                "content": "observe that if",
+                "mathpix_content": " observe that if",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 34,
+                "type": "text",
+                "content": "we may write",
+                "mathpix_content": "\nwe may write",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 306,
+                "line_number": 37,
+                "type": "text",
+                "content": "$\\cosh \\alpha=\\frac{c^{2}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$",
+                "mathpix_content": "\n$\\cosh \\alpha=\\frac{c^{2}+a^{2}-b^{2}}{2 c a}, \\cosh \\beta=\\frac{c^{2}+b^{2}-a^{2}}{2 c b}, \\cosh \\varpi=\\frac{c^{2}-a^{2}-b^{2}}{2 a b} ;$",
+                "font_size": 27,
+                "confidence": 0.8139718570461696
+              },
+              {
+                "page": 306,
+                "line_number": 38,
+                "type": "text",
+                "content": "and we may make use of",
+                "mathpix_content": "\nand we may make use of",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 272,
+      "title": "ELECTRIC IMAGES.",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 174,
+      "title": "By this process or by the direct calculation of the successive",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 2,
+      "title": "} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 2,
+      "title": "} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 2,
+      "title": "}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 174,
+      "title": "] We have then the following equations to determine",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": "}=D=\\frac{1}{D^{\\prime}}$$",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 85,
+      "title": ",",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 1,
+      "title": "}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 1,
+      "title": "}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 1,
+      "title": "}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 92,
+      "title": ", 93,",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 1,
+      "title": "}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 1,
+      "title": "}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 2,
+      "title": "} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 2,
+      "title": "} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 2,
+      "title": "}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 174,
+      "title": "] We have then the following equations to determine",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 2,
+      "title": "}=D=\\frac{1}{D^{\\prime}}$$",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 85,
+      "title": ",",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 1,
+      "title": "}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 1,
+      "title": "}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 1,
+      "title": "}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 92,
+      "title": ", 93,",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 1,
+      "title": "}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\",
+      "page_start": 307,
+      "page_end": 306,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 1,
+      "title": "}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},",
+      "page_start": 307,
+      "page_end": 307,
+      "articles": [
+        {
+          "article_id": "article_85",
+          "article_number": 85,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_85",
+          "article_number": 85,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_174",
+          "article_number": 174,
+          "title_original": "By this process or by the direct calculation of the successive",
+          "title_safe": "By this process or by the direct calculation of the successi",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_174",
+          "article_number": 174,
+          "title_original": "] We have then the following equations to determine",
+          "title_safe": "We have then the following equations to determine",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_174",
+          "article_number": 174,
+          "title_original": "] We have then the following equations to determine",
+          "title_safe": "We have then the following equations to determine",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_272",
+          "article_number": 272,
+          "title_original": "ELECTRIC IMAGES.",
+          "title_safe": "ELECTRIC IMAGES",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_174",
+          "article_number": 174,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\",
+          "title_safe": "bc2-b2plusfraca3 b2leftc2-b2plusa crightleftc2-b2-acrightplu",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\",
+          "title_safe": "b2cleftc2-a2-b2right-fraca3 b3cleftc2-a2-b2plusa brightleftc",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .",
+          "title_safe": "c2-a2plusfraca2 b3leftc2-a2plusb crightleftc2-a2-b crightplu",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_174",
+          "article_number": 174,
+          "title_original": ".] We have then the following equations to determine",
+          "title_safe": "We have then the following equations to determine",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=D=\\frac{1}{D^{\\prime}}$$",
+          "title_safe": "equalsDequalsfrac1Dprime",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_85",
+          "article_number": 85,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\",
+          "title_safe": "2leftEa VaplusEb Vbright",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\",
+          "title_safe": "2leftVa2 qa nplus2 Va Vb qa bplusVb2 qb bright",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .",
+          "title_safe": "2leftEa2 pa aplus2 Ea Eb pa bplusEb2 pb lright",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_92",
+          "article_number": 92,
+          "title_original": ", 93,",
+          "title_safe": "93",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\",
+          "title_safe": "2leftVa2 fracd qa ad cplus2 Va Vb fracd qa bd cplusVb2 2 fra",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},",
+          "title_safe": "2leftEa 2 fracd pa ad cplus2 Ea Eb fracd pa bd cplusEb 2 fra",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\",
+          "title_safe": "bc2-b2plusfraca3 b2leftc2-b2plusa crightleftc2-b2-acrightplu",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\",
+          "title_safe": "b2cleftc2-a2-b2right-fraca3 b3cleftc2-a2-b2plusa brightleftc",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .",
+          "title_safe": "c2-a2plusfraca2 b3leftc2-a2plusb crightleftc2-a2-b crightplu",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_174",
+          "article_number": 174,
+          "title_original": ".] We have then the following equations to determine",
+          "title_safe": "We have then the following equations to determine",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=D=\\frac{1}{D^{\\prime}}$$",
+          "title_safe": "equalsDequalsfrac1Dprime",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_85",
+          "article_number": 85,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\",
+          "title_safe": "2leftEa VaplusEb Vbright",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\",
+          "title_safe": "2leftVa2 qa nplus2 Va Vb qa bplusVb2 qb bright",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .",
+          "title_safe": "2leftEa2 pa aplus2 Ea Eb pa bplusEb2 pb lright",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_92",
+          "article_number": 92,
+          "title_original": ", 93,",
+          "title_safe": "93",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\",
+          "title_safe": "2leftVa2 fracd qa ad cplus2 Va Vb fracd qa bd cplusVb2 2 fra",
+          "page_start": 307,
+          "page_end": 306,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},",
+          "title_safe": "2leftEa 2 fracd pa ad cplus2 Ea Eb fracd pa bd cplusEb 2 fra",
+          "page_start": 307,
+          "page_end": 307,
+          "content": {
+            "raw_text": "\n--- Page 307 ---\n272\nELECTRIC IMAGES.\n[174.\nBy this process or by the direct calculation of the successive\nimages as shewn in Sir W. Thomson's paper, we find\n$$\\begin{aligned}\n& q_{a a}=a+\\frac{a^{2} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\\n& q_{a b}=-\\frac{a b}{c}-\\frac{a^{2} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\\n& q_{b b}=b+\\frac{a b^{2}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .\n\\end{aligned}$$\n174.] We have then the following equations to determine\nthe charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to\npotentials $V_{a}$ and $V_{b}$ respectively,\n$$\\begin{aligned}\nE_{a} & =V_{a} q_{a a}+V_{b} q_{a b}, \\\\\nE_{b} & =V_{a} q_{a b}+V_{b}^{\\prime} q_{b b} .\n\\end{aligned}$$\nIf we put\n$$q_{t u} q_{b b}-q_{a b}{ }^{2}=D=\\frac{1}{D^{\\prime}}$$\nand\n$$p_{a a}=q_{b b} D^{\\prime}, \\quad p_{a b}=-q_{a b} D^{\\prime}, \\quad p_{b b}=q_{a a} D^{\\prime},$$\nwhence\n$$p_{a a} p_{b b}-p_{a b}-D^{\\prime} ;$$\nthen the equations to determine the potentials in terms of the\ncharges are\n$$\\begin{aligned}\n& V_{a}=p_{a u} E_{a}+p_{a b} E_{b}, \\\\\n& V_{b}=p_{a b} E_{a}+p_{b b} E_{b},\n\\end{aligned}$$\nand $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.\nThe total energy of the system is, by Art. 85,\n$$\\begin{aligned}\nQ & =\\frac{1}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\\n& =\\frac{1}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\\n& =\\frac{1}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .\n\\end{aligned}$$\nThe repulsion between the spheres is therefore, by Arts. 92, 93,\n$$\\begin{aligned}\nF & =\\frac{1}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\\n& =-\\frac{1}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},\n\\end{aligned}$$\nwhere $c$ is the distance between the centres of the spheres.\nOf these two expressions for the repulsion, the first, which\nexpresses it in terms of the potentials of the spheres and the\nvariations of the coefficients of capacity and induction, is the\nmost convenient for calculation.\nWe have therefore to differentiate the $q$ 's with respect to $c$.\nThese quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and\n",
+            "mathpix_markdown": "\n--- Page 307 ---\n\n\nBy this process or by the direct calculation of the successive\n images as shewn in Sir W. Thomson's paper, we find\n\n$$\\begin{aligned}\n& q_{a a}=a+\\frac{a^{2} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\\n& q_{a b}=-\\frac{a b}{c}-\\frac{a^{2} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\\n& q_{b b}=b+\\frac{a b^{2}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .\n\\end{aligned}$$\n\n174.] We have then the following equations to determine\n the charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to\n potentials $V_{a}$ and $V_{b}$ respectively,\n\n$$\\begin{aligned}\nE_{a} & =V_{a} q_{a a}+V_{b} q_{a b}, \\\\\nE_{b} & =V_{a} q_{a b}+V_{b}^{\\prime} q_{b b} .\n\\end{aligned}$$\n\n\nIf we put\n\n$$q_{t u} q_{b b}-q_{a b}{ }^{2}=D=\\frac{1}{D^{\\prime}}$$\n\nand\n\n$$p_{a a}=q_{b b} D^{\\prime}, \\quad p_{a b}=-q_{a b} D^{\\prime}, \\quad p_{b b}=q_{a a} D^{\\prime},$$\n\nwhence\n\n$$p_{a a} p_{b b}-p_{a b}-D^{\\prime} ;$$\n\nthen the equations to determine the potentials in terms of the\n charges are\n\n$$\\begin{aligned}\n& V_{a}=p_{a u} E_{a}+p_{a b} E_{b}, \\\\\n& V_{b}=p_{a b} E_{a}+p_{b b} E_{b},\n\\end{aligned}$$\n\nand $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.\n\nThe total energy of the system is, by Art. 85,\n\n$$\\begin{aligned}\nQ & =\\frac{1}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\\n& =\\frac{1}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\\n& =\\frac{1}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .\n\\end{aligned}$$\n\n\nThe repulsion between the spheres is therefore, by Arts. 92, 93,\n\n$$\\begin{aligned}\nF & =\\frac{1}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\\n& =-\\frac{1}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},\n\\end{aligned}$$\n\nwhere $c$ is the distance between the centres of the spheres.\n\nOf these two expressions for the repulsion, the first, which\n expresses it in terms of the potentials of the spheres and the\n variations of the coefficients of capacity and induction, is the\n most convenient for calculation.\n\n\nWe have therefore to differentiate the $q$ 's with respect to $c$.\n These quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and\n",
+            "structured_lines": [
+              {
+                "page": 307,
+                "line_number": 4,
+                "type": "text",
+                "content": "By this process or by the direct calculation of the successive",
+                "mathpix_content": "\n\nBy this process or by the direct calculation of the successive",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 307,
+                "line_number": 5,
+                "type": "text",
+                "content": "images as shewn in Sir W. Thomson's paper, we find",
+                "mathpix_content": " images as shewn in Sir W. Thomson's paper, we find",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 10,
+                "type": "text",
+                "content": "174.] We have then the following equations to determine",
+                "mathpix_content": "\n174.] We have then the following equations to determine",
+                "font_size": 34,
+                "confidence": 0.9951210021972656
+              },
+              {
+                "page": 307,
+                "line_number": 11,
+                "type": "text",
+                "content": "the charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to",
+                "mathpix_content": " the charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to",
+                "font_size": 34,
+                "confidence": 0.619814395904541
+              },
+              {
+                "page": 307,
+                "line_number": 12,
+                "type": "text",
+                "content": "potentials $V_{a}$ and $V_{b}$ respectively,",
+                "mathpix_content": " potentials $V_{a}$ and $V_{b}$ respectively,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 16,
+                "type": "text",
+                "content": "If we put",
+                "mathpix_content": "\n\nIf we put",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 19,
+                "type": "text",
+                "content": "and",
+                "mathpix_content": "\nand",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 22,
+                "type": "text",
+                "content": "whence",
+                "mathpix_content": "\nwhence",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 25,
+                "type": "text",
+                "content": "then the equations to determine the potentials in terms of the",
+                "mathpix_content": "\nthen the equations to determine the potentials in terms of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 26,
+                "type": "text",
+                "content": "charges are",
+                "mathpix_content": " charges are",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 30,
+                "type": "text",
+                "content": "and $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.",
+                "mathpix_content": "\nand $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.",
+                "font_size": 34,
+                "confidence": 0.9990236759185791
+              },
+              {
+                "page": 307,
+                "line_number": 31,
+                "type": "text",
+                "content": "The total energy of the system is, by Art. 85,",
+                "mathpix_content": "\nThe total energy of the system is, by Art. 85,",
+                "font_size": 34,
+                "confidence": 0.9902389049530029
+              },
+              {
+                "page": 307,
+                "line_number": 36,
+                "type": "text",
+                "content": "The repulsion between the spheres is therefore, by Arts. 92, 93,",
+                "mathpix_content": "\n\nThe repulsion between the spheres is therefore, by Arts. 92, 93,",
+                "font_size": 34,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 307,
+                "line_number": 40,
+                "type": "text",
+                "content": "where $c$ is the distance between the centres of the spheres.",
+                "mathpix_content": "\nwhere $c$ is the distance between the centres of the spheres.",
+                "font_size": 34,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 307,
+                "line_number": 41,
+                "type": "text",
+                "content": "Of these two expressions for the repulsion, the first, which",
+                "mathpix_content": "\nOf these two expressions for the repulsion, the first, which",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 42,
+                "type": "text",
+                "content": "expresses it in terms of the potentials of the spheres and the",
+                "mathpix_content": " expresses it in terms of the potentials of the spheres and the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 43,
+                "type": "text",
+                "content": "variations of the coefficients of capacity and induction, is the",
+                "mathpix_content": " variations of the coefficients of capacity and induction, is the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 307,
+                "line_number": 44,
+                "type": "text",
+                "content": "most convenient for calculation.",
+                "mathpix_content": " most convenient for calculation.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 307,
+                "line_number": 45,
+                "type": "text",
+                "content": "We have therefore to differentiate the $q$ 's with respect to $c$.",
+                "mathpix_content": "\n\nWe have therefore to differentiate the $q$ 's with respect to $c$.",
+                "font_size": 34,
+                "confidence": 0.9599802494049072
+              },
+              {
+                "page": 307,
+                "line_number": 46,
+                "type": "text",
+                "content": "These quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and",
+                "mathpix_content": " These quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and",
+                "font_size": 34,
+                "confidence": 0.8068103368839865
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 175,
+      "title": "]",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 273,
+      "title": "must be differentiated on the supposition that $a$ and $b$ are con-",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 1,
+      "title": "}{k} ;",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{(s c+b \\cosh \\beta) \\cosh (\\varepsilon \\varpi-\\alpha)}{c(\\sinh (8 \\varpi-\\alpha))^{2}}, \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{s \\cosh s \\varpi}{(\\sinh s \\varpi)^{2}}, \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{(s c+a \\cosh \\alpha) \\cosh (\\beta+s \\varpi)}{c(\\sinh (\\beta+s \\varpi))^{2}} .",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 2,
+      "title": "a^{2} b c}{\\left(c^{2}-b^{2}\\right)^{2}}-\\frac{2 a^{3} b^{2} c\\left(2 c^{2}-2 b^{2}-a^{2}\\right)}{\\left(c^{2}-b^{2}+a c\\right)^{2}\\left(c^{2}-b^{2}-a c\\right)^{2}}-\\& \\mathrm{c} . \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 2,
+      "title": "}}+\\frac{a^{2} b^{2}\\left(3 c^{2}-a^{2}-b^{2}\\right)}{c^{2}\\left(c^{2}-a^{2}-b^{2}\\right)^{2}} \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 3,
+      "title": "} b^{3}\\left(5 c^{2}-a^{2}-b^{2}\\right)\\left(c^{2}-a^{2}-b^{2}\\right)-a^{2} b^{2}\\right\\}}{c^{2}\\left(c^{2}-a^{2}-b^{2}+a b\\right)^{2}\\left(c^{2}-a^{2}-b^{2}-a b\\right)^{2}}-\\& \\mathrm{c} ., \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 2,
+      "title": "a b^{2} c}{\\left(c^{2}-a^{2}\\right)^{2}}-\\frac{2 a^{2} b^{3} c\\left(2 c^{2}-2 a^{2}-b^{2}\\right)}{\\left(c^{2}-a^{2}+b c\\right)^{2}\\left(c^{2}-a^{2}-b c\\right)^{2}}-\\& \\mathrm{c} .",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 175,
+      "title": "] If we suppose the two spheres at potential unity and",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 1,
+      "title": "}{k} ;",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{(s c+b \\cosh \\beta) \\cosh (\\varepsilon \\varpi-\\alpha)}{c(\\sinh (8 \\varpi-\\alpha))^{2}}, \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{s \\cosh s \\varpi}{(\\sinh s \\varpi)^{2}}, \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{(s c+a \\cosh \\alpha) \\cosh (\\beta+s \\varpi)}{c(\\sinh (\\beta+s \\varpi))^{2}} .",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 2,
+      "title": "a^{2} b c}{\\left(c^{2}-b^{2}\\right)^{2}}-\\frac{2 a^{3} b^{2} c\\left(2 c^{2}-2 b^{2}-a^{2}\\right)}{\\left(c^{2}-b^{2}+a c\\right)^{2}\\left(c^{2}-b^{2}-a c\\right)^{2}}-\\& \\mathrm{c} . \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_67",
+      "chapter_number": 2,
+      "title": "}}+\\frac{a^{2} b^{2}\\left(3 c^{2}-a^{2}-b^{2}\\right)}{c^{2}\\left(c^{2}-a^{2}-b^{2}\\right)^{2}} \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_68",
+      "chapter_number": 3,
+      "title": "} b^{3}\\left(5 c^{2}-a^{2}-b^{2}\\right)\\left(c^{2}-a^{2}-b^{2}\\right)-a^{2} b^{2}\\right\\}}{c^{2}\\left(c^{2}-a^{2}-b^{2}+a b\\right)^{2}\\left(c^{2}-a^{2}-b^{2}-a b\\right)^{2}}-\\& \\mathrm{c} ., \\\\",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_69",
+      "chapter_number": 2,
+      "title": "a b^{2} c}{\\left(c^{2}-a^{2}\\right)^{2}}-\\frac{2 a^{2} b^{3} c\\left(2 c^{2}-2 a^{2}-b^{2}\\right)}{\\left(c^{2}-a^{2}+b c\\right)^{2}\\left(c^{2}-a^{2}-b c\\right)^{2}}-\\& \\mathrm{c} .",
+      "page_start": 308,
+      "page_end": 307,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_70",
+      "chapter_number": 175,
+      "title": "] If we suppose the two spheres at potential unity and",
+      "page_start": 308,
+      "page_end": 308,
+      "articles": [
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": "] If we suppose the two spheres at potential unity and",
+          "title_safe": "If we suppose the two spheres at potential unity and",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": "] If we suppose the two spheres at potential unity and",
+          "title_safe": "If we suppose the two spheres at potential unity and",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_273",
+          "article_number": 273,
+          "title_original": "must be differentiated on the supposition that $a$ and $b$ are con-",
+          "title_safe": "must be differentiated on the supposition that a and b are c",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{k} ;",
+          "title_safe": "k",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{(s c+b \\cosh \\beta) \\cosh (\\varepsilon \\varpi-\\alpha)}{c(\\sinh (8 \\varpi-\\alpha))^{2}}, \\\\",
+          "title_safe": "sequalsinfty fracs cplusb cosh beta cosh varepsilon varpi-al",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{s \\cosh s \\varpi}{(\\sinh s \\varpi)^{2}}, \\\\",
+          "title_safe": "sequalsinfty fracs cosh s varpisinh s varpi2",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{(s c+a \\cosh \\alpha) \\cosh (\\beta+s \\varpi)}{c(\\sinh (\\beta+s \\varpi))^{2}} .",
+          "title_safe": "sequalsinfty fracs cplusa cosh alpha cosh betapluss varpicsi",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a^{2} b c}{\\left(c^{2}-b^{2}\\right)^{2}}-\\frac{2 a^{3} b^{2} c\\left(2 c^{2}-2 b^{2}-a^{2}\\right)}{\\left(c^{2}-b^{2}+a c\\right)^{2}\\left(c^{2}-b^{2}-a c\\right)^{2}}-\\& \\mathrm{c} . \\\\",
+          "title_safe": "a2 b cleftc2-b2right2-frac2 a3 b2 cleft2 c2-2 b2-a2rightleft",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}+\\frac{a^{2} b^{2}\\left(3 c^{2}-a^{2}-b^{2}\\right)}{c^{2}\\left(c^{2}-a^{2}-b^{2}\\right)^{2}} \\\\",
+          "title_safe": "plusfraca2 b2left3 c2-a2-b2rightc2leftc2-a2-b2right2",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "} b^{3}\\left(5 c^{2}-a^{2}-b^{2}\\right)\\left(c^{2}-a^{2}-b^{2}\\right)-a^{2} b^{2}\\right\\}}{c^{2}\\left(c^{2}-a^{2}-b^{2}+a b\\right)^{2}\\left(c^{2}-a^{2}-b^{2}-a b\\right)^{2}}-\\& \\mathrm{c} ., \\\\",
+          "title_safe": "b3left5 c2-a2-b2rightleftc2-a2-b2right-a2 b2rightc2leftc2-a2",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a b^{2} c}{\\left(c^{2}-a^{2}\\right)^{2}}-\\frac{2 a^{2} b^{3} c\\left(2 c^{2}-2 a^{2}-b^{2}\\right)}{\\left(c^{2}-a^{2}+b c\\right)^{2}\\left(c^{2}-a^{2}-b c\\right)^{2}}-\\& \\mathrm{c} .",
+          "title_safe": "a b2 cleftc2-a2right2-frac2 a2 b3 cleft2 c2-2 a2-b2rightleft",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": ".] If we suppose the two spheres at potential unity and",
+          "title_safe": "If we suppose the two spheres at potential unity and",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{k} ;",
+          "title_safe": "k",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{(s c+b \\cosh \\beta) \\cosh (\\varepsilon \\varpi-\\alpha)}{c(\\sinh (8 \\varpi-\\alpha))^{2}}, \\\\",
+          "title_safe": "sequalsinfty fracs cplusb cosh beta cosh varepsilon varpi-al",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{s \\cosh s \\varpi}{(\\sinh s \\varpi)^{2}}, \\\\",
+          "title_safe": "sequalsinfty fracs cosh s varpisinh s varpi2",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{(s c+a \\cosh \\alpha) \\cosh (\\beta+s \\varpi)}{c(\\sinh (\\beta+s \\varpi))^{2}} .",
+          "title_safe": "sequalsinfty fracs cplusa cosh alpha cosh betapluss varpicsi",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a^{2} b c}{\\left(c^{2}-b^{2}\\right)^{2}}-\\frac{2 a^{3} b^{2} c\\left(2 c^{2}-2 b^{2}-a^{2}\\right)}{\\left(c^{2}-b^{2}+a c\\right)^{2}\\left(c^{2}-b^{2}-a c\\right)^{2}}-\\& \\mathrm{c} . \\\\",
+          "title_safe": "a2 b cleftc2-b2right2-frac2 a3 b2 cleft2 c2-2 b2-a2rightleft",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}+\\frac{a^{2} b^{2}\\left(3 c^{2}-a^{2}-b^{2}\\right)}{c^{2}\\left(c^{2}-a^{2}-b^{2}\\right)^{2}} \\\\",
+          "title_safe": "plusfraca2 b2left3 c2-a2-b2rightc2leftc2-a2-b2right2",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "} b^{3}\\left(5 c^{2}-a^{2}-b^{2}\\right)\\left(c^{2}-a^{2}-b^{2}\\right)-a^{2} b^{2}\\right\\}}{c^{2}\\left(c^{2}-a^{2}-b^{2}+a b\\right)^{2}\\left(c^{2}-a^{2}-b^{2}-a b\\right)^{2}}-\\& \\mathrm{c} ., \\\\",
+          "title_safe": "b3left5 c2-a2-b2rightleftc2-a2-b2right-a2 b2rightc2leftc2-a2",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a b^{2} c}{\\left(c^{2}-a^{2}\\right)^{2}}-\\frac{2 a^{2} b^{3} c\\left(2 c^{2}-2 a^{2}-b^{2}\\right)}{\\left(c^{2}-a^{2}+b c\\right)^{2}\\left(c^{2}-a^{2}-b c\\right)^{2}}-\\& \\mathrm{c} .",
+          "title_safe": "a b2 cleftc2-a2right2-frac2 a2 b3 cleft2 c2-2 a2-b2rightleft",
+          "page_start": 308,
+          "page_end": 307,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": ".] If we suppose the two spheres at potential unity and",
+          "title_safe": "If we suppose the two spheres at potential unity and",
+          "page_start": 308,
+          "page_end": 308,
+          "content": {
+            "raw_text": "\n--- Page 308 ---\n175.]\nTWO SPHERES IN CONTACT.\n273\nmust be differentiated on the supposition that $a$ and $b$ are con-\nstant. From the equations\n$$\\begin{aligned}\nk=-a \\sinh a & =b \\sinh \\beta=-c \\frac{\\sinh a \\sinh \\beta}{\\sinh \\omega}, \\\\\n\\frac{d k}{d c} & =\\frac{\\cosh a \\cosh \\beta}{\\sinh \\omega}, \\\\\n\\frac{d a}{d c} & =\\frac{\\sinh a \\cosh \\beta}{k \\sinh \\omega}, \\\\\n\\frac{d \\beta}{d c} & =\\frac{\\cosh a \\sinh \\beta}{k \\sinh \\omega}, \\\\\n\\frac{d \\omega}{d c} & =\\frac{1}{k} ;\n\\end{aligned}$$\nwe find\nwhence we find\n$$\\begin{aligned}\n& \\frac{d q_{a a}}{d c}=\\frac{\\cosh a \\cosh \\beta}{\\sinh \\omega} \\frac{q_{a a}}{k}-\\sum_{s=0}^{s=\\infty} \\frac{(s c+b \\cosh \\beta) \\cosh (\\varepsilon \\varpi-\\alpha)}{c(\\sinh (8 \\varpi-\\alpha))^{2}}, \\\\\n& \\frac{d q_{a b}}{d c}=\\frac{\\cosh a \\cosh \\beta}{\\sinh \\varpi} \\frac{q_{a b}}{k}+\\sum_{s=1}^{s=\\infty} \\frac{s \\cosh s \\varpi}{(\\sinh s \\varpi)^{2}}, \\\\\n& \\frac{d q_{b b}}{d c}=\\frac{\\cosh a \\cosh \\beta}{\\sinh \\varpi} q_{b b}-\\sum_{s=0}^{s=\\infty} \\frac{(s c+a \\cosh \\alpha) \\cosh (\\beta+s \\varpi)}{c(\\sinh (\\beta+s \\varpi))^{2}} .\n\\end{aligned}$$\nSir William Thomson has calculated the force between two\nspheres of equal radius separated by any distance less than the\ndiameter of one of them. For greater distances it is not neces-\nsary to use more than two or three of the successive images.\nThe series for the differential coefficients of the $q$ 's with respect\nto $c$ are easily obtained by direct differentiation,\n$$\\begin{aligned}\n\\frac{d q_{a a}}{d c}= & -\\frac{2 a^{2} b c}{\\left(c^{2}-b^{2}\\right)^{2}}-\\frac{2 a^{3} b^{2} c\\left(2 c^{2}-2 b^{2}-a^{2}\\right)}{\\left(c^{2}-b^{2}+a c\\right)^{2}\\left(c^{2}-b^{2}-a c\\right)^{2}}-\\& \\mathrm{c} . \\\\\n\\frac{d q_{a b}}{d c}= & \\frac{a b}{c^{2}}+\\frac{a^{2} b^{2}\\left(3 c^{2}-a^{2}-b^{2}\\right)}{c^{2}\\left(c^{2}-a^{2}-b^{2}\\right)^{2}} \\\\\n& \\quad+\\frac{\\left.a^{3} b^{3}\\left(5 c^{2}-a^{2}-b^{2}\\right)\\left(c^{2}-a^{2}-b^{2}\\right)-a^{2} b^{2}\\right\\}}{c^{2}\\left(c^{2}-a^{2}-b^{2}+a b\\right)^{2}\\left(c^{2}-a^{2}-b^{2}-a b\\right)^{2}}-\\& \\mathrm{c} ., \\\\\n\\frac{d q_{b b}}{d c}= & -\\frac{2 a b^{2} c}{\\left(c^{2}-a^{2}\\right)^{2}}-\\frac{2 a^{2} b^{3} c\\left(2 c^{2}-2 a^{2}-b^{2}\\right)}{\\left(c^{2}-a^{2}+b c\\right)^{2}\\left(c^{2}-a^{2}-b c\\right)^{2}}-\\& \\mathrm{c} .\n\\end{aligned}$$\nDistribution of Electricity on Two Spheres in Contact.\n175.] If we suppose the two spheres at potential unity and\nnot influenced by any point, then, if we invert the system with\nrespect to the point of contact, we shall have two parallel planes.\nVOL. I.\nT\n",
+            "mathpix_markdown": "\n--- Page 308 ---\n\nmust be differentiated on the supposition that $a$ and $b$ are con\nstant. From the equations\n\n$$\\begin{aligned}\nk=-a \\sinh a & =b \\sinh \\beta=-c \\frac{\\sinh a \\sinh \\beta}{\\sinh \\omega}, \\\\\n\\frac{d k}{d c} & =\\frac{\\cosh a \\cosh \\beta}{\\sinh \\omega}, \\\\\n\\frac{d a}{d c} & =\\frac{\\sinh a \\cosh \\beta}{k \\sinh \\omega}, \\\\\n\\frac{d \\beta}{d c} & =\\frac{\\cosh a \\sinh \\beta}{k \\sinh \\omega}, \\\\\n\\frac{d \\omega}{d c} & =\\frac{1}{k} ;\n\\end{aligned}$$\n\nwe find\n\nwhence we find\n\n$$\\begin{aligned}\n& \\frac{d q_{a a}}{d c}=\\frac{\\cosh a \\cosh \\beta}{\\sinh \\omega} \\frac{q_{a a}}{k}-\\sum_{s=0}^{s=\\infty} \\frac{(s c+b \\cosh \\beta) \\cosh (\\varepsilon \\varpi-\\alpha)}{c(\\sinh (8 \\varpi-\\alpha))^{2}}, \\\\\n& \\frac{d q_{a b}}{d c}=\\frac{\\cosh a \\cosh \\beta}{\\sinh \\varpi} \\frac{q_{a b}}{k}+\\sum_{s=1}^{s=\\infty} \\frac{s \\cosh s \\varpi}{(\\sinh s \\varpi)^{2}}, \\\\\n& \\frac{d q_{b b}}{d c}=\\frac{\\cosh a \\cosh \\beta}{\\sinh \\varpi} q_{b b}-\\sum_{s=0}^{s=\\infty} \\frac{(s c+a \\cosh \\alpha) \\cosh (\\beta+s \\varpi)}{c(\\sinh (\\beta+s \\varpi))^{2}} .\n\\end{aligned}$$\n\n\nSir William Thomson has calculated the force between two\n spheres of equal radius separated by any distance less than the\n diameter of one of them. For greater distances it is not neces\nsary to use more than two or three of the successive images.\n\n\nThe series for the differential coefficients of the $q$ 's with respect\n to $c$ are easily obtained by direct differentiation,\n\n$$\\begin{aligned}\n\\frac{d q_{a a}}{d c}= & -\\frac{2 a^{2} b c}{\\left(c^{2}-b^{2}\\right)^{2}}-\\frac{2 a^{3} b^{2} c\\left(2 c^{2}-2 b^{2}-a^{2}\\right)}{\\left(c^{2}-b^{2}+a c\\right)^{2}\\left(c^{2}-b^{2}-a c\\right)^{2}}-\\& \\mathrm{c} . \\\\\n\\frac{d q_{a b}}{d c}= & \\frac{a b}{c^{2}}+\\frac{a^{2} b^{2}\\left(3 c^{2}-a^{2}-b^{2}\\right)}{c^{2}\\left(c^{2}-a^{2}-b^{2}\\right)^{2}} \\\\\n& \\quad+\\frac{\\left.a^{3} b^{3}\\left(5 c^{2}-a^{2}-b^{2}\\right)\\left(c^{2}-a^{2}-b^{2}\\right)-a^{2} b^{2}\\right\\}}{c^{2}\\left(c^{2}-a^{2}-b^{2}+a b\\right)^{2}\\left(c^{2}-a^{2}-b^{2}-a b\\right)^{2}}-\\& \\mathrm{c} ., \\\\\n\\frac{d q_{b b}}{d c}= & -\\frac{2 a b^{2} c}{\\left(c^{2}-a^{2}\\right)^{2}}-\\frac{2 a^{2} b^{3} c\\left(2 c^{2}-2 a^{2}-b^{2}\\right)}{\\left(c^{2}-a^{2}+b c\\right)^{2}\\left(c^{2}-a^{2}-b c\\right)^{2}}-\\& \\mathrm{c} .\n\\end{aligned}$$\n\n\nDistribution of Electricity on Two Spheres in Contact.\n\n175.] If we suppose the two spheres at potential unity and\n not influenced by any point, then, if we invert the system with\n respect to the point of contact, we shall have two parallel planes.\n\n\nVOL. I.\n",
+            "structured_lines": [
+              {
+                "page": 308,
+                "line_number": 4,
+                "type": "text",
+                "content": "must be differentiated on the supposition that $a$ and $b$ are con-",
+                "mathpix_content": "\nmust be differentiated on the supposition that $a$ and $b$ are con",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 5,
+                "type": "text",
+                "content": "stant. From the equations",
+                "mathpix_content": "stant. From the equations",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 16,
+                "type": "text",
+                "content": "we find",
+                "mathpix_content": "\nwe find",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 17,
+                "type": "text",
+                "content": "whence we find",
+                "mathpix_content": "\nwhence we find",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 22,
+                "type": "text",
+                "content": "Sir William Thomson has calculated the force between two",
+                "mathpix_content": "\n\nSir William Thomson has calculated the force between two",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 23,
+                "type": "text",
+                "content": "spheres of equal radius separated by any distance less than the",
+                "mathpix_content": " spheres of equal radius separated by any distance less than the",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 24,
+                "type": "text",
+                "content": "diameter of one of them. For greater distances it is not neces-",
+                "mathpix_content": " diameter of one of them. For greater distances it is not neces",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 25,
+                "type": "text",
+                "content": "sary to use more than two or three of the successive images.",
+                "mathpix_content": "sary to use more than two or three of the successive images.",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 26,
+                "type": "text",
+                "content": "The series for the differential coefficients of the $q$ 's with respect",
+                "mathpix_content": "\n\nThe series for the differential coefficients of the $q$ 's with respect",
+                "font_size": 26,
+                "confidence": 0.99609375
+              },
+              {
+                "page": 308,
+                "line_number": 27,
+                "type": "text",
+                "content": "to $c$ are easily obtained by direct differentiation,",
+                "mathpix_content": " to $c$ are easily obtained by direct differentiation,",
+                "font_size": 26,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 308,
+                "line_number": 33,
+                "type": "text",
+                "content": "Distribution of Electricity on Two Spheres in Contact.",
+                "mathpix_content": "\n\nDistribution of Electricity on Two Spheres in Contact.",
+                "font_size": 26,
+                "confidence": 0.51953125
+              },
+              {
+                "page": 308,
+                "line_number": 34,
+                "type": "text",
+                "content": "175.] If we suppose the two spheres at potential unity and",
+                "mathpix_content": "\n175.] If we suppose the two spheres at potential unity and",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 35,
+                "type": "text",
+                "content": "not influenced by any point, then, if we invert the system with",
+                "mathpix_content": " not influenced by any point, then, if we invert the system with",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 36,
+                "type": "text",
+                "content": "respect to the point of contact, we shall have two parallel planes.",
+                "mathpix_content": " respect to the point of contact, we shall have two parallel planes.",
+                "font_size": 26,
+                "confidence": 1.0
+              },
+              {
+                "page": 308,
+                "line_number": 37,
+                "type": "text",
+                "content": "VOL. I.",
+                "mathpix_content": "\n\nVOL. I.",
+                "font_size": 26,
+                "confidence": 0.9677734375
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_71",
+      "chapter_number": 274,
+      "title": "ELECTRIC IMAGES.",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_72",
+      "chapter_number": 175,
+      "title": "distant $\\frac{1}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_73",
+      "chapter_number": 1,
+      "title": "}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_74",
+      "chapter_number": 1,
+      "title": ", the distances of which from the origin. reckoned in the",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_75",
+      "chapter_number": 1,
+      "title": "}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_76",
+      "chapter_number": 1,
+      "title": "}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_77",
+      "chapter_number": 1,
+      "title": "}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_78",
+      "chapter_number": 8,
+      "title": "is zero, or a positive integer, the image is inside",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_79",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{1}{\\frac{1}{a}+8\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}-\\frac{a b}{a+b} \\sum_{s=1}^{s=\\infty} \\frac{1}{s} .$$",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_80",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{a^{2} b}{s(a+b)\\{s(a+b)-a\\}}$$",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_81",
+      "chapter_number": 1,
+      "title": "}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_82",
+      "chapter_number": 1,
+      "title": "}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_83",
+      "chapter_number": 1,
+      "title": ", the distances of which from the origin. reckoned in the",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_84",
+      "chapter_number": 1,
+      "title": "}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_85",
+      "chapter_number": 1,
+      "title": "}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_86",
+      "chapter_number": 1,
+      "title": "}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_87",
+      "chapter_number": 8,
+      "title": "is zero, or a positive integer, the image is inside",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_88",
+      "chapter_number": 0,
+      "title": "}^{s=\\infty} \\frac{1}{\\frac{1}{a}+8\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}-\\frac{a b}{a+b} \\sum_{s=1}^{s=\\infty} \\frac{1}{s} .$$",
+      "page_start": 309,
+      "page_end": 308,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_89",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{a^{2} b}{s(a+b)\\{s(a+b)-a\\}}$$",
+      "page_start": 309,
+      "page_end": 309,
+      "articles": [
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": "distant $\\frac{1}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by",
+          "title_safe": "distant frac12 a and frac12 b from the point of inversion an",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_274",
+          "article_number": 274,
+          "title_original": "ELECTRIC IMAGES.",
+          "title_safe": "ELECTRIC IMAGES",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by",
+          "title_safe": "2 a and frac12 b from the point of inversion and electrified",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any",
+          "title_safe": "aplusfrac1bright from the origin where s may have any",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ", the distances of which from the origin. reckoned in the",
+          "title_safe": "the distances of which from the origin. reckoned in the",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.",
+          "title_safe": "aplussleftfrac1aplusfrac1bright",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive",
+          "title_safe": "sleftfrac1aplusfrac1bright where s is positive",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.",
+          "title_safe": "frac1aplussleftfrac1aplusfrac1bright",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "is zero, or a positive integer, the image is inside",
+          "title_safe": "is zero or a positive integer the image is inside",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\frac{1}{a}+8\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}-\\frac{a b}{a+b} \\sum_{s=1}^{s=\\infty} \\frac{1}{s} .$$",
+          "title_safe": "sequalsinfty frac1frac1aplus8leftfrac1aplusfrac1bright-fraca",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{a^{2} b}{s(a+b)\\{s(a+b)-a\\}}$$",
+          "title_safe": "sequalsinfty fraca2 bsaplusbsaplusb-a",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by",
+          "title_safe": "2 a and frac12 b from the point of inversion and electrified",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any",
+          "title_safe": "aplusfrac1bright from the origin where s may have any",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ", the distances of which from the origin. reckoned in the",
+          "title_safe": "the distances of which from the origin. reckoned in the",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.",
+          "title_safe": "aplussleftfrac1aplusfrac1bright",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive",
+          "title_safe": "sleftfrac1aplusfrac1bright where s is positive",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.",
+          "title_safe": "frac1aplussleftfrac1aplusfrac1bright",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "is zero, or a positive integer, the image is inside",
+          "title_safe": "is zero or a positive integer the image is inside",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{s=\\infty} \\frac{1}{\\frac{1}{a}+8\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}-\\frac{a b}{a+b} \\sum_{s=1}^{s=\\infty} \\frac{1}{s} .$$",
+          "title_safe": "sequalsinfty frac1frac1aplus8leftfrac1aplusfrac1bright-fraca",
+          "page_start": 309,
+          "page_end": 308,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{a^{2} b}{s(a+b)\\{s(a+b)-a\\}}$$",
+          "title_safe": "sequalsinfty fraca2 bsaplusbsaplusb-a",
+          "page_start": 309,
+          "page_end": 309,
+          "content": {
+            "raw_text": "\n--- Page 309 ---\n274\nELECTRIC IMAGES.\n[175.\ndistant $\\frac{1}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by\nthe action of a positive unit of electricity at that point.\nThere will be a series of positive images, each equal to unity,\nat distances $s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any\nintegral value from $-\\infty$ to $+\\infty$.\nThere will also be a series of negative images each equal to\n-1 , the distances of which from the origin. reckoned in the\ndirection of $a$, are $\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.\nWhen this system is inverted back again into the form of the\ntwo spheres in contact, we have corresponding to the positive\nimages a series of negative images, the distances of which from\nthe point of contact are of the form $\\frac{1}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive\nfor the sphere $A$ and negative for the sphere $B$. The charge\nof each image, when the potential of the spheres is unity, is\nnumerically equal to its distance from the point of contact, and\nis always negative.\nThere will also be a series of positive images corresponding to\nthe negative ones for the two planes, whose distances from the\npoint of contact measured in the direction of the centre of $\\iota$,\nare of the form $\\frac{1}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.\nWhen 8 is zero, or a positive integer, the image is inside\nthe sphere $A$.\nWhen $s$ is a negative integer the image is inside the sphere $B$.\nThe charge of each image is numerically equal to its distance\nfrom the origin and is always positive.\nThe total charge of the sphere $A$ is therefore\n$$E_{a}=\\sum_{s=0}^{s=\\infty} \\frac{1}{\\frac{1}{a}+8\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}-\\frac{a b}{a+b} \\sum_{s=1}^{s=\\infty} \\frac{1}{s} .$$\nEach of these series is infinite, but if we combine them in the\nform\n$$E_{a}=\\sum_{s=1}^{s=\\infty} \\frac{a^{2} b}{s(a+b)\\{s(a+b)-a\\}}$$\nthe series becomes convergent.\n",
+            "mathpix_markdown": "\n--- Page 309 ---\n\ndistant $\\frac{1}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by\n the action of a positive unit of electricity at that point.\n\n\nThere will be a series of positive images, each equal to unity,\n at distances $s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any\n integral value from $-\\infty$ to $+\\infty$.\n\n\nThere will also be a series of negative images each equal to\n -1 , the distances of which from the origin. reckoned in the\n direction of $a$, are $\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.\n\n\nWhen this system is inverted back again into the form of the\n two spheres in contact, we have corresponding to the positive\n images a series of negative images, the distances of which from\n the point of contact are of the form $\\frac{1}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive\n for the sphere $A$ and negative for the sphere $B$. The charge\n of each image, when the potential of the spheres is unity, is\n numerically equal to its distance from the point of contact, and\n is always negative.\n\n\nThere will also be a series of positive images corresponding to\n the negative ones for the two planes, whose distances from the\n point of contact measured in the direction of the centre of $\\iota$,\n are of the form $\\frac{1}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.\n\n\nWhen 8 is zero, or a positive integer, the image is inside\n the sphere $A$.\n\n\nWhen $s$ is a negative integer the image is inside the sphere $B$.\n\nThe charge of each image is numerically equal to its distance\n from the origin and is always positive.\n\n\nThe total charge of the sphere $A$ is therefore\n\n$$E_{a}=\\sum_{s=0}^{s=\\infty} \\frac{1}{\\frac{1}{a}+8\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}-\\frac{a b}{a+b} \\sum_{s=1}^{s=\\infty} \\frac{1}{s} .$$\n\n\nEach of these series is infinite, but if we combine them in the\n form\n\n$$E_{a}=\\sum_{s=1}^{s=\\infty} \\frac{a^{2} b}{s(a+b)\\{s(a+b)-a\\}}$$\n\nthe series becomes convergent.\n",
+            "structured_lines": [
+              {
+                "page": 309,
+                "line_number": 4,
+                "type": "text",
+                "content": "distant $\\frac{1}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by",
+                "mathpix_content": "\ndistant $\\frac{1}{2 a}$ and $\\frac{1}{2 b}$ from the point of inversion, and electrified by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 5,
+                "type": "text",
+                "content": "the action of a positive unit of electricity at that point.",
+                "mathpix_content": " the action of a positive unit of electricity at that point.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 6,
+                "type": "text",
+                "content": "There will be a series of positive images, each equal to unity,",
+                "mathpix_content": "\n\nThere will be a series of positive images, each equal to unity,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 7,
+                "type": "text",
+                "content": "at distances $s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any",
+                "mathpix_content": " at distances $s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$ from the origin, where $s$ may have any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 8,
+                "type": "text",
+                "content": "integral value from $-\\infty$ to $+\\infty$.",
+                "mathpix_content": " integral value from $-\\infty$ to $+\\infty$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 9,
+                "type": "text",
+                "content": "There will also be a series of negative images each equal to",
+                "mathpix_content": "\n\nThere will also be a series of negative images each equal to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 10,
+                "type": "text",
+                "content": "-1 , the distances of which from the origin. reckoned in the",
+                "mathpix_content": " -1 , the distances of which from the origin. reckoned in the",
+                "font_size": 27,
+                "confidence": 0.9956088066101074
+              },
+              {
+                "page": 309,
+                "line_number": 11,
+                "type": "text",
+                "content": "direction of $a$, are $\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.",
+                "mathpix_content": " direction of $a$, are $\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 12,
+                "type": "text",
+                "content": "When this system is inverted back again into the form of the",
+                "mathpix_content": "\n\nWhen this system is inverted back again into the form of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 13,
+                "type": "text",
+                "content": "two spheres in contact, we have corresponding to the positive",
+                "mathpix_content": " two spheres in contact, we have corresponding to the positive",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 14,
+                "type": "text",
+                "content": "images a series of negative images, the distances of which from",
+                "mathpix_content": " images a series of negative images, the distances of which from",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 15,
+                "type": "text",
+                "content": "the point of contact are of the form $\\frac{1}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive",
+                "mathpix_content": " the point of contact are of the form $\\frac{1}{s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$, where $s$ is positive",
+                "font_size": 27,
+                "confidence": 0.9585733413696289
+              },
+              {
+                "page": 309,
+                "line_number": 16,
+                "type": "text",
+                "content": "for the sphere $A$ and negative for the sphere $B$. The charge",
+                "mathpix_content": " for the sphere $A$ and negative for the sphere $B$. The charge",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 17,
+                "type": "text",
+                "content": "of each image, when the potential of the spheres is unity, is",
+                "mathpix_content": " of each image, when the potential of the spheres is unity, is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 18,
+                "type": "text",
+                "content": "numerically equal to its distance from the point of contact, and",
+                "mathpix_content": " numerically equal to its distance from the point of contact, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 19,
+                "type": "text",
+                "content": "is always negative.",
+                "mathpix_content": " is always negative.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 20,
+                "type": "text",
+                "content": "There will also be a series of positive images corresponding to",
+                "mathpix_content": "\n\nThere will also be a series of positive images corresponding to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 21,
+                "type": "text",
+                "content": "the negative ones for the two planes, whose distances from the",
+                "mathpix_content": " the negative ones for the two planes, whose distances from the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 22,
+                "type": "text",
+                "content": "point of contact measured in the direction of the centre of $\\iota$,",
+                "mathpix_content": " point of contact measured in the direction of the centre of $\\iota$,",
+                "font_size": 27,
+                "confidence": 0.7051529884338379
+              },
+              {
+                "page": 309,
+                "line_number": 23,
+                "type": "text",
+                "content": "are of the form $\\frac{1}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.",
+                "mathpix_content": " are of the form $\\frac{1}{\\frac{1}{a}+s\\left(\\frac{1}{a}+\\frac{1}{b}\\right)}$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 24,
+                "type": "text",
+                "content": "When 8 is zero, or a positive integer, the image is inside",
+                "mathpix_content": "\n\nWhen 8 is zero, or a positive integer, the image is inside",
+                "font_size": 27,
+                "confidence": 0.9345703125
+              },
+              {
+                "page": 309,
+                "line_number": 25,
+                "type": "text",
+                "content": "the sphere $A$.",
+                "mathpix_content": " the sphere $A$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 26,
+                "type": "text",
+                "content": "When $s$ is a negative integer the image is inside the sphere $B$.",
+                "mathpix_content": "\n\nWhen $s$ is a negative integer the image is inside the sphere $B$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 27,
+                "type": "text",
+                "content": "The charge of each image is numerically equal to its distance",
+                "mathpix_content": "\nThe charge of each image is numerically equal to its distance",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 28,
+                "type": "text",
+                "content": "from the origin and is always positive.",
+                "mathpix_content": " from the origin and is always positive.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 29,
+                "type": "text",
+                "content": "The total charge of the sphere $A$ is therefore",
+                "mathpix_content": "\n\nThe total charge of the sphere $A$ is therefore",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 32,
+                "type": "text",
+                "content": "Each of these series is infinite, but if we combine them in the",
+                "mathpix_content": "\n\nEach of these series is infinite, but if we combine them in the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 309,
+                "line_number": 33,
+                "type": "text",
+                "content": "form",
+                "mathpix_content": " form",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 309,
+                "line_number": 36,
+                "type": "text",
+                "content": "the series becomes convergent.",
+                "mathpix_content": "\nthe series becomes convergent.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_90",
+      "chapter_number": 175,
+      "title": "]",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_91",
+      "chapter_number": 275,
+      "title": "In the same way we find for the charge of the sphere $B$,",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_92",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{a b}{8(a+b)-b}-\\frac{a b}{a+b} \\sum_{s=-1}^{s=-\\infty} 1 \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_93",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{a b^{2}}{8(a+b)\\{8(a+b)-b\\}} .",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_94",
+      "chapter_number": 0,
+      "title": "}^{1} \\frac{\\theta^{\\frac{b}{a+b}-1}-1}{1-\\theta} d \\theta$$",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_95",
+      "chapter_number": 438,
+      "title": ") that the above series for $E_{a}$ is equal to",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_96",
+      "chapter_number": 57712,
+      "title": "\\ldots, \\text { and } \\Psi(x)=\\frac{d}{d x} \\log \\Gamma(1+x)$$",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_97",
+      "chapter_number": 161,
+      "title": "162).",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_98",
+      "chapter_number": 1,
+      "title": "x) \\times \\frac{a b}{a+b} \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_99",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{1}{2 s(2 s-1)} \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_100",
+      "chapter_number": 1,
+      "title": "\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\& \\mathrm{c} .\\right) \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_101",
+      "chapter_number": 2,
+      "title": "=.69314718 a .",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_102",
+      "chapter_number": 2,
+      "title": "}}{b} \\sum_{s=1}^{s=\\infty} 1 \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_103",
+      "chapter_number": 2,
+      "title": "}}{6} \\frac{a^{2}}{b}",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_104",
+      "chapter_number": 2,
+      "title": "In the same way we find for the charge of the sphere $B$,",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_105",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{a b}{8(a+b)-b}-\\frac{a b}{a+b} \\sum_{s=-1}^{s=-\\infty} 1 \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_106",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{a b^{2}}{8(a+b)\\{8(a+b)-b\\}} .",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_107",
+      "chapter_number": 0,
+      "title": "}^{1} \\frac{\\theta^{\\frac{b}{a+b}-1}-1}{1-\\theta} d \\theta$$",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_108",
+      "chapter_number": 438,
+      "title": ") that the above series for $E_{a}$ is equal to",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_109",
+      "chapter_number": 57712,
+      "title": "\\ldots, \\text { and } \\Psi(x)=\\frac{d}{d x} \\log \\Gamma(1+x)$$",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_110",
+      "chapter_number": 161,
+      "title": "162).",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_111",
+      "chapter_number": 1,
+      "title": "x) \\times \\frac{a b}{a+b} \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_112",
+      "chapter_number": 1,
+      "title": "}^{s=\\infty} \\frac{1}{2 s(2 s-1)} \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_113",
+      "chapter_number": 1,
+      "title": "\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\& \\mathrm{c} .\\right) \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_114",
+      "chapter_number": 2,
+      "title": "=.69314718 a .",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_115",
+      "chapter_number": 2,
+      "title": "}}{b} \\sum_{s=1}^{s=\\infty} 1 \\\\",
+      "page_start": 310,
+      "page_end": 309,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_116",
+      "chapter_number": 2,
+      "title": "}}{6} \\frac{a^{2}}{b}",
+      "page_start": 310,
+      "page_end": 310,
+      "articles": [
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_275",
+          "article_number": 275,
+          "title_original": "In the same way we find for the charge of the sphere $B$,",
+          "title_safe": "In the same way we find for the charge of the sphere B",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{a b}{8(a+b)-b}-\\frac{a b}{a+b} \\sum_{s=-1}^{s=-\\infty} 1 \\\\",
+          "title_safe": "sequalsinfty fraca b8aplusb-b-fraca baplusb sumsequals-1sequ",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{a b^{2}}{8(a+b)\\{8(a+b)-b\\}} .",
+          "title_safe": "sequalsinfty fraca b28aplusb8aplusb-b",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{1} \\frac{\\theta^{\\frac{b}{a+b}-1}-1}{1-\\theta} d \\theta$$",
+          "title_safe": "1 fracthetafracbaplusb-1-11-theta d theta",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_438",
+          "article_number": 438,
+          "title_original": ") that the above series for $E_{a}$ is equal to",
+          "title_safe": "that the above series for Ea is equal to",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_57712",
+          "article_number": 57712,
+          "title_original": "\\ldots, \\text { and } \\Psi(x)=\\frac{d}{d x} \\log \\Gamma(1+x)$$",
+          "title_safe": "ldots text and Psixequalsfracdd x log Gamma1plusx",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_161",
+          "article_number": 161,
+          "title_original": "162).",
+          "title_safe": "162",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "x) \\times \\frac{a b}{a+b} \\\\",
+          "title_safe": "x times fraca baplusb",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{1}{2 s(2 s-1)} \\\\",
+          "title_safe": "sequalsinfty frac12 s2 s-1",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\& \\mathrm{c} .\\right) \\\\",
+          "title_safe": "frac12plusfrac13-frac14plusand mathrmc .right",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "=.69314718 a .",
+          "title_safe": "equals.69314718 a",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{b} \\sum_{s=1}^{s=\\infty} 1 \\\\",
+          "title_safe": "b sumsequals1sequalsinfty 1",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{6} \\frac{a^{2}}{b}",
+          "title_safe": "6 fraca2b",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "In the same way we find for the charge of the sphere $B$,",
+          "title_safe": "In the same way we find for the charge of the sphere B",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{a b}{8(a+b)-b}-\\frac{a b}{a+b} \\sum_{s=-1}^{s=-\\infty} 1 \\\\",
+          "title_safe": "sequalsinfty fraca b8aplusb-b-fraca baplusb sumsequals-1sequ",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{a b^{2}}{8(a+b)\\{8(a+b)-b\\}} .",
+          "title_safe": "sequalsinfty fraca b28aplusb8aplusb-b",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{1} \\frac{\\theta^{\\frac{b}{a+b}-1}-1}{1-\\theta} d \\theta$$",
+          "title_safe": "1 fracthetafracbaplusb-1-11-theta d theta",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_438",
+          "article_number": 438,
+          "title_original": ") that the above series for $E_{a}$ is equal to",
+          "title_safe": "that the above series for Ea is equal to",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_57712",
+          "article_number": 57712,
+          "title_original": "\\ldots, \\text { and } \\Psi(x)=\\frac{d}{d x} \\log \\Gamma(1+x)$$",
+          "title_safe": "ldots text and Psixequalsfracdd x log Gamma1plusx",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_161",
+          "article_number": 161,
+          "title_original": "162).",
+          "title_safe": "162",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "x) \\times \\frac{a b}{a+b} \\\\",
+          "title_safe": "x times fraca baplusb",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}^{s=\\infty} \\frac{1}{2 s(2 s-1)} \\\\",
+          "title_safe": "sequalsinfty frac12 s2 s-1",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\& \\mathrm{c} .\\right) \\\\",
+          "title_safe": "frac12plusfrac13-frac14plusand mathrmc .right",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "=.69314718 a .",
+          "title_safe": "equals.69314718 a",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{b} \\sum_{s=1}^{s=\\infty} 1 \\\\",
+          "title_safe": "b sumsequals1sequalsinfty 1",
+          "page_start": 310,
+          "page_end": 309,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{6} \\frac{a^{2}}{b}",
+          "title_safe": "6 fraca2b",
+          "page_start": 310,
+          "page_end": 310,
+          "content": {
+            "raw_text": "\n--- Page 310 ---\n175.]\nTWO SPHERES IN CONTACT.\n275\nIn the same way we find for the charge of the sphere $B$,\n$$\\begin{aligned}\nE_{b} & =\\sum_{s=1}^{s=\\infty} \\frac{a b}{8(a+b)-b}-\\frac{a b}{a+b} \\sum_{s=-1}^{s=-\\infty} 1 \\\\\n& =\\sum_{s=1}^{s=\\infty} \\frac{a b^{2}}{8(a+b)\\{8(a+b)-b\\}} .\n\\end{aligned}$$\nThe expression for $E_{a}$ is obviously equal to\n$$\\frac{a b}{a+b} \\int_{0}^{1} \\frac{\\theta^{\\frac{b}{a+b}-1}-1}{1-\\theta} d \\theta$$\nin which form the result in this case was given by Poisson.\nIt may also be shewn (Legendre, Trait\u00e9 des Fonctions Ellip-\ntiques, ii. 438) that the above series for $E_{a}$ is equal to\n$$a-\\left\\{\\gamma+\\Psi\\left(\\frac{b}{a+b}\\right)\\right\\} \\frac{a b}{a+b}$$\nwhere\n$$\\gamma=.57712 \\ldots, \\text { and } \\Psi(x)=\\frac{d}{d x} \\log \\Gamma(1+x)$$\nThe values of $\\Psi$ have been tabulated by Gauss (Werke, Band iii,\npp. 161-162).\nIf we denote for an instant $b \\div(a+b)$ by $x$, we find for the\ndifference of the charges $E_{a}$ and $E_{b}$,\n$$\\begin{aligned}\n& -\\frac{d}{d x} \\log \\Gamma(x) \\Gamma(1-x) \\times \\frac{a b}{a+b} \\\\\n& =\\frac{a b}{a+b} \\times \\frac{d}{d x} \\log \\sin \\pi x \\\\\n& =\\frac{\\pi a b}{a+b} \\cot \\frac{\\pi b}{a+b}\n\\end{aligned}$$\nWhen the spheres are equal the charge of each for potential\nunity is\n$$\\begin{aligned}\nE_{a} & =a \\sum_{s=1}^{s=\\infty} \\frac{1}{2 s(2 s-1)} \\\\\n& =a\\left(1-\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\& \\mathrm{c} .\\right) \\\\\n& =a \\log _{e} 2=.69314718 a .\n\\end{aligned}$$\nWhen the sphere $A$ is very small.compared with the sphere $B$.\nthe charge on $A$ is\n$$\\begin{aligned}\nE_{a} & =\\frac{a^{2}}{b} \\sum_{s=1}^{s=\\infty} 1 \\\\\n\\text { or } \\quad E_{a} & =\\frac{\\pi^{2}}{6} \\frac{a^{2}}{b}\n\\end{aligned}$$\nT 2\n",
+            "mathpix_markdown": "\n--- Page 310 ---\n\n\nIn the same way we find for the charge of the sphere $B$,\n\n$$\\begin{aligned}\nE_{b} & =\\sum_{s=1}^{s=\\infty} \\frac{a b}{8(a+b)-b}-\\frac{a b}{a+b} \\sum_{s=-1}^{s=-\\infty} 1 \\\\\n& =\\sum_{s=1}^{s=\\infty} \\frac{a b^{2}}{8(a+b)\\{8(a+b)-b\\}} .\n\\end{aligned}$$\n\n\nThe expression for $E_{a}$ is obviously equal to\n\n$$\\frac{a b}{a+b} \\int_{0}^{1} \\frac{\\theta^{\\frac{b}{a+b}-1}-1}{1-\\theta} d \\theta$$\n\nin which form the result in this case was given by Poisson.\n\nIt may also be shewn (Legendre, Trait\u00e9 des Fonctions Ellip\ntiques, ii. 438) that the above series for $E_{a}$ is equal to\n\n$$a-\\left\\{\\gamma+\\Psi\\left(\\frac{b}{a+b}\\right)\\right\\} \\frac{a b}{a+b}$$\n\nwhere\n\n$$\\gamma=.57712 \\ldots, \\text { and } \\Psi(x)=\\frac{d}{d x} \\log \\Gamma(1+x)$$\n\n\nThe values of $\\Psi$ have been tabulated by Gauss (Werke, Band iii,\n pp. 161-162).\n\n\nIf we denote for an instant $b \\div(a+b)$ by $x$, we find for the\n difference of the charges $E_{a}$ and $E_{b}$,\n\n$$\\begin{aligned}\n& -\\frac{d}{d x} \\log \\Gamma(x) \\Gamma(1-x) \\times \\frac{a b}{a+b} \\\\\n& =\\frac{a b}{a+b} \\times \\frac{d}{d x} \\log \\sin \\pi x \\\\\n& =\\frac{\\pi a b}{a+b} \\cot \\frac{\\pi b}{a+b}\n\\end{aligned}$$\n\n\nWhen the spheres are equal the charge of each for potential\n unity is\n\n$$\\begin{aligned}\nE_{a} & =a \\sum_{s=1}^{s=\\infty} \\frac{1}{2 s(2 s-1)} \\\\\n& =a\\left(1-\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\& \\mathrm{c} .\\right) \\\\\n& =a \\log _{e} 2=.69314718 a .\n\\end{aligned}$$\n\n\nWhen the sphere $A$ is very small.compared with the sphere $B$.\n the charge on $A$ is\n\n$$\\begin{aligned}\nE_{a} & =\\frac{a^{2}}{b} \\sum_{s=1}^{s=\\infty} 1 \\\\\n\\text { or } \\quad E_{a} & =\\frac{\\pi^{2}}{6} \\frac{a^{2}}{b}\n\\end{aligned}$$\n",
+            "structured_lines": [
+              {
+                "page": 310,
+                "line_number": 4,
+                "type": "text",
+                "content": "In the same way we find for the charge of the sphere $B$,",
+                "mathpix_content": "\n\nIn the same way we find for the charge of the sphere $B$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 8,
+                "type": "text",
+                "content": "The expression for $E_{a}$ is obviously equal to",
+                "mathpix_content": "\n\nThe expression for $E_{a}$ is obviously equal to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 11,
+                "type": "text",
+                "content": "in which form the result in this case was given by Poisson.",
+                "mathpix_content": "\nin which form the result in this case was given by Poisson.",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 310,
+                "line_number": 12,
+                "type": "text",
+                "content": "It may also be shewn (Legendre, Trait\u00e9 des Fonctions Ellip-",
+                "mathpix_content": "\nIt may also be shewn (Legendre, Trait\u00e9 des Fonctions Ellip",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 13,
+                "type": "text",
+                "content": "tiques, ii. 438) that the above series for $E_{a}$ is equal to",
+                "mathpix_content": "tiques, ii. 438) that the above series for $E_{a}$ is equal to",
+                "font_size": 27,
+                "confidence": 0.9975595474243164
+              },
+              {
+                "page": 310,
+                "line_number": 16,
+                "type": "text",
+                "content": "where",
+                "mathpix_content": "\nwhere",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 19,
+                "type": "text",
+                "content": "The values of $\\Psi$ have been tabulated by Gauss (Werke, Band iii,",
+                "mathpix_content": "\n\nThe values of $\\Psi$ have been tabulated by Gauss (Werke, Band iii,",
+                "font_size": 27,
+                "confidence": 0.9858465194702148
+              },
+              {
+                "page": 310,
+                "line_number": 20,
+                "type": "text",
+                "content": "pp. 161-162).",
+                "mathpix_content": " pp. 161-162).",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 21,
+                "type": "text",
+                "content": "If we denote for an instant $b \\div(a+b)$ by $x$, we find for the",
+                "mathpix_content": "\n\nIf we denote for an instant $b \\div(a+b)$ by $x$, we find for the",
+                "font_size": 27,
+                "confidence": 0.9394824504852295
+              },
+              {
+                "page": 310,
+                "line_number": 22,
+                "type": "text",
+                "content": "difference of the charges $E_{a}$ and $E_{b}$,",
+                "mathpix_content": " difference of the charges $E_{a}$ and $E_{b}$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 27,
+                "type": "text",
+                "content": "When the spheres are equal the charge of each for potential",
+                "mathpix_content": "\n\nWhen the spheres are equal the charge of each for potential",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 28,
+                "type": "text",
+                "content": "unity is",
+                "mathpix_content": " unity is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 310,
+                "line_number": 33,
+                "type": "text",
+                "content": "When the sphere $A$ is very small.compared with the sphere $B$.",
+                "mathpix_content": "\n\nWhen the sphere $A$ is very small.compared with the sphere $B$.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 310,
+                "line_number": 34,
+                "type": "text",
+                "content": "the charge on $A$ is",
+                "mathpix_content": " the charge on $A$ is",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

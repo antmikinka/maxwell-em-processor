@@ -1,0 +1,672 @@
+{
+  "chapter_id": "chapter_21",
+  "chapter_number": 101,
+  "title": "e.] We now come to the relation between $\\mathfrak{D}$ and $\\mathfrak{C}$.",
+  "page_start": 179,
+  "page_end": 179,
+  "articles": [
+    {
+      "article_id": "article_84",
+      "article_number": 84,
+      "title_original": ", half the sum of the products of the charges into their",
+      "title_safe": "half the sum of the products of the charges into their",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_84",
+      "article_number": 84,
+      "title_original": ", half the sum of the products of the charges into their",
+      "title_safe": "half the sum of the products of the charges into their",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_144",
+      "article_number": 144,
+      "title_original": "GENERAL THEOREMS.",
+      "title_safe": "GENERAL THEOREMS",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "d$.] The electric energy of the system is, as was shewn in",
+      "title_safe": "d. The electric energy of the system is as was shewn in",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_84",
+      "article_number": 84,
+      "title_original": ", half the sum of the products of the charges into their",
+      "title_safe": "half the sum of the products of the charges into their",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma(e \\Psi) \\\\",
+      "title_safe": "2 Sigmae Psi",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint \\rho \\Psi d x d y d z+\\frac{1}{2} \\iint \\sigma \\Psi d s \\\\",
+      "title_safe": "2 iiint rho Psi d x d y d zplusfrac12 iint sigma Psi d s",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint \\Psi\\left(\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}\\right) d x d y d z \\\\",
+      "title_safe": "2 iiint Psileftfracd fd xplusfracd gd yplusfracd hd zright d",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iint \\Psi(l f+m g+n h) d s",
+      "title_safe": "2 iint Psil fplusm gplusn h d s",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint\\left(f \\frac{d \\Psi}{d x}+g \\frac{d \\Psi}{d y}+h \\frac{d \\Psi}{d z}\\right) d x d y d z \\\\",
+      "title_safe": "2 iiintleftf fracd Psid xplusg fracd Psid yplush fracd Psid",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint(f P+g Q+h R) d x d y d z",
+      "title_safe": "2 iiintf Pplusg Qplush R d x d y d z",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "e.] We now come to the relation between $\\mathfrak{D}$ and $\\mathfrak{C}$.",
+      "title_safe": "e. We now come to the relation between mathfrakD and mathfra",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "d$.] The electric energy of the system is, as was shewn in",
+      "title_safe": "d. The electric energy of the system is as was shewn in",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_84",
+      "article_number": 84,
+      "title_original": ", half the sum of the products of the charges into their",
+      "title_safe": "half the sum of the products of the charges into their",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\Sigma(e \\Psi) \\\\",
+      "title_safe": "2 Sigmae Psi",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint \\rho \\Psi d x d y d z+\\frac{1}{2} \\iint \\sigma \\Psi d s \\\\",
+      "title_safe": "2 iiint rho Psi d x d y d zplusfrac12 iint sigma Psi d s",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint \\Psi\\left(\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}\\right) d x d y d z \\\\",
+      "title_safe": "2 iiint Psileftfracd fd xplusfracd gd yplusfracd hd zright d",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iint \\Psi(l f+m g+n h) d s",
+      "title_safe": "2 iint Psil fplusm gplusn h d s",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint\\left(f \\frac{d \\Psi}{d x}+g \\frac{d \\Psi}{d y}+h \\frac{d \\Psi}{d z}\\right) d x d y d z \\\\",
+      "title_safe": "2 iiintleftf fracd Psid xplusg fracd Psid yplush fracd Psid",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\iiint(f P+g Q+h R) d x d y d z",
+      "title_safe": "2 iiintf Pplusg Qplush R d x d y d z",
+      "page_start": 179,
+      "page_end": 178,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "e.] We now come to the relation between $\\mathfrak{D}$ and $\\mathfrak{C}$.",
+      "title_safe": "e. We now come to the relation between mathfrakD and mathfra",
+      "page_start": 179,
+      "page_end": 179,
+      "content": {
+        "raw_text": "\n--- Page 179 ---\n144\nGENERAL THEOREMS.\n[roi e.\nwhere $U_{\\nu}, U_{\\nu}{ }^{\\prime}$ are unit normals on the two sides of the surface,\nand $S$ indicates that the scalar part of the product is to be taken.\nWhen the surface is that of a conductor, $\\nu$ being the normal\ndrawn outwards, then since $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $\\mathfrak{D}^{\\prime}$ are zero, the equation\nis reduced to the form\n$$\\begin{aligned}\n\\sigma & =l f+m g+n h ; \\\\\n& =-S \\cdot U_{\\nu} \\mathfrak{D} .\n\\end{aligned}$$\nThe whole charge of the conductor is therefore\n$$\\begin{aligned}\ne & =\\iint(l f+m g+n h) d s \\\\\n& =-\\iint S \\cdot U_{\\nu} \\mathfrak{D} d s\n\\end{aligned}$$\n$101 d$.] The electric energy of the system is, as was shewn in\nArt. 84, half the sum of the products of the charges into their\nrespective potentials. Calling this energy W,\n$$\\begin{aligned}\nW & =\\frac{1}{2} \\Sigma(e \\Psi) \\\\\n& =\\frac{1}{2} \\iiint \\rho \\Psi d x d y d z+\\frac{1}{2} \\iint \\sigma \\Psi d s \\\\\n& =\\frac{1}{2} \\iiint \\Psi\\left(\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}\\right) d x d y d z \\\\\n& +\\frac{1}{2} \\iint \\Psi(l f+m g+n h) d s\n\\end{aligned}$$\nwhere the volume-integral is to be taken throughout the electric\nfield, and the surface-integral over the surfaces of the con-\nductors.\nWriting in Theorem III, Art. 21,\n$$X=\\Psi f, \\quad Y=\\Psi g, \\quad Z=\\Psi h$$\nwe find, if $l, m, n$ are the direction cosines of the normal facing\nthe surface into the field,\n$$\\begin{aligned}\n\\iint \\Psi(l f+m g+n h) d s= & -\\iiint \\Psi\\left(\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}\\right) d x d y d z \\\\\n& -\\iiint\\left(f \\frac{d \\Psi}{d x}+g \\frac{d \\Psi}{d y}+h \\frac{d \\Psi}{d z}\\right) d x d y d z\n\\end{aligned}$$\nSubstituting this value for the surface-integral in $W$ we find\n$$\\begin{aligned}\nW & =-\\frac{1}{2} \\iiint\\left(f \\frac{d \\Psi}{d x}+g \\frac{d \\Psi}{d y}+h \\frac{d \\Psi}{d z}\\right) d x d y d z \\\\\n\\text { or } \\quad W & =\\frac{1}{2} \\iiint(f P+g Q+h R) d x d y d z\n\\end{aligned}$$\n101 e.] We now come to the relation between $\\mathfrak{D}$ and $\\mathfrak{C}$.\nThe unit of electricity is usually defined with reference to\n",
+        "mathpix_markdown": "\n--- Page 179 ---\n\nwhere $U_{\\nu}, U_{\\nu}{ }^{\\prime}$ are unit normals on the two sides of the surface,\n and $S$ indicates that the scalar part of the product is to be taken.\n\n\nWhen the surface is that of a conductor, $\\nu$ being the normal\n drawn outwards, then since $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $\\mathfrak{D}^{\\prime}$ are zero, the equation\n is reduced to the form\n\n$$\\begin{aligned}\n\\sigma & =l f+m g+n h ; \\\\\n& =-S \\cdot U_{\\nu} \\mathfrak{D} .\n\\end{aligned}$$\n\n\nThe whole charge of the conductor is therefore\n\n$$\\begin{aligned}\ne & =\\iint(l f+m g+n h) d s \\\\\n& =-\\iint S \\cdot U_{\\nu} \\mathfrak{D} d s\n\\end{aligned}$$\n\n$101 d$.] The electric energy of the system is, as was shewn in\n Art. 84, half the sum of the products of the charges into their\n respective potentials. Calling this energy W,\n\n$$\\begin{aligned}\nW & =\\frac{1}{2} \\Sigma(e \\Psi) \\\\\n& =\\frac{1}{2} \\iiint \\rho \\Psi d x d y d z+\\frac{1}{2} \\iint \\sigma \\Psi d s \\\\\n& =\\frac{1}{2} \\iiint \\Psi\\left(\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}\\right) d x d y d z \\\\\n& +\\frac{1}{2} \\iint \\Psi(l f+m g+n h) d s\n\\end{aligned}$$\n\nwhere the volume-integral is to be taken throughout the electric\n field, and the surface-integral over the surfaces of the con\nductors.\n\n\nWriting in Theorem III, Art. 21,\n\n$$X=\\Psi f, \\quad Y=\\Psi g, \\quad Z=\\Psi h$$\n\nwe find, if $l, m, n$ are the direction cosines of the normal facing\n the surface into the field,\n\n$$\\begin{aligned}\n\\iint \\Psi(l f+m g+n h) d s= & -\\iiint \\Psi\\left(\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}\\right) d x d y d z \\\\\n& -\\iiint\\left(f \\frac{d \\Psi}{d x}+g \\frac{d \\Psi}{d y}+h \\frac{d \\Psi}{d z}\\right) d x d y d z\n\\end{aligned}$$\n\n\nSubstituting this value for the surface-integral in $W$ we find\n\n$$\\begin{aligned}\nW & =-\\frac{1}{2} \\iiint\\left(f \\frac{d \\Psi}{d x}+g \\frac{d \\Psi}{d y}+h \\frac{d \\Psi}{d z}\\right) d x d y d z \\\\\n\\text { or } \\quad W & =\\frac{1}{2} \\iiint(f P+g Q+h R) d x d y d z\n\\end{aligned}$$\n\n\n101 e.] We now come to the relation between $\\mathfrak{D}$ and $\\mathfrak{C}$.\n\nThe unit of electricity is usually defined with reference to\n",
+        "structured_lines": [
+          {
+            "page": 179,
+            "line_number": 4,
+            "type": "text",
+            "content": "where $U_{\\nu}, U_{\\nu}{ }^{\\prime}$ are unit normals on the two sides of the surface,",
+            "mathpix_content": "\nwhere $U_{\\nu}, U_{\\nu}{ }^{\\prime}$ are unit normals on the two sides of the surface,",
+            "font_size": 27,
+            "confidence": 0.7738412530365482
+          },
+          {
+            "page": 179,
+            "line_number": 5,
+            "type": "text",
+            "content": "and $S$ indicates that the scalar part of the product is to be taken.",
+            "mathpix_content": " and $S$ indicates that the scalar part of the product is to be taken.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 6,
+            "type": "text",
+            "content": "When the surface is that of a conductor, $\\nu$ being the normal",
+            "mathpix_content": "\n\nWhen the surface is that of a conductor, $\\nu$ being the normal",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 7,
+            "type": "text",
+            "content": "drawn outwards, then since $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $\\mathfrak{D}^{\\prime}$ are zero, the equation",
+            "mathpix_content": " drawn outwards, then since $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $\\mathfrak{D}^{\\prime}$ are zero, the equation",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 8,
+            "type": "text",
+            "content": "is reduced to the form",
+            "mathpix_content": " is reduced to the form",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 12,
+            "type": "text",
+            "content": "The whole charge of the conductor is therefore",
+            "mathpix_content": "\n\nThe whole charge of the conductor is therefore",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 16,
+            "type": "text",
+            "content": "$101 d$.] The electric energy of the system is, as was shewn in",
+            "mathpix_content": "\n$101 d$.] The electric energy of the system is, as was shewn in",
+            "font_size": 27,
+            "confidence": 0.9970703125
+          },
+          {
+            "page": 179,
+            "line_number": 17,
+            "type": "text",
+            "content": "Art. 84, half the sum of the products of the charges into their",
+            "mathpix_content": " Art. 84, half the sum of the products of the charges into their",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 18,
+            "type": "text",
+            "content": "respective potentials. Calling this energy W,",
+            "mathpix_content": " respective potentials. Calling this energy W,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 24,
+            "type": "text",
+            "content": "where the volume-integral is to be taken throughout the electric",
+            "mathpix_content": "\nwhere the volume-integral is to be taken throughout the electric",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 25,
+            "type": "text",
+            "content": "field, and the surface-integral over the surfaces of the con-",
+            "mathpix_content": " field, and the surface-integral over the surfaces of the con",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 26,
+            "type": "text",
+            "content": "ductors.",
+            "mathpix_content": "ductors.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 27,
+            "type": "text",
+            "content": "Writing in Theorem III, Art. 21,",
+            "mathpix_content": "\n\nWriting in Theorem III, Art. 21,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 30,
+            "type": "text",
+            "content": "we find, if $l, m, n$ are the direction cosines of the normal facing",
+            "mathpix_content": "\nwe find, if $l, m, n$ are the direction cosines of the normal facing",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 179,
+            "line_number": 31,
+            "type": "text",
+            "content": "the surface into the field,",
+            "mathpix_content": " the surface into the field,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 35,
+            "type": "text",
+            "content": "Substituting this value for the surface-integral in $W$ we find",
+            "mathpix_content": "\n\nSubstituting this value for the surface-integral in $W$ we find",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 179,
+            "line_number": 39,
+            "type": "text",
+            "content": "101 e.] We now come to the relation between $\\mathfrak{D}$ and $\\mathfrak{C}$.",
+            "mathpix_content": "\n\n101 e.] We now come to the relation between $\\mathfrak{D}$ and $\\mathfrak{C}$.",
+            "font_size": 27,
+            "confidence": 0.44598652776430114
+          },
+          {
+            "page": 179,
+            "line_number": 40,
+            "type": "text",
+            "content": "The unit of electricity is usually defined with reference to",
+            "mathpix_content": "\nThe unit of electricity is usually defined with reference to",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

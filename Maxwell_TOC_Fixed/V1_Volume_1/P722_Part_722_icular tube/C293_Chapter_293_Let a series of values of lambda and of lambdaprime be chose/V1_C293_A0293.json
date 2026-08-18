@@ -1,0 +1,255 @@
+{
+  "article_id": "article_293",
+  "article_number": 293,
+  "title_original": ".] Let a series of values of $\\lambda$ and of $\\lambda^{\\prime}$ be chosen, the suc",
+  "title_safe": "Let a series of values of lambda and of lambdaprime be cho",
+  "page_start": 449,
+  "page_end": 449,
+  "content": {
+    "raw_text": "\n--- Page 449 ---\n414\nCONDUCTION IN THREE DIMENSIONS.\n[293.\n291.] If $\\delta S$ denotes the section of a tube of flow by a plane\nnormal to $x$, we have by the theory of the change of the inde-\npendent variables,\n$$\\delta \\lambda . \\delta \\lambda^{\\prime}=\\delta S\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right)$$\n(13)\nand by the definition of the components of the current\n(14)\nHence $\\left.\\left.\\quad u=L\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right) \\cdot 1\\right\\} \\begin{array}{lrl}\\text { Similarly } & v & =L\\left(\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d x}-\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d z}\\right), \\\\ w & =L\\left(\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d y}-\\frac{d \\lambda}{d y} \\frac{d \\lambda}{d x}\\right) \\cdot\\end{array}\\right\\}$\n$$\\left.\\begin{array}{c}\nu d S=L \\delta \\lambda \\cdot \\delta \\lambda^{\\prime} \\\\\nu=L\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right) \\cdot \\\\\nv=L\\left(\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d x}-\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d z}\\right) \\\\\nw=L\\left(\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d y}-\\frac{d \\lambda}{d y} \\frac{d \\lambda}{d x}\\right) \\cdot\n\\end{array}\\right\\}$$\n(15)\n292.] It is always possible when one of the functions $\\lambda$ or $\\lambda^{\\prime}$\nis known, to determine the other so that $L$ may be equal to\nunity. For instance, let us take the plane of $y z$, and draw upon\nit a series of equidistant lines parallel to $y$, to represent the\nsections of the family $\\lambda^{\\prime}$ by this plane. In other words, let the\nfunction $\\lambda^{\\prime}$ be determined by the condition that when $x=0$\n$\\lambda^{\\prime}=z$. If we then make $L=1$, and therefore (when $x=0$ )\n$$\\lambda=\\int u d y$$\nthen in the plane $(x=0)$ the amount of electricity which passes\nthrough any portion will be\n$$\\iint u d y d z=\\iint d \\lambda d \\lambda^{\\prime}$$\n(16)\nThe nature of the sections of the surfaces of flow by the plane\nof $y z$ being determined, the form of the surfaces elsewhere is\ndetermined by the conditions (8) and (9). The two functions $\\lambda$\nand $\\lambda^{\\prime}$ thus determined are sufficient to determine the current at\nevery point by equations (15), unity being substituted for $L$.\n\nOn Lines of Flow.\n293.] Let a series of values of $\\lambda$ and of $\\lambda^{\\prime}$ be chosen, the suc-\ncessive differences in each series being unity. The two series of\nsurfaces defined by these values will divide space into a system\nof quadrilateral tubes through each of which there will be a unit\ncurrent. By assuming the unit sufficiently small, the details of\nthe current may be expressed by these tubes with any desired\n",
+    "mathpix_markdown": "\n--- Page 449 ---\n\n291.] If $\\delta S$ denotes the section of a tube of flow by a plane\n normal to $x$, we have by the theory of the change of the inde\npendent variables,\n\n$$\\begin{equation*}\n\\delta \\lambda . \\delta \\lambda^{\\prime}=\\delta S\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right) \\tag{13}\n\\end{equation*}$$\n\nand by the definition of the components of the current\n\n\nHence $\\left.\\left.\\quad u=L\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right) \\cdot 1\\right\\} \\begin{array}{lrl}\\text { Similarly } & v & =L\\left(\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d x}-\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d z}\\right), \\\\ w & =L\\left(\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d y}-\\frac{d \\lambda}{d y} \\frac{d \\lambda}{d x}\\right) \\cdot\\end{array}\\right\\}$\n\n$$\\left.\\begin{array}{c}\nu d S=L \\delta \\lambda \\cdot \\delta \\lambda^{\\prime} \\\\\nu=L\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right) \\cdot  \\tag{15}\\\\\nv=L\\left(\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d x}-\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d z}\\right) \\\\\nw=L\\left(\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d y}-\\frac{d \\lambda}{d y} \\frac{d \\lambda}{d x}\\right) \\cdot\n\\end{array}\\right\\}$$\n\n292.] It is always possible when one of the functions $\\lambda$ or $\\lambda^{\\prime}$\n is known, to determine the other so that $L$ may be equal to\n unity. For instance, let us take the plane of $y z$, and draw upon\n it a series of equidistant lines parallel to $y$, to represent the\n sections of the family $\\lambda^{\\prime}$ by this plane. In other words, let the\n function $\\lambda^{\\prime}$ be determined by the condition that when $x=0\n \\lambda^{\\prime}=z$. If we then make $L=1$, and therefore (when $x=0$ )\n\n$$\\lambda=\\int u d y$$\n\nthen in the plane $(x=0)$ the amount of electricity which passes\n through any portion will be\n\n$$\\begin{equation*}\n\\iint u d y d z=\\iint d \\lambda d \\lambda^{\\prime} \\tag{16}\n\\end{equation*}$$\n\n\nThe nature of the sections of the surfaces of flow by the plane\n of $y z$ being determined, the form of the surfaces elsewhere is\n determined by the conditions (8) and (9). The two functions $\\lambda$\n and $\\lambda^{\\prime}$ thus determined are sufficient to determine the current at\n every point by equations (15), unity being substituted for $L$.\n\n\n\\section*{On Lines of Flow.}\n\n293.] Let a series of values of $\\lambda$ and of $\\lambda^{\\prime}$ be chosen, the suc\ncessive differences in each series being unity. The two series of\n surfaces defined by these values will divide space into a system\n of quadrilateral tubes through each of which there will be a unit\n current. By assuming the unit sufficiently small, the details of\n the current may be expressed by these tubes with any desired\n",
+    "structured_lines": [
+      {
+        "page": 449,
+        "line_number": 4,
+        "type": "text",
+        "content": "291.] If $\\delta S$ denotes the section of a tube of flow by a plane",
+        "mathpix_content": "\n291.] If $\\delta S$ denotes the section of a tube of flow by a plane",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 5,
+        "type": "text",
+        "content": "normal to $x$, we have by the theory of the change of the inde-",
+        "mathpix_content": " normal to $x$, we have by the theory of the change of the inde",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 6,
+        "type": "text",
+        "content": "pendent variables,",
+        "mathpix_content": "pendent variables,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 10,
+        "type": "text",
+        "content": "and by the definition of the components of the current",
+        "mathpix_content": "\nand by the definition of the components of the current",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 12,
+        "type": "text",
+        "content": "Hence $\\left.\\left.\\quad u=L\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right) \\cdot 1\\right\\} \\begin{array}{lrl}\\text { Similarly } & v & =L\\left(\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d x}-\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d z}\\right), \\\\ w & =L\\left(\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d y}-\\frac{d \\lambda}{d y} \\frac{d \\lambda}{d x}\\right) \\cdot\\end{array}\\right\\}$",
+        "mathpix_content": "\n\nHence $\\left.\\left.\\quad u=L\\left(\\frac{d \\lambda}{d y} \\frac{d \\lambda^{\\prime}}{d z}-\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d y}\\right) \\cdot 1\\right\\} \\begin{array}{lrl}\\text { Similarly } & v & =L\\left(\\frac{d \\lambda}{d z} \\frac{d \\lambda^{\\prime}}{d x}-\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d z}\\right), \\\\ w & =L\\left(\\frac{d \\lambda}{d x} \\frac{d \\lambda^{\\prime}}{d y}-\\frac{d \\lambda}{d y} \\frac{d \\lambda}{d x}\\right) \\cdot\\end{array}\\right\\}$",
+        "font_size": 27,
+        "confidence": 0.12524570927627354
+      },
+      {
+        "page": 449,
+        "line_number": 18,
+        "type": "text",
+        "content": "292.] It is always possible when one of the functions $\\lambda$ or $\\lambda^{\\prime}$",
+        "mathpix_content": "\n292.] It is always possible when one of the functions $\\lambda$ or $\\lambda^{\\prime}$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 19,
+        "type": "text",
+        "content": "is known, to determine the other so that $L$ may be equal to",
+        "mathpix_content": " is known, to determine the other so that $L$ may be equal to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 20,
+        "type": "text",
+        "content": "unity. For instance, let us take the plane of $y z$, and draw upon",
+        "mathpix_content": " unity. For instance, let us take the plane of $y z$, and draw upon",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 21,
+        "type": "text",
+        "content": "it a series of equidistant lines parallel to $y$, to represent the",
+        "mathpix_content": " it a series of equidistant lines parallel to $y$, to represent the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 22,
+        "type": "text",
+        "content": "sections of the family $\\lambda^{\\prime}$ by this plane. In other words, let the",
+        "mathpix_content": " sections of the family $\\lambda^{\\prime}$ by this plane. In other words, let the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 23,
+        "type": "text",
+        "content": "function $\\lambda^{\\prime}$ be determined by the condition that when $x=0$",
+        "mathpix_content": " function $\\lambda^{\\prime}$ be determined by the condition that when $x=0",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 24,
+        "type": "text",
+        "content": "$\\lambda^{\\prime}=z$. If we then make $L=1$, and therefore (when $x=0$ )",
+        "mathpix_content": " \\lambda^{\\prime}=z$. If we then make $L=1$, and therefore (when $x=0$ )",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 27,
+        "type": "text",
+        "content": "then in the plane $(x=0)$ the amount of electricity which passes",
+        "mathpix_content": "\nthen in the plane $(x=0)$ the amount of electricity which passes",
+        "font_size": 27,
+        "confidence": 0.9931640625
+      },
+      {
+        "page": 449,
+        "line_number": 28,
+        "type": "text",
+        "content": "through any portion will be",
+        "mathpix_content": " through any portion will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 32,
+        "type": "text",
+        "content": "The nature of the sections of the surfaces of flow by the plane",
+        "mathpix_content": "\n\nThe nature of the sections of the surfaces of flow by the plane",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 33,
+        "type": "text",
+        "content": "of $y z$ being determined, the form of the surfaces elsewhere is",
+        "mathpix_content": " of $y z$ being determined, the form of the surfaces elsewhere is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 34,
+        "type": "text",
+        "content": "determined by the conditions (8) and (9). The two functions $\\lambda$",
+        "mathpix_content": " determined by the conditions (8) and (9). The two functions $\\lambda$",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 449,
+        "line_number": 35,
+        "type": "text",
+        "content": "and $\\lambda^{\\prime}$ thus determined are sufficient to determine the current at",
+        "mathpix_content": " and $\\lambda^{\\prime}$ thus determined are sufficient to determine the current at",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 449,
+        "line_number": 36,
+        "type": "text",
+        "content": "every point by equations (15), unity being substituted for $L$.",
+        "mathpix_content": " every point by equations (15), unity being substituted for $L$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 38,
+        "type": "text",
+        "content": "On Lines of Flow.",
+        "mathpix_content": "\n\n\\section*{On Lines of Flow.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 39,
+        "type": "text",
+        "content": "293.] Let a series of values of $\\lambda$ and of $\\lambda^{\\prime}$ be chosen, the suc-",
+        "mathpix_content": "\n293.] Let a series of values of $\\lambda$ and of $\\lambda^{\\prime}$ be chosen, the suc",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 449,
+        "line_number": 40,
+        "type": "text",
+        "content": "cessive differences in each series being unity. The two series of",
+        "mathpix_content": "cessive differences in each series being unity. The two series of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 41,
+        "type": "text",
+        "content": "surfaces defined by these values will divide space into a system",
+        "mathpix_content": " surfaces defined by these values will divide space into a system",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 42,
+        "type": "text",
+        "content": "of quadrilateral tubes through each of which there will be a unit",
+        "mathpix_content": " of quadrilateral tubes through each of which there will be a unit",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 43,
+        "type": "text",
+        "content": "current. By assuming the unit sufficiently small, the details of",
+        "mathpix_content": " current. By assuming the unit sufficiently small, the details of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 449,
+        "line_number": 44,
+        "type": "text",
+        "content": "the current may be expressed by these tubes with any desired",
+        "mathpix_content": " the current may be expressed by these tubes with any desired",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

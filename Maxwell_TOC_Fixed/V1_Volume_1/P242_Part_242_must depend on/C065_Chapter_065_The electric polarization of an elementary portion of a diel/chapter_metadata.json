@@ -1,0 +1,439 @@
+{
+  "chapter_id": "chapter_12",
+  "chapter_number": 65,
+  "title": "The electric polarization of an elementary portion of a dielectric",
+  "page_start": 100,
+  "page_end": 100,
+  "articles": [
+    {
+      "article_id": "article_60",
+      "article_number": 60,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 100,
+      "page_end": 99,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_60",
+      "article_number": 60,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 100,
+      "page_end": 99,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_65",
+      "article_number": 65,
+      "title_original": "The electric polarization of an elementary portion of a dielectric",
+      "title_safe": "The electric polarization of an elementary portion of a diel",
+      "page_start": 100,
+      "page_end": 100,
+      "content": {
+        "raw_text": "\n--- Page 100 ---\n60.]\nSTRESS IN DIELECTRICS.\n65\nThe electric polarization of an elementary portion of a dielectric\nis a forced state into which the medium is thrown by the action\nof electromotive force, and which disappears when that force is\nremoved. We may conceive it to consist in what we may call\nan electric displacement, produced by the electromotive intensity.\nWhen the electromotive force acts on a conducting medium it\nproduces a current through it, but if the medium is a non-con-\nductor or dielectric, the current cannot \\{continue to\\} flow through\nthe medium, but the electricity is displaced within the medium\nin the direction of the electromotive intensity, the extent of this\ndisplacement depending on the magnitude of the electromotive\nintensity, so that if the electromotive intensity increases or\ndiminishes, the electric displacement increases or diminishes in\nthe same ratio.\nThe amount of the displacement is measured by the quantity\nof electricity which crosses unit of area, while the displacement\nincreases from zero to its actual amount. This, therefore, is the\nmeasure of the electric polarization.\nThe analogy between the action of electromotive intensity in\nproducing electric displacement and of ordinary mechanical force\nin producing the displacement of an elastic body is so obvious that\nI have ventured to call the ratio of the electromotive intensity to\nthe corresponding electric displacement, the coefficient of electric\nelasticity of the medium. This coefficient is different in different\nmedia, and varies inversely as the specific inductive capacity of\neach medium.\nThe variations of electric displacement evidently constitute\nelectric currents *. These currents, bowever, can only exist\nduring the variation of the displacement, and therefore, since\nthe displacement cannot exceed a certain value without causing\ndisruptive discharge, they cannot be continued indefinitely in\nthe same direction, like the currents through conductors.\nIn tourmaline, and other pyro-electric crystals, it is probable\nthat a state of electric polarization exists, which depends upon\ntemperature, and does not require an external electromotive force\nto produce it. If the interior of a body were in a state of\npermanent electric polarization, the outside would gradually\nbecome charged in such a manner as to neutralize the action of\nthe internal polarization for all points outside the body. This\n* \\{If we assume the views enunciated in the preceding paragraph.\\}\nVOL. I.\nF\n",
+        "mathpix_markdown": "\n--- Page 100 ---\n\n\nThe electric polarization of an elementary portion of a dielectric\n is a forced state into which the medium is thrown by the action\n of electromotive force, and which disappears when that force is\n removed. We may conceive it to consist in what we may call\n an electric displacement, produced by the electromotive intensity.\n When the electromotive force acts on a conducting medium it\n produces a current through it, but if the medium is a non-con\nductor or dielectric, the current cannot \\{continue to\\} flow through\n the medium, but the electricity is displaced within the medium\n in the direction of the electromotive intensity, the extent of this\n displacement depending on the magnitude of the electromotive\n intensity, so that if the electromotive intensity increases or\n diminishes, the electric displacement increases or diminishes in\n the same ratio.\n\n\nThe amount of the displacement is measured by the quantity\n of electricity which crosses unit of area, while the displacement\n increases from zero to its actual amount. This, therefore, is the\n measure of the electric polarization.\n\n\nThe analogy between the action of electromotive intensity in\n producing electric displacement and of ordinary mechanical force\n in producing the displacement of an elastic body is so obvious that\n I have ventured to call the ratio of the electromotive intensity to\n the corresponding electric displacement, the coefficient of electric\n elasticity of the medium. This coefficient is different in different\n media, and varies inversely as the specific inductive capacity of\n each medium.\n\n\nThe variations of electric displacement evidently constitute\n electric currents *. These currents, bowever, can only exist\n during the variation of the displacement, and therefore, since\n the displacement cannot exceed a certain value without causing\n disruptive discharge, they cannot be continued indefinitely in\n the same direction, like the currents through conductors.\n\n\nIn tourmaline, and other pyro-electric crystals, it is probable\n that a state of electric polarization exists, which depends upon\n temperature, and does not require an external electromotive force\n to produce it. If the interior of a body were in a state of\n permanent electric polarization, the outside would gradually\n become charged in such a manner as to neutralize the action of\n the internal polarization for all points outside the body. This\n\n* \\{If we assume the views enunciated in the preceding paragraph.\\}\n\n\nVOL. I.\n",
+        "structured_lines": [
+          {
+            "page": 100,
+            "line_number": 4,
+            "type": "text",
+            "content": "The electric polarization of an elementary portion of a dielectric",
+            "mathpix_content": "\n\nThe electric polarization of an elementary portion of a dielectric",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 5,
+            "type": "text",
+            "content": "is a forced state into which the medium is thrown by the action",
+            "mathpix_content": " is a forced state into which the medium is thrown by the action",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 6,
+            "type": "text",
+            "content": "of electromotive force, and which disappears when that force is",
+            "mathpix_content": " of electromotive force, and which disappears when that force is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 7,
+            "type": "text",
+            "content": "removed. We may conceive it to consist in what we may call",
+            "mathpix_content": " removed. We may conceive it to consist in what we may call",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 8,
+            "type": "text",
+            "content": "an electric displacement, produced by the electromotive intensity.",
+            "mathpix_content": " an electric displacement, produced by the electromotive intensity.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 9,
+            "type": "text",
+            "content": "When the electromotive force acts on a conducting medium it",
+            "mathpix_content": " When the electromotive force acts on a conducting medium it",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 10,
+            "type": "text",
+            "content": "produces a current through it, but if the medium is a non-con-",
+            "mathpix_content": " produces a current through it, but if the medium is a non-con",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 11,
+            "type": "text",
+            "content": "ductor or dielectric, the current cannot \\{continue to\\} flow through",
+            "mathpix_content": "ductor or dielectric, the current cannot \\{continue to\\} flow through",
+            "font_size": 27,
+            "confidence": 0.636533260345459
+          },
+          {
+            "page": 100,
+            "line_number": 12,
+            "type": "text",
+            "content": "the medium, but the electricity is displaced within the medium",
+            "mathpix_content": " the medium, but the electricity is displaced within the medium",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 13,
+            "type": "text",
+            "content": "in the direction of the electromotive intensity, the extent of this",
+            "mathpix_content": " in the direction of the electromotive intensity, the extent of this",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 14,
+            "type": "text",
+            "content": "displacement depending on the magnitude of the electromotive",
+            "mathpix_content": " displacement depending on the magnitude of the electromotive",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 15,
+            "type": "text",
+            "content": "intensity, so that if the electromotive intensity increases or",
+            "mathpix_content": " intensity, so that if the electromotive intensity increases or",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 16,
+            "type": "text",
+            "content": "diminishes, the electric displacement increases or diminishes in",
+            "mathpix_content": " diminishes, the electric displacement increases or diminishes in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 17,
+            "type": "text",
+            "content": "the same ratio.",
+            "mathpix_content": " the same ratio.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 18,
+            "type": "text",
+            "content": "The amount of the displacement is measured by the quantity",
+            "mathpix_content": "\n\nThe amount of the displacement is measured by the quantity",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 100,
+            "line_number": 19,
+            "type": "text",
+            "content": "of electricity which crosses unit of area, while the displacement",
+            "mathpix_content": " of electricity which crosses unit of area, while the displacement",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 20,
+            "type": "text",
+            "content": "increases from zero to its actual amount. This, therefore, is the",
+            "mathpix_content": " increases from zero to its actual amount. This, therefore, is the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 21,
+            "type": "text",
+            "content": "measure of the electric polarization.",
+            "mathpix_content": " measure of the electric polarization.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 22,
+            "type": "text",
+            "content": "The analogy between the action of electromotive intensity in",
+            "mathpix_content": "\n\nThe analogy between the action of electromotive intensity in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 23,
+            "type": "text",
+            "content": "producing electric displacement and of ordinary mechanical force",
+            "mathpix_content": " producing electric displacement and of ordinary mechanical force",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 24,
+            "type": "text",
+            "content": "in producing the displacement of an elastic body is so obvious that",
+            "mathpix_content": " in producing the displacement of an elastic body is so obvious that",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 25,
+            "type": "text",
+            "content": "I have ventured to call the ratio of the electromotive intensity to",
+            "mathpix_content": " I have ventured to call the ratio of the electromotive intensity to",
+            "font_size": 27,
+            "confidence": 0.85986328125
+          },
+          {
+            "page": 100,
+            "line_number": 26,
+            "type": "text",
+            "content": "the corresponding electric displacement, the coefficient of electric",
+            "mathpix_content": " the corresponding electric displacement, the coefficient of electric",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 27,
+            "type": "text",
+            "content": "elasticity of the medium. This coefficient is different in different",
+            "mathpix_content": " elasticity of the medium. This coefficient is different in different",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 28,
+            "type": "text",
+            "content": "media, and varies inversely as the specific inductive capacity of",
+            "mathpix_content": " media, and varies inversely as the specific inductive capacity of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 29,
+            "type": "text",
+            "content": "each medium.",
+            "mathpix_content": " each medium.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 30,
+            "type": "text",
+            "content": "The variations of electric displacement evidently constitute",
+            "mathpix_content": "\n\nThe variations of electric displacement evidently constitute",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 31,
+            "type": "text",
+            "content": "electric currents *. These currents, bowever, can only exist",
+            "mathpix_content": " electric currents *. These currents, bowever, can only exist",
+            "font_size": 27,
+            "confidence": 0.9795570373535156
+          },
+          {
+            "page": 100,
+            "line_number": 32,
+            "type": "text",
+            "content": "during the variation of the displacement, and therefore, since",
+            "mathpix_content": " during the variation of the displacement, and therefore, since",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 33,
+            "type": "text",
+            "content": "the displacement cannot exceed a certain value without causing",
+            "mathpix_content": " the displacement cannot exceed a certain value without causing",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 34,
+            "type": "text",
+            "content": "disruptive discharge, they cannot be continued indefinitely in",
+            "mathpix_content": " disruptive discharge, they cannot be continued indefinitely in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 35,
+            "type": "text",
+            "content": "the same direction, like the currents through conductors.",
+            "mathpix_content": " the same direction, like the currents through conductors.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 36,
+            "type": "text",
+            "content": "In tourmaline, and other pyro-electric crystals, it is probable",
+            "mathpix_content": "\n\nIn tourmaline, and other pyro-electric crystals, it is probable",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 37,
+            "type": "text",
+            "content": "that a state of electric polarization exists, which depends upon",
+            "mathpix_content": " that a state of electric polarization exists, which depends upon",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 38,
+            "type": "text",
+            "content": "temperature, and does not require an external electromotive force",
+            "mathpix_content": " temperature, and does not require an external electromotive force",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 39,
+            "type": "text",
+            "content": "to produce it. If the interior of a body were in a state of",
+            "mathpix_content": " to produce it. If the interior of a body were in a state of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 40,
+            "type": "text",
+            "content": "permanent electric polarization, the outside would gradually",
+            "mathpix_content": " permanent electric polarization, the outside would gradually",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 41,
+            "type": "text",
+            "content": "become charged in such a manner as to neutralize the action of",
+            "mathpix_content": " become charged in such a manner as to neutralize the action of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 42,
+            "type": "text",
+            "content": "the internal polarization for all points outside the body. This",
+            "mathpix_content": " the internal polarization for all points outside the body. This",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 100,
+            "line_number": 43,
+            "type": "text",
+            "content": "* \\{If we assume the views enunciated in the preceding paragraph.\\}",
+            "mathpix_content": "\n* \\{If we assume the views enunciated in the preceding paragraph.\\}",
+            "font_size": 21,
+            "confidence": 0.6572389602661133
+          },
+          {
+            "page": 100,
+            "line_number": 44,
+            "type": "text",
+            "content": "VOL. I.",
+            "mathpix_content": "\n\nVOL. I.",
+            "font_size": 21,
+            "confidence": 0.9990236759185791
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

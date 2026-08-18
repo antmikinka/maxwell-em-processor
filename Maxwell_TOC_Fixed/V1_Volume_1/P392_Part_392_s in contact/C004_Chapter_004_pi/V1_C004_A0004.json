@@ -1,0 +1,381 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "\\pi$,",
+  "title_safe": "pi",
+  "page_start": 201,
+  "page_end": 201,
+  "content": {
+    "raw_text": "\n--- Page 201 ---\n166\nMECHANICAL ACTION.\n[iii.\nexplains, by the action of the consecutive parts of the medium,\nphenomena which were formerly supposed to be explicable only\nby direct action at a distance.\n111.] I have not been able to make the next step, namely, to\naccount by mechanical considerations for these stresses in the\ndielectric. I therefore leave the theory at this point, merely\nstating what are the other parts of the phenomenon of induction\nin dielectrics.\nI. Electric Displacement. When induction is transmitted\nthrough a dielectric, there is in the first place a displacement of\nelectricity in the direction of the induction. For instance, in a\nLeyden jar, of which the inner coating is charged positively and\nthe outer coating negatively, the direction of the displacement\nof positive electricity in the substance of the glass is from within\noutwards.\nAny increase of this displacement is equivalent, during the\ntime of increase, to a current of positive electricity from within\noutwards, and any diminution of the displacement is equivalent\nto a current in the opposite direction.\nThe whole quantity of electricity displaced through any area\nof a surface fixed in the dielectric is measured by the quantity\nwhich we have already investigated (Art. 75) as the surface-\nintegral of induction through that area, multiplied by $K / 4 \\pi$,\nwhere $K$ is the specific inductive capacity of the dielectric.\nII. Surface charge of the particles of the dielect-ic. Conceive\nany portion of the dielectric, large or small, to be separated (in\nimagination) from the rest by a closed surface, then we must\nsuppose that on every elementary portion of this surface there\nis a charge measured by the total displacement of electricity\nthrough that element of surface reckoned invurds.\nIn the case of the Leyden jar of which the inner coating is\ncharged positively, any portion of the glass will have its inner\nside charged positively and its outer side negatively. If this\nportion be entirely in the interior of the glass, its surface charge\nwill be neutralized by the opposite charge of the parts in contact\nwith it, but if it be in contact with a conducting body, which is\nincapable of maintaining in itself the inductive state, the surface\ncharge will not be neutralized, but will constitute that apparent\ncharge which is commonly called the Charge of the Conductor.\nThe charge therefore at the bounding surface of a conductor\n",
+    "mathpix_markdown": "\n--- Page 201 ---\n\nexplains, by the action of the consecutive parts of the medium,\n phenomena which were formerly supposed to be explicable only\n by direct action at a distance.\n\n111.] I have not been able to make the next step, namely, to\n account by mechanical considerations for these stresses in the\n dielectric. I therefore leave the theory at this point, merely\n stating what are the other parts of the phenomenon of induction\n in dielectrics.\n\nI. Electric Displacement. When induction is transmitted\n through a dielectric, there is in the first place a displacement of\n electricity in the direction of the induction. For instance, in a\n Leyden jar, of which the inner coating is charged positively and\n the outer coating negatively, the direction of the displacement\n of positive electricity in the substance of the glass is from within\n outwards.\n\n\nAny increase of this displacement is equivalent, during the\n time of increase, to a current of positive electricity from within\n outwards, and any diminution of the displacement is equivalent\n to a current in the opposite direction.\n\n\nThe whole quantity of electricity displaced through any area\n of a surface fixed in the dielectric is measured by the quantity\n which we have already investigated (Art. 75) as the surface\nintegral of induction through that area, multiplied by $K / 4 \\pi$,\n where $K$ is the specific inductive capacity of the dielectric.\n\nII. Surface charge of the particles of the dielect-ic. Conceive\n any portion of the dielectric, large or small, to be separated (in\n imagination) from the rest by a closed surface, then we must\n suppose that on every elementary portion of this surface there\n is a charge measured by the total displacement of electricity\n through that element of surface reckoned invurds.\n\n\nIn the case of the Leyden jar of which the inner coating is\n charged positively, any portion of the glass will have its inner\n side charged positively and its outer side negatively. If this\n portion be entirely in the interior of the glass, its surface charge\n will be neutralized by the opposite charge of the parts in contact\n with it, but if it be in contact with a conducting body, which is\n incapable of maintaining in itself the inductive state, the surface\n charge will not be neutralized, but will constitute that apparent\n charge which is commonly called the Charge of the Conductor.\n\n\nThe charge therefore at the bounding surface of a conductor\n",
+    "structured_lines": [
+      {
+        "page": 201,
+        "line_number": 4,
+        "type": "text",
+        "content": "explains, by the action of the consecutive parts of the medium,",
+        "mathpix_content": "\nexplains, by the action of the consecutive parts of the medium,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 5,
+        "type": "text",
+        "content": "phenomena which were formerly supposed to be explicable only",
+        "mathpix_content": " phenomena which were formerly supposed to be explicable only",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 6,
+        "type": "text",
+        "content": "by direct action at a distance.",
+        "mathpix_content": " by direct action at a distance.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 7,
+        "type": "text",
+        "content": "111.] I have not been able to make the next step, namely, to",
+        "mathpix_content": "\n111.] I have not been able to make the next step, namely, to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 8,
+        "type": "text",
+        "content": "account by mechanical considerations for these stresses in the",
+        "mathpix_content": " account by mechanical considerations for these stresses in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 9,
+        "type": "text",
+        "content": "dielectric. I therefore leave the theory at this point, merely",
+        "mathpix_content": " dielectric. I therefore leave the theory at this point, merely",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 10,
+        "type": "text",
+        "content": "stating what are the other parts of the phenomenon of induction",
+        "mathpix_content": " stating what are the other parts of the phenomenon of induction",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 11,
+        "type": "text",
+        "content": "in dielectrics.",
+        "mathpix_content": " in dielectrics.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 12,
+        "type": "text",
+        "content": "I. Electric Displacement. When induction is transmitted",
+        "mathpix_content": "\nI. Electric Displacement. When induction is transmitted",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 13,
+        "type": "text",
+        "content": "through a dielectric, there is in the first place a displacement of",
+        "mathpix_content": " through a dielectric, there is in the first place a displacement of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 14,
+        "type": "text",
+        "content": "electricity in the direction of the induction. For instance, in a",
+        "mathpix_content": " electricity in the direction of the induction. For instance, in a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 15,
+        "type": "text",
+        "content": "Leyden jar, of which the inner coating is charged positively and",
+        "mathpix_content": " Leyden jar, of which the inner coating is charged positively and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 16,
+        "type": "text",
+        "content": "the outer coating negatively, the direction of the displacement",
+        "mathpix_content": " the outer coating negatively, the direction of the displacement",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 17,
+        "type": "text",
+        "content": "of positive electricity in the substance of the glass is from within",
+        "mathpix_content": " of positive electricity in the substance of the glass is from within",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 18,
+        "type": "text",
+        "content": "outwards.",
+        "mathpix_content": " outwards.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 19,
+        "type": "text",
+        "content": "Any increase of this displacement is equivalent, during the",
+        "mathpix_content": "\n\nAny increase of this displacement is equivalent, during the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 20,
+        "type": "text",
+        "content": "time of increase, to a current of positive electricity from within",
+        "mathpix_content": " time of increase, to a current of positive electricity from within",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 21,
+        "type": "text",
+        "content": "outwards, and any diminution of the displacement is equivalent",
+        "mathpix_content": " outwards, and any diminution of the displacement is equivalent",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 22,
+        "type": "text",
+        "content": "to a current in the opposite direction.",
+        "mathpix_content": " to a current in the opposite direction.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 23,
+        "type": "text",
+        "content": "The whole quantity of electricity displaced through any area",
+        "mathpix_content": "\n\nThe whole quantity of electricity displaced through any area",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 24,
+        "type": "text",
+        "content": "of a surface fixed in the dielectric is measured by the quantity",
+        "mathpix_content": " of a surface fixed in the dielectric is measured by the quantity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 25,
+        "type": "text",
+        "content": "which we have already investigated (Art. 75) as the surface-",
+        "mathpix_content": " which we have already investigated (Art. 75) as the surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 26,
+        "type": "text",
+        "content": "integral of induction through that area, multiplied by $K / 4 \\pi$,",
+        "mathpix_content": "integral of induction through that area, multiplied by $K / 4 \\pi$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 27,
+        "type": "text",
+        "content": "where $K$ is the specific inductive capacity of the dielectric.",
+        "mathpix_content": " where $K$ is the specific inductive capacity of the dielectric.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 28,
+        "type": "text",
+        "content": "II. Surface charge of the particles of the dielect-ic. Conceive",
+        "mathpix_content": "\nII. Surface charge of the particles of the dielect-ic. Conceive",
+        "font_size": 27,
+        "confidence": 0.8063826550471596
+      },
+      {
+        "page": 201,
+        "line_number": 29,
+        "type": "text",
+        "content": "any portion of the dielectric, large or small, to be separated (in",
+        "mathpix_content": " any portion of the dielectric, large or small, to be separated (in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 30,
+        "type": "text",
+        "content": "imagination) from the rest by a closed surface, then we must",
+        "mathpix_content": " imagination) from the rest by a closed surface, then we must",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 31,
+        "type": "text",
+        "content": "suppose that on every elementary portion of this surface there",
+        "mathpix_content": " suppose that on every elementary portion of this surface there",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 32,
+        "type": "text",
+        "content": "is a charge measured by the total displacement of electricity",
+        "mathpix_content": " is a charge measured by the total displacement of electricity",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 201,
+        "line_number": 33,
+        "type": "text",
+        "content": "through that element of surface reckoned invurds.",
+        "mathpix_content": " through that element of surface reckoned invurds.",
+        "font_size": 27,
+        "confidence": 0.8531512436456978
+      },
+      {
+        "page": 201,
+        "line_number": 34,
+        "type": "text",
+        "content": "In the case of the Leyden jar of which the inner coating is",
+        "mathpix_content": "\n\nIn the case of the Leyden jar of which the inner coating is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 35,
+        "type": "text",
+        "content": "charged positively, any portion of the glass will have its inner",
+        "mathpix_content": " charged positively, any portion of the glass will have its inner",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 36,
+        "type": "text",
+        "content": "side charged positively and its outer side negatively. If this",
+        "mathpix_content": " side charged positively and its outer side negatively. If this",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 37,
+        "type": "text",
+        "content": "portion be entirely in the interior of the glass, its surface charge",
+        "mathpix_content": " portion be entirely in the interior of the glass, its surface charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 38,
+        "type": "text",
+        "content": "will be neutralized by the opposite charge of the parts in contact",
+        "mathpix_content": " will be neutralized by the opposite charge of the parts in contact",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 39,
+        "type": "text",
+        "content": "with it, but if it be in contact with a conducting body, which is",
+        "mathpix_content": " with it, but if it be in contact with a conducting body, which is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 40,
+        "type": "text",
+        "content": "incapable of maintaining in itself the inductive state, the surface",
+        "mathpix_content": " incapable of maintaining in itself the inductive state, the surface",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 201,
+        "line_number": 41,
+        "type": "text",
+        "content": "charge will not be neutralized, but will constitute that apparent",
+        "mathpix_content": " charge will not be neutralized, but will constitute that apparent",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 42,
+        "type": "text",
+        "content": "charge which is commonly called the Charge of the Conductor.",
+        "mathpix_content": " charge which is commonly called the Charge of the Conductor.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 201,
+        "line_number": 43,
+        "type": "text",
+        "content": "The charge therefore at the bounding surface of a conductor",
+        "mathpix_content": "\n\nThe charge therefore at the bounding surface of a conductor",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

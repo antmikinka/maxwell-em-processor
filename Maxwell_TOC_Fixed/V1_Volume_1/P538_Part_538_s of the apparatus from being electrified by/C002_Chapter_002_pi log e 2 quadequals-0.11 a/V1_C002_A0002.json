@@ -1,0 +1,318 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "\\pi} \\log _{e} 2, \\quad=-0.11 a,$$",
+  "title_safe": "pi log e 2 quadequals-0.11 a",
+  "page_start": 348,
+  "page_end": 348,
+  "content": {
+    "raw_text": "\n--- Page 348 ---\n205.]\nINDUCTION THROUGH A GRATING.\n313\nWhen the wires are infinitely thin, $\\alpha$ becomes infinite, and the\nterms in which it is the denominator disappear, so that the case\nis reduced to that of two parallel planes without a grating in-\nterposed.\nIf the grating is in metallic communication with one of the\nplanes, say the first, $V=V_{1}$, and the right-hand side of the\nequation for $\\sigma_{1}$ becomes $V_{1}-V_{2}$. Hence the density $\\sigma_{1}$ induced\non the first plane when the grating is interposed is to that\nwhich would be induced on it if the grating were removed,\nthe second plane being maintained at the same potential, as\n1 to $1+\\frac{b_{1} b_{2}}{a\\left(b_{1}+b_{2}\\right)}$.\nWe should have found the same value for the effect of the\ngrating in diminishing the electrical influence of the first surface\non the second, if we had supposed the grating connected with\nthe second surface. This is evident since $b_{1}$ and $b_{2}$ enter into\nthe expression in the same way. It is also a direct result of the\ntheorem of Art. 88.\nThe induction of the one electrified plane on the other through\nthe grating is the same as if the grating were removed, and the\ndistance between the planes increased from $b_{1}+b_{2}$ to\n$$b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a} .$$\nIf the two planes are kept at potential zero, and the grating\nelectrified to a given potential, the quantity of electricity on the\ngrating will be to that which would be induced on a plane of\nequal area placed in the same position as\n$$b_{1} b_{2}: b_{1} b_{2}+a\\left(b_{1}+b_{2}\\right) .$$\nThis investigation is approximate only when $b_{1}$ and $b_{2}$ are\nlarge compared with $a$, and when $a$ is large compared with $c$.\nThe quantity $a$ is a line which may be of any magnitude. It\nbecomes infinite when $c$ is indefinitely diminished.\nIf we suppose $c=\\frac{1}{2} \\alpha$ there will be no apertures between the\nwires of the grating, and therefore there will be no induction\nthrough it. We ought therefore to have for this case $a=0$.\nThe formula (11), however, gives in this case\n$$a=-\\frac{a}{2 \\pi} \\log _{e} 2, \\quad=-0.11 a,$$\nwhich is evidently erroneous, as the induction can never be\n",
+    "mathpix_markdown": "\n--- Page 348 ---\n\n\nWhen the wires are infinitely thin, $\\alpha$ becomes infinite, and the\n terms in which it is the denominator disappear, so that the case\n is reduced to that of two parallel planes without a grating in\nterposed.\n\n\nIf the grating is in metallic communication with one of the\n planes, say the first, $V=V_{1}$, and the right-hand side of the\n equation for $\\sigma_{1}$ becomes $V_{1}-V_{2}$. Hence the density $\\sigma_{1}$ induced\n on the first plane when the grating is interposed is to that\n which would be induced on it if the grating were removed,\n the second plane being maintained at the same potential, as\n 1 to $1+\\frac{b_{1} b_{2}}{a\\left(b_{1}+b_{2}\\right)}$.\n\n\nWe should have found the same value for the effect of the\n grating in diminishing the electrical influence of the first surface\n on the second, if we had supposed the grating connected with\n the second surface. This is evident since $b_{1}$ and $b_{2}$ enter into\n the expression in the same way. It is also a direct result of the\n theorem of Art. 88.\n\n\nThe induction of the one electrified plane on the other through\n the grating is the same as if the grating were removed, and the\n distance between the planes increased from $b_{1}+b_{2}$ to\n\n$$b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a} .$$\n\n\nIf the two planes are kept at potential zero, and the grating\n electrified to a given potential, the quantity of electricity on the\n grating will be to that which would be induced on a plane of\n equal area placed in the same position as\n\n$$b_{1} b_{2}: b_{1} b_{2}+a\\left(b_{1}+b_{2}\\right) .$$\n\n\nThis investigation is approximate only when $b_{1}$ and $b_{2}$ are\n large compared with $a$, and when $a$ is large compared with $c$.\n The quantity $a$ is a line which may be of any magnitude. It\n becomes infinite when $c$ is indefinitely diminished.\n\n\nIf we suppose $c=\\frac{1}{2} \\alpha$ there will be no apertures between the\n wires of the grating, and therefore there will be no induction\n through it. We ought therefore to have for this case $a=0$.\n The formula (11), however, gives in this case\n\n$$a=-\\frac{a}{2 \\pi} \\log _{e} 2, \\quad=-0.11 a,$$\n\nwhich is evidently erroneous, as the induction can never be\n",
+    "structured_lines": [
+      {
+        "page": 348,
+        "line_number": 4,
+        "type": "text",
+        "content": "When the wires are infinitely thin, $\\alpha$ becomes infinite, and the",
+        "mathpix_content": "\n\nWhen the wires are infinitely thin, $\\alpha$ becomes infinite, and the",
+        "font_size": 34,
+        "confidence": 0.9718029499053955
+      },
+      {
+        "page": 348,
+        "line_number": 5,
+        "type": "text",
+        "content": "terms in which it is the denominator disappear, so that the case",
+        "mathpix_content": " terms in which it is the denominator disappear, so that the case",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 6,
+        "type": "text",
+        "content": "is reduced to that of two parallel planes without a grating in-",
+        "mathpix_content": " is reduced to that of two parallel planes without a grating in",
+        "font_size": 34,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 348,
+        "line_number": 7,
+        "type": "text",
+        "content": "terposed.",
+        "mathpix_content": "terposed.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 8,
+        "type": "text",
+        "content": "If the grating is in metallic communication with one of the",
+        "mathpix_content": "\n\nIf the grating is in metallic communication with one of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 9,
+        "type": "text",
+        "content": "planes, say the first, $V=V_{1}$, and the right-hand side of the",
+        "mathpix_content": " planes, say the first, $V=V_{1}$, and the right-hand side of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 10,
+        "type": "text",
+        "content": "equation for $\\sigma_{1}$ becomes $V_{1}-V_{2}$. Hence the density $\\sigma_{1}$ induced",
+        "mathpix_content": " equation for $\\sigma_{1}$ becomes $V_{1}-V_{2}$. Hence the density $\\sigma_{1}$ induced",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 11,
+        "type": "text",
+        "content": "on the first plane when the grating is interposed is to that",
+        "mathpix_content": " on the first plane when the grating is interposed is to that",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 12,
+        "type": "text",
+        "content": "which would be induced on it if the grating were removed,",
+        "mathpix_content": " which would be induced on it if the grating were removed,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 13,
+        "type": "text",
+        "content": "the second plane being maintained at the same potential, as",
+        "mathpix_content": " the second plane being maintained at the same potential, as",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 14,
+        "type": "text",
+        "content": "1 to $1+\\frac{b_{1} b_{2}}{a\\left(b_{1}+b_{2}\\right)}$.",
+        "mathpix_content": " 1 to $1+\\frac{b_{1} b_{2}}{a\\left(b_{1}+b_{2}\\right)}$.",
+        "font_size": 34,
+        "confidence": 0.9786288738250732
+      },
+      {
+        "page": 348,
+        "line_number": 15,
+        "type": "text",
+        "content": "We should have found the same value for the effect of the",
+        "mathpix_content": "\n\nWe should have found the same value for the effect of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 16,
+        "type": "text",
+        "content": "grating in diminishing the electrical influence of the first surface",
+        "mathpix_content": " grating in diminishing the electrical influence of the first surface",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 17,
+        "type": "text",
+        "content": "on the second, if we had supposed the grating connected with",
+        "mathpix_content": " on the second, if we had supposed the grating connected with",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 18,
+        "type": "text",
+        "content": "the second surface. This is evident since $b_{1}$ and $b_{2}$ enter into",
+        "mathpix_content": " the second surface. This is evident since $b_{1}$ and $b_{2}$ enter into",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 19,
+        "type": "text",
+        "content": "the expression in the same way. It is also a direct result of the",
+        "mathpix_content": " the expression in the same way. It is also a direct result of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 20,
+        "type": "text",
+        "content": "theorem of Art. 88.",
+        "mathpix_content": " theorem of Art. 88.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 21,
+        "type": "text",
+        "content": "The induction of the one electrified plane on the other through",
+        "mathpix_content": "\n\nThe induction of the one electrified plane on the other through",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 22,
+        "type": "text",
+        "content": "the grating is the same as if the grating were removed, and the",
+        "mathpix_content": " the grating is the same as if the grating were removed, and the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 23,
+        "type": "text",
+        "content": "distance between the planes increased from $b_{1}+b_{2}$ to",
+        "mathpix_content": " distance between the planes increased from $b_{1}+b_{2}$ to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 26,
+        "type": "text",
+        "content": "If the two planes are kept at potential zero, and the grating",
+        "mathpix_content": "\n\nIf the two planes are kept at potential zero, and the grating",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 27,
+        "type": "text",
+        "content": "electrified to a given potential, the quantity of electricity on the",
+        "mathpix_content": " electrified to a given potential, the quantity of electricity on the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 28,
+        "type": "text",
+        "content": "grating will be to that which would be induced on a plane of",
+        "mathpix_content": " grating will be to that which would be induced on a plane of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 29,
+        "type": "text",
+        "content": "equal area placed in the same position as",
+        "mathpix_content": " equal area placed in the same position as",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 32,
+        "type": "text",
+        "content": "This investigation is approximate only when $b_{1}$ and $b_{2}$ are",
+        "mathpix_content": "\n\nThis investigation is approximate only when $b_{1}$ and $b_{2}$ are",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 33,
+        "type": "text",
+        "content": "large compared with $a$, and when $a$ is large compared with $c$.",
+        "mathpix_content": " large compared with $a$, and when $a$ is large compared with $c$.",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 348,
+        "line_number": 34,
+        "type": "text",
+        "content": "The quantity $a$ is a line which may be of any magnitude. It",
+        "mathpix_content": " The quantity $a$ is a line which may be of any magnitude. It",
+        "font_size": 34,
+        "confidence": 0.5
+      },
+      {
+        "page": 348,
+        "line_number": 35,
+        "type": "text",
+        "content": "becomes infinite when $c$ is indefinitely diminished.",
+        "mathpix_content": " becomes infinite when $c$ is indefinitely diminished.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 36,
+        "type": "text",
+        "content": "If we suppose $c=\\frac{1}{2} \\alpha$ there will be no apertures between the",
+        "mathpix_content": "\n\nIf we suppose $c=\\frac{1}{2} \\alpha$ there will be no apertures between the",
+        "font_size": 34,
+        "confidence": 0.7373046875
+      },
+      {
+        "page": 348,
+        "line_number": 37,
+        "type": "text",
+        "content": "wires of the grating, and therefore there will be no induction",
+        "mathpix_content": " wires of the grating, and therefore there will be no induction",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 38,
+        "type": "text",
+        "content": "through it. We ought therefore to have for this case $a=0$.",
+        "mathpix_content": " through it. We ought therefore to have for this case $a=0$.",
+        "font_size": 34,
+        "confidence": 0.9814453125
+      },
+      {
+        "page": 348,
+        "line_number": 39,
+        "type": "text",
+        "content": "The formula (11), however, gives in this case",
+        "mathpix_content": " The formula (11), however, gives in this case",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 348,
+        "line_number": 42,
+        "type": "text",
+        "content": "which is evidently erroneous, as the induction can never be",
+        "mathpix_content": "\nwhich is evidently erroneous, as the induction can never be",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

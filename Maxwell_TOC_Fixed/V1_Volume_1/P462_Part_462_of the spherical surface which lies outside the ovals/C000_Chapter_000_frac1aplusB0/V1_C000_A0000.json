@@ -1,0 +1,273 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "} \\frac{1}{a}+B_{0},$$",
+  "title_safe": "frac1aplusB0",
+  "page_start": 257,
+  "page_end": 257,
+  "content": {
+    "raw_text": "\n--- Page 257 ---\n222\nSPHERICAL HARMONICS.\n[145b.\nExpanding the powers of $r$ in terms of $a$ and $F$, and neglecting\nproducts of $F$ into $A_{n}$, we find\n$$4 \\pi \\sigma=A_{0} \\frac{1}{e^{2}}(1-2 F)+\\text { \\&c. }+(n+1) A_{n} \\frac{1}{a^{n+2}} Y_{n}$$\n(10)\nExpanding $F$ in spherical harmonics and giving $A_{n}$ its value\nas already found, we obtain\n$$4 \\pi \\sigma=A_{0} \\frac{1}{a^{2}}\\left[1+f_{2} Y_{2}+2 f_{3} Y_{3}+\\text { \\&c. }+(n-1) f_{n} Y_{n}\\right]$$\n(11)\nHence, if the surface differs from that of a sphere by a thir\nstratum whose depth varies according to the values of a spherical\nharmonic of order $n$, the ratio of the difference of the surface\ndensities at any two points to their sum will be $n-1$ times\nthe ratio of the difference of the radii at the same two points to\ntheir sum.\n145 b.] If the nearly spherical conductor (1) is acted on by\nexternal electric forces, let the potential, $U$, arising from these\nforces be expanded in a series of spherical harmonics of positive\ndegree, having their origin at the centre of volume of the\nconductor\n$$U=B_{0}+B_{1} r Y_{1}^{\\prime}+B_{2} r^{2} Y_{2}^{\\prime}+\\text { \\&c. }+B_{n} r^{\\prime \\prime} Y_{n}^{\\prime}+\\ldots,$$\n(12)\nwhere the accent over $Y$ indicates that this harmonic is not\nnecessarily of the same type as the harmonic of the same order\nin the expansion of $F$.\nIf the conductor had been accurately spherical, the potential\narising from its surface charge at a point outside the conductor\nwould have been\n$$V=A_{0} \\frac{1}{r}-B_{1} \\frac{a^{3}}{r^{2}} Y_{1}^{\\prime}-\\text { \\&c. }-B_{n} \\frac{a^{2 n+1}}{r^{n+1}} Y_{n}^{\\prime}-\\ldots$$\n(13)\nLet the actual potential arising from the surface charge be\n$V+W$, where\n$$W=C_{1} \\frac{1}{r^{2}} Y_{1}^{\\prime \\prime}+\\text { \\&c. }+C_{m} \\frac{1}{r^{m+1}} Y_{m}^{\\prime \\prime}+\\ldots ;$$\n(14)\nthe harmonics with a double accent being different from those\noccurring either in $F$ or in $U$, and the coefficients $C$ being small\nbecause $F$ is small.\nThe condition to be fulfilled is that, when $r=a(1+F)$,\n$$U+V+W=\\mathrm{constant}=A_{0} \\frac{1}{a}+B_{0},$$\nthe potential of the conductor.\n",
+    "mathpix_markdown": "\n--- Page 257 ---\n\n\nExpanding the powers of $r$ in terms of $a$ and $F$, and neglecting\n products of $F$ into $A_{n}$, we find\n\n$$\\begin{equation*}\n4 \\pi \\sigma=A_{0} \\frac{1}{e^{2}}(1-2 F)+\\text { \\&c. }+(n+1) A_{n} \\frac{1}{a^{n+2}} Y_{n} \\tag{10}\n\\end{equation*}$$\n\n\nExpanding $F$ in spherical harmonics and giving $A_{n}$ its value\n as already found, we obtain\n\n$$\\begin{equation*}\n4 \\pi \\sigma=A_{0} \\frac{1}{a^{2}}\\left[1+f_{2} Y_{2}+2 f_{3} Y_{3}+\\text { \\&c. }+(n-1) f_{n} Y_{n}\\right] \\tag{11}\n\\end{equation*}$$\n\n\nHence, if the surface differs from that of a sphere by a thir\n stratum whose depth varies according to the values of a spherical\n harmonic of order $n$, the ratio of the difference of the surface\n densities at any two points to their sum will be $n-1$ times\n the ratio of the difference of the radii at the same two points to\n their sum.\n\n\n145 b.] If the nearly spherical conductor (1) is acted on by\n external electric forces, let the potential, $U$, arising from these\n forces be expanded in a series of spherical harmonics of positive\n degree, having their origin at the centre of volume of the\n conductor\n\n$$\\begin{equation*}\nU=B_{0}+B_{1} r Y_{1}^{\\prime}+B_{2} r^{2} Y_{2}^{\\prime}+\\text { \\&c. }+B_{n} r^{\\prime \\prime} Y_{n}^{\\prime}+\\ldots, \\tag{12}\n\\end{equation*}$$\n\nwhere the accent over $Y$ indicates that this harmonic is not\n necessarily of the same type as the harmonic of the same order\n in the expansion of $F$.\n\n\nIf the conductor had been accurately spherical, the potential\n arising from its surface charge at a point outside the conductor\n would have been\n\n$$\\begin{equation*}\nV=A_{0} \\frac{1}{r}-B_{1} \\frac{a^{3}}{r^{2}} Y_{1}^{\\prime}-\\text { \\&c. }-B_{n} \\frac{a^{2 n+1}}{r^{n+1}} Y_{n}^{\\prime}-\\ldots \\tag{13}\n\\end{equation*}$$\n\n\nLet the actual potential arising from the surface charge be\n $V+W$, where\n\n$$\\begin{equation*}\nW=C_{1} \\frac{1}{r^{2}} Y_{1}^{\\prime \\prime}+\\text { \\&c. }+C_{m} \\frac{1}{r^{m+1}} Y_{m}^{\\prime \\prime}+\\ldots ; \\tag{14}\n\\end{equation*}$$\n\nthe harmonics with a double accent being different from those\n occurring either in $F$ or in $U$, and the coefficients $C$ being small\n because $F$ is small.\n\n\nThe condition to be fulfilled is that, when $r=a(1+F)$,\n\n$$U+V+W=\\mathrm{constant}=A_{0} \\frac{1}{a}+B_{0},$$\n\nthe potential of the conductor.\n",
+    "structured_lines": [
+      {
+        "page": 257,
+        "line_number": 4,
+        "type": "text",
+        "content": "Expanding the powers of $r$ in terms of $a$ and $F$, and neglecting",
+        "mathpix_content": "\n\nExpanding the powers of $r$ in terms of $a$ and $F$, and neglecting",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 5,
+        "type": "text",
+        "content": "products of $F$ into $A_{n}$, we find",
+        "mathpix_content": " products of $F$ into $A_{n}$, we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 9,
+        "type": "text",
+        "content": "Expanding $F$ in spherical harmonics and giving $A_{n}$ its value",
+        "mathpix_content": "\n\nExpanding $F$ in spherical harmonics and giving $A_{n}$ its value",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 10,
+        "type": "text",
+        "content": "as already found, we obtain",
+        "mathpix_content": " as already found, we obtain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 14,
+        "type": "text",
+        "content": "Hence, if the surface differs from that of a sphere by a thir",
+        "mathpix_content": "\n\nHence, if the surface differs from that of a sphere by a thir",
+        "font_size": 27,
+        "confidence": 0.62158203125
+      },
+      {
+        "page": 257,
+        "line_number": 15,
+        "type": "text",
+        "content": "stratum whose depth varies according to the values of a spherical",
+        "mathpix_content": " stratum whose depth varies according to the values of a spherical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 16,
+        "type": "text",
+        "content": "harmonic of order $n$, the ratio of the difference of the surface",
+        "mathpix_content": " harmonic of order $n$, the ratio of the difference of the surface",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 257,
+        "line_number": 17,
+        "type": "text",
+        "content": "densities at any two points to their sum will be $n-1$ times",
+        "mathpix_content": " densities at any two points to their sum will be $n-1$ times",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 18,
+        "type": "text",
+        "content": "the ratio of the difference of the radii at the same two points to",
+        "mathpix_content": " the ratio of the difference of the radii at the same two points to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 19,
+        "type": "text",
+        "content": "their sum.",
+        "mathpix_content": " their sum.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 20,
+        "type": "text",
+        "content": "145 b.] If the nearly spherical conductor (1) is acted on by",
+        "mathpix_content": "\n\n145 b.] If the nearly spherical conductor (1) is acted on by",
+        "font_size": 27,
+        "confidence": 0.8749897900270298
+      },
+      {
+        "page": 257,
+        "line_number": 21,
+        "type": "text",
+        "content": "external electric forces, let the potential, $U$, arising from these",
+        "mathpix_content": " external electric forces, let the potential, $U$, arising from these",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 257,
+        "line_number": 22,
+        "type": "text",
+        "content": "forces be expanded in a series of spherical harmonics of positive",
+        "mathpix_content": " forces be expanded in a series of spherical harmonics of positive",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 257,
+        "line_number": 23,
+        "type": "text",
+        "content": "degree, having their origin at the centre of volume of the",
+        "mathpix_content": " degree, having their origin at the centre of volume of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 24,
+        "type": "text",
+        "content": "conductor",
+        "mathpix_content": " conductor",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 28,
+        "type": "text",
+        "content": "where the accent over $Y$ indicates that this harmonic is not",
+        "mathpix_content": "\nwhere the accent over $Y$ indicates that this harmonic is not",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 29,
+        "type": "text",
+        "content": "necessarily of the same type as the harmonic of the same order",
+        "mathpix_content": " necessarily of the same type as the harmonic of the same order",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 30,
+        "type": "text",
+        "content": "in the expansion of $F$.",
+        "mathpix_content": " in the expansion of $F$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 31,
+        "type": "text",
+        "content": "If the conductor had been accurately spherical, the potential",
+        "mathpix_content": "\n\nIf the conductor had been accurately spherical, the potential",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 257,
+        "line_number": 32,
+        "type": "text",
+        "content": "arising from its surface charge at a point outside the conductor",
+        "mathpix_content": " arising from its surface charge at a point outside the conductor",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 33,
+        "type": "text",
+        "content": "would have been",
+        "mathpix_content": " would have been",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 37,
+        "type": "text",
+        "content": "Let the actual potential arising from the surface charge be",
+        "mathpix_content": "\n\nLet the actual potential arising from the surface charge be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 38,
+        "type": "text",
+        "content": "$V+W$, where",
+        "mathpix_content": " $V+W$, where",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 42,
+        "type": "text",
+        "content": "the harmonics with a double accent being different from those",
+        "mathpix_content": "\nthe harmonics with a double accent being different from those",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 43,
+        "type": "text",
+        "content": "occurring either in $F$ or in $U$, and the coefficients $C$ being small",
+        "mathpix_content": " occurring either in $F$ or in $U$, and the coefficients $C$ being small",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 44,
+        "type": "text",
+        "content": "because $F$ is small.",
+        "mathpix_content": " because $F$ is small.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 45,
+        "type": "text",
+        "content": "The condition to be fulfilled is that, when $r=a(1+F)$,",
+        "mathpix_content": "\n\nThe condition to be fulfilled is that, when $r=a(1+F)$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 257,
+        "line_number": 48,
+        "type": "text",
+        "content": "the potential of the conductor.",
+        "mathpix_content": "\nthe potential of the conductor.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

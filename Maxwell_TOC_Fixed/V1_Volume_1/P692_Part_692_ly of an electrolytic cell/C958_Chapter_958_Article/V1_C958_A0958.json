@@ -1,0 +1,390 @@
+{
+  "article_id": "article_958",
+  "article_number": 958,
+  "title_original": ".\\}",
+  "title_safe": "Article",
+  "page_start": 420,
+  "page_end": 420,
+  "content": {
+    "raw_text": "\n--- Page 420 ---\n263.]\nCALOULATION OF ELEOTROMOTIVE FORCE.\n385\nthrough the wire. Hence, the heat developed by the passage of\none unit of electricity is in this case measured by the electro-\nmotive force. But this heat is that which one electrochemical\nequivalent of the substance generates, whether in the cell or in\nthe wire, while undergoing the given chemical process.\nHence the following important theorem, first proved by Thom-\nson (Phil. Mag., Dec. 1851) :-\n' The electromotive force of an electrochemical apparatus is\nin absolute measure equal to the mechanical equivalent of the\nchemical action on one electrochemical equivalent of the sub-\nstance *.'\nThe thermal equivalents of many chemical actions have been\ndetermined by Andrews, Hess, Favre and Silbermann, Thomsen,\n\\&c., and from these their mechanical equivalents can be deduced\nby multiplication by the mechanical equivalent of heat.\nThis theorem not only enables us to calculate from purely\nthermal data the electromotive forces of different voltaic arrange-\nments, and the electromotive forces required to effect electrolysis\nin different cases, but affords the means of actually measuring\nchemical affinity.\nIt has long been known that chemical affinity, or the tendency\nwhich exists towards the going on of a certain chemical change,\nis stronger in some cases than in others, but no proper measure\nof this tendency could be made till it was shewn that this\ntendency in certain cases is exactly equivalent to a certain\nelectromotive force, and can therefore be measured according to\nthe very same principles used in the measurement of electro-\nmotive forces.\nChemical affinity being therefore, in certain cases, reduced to\nthe form of a measurable quantity, the whole theory of chemical\nprocesses, of the rate at which they go on, of the displacement of\none substance by another, \\&c., becomes much more intelligible\nthan when chemical affinity was regarded as a quality sui generis,\nand irreducible to numerical measurement.\n\n* \\{This theorem only applies when there are no reversible thermal effects in\nthe cell; when these exist the relation between the electromotive force $p$ and the\nmechanical equivalent of the chemical action, $\\omega$, is expressed by the relation\n$$p-\\theta \\frac{d p}{d \\theta}=\\omega,$$\nwhere $\\theta$ is the absolute temperature of the cell. v. Helmholtz, 'Die Thermodynamik\nchemischer Vorg\u00e4nge.' Wissenschaftliche Abhandlungen, ii. p. 958.\\}\nVOL. I.\nC C\n",
+    "mathpix_markdown": "\n--- Page 420 ---\n\nthrough the wire. Hence, the heat developed by the passage of\n one unit of electricity is in this case measured by the electro\nmotive force. But this heat is that which one electrochemical\n equivalent of the substance generates, whether in the cell or in\n the wire, while undergoing the given chemical process.\n\n\nHence the following important theorem, first proved by Thom\nson (Phil. Mag., Dec. 1851) :-\n\n' The electromotive force of an electrochemical apparatus is\n in absolute measure equal to the mechanical equivalent of the\n chemical action on one electrochemical equivalent of the sub\nstance *.'\n\n\nThe thermal equivalents of many chemical actions have been\n determined by Andrews, Hess, Favre and Silbermann, Thomsen,\n \\&c., and from these their mechanical equivalents can be deduced\n by multiplication by the mechanical equivalent of heat.\n\n\nThis theorem not only enables us to calculate from purely\n thermal data the electromotive forces of different voltaic arrange\nments, and the electromotive forces required to effect electrolysis\n in different cases, but affords the means of actually measuring\n chemical affinity.\n\n\nIt has long been known that chemical affinity, or the tendency\n which exists towards the going on of a certain chemical change,\n is stronger in some cases than in others, but no proper measure\n of this tendency could be made till it was shewn that this\n tendency in certain cases is exactly equivalent to a certain\n electromotive force, and can therefore be measured according to\n the very same principles used in the measurement of electro\nmotive forces.\n\n\nChemical affinity being therefore, in certain cases, reduced to\n the form of a measurable quantity, the whole theory of chemical\n processes, of the rate at which they go on, of the displacement of\n one substance by another, \\&c., becomes much more intelligible\n than when chemical affinity was regarded as a quality sui generis,\n and irreducible to numerical measurement.\n\n\n\\footnotetext{\n* \\{This theorem only applies when there are no reversible thermal effects in\n the cell; when these exist the relation between the electromotive force $p$ and the\n mechanical equivalent of the chemical action, $\\omega$, is expressed by the relation\n\n$$p-\\theta \\frac{d p}{d \\theta}=\\omega,$$\n\nwhere $\\theta$ is the absolute temperature of the cell. v. Helmholtz, 'Die Thermodynamik\n chemischer Vorg\u00e4nge.' Wissenschaftliche Abhandlungen, ii. p. 958.\\}\n\n\nVOL. I.\n\nC C\n}\n",
+    "structured_lines": [
+      {
+        "page": 420,
+        "line_number": 4,
+        "type": "text",
+        "content": "through the wire. Hence, the heat developed by the passage of",
+        "mathpix_content": "\nthrough the wire. Hence, the heat developed by the passage of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 5,
+        "type": "text",
+        "content": "one unit of electricity is in this case measured by the electro-",
+        "mathpix_content": " one unit of electricity is in this case measured by the electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 6,
+        "type": "text",
+        "content": "motive force. But this heat is that which one electrochemical",
+        "mathpix_content": "motive force. But this heat is that which one electrochemical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 7,
+        "type": "text",
+        "content": "equivalent of the substance generates, whether in the cell or in",
+        "mathpix_content": " equivalent of the substance generates, whether in the cell or in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 8,
+        "type": "text",
+        "content": "the wire, while undergoing the given chemical process.",
+        "mathpix_content": " the wire, while undergoing the given chemical process.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 9,
+        "type": "text",
+        "content": "Hence the following important theorem, first proved by Thom-",
+        "mathpix_content": "\n\nHence the following important theorem, first proved by Thom",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 10,
+        "type": "text",
+        "content": "son (Phil. Mag., Dec. 1851) :-",
+        "mathpix_content": "son (Phil. Mag., Dec. 1851) :-",
+        "font_size": 27,
+        "confidence": 0.9653487205505371
+      },
+      {
+        "page": 420,
+        "line_number": 11,
+        "type": "text",
+        "content": "' The electromotive force of an electrochemical apparatus is",
+        "mathpix_content": "\n' The electromotive force of an electrochemical apparatus is",
+        "font_size": 27,
+        "confidence": 0.6298828125
+      },
+      {
+        "page": 420,
+        "line_number": 12,
+        "type": "text",
+        "content": "in absolute measure equal to the mechanical equivalent of the",
+        "mathpix_content": " in absolute measure equal to the mechanical equivalent of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 13,
+        "type": "text",
+        "content": "chemical action on one electrochemical equivalent of the sub-",
+        "mathpix_content": " chemical action on one electrochemical equivalent of the sub",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 14,
+        "type": "text",
+        "content": "stance *.'",
+        "mathpix_content": "stance *.'",
+        "font_size": 27,
+        "confidence": 0.9936609268188477
+      },
+      {
+        "page": 420,
+        "line_number": 15,
+        "type": "text",
+        "content": "The thermal equivalents of many chemical actions have been",
+        "mathpix_content": "\n\nThe thermal equivalents of many chemical actions have been",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 16,
+        "type": "text",
+        "content": "determined by Andrews, Hess, Favre and Silbermann, Thomsen,",
+        "mathpix_content": " determined by Andrews, Hess, Favre and Silbermann, Thomsen,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 17,
+        "type": "text",
+        "content": "\\&c., and from these their mechanical equivalents can be deduced",
+        "mathpix_content": " \\&c., and from these their mechanical equivalents can be deduced",
+        "font_size": 27,
+        "confidence": 0.99365234375
+      },
+      {
+        "page": 420,
+        "line_number": 18,
+        "type": "text",
+        "content": "by multiplication by the mechanical equivalent of heat.",
+        "mathpix_content": " by multiplication by the mechanical equivalent of heat.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 19,
+        "type": "text",
+        "content": "This theorem not only enables us to calculate from purely",
+        "mathpix_content": "\n\nThis theorem not only enables us to calculate from purely",
+        "font_size": 27,
+        "confidence": 0.98046875
+      },
+      {
+        "page": 420,
+        "line_number": 20,
+        "type": "text",
+        "content": "thermal data the electromotive forces of different voltaic arrange-",
+        "mathpix_content": " thermal data the electromotive forces of different voltaic arrange",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 21,
+        "type": "text",
+        "content": "ments, and the electromotive forces required to effect electrolysis",
+        "mathpix_content": "ments, and the electromotive forces required to effect electrolysis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 22,
+        "type": "text",
+        "content": "in different cases, but affords the means of actually measuring",
+        "mathpix_content": " in different cases, but affords the means of actually measuring",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 420,
+        "line_number": 23,
+        "type": "text",
+        "content": "chemical affinity.",
+        "mathpix_content": " chemical affinity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 24,
+        "type": "text",
+        "content": "It has long been known that chemical affinity, or the tendency",
+        "mathpix_content": "\n\nIt has long been known that chemical affinity, or the tendency",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 25,
+        "type": "text",
+        "content": "which exists towards the going on of a certain chemical change,",
+        "mathpix_content": " which exists towards the going on of a certain chemical change,",
+        "font_size": 27,
+        "confidence": 0.9946351032704115
+      },
+      {
+        "page": 420,
+        "line_number": 26,
+        "type": "text",
+        "content": "is stronger in some cases than in others, but no proper measure",
+        "mathpix_content": " is stronger in some cases than in others, but no proper measure",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 420,
+        "line_number": 27,
+        "type": "text",
+        "content": "of this tendency could be made till it was shewn that this",
+        "mathpix_content": " of this tendency could be made till it was shewn that this",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 28,
+        "type": "text",
+        "content": "tendency in certain cases is exactly equivalent to a certain",
+        "mathpix_content": " tendency in certain cases is exactly equivalent to a certain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 29,
+        "type": "text",
+        "content": "electromotive force, and can therefore be measured according to",
+        "mathpix_content": " electromotive force, and can therefore be measured according to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 30,
+        "type": "text",
+        "content": "the very same principles used in the measurement of electro-",
+        "mathpix_content": " the very same principles used in the measurement of electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 31,
+        "type": "text",
+        "content": "motive forces.",
+        "mathpix_content": "motive forces.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 32,
+        "type": "text",
+        "content": "Chemical affinity being therefore, in certain cases, reduced to",
+        "mathpix_content": "\n\nChemical affinity being therefore, in certain cases, reduced to",
+        "font_size": 27,
+        "confidence": 0.9853515625
+      },
+      {
+        "page": 420,
+        "line_number": 33,
+        "type": "text",
+        "content": "the form of a measurable quantity, the whole theory of chemical",
+        "mathpix_content": " the form of a measurable quantity, the whole theory of chemical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 34,
+        "type": "text",
+        "content": "processes, of the rate at which they go on, of the displacement of",
+        "mathpix_content": " processes, of the rate at which they go on, of the displacement of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 35,
+        "type": "text",
+        "content": "one substance by another, \\&c., becomes much more intelligible",
+        "mathpix_content": " one substance by another, \\&c., becomes much more intelligible",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 36,
+        "type": "text",
+        "content": "than when chemical affinity was regarded as a quality sui generis,",
+        "mathpix_content": " than when chemical affinity was regarded as a quality sui generis,",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 420,
+        "line_number": 37,
+        "type": "text",
+        "content": "and irreducible to numerical measurement.",
+        "mathpix_content": " and irreducible to numerical measurement.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 39,
+        "type": "text",
+        "content": "* \\{This theorem only applies when there are no reversible thermal effects in",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{This theorem only applies when there are no reversible thermal effects in",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 420,
+        "line_number": 40,
+        "type": "text",
+        "content": "the cell; when these exist the relation between the electromotive force $p$ and the",
+        "mathpix_content": " the cell; when these exist the relation between the electromotive force $p$ and the",
+        "font_size": 21,
+        "confidence": 0.9736454486846924
+      },
+      {
+        "page": 420,
+        "line_number": 41,
+        "type": "text",
+        "content": "mechanical equivalent of the chemical action, $\\omega$, is expressed by the relation",
+        "mathpix_content": " mechanical equivalent of the chemical action, $\\omega$, is expressed by the relation",
+        "font_size": 21,
+        "confidence": 0.94921875
+      },
+      {
+        "page": 420,
+        "line_number": 44,
+        "type": "text",
+        "content": "where $\\theta$ is the absolute temperature of the cell. v. Helmholtz, 'Die Thermodynamik",
+        "mathpix_content": "\nwhere $\\theta$ is the absolute temperature of the cell. v. Helmholtz, 'Die Thermodynamik",
+        "font_size": 21,
+        "confidence": 0.9849230985855684
+      },
+      {
+        "page": 420,
+        "line_number": 45,
+        "type": "text",
+        "content": "chemischer Vorg\u00e4nge.' Wissenschaftliche Abhandlungen, ii. p. 958.\\}",
+        "mathpix_content": " chemischer Vorg\u00e4nge.' Wissenschaftliche Abhandlungen, ii. p. 958.\\}",
+        "font_size": 21,
+        "confidence": 0.9839210379868746
+      },
+      {
+        "page": 420,
+        "line_number": 46,
+        "type": "text",
+        "content": "VOL. I.",
+        "mathpix_content": "\n\nVOL. I.",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 420,
+        "line_number": 47,
+        "type": "text",
+        "content": "C C",
+        "mathpix_content": "\nC C\n}",
+        "font_size": 21,
+        "confidence": 0.9132923277793452
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

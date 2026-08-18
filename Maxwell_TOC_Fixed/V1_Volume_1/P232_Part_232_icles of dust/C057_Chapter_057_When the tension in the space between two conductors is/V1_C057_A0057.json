@@ -1,0 +1,372 @@
+{
+  "article_id": "article_57",
+  "article_number": 57,
+  "title_original": ".] When the tension in the space between two conductors is",
+  "title_safe": "When the tension in the space between two conductors is",
+  "page_start": 95,
+  "page_end": 95,
+  "content": {
+    "raw_text": "\n--- Page 95 ---\n60\nELECTROSTATIC PHENOMENA.\n[57.\nThis and many other differences between positive and negative\nelectrification must be studied by those who desire to discover\nsomething about the nature of electricity. They have not,\nhowever, been satisfactorily brought to bear upon any existing\ntheory.\n\nThe Electric Brush.\n56.] The electric brush is a phenomenon which may be pro-\nduced by electrifying a blunt point or small ball so as to produce\nan electric field in which the tension diminishes as the distance\nincreases, but in a less rapid manner than when a sharp point is\nused. It consists of a succession of discharges, ramifying as they\ndiverge from the ball into the air, and terminating either by\ncharging portions of air or by reaching some other conductor. It\nis accompanied by a sound, the pitch of which depends on the\ninterval between the successive discharges, and there is no\ncurrent of air as in the case of the glow.\n\nThe Electric Spark.\n57.] When the tension in the space between two conductors is\nconsiderable all the way between them, as in the case of two balls\nwhose distance is not great compared with their radii, the\ndischarge, when it occurs, usually takes the form of a spark, by\nwhich nearly the whole electrification is discharged at once.\nIn this case, when any part of the dielectric has given way,\nthe parts on either side of it in the direction of the electric force\nare put into a state of greater tension so that they also give way,\nand so the discharge proceeds right through the dielectric, just as\nwhen a little rent is made in the edge of a piece of paper a\ntension applied to the paper in the direction of the edge causes the\npaper to be torn through, beginning at the rent, but diverging\noccasionally where there are weak places in the paper. The\nelectric spark in the same way begins at the point where the\nelectric tension first overcomes the insulation of the dielectric,\nand proceeds from that point, in an apparently irregular path,\nso as to take in other weak points, such as particles of dust\nfloating in air.\nAll these phenomena differ considerably in different gases, and in\nthe same gas at different densities. Some of the forms of electrical\ndischarge through rare gases are exceedingly remarkable. In some\ncases there is a regular alternation of luminous and dark strata,\n",
+    "mathpix_markdown": "\n--- Page 95 ---\n\n\nThis and many other differences between positive and negative\n electrification must be studied by those who desire to discover\n something about the nature of electricity. They have not,\n however, been satisfactorily brought to bear upon any existing\n theory.\n\n\n\\section*{The Electric Brush.}\n\n56.] The electric brush is a phenomenon which may be pro\nduced by electrifying a blunt point or small ball so as to produce\n an electric field in which the tension diminishes as the distance\n increases, but in a less rapid manner than when a sharp point is\n used. It consists of a succession of discharges, ramifying as they\n diverge from the ball into the air, and terminating either by\n charging portions of air or by reaching some other conductor. It\n is accompanied by a sound, the pitch of which depends on the\n interval between the successive discharges, and there is no\n current of air as in the case of the glow.\n\n\n\\section*{The Electric Spark.}\n\n57.] When the tension in the space between two conductors is\n considerable all the way between them, as in the case of two balls\n whose distance is not great compared with their radii, the\n discharge, when it occurs, usually takes the form of a spark, by\n which nearly the whole electrification is discharged at once.\n\n\nIn this case, when any part of the dielectric has given way,\n the parts on either side of it in the direction of the electric force\n are put into a state of greater tension so that they also give way,\n and so the discharge proceeds right through the dielectric, just as\n when a little rent is made in the edge of a piece of paper a\n tension applied to the paper in the direction of the edge causes the\n paper to be torn through, beginning at the rent, but diverging\n occasionally where there are weak places in the paper. The\n electric spark in the same way begins at the point where the\n electric tension first overcomes the insulation of the dielectric,\n and proceeds from that point, in an apparently irregular path,\n so as to take in other weak points, such as particles of dust\n floating in air.\n\n\nAll these phenomena differ considerably in different gases, and in\n the same gas at different densities. Some of the forms of electrical\n discharge through rare gases are exceedingly remarkable. In some\n cases there is a regular alternation of luminous and dark strata,\n",
+    "structured_lines": [
+      {
+        "page": 95,
+        "line_number": 4,
+        "type": "text",
+        "content": "This and many other differences between positive and negative",
+        "mathpix_content": "\n\nThis and many other differences between positive and negative",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 5,
+        "type": "text",
+        "content": "electrification must be studied by those who desire to discover",
+        "mathpix_content": " electrification must be studied by those who desire to discover",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 6,
+        "type": "text",
+        "content": "something about the nature of electricity. They have not,",
+        "mathpix_content": " something about the nature of electricity. They have not,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 7,
+        "type": "text",
+        "content": "however, been satisfactorily brought to bear upon any existing",
+        "mathpix_content": " however, been satisfactorily brought to bear upon any existing",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 8,
+        "type": "text",
+        "content": "theory.",
+        "mathpix_content": " theory.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 10,
+        "type": "text",
+        "content": "The Electric Brush.",
+        "mathpix_content": "\n\n\\section*{The Electric Brush.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 11,
+        "type": "text",
+        "content": "56.] The electric brush is a phenomenon which may be pro-",
+        "mathpix_content": "\n56.] The electric brush is a phenomenon which may be pro",
+        "font_size": 34,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 95,
+        "line_number": 12,
+        "type": "text",
+        "content": "duced by electrifying a blunt point or small ball so as to produce",
+        "mathpix_content": "duced by electrifying a blunt point or small ball so as to produce",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 13,
+        "type": "text",
+        "content": "an electric field in which the tension diminishes as the distance",
+        "mathpix_content": " an electric field in which the tension diminishes as the distance",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 14,
+        "type": "text",
+        "content": "increases, but in a less rapid manner than when a sharp point is",
+        "mathpix_content": " increases, but in a less rapid manner than when a sharp point is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 15,
+        "type": "text",
+        "content": "used. It consists of a succession of discharges, ramifying as they",
+        "mathpix_content": " used. It consists of a succession of discharges, ramifying as they",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 16,
+        "type": "text",
+        "content": "diverge from the ball into the air, and terminating either by",
+        "mathpix_content": " diverge from the ball into the air, and terminating either by",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 17,
+        "type": "text",
+        "content": "charging portions of air or by reaching some other conductor. It",
+        "mathpix_content": " charging portions of air or by reaching some other conductor. It",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 95,
+        "line_number": 18,
+        "type": "text",
+        "content": "is accompanied by a sound, the pitch of which depends on the",
+        "mathpix_content": " is accompanied by a sound, the pitch of which depends on the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 19,
+        "type": "text",
+        "content": "interval between the successive discharges, and there is no",
+        "mathpix_content": " interval between the successive discharges, and there is no",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 20,
+        "type": "text",
+        "content": "current of air as in the case of the glow.",
+        "mathpix_content": " current of air as in the case of the glow.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 22,
+        "type": "text",
+        "content": "The Electric Spark.",
+        "mathpix_content": "\n\n\\section*{The Electric Spark.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 23,
+        "type": "text",
+        "content": "57.] When the tension in the space between two conductors is",
+        "mathpix_content": "\n57.] When the tension in the space between two conductors is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 24,
+        "type": "text",
+        "content": "considerable all the way between them, as in the case of two balls",
+        "mathpix_content": " considerable all the way between them, as in the case of two balls",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 25,
+        "type": "text",
+        "content": "whose distance is not great compared with their radii, the",
+        "mathpix_content": " whose distance is not great compared with their radii, the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 26,
+        "type": "text",
+        "content": "discharge, when it occurs, usually takes the form of a spark, by",
+        "mathpix_content": " discharge, when it occurs, usually takes the form of a spark, by",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 95,
+        "line_number": 27,
+        "type": "text",
+        "content": "which nearly the whole electrification is discharged at once.",
+        "mathpix_content": " which nearly the whole electrification is discharged at once.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 28,
+        "type": "text",
+        "content": "In this case, when any part of the dielectric has given way,",
+        "mathpix_content": "\n\nIn this case, when any part of the dielectric has given way,",
+        "font_size": 34,
+        "confidence": 0.970703125
+      },
+      {
+        "page": 95,
+        "line_number": 29,
+        "type": "text",
+        "content": "the parts on either side of it in the direction of the electric force",
+        "mathpix_content": " the parts on either side of it in the direction of the electric force",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 30,
+        "type": "text",
+        "content": "are put into a state of greater tension so that they also give way,",
+        "mathpix_content": " are put into a state of greater tension so that they also give way,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 31,
+        "type": "text",
+        "content": "and so the discharge proceeds right through the dielectric, just as",
+        "mathpix_content": " and so the discharge proceeds right through the dielectric, just as",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 32,
+        "type": "text",
+        "content": "when a little rent is made in the edge of a piece of paper a",
+        "mathpix_content": " when a little rent is made in the edge of a piece of paper a",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 33,
+        "type": "text",
+        "content": "tension applied to the paper in the direction of the edge causes the",
+        "mathpix_content": " tension applied to the paper in the direction of the edge causes the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 34,
+        "type": "text",
+        "content": "paper to be torn through, beginning at the rent, but diverging",
+        "mathpix_content": " paper to be torn through, beginning at the rent, but diverging",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 35,
+        "type": "text",
+        "content": "occasionally where there are weak places in the paper. The",
+        "mathpix_content": " occasionally where there are weak places in the paper. The",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 36,
+        "type": "text",
+        "content": "electric spark in the same way begins at the point where the",
+        "mathpix_content": " electric spark in the same way begins at the point where the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 37,
+        "type": "text",
+        "content": "electric tension first overcomes the insulation of the dielectric,",
+        "mathpix_content": " electric tension first overcomes the insulation of the dielectric,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 38,
+        "type": "text",
+        "content": "and proceeds from that point, in an apparently irregular path,",
+        "mathpix_content": " and proceeds from that point, in an apparently irregular path,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 39,
+        "type": "text",
+        "content": "so as to take in other weak points, such as particles of dust",
+        "mathpix_content": " so as to take in other weak points, such as particles of dust",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 40,
+        "type": "text",
+        "content": "floating in air.",
+        "mathpix_content": " floating in air.",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 95,
+        "line_number": 41,
+        "type": "text",
+        "content": "All these phenomena differ considerably in different gases, and in",
+        "mathpix_content": "\n\nAll these phenomena differ considerably in different gases, and in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 42,
+        "type": "text",
+        "content": "the same gas at different densities. Some of the forms of electrical",
+        "mathpix_content": " the same gas at different densities. Some of the forms of electrical",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 43,
+        "type": "text",
+        "content": "discharge through rare gases are exceedingly remarkable. In some",
+        "mathpix_content": " discharge through rare gases are exceedingly remarkable. In some",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 95,
+        "line_number": 44,
+        "type": "text",
+        "content": "cases there is a regular alternation of luminous and dark strata,",
+        "mathpix_content": " cases there is a regular alternation of luminous and dark strata,",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

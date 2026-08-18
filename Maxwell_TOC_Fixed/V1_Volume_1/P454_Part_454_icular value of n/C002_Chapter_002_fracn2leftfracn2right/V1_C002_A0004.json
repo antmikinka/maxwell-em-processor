@@ -1,0 +1,20 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "q} c_{2} x^{p-1} y^{q-2} z^{r}+{ }_{p} c_{4} c_{2} x^{p-1} y^{q} z^{r-2}+{ }_{p} c_{2 q} c_{4} \\cdot x^{p-2} y^{q-4} z^{r}+{ }_{q} c_{4} \\cdot r_{2} x^{p} y^{q-1} z^{r-2} \\\\",
+  "title_safe": "q c2 xp-1 yq-2 zrplus p c4 c2 xp-1 yq zr-2plus p c2 q c4 cdo",
+  "page_start": 239,
+  "page_end": 238,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "part_id": "part_71",
+  "part_number": 71,
+  "title": "icle cannot pass from one position to",
+  "page_start": 41,
+  "page_end": 41,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 6,
+      "title": "PRELIMINARY.",
+      "page_start": 41,
+      "page_end": 40,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 7,
+      "title": "a general system of making observations of magnetic force in",
+      "page_start": 41,
+      "page_end": 40,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 2,
+      "title": "} T^{-2}\\right]$.",
+      "page_start": 41,
+      "page_end": 40,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 7,
+      "title": "] A quantity is said to vary continuously if, when it passes",
+      "page_start": 41,
+      "page_end": 40,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 2,
+      "title": "} T^{-2}\\right]$.",
+      "page_start": 41,
+      "page_end": 40,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 7,
+      "title": "] A quantity is said to vary continuously if, when it passes",
+      "page_start": 41,
+      "page_end": 41,
+      "articles": [
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": "a general system of making observations of magnetic force in",
+          "title_safe": "a general system of making observations of magnetic force in",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": "] A quantity is said to vary continuously if, when it passes",
+          "title_safe": "A quantity is said to vary continuously if when it passes",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": "] A quantity is said to vary continuously if, when it passes",
+          "title_safe": "A quantity is said to vary continuously if when it passes",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": "PRELIMINARY.",
+          "title_safe": "PRELIMINARY",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} T^{-2}\\right]$.",
+          "title_safe": "T-2right",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ".] A quantity is said to vary continuously if, when it passes",
+          "title_safe": "A quantity is said to vary continuously if when it passes",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} T^{-2}\\right]$.",
+          "title_safe": "T-2right",
+          "page_start": 41,
+          "page_end": 40,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ".] A quantity is said to vary continuously if, when it passes",
+          "title_safe": "A quantity is said to vary continuously if when it passes",
+          "page_start": 41,
+          "page_end": 41,
+          "content": {
+            "raw_text": "\n--- Page 41 ---\n6\nPRELIMINARY.\n[7.\na general system of making observations of magnetic force in\ncountries in which the intensity of gravity is different. All such\nforces are now measured according to the strictly dynamical\nmethod deduced from our definitions, and the numerical results\nare the same in whatever country the experiments are made.\nThe unit of Work is the work done by the unit of force acting\nthrough the unit of length measured in its own direction. Its\ndimensions are $\\left[M L^{2} T^{-2}\\right]$.\nThe Energy of a system, being its capacity of performing work,\nis measured by the work which the system is capable of per-\nforming by the expenditure of its whole energy.\nThe definitions of other quantities, and of the units to which\nthey are referred, will be given when we require them.\nIn transforming the values of physical quantities determined in\nterms of one unit, so as to express them in terms of any other\nunit of the same kind, we have only to remember that every ex-\npression for the quantity consists of two factors, the unit and the\nnumerical part which expresses how often the unit is to be taken.\nHence the numerical part of the expression varies inversely as\nthe magnitude of the unit, that is, inversely as the various powers\nof the fundamental units which are indicated by the dimensions\nof the derived unit.\n\nOn Physical Continuity and Discontinuity.\n7.] A quantity is said to vary continuously if, when it passes\nfrom one value to another, it assumes all the intermediate values.\nWe may obbain the conception of continuity from a considera-\ntion of the continuous existence of a particle of matter in time\nand space. Such a particle cannot pass from one position to\nanother without describing a continuous line in space, and the\ncoordinates of its position must be continuous functions of the\ntime.\nIn the so-called ' equation of continuity,' as given in treatises\non Hydrodynamics, the fact expressed is that matter cannot\nappear in or disappear from an element of volume without pass-\ning in or out through the sides of that element.\nA quantity is said to be a continuous function of its variables\nif, when the variables alter continuously, the quantity itself alters\ncontinuously.\nThus, if $u$ is a function of $x$, and if, while $x$ passes continuously\n",
+            "mathpix_markdown": "\n--- Page 41 ---\n\na general system of making observations of magnetic force in\n countries in which the intensity of gravity is different. All such\n forces are now measured according to the strictly dynamical\n method deduced from our definitions, and the numerical results\n are the same in whatever country the experiments are made.\n\n\nThe unit of Work is the work done by the unit of force acting\n through the unit of length measured in its own direction. Its\n dimensions are $\\left[M L^{2} T^{-2}\\right]$.\n\n\nThe Energy of a system, being its capacity of performing work,\n is measured by the work which the system is capable of per\nforming by the expenditure of its whole energy.\n\n\nThe definitions of other quantities, and of the units to which\n they are referred, will be given when we require them.\n\n\nIn transforming the values of physical quantities determined in\n terms of one unit, so as to express them in terms of any other\n unit of the same kind, we have only to remember that every ex\npression for the quantity consists of two factors, the unit and the\n numerical part which expresses how often the unit is to be taken.\n Hence the numerical part of the expression varies inversely as\n the magnitude of the unit, that is, inversely as the various powers\n of the fundamental units which are indicated by the dimensions\n of the derived unit.\n\n\n\\section*{On Physical Continuity and Discontinuity.}\n\n7.] A quantity is said to vary continuously if, when it passes\n from one value to another, it assumes all the intermediate values.\n\n\nWe may obbain the conception of continuity from a considera\ntion of the continuous existence of a particle of matter in time\n and space. Such a particle cannot pass from one position to\n another without describing a continuous line in space, and the\n coordinates of its position must be continuous functions of the\n time.\n\n\nIn the so-called ' equation of continuity,' as given in treatises\n on Hydrodynamics, the fact expressed is that matter cannot\n appear in or disappear from an element of volume without pass\ning in or out through the sides of that element.\n\n\nA quantity is said to be a continuous function of its variables\n if, when the variables alter continuously, the quantity itself alters\n continuously.\n\n\nThus, if $u$ is a function of $x$, and if, while $x$ passes continuously\n",
+            "structured_lines": [
+              {
+                "page": 41,
+                "line_number": 4,
+                "type": "text",
+                "content": "a general system of making observations of magnetic force in",
+                "mathpix_content": "\na general system of making observations of magnetic force in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 5,
+                "type": "text",
+                "content": "countries in which the intensity of gravity is different. All such",
+                "mathpix_content": " countries in which the intensity of gravity is different. All such",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 41,
+                "line_number": 6,
+                "type": "text",
+                "content": "forces are now measured according to the strictly dynamical",
+                "mathpix_content": " forces are now measured according to the strictly dynamical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 7,
+                "type": "text",
+                "content": "method deduced from our definitions, and the numerical results",
+                "mathpix_content": " method deduced from our definitions, and the numerical results",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 8,
+                "type": "text",
+                "content": "are the same in whatever country the experiments are made.",
+                "mathpix_content": " are the same in whatever country the experiments are made.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 9,
+                "type": "text",
+                "content": "The unit of Work is the work done by the unit of force acting",
+                "mathpix_content": "\n\nThe unit of Work is the work done by the unit of force acting",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 10,
+                "type": "text",
+                "content": "through the unit of length measured in its own direction. Its",
+                "mathpix_content": " through the unit of length measured in its own direction. Its",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 11,
+                "type": "text",
+                "content": "dimensions are $\\left[M L^{2} T^{-2}\\right]$.",
+                "mathpix_content": " dimensions are $\\left[M L^{2} T^{-2}\\right]$.",
+                "font_size": 27,
+                "confidence": 0.6144459247589111
+              },
+              {
+                "page": 41,
+                "line_number": 12,
+                "type": "text",
+                "content": "The Energy of a system, being its capacity of performing work,",
+                "mathpix_content": "\n\nThe Energy of a system, being its capacity of performing work,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 13,
+                "type": "text",
+                "content": "is measured by the work which the system is capable of per-",
+                "mathpix_content": " is measured by the work which the system is capable of per",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 14,
+                "type": "text",
+                "content": "forming by the expenditure of its whole energy.",
+                "mathpix_content": "forming by the expenditure of its whole energy.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 15,
+                "type": "text",
+                "content": "The definitions of other quantities, and of the units to which",
+                "mathpix_content": "\n\nThe definitions of other quantities, and of the units to which",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 41,
+                "line_number": 16,
+                "type": "text",
+                "content": "they are referred, will be given when we require them.",
+                "mathpix_content": " they are referred, will be given when we require them.",
+                "font_size": 27,
+                "confidence": 0.99072265625
+              },
+              {
+                "page": 41,
+                "line_number": 17,
+                "type": "text",
+                "content": "In transforming the values of physical quantities determined in",
+                "mathpix_content": "\n\nIn transforming the values of physical quantities determined in",
+                "font_size": 27,
+                "confidence": 0.9233217959770741
+              },
+              {
+                "page": 41,
+                "line_number": 18,
+                "type": "text",
+                "content": "terms of one unit, so as to express them in terms of any other",
+                "mathpix_content": " terms of one unit, so as to express them in terms of any other",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 19,
+                "type": "text",
+                "content": "unit of the same kind, we have only to remember that every ex-",
+                "mathpix_content": " unit of the same kind, we have only to remember that every ex",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 20,
+                "type": "text",
+                "content": "pression for the quantity consists of two factors, the unit and the",
+                "mathpix_content": "pression for the quantity consists of two factors, the unit and the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 21,
+                "type": "text",
+                "content": "numerical part which expresses how often the unit is to be taken.",
+                "mathpix_content": " numerical part which expresses how often the unit is to be taken.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 22,
+                "type": "text",
+                "content": "Hence the numerical part of the expression varies inversely as",
+                "mathpix_content": " Hence the numerical part of the expression varies inversely as",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 23,
+                "type": "text",
+                "content": "the magnitude of the unit, that is, inversely as the various powers",
+                "mathpix_content": " the magnitude of the unit, that is, inversely as the various powers",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 24,
+                "type": "text",
+                "content": "of the fundamental units which are indicated by the dimensions",
+                "mathpix_content": " of the fundamental units which are indicated by the dimensions",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 25,
+                "type": "text",
+                "content": "of the derived unit.",
+                "mathpix_content": " of the derived unit.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 27,
+                "type": "text",
+                "content": "On Physical Continuity and Discontinuity.",
+                "mathpix_content": "\n\n\\section*{On Physical Continuity and Discontinuity.}",
+                "font_size": 27,
+                "confidence": 0.9468182517579701
+              },
+              {
+                "page": 41,
+                "line_number": 28,
+                "type": "text",
+                "content": "7.] A quantity is said to vary continuously if, when it passes",
+                "mathpix_content": "\n7.] A quantity is said to vary continuously if, when it passes",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 29,
+                "type": "text",
+                "content": "from one value to another, it assumes all the intermediate values.",
+                "mathpix_content": " from one value to another, it assumes all the intermediate values.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 30,
+                "type": "text",
+                "content": "We may obbain the conception of continuity from a considera-",
+                "mathpix_content": "\n\nWe may obbain the conception of continuity from a considera",
+                "font_size": 27,
+                "confidence": 0.80322265625
+              },
+              {
+                "page": 41,
+                "line_number": 31,
+                "type": "text",
+                "content": "tion of the continuous existence of a particle of matter in time",
+                "mathpix_content": "tion of the continuous existence of a particle of matter in time",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 32,
+                "type": "text",
+                "content": "and space. Such a particle cannot pass from one position to",
+                "mathpix_content": " and space. Such a particle cannot pass from one position to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 33,
+                "type": "text",
+                "content": "another without describing a continuous line in space, and the",
+                "mathpix_content": " another without describing a continuous line in space, and the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 41,
+                "line_number": 34,
+                "type": "text",
+                "content": "coordinates of its position must be continuous functions of the",
+                "mathpix_content": " coordinates of its position must be continuous functions of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 35,
+                "type": "text",
+                "content": "time.",
+                "mathpix_content": " time.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 36,
+                "type": "text",
+                "content": "In the so-called ' equation of continuity,' as given in treatises",
+                "mathpix_content": "\n\nIn the so-called ' equation of continuity,' as given in treatises",
+                "font_size": 27,
+                "confidence": 0.6204324890859425
+              },
+              {
+                "page": 41,
+                "line_number": 37,
+                "type": "text",
+                "content": "on Hydrodynamics, the fact expressed is that matter cannot",
+                "mathpix_content": " on Hydrodynamics, the fact expressed is that matter cannot",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 38,
+                "type": "text",
+                "content": "appear in or disappear from an element of volume without pass-",
+                "mathpix_content": " appear in or disappear from an element of volume without pass",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 39,
+                "type": "text",
+                "content": "ing in or out through the sides of that element.",
+                "mathpix_content": "ing in or out through the sides of that element.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 40,
+                "type": "text",
+                "content": "A quantity is said to be a continuous function of its variables",
+                "mathpix_content": "\n\nA quantity is said to be a continuous function of its variables",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 41,
+                "line_number": 41,
+                "type": "text",
+                "content": "if, when the variables alter continuously, the quantity itself alters",
+                "mathpix_content": " if, when the variables alter continuously, the quantity itself alters",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 42,
+                "type": "text",
+                "content": "continuously.",
+                "mathpix_content": " continuously.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 41,
+                "line_number": 43,
+                "type": "text",
+                "content": "Thus, if $u$ is a function of $x$, and if, while $x$ passes continuously",
+                "mathpix_content": "\n\nThus, if $u$ is a function of $x$, and if, while $x$ passes continuously",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

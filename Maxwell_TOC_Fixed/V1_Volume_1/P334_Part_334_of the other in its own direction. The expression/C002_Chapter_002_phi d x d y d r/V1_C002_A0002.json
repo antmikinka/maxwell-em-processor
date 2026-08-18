@@ -1,0 +1,264 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "} \\phi d x d y d r$",
+  "title_safe": "phi d x d y d r",
+  "page_start": 166,
+  "page_end": 166,
+  "content": {
+    "raw_text": "\n--- Page 166 ---\n$97 a$.]\nGREEN'S THEOREM.\n131\nThe surface-integral $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s^{\\prime}$ for the sphere cannot be nu-\nmerically greater than $\\Phi_{g} \\iint \\frac{d \\Psi}{d \\nu} d s^{\\prime}$.\nNow by Theorem III, Art. 21,\n$$\\iint \\frac{d \\Psi}{d \\nu} d s=-\\iiint \\nabla^{2} \\Psi d x d y d z$$\nsince $d \\nu$ is here measured outwards from the sphere, and this\ncannot be numerically greater than $\\left(\\nabla^{2} \\Psi\\right)_{\\rho} \\frac{4}{3} \\pi a^{3}$, and $\\Phi_{g}$ at the\nsurface is approximately $\\frac{e}{a}$, so that $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s$ cannot be numeri-\ncally greater than\n$$\\frac{4}{3} \\pi \\alpha^{2} e\\left(\\nabla^{2} \\Psi\\right)_{\\theta},$$\nand is therefore of the order $a^{2}$, and may be neglected when \"\nvanishes.\nBut the surface-integral for the sphere on the other side of\nthe equation, namely,\ndoes not vanish, for\n$$\\begin{gathered}\n\\iint \\Psi \\frac{d \\Phi}{d \\nu} d s^{\\prime} \\\\\n\\iint \\frac{d \\Phi}{d \\nu} d s^{\\prime}=-4 \\pi e\n\\end{gathered}$$\n$d \\nu$ being measured outwards from the sphere, and if $\\Psi_{0}$ be the\nvalue of $\\Psi$ at the point $P$,\n$$\\iint \\Psi \\frac{d \\Phi}{d v} d s=-4 \\pi e \\Psi_{0}$$\nEquation (4) therefore becomes in this case\n$\\iint \\Psi \\frac{d \\Phi}{d v} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s-4 \\pi e \\Psi_{0}=\\iint \\Phi \\frac{d \\Psi}{d v} d s-\\iiint \\Phi \\nabla^{2} \\Psi d s^{*}$.\n$\\left(4_{b}\\right)$\n97 a.] We may illustrate this case of Green's Theorem by em-\nploying it as Green does to determine the surface-density of a\ndistribution which will produce a potential whose values inside\nand outside a given closed surface are given. These values must\ncoincide at the surface, also within the surface $\\nabla^{2} \\Psi=0$, and\noutside $\\nabla^{2} \\Psi^{\\prime}=0$ where $\\psi$ and $\\psi^{\\prime}$ denote the potentials inside and\noutside the surface.\nGreen begins with the direct process, that is to say, the distri-\n\n* \\{In this equation $d \\nu$ is drawn to the inside of the surface and $\\iiint \\psi \\nabla^{2} \\phi d x d y d r$\nis not taken through the space occupied by a small sphere whose centre is the point at\nwhich $\\phi$ becomes infinite.\\}\nK 2\n",
+    "mathpix_markdown": "\n--- Page 166 ---\n\n\nThe surface-integral $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s^{\\prime}$ for the sphere cannot be nu\nmerically greater than $\\Phi_{g} \\iint \\frac{d \\Psi}{d \\nu} d s^{\\prime}$.\n\n\nNow by Theorem III, Art. 21,\n\n$$\\iint \\frac{d \\Psi}{d \\nu} d s=-\\iiint \\nabla^{2} \\Psi d x d y d z$$\n\nsince $d \\nu$ is here measured outwards from the sphere, and this\n cannot be numerically greater than $\\left(\\nabla^{2} \\Psi\\right)_{\\rho} \\frac{4}{3} \\pi a^{3}$, and $\\Phi_{g}$ at the\n surface is approximately $\\frac{e}{a}$, so that $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s$ cannot be numeri\ncally greater than\n\n$$\\frac{4}{3} \\pi \\alpha^{2} e\\left(\\nabla^{2} \\Psi\\right)_{\\theta},$$\n\nand is therefore of the order $a^{2}$, and may be neglected when \"\n vanishes.\n\n\nBut the surface-integral for the sphere on the other side of\n the equation, namely,\n\ndoes not vanish, for\n\n$$\\begin{gathered}\n\\iint \\Psi \\frac{d \\Phi}{d \\nu} d s^{\\prime} \\\\\n\\iint \\frac{d \\Phi}{d \\nu} d s^{\\prime}=-4 \\pi e\n\\end{gathered}$$\n\n$d \\nu$ being measured outwards from the sphere, and if $\\Psi_{0}$ be the\n value of $\\Psi$ at the point $P$,\n\n$$\\iint \\Psi \\frac{d \\Phi}{d v} d s=-4 \\pi e \\Psi_{0}$$\n\n\nEquation (4) therefore becomes in this case\n\n$\\iint \\Psi \\frac{d \\Phi}{d v} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s-4 \\pi e \\Psi_{0}=\\iint \\Phi \\frac{d \\Psi}{d v} d s-\\iiint \\Phi \\nabla^{2} \\Psi d s^{*}$.\n\n\n97 a.] We may illustrate this case of Green's Theorem by em\nploying it as Green does to determine the surface-density of a\n distribution which will produce a potential whose values inside\n and outside a given closed surface are given. These values must\n coincide at the surface, also within the surface $\\nabla^{2} \\Psi=0$, and\n outside $\\nabla^{2} \\Psi^{\\prime}=0$ where $\\psi$ and $\\psi^{\\prime}$ denote the potentials inside and\n outside the surface.\n\n\nGreen begins with the direct process, that is to say, the distri-\n\n\n\\footnotetext{\n* \\{In this equation $d \\nu$ is drawn to the inside of the surface and $\\iiint \\psi \\nabla^{2} \\phi d x d y d r$\n is not taken through the space occupied by a small sphere whose centre is the point at\n which $\\phi$ becomes infinite.\\}\n}\n",
+    "structured_lines": [
+      {
+        "page": 166,
+        "line_number": 4,
+        "type": "text",
+        "content": "The surface-integral $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s^{\\prime}$ for the sphere cannot be nu-",
+        "mathpix_content": "\n\nThe surface-integral $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s^{\\prime}$ for the sphere cannot be nu",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 166,
+        "line_number": 5,
+        "type": "text",
+        "content": "merically greater than $\\Phi_{g} \\iint \\frac{d \\Psi}{d \\nu} d s^{\\prime}$.",
+        "mathpix_content": "merically greater than $\\Phi_{g} \\iint \\frac{d \\Psi}{d \\nu} d s^{\\prime}$.",
+        "font_size": 27,
+        "confidence": 0.8989748954772949
+      },
+      {
+        "page": 166,
+        "line_number": 6,
+        "type": "text",
+        "content": "Now by Theorem III, Art. 21,",
+        "mathpix_content": "\n\nNow by Theorem III, Art. 21,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 9,
+        "type": "text",
+        "content": "since $d \\nu$ is here measured outwards from the sphere, and this",
+        "mathpix_content": "\nsince $d \\nu$ is here measured outwards from the sphere, and this",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 166,
+        "line_number": 10,
+        "type": "text",
+        "content": "cannot be numerically greater than $\\left(\\nabla^{2} \\Psi\\right)_{\\rho} \\frac{4}{3} \\pi a^{3}$, and $\\Phi_{g}$ at the",
+        "mathpix_content": " cannot be numerically greater than $\\left(\\nabla^{2} \\Psi\\right)_{\\rho} \\frac{4}{3} \\pi a^{3}$, and $\\Phi_{g}$ at the",
+        "font_size": 27,
+        "confidence": 0.7805913848569617
+      },
+      {
+        "page": 166,
+        "line_number": 11,
+        "type": "text",
+        "content": "surface is approximately $\\frac{e}{a}$, so that $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s$ cannot be numeri-",
+        "mathpix_content": " surface is approximately $\\frac{e}{a}$, so that $\\iint \\Phi \\frac{d \\Psi}{d \\nu} d s$ cannot be numeri",
+        "font_size": 27,
+        "confidence": 0.5413177013397217
+      },
+      {
+        "page": 166,
+        "line_number": 12,
+        "type": "text",
+        "content": "cally greater than",
+        "mathpix_content": "cally greater than",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 15,
+        "type": "text",
+        "content": "and is therefore of the order $a^{2}$, and may be neglected when \"",
+        "mathpix_content": "\nand is therefore of the order $a^{2}$, and may be neglected when \"",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 16,
+        "type": "text",
+        "content": "vanishes.",
+        "mathpix_content": " vanishes.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 17,
+        "type": "text",
+        "content": "But the surface-integral for the sphere on the other side of",
+        "mathpix_content": "\n\nBut the surface-integral for the sphere on the other side of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 18,
+        "type": "text",
+        "content": "the equation, namely,",
+        "mathpix_content": " the equation, namely,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 19,
+        "type": "text",
+        "content": "does not vanish, for",
+        "mathpix_content": "\ndoes not vanish, for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 23,
+        "type": "text",
+        "content": "$d \\nu$ being measured outwards from the sphere, and if $\\Psi_{0}$ be the",
+        "mathpix_content": "\n$d \\nu$ being measured outwards from the sphere, and if $\\Psi_{0}$ be the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 166,
+        "line_number": 24,
+        "type": "text",
+        "content": "value of $\\Psi$ at the point $P$,",
+        "mathpix_content": " value of $\\Psi$ at the point $P$,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 166,
+        "line_number": 27,
+        "type": "text",
+        "content": "Equation (4) therefore becomes in this case",
+        "mathpix_content": "\n\nEquation (4) therefore becomes in this case",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 28,
+        "type": "text",
+        "content": "$\\iint \\Psi \\frac{d \\Phi}{d v} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s-4 \\pi e \\Psi_{0}=\\iint \\Phi \\frac{d \\Psi}{d v} d s-\\iiint \\Phi \\nabla^{2} \\Psi d s^{*}$.",
+        "mathpix_content": "\n$\\iint \\Psi \\frac{d \\Phi}{d v} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s-4 \\pi e \\Psi_{0}=\\iint \\Phi \\frac{d \\Psi}{d v} d s-\\iiint \\Phi \\nabla^{2} \\Psi d s^{*}$.",
+        "font_size": 27,
+        "confidence": 0.897937483776559
+      },
+      {
+        "page": 166,
+        "line_number": 30,
+        "type": "text",
+        "content": "97 a.] We may illustrate this case of Green's Theorem by em-",
+        "mathpix_content": "\n\n97 a.] We may illustrate this case of Green's Theorem by em",
+        "font_size": 27,
+        "confidence": 0.5078125
+      },
+      {
+        "page": 166,
+        "line_number": 31,
+        "type": "text",
+        "content": "ploying it as Green does to determine the surface-density of a",
+        "mathpix_content": "ploying it as Green does to determine the surface-density of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 32,
+        "type": "text",
+        "content": "distribution which will produce a potential whose values inside",
+        "mathpix_content": " distribution which will produce a potential whose values inside",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 33,
+        "type": "text",
+        "content": "and outside a given closed surface are given. These values must",
+        "mathpix_content": " and outside a given closed surface are given. These values must",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 34,
+        "type": "text",
+        "content": "coincide at the surface, also within the surface $\\nabla^{2} \\Psi=0$, and",
+        "mathpix_content": " coincide at the surface, also within the surface $\\nabla^{2} \\Psi=0$, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 35,
+        "type": "text",
+        "content": "outside $\\nabla^{2} \\Psi^{\\prime}=0$ where $\\psi$ and $\\psi^{\\prime}$ denote the potentials inside and",
+        "mathpix_content": " outside $\\nabla^{2} \\Psi^{\\prime}=0$ where $\\psi$ and $\\psi^{\\prime}$ denote the potentials inside and",
+        "font_size": 27,
+        "confidence": 0.9810161590576172
+      },
+      {
+        "page": 166,
+        "line_number": 36,
+        "type": "text",
+        "content": "outside the surface.",
+        "mathpix_content": " outside the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 37,
+        "type": "text",
+        "content": "Green begins with the direct process, that is to say, the distri-",
+        "mathpix_content": "\n\nGreen begins with the direct process, that is to say, the distri-",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 166,
+        "line_number": 39,
+        "type": "text",
+        "content": "* \\{In this equation $d \\nu$ is drawn to the inside of the surface and $\\iiint \\psi \\nabla^{2} \\phi d x d y d r$",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{In this equation $d \\nu$ is drawn to the inside of the surface and $\\iiint \\psi \\nabla^{2} \\phi d x d y d r$",
+        "font_size": 21,
+        "confidence": 0.9396474600697007
+      },
+      {
+        "page": 166,
+        "line_number": 40,
+        "type": "text",
+        "content": "is not taken through the space occupied by a small sphere whose centre is the point at",
+        "mathpix_content": " is not taken through the space occupied by a small sphere whose centre is the point at",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 166,
+        "line_number": 41,
+        "type": "text",
+        "content": "which $\\phi$ becomes infinite.\\}",
+        "mathpix_content": " which $\\phi$ becomes infinite.\\}\n}",
+        "font_size": 21,
+        "confidence": 0.807222843170166
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

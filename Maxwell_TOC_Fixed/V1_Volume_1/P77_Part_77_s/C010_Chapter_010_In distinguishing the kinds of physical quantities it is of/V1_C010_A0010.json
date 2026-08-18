@@ -1,0 +1,372 @@
+{
+  "article_id": "article_10",
+  "article_number": 10,
+  "title_original": ".] In distinguishing the kinds of physical quantities, it is of",
+  "title_safe": "In distinguishing the kinds of physical quantities it is o",
+  "page_start": 44,
+  "page_end": 44,
+  "content": {
+    "raw_text": "\n--- Page 44 ---\n10.]\nVECTORS, OR DIRECTED QUANTITIES.\n9\nmultiples of $a$. In this case $x$ is called a multiple function of $u$,\nand $a$ is called its cyclic constant.\nThe differential coefficieni $\\frac{d x}{d u}$ has only a finite number of\nvalues corresponding to a given value of $u$.\n\nOn the Relation of Physical Quantities to Directions in Space.\n10.] In distinguishing the kinds of physical quantities, it is of\ngreat importance to know how they are related to the directions\nof those coordinate axes which we usually employ in defining the\npositions of things. The introduction of coordinate axes into\ngeometry by Des Cartes was one of the greatest steps in mathe-\nmatical progress, for it reduced the methods of geometry to\ncalculations performed on numerical quantities. The position\nof a point is made to depend on the lengths of three lines which\nare always drawn in determinate directions, and the line joining\ntwo points is in like manner considered as the resultant of three\nlines.\nBut for many purposes of physical reasoning, as distinguished\nfrom calculation, it is desirable to avoid explicitly introducing\nthe Cartesian coordinates, and to fix the mind at once on a point\nof space instead of its three coordinates, and on the magnitude\nand direction of a force instead of its three components. This\nmode of contemplating geometrical and physical quantities is\nmore primitive and more natural than the other, although the\nideas connected with it did not receive their full development\ntill Hamilton made the next great step in dealing with space, by\nthe invention of his Calculus of Quaternions *.\nAs the methods of Des Cartes are still the most familiar to\nstudents of science, and as they are really the most useful for\npurposes of calculation, we shall express all our results in the\nCartesian form. I am convinced, however, that the introduction\nof the ideas, as distinguished from the operations and methods of\nQuaternions, will be of great use to us in the study of all parts\nof our subject, and especially in electrodynamics, where we have\nto deal with a number of physical quantities, the relations of\nwhich to each other can be expressed far more simply by a few\nexpressions of Hamilton's, than by the ordinary equations.\n* \\{For an elementary account of Quaternions, the reader may be referred to Kel-\nland and Tait's 'Introduction to Quaternions,' Tait's 'Elementary Treatise on\nQuaterniona,' and Hamilton's 'Elements of Quaternions.'\\}\n",
+    "mathpix_markdown": "\n--- Page 44 ---\n\nmultiples of $a$. In this case $x$ is called a multiple function of $u$,\n and $a$ is called its cyclic constant.\n\n\nThe differential coefficieni $\\frac{d x}{d u}$ has only a finite number of\n values corresponding to a given value of $u$.\n\n\n\\section*{On the Relation of Physical Quantities to Directions in Space.}\n\n10.] In distinguishing the kinds of physical quantities, it is of\n great importance to know how they are related to the directions\n of those coordinate axes which we usually employ in defining the\n positions of things. The introduction of coordinate axes into\n geometry by Des Cartes was one of the greatest steps in mathe\nmatical progress, for it reduced the methods of geometry to\n calculations performed on numerical quantities. The position\n of a point is made to depend on the lengths of three lines which\n are always drawn in determinate directions, and the line joining\n two points is in like manner considered as the resultant of three\n lines.\n\n\nBut for many purposes of physical reasoning, as distinguished\n from calculation, it is desirable to avoid explicitly introducing\n the Cartesian coordinates, and to fix the mind at once on a point\n of space instead of its three coordinates, and on the magnitude\n and direction of a force instead of its three components. This\n mode of contemplating geometrical and physical quantities is\n more primitive and more natural than the other, although the\n ideas connected with it did not receive their full development\n till Hamilton made the next great step in dealing with space, by\n the invention of his Calculus of Quaternions *.\n\n\nAs the methods of Des Cartes are still the most familiar to\n students of science, and as they are really the most useful for\n purposes of calculation, we shall express all our results in the\n Cartesian form. I am convinced, however, that the introduction\n of the ideas, as distinguished from the operations and methods of\n Quaternions, will be of great use to us in the study of all parts\n of our subject, and especially in electrodynamics, where we have\n to deal with a number of physical quantities, the relations of\n which to each other can be expressed far more simply by a few\n expressions of Hamilton's, than by the ordinary equations.\n\n* \\{For an elementary account of Quaternions, the reader may be referred to Kel\nland and Tait's 'Introduction to Quaternions,' Tait's 'Elementary Treatise on\n Quaterniona,' and Hamilton's 'Elements of Quaternions.'\\}\n",
+    "structured_lines": [
+      {
+        "page": 44,
+        "line_number": 4,
+        "type": "text",
+        "content": "multiples of $a$. In this case $x$ is called a multiple function of $u$,",
+        "mathpix_content": "\nmultiples of $a$. In this case $x$ is called a multiple function of $u$,",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 44,
+        "line_number": 5,
+        "type": "text",
+        "content": "and $a$ is called its cyclic constant.",
+        "mathpix_content": " and $a$ is called its cyclic constant.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 6,
+        "type": "text",
+        "content": "The differential coefficieni $\\frac{d x}{d u}$ has only a finite number of",
+        "mathpix_content": "\n\nThe differential coefficieni $\\frac{d x}{d u}$ has only a finite number of",
+        "font_size": 27,
+        "confidence": 0.98193359375
+      },
+      {
+        "page": 44,
+        "line_number": 7,
+        "type": "text",
+        "content": "values corresponding to a given value of $u$.",
+        "mathpix_content": " values corresponding to a given value of $u$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 9,
+        "type": "text",
+        "content": "On the Relation of Physical Quantities to Directions in Space.",
+        "mathpix_content": "\n\n\\section*{On the Relation of Physical Quantities to Directions in Space.}",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 44,
+        "line_number": 10,
+        "type": "text",
+        "content": "10.] In distinguishing the kinds of physical quantities, it is of",
+        "mathpix_content": "\n10.] In distinguishing the kinds of physical quantities, it is of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 11,
+        "type": "text",
+        "content": "great importance to know how they are related to the directions",
+        "mathpix_content": " great importance to know how they are related to the directions",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 12,
+        "type": "text",
+        "content": "of those coordinate axes which we usually employ in defining the",
+        "mathpix_content": " of those coordinate axes which we usually employ in defining the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 13,
+        "type": "text",
+        "content": "positions of things. The introduction of coordinate axes into",
+        "mathpix_content": " positions of things. The introduction of coordinate axes into",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 14,
+        "type": "text",
+        "content": "geometry by Des Cartes was one of the greatest steps in mathe-",
+        "mathpix_content": " geometry by Des Cartes was one of the greatest steps in mathe",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 15,
+        "type": "text",
+        "content": "matical progress, for it reduced the methods of geometry to",
+        "mathpix_content": "matical progress, for it reduced the methods of geometry to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 16,
+        "type": "text",
+        "content": "calculations performed on numerical quantities. The position",
+        "mathpix_content": " calculations performed on numerical quantities. The position",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 17,
+        "type": "text",
+        "content": "of a point is made to depend on the lengths of three lines which",
+        "mathpix_content": " of a point is made to depend on the lengths of three lines which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 18,
+        "type": "text",
+        "content": "are always drawn in determinate directions, and the line joining",
+        "mathpix_content": " are always drawn in determinate directions, and the line joining",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 19,
+        "type": "text",
+        "content": "two points is in like manner considered as the resultant of three",
+        "mathpix_content": " two points is in like manner considered as the resultant of three",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 20,
+        "type": "text",
+        "content": "lines.",
+        "mathpix_content": " lines.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 21,
+        "type": "text",
+        "content": "But for many purposes of physical reasoning, as distinguished",
+        "mathpix_content": "\n\nBut for many purposes of physical reasoning, as distinguished",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 22,
+        "type": "text",
+        "content": "from calculation, it is desirable to avoid explicitly introducing",
+        "mathpix_content": " from calculation, it is desirable to avoid explicitly introducing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 23,
+        "type": "text",
+        "content": "the Cartesian coordinates, and to fix the mind at once on a point",
+        "mathpix_content": " the Cartesian coordinates, and to fix the mind at once on a point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 24,
+        "type": "text",
+        "content": "of space instead of its three coordinates, and on the magnitude",
+        "mathpix_content": " of space instead of its three coordinates, and on the magnitude",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 25,
+        "type": "text",
+        "content": "and direction of a force instead of its three components. This",
+        "mathpix_content": " and direction of a force instead of its three components. This",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 26,
+        "type": "text",
+        "content": "mode of contemplating geometrical and physical quantities is",
+        "mathpix_content": " mode of contemplating geometrical and physical quantities is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 27,
+        "type": "text",
+        "content": "more primitive and more natural than the other, although the",
+        "mathpix_content": " more primitive and more natural than the other, although the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 28,
+        "type": "text",
+        "content": "ideas connected with it did not receive their full development",
+        "mathpix_content": " ideas connected with it did not receive their full development",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 29,
+        "type": "text",
+        "content": "till Hamilton made the next great step in dealing with space, by",
+        "mathpix_content": " till Hamilton made the next great step in dealing with space, by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 30,
+        "type": "text",
+        "content": "the invention of his Calculus of Quaternions *.",
+        "mathpix_content": " the invention of his Calculus of Quaternions *.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 31,
+        "type": "text",
+        "content": "As the methods of Des Cartes are still the most familiar to",
+        "mathpix_content": "\n\nAs the methods of Des Cartes are still the most familiar to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 32,
+        "type": "text",
+        "content": "students of science, and as they are really the most useful for",
+        "mathpix_content": " students of science, and as they are really the most useful for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 33,
+        "type": "text",
+        "content": "purposes of calculation, we shall express all our results in the",
+        "mathpix_content": " purposes of calculation, we shall express all our results in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 34,
+        "type": "text",
+        "content": "Cartesian form. I am convinced, however, that the introduction",
+        "mathpix_content": " Cartesian form. I am convinced, however, that the introduction",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 35,
+        "type": "text",
+        "content": "of the ideas, as distinguished from the operations and methods of",
+        "mathpix_content": " of the ideas, as distinguished from the operations and methods of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 36,
+        "type": "text",
+        "content": "Quaternions, will be of great use to us in the study of all parts",
+        "mathpix_content": " Quaternions, will be of great use to us in the study of all parts",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 37,
+        "type": "text",
+        "content": "of our subject, and especially in electrodynamics, where we have",
+        "mathpix_content": " of our subject, and especially in electrodynamics, where we have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 38,
+        "type": "text",
+        "content": "to deal with a number of physical quantities, the relations of",
+        "mathpix_content": " to deal with a number of physical quantities, the relations of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 39,
+        "type": "text",
+        "content": "which to each other can be expressed far more simply by a few",
+        "mathpix_content": " which to each other can be expressed far more simply by a few",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 44,
+        "line_number": 40,
+        "type": "text",
+        "content": "expressions of Hamilton's, than by the ordinary equations.",
+        "mathpix_content": " expressions of Hamilton's, than by the ordinary equations.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 44,
+        "line_number": 41,
+        "type": "text",
+        "content": "* \\{For an elementary account of Quaternions, the reader may be referred to Kel-",
+        "mathpix_content": "\n* \\{For an elementary account of Quaternions, the reader may be referred to Kel",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 44,
+        "line_number": 42,
+        "type": "text",
+        "content": "land and Tait's 'Introduction to Quaternions,' Tait's 'Elementary Treatise on",
+        "mathpix_content": "land and Tait's 'Introduction to Quaternions,' Tait's 'Elementary Treatise on",
+        "font_size": 27,
+        "confidence": 0.9902555861044675
+      },
+      {
+        "page": 44,
+        "line_number": 43,
+        "type": "text",
+        "content": "Quaterniona,' and Hamilton's 'Elements of Quaternions.'\\}",
+        "mathpix_content": " Quaterniona,' and Hamilton's 'Elements of Quaternions.'\\}",
+        "font_size": 27,
+        "confidence": 0.5857610034719241
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

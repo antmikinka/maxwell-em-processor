@@ -1,0 +1,20 @@
+{
+  "article_id": "article_11",
+  "article_number": 11,
+  "title_original": "}=a\\left(1-\\xi^{2}\\right)\\left\\{\\frac{1}{2} \\frac{1}{1-a}-\\right. & \\int_{0}^{\\infty} \\frac{\\epsilon^{2 t \\log \\xi}}{1-a \\epsilon^{2 t \\log a}} d t \\\\",
+  "title_safe": "equalsaleft1-xi2rightleftfrac12 frac11-a-right. and int0inft",
+  "page_start": 318,
+  "page_end": 317,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

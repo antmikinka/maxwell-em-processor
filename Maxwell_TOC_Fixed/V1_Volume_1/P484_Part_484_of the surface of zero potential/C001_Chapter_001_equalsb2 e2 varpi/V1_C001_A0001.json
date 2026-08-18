@@ -1,0 +1,363 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}=b^{2} e^{2 \\varpi},$$",
+  "title_safe": "equalsb2 e2 varpi",
+  "page_start": 301,
+  "page_end": 301,
+  "content": {
+    "raw_text": "\n--- Page 301 ---\n266\nELECTRIC IMAGES.\n[171.\nplace at the system of eight points $\\left( \\pm \\frac{1}{2 a}, \\pm \\frac{1}{2 \\beta}, \\pm \\frac{1}{2 \\gamma}\\right)$\ncharges $\\pm e$, the minus charges being at the points which have\n1 or 3 negative coordinates. Then it is obvious the coordinate\nplanes are at potential zero. Now let us invert with regard to\nany point and we have the case of three spheres cutting ortho-\ngonally under the influence of an electrified point. If we invert\nwith regard to one of the electrified points, we find the solution\nfor the case of a conductor in the form of three spheres of radii\n$a, \\beta, \\gamma$ cutting orthogonally and freely charged.\nIf to the above system of electrified points we superadd their\nimages in a sphere with its centre at the origin we see that, in\naddition to the three coordinate planes, the surface of the sphere\nforms also a part of the surface of zero potential.]\n\nTwo Spheres not Intersecting.\n171.] When a space is bounded by two spherical surfaces\nwhich do not intersect, the successive images of an influencing\npoint within this space form two infinite series, none of which lie\nbetween the spherical surfaces, and therefore fulfil the condition\nof the applicability of the method of electrical images.\nAny two non-intersecting spheres may be inverted into two\nconcentric spheres by assuming as the point of inversion either\nof the two common inverse points of the pair of spheres.\nWe shall begin, therefore, with the case of two uninsulated\n\n\nFig. 14.\nconcentric spherical surfaces, subject\nto the induction of an electrified point\n$P$ placed between them.\nLet the radius of the first be $b$, and\nthat of the second $b e^{\\text {w }}$, and let the\ndistance of the influencing point from\nthe centre be $r=b e^{\\mathrm{u}}$.\nThen all the successive images\nwill be on the same radius as the\ninfluancing point.\nLet $Q_{0}$, Fig. 14, be the image of $P$ in the first sphere, $P_{1}$ that\nof $Q_{0}$ in the second sphere, $Q_{1}$ that of $P_{1}$ in the first sphere, and\nso on ; then\n$O P_{4} . O Q_{4}=b^{2}$,\nand\n$$O P_{\\bullet} \\cdot O Q_{t-1}=b^{2} e^{2 \\varpi},$$\n",
+    "mathpix_markdown": "\n--- Page 301 ---\n\nplace at the system of eight points $\\left( \\pm \\frac{1}{2 a}, \\pm \\frac{1}{2 \\beta}, \\pm \\frac{1}{2 \\gamma}\\right)$\n charges $\\pm e$, the minus charges being at the points which have\n 1 or 3 negative coordinates. Then it is obvious the coordinate\n planes are at potential zero. Now let us invert with regard to\n any point and we have the case of three spheres cutting ortho\ngonally under the influence of an electrified point. If we invert\n with regard to one of the electrified points, we find the solution\n for the case of a conductor in the form of three spheres of radii\n $a, \\beta, \\gamma$ cutting orthogonally and freely charged.\n\n\nIf to the above system of electrified points we superadd their\n images in a sphere with its centre at the origin we see that, in\n addition to the three coordinate planes, the surface of the sphere\n forms also a part of the surface of zero potential.]\n\n\n\\section*{Two Spheres not Intersecting.}\n\n171.] When a space is bounded by two spherical surfaces\n which do not intersect, the successive images of an influencing\n point within this space form two infinite series, none of which lie\n between the spherical surfaces, and therefore fulfil the condition\n of the applicability of the method of electrical images.\n\n\nAny two non-intersecting spheres may be inverted into two\n concentric spheres by assuming as the point of inversion either\n of the two common inverse points of the pair of spheres.\n\n\nWe shall begin, therefore, with the case of two uninsulated\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-301.jpg?height=344&width=375&top_left_y=1325&top_left_x=153}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 14.}\n\\end{figure}\n\nconcentric spherical surfaces, subject\n to the induction of an electrified point\n $P$ placed between them.\n\n\nLet the radius of the first be $b$, and\n that of the second $b e^{\\text {w }}$, and let the\n distance of the influencing point from\n the centre be $r=b e^{\\mathrm{u}}$.\n\n\nThen all the successive images\n will be on the same radius as the\n influancing point.\n\nLet $Q_{0}$, Fig. 14, be the image of $P$ in the first sphere, $P_{1}$ that\n of $Q_{0}$ in the second sphere, $Q_{1}$ that of $P_{1}$ in the first sphere, and\n so on ; then\n\n$O P_{4} . O Q_{4}=b^{2}$,\n\nand\n\n$$O P_{\\bullet} \\cdot O Q_{t-1}=b^{2} e^{2 \\varpi},$$\n",
+    "structured_lines": [
+      {
+        "page": 301,
+        "line_number": 4,
+        "type": "text",
+        "content": "place at the system of eight points $\\left( \\pm \\frac{1}{2 a}, \\pm \\frac{1}{2 \\beta}, \\pm \\frac{1}{2 \\gamma}\\right)$",
+        "mathpix_content": "\nplace at the system of eight points $\\left( \\pm \\frac{1}{2 a}, \\pm \\frac{1}{2 \\beta}, \\pm \\frac{1}{2 \\gamma}\\right)$",
+        "font_size": 27,
+        "confidence": 0.9277622083054666
+      },
+      {
+        "page": 301,
+        "line_number": 5,
+        "type": "text",
+        "content": "charges $\\pm e$, the minus charges being at the points which have",
+        "mathpix_content": " charges $\\pm e$, the minus charges being at the points which have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 6,
+        "type": "text",
+        "content": "1 or 3 negative coordinates. Then it is obvious the coordinate",
+        "mathpix_content": " 1 or 3 negative coordinates. Then it is obvious the coordinate",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 7,
+        "type": "text",
+        "content": "planes are at potential zero. Now let us invert with regard to",
+        "mathpix_content": " planes are at potential zero. Now let us invert with regard to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 8,
+        "type": "text",
+        "content": "any point and we have the case of three spheres cutting ortho-",
+        "mathpix_content": " any point and we have the case of three spheres cutting ortho",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 9,
+        "type": "text",
+        "content": "gonally under the influence of an electrified point. If we invert",
+        "mathpix_content": "gonally under the influence of an electrified point. If we invert",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 10,
+        "type": "text",
+        "content": "with regard to one of the electrified points, we find the solution",
+        "mathpix_content": " with regard to one of the electrified points, we find the solution",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 11,
+        "type": "text",
+        "content": "for the case of a conductor in the form of three spheres of radii",
+        "mathpix_content": " for the case of a conductor in the form of three spheres of radii",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 12,
+        "type": "text",
+        "content": "$a, \\beta, \\gamma$ cutting orthogonally and freely charged.",
+        "mathpix_content": " $a, \\beta, \\gamma$ cutting orthogonally and freely charged.",
+        "font_size": 27,
+        "confidence": 0.95947265625
+      },
+      {
+        "page": 301,
+        "line_number": 13,
+        "type": "text",
+        "content": "If to the above system of electrified points we superadd their",
+        "mathpix_content": "\n\nIf to the above system of electrified points we superadd their",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 14,
+        "type": "text",
+        "content": "images in a sphere with its centre at the origin we see that, in",
+        "mathpix_content": " images in a sphere with its centre at the origin we see that, in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 15,
+        "type": "text",
+        "content": "addition to the three coordinate planes, the surface of the sphere",
+        "mathpix_content": " addition to the three coordinate planes, the surface of the sphere",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 301,
+        "line_number": 16,
+        "type": "text",
+        "content": "forms also a part of the surface of zero potential.]",
+        "mathpix_content": " forms also a part of the surface of zero potential.]",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 18,
+        "type": "text",
+        "content": "Two Spheres not Intersecting.",
+        "mathpix_content": "\n\n\\section*{Two Spheres not Intersecting.}",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 301,
+        "line_number": 19,
+        "type": "text",
+        "content": "171.] When a space is bounded by two spherical surfaces",
+        "mathpix_content": "\n171.] When a space is bounded by two spherical surfaces",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 20,
+        "type": "text",
+        "content": "which do not intersect, the successive images of an influencing",
+        "mathpix_content": " which do not intersect, the successive images of an influencing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 21,
+        "type": "text",
+        "content": "point within this space form two infinite series, none of which lie",
+        "mathpix_content": " point within this space form two infinite series, none of which lie",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 22,
+        "type": "text",
+        "content": "between the spherical surfaces, and therefore fulfil the condition",
+        "mathpix_content": " between the spherical surfaces, and therefore fulfil the condition",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 23,
+        "type": "text",
+        "content": "of the applicability of the method of electrical images.",
+        "mathpix_content": " of the applicability of the method of electrical images.",
+        "font_size": 27,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 301,
+        "line_number": 24,
+        "type": "text",
+        "content": "Any two non-intersecting spheres may be inverted into two",
+        "mathpix_content": "\n\nAny two non-intersecting spheres may be inverted into two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 25,
+        "type": "text",
+        "content": "concentric spheres by assuming as the point of inversion either",
+        "mathpix_content": " concentric spheres by assuming as the point of inversion either",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 26,
+        "type": "text",
+        "content": "of the two common inverse points of the pair of spheres.",
+        "mathpix_content": " of the two common inverse points of the pair of spheres.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 27,
+        "type": "text",
+        "content": "We shall begin, therefore, with the case of two uninsulated",
+        "mathpix_content": "\n\nWe shall begin, therefore, with the case of two uninsulated",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 31,
+        "type": "text",
+        "content": "concentric spherical surfaces, subject",
+        "mathpix_content": "\nconcentric spherical surfaces, subject",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 32,
+        "type": "text",
+        "content": "to the induction of an electrified point",
+        "mathpix_content": " to the induction of an electrified point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 33,
+        "type": "text",
+        "content": "$P$ placed between them.",
+        "mathpix_content": " $P$ placed between them.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 34,
+        "type": "text",
+        "content": "Let the radius of the first be $b$, and",
+        "mathpix_content": "\n\nLet the radius of the first be $b$, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 35,
+        "type": "text",
+        "content": "that of the second $b e^{\\text {w }}$, and let the",
+        "mathpix_content": " that of the second $b e^{\\text {w }}$, and let the",
+        "font_size": 27,
+        "confidence": 0.5437660217285156
+      },
+      {
+        "page": 301,
+        "line_number": 36,
+        "type": "text",
+        "content": "distance of the influencing point from",
+        "mathpix_content": " distance of the influencing point from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 37,
+        "type": "text",
+        "content": "the centre be $r=b e^{\\mathrm{u}}$.",
+        "mathpix_content": " the centre be $r=b e^{\\mathrm{u}}$.",
+        "font_size": 27,
+        "confidence": 0.4299159049987793
+      },
+      {
+        "page": 301,
+        "line_number": 38,
+        "type": "text",
+        "content": "Then all the successive images",
+        "mathpix_content": "\n\nThen all the successive images",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 39,
+        "type": "text",
+        "content": "will be on the same radius as the",
+        "mathpix_content": " will be on the same radius as the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 40,
+        "type": "text",
+        "content": "influancing point.",
+        "mathpix_content": " influancing point.",
+        "font_size": 27,
+        "confidence": 0.8837413787841797
+      },
+      {
+        "page": 301,
+        "line_number": 41,
+        "type": "text",
+        "content": "Let $Q_{0}$, Fig. 14, be the image of $P$ in the first sphere, $P_{1}$ that",
+        "mathpix_content": "\nLet $Q_{0}$, Fig. 14, be the image of $P$ in the first sphere, $P_{1}$ that",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 301,
+        "line_number": 42,
+        "type": "text",
+        "content": "of $Q_{0}$ in the second sphere, $Q_{1}$ that of $P_{1}$ in the first sphere, and",
+        "mathpix_content": " of $Q_{0}$ in the second sphere, $Q_{1}$ that of $P_{1}$ in the first sphere, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 301,
+        "line_number": 43,
+        "type": "text",
+        "content": "so on ; then",
+        "mathpix_content": " so on ; then",
+        "font_size": 27,
+        "confidence": 0.955078125
+      },
+      {
+        "page": 301,
+        "line_number": 44,
+        "type": "text",
+        "content": "$O P_{4} . O Q_{4}=b^{2}$,",
+        "mathpix_content": "\n$O P_{4} . O Q_{4}=b^{2}$,",
+        "font_size": 27,
+        "confidence": 0.6230343102345159
+      },
+      {
+        "page": 301,
+        "line_number": 45,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

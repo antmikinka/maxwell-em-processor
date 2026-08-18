@@ -1,0 +1,680 @@
+{
+  "chapter_id": "chapter_17",
+  "chapter_number": 46,
+  "title": ") by making its members equal",
+  "page_start": 242,
+  "page_end": 242,
+  "articles": [
+    {
+      "article_id": "article_136",
+      "article_number": 136,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_136",
+      "article_number": 136,
+      "title_original": "] We have seen that the surface integral of the product of",
+      "title_safe": "We have seen that the surface integral of the product of",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_136",
+      "article_number": 136,
+      "title_original": "] We have seen that the surface integral of the product of",
+      "title_safe": "We have seen that the surface integral of the product of",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_136",
+      "article_number": 136,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_207",
+      "article_number": 207,
+      "title_original": "$d s$ of the surface a zonal harmonic is constructed having its pole",
+      "title_safe": "d s of the surface a zonal harmonic is constructed having it",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "$.",
+      "title_safe": "Article",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "n+1}{4 \\pi u^{2}} \\iint F l_{n} d s$$",
+      "title_safe": "nplus14 pi u2 iint F ln d s",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "} Y_{0}+A_{1} Y_{1}+\\text { \\&c. }+A_{n} Y_{n}+\\text { \\&c. },$$",
+      "title_safe": "Y0plusA1 Y1plustext andc. plusAn Ynplustext andc",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi a^{2}}{2 n+1} A_{n} Y_{n}$$",
+      "title_safe": "pi a22 nplus1 An Yn",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi \\alpha^{2}}\\left[\\iint F P_{0} d s+\\& \\mathrm{c} .+(2 n+1) \\iint F P_{n} d s+\\& \\mathrm{c} .\\right]$$",
+      "title_safe": "4 pi alpha2leftiint F P0 d splusand mathrmc .plus2 nplus1 ii",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_51",
+      "article_number": 51,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_136",
+      "article_number": 136,
+      "title_original": ".] We have seen that the surface integral of the product of",
+      "title_safe": "We have seen that the surface integral of the product of",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_46",
+      "article_number": 46,
+      "title_original": ") by making its members equal",
+      "title_safe": "by making its members equal",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "$.",
+      "title_safe": "Article",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "n+1}{4 \\pi u^{2}} \\iint F l_{n} d s$$",
+      "title_safe": "nplus14 pi u2 iint F ln d s",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "} Y_{0}+A_{1} Y_{1}+\\text { \\&c. }+A_{n} Y_{n}+\\text { \\&c. },$$",
+      "title_safe": "Y0plusA1 Y1plustext andc. plusAn Ynplustext andc",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi a^{2}}{2 n+1} A_{n} Y_{n}$$",
+      "title_safe": "pi a22 nplus1 An Yn",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi \\alpha^{2}}\\left[\\iint F P_{0} d s+\\& \\mathrm{c} .+(2 n+1) \\iint F P_{n} d s+\\& \\mathrm{c} .\\right] \\tag{51}",
+      "title_safe": "4 pi alpha2leftiint F P0 d splusand mathrmc .plus2 nplus1 ii",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_136",
+      "article_number": 136,
+      "title_original": ".] We have seen that the surface integral of the product of",
+      "title_safe": "We have seen that the surface integral of the product of",
+      "page_start": 242,
+      "page_end": 241,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_46",
+      "article_number": 46,
+      "title_original": ") by making its members equal",
+      "title_safe": "by making its members equal",
+      "page_start": 242,
+      "page_end": 242,
+      "content": {
+        "raw_text": "\n--- Page 242 ---\n136.]\nCONJUGATE HARMONICS.\n207\n$d s$ of the surface a zonal harmonic is constructed having its pole\nat $Q$ and having a coefficient $F d 8$.\nWe shall thus have a system of zonal harmonics superposed\non each other with their poles at every point of the sphere where\n$F$ has a value. Since each of these is a multiple of a surface\nharmonic of order $n$, their sum is a multiple of a surface har-\nmonic (not necessarily zonal) of order $n$.\nThe surface integral $\\iint F P_{n} d s$ considered as a function of the\npoint $P$ is therefore a multiple of a surface harmonic $Y_{n}$; so that\n$$\\frac{2 n+1}{4 \\pi u^{2}} \\iint F l_{n} d s$$\nis also that particular surface harmonic of the $n^{\\text {th }}$ order which\nbelongs to the series of harmonics which expresses $F$, provided\n$F$ can be so expressed.\nFor if $F$ can be expressed in the form .\n$$F=A_{0} Y_{0}+A_{1} Y_{1}+\\text { \\&c. }+A_{n} Y_{n}+\\text { \\&c. },$$\nthen if we multiply by $P_{n} d s$ and take the surface integral over\nthe whole sphere, all terms involving products of harmonics of\ndifferent orders will vanish, leaving\n$$\\iint F P_{n} d s=\\frac{4 \\pi a^{2}}{2 n+1} A_{n} Y_{n}$$\nHence the only possible expansion of $F$ in spherical harmonics is\n$$F=\\frac{1}{4 \\pi \\alpha^{2}}\\left[\\iint F P_{0} d s+\\& \\mathrm{c} .+(2 n+1) \\iint F P_{n} d s+\\& \\mathrm{c} .\\right]$$\n(51)\n\nConjugate Harmonics.\n136.] We have seen that the surface integral of the product of\ntwo harmonics of different orders is always zero. But even\nwhen the two harmonics are of the same order, the surface\nintegral of their product may be zero. The two harmonics are\nthen said to be conjugate to each other. The condition of two\nharmonics of the same order being conjugate to each other is\nexpressed in terms of equation (46) by making its members equal\nto zero.\nIf one of the harmonics is zonal, the condition of conjugacy is\nthat the value of the other harmonic at the pole of the zonal\nharmonic must be zero.\nIf we begin with a given harmonic of the $n^{\\text {th }}$ order, then, in\n",
+        "mathpix_markdown": "\n--- Page 242 ---\n\n$d s$ of the surface a zonal harmonic is constructed having its pole\n at $Q$ and having a coefficient $F d 8$.\n\n\nWe shall thus have a system of zonal harmonics superposed\n on each other with their poles at every point of the sphere where\n $F$ has a value. Since each of these is a multiple of a surface\n harmonic of order $n$, their sum is a multiple of a surface har\nmonic (not necessarily zonal) of order $n$.\n\n\nThe surface integral $\\iint F P_{n} d s$ considered as a function of the\n point $P$ is therefore a multiple of a surface harmonic $Y_{n}$; so that\n\n$$\\frac{2 n+1}{4 \\pi u^{2}} \\iint F l_{n} d s$$\n\nis also that particular surface harmonic of the $n^{\\text {th }}$ order which\n belongs to the series of harmonics which expresses $F$, provided\n $F$ can be so expressed.\n\n\nFor if $F$ can be expressed in the form .\n\n$$F=A_{0} Y_{0}+A_{1} Y_{1}+\\text { \\&c. }+A_{n} Y_{n}+\\text { \\&c. },$$\n\nthen if we multiply by $P_{n} d s$ and take the surface integral over\n the whole sphere, all terms involving products of harmonics of\n different orders will vanish, leaving\n\n$$\\iint F P_{n} d s=\\frac{4 \\pi a^{2}}{2 n+1} A_{n} Y_{n}$$\n\n\nHence the only possible expansion of $F$ in spherical harmonics is\n\n$$\\begin{equation*}\nF=\\frac{1}{4 \\pi \\alpha^{2}}\\left[\\iint F P_{0} d s+\\& \\mathrm{c} .+(2 n+1) \\iint F P_{n} d s+\\& \\mathrm{c} .\\right] \\tag{51}\n\\end{equation*}$$\n\n\n\\section*{Conjugate Harmonics.}\n\n136.] We have seen that the surface integral of the product of\n two harmonics of different orders is always zero. But even\n when the two harmonics are of the same order, the surface\n integral of their product may be zero. The two harmonics are\n then said to be conjugate to each other. The condition of two\n harmonics of the same order being conjugate to each other is\n expressed in terms of equation (46) by making its members equal\n to zero.\n\n\nIf one of the harmonics is zonal, the condition of conjugacy is\n that the value of the other harmonic at the pole of the zonal\n harmonic must be zero.\n\n\nIf we begin with a given harmonic of the $n^{\\text {th }}$ order, then, in\n",
+        "structured_lines": [
+          {
+            "page": 242,
+            "line_number": 4,
+            "type": "text",
+            "content": "$d s$ of the surface a zonal harmonic is constructed having its pole",
+            "mathpix_content": "\n$d s$ of the surface a zonal harmonic is constructed having its pole",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 5,
+            "type": "text",
+            "content": "at $Q$ and having a coefficient $F d 8$.",
+            "mathpix_content": " at $Q$ and having a coefficient $F d 8$.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 6,
+            "type": "text",
+            "content": "We shall thus have a system of zonal harmonics superposed",
+            "mathpix_content": "\n\nWe shall thus have a system of zonal harmonics superposed",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 7,
+            "type": "text",
+            "content": "on each other with their poles at every point of the sphere where",
+            "mathpix_content": " on each other with their poles at every point of the sphere where",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 242,
+            "line_number": 8,
+            "type": "text",
+            "content": "$F$ has a value. Since each of these is a multiple of a surface",
+            "mathpix_content": " $F$ has a value. Since each of these is a multiple of a surface",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 9,
+            "type": "text",
+            "content": "harmonic of order $n$, their sum is a multiple of a surface har-",
+            "mathpix_content": " harmonic of order $n$, their sum is a multiple of a surface har",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 10,
+            "type": "text",
+            "content": "monic (not necessarily zonal) of order $n$.",
+            "mathpix_content": "monic (not necessarily zonal) of order $n$.",
+            "font_size": 34,
+            "confidence": 0.9873046875
+          },
+          {
+            "page": 242,
+            "line_number": 11,
+            "type": "text",
+            "content": "The surface integral $\\iint F P_{n} d s$ considered as a function of the",
+            "mathpix_content": "\n\nThe surface integral $\\iint F P_{n} d s$ considered as a function of the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 12,
+            "type": "text",
+            "content": "point $P$ is therefore a multiple of a surface harmonic $Y_{n}$; so that",
+            "mathpix_content": " point $P$ is therefore a multiple of a surface harmonic $Y_{n}$; so that",
+            "font_size": 34,
+            "confidence": 0.99853515625
+          },
+          {
+            "page": 242,
+            "line_number": 15,
+            "type": "text",
+            "content": "is also that particular surface harmonic of the $n^{\\text {th }}$ order which",
+            "mathpix_content": "\nis also that particular surface harmonic of the $n^{\\text {th }}$ order which",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 242,
+            "line_number": 16,
+            "type": "text",
+            "content": "belongs to the series of harmonics which expresses $F$, provided",
+            "mathpix_content": " belongs to the series of harmonics which expresses $F$, provided",
+            "font_size": 34,
+            "confidence": 0.9970703125
+          },
+          {
+            "page": 242,
+            "line_number": 17,
+            "type": "text",
+            "content": "$F$ can be so expressed.",
+            "mathpix_content": " $F$ can be so expressed.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 18,
+            "type": "text",
+            "content": "For if $F$ can be expressed in the form .",
+            "mathpix_content": "\n\nFor if $F$ can be expressed in the form .",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 242,
+            "line_number": 21,
+            "type": "text",
+            "content": "then if we multiply by $P_{n} d s$ and take the surface integral over",
+            "mathpix_content": "\nthen if we multiply by $P_{n} d s$ and take the surface integral over",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 22,
+            "type": "text",
+            "content": "the whole sphere, all terms involving products of harmonics of",
+            "mathpix_content": " the whole sphere, all terms involving products of harmonics of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 23,
+            "type": "text",
+            "content": "different orders will vanish, leaving",
+            "mathpix_content": " different orders will vanish, leaving",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 26,
+            "type": "text",
+            "content": "Hence the only possible expansion of $F$ in spherical harmonics is",
+            "mathpix_content": "\n\nHence the only possible expansion of $F$ in spherical harmonics is",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 31,
+            "type": "text",
+            "content": "Conjugate Harmonics.",
+            "mathpix_content": "\n\n\\section*{Conjugate Harmonics.}",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 242,
+            "line_number": 32,
+            "type": "text",
+            "content": "136.] We have seen that the surface integral of the product of",
+            "mathpix_content": "\n136.] We have seen that the surface integral of the product of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 33,
+            "type": "text",
+            "content": "two harmonics of different orders is always zero. But even",
+            "mathpix_content": " two harmonics of different orders is always zero. But even",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 34,
+            "type": "text",
+            "content": "when the two harmonics are of the same order, the surface",
+            "mathpix_content": " when the two harmonics are of the same order, the surface",
+            "font_size": 34,
+            "confidence": 0.8662109375
+          },
+          {
+            "page": 242,
+            "line_number": 35,
+            "type": "text",
+            "content": "integral of their product may be zero. The two harmonics are",
+            "mathpix_content": " integral of their product may be zero. The two harmonics are",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 36,
+            "type": "text",
+            "content": "then said to be conjugate to each other. The condition of two",
+            "mathpix_content": " then said to be conjugate to each other. The condition of two",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 37,
+            "type": "text",
+            "content": "harmonics of the same order being conjugate to each other is",
+            "mathpix_content": " harmonics of the same order being conjugate to each other is",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 38,
+            "type": "text",
+            "content": "expressed in terms of equation (46) by making its members equal",
+            "mathpix_content": " expressed in terms of equation (46) by making its members equal",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 39,
+            "type": "text",
+            "content": "to zero.",
+            "mathpix_content": " to zero.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 40,
+            "type": "text",
+            "content": "If one of the harmonics is zonal, the condition of conjugacy is",
+            "mathpix_content": "\n\nIf one of the harmonics is zonal, the condition of conjugacy is",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 41,
+            "type": "text",
+            "content": "that the value of the other harmonic at the pole of the zonal",
+            "mathpix_content": " that the value of the other harmonic at the pole of the zonal",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 42,
+            "type": "text",
+            "content": "harmonic must be zero.",
+            "mathpix_content": " harmonic must be zero.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 242,
+            "line_number": 43,
+            "type": "text",
+            "content": "If we begin with a given harmonic of the $n^{\\text {th }}$ order, then, in",
+            "mathpix_content": "\n\nIf we begin with a given harmonic of the $n^{\\text {th }}$ order, then, in",
+            "font_size": 34,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

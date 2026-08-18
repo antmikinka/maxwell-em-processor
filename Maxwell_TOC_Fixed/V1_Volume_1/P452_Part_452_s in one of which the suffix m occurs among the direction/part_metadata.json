@@ -1,0 +1,834 @@
+{
+  "part_id": "part_452",
+  "part_number": 452,
+  "title": "s, in one of which the suffix $m$ occurs among the direction",
+  "page_start": 237,
+  "page_end": 237,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 202,
+      "title": "SPHERICAL HARMONICS.",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 133,
+      "title": "them purely mathematical, for though we have made use of terms",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 133,
+      "title": "] We shall now determine the form of the surface har-",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 0,
+      "title": "}=1, \\quad Y_{1}=\\mu_{1}, \\quad Y_{2}=\\frac{3}{2} \\mu_{1} \\mu_{2}-\\frac{1}{2} \\lambda_{12}, \\\\",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 3,
+      "title": "}^{r}=\\frac{5}{2} \\mu_{1} \\mu_{2} \\mu_{3}-\\frac{1}{2}\\left(\\mu_{1} \\lambda_{23}+\\mu_{2} \\lambda_{31}+\\mu_{3} \\lambda_{12}\\right),",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 32,
+      "title": ")",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 2,
+      "title": "s$ cosines with single suffixes.",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 28,
+      "title": "} \\lambda^{6}\\right) .$$",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 2,
+      "title": "s} \\lambda^{\\cdot}\\right)=\\Sigma\\left(\\mu_{m}^{n-2 n} \\lambda^{s}\\right)+\\Sigma\\left(\\mu^{n-2 s} \\wedge_{m}^{g}\\right)$$",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 33,
+      "title": ")",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 133,
+      "title": "] We shall now determine the form of the surface har",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 0,
+      "title": "}=1, \\quad Y_{1}=\\mu_{1}, \\quad Y_{2}=\\frac{3}{2} \\mu_{1} \\mu_{2}-\\frac{1}{2} \\lambda_{12}, \\\\",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 3,
+      "title": "}^{r}=\\frac{5}{2} \\mu_{1} \\mu_{2} \\mu_{3}-\\frac{1}{2}\\left(\\mu_{1} \\lambda_{23}+\\mu_{2} \\lambda_{31}+\\mu_{3} \\lambda_{12}\\right), \\tag{32}",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 2,
+      "title": "s$ cosines with single suffixes.",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 28,
+      "title": "} \\lambda^{6}\\right) .$$",
+      "page_start": 237,
+      "page_end": 236,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 2,
+      "title": "s} \\lambda^{\\cdot}\\right)=\\Sigma\\left(\\mu_{m}^{n-2 n} \\lambda^{s}\\right)+\\Sigma\\left(\\mu^{n-2 s} \\wedge_{m}^{g}\\right) \\tag{33}",
+      "page_start": 237,
+      "page_end": 237,
+      "articles": [
+        {
+          "article_id": "article_133",
+          "article_number": 133,
+          "title_original": "them purely mathematical, for though we have made use of terms",
+          "title_safe": "them purely mathematical for though we have made use of term",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_133",
+          "article_number": 133,
+          "title_original": "] We shall now determine the form of the surface har-",
+          "title_safe": "We shall now determine the form of the surface har",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_133",
+          "article_number": 133,
+          "title_original": "] We shall now determine the form of the surface har",
+          "title_safe": "We shall now determine the form of the surface har",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_202",
+          "article_number": 202,
+          "title_original": "SPHERICAL HARMONICS.",
+          "title_safe": "SPHERICAL HARMONICS",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_133",
+          "article_number": 133,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_133",
+          "article_number": 133,
+          "title_original": ".] We shall now determine the form of the surface har-",
+          "title_safe": "We shall now determine the form of the surface har",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}=1, \\quad Y_{1}=\\mu_{1}, \\quad Y_{2}=\\frac{3}{2} \\mu_{1} \\mu_{2}-\\frac{1}{2} \\lambda_{12}, \\\\",
+          "title_safe": "equals1 quad Y1equalsmu1 quad Y2equalsfrac32 mu1 mu2-frac12",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}^{r}=\\frac{5}{2} \\mu_{1} \\mu_{2} \\mu_{3}-\\frac{1}{2}\\left(\\mu_{1} \\lambda_{23}+\\mu_{2} \\lambda_{31}+\\mu_{3} \\lambda_{12}\\right),",
+          "title_safe": "requalsfrac52 mu1 mu2 mu3-frac12leftmu1 lambda23plusmu2 lamb",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_32",
+          "article_number": 32,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "s$ cosines with single suffixes.",
+          "title_safe": "s cosines with single suffixes",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": "} \\lambda^{6}\\right) .$$",
+          "title_safe": "lambda6right",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "s} \\lambda^{\\cdot}\\right)=\\Sigma\\left(\\mu_{m}^{n-2 n} \\lambda^{s}\\right)+\\Sigma\\left(\\mu^{n-2 s} \\wedge_{m}^{g}\\right)$$",
+          "title_safe": "s lambdacdotrightequalsSigmaleftmumn-2 n lambdasrightplusSig",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_33",
+          "article_number": 33,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_133",
+          "article_number": 133,
+          "title_original": ".] We shall now determine the form of the surface har",
+          "title_safe": "We shall now determine the form of the surface har",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}=1, \\quad Y_{1}=\\mu_{1}, \\quad Y_{2}=\\frac{3}{2} \\mu_{1} \\mu_{2}-\\frac{1}{2} \\lambda_{12}, \\\\",
+          "title_safe": "equals1 quad Y1equalsmu1 quad Y2equalsfrac32 mu1 mu2-frac12",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}^{r}=\\frac{5}{2} \\mu_{1} \\mu_{2} \\mu_{3}-\\frac{1}{2}\\left(\\mu_{1} \\lambda_{23}+\\mu_{2} \\lambda_{31}+\\mu_{3} \\lambda_{12}\\right), \\tag{32}",
+          "title_safe": "requalsfrac52 mu1 mu2 mu3-frac12leftmu1 lambda23plusmu2 lamb",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "s$ cosines with single suffixes.",
+          "title_safe": "s cosines with single suffixes",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": "} \\lambda^{6}\\right) .$$",
+          "title_safe": "lambda6right",
+          "page_start": 237,
+          "page_end": 236,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "s} \\lambda^{\\cdot}\\right)=\\Sigma\\left(\\mu_{m}^{n-2 n} \\lambda^{s}\\right)+\\Sigma\\left(\\mu^{n-2 s} \\wedge_{m}^{g}\\right) \\tag{33}",
+          "title_safe": "s lambdacdotrightequalsSigmaleftmumn-2 n lambdasrightplusSig",
+          "page_start": 237,
+          "page_end": 237,
+          "content": {
+            "raw_text": "\n--- Page 237 ---\n202\nSPHERICAL HARMONICS.\n[133.\nthem purely mathematical, for though we have made use of terms\nhaving a physical meaning, such as electrical energy, each of\nthese terms is regarded not as a physical phenomenon to be\ninvestigated, but as a definite mathematical expression. A\nmathematician has as much right to make use of these as of any\nother mathematical functions which he may find useful, and a\nphysicist, when he has to follow a mathematical calculation, will\nunderstand it all the better if each of the steps of the calculation\nadmits of a physical interpretation.\n133.] We shall now determine the form of the surface har-\nmonic $Y_{n}$ as a function of the position of a point $P$ on the sphere\nwith respect to the $n$ poles of the harmonic.\nWe have\n$$\\left.\\begin{array}{l}\nY_{0}=1, \\quad Y_{1}=\\mu_{1}, \\quad Y_{2}=\\frac{3}{2} \\mu_{1} \\mu_{2}-\\frac{1}{2} \\lambda_{12}, \\\\\nY_{3}^{r}=\\frac{5}{2} \\mu_{1} \\mu_{2} \\mu_{3}-\\frac{1}{2}\\left(\\mu_{1} \\lambda_{23}+\\mu_{2} \\lambda_{31}+\\mu_{3} \\lambda_{12}\\right),\n\\end{array}\\right\\}$$\n(32)\nand so on.\nEvery term of $Y_{n}$ therefore consists of products of cosines,\nthose of the form $\\mu$, with a single suffix, being cosines of the\nangles between $P$ and the different poles, and those of the form\n$\\lambda$, with double suffixes, being cosines of the angles between the\npoles.\nSince each axis is introduced by one of the $n$ differentiations,\nthe symbol of that axis must occur once and only once among\nthe suffixes of the cosines of each term.\nHence if in any term there are $s$ cosines with double suffixes,\nthere must be $n-2 s$ cosines with single suffixes.\nLet the sum of all products of cosines in which $s$ of them have\ndouble suffixes be written in the abbreviated form\n$$\\Sigma\\left(\\mu^{n-28} \\lambda^{6}\\right) .$$\nIn every one of the products all the suffixes occur once, and\nnone is repeated.\nIf we wish to express that a particular suffix, $m$, occurs among\nthe $\\mu$ 's only or among the $\\lambda$ 's only, we write it as a suffix to the\n$\\mu$ or the $\\lambda$. Thus the equation\n$$\\Sigma\\left(\\mu^{n-2 s} \\lambda^{\\cdot}\\right)=\\Sigma\\left(\\mu_{m}^{n-2 n} \\lambda^{s}\\right)+\\Sigma\\left(\\mu^{n-2 s} \\wedge_{m}^{g}\\right)$$\n(33)\nexpresses that the whole set of products may be divided into two\nparts, in one of which the suffix $m$ occurs among the direction\ncosines of the variable point $P$, and in the other among the\ncosines of the angles between the poles.\n",
+            "mathpix_markdown": "\n--- Page 237 ---\n\nthem purely mathematical, for though we have made use of terms\n having a physical meaning, such as electrical energy, each of\n these terms is regarded not as a physical phenomenon to be\n investigated, but as a definite mathematical expression. A\n mathematician has as much right to make use of these as of any\n other mathematical functions which he may find useful, and a\n physicist, when he has to follow a mathematical calculation, will\n understand it all the better if each of the steps of the calculation\n admits of a physical interpretation.\n\n133.] We shall now determine the form of the surface har\nmonic $Y_{n}$ as a function of the position of a point $P$ on the sphere\n with respect to the $n$ poles of the harmonic.\n\n\nWe have\n\n$$\\left.\\begin{array}{l}\nY_{0}=1, \\quad Y_{1}=\\mu_{1}, \\quad Y_{2}=\\frac{3}{2} \\mu_{1} \\mu_{2}-\\frac{1}{2} \\lambda_{12}, \\\\\nY_{3}^{r}=\\frac{5}{2} \\mu_{1} \\mu_{2} \\mu_{3}-\\frac{1}{2}\\left(\\mu_{1} \\lambda_{23}+\\mu_{2} \\lambda_{31}+\\mu_{3} \\lambda_{12}\\right), \\tag{32}\n\\end{array}\\right\\}$$\n\nand so on.\n\nEvery term of $Y_{n}$ therefore consists of products of cosines,\n those of the form $\\mu$, with a single suffix, being cosines of the\n angles between $P$ and the different poles, and those of the form\n $\\lambda$, with double suffixes, being cosines of the angles between the\n poles.\n\n\nSince each axis is introduced by one of the $n$ differentiations,\n the symbol of that axis must occur once and only once among\n the suffixes of the cosines of each term.\n\n\nHence if in any term there are $s$ cosines with double suffixes,\n there must be $n-2 s$ cosines with single suffixes.\n\n\nLet the sum of all products of cosines in which $s$ of them have\n double suffixes be written in the abbreviated form\n\n$$\\Sigma\\left(\\mu^{n-28} \\lambda^{6}\\right) .$$\n\n\nIn every one of the products all the suffixes occur once, and\n none is repeated.\n\n\nIf we wish to express that a particular suffix, $m$, occurs among\n the $\\mu$ 's only or among the $\\lambda$ 's only, we write it as a suffix to the\n $\\mu$ or the $\\lambda$. Thus the equation\n\n$$\\begin{equation*}\n\\Sigma\\left(\\mu^{n-2 s} \\lambda^{\\cdot}\\right)=\\Sigma\\left(\\mu_{m}^{n-2 n} \\lambda^{s}\\right)+\\Sigma\\left(\\mu^{n-2 s} \\wedge_{m}^{g}\\right) \\tag{33}\n\\end{equation*}$$\n\nexpresses that the whole set of products may be divided into two\n parts, in one of which the suffix $m$ occurs among the direction\n cosines of the variable point $P$, and in the other among the\n cosines of the angles between the poles.\n",
+            "structured_lines": [
+              {
+                "page": 237,
+                "line_number": 4,
+                "type": "text",
+                "content": "them purely mathematical, for though we have made use of terms",
+                "mathpix_content": "\nthem purely mathematical, for though we have made use of terms",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 5,
+                "type": "text",
+                "content": "having a physical meaning, such as electrical energy, each of",
+                "mathpix_content": " having a physical meaning, such as electrical energy, each of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 6,
+                "type": "text",
+                "content": "these terms is regarded not as a physical phenomenon to be",
+                "mathpix_content": " these terms is regarded not as a physical phenomenon to be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 7,
+                "type": "text",
+                "content": "investigated, but as a definite mathematical expression. A",
+                "mathpix_content": " investigated, but as a definite mathematical expression. A",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 8,
+                "type": "text",
+                "content": "mathematician has as much right to make use of these as of any",
+                "mathpix_content": " mathematician has as much right to make use of these as of any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 9,
+                "type": "text",
+                "content": "other mathematical functions which he may find useful, and a",
+                "mathpix_content": " other mathematical functions which he may find useful, and a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 10,
+                "type": "text",
+                "content": "physicist, when he has to follow a mathematical calculation, will",
+                "mathpix_content": " physicist, when he has to follow a mathematical calculation, will",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 11,
+                "type": "text",
+                "content": "understand it all the better if each of the steps of the calculation",
+                "mathpix_content": " understand it all the better if each of the steps of the calculation",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 12,
+                "type": "text",
+                "content": "admits of a physical interpretation.",
+                "mathpix_content": " admits of a physical interpretation.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 13,
+                "type": "text",
+                "content": "133.] We shall now determine the form of the surface har-",
+                "mathpix_content": "\n133.] We shall now determine the form of the surface har",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 14,
+                "type": "text",
+                "content": "monic $Y_{n}$ as a function of the position of a point $P$ on the sphere",
+                "mathpix_content": "monic $Y_{n}$ as a function of the position of a point $P$ on the sphere",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 15,
+                "type": "text",
+                "content": "with respect to the $n$ poles of the harmonic.",
+                "mathpix_content": " with respect to the $n$ poles of the harmonic.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 237,
+                "line_number": 16,
+                "type": "text",
+                "content": "We have",
+                "mathpix_content": "\n\nWe have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 21,
+                "type": "text",
+                "content": "and so on.",
+                "mathpix_content": "\nand so on.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 22,
+                "type": "text",
+                "content": "Every term of $Y_{n}$ therefore consists of products of cosines,",
+                "mathpix_content": "\nEvery term of $Y_{n}$ therefore consists of products of cosines,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 237,
+                "line_number": 23,
+                "type": "text",
+                "content": "those of the form $\\mu$, with a single suffix, being cosines of the",
+                "mathpix_content": " those of the form $\\mu$, with a single suffix, being cosines of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 24,
+                "type": "text",
+                "content": "angles between $P$ and the different poles, and those of the form",
+                "mathpix_content": " angles between $P$ and the different poles, and those of the form",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 25,
+                "type": "text",
+                "content": "$\\lambda$, with double suffixes, being cosines of the angles between the",
+                "mathpix_content": " $\\lambda$, with double suffixes, being cosines of the angles between the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 237,
+                "line_number": 26,
+                "type": "text",
+                "content": "poles.",
+                "mathpix_content": " poles.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 27,
+                "type": "text",
+                "content": "Since each axis is introduced by one of the $n$ differentiations,",
+                "mathpix_content": "\n\nSince each axis is introduced by one of the $n$ differentiations,",
+                "font_size": 27,
+                "confidence": 0.9795942866301175
+              },
+              {
+                "page": 237,
+                "line_number": 28,
+                "type": "text",
+                "content": "the symbol of that axis must occur once and only once among",
+                "mathpix_content": " the symbol of that axis must occur once and only once among",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 29,
+                "type": "text",
+                "content": "the suffixes of the cosines of each term.",
+                "mathpix_content": " the suffixes of the cosines of each term.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 30,
+                "type": "text",
+                "content": "Hence if in any term there are $s$ cosines with double suffixes,",
+                "mathpix_content": "\n\nHence if in any term there are $s$ cosines with double suffixes,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 31,
+                "type": "text",
+                "content": "there must be $n-2 s$ cosines with single suffixes.",
+                "mathpix_content": " there must be $n-2 s$ cosines with single suffixes.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 32,
+                "type": "text",
+                "content": "Let the sum of all products of cosines in which $s$ of them have",
+                "mathpix_content": "\n\nLet the sum of all products of cosines in which $s$ of them have",
+                "font_size": 27,
+                "confidence": 0.9990236759185791
+              },
+              {
+                "page": 237,
+                "line_number": 33,
+                "type": "text",
+                "content": "double suffixes be written in the abbreviated form",
+                "mathpix_content": " double suffixes be written in the abbreviated form",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 237,
+                "line_number": 36,
+                "type": "text",
+                "content": "In every one of the products all the suffixes occur once, and",
+                "mathpix_content": "\n\nIn every one of the products all the suffixes occur once, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 37,
+                "type": "text",
+                "content": "none is repeated.",
+                "mathpix_content": " none is repeated.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 38,
+                "type": "text",
+                "content": "If we wish to express that a particular suffix, $m$, occurs among",
+                "mathpix_content": "\n\nIf we wish to express that a particular suffix, $m$, occurs among",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 39,
+                "type": "text",
+                "content": "the $\\mu$ 's only or among the $\\lambda$ 's only, we write it as a suffix to the",
+                "mathpix_content": " the $\\mu$ 's only or among the $\\lambda$ 's only, we write it as a suffix to the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 40,
+                "type": "text",
+                "content": "$\\mu$ or the $\\lambda$. Thus the equation",
+                "mathpix_content": " $\\mu$ or the $\\lambda$. Thus the equation",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 44,
+                "type": "text",
+                "content": "expresses that the whole set of products may be divided into two",
+                "mathpix_content": "\nexpresses that the whole set of products may be divided into two",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 45,
+                "type": "text",
+                "content": "parts, in one of which the suffix $m$ occurs among the direction",
+                "mathpix_content": " parts, in one of which the suffix $m$ occurs among the direction",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 46,
+                "type": "text",
+                "content": "cosines of the variable point $P$, and in the other among the",
+                "mathpix_content": " cosines of the variable point $P$, and in the other among the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 237,
+                "line_number": 47,
+                "type": "text",
+                "content": "cosines of the angles between the poles.",
+                "mathpix_content": " cosines of the angles between the poles.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "chapter_id": "chapter_132",
+  "chapter_number": 2,
+  "title": "\\alpha e^{\\alpha+\\gamma} \\sin \\beta",
+  "page_start": 276,
+  "page_end": 276,
+  "articles": [
+    {
+      "article_id": "article_154",
+      "article_number": 154,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_154",
+      "article_number": 154,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_241",
+      "article_number": 241,
+      "title_original": "and $t+c$ respectively, and then make $t$ increase indefinitely, we",
+      "title_safe": "and tplusc respectively and then make t increase indefinitel",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "(x-\\lambda)+\\frac{y^{2}}{\\lambda-b}+\\frac{z^{2}}{\\lambda-c}=0$$",
+      "title_safe": "x-lambdaplusfracy2lambda-bplusfracz2lambda-cequals0",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_49",
+      "article_number": 49,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} & =4 \\frac{(b-\\lambda)(\\mu-b)(\\nu-b)}{c-b}, \\\\",
+      "title_safe": "and equals4 fracb-lambdamu-bnu-bc-b",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} & =4 \\frac{(c-\\lambda)(c-\\mu)(\\nu-c)}{c-b}",
+      "title_safe": "and equals4 fracc-lambdac-munu-cc-b",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_50",
+      "article_number": 50,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_7",
+      "article_number": 7,
+      "title_original": ") the cor-",
+      "title_safe": "the cor",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)-\\frac{1}{2}(c-b) \\cosh a, \\\\",
+      "title_safe": "2cplusb-frac12c-b cosh a",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)-\\frac{1}{2}(c-b) \\cos \\beta, \\\\",
+      "title_safe": "2cplusb-frac12c-b cos beta",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)+\\frac{1}{2}(c-b) \\cosh \\gamma ; \\\\",
+      "title_safe": "2cplusbplusfrac12c-b cosh gamma",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)+\\frac{1}{2}(c-b)(\\cosh \\gamma-\\cos \\beta-\\cosh a), \\\\",
+      "title_safe": "2cplusbplusfrac12c-bcosh gamma-cos beta-cosh a",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "(c-b) \\sinh \\frac{a}{2} \\sin \\frac{\\beta}{2} \\cosh \\frac{\\gamma}{2}, \\\\",
+      "title_safe": "c-b sinh fraca2 sin fracbeta2 cosh fracgamma2",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "(c-b) \\cosh \\frac{a}{2} \\cos \\frac{\\beta}{2} \\sinh \\frac{\\gamma}{2} .",
+      "title_safe": "c-b cosh fraca2 cos fracbeta2 sinh fracgamma2",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_51",
+      "article_number": 51,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_52",
+      "article_number": 52,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\alpha}-e^{2 \\gamma}\\right) \\\\",
+      "title_safe": "alpha-e2 gammaright",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\alpha e^{\\alpha+\\gamma} \\cos \\beta \\\\",
+      "title_safe": "alpha ealphaplusgamma cos beta",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\alpha e^{\\alpha+\\gamma} \\sin \\beta",
+      "title_safe": "alpha ealphaplusgamma sin beta",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_53",
+      "article_number": 53,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "(x-\\lambda)+\\frac{y^{2}}{\\lambda-b}+\\frac{z^{2}}{\\lambda-c}=0 \\tag{49}",
+      "title_safe": "x-lambdaplusfracy2lambda-bplusfracz2lambda-cequals0 tag49",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_50",
+      "article_number": 50,
+      "title_original": "}\\\\",
+      "title_safe": "Article",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} & =4 \\frac{(b-\\lambda)(\\mu-b)(\\nu-b)}{c-b}, \\\\",
+      "title_safe": "and equals4 fracb-lambdamu-bnu-bc-b",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} & =4 \\frac{(c-\\lambda)(c-\\mu)(\\nu-c)}{c-b}",
+      "title_safe": "and equals4 fracc-lambdac-munu-cc-b",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_7",
+      "article_number": 7,
+      "title_original": ") the cor",
+      "title_safe": "the cor",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)-\\frac{1}{2}(c-b) \\cosh a, \\\\",
+      "title_safe": "2cplusb-frac12c-b cosh a",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)-\\frac{1}{2}(c-b) \\cos \\beta,  \\tag{52}\\\\",
+      "title_safe": "2cplusb-frac12c-b cos beta tag52",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)+\\frac{1}{2}(c-b) \\cosh \\gamma ; \\\\",
+      "title_safe": "2cplusbplusfrac12c-b cosh gamma",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2}(c+b)+\\frac{1}{2}(c-b)(\\cosh \\gamma-\\cos \\beta-\\cosh a), \\\\",
+      "title_safe": "2cplusbplusfrac12c-bcosh gamma-cos beta-cosh a",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "(c-b) \\sinh \\frac{a}{2} \\sin \\frac{\\beta}{2} \\cosh \\frac{\\gamma}{2}, \\\\",
+      "title_safe": "c-b sinh fraca2 sin fracbeta2 cosh fracgamma2",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "(c-b) \\cosh \\frac{a}{2} \\cos \\frac{\\beta}{2} \\sinh \\frac{\\gamma}{2} .",
+      "title_safe": "c-b cosh fraca2 cos fracbeta2 sinh fracgamma2",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\alpha}-e^{2 \\gamma}\\right) \\\\",
+      "title_safe": "alpha-e2 gammaright",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\alpha e^{\\alpha+\\gamma} \\cos \\beta  \\tag{53}\\\\",
+      "title_safe": "alpha ealphaplusgamma cos beta tag53",
+      "page_start": 276,
+      "page_end": 275,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\alpha e^{\\alpha+\\gamma} \\sin \\beta",
+      "title_safe": "alpha ealphaplusgamma sin beta",
+      "page_start": 276,
+      "page_end": 276,
+      "content": {
+        "raw_text": "\n--- Page 276 ---\n154.]\nCYLINDERS AND PARABOLOIDS.\n241\nand $t+c$ respectively, and then make $t$ increase indefinitely, we\nobtain, in the limit, the equation of a system of paraboloids\nwhose foci are at the points $x=b$ and $x=c$, viz. the equation is\n$$4(x-\\lambda)+\\frac{y^{2}}{\\lambda-b}+\\frac{z^{2}}{\\lambda-c}=0$$\n(49)\nIf the variable parameter is $\\lambda$ for the first system of elliptic\nparaboloids, $\\mu$ for the hyperbolic paraboloids, and $\\nu$ for the second\nsystem of elliptic paraboloids, we have $\\lambda, b, \\mu, c, \\nu$ in ascending\norder of magnitude, and\n$$\\left.\\begin{array}{rl}\nx & =\\lambda+\\mu+\\nu-c-b, \\\\\ny^{2} & =4 \\frac{(b-\\lambda)(\\mu-b)(\\nu-b)}{c-b}, \\\\\nz^{2} & =4 \\frac{(c-\\lambda)(c-\\mu)(\\nu-c)}{c-b}\n\\end{array}\\right\\}$$\n(50)\nIn order to avoid infinite values in the integrals (7) the cor-\nresponding integrals in the paraboloidal system are taken\nbetween different limits.\nWe write in this case\n$$\\begin{aligned}\n& a=\\int_{\\lambda}^{b} \\frac{d \\lambda}{\\sqrt{(b-\\lambda)(c-\\lambda)}} \\\\\n& \\beta=\\int_{b}^{\\mu} \\frac{d \\mu}{\\sqrt{(\\mu-b)(c-\\mu)}} \\\\\n& \\gamma=\\int_{c}^{\\nu} \\frac{d \\nu}{\\sqrt{(\\nu-b)(\\nu-c)}}\n\\end{aligned}$$\nFrom these we find\n$$\\left.\\begin{array}{c}\n\\lambda=\\frac{1}{2}(c+b)-\\frac{1}{2}(c-b) \\cosh a, \\\\\n\\mu=\\frac{1}{2}(c+b)-\\frac{1}{2}(c-b) \\cos \\beta, \\\\\n\\nu=\\frac{1}{2}(c+b)+\\frac{1}{2}(c-b) \\cosh \\gamma ; \\\\\nx=\\frac{1}{2}(c+b)+\\frac{1}{2}(c-b)(\\cosh \\gamma-\\cos \\beta-\\cosh a), \\\\\ny=2(c-b) \\sinh \\frac{a}{2} \\sin \\frac{\\beta}{2} \\cosh \\frac{\\gamma}{2}, \\\\\nz=2(c-b) \\cosh \\frac{a}{2} \\cos \\frac{\\beta}{2} \\sinh \\frac{\\gamma}{2} .\n\\end{array}\\right\\}$$\n(51)\n(52)\nWhen $b=c$ we have the case of paraboloids of revolution\nabout the axis of $x$, and see foot note\\}\n$$\\begin{aligned}\n& x=\\alpha\\left(e^{2 \\alpha}-e^{2 \\gamma}\\right) \\\\\n& y=2 \\alpha e^{\\alpha+\\gamma} \\cos \\beta \\\\\n& z=2 \\alpha e^{\\alpha+\\gamma} \\sin \\beta\n\\end{aligned}$$\n(53)\nVOL. I.\nR\n",
+        "mathpix_markdown": "\n--- Page 276 ---\n\nand $t+c$ respectively, and then make $t$ increase indefinitely, we\n obtain, in the limit, the equation of a system of paraboloids\n whose foci are at the points $x=b$ and $x=c$, viz. the equation is\n\n$$\\begin{equation*}\n4(x-\\lambda)+\\frac{y^{2}}{\\lambda-b}+\\frac{z^{2}}{\\lambda-c}=0 \\tag{49}\n\\end{equation*}$$\n\n\nIf the variable parameter is $\\lambda$ for the first system of elliptic\n paraboloids, $\\mu$ for the hyperbolic paraboloids, and $\\nu$ for the second\n system of elliptic paraboloids, we have $\\lambda, b, \\mu, c, \\nu$ in ascending\n order of magnitude, and\n\n$$\\left.\\begin{array}{rl}\nx & =\\lambda+\\mu+\\nu-c-b,  \\tag{50}\\\\\ny^{2} & =4 \\frac{(b-\\lambda)(\\mu-b)(\\nu-b)}{c-b}, \\\\\nz^{2} & =4 \\frac{(c-\\lambda)(c-\\mu)(\\nu-c)}{c-b}\n\\end{array}\\right\\}$$\n\n\nIn order to avoid infinite values in the integrals (7) the cor\nresponding integrals in the paraboloidal system are taken\n between different limits.\n\n\nWe write in this case\n\n$$\\begin{aligned}\n& a=\\int_{\\lambda}^{b} \\frac{d \\lambda}{\\sqrt{(b-\\lambda)(c-\\lambda)}} \\\\\n& \\beta=\\int_{b}^{\\mu} \\frac{d \\mu}{\\sqrt{(\\mu-b)(c-\\mu)}} \\\\\n& \\gamma=\\int_{c}^{\\nu} \\frac{d \\nu}{\\sqrt{(\\nu-b)(\\nu-c)}}\n\\end{aligned}$$\n\n\nFrom these we find\n\n$$\\left.\\begin{array}{c}\n\\lambda=\\frac{1}{2}(c+b)-\\frac{1}{2}(c-b) \\cosh a, \\\\\n\\mu=\\frac{1}{2}(c+b)-\\frac{1}{2}(c-b) \\cos \\beta,  \\tag{52}\\\\\n\\nu=\\frac{1}{2}(c+b)+\\frac{1}{2}(c-b) \\cosh \\gamma ; \\\\\nx=\\frac{1}{2}(c+b)+\\frac{1}{2}(c-b)(\\cosh \\gamma-\\cos \\beta-\\cosh a), \\\\\ny=2(c-b) \\sinh \\frac{a}{2} \\sin \\frac{\\beta}{2} \\cosh \\frac{\\gamma}{2}, \\\\\nz=2(c-b) \\cosh \\frac{a}{2} \\cos \\frac{\\beta}{2} \\sinh \\frac{\\gamma}{2} .\n\\end{array}\\right\\}$$\n\n\nWhen $b=c$ we have the case of paraboloids of revolution\n about the axis of $x$, and see foot note\\}\n\n$$\\begin{align*}\n& x=\\alpha\\left(e^{2 \\alpha}-e^{2 \\gamma}\\right) \\\\\n& y=2 \\alpha e^{\\alpha+\\gamma} \\cos \\beta  \\tag{53}\\\\\n& z=2 \\alpha e^{\\alpha+\\gamma} \\sin \\beta\n\\end{align*}$$\n",
+        "structured_lines": [
+          {
+            "page": 276,
+            "line_number": 4,
+            "type": "text",
+            "content": "and $t+c$ respectively, and then make $t$ increase indefinitely, we",
+            "mathpix_content": "\nand $t+c$ respectively, and then make $t$ increase indefinitely, we",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 5,
+            "type": "text",
+            "content": "obtain, in the limit, the equation of a system of paraboloids",
+            "mathpix_content": " obtain, in the limit, the equation of a system of paraboloids",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 6,
+            "type": "text",
+            "content": "whose foci are at the points $x=b$ and $x=c$, viz. the equation is",
+            "mathpix_content": " whose foci are at the points $x=b$ and $x=c$, viz. the equation is",
+            "font_size": 27,
+            "confidence": 0.9677889347076416
+          },
+          {
+            "page": 276,
+            "line_number": 10,
+            "type": "text",
+            "content": "If the variable parameter is $\\lambda$ for the first system of elliptic",
+            "mathpix_content": "\n\nIf the variable parameter is $\\lambda$ for the first system of elliptic",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 11,
+            "type": "text",
+            "content": "paraboloids, $\\mu$ for the hyperbolic paraboloids, and $\\nu$ for the second",
+            "mathpix_content": " paraboloids, $\\mu$ for the hyperbolic paraboloids, and $\\nu$ for the second",
+            "font_size": 27,
+            "confidence": 0.99169921875
+          },
+          {
+            "page": 276,
+            "line_number": 12,
+            "type": "text",
+            "content": "system of elliptic paraboloids, we have $\\lambda, b, \\mu, c, \\nu$ in ascending",
+            "mathpix_content": " system of elliptic paraboloids, we have $\\lambda, b, \\mu, c, \\nu$ in ascending",
+            "font_size": 27,
+            "confidence": 0.55419921875
+          },
+          {
+            "page": 276,
+            "line_number": 13,
+            "type": "text",
+            "content": "order of magnitude, and",
+            "mathpix_content": " order of magnitude, and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 17,
+            "type": "text",
+            "content": "In order to avoid infinite values in the integrals (7) the cor-",
+            "mathpix_content": "\n\nIn order to avoid infinite values in the integrals (7) the cor",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 18,
+            "type": "text",
+            "content": "responding integrals in the paraboloidal system are taken",
+            "mathpix_content": "responding integrals in the paraboloidal system are taken",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 19,
+            "type": "text",
+            "content": "between different limits.",
+            "mathpix_content": " between different limits.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 20,
+            "type": "text",
+            "content": "We write in this case",
+            "mathpix_content": "\n\nWe write in this case",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 25,
+            "type": "text",
+            "content": "From these we find",
+            "mathpix_content": "\n\nFrom these we find",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 31,
+            "type": "text",
+            "content": "When $b=c$ we have the case of paraboloids of revolution",
+            "mathpix_content": "\n\nWhen $b=c$ we have the case of paraboloids of revolution",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 276,
+            "line_number": 32,
+            "type": "text",
+            "content": "about the axis of $x$, and see foot note\\}",
+            "mathpix_content": " about the axis of $x$, and see foot note\\}",
+            "font_size": 27,
+            "confidence": 0.6728297215886414
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "article_id": "article_74",
+  "article_number": 74,
+  "title_original": "b.] The experiment has recently been repeated at the",
+  "title_safe": "b. The experiment has recently been repeated at the",
+  "page_start": 116,
+  "page_end": 116,
+  "content": {
+    "raw_text": "\n--- Page 116 ---\n74 b.]\nPROOF OF THE LAW OF FORCE.\n81\ntogether, formed an insulated spherical shell concentric with the\nglobe.\nThe globe could then be inade to communicate with the hemi-\nspheres by means of a short wire, to which a silk string was\nfastened so that the wire could be removed without discharging\nthe apparatus.\nThe globe being in communication with the hemispheres, he\ncharged the hemispheres by means of a Leyden jar, the potential\nof which had been previously measured by an electrometer, and\nimmediately drew out the communicating wire by means of the\nsilk string, removed and discharged the hemispheres, and tested\nthe electrical condition of the globe by means of a pith ball\nelectrometer.\nNo indication of any charge of the globe could be detected by\nthe pith ball electrometer, which at that time (1773) was con-\nsidered the most delicate electroscope.\nCavendish next communicated to the globe a known fraction\nof the charge formerly communicated to the hemispheres, and\ntested the globe again with his electrometer.\nHe thus found that the charge of the globe in the original\nexperiment must have been less than $\\frac{1}{80}$ of the charge of the\nwhole apparatus, for if it had been greater it would have been\ndetected by the electrometer.\nHe then calculated the ratio of the charge of the globe to\nthat of the hemispheres on the hypothesis that the repulsion is\ninversely as a power of the distance differing slightly from 2 ,\nand found that if this difference was $\\frac{1}{50}$ there would have\nbeen a charge on the globe equal to $\\frac{1}{57}$ of that of the whole\napparatus, and therefore capable of being detected by the\nelectrometer.\n74b.] The experiment has recently been repeated at the\nCavendish Laboratory in a somewhat different manner.\nThe hemispheres were fixed on an insulating stand, and the\nglobe fixed in its proper position within them by means of an\nebonite ring. By this arrangement the insulating support of the\nglobe was never exposed to the action of any sensible electric\nforce, and therefore never became charged, so that the disturbing\neffect of electricity creeping along the surface of the insulators\nwas entirely removed.\nInstead of removing the hemispheres before testing the potential\nVOL. I.\nG\n",
+    "mathpix_markdown": "\n--- Page 116 ---\n\ntogether, formed an insulated spherical shell concentric with the\n globe.\n\n\nThe globe could then be inade to communicate with the hemi\nspheres by means of a short wire, to which a silk string was\n fastened so that the wire could be removed without discharging\n the apparatus.\n\n\nThe globe being in communication with the hemispheres, he\n charged the hemispheres by means of a Leyden jar, the potential\n of which had been previously measured by an electrometer, and\n immediately drew out the communicating wire by means of the\n silk string, removed and discharged the hemispheres, and tested\n the electrical condition of the globe by means of a pith ball\n electrometer.\n\n\nNo indication of any charge of the globe could be detected by\n the pith ball electrometer, which at that time (1773) was con\nsidered the most delicate electroscope.\n\n\nCavendish next communicated to the globe a known fraction\n of the charge formerly communicated to the hemispheres, and\n tested the globe again with his electrometer.\n\n\nHe thus found that the charge of the globe in the original\n experiment must have been less than $\\frac{1}{80}$ of the charge of the\n whole apparatus, for if it had been greater it would have been\n detected by the electrometer.\n\n\nHe then calculated the ratio of the charge of the globe to\n that of the hemispheres on the hypothesis that the repulsion is\n inversely as a power of the distance differing slightly from 2 ,\n and found that if this difference was $\\frac{1}{50}$ there would have\n been a charge on the globe equal to $\\frac{1}{57}$ of that of the whole\n apparatus, and therefore capable of being detected by the\n electrometer.\n\n\n74b.] The experiment has recently been repeated at the\n Cavendish Laboratory in a somewhat different manner.\n\n\nThe hemispheres were fixed on an insulating stand, and the\n globe fixed in its proper position within them by means of an\n ebonite ring. By this arrangement the insulating support of the\n globe was never exposed to the action of any sensible electric\n force, and therefore never became charged, so that the disturbing\n effect of electricity creeping along the surface of the insulators\n was entirely removed.\n\n\nInstead of removing the hemispheres before testing the potential\n",
+    "structured_lines": [
+      {
+        "page": 116,
+        "line_number": 4,
+        "type": "text",
+        "content": "together, formed an insulated spherical shell concentric with the",
+        "mathpix_content": "\ntogether, formed an insulated spherical shell concentric with the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 5,
+        "type": "text",
+        "content": "globe.",
+        "mathpix_content": " globe.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 6,
+        "type": "text",
+        "content": "The globe could then be inade to communicate with the hemi-",
+        "mathpix_content": "\n\nThe globe could then be inade to communicate with the hemi",
+        "font_size": 27,
+        "confidence": 0.7962164878845215
+      },
+      {
+        "page": 116,
+        "line_number": 7,
+        "type": "text",
+        "content": "spheres by means of a short wire, to which a silk string was",
+        "mathpix_content": "spheres by means of a short wire, to which a silk string was",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 8,
+        "type": "text",
+        "content": "fastened so that the wire could be removed without discharging",
+        "mathpix_content": " fastened so that the wire could be removed without discharging",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 9,
+        "type": "text",
+        "content": "the apparatus.",
+        "mathpix_content": " the apparatus.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 10,
+        "type": "text",
+        "content": "The globe being in communication with the hemispheres, he",
+        "mathpix_content": "\n\nThe globe being in communication with the hemispheres, he",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 11,
+        "type": "text",
+        "content": "charged the hemispheres by means of a Leyden jar, the potential",
+        "mathpix_content": " charged the hemispheres by means of a Leyden jar, the potential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 12,
+        "type": "text",
+        "content": "of which had been previously measured by an electrometer, and",
+        "mathpix_content": " of which had been previously measured by an electrometer, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 13,
+        "type": "text",
+        "content": "immediately drew out the communicating wire by means of the",
+        "mathpix_content": " immediately drew out the communicating wire by means of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 14,
+        "type": "text",
+        "content": "silk string, removed and discharged the hemispheres, and tested",
+        "mathpix_content": " silk string, removed and discharged the hemispheres, and tested",
+        "font_size": 27,
+        "confidence": 0.99169921875
+      },
+      {
+        "page": 116,
+        "line_number": 15,
+        "type": "text",
+        "content": "the electrical condition of the globe by means of a pith ball",
+        "mathpix_content": " the electrical condition of the globe by means of a pith ball",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 16,
+        "type": "text",
+        "content": "electrometer.",
+        "mathpix_content": " electrometer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 17,
+        "type": "text",
+        "content": "No indication of any charge of the globe could be detected by",
+        "mathpix_content": "\n\nNo indication of any charge of the globe could be detected by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 18,
+        "type": "text",
+        "content": "the pith ball electrometer, which at that time (1773) was con-",
+        "mathpix_content": " the pith ball electrometer, which at that time (1773) was con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 19,
+        "type": "text",
+        "content": "sidered the most delicate electroscope.",
+        "mathpix_content": "sidered the most delicate electroscope.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 20,
+        "type": "text",
+        "content": "Cavendish next communicated to the globe a known fraction",
+        "mathpix_content": "\n\nCavendish next communicated to the globe a known fraction",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 21,
+        "type": "text",
+        "content": "of the charge formerly communicated to the hemispheres, and",
+        "mathpix_content": " of the charge formerly communicated to the hemispheres, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 22,
+        "type": "text",
+        "content": "tested the globe again with his electrometer.",
+        "mathpix_content": " tested the globe again with his electrometer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 23,
+        "type": "text",
+        "content": "He thus found that the charge of the globe in the original",
+        "mathpix_content": "\n\nHe thus found that the charge of the globe in the original",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 24,
+        "type": "text",
+        "content": "experiment must have been less than $\\frac{1}{80}$ of the charge of the",
+        "mathpix_content": " experiment must have been less than $\\frac{1}{80}$ of the charge of the",
+        "font_size": 27,
+        "confidence": 0.8797531127929688
+      },
+      {
+        "page": 116,
+        "line_number": 25,
+        "type": "text",
+        "content": "whole apparatus, for if it had been greater it would have been",
+        "mathpix_content": " whole apparatus, for if it had been greater it would have been",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 26,
+        "type": "text",
+        "content": "detected by the electrometer.",
+        "mathpix_content": " detected by the electrometer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 27,
+        "type": "text",
+        "content": "He then calculated the ratio of the charge of the globe to",
+        "mathpix_content": "\n\nHe then calculated the ratio of the charge of the globe to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 28,
+        "type": "text",
+        "content": "that of the hemispheres on the hypothesis that the repulsion is",
+        "mathpix_content": " that of the hemispheres on the hypothesis that the repulsion is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 29,
+        "type": "text",
+        "content": "inversely as a power of the distance differing slightly from 2 ,",
+        "mathpix_content": " inversely as a power of the distance differing slightly from 2 ,",
+        "font_size": 27,
+        "confidence": 0.9653487205505371
+      },
+      {
+        "page": 116,
+        "line_number": 30,
+        "type": "text",
+        "content": "and found that if this difference was $\\frac{1}{50}$ there would have",
+        "mathpix_content": " and found that if this difference was $\\frac{1}{50}$ there would have",
+        "font_size": 27,
+        "confidence": 0.96044921875
+      },
+      {
+        "page": 116,
+        "line_number": 31,
+        "type": "text",
+        "content": "been a charge on the globe equal to $\\frac{1}{57}$ of that of the whole",
+        "mathpix_content": " been a charge on the globe equal to $\\frac{1}{57}$ of that of the whole",
+        "font_size": 27,
+        "confidence": 0.9941432476043701
+      },
+      {
+        "page": 116,
+        "line_number": 32,
+        "type": "text",
+        "content": "apparatus, and therefore capable of being detected by the",
+        "mathpix_content": " apparatus, and therefore capable of being detected by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 33,
+        "type": "text",
+        "content": "electrometer.",
+        "mathpix_content": " electrometer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 34,
+        "type": "text",
+        "content": "74b.] The experiment has recently been repeated at the",
+        "mathpix_content": "\n\n74b.] The experiment has recently been repeated at the",
+        "font_size": 27,
+        "confidence": 0.89599609375
+      },
+      {
+        "page": 116,
+        "line_number": 35,
+        "type": "text",
+        "content": "Cavendish Laboratory in a somewhat different manner.",
+        "mathpix_content": " Cavendish Laboratory in a somewhat different manner.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 36,
+        "type": "text",
+        "content": "The hemispheres were fixed on an insulating stand, and the",
+        "mathpix_content": "\n\nThe hemispheres were fixed on an insulating stand, and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 37,
+        "type": "text",
+        "content": "globe fixed in its proper position within them by means of an",
+        "mathpix_content": " globe fixed in its proper position within them by means of an",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 38,
+        "type": "text",
+        "content": "ebonite ring. By this arrangement the insulating support of the",
+        "mathpix_content": " ebonite ring. By this arrangement the insulating support of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 39,
+        "type": "text",
+        "content": "globe was never exposed to the action of any sensible electric",
+        "mathpix_content": " globe was never exposed to the action of any sensible electric",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 40,
+        "type": "text",
+        "content": "force, and therefore never became charged, so that the disturbing",
+        "mathpix_content": " force, and therefore never became charged, so that the disturbing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 41,
+        "type": "text",
+        "content": "effect of electricity creeping along the surface of the insulators",
+        "mathpix_content": " effect of electricity creeping along the surface of the insulators",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 42,
+        "type": "text",
+        "content": "was entirely removed.",
+        "mathpix_content": " was entirely removed.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 116,
+        "line_number": 43,
+        "type": "text",
+        "content": "Instead of removing the hemispheres before testing the potential",
+        "mathpix_content": "\n\nInstead of removing the hemispheres before testing the potential",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

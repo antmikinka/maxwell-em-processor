@@ -1,0 +1,192 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{8} \\nabla^{2}(b-a) \\frac{(z-a)^{3}}{(b-a)^{2}} \\tag{34}",
+  "title_safe": "8 nabla2b-a fracz-a3b-a2 tag34",
+  "page_start": 188,
+  "page_end": 188,
+  "content": {
+    "raw_text": "\n--- Page 188 ---\nIO2 c.] POTENTIAL BETWEEN TWO NEARLY FLAT SURFACES. 153\nwhere $\\lambda$ is to be determined so that at every point of the field\n$$\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}=0$$\n$(26)$\nand also so that the line-integral\n$$4 \\pi \\int\\left(f \\frac{d x}{d s}+g \\frac{d y}{d s}+h \\frac{d z}{d s}\\right) d s$$\n$(27)$\ntaken along any line of induction from the surface $a$ to the\nsurface $b$, shall be equal to -1 .\nLet us assume\n$$\\lambda=1+A+B(z-a)+C^{\\prime}(z-a)^{2}$$\n(28)\nand let us neglect powers and products of $A, B, C$, and at this\nstage of our work powers and products of the first derivatives of\n$a$ and $b$.\nThe solenoidal condition then gives\n$$B=-\\nabla^{2} a, \\quad C=-\\frac{1}{2} \\frac{\\nabla^{2}(b-a)}{b-a}$$\n(29)\nwhere\n$$\\nabla^{2}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}\\right)$$\n(30)\nIf instead of taking the line-integral along the new line of\ninduction, we take it along the old line of induction, parallel to\nz, the second condition gives\nHence\n$$\\begin{gathered}\n1=1+A+\\frac{1}{2} B(b-a)+\\frac{1}{3} C(b-a)^{2} \\\\\nA=\\frac{1}{6}(b-a) \\nabla^{2}(2 a+b)\n\\end{gathered}$$\n(31)\nand\n$$\\lambda=1+\\frac{1}{8}(b-a) \\nabla^{2}(2 a+b)-(z-a) \\nabla^{2} a-\\frac{1}{2} \\frac{(z-a)^{2}}{b-a} \\nabla^{2}(b-a) .$$\n(32)\nWe thus find for the second approximation to the components\nof displacement,\n$$\\left.\\begin{array}{rl}\n-4 \\pi f & =\\frac{\\lambda}{b-a}\\left[\\frac{d a}{d x}+\\frac{d(b-a)}{d x} \\frac{z-a}{b-a}\\right] \\\\\n-4 \\pi g & =\\frac{\\lambda}{b-a}\\left[\\frac{d a}{d y}+\\frac{d(b-a)}{d y} \\frac{z-a}{b-a}\\right] \\\\\n4 \\pi h & =\\frac{\\lambda}{b-a}\n\\end{array}\\right\\}$$\n(33)\nand for the second approximation to the potential,\n$$\\begin{aligned}\n\\Psi=\\frac{z-a}{b-a}+\\frac{1}{8} \\nabla^{2}(2 a+b)(z-a)-\\frac{1}{2} & \\nabla^{2} a \\frac{(z-a)^{2}}{b-a} \\\\\n& -\\frac{1}{8} \\nabla^{2}(b-a) \\frac{(z-a)^{3}}{(b-a)^{2}}\n\\end{aligned}$$\n(34)\n",
+    "mathpix_markdown": "\n--- Page 188 ---\n\n\nIO2 c.] POTENTIAL BETWEEN TWO NEARLY FLAT SURFACES. 153\n\nwhere $\\lambda$ is to be determined so that at every point of the field\n\n$$\\begin{equation*}\n\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}=0 \\tag{26}\n\\end{equation*}$$\n\nand also so that the line-integral\n\n$$\\begin{equation*}\n4 \\pi \\int\\left(f \\frac{d x}{d s}+g \\frac{d y}{d s}+h \\frac{d z}{d s}\\right) d s \\tag{27}\n\\end{equation*}$$\n\ntaken along any line of induction from the surface $a$ to the\n surface $b$, shall be equal to -1 .\n\n\nLet us assume\n\n$$\\begin{equation*}\n\\lambda=1+A+B(z-a)+C^{\\prime}(z-a)^{2} \\tag{28}\n\\end{equation*}$$\n\nand let us neglect powers and products of $A, B, C$, and at this\n stage of our work powers and products of the first derivatives of\n $a$ and $b$.\n\n\nThe solenoidal condition then gives\n\n$$\\begin{equation*}\nB=-\\nabla^{2} a, \\quad C=-\\frac{1}{2} \\frac{\\nabla^{2}(b-a)}{b-a} \\tag{29}\n\\end{equation*}$$\n\nwhere\n\n$$\\begin{equation*}\n\\nabla^{2}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}\\right) \\tag{30}\n\\end{equation*}$$\n\n\nIf instead of taking the line-integral along the new line of\n induction, we take it along the old line of induction, parallel to\n z, the second condition gives\n\n\nHence\n\n$$\\begin{gather*}\n1=1+A+\\frac{1}{2} B(b-a)+\\frac{1}{3} C(b-a)^{2} \\\\\nA=\\frac{1}{6}(b-a) \\nabla^{2}(2 a+b) \\tag{31}\n\\end{gather*}$$\n\nand\n\n$$\\begin{equation*}\n\\lambda=1+\\frac{1}{8}(b-a) \\nabla^{2}(2 a+b)-(z-a) \\nabla^{2} a-\\frac{1}{2} \\frac{(z-a)^{2}}{b-a} \\nabla^{2}(b-a) . \\tag{32}\n\\end{equation*}$$\n\n\nWe thus find for the second approximation to the components\n of displacement,\n\n$$\\left.\\begin{array}{rl}\n-4 \\pi f & =\\frac{\\lambda}{b-a}\\left[\\frac{d a}{d x}+\\frac{d(b-a)}{d x} \\frac{z-a}{b-a}\\right]  \\tag{33}\\\\\n-4 \\pi g & =\\frac{\\lambda}{b-a}\\left[\\frac{d a}{d y}+\\frac{d(b-a)}{d y} \\frac{z-a}{b-a}\\right] \\\\\n4 \\pi h & =\\frac{\\lambda}{b-a}\n\\end{array}\\right\\}$$\n\nand for the second approximation to the potential,\n\n$$\\begin{align*}\n\\Psi=\\frac{z-a}{b-a}+\\frac{1}{8} \\nabla^{2}(2 a+b)(z-a)-\\frac{1}{2} & \\nabla^{2} a \\frac{(z-a)^{2}}{b-a} \\\\\n& -\\frac{1}{8} \\nabla^{2}(b-a) \\frac{(z-a)^{3}}{(b-a)^{2}} \\tag{34}\n\\end{align*}$$\n",
+    "structured_lines": [
+      {
+        "page": 188,
+        "line_number": 1,
+        "type": "text",
+        "content": "IO2 c.] POTENTIAL BETWEEN TWO NEARLY FLAT SURFACES. 153",
+        "mathpix_content": "\n\nIO2 c.] POTENTIAL BETWEEN TWO NEARLY FLAT SURFACES. 153",
+        "font_size": 21,
+        "confidence": 0.8751611318439245
+      },
+      {
+        "page": 188,
+        "line_number": 2,
+        "type": "text",
+        "content": "where $\\lambda$ is to be determined so that at every point of the field",
+        "mathpix_content": "\nwhere $\\lambda$ is to be determined so that at every point of the field",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 6,
+        "type": "text",
+        "content": "and also so that the line-integral",
+        "mathpix_content": "\nand also so that the line-integral",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 10,
+        "type": "text",
+        "content": "taken along any line of induction from the surface $a$ to the",
+        "mathpix_content": "\ntaken along any line of induction from the surface $a$ to the",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 188,
+        "line_number": 11,
+        "type": "text",
+        "content": "surface $b$, shall be equal to -1 .",
+        "mathpix_content": " surface $b$, shall be equal to -1 .",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 12,
+        "type": "text",
+        "content": "Let us assume",
+        "mathpix_content": "\n\nLet us assume",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 16,
+        "type": "text",
+        "content": "and let us neglect powers and products of $A, B, C$, and at this",
+        "mathpix_content": "\nand let us neglect powers and products of $A, B, C$, and at this",
+        "font_size": 21,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 188,
+        "line_number": 17,
+        "type": "text",
+        "content": "stage of our work powers and products of the first derivatives of",
+        "mathpix_content": " stage of our work powers and products of the first derivatives of",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 18,
+        "type": "text",
+        "content": "$a$ and $b$.",
+        "mathpix_content": " $a$ and $b$.",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 19,
+        "type": "text",
+        "content": "The solenoidal condition then gives",
+        "mathpix_content": "\n\nThe solenoidal condition then gives",
+        "font_size": 21,
+        "confidence": 0.9208984375
+      },
+      {
+        "page": 188,
+        "line_number": 23,
+        "type": "text",
+        "content": "where",
+        "mathpix_content": "\nwhere",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 27,
+        "type": "text",
+        "content": "If instead of taking the line-integral along the new line of",
+        "mathpix_content": "\n\nIf instead of taking the line-integral along the new line of",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 28,
+        "type": "text",
+        "content": "induction, we take it along the old line of induction, parallel to",
+        "mathpix_content": " induction, we take it along the old line of induction, parallel to",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 29,
+        "type": "text",
+        "content": "z, the second condition gives",
+        "mathpix_content": " z, the second condition gives",
+        "font_size": 21,
+        "confidence": 0.7306545101750999
+      },
+      {
+        "page": 188,
+        "line_number": 30,
+        "type": "text",
+        "content": "Hence",
+        "mathpix_content": "\n\nHence",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 35,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 39,
+        "type": "text",
+        "content": "We thus find for the second approximation to the components",
+        "mathpix_content": "\n\nWe thus find for the second approximation to the components",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 40,
+        "type": "text",
+        "content": "of displacement,",
+        "mathpix_content": " of displacement,",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 188,
+        "line_number": 44,
+        "type": "text",
+        "content": "and for the second approximation to the potential,",
+        "mathpix_content": "\nand for the second approximation to the potential,",
+        "font_size": 21,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

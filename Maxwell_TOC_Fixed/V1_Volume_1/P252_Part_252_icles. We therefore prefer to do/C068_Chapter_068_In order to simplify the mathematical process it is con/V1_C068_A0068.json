@@ -1,0 +1,354 @@
+{
+  "article_id": "article_68",
+  "article_number": 68,
+  "title_original": ".] In order to simplify the mathematical process, it is con",
+  "title_safe": "In order to simplify the mathematical process it is con",
+  "page_start": 110,
+  "page_end": 110,
+  "content": {
+    "raw_text": "\n--- Page 110 ---\n68.]\nRESULTANT INTENSITY AT A POINT.\n75\nwhich the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the\ncorresponding quantities for the second body, and the integration\nis extended first over the one body and then over the other.\n\nResultant Intensity at a Point.\n68.] In order to simplify the mathematical process, it is con-\nvenient to consider the action of an electritied body, not on\nanother body of any form, but on an indefinitely small body,\ncharged with an indefinitely small amount of electricity, and\nplaced at any point of the space to which the electrical action\nextends. By making the charge of this body indefinitely small\nwe render insensible its disturbing action on the charge of the\nfirst body.\nLet $e$ be the charge of the small body, and let the force acting\non it when placed at the point $(x, y, z)$ be $R e$, and let the\ndirection-cosines of the force be $l, m, n$, then we may call $R$ the\nresultant electric intensity at the point ( $x, y, z$ ).\nIf $X, Y, Z$ denote the components of $R$, then\n$$X=R l, \\quad Y=R m, \\quad Z=R n .$$\nIn speaking of the resultant electric intensity at a point, we\ndo not necessarily imply that any force is actually exerted there,\nbut only that if an electrified body were placed there it would be\nacted on by a force $R e$, where $e$ is the charge of the body *.\nDefinition. The resultant electric intensity at any point is\nthe force which would be exerted on a small body charged with\nthe unit of positive electricity, if it were placed there without\ndisturbing the actual distribution of electricity.\nThis force not only tends to move a body charged with\nelectricity, but to move the electricity within the body, so that\nthe positive electricity tends to move in the direction of $R$ and\nthe negative electricity in the opposite direction. Hence the\nquantity $R$ is also called the Electromotive Intensity at the\npoint $(x, y, z)$.\nWhen we wish to express the fact that the resultant intensity\nis a vector, we shall denote it by the German letter C. If the\nbody is a dielectric, then, according to the theory adopted in\nthis treatise, the electricity is displaced within it, so that the\n\n* The Electric and Magnetic Intensities correspond, in electricity and magnetism,\nto the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.\n",
+    "mathpix_markdown": "\n--- Page 110 ---\n\nwhich the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the\n corresponding quantities for the second body, and the integration\n is extended first over the one body and then over the other.\n\n\n\\section*{Resultant Intensity at a Point.}\n\n68.] In order to simplify the mathematical process, it is con\nvenient to consider the action of an electritied body, not on\n another body of any form, but on an indefinitely small body,\n charged with an indefinitely small amount of electricity, and\n placed at any point of the space to which the electrical action\n extends. By making the charge of this body indefinitely small\n we render insensible its disturbing action on the charge of the\n first body.\n\n\nLet $e$ be the charge of the small body, and let the force acting\n on it when placed at the point $(x, y, z)$ be $R e$, and let the\n direction-cosines of the force be $l, m, n$, then we may call $R$ the\n resultant electric intensity at the point ( $x, y, z$ ).\n\n\nIf $X, Y, Z$ denote the components of $R$, then\n\n$$X=R l, \\quad Y=R m, \\quad Z=R n .$$\n\n\nIn speaking of the resultant electric intensity at a point, we\n do not necessarily imply that any force is actually exerted there,\n but only that if an electrified body were placed there it would be\n acted on by a force $R e$, where $e$ is the charge of the body *.\n\n\nDefinition. The resultant electric intensity at any point is\n the force which would be exerted on a small body charged with\n the unit of positive electricity, if it were placed there without\n disturbing the actual distribution of electricity.\n\n\nThis force not only tends to move a body charged with\n electricity, but to move the electricity within the body, so that\n the positive electricity tends to move in the direction of $R$ and\n the negative electricity in the opposite direction. Hence the\n quantity $R$ is also called the Electromotive Intensity at the\n point $(x, y, z)$.\n\n\nWhen we wish to express the fact that the resultant intensity\n is a vector, we shall denote it by the German letter C. If the\n body is a dielectric, then, according to the theory adopted in\n this treatise, the electricity is displaced within it, so that the\n\n\n\\footnotetext{\n* The Electric and Magnetic Intensities correspond, in electricity and magnetism,\n to the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.\n}\n",
+    "structured_lines": [
+      {
+        "page": 110,
+        "line_number": 4,
+        "type": "text",
+        "content": "which the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the",
+        "mathpix_content": "\nwhich the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the",
+        "font_size": 27,
+        "confidence": 0.9931640625
+      },
+      {
+        "page": 110,
+        "line_number": 5,
+        "type": "text",
+        "content": "corresponding quantities for the second body, and the integration",
+        "mathpix_content": " corresponding quantities for the second body, and the integration",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 6,
+        "type": "text",
+        "content": "is extended first over the one body and then over the other.",
+        "mathpix_content": " is extended first over the one body and then over the other.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 8,
+        "type": "text",
+        "content": "Resultant Intensity at a Point.",
+        "mathpix_content": "\n\n\\section*{Resultant Intensity at a Point.}",
+        "font_size": 34,
+        "confidence": 0.9970722198486328
+      },
+      {
+        "page": 110,
+        "line_number": 9,
+        "type": "text",
+        "content": "68.] In order to simplify the mathematical process, it is con-",
+        "mathpix_content": "\n68.] In order to simplify the mathematical process, it is con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 10,
+        "type": "text",
+        "content": "venient to consider the action of an electritied body, not on",
+        "mathpix_content": "venient to consider the action of an electritied body, not on",
+        "font_size": 27,
+        "confidence": 0.9814453125
+      },
+      {
+        "page": 110,
+        "line_number": 11,
+        "type": "text",
+        "content": "another body of any form, but on an indefinitely small body,",
+        "mathpix_content": " another body of any form, but on an indefinitely small body,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 12,
+        "type": "text",
+        "content": "charged with an indefinitely small amount of electricity, and",
+        "mathpix_content": " charged with an indefinitely small amount of electricity, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 13,
+        "type": "text",
+        "content": "placed at any point of the space to which the electrical action",
+        "mathpix_content": " placed at any point of the space to which the electrical action",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 14,
+        "type": "text",
+        "content": "extends. By making the charge of this body indefinitely small",
+        "mathpix_content": " extends. By making the charge of this body indefinitely small",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 15,
+        "type": "text",
+        "content": "we render insensible its disturbing action on the charge of the",
+        "mathpix_content": " we render insensible its disturbing action on the charge of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 16,
+        "type": "text",
+        "content": "first body.",
+        "mathpix_content": " first body.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 17,
+        "type": "text",
+        "content": "Let $e$ be the charge of the small body, and let the force acting",
+        "mathpix_content": "\n\nLet $e$ be the charge of the small body, and let the force acting",
+        "font_size": 27,
+        "confidence": 0.99267578125
+      },
+      {
+        "page": 110,
+        "line_number": 18,
+        "type": "text",
+        "content": "on it when placed at the point $(x, y, z)$ be $R e$, and let the",
+        "mathpix_content": " on it when placed at the point $(x, y, z)$ be $R e$, and let the",
+        "font_size": 27,
+        "confidence": 0.9907341003417969
+      },
+      {
+        "page": 110,
+        "line_number": 19,
+        "type": "text",
+        "content": "direction-cosines of the force be $l, m, n$, then we may call $R$ the",
+        "mathpix_content": " direction-cosines of the force be $l, m, n$, then we may call $R$ the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 110,
+        "line_number": 20,
+        "type": "text",
+        "content": "resultant electric intensity at the point ( $x, y, z$ ).",
+        "mathpix_content": " resultant electric intensity at the point ( $x, y, z$ ).",
+        "font_size": 27,
+        "confidence": 0.5029226586912046
+      },
+      {
+        "page": 110,
+        "line_number": 21,
+        "type": "text",
+        "content": "If $X, Y, Z$ denote the components of $R$, then",
+        "mathpix_content": "\n\nIf $X, Y, Z$ denote the components of $R$, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 24,
+        "type": "text",
+        "content": "In speaking of the resultant electric intensity at a point, we",
+        "mathpix_content": "\n\nIn speaking of the resultant electric intensity at a point, we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 25,
+        "type": "text",
+        "content": "do not necessarily imply that any force is actually exerted there,",
+        "mathpix_content": " do not necessarily imply that any force is actually exerted there,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 26,
+        "type": "text",
+        "content": "but only that if an electrified body were placed there it would be",
+        "mathpix_content": " but only that if an electrified body were placed there it would be",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 110,
+        "line_number": 27,
+        "type": "text",
+        "content": "acted on by a force $R e$, where $e$ is the charge of the body *.",
+        "mathpix_content": " acted on by a force $R e$, where $e$ is the charge of the body *.",
+        "font_size": 27,
+        "confidence": 0.85400390625
+      },
+      {
+        "page": 110,
+        "line_number": 28,
+        "type": "text",
+        "content": "Definition. The resultant electric intensity at any point is",
+        "mathpix_content": "\n\nDefinition. The resultant electric intensity at any point is",
+        "font_size": 27,
+        "confidence": 0.99072265625
+      },
+      {
+        "page": 110,
+        "line_number": 29,
+        "type": "text",
+        "content": "the force which would be exerted on a small body charged with",
+        "mathpix_content": " the force which would be exerted on a small body charged with",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 30,
+        "type": "text",
+        "content": "the unit of positive electricity, if it were placed there without",
+        "mathpix_content": " the unit of positive electricity, if it were placed there without",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 31,
+        "type": "text",
+        "content": "disturbing the actual distribution of electricity.",
+        "mathpix_content": " disturbing the actual distribution of electricity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 32,
+        "type": "text",
+        "content": "This force not only tends to move a body charged with",
+        "mathpix_content": "\n\nThis force not only tends to move a body charged with",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 33,
+        "type": "text",
+        "content": "electricity, but to move the electricity within the body, so that",
+        "mathpix_content": " electricity, but to move the electricity within the body, so that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 34,
+        "type": "text",
+        "content": "the positive electricity tends to move in the direction of $R$ and",
+        "mathpix_content": " the positive electricity tends to move in the direction of $R$ and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 35,
+        "type": "text",
+        "content": "the negative electricity in the opposite direction. Hence the",
+        "mathpix_content": " the negative electricity in the opposite direction. Hence the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 36,
+        "type": "text",
+        "content": "quantity $R$ is also called the Electromotive Intensity at the",
+        "mathpix_content": " quantity $R$ is also called the Electromotive Intensity at the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 110,
+        "line_number": 37,
+        "type": "text",
+        "content": "point $(x, y, z)$.",
+        "mathpix_content": " point $(x, y, z)$.",
+        "font_size": 27,
+        "confidence": 0.8173828125
+      },
+      {
+        "page": 110,
+        "line_number": 38,
+        "type": "text",
+        "content": "When we wish to express the fact that the resultant intensity",
+        "mathpix_content": "\n\nWhen we wish to express the fact that the resultant intensity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 39,
+        "type": "text",
+        "content": "is a vector, we shall denote it by the German letter C. If the",
+        "mathpix_content": " is a vector, we shall denote it by the German letter C. If the",
+        "font_size": 27,
+        "confidence": 0.78466796875
+      },
+      {
+        "page": 110,
+        "line_number": 40,
+        "type": "text",
+        "content": "body is a dielectric, then, according to the theory adopted in",
+        "mathpix_content": " body is a dielectric, then, according to the theory adopted in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 41,
+        "type": "text",
+        "content": "this treatise, the electricity is displaced within it, so that the",
+        "mathpix_content": " this treatise, the electricity is displaced within it, so that the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 110,
+        "line_number": 43,
+        "type": "text",
+        "content": "* The Electric and Magnetic Intensities correspond, in electricity and magnetism,",
+        "mathpix_content": "\n\n\\footnotetext{\n* The Electric and Magnetic Intensities correspond, in electricity and magnetism,",
+        "font_size": 21,
+        "confidence": 0.992196798324585
+      },
+      {
+        "page": 110,
+        "line_number": 44,
+        "type": "text",
+        "content": "to the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.",
+        "mathpix_content": " to the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.\n}",
+        "font_size": 21,
+        "confidence": 0.9326171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

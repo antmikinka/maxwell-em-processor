@@ -1,0 +1,7 @@
+# Published Maxwell extracts are data, not the project's source language.
+Maxwell_TOC_Fixed/** linguist-generated
+MAXWELL_VOLUME_1_MASTER_OUTPUT/** linguist-generated
+MAXWELL_VOLUME_2_MASTER_OUTPUT/** linguist-generated
+MAXWELL_VOLUME_1_MASTER_OUTPUT/**/*.md linguist-documentation
+MAXWELL_VOLUME_2_MASTER_OUTPUT/**/*.md linguist-documentation
+Maxwell_TOC_Fixed/README.md linguist-documentation

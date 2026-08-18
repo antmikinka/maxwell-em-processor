@@ -1,0 +1,20 @@
+{
+  "article_id": "article_20",
+  "article_number": 20,
+  "title_original": "a^{12} b^{3}+90 a^{10} b^{5}+140 a^{8} b^{7}\\right) c^{-15} \\\\",
+  "title_safe": "a12 b3plus90 a10 b5plus140 a8 b7right c-15",
+  "page_start": 265,
+  "page_end": 264,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

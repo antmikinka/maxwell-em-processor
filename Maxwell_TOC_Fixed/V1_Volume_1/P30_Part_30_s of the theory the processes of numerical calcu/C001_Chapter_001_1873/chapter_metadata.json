@@ -1,0 +1,223 @@
+{
+  "chapter_id": "chapter_2",
+  "chapter_number": 1,
+  "title": ", 1873.",
+  "page_start": 15,
+  "page_end": 15,
+  "articles": [
+    {
+      "article_id": "article_1873",
+      "article_number": 1873,
+      "title_original": "The description of the phenomena, and the elementary parts",
+      "title_safe": "The description of the phenomena and the elementary parts",
+      "page_start": 15,
+      "page_end": 14,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ", 1873.",
+      "title_safe": "1873",
+      "page_start": 15,
+      "page_end": 14,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ", 1873.",
+      "title_safe": "1873",
+      "page_start": 15,
+      "page_end": 15,
+      "content": {
+        "raw_text": "\n--- Page 15 ---\nxii\nPREFACE TO THE FIRST EDITION.\nThe description of the phenomena, and the elementary parts\nof the theory of each subject, will be found in the earlier\nchapters of each of the four Parts into which this treatise\nis divided. The student will find in these chapters enough\nto give him an elementary acquaintance with the whole\nscience.\nThe remaining chapters of each Part are occupied with the\nhigher parts of the theory, the processes of numerical calcu-\nlation, and the instruments and methods of experimental\nresearch.\nThe relations between electromagnetic phenomena and those\nof radiation, the theory of molecular electric currents, and\nthe results of speculation on the nature of action at a dis-\ntance, are treated of in the last four chapters of the second\nvolume.\nJames Clerk Maxwell.\nFeb. 1, 1873.\n",
+        "mathpix_markdown": "\n--- Page 15 ---\n\n\nThe description of the phenomena, and the elementary parts\n of the theory of each subject, will be found in the earlier\n chapters of each of the four Parts into which this treatise\n is divided. The student will find in these chapters enough\n to give him an elementary acquaintance with the whole\n science.\n\n\nThe remaining chapters of each Part are occupied with the\n higher parts of the theory, the processes of numerical calcu\nlation, and the instruments and methods of experimental\n research.\n\n\nThe relations between electromagnetic phenomena and those\n of radiation, the theory of molecular electric currents, and\n the results of speculation on the nature of action at a dis\ntance, are treated of in the last four chapters of the second\n volume.\n\n\nJames Clerk Maxwell.\n\nFeb. 1, 1873.\n",
+        "structured_lines": [
+          {
+            "page": 15,
+            "line_number": 3,
+            "type": "text",
+            "content": "The description of the phenomena, and the elementary parts",
+            "mathpix_content": "\n\nThe description of the phenomena, and the elementary parts",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 4,
+            "type": "text",
+            "content": "of the theory of each subject, will be found in the earlier",
+            "mathpix_content": " of the theory of each subject, will be found in the earlier",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 5,
+            "type": "text",
+            "content": "chapters of each of the four Parts into which this treatise",
+            "mathpix_content": " chapters of each of the four Parts into which this treatise",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 6,
+            "type": "text",
+            "content": "is divided. The student will find in these chapters enough",
+            "mathpix_content": " is divided. The student will find in these chapters enough",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 7,
+            "type": "text",
+            "content": "to give him an elementary acquaintance with the whole",
+            "mathpix_content": " to give him an elementary acquaintance with the whole",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 8,
+            "type": "text",
+            "content": "science.",
+            "mathpix_content": " science.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 9,
+            "type": "text",
+            "content": "The remaining chapters of each Part are occupied with the",
+            "mathpix_content": "\n\nThe remaining chapters of each Part are occupied with the",
+            "font_size": 34,
+            "confidence": 0.99853515625
+          },
+          {
+            "page": 15,
+            "line_number": 10,
+            "type": "text",
+            "content": "higher parts of the theory, the processes of numerical calcu-",
+            "mathpix_content": " higher parts of the theory, the processes of numerical calcu",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 11,
+            "type": "text",
+            "content": "lation, and the instruments and methods of experimental",
+            "mathpix_content": "lation, and the instruments and methods of experimental",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 12,
+            "type": "text",
+            "content": "research.",
+            "mathpix_content": " research.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 13,
+            "type": "text",
+            "content": "The relations between electromagnetic phenomena and those",
+            "mathpix_content": "\n\nThe relations between electromagnetic phenomena and those",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 14,
+            "type": "text",
+            "content": "of radiation, the theory of molecular electric currents, and",
+            "mathpix_content": " of radiation, the theory of molecular electric currents, and",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 15,
+            "type": "text",
+            "content": "the results of speculation on the nature of action at a dis-",
+            "mathpix_content": " the results of speculation on the nature of action at a dis",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 16,
+            "type": "text",
+            "content": "tance, are treated of in the last four chapters of the second",
+            "mathpix_content": "tance, are treated of in the last four chapters of the second",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 17,
+            "type": "text",
+            "content": "volume.",
+            "mathpix_content": " volume.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 18,
+            "type": "text",
+            "content": "James Clerk Maxwell.",
+            "mathpix_content": "\n\nJames Clerk Maxwell.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 15,
+            "line_number": 19,
+            "type": "text",
+            "content": "Feb. 1, 1873.",
+            "mathpix_content": "\nFeb. 1, 1873.",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

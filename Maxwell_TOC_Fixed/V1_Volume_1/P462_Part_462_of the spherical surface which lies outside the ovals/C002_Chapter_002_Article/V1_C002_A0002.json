@@ -1,0 +1,165 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "} .",
+  "title_safe": "Article",
+  "page_start": 262,
+  "page_end": 262,
+  "content": {
+    "raw_text": "\n--- Page 262 ---\n146.]\nTWO SPHERICAL CONDUCTORS.\n227\nIf, therefore, we confine our attention to the coefficients $A_{1}$ to\n$A_{m}$ and $B_{1}$ to $B_{n}$, we have $m+n$ equations from which to deter-\nmine these quantities in terms of $A$ and $B$, the charges of the two\nspheres, and by inserting the values of these coefficients in (14)\nand (15) we may express the potentials of the spheres in terms\nof their charges.\nThese operations may be expressed in the form of determinants,\nbut for purposes of calculation it is more convenient to proceed\nas follows.\nInserting in equations (12) the values of $B_{1} \\ldots B_{n}$ from equa-\ntions (13), we find\n$$\\begin{aligned}\nA_{1}=-B x^{2} & +A x^{2} y^{3}\\left[2.1+3.1 y^{2}+4.1 y^{4}+5.1 y^{6}+6.1 y^{8}+\\ldots\\right] \\\\\n& +A_{1} x^{3} y^{3}\\left[2.2+3.3 y^{2}+4.4 y^{4}+5.5 y^{6}+\\ldots\\right] \\\\\n& +A_{2} x^{4} y^{3}\\left[2.3+3.6 y^{2}+4.10 y^{4}+\\ldots\\right] \\\\\n& +A_{3} x^{5} y^{3}\\left[2.4+3.10 y^{2}+\\ldots\\right] \\\\\n& +A_{4} x^{6} y^{3}[2.5+\\ldots] \\\\\n& +\\cdots \\cdots \\\\\nA_{2}=-B x^{3} & +A x^{3} y^{3}\\left[3.1+6.1 y^{2}+10.1 y^{4}+15.1 y^{6}+\\ldots\\right] \\\\\n& +A_{1} x^{4} y^{3}\\left[3.2+6.3 y^{2}+10.4 y^{4}+\\ldots\\right] \\\\\n& +A_{2} x^{5} y^{3}\\left[3.3+6.6 y^{2}+\\ldots\\right] \\\\\n& +A_{3} x^{6} y^{3}[3.4+\\ldots] \\\\\n& +\\ldots \\ldots \\\\\nA_{3}=-B x^{4} & +A x^{4} y^{3}\\left[4.1+10.1 y^{2}+20.1 y^{4}+\\ldots\\right] \\\\\n& +A_{1} x^{5} y^{3}\\left[4.2+10.3 y^{2}+\\ldots\\right] \\\\\n& +A_{2} x^{6} y^{3}[4.3+\\ldots] \\\\\n& +\\ldots \\cdots \\\\\nA_{4}=-B x^{5} & +A x^{5} y^{3}\\left[5.1+15.1 y^{2}+\\ldots\\right] \\\\\n& +A_{1} x^{6} y^{3}[5.2+\\ldots] \\\\\n& +\\ldots \\ldots\n\\end{aligned}$$\n(16)\n(17)\n(18)\n(19)\nBy substituting in the second members of these equations the\napproximate values of $A_{1}$ \\&c., and repeating the process for\nfurther approximations, we may carry the approximation to the\ncoefficient to any extent in ascending powers and products of $x$\nand $y$. If we write\n$$\\begin{aligned}\n& A_{n}=p_{n} A-q_{n} B, \\\\\n& B_{n}=-r_{n} A+8_{n} B, \\\\\n& \\mathbf{Q}_{2} .\n\\end{aligned}$$\n",
+    "mathpix_markdown": "\n--- Page 262 ---\n\n\nIf, therefore, we confine our attention to the coefficients $A_{1}$ to\n $A_{m}$ and $B_{1}$ to $B_{n}$, we have $m+n$ equations from which to deter\nmine these quantities in terms of $A$ and $B$, the charges of the two\n spheres, and by inserting the values of these coefficients in (14)\n and (15) we may express the potentials of the spheres in terms\n of their charges.\n\n\nThese operations may be expressed in the form of determinants,\n but for purposes of calculation it is more convenient to proceed\n as follows.\n\n\nInserting in equations (12) the values of $B_{1} \\ldots B_{n}$ from equa\ntions (13), we find\n\n$$\\begin{align*}\nA_{1}=-B x^{2} & +A x^{2} y^{3}\\left[2.1+3.1 y^{2}+4.1 y^{4}+5.1 y^{6}+6.1 y^{8}+\\ldots\\right] \\\\\n& +A_{1} x^{3} y^{3}\\left[2.2+3.3 y^{2}+4.4 y^{4}+5.5 y^{6}+\\ldots\\right] \\\\\n& +A_{2} x^{4} y^{3}\\left[2.3+3.6 y^{2}+4.10 y^{4}+\\ldots\\right] \\\\\n& +A_{3} x^{5} y^{3}\\left[2.4+3.10 y^{2}+\\ldots\\right] \\\\\n& +A_{4} x^{6} y^{3}[2.5+\\ldots]  \\tag{16}\\\\\n& +\\cdots \\cdots \\\\\nA_{2}=-B x^{3} & +A x^{3} y^{3}\\left[3.1+6.1 y^{2}+10.1 y^{4}+15.1 y^{6}+\\ldots\\right] \\\\\n& +A_{1} x^{4} y^{3}\\left[3.2+6.3 y^{2}+10.4 y^{4}+\\ldots\\right] \\\\\n& +A_{2} x^{5} y^{3}\\left[3.3+6.6 y^{2}+\\ldots\\right] \\\\\n& +A_{3} x^{6} y^{3}[3.4+\\ldots]  \\tag{17}\\\\\n& +\\ldots \\ldots \\\\\nA_{3}=-B x^{4} & +A x^{4} y^{3}\\left[4.1+10.1 y^{2}+20.1 y^{4}+\\ldots\\right] \\\\\n& +A_{1} x^{5} y^{3}\\left[4.2+10.3 y^{2}+\\ldots\\right] \\\\\n& +A_{2} x^{6} y^{3}[4.3+\\ldots]  \\tag{18}\\\\\n& +\\ldots \\cdots \\\\\nA_{4}=-B x^{5} & +A x^{5} y^{3}\\left[5.1+15.1 y^{2}+\\ldots\\right] \\\\\n& +A_{1} x^{6} y^{3}[5.2+\\ldots]  \\tag{19}\\\\\n& +\\ldots \\ldots\n\\end{align*}$$\n\n\nBy substituting in the second members of these equations the\n approximate values of $A_{1}$ \\&c., and repeating the process for\n further approximations, we may carry the approximation to the\n coefficient to any extent in ascending powers and products of $x$\n and $y$. If we write\n\n$$\\begin{aligned}\n& A_{n}=p_{n} A-q_{n} B, \\\\\n& B_{n}=-r_{n} A+8_{n} B, \\\\\n& \\mathbf{Q}_{2} .\n\\end{aligned}$$\n",
+    "structured_lines": [
+      {
+        "page": 262,
+        "line_number": 4,
+        "type": "text",
+        "content": "If, therefore, we confine our attention to the coefficients $A_{1}$ to",
+        "mathpix_content": "\n\nIf, therefore, we confine our attention to the coefficients $A_{1}$ to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 5,
+        "type": "text",
+        "content": "$A_{m}$ and $B_{1}$ to $B_{n}$, we have $m+n$ equations from which to deter-",
+        "mathpix_content": " $A_{m}$ and $B_{1}$ to $B_{n}$, we have $m+n$ equations from which to deter",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 262,
+        "line_number": 6,
+        "type": "text",
+        "content": "mine these quantities in terms of $A$ and $B$, the charges of the two",
+        "mathpix_content": "mine these quantities in terms of $A$ and $B$, the charges of the two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 7,
+        "type": "text",
+        "content": "spheres, and by inserting the values of these coefficients in (14)",
+        "mathpix_content": " spheres, and by inserting the values of these coefficients in (14)",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 8,
+        "type": "text",
+        "content": "and (15) we may express the potentials of the spheres in terms",
+        "mathpix_content": " and (15) we may express the potentials of the spheres in terms",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 9,
+        "type": "text",
+        "content": "of their charges.",
+        "mathpix_content": " of their charges.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 10,
+        "type": "text",
+        "content": "These operations may be expressed in the form of determinants,",
+        "mathpix_content": "\n\nThese operations may be expressed in the form of determinants,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 11,
+        "type": "text",
+        "content": "but for purposes of calculation it is more convenient to proceed",
+        "mathpix_content": " but for purposes of calculation it is more convenient to proceed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 12,
+        "type": "text",
+        "content": "as follows.",
+        "mathpix_content": " as follows.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 13,
+        "type": "text",
+        "content": "Inserting in equations (12) the values of $B_{1} \\ldots B_{n}$ from equa-",
+        "mathpix_content": "\n\nInserting in equations (12) the values of $B_{1} \\ldots B_{n}$ from equa",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 262,
+        "line_number": 14,
+        "type": "text",
+        "content": "tions (13), we find",
+        "mathpix_content": "tions (13), we find",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 262,
+        "line_number": 38,
+        "type": "text",
+        "content": "By substituting in the second members of these equations the",
+        "mathpix_content": "\n\nBy substituting in the second members of these equations the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 262,
+        "line_number": 39,
+        "type": "text",
+        "content": "approximate values of $A_{1}$ \\&c., and repeating the process for",
+        "mathpix_content": " approximate values of $A_{1}$ \\&c., and repeating the process for",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 262,
+        "line_number": 40,
+        "type": "text",
+        "content": "further approximations, we may carry the approximation to the",
+        "mathpix_content": " further approximations, we may carry the approximation to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 262,
+        "line_number": 41,
+        "type": "text",
+        "content": "coefficient to any extent in ascending powers and products of $x$",
+        "mathpix_content": " coefficient to any extent in ascending powers and products of $x$",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 262,
+        "line_number": 42,
+        "type": "text",
+        "content": "and $y$. If we write",
+        "mathpix_content": " and $y$. If we write",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "article_id": "article_291",
+  "article_number": 291,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 469,
+  "page_end": 469,
+  "content": {
+    "raw_text": "\n--- Page 469 ---\n434\nRESISTANCE AND CONDUCTIVITY.\nwhence, by (20) and (21),\n$$R^{\\prime}=\\frac{8 \\rho^{\\prime}}{3 \\pi^{2} a}$$\nand the correction to be added to the length of the cylinder is\n$$\\frac{\\rho^{\\prime}}{\\rho} \\frac{8}{3 \\pi} a,$$\nthis correction being greater than the true value. The true cor-\nrection to be added to the length is therefore $\\frac{\\rho^{\\prime}}{\\rho}$ an, where $n$ is a\nnumber lying between $\\frac{\\pi}{1}$ and $\\frac{8}{3 \\pi}$, or between 0.785 and 0.849 .\n* Lord Rayleigh, by a second approximation, has reduced the\nsuperior limit of $n$ to 0.8282 .\n\n* Phil. Mag. Nov. 1872, p. 344. Lord Rayleigh subsequently obtained .8242 as the\nsuperior limit. See London Math. Soc. Proc. vii. p. 74, also Theory of Sound, vol. ii.\nAppendix A. p. 291.\n",
+    "mathpix_markdown": "\n--- Page 469 ---\n\nwhence, by (20) and (21),\n\n$$R^{\\prime}=\\frac{8 \\rho^{\\prime}}{3 \\pi^{2} a}$$\n\nand the correction to be added to the length of the cylinder is\n\n$$\\frac{\\rho^{\\prime}}{\\rho} \\frac{8}{3 \\pi} a,$$\n\nthis correction being greater than the true value. The true cor\nrection to be added to the length is therefore $\\frac{\\rho^{\\prime}}{\\rho}$ an, where $n$ is a\n number lying between $\\frac{\\pi}{1}$ and $\\frac{8}{3 \\pi}$, or between 0.785 and 0.849 .\n\n* Lord Rayleigh, by a second approximation, has reduced the\n superior limit of $n$ to 0.8282 .\n\n\n\\footnotetext{\n* Phil. Mag. Nov. 1872, p. 344. Lord Rayleigh subsequently obtained .8242 as the\n superior limit. See London Math. Soc. Proc. vii. p. 74, also Theory of Sound, vol. ii.\n Appendix A. p. 291.\n}\n",
+    "structured_lines": [
+      {
+        "page": 469,
+        "line_number": 3,
+        "type": "text",
+        "content": "whence, by (20) and (21),",
+        "mathpix_content": "\nwhence, by (20) and (21),",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 469,
+        "line_number": 6,
+        "type": "text",
+        "content": "and the correction to be added to the length of the cylinder is",
+        "mathpix_content": "\nand the correction to be added to the length of the cylinder is",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 469,
+        "line_number": 9,
+        "type": "text",
+        "content": "this correction being greater than the true value. The true cor-",
+        "mathpix_content": "\nthis correction being greater than the true value. The true cor",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 469,
+        "line_number": 10,
+        "type": "text",
+        "content": "rection to be added to the length is therefore $\\frac{\\rho^{\\prime}}{\\rho}$ an, where $n$ is a",
+        "mathpix_content": "rection to be added to the length is therefore $\\frac{\\rho^{\\prime}}{\\rho}$ an, where $n$ is a",
+        "font_size": 26,
+        "confidence": 0.9060721397399902
+      },
+      {
+        "page": 469,
+        "line_number": 11,
+        "type": "text",
+        "content": "number lying between $\\frac{\\pi}{1}$ and $\\frac{8}{3 \\pi}$, or between 0.785 and 0.849 .",
+        "mathpix_content": " number lying between $\\frac{\\pi}{1}$ and $\\frac{8}{3 \\pi}$, or between 0.785 and 0.849 .",
+        "font_size": 26,
+        "confidence": 0.5940865671727806
+      },
+      {
+        "page": 469,
+        "line_number": 12,
+        "type": "text",
+        "content": "* Lord Rayleigh, by a second approximation, has reduced the",
+        "mathpix_content": "\n* Lord Rayleigh, by a second approximation, has reduced the",
+        "font_size": 26,
+        "confidence": 0.89013671875
+      },
+      {
+        "page": 469,
+        "line_number": 13,
+        "type": "text",
+        "content": "superior limit of $n$ to 0.8282 .",
+        "mathpix_content": " superior limit of $n$ to 0.8282 .",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 469,
+        "line_number": 15,
+        "type": "text",
+        "content": "* Phil. Mag. Nov. 1872, p. 344. Lord Rayleigh subsequently obtained .8242 as the",
+        "mathpix_content": "\n\n\\footnotetext{\n* Phil. Mag. Nov. 1872, p. 344. Lord Rayleigh subsequently obtained .8242 as the",
+        "font_size": 21,
+        "confidence": 0.3222262638529198
+      },
+      {
+        "page": 469,
+        "line_number": 16,
+        "type": "text",
+        "content": "superior limit. See London Math. Soc. Proc. vii. p. 74, also Theory of Sound, vol. ii.",
+        "mathpix_content": " superior limit. See London Math. Soc. Proc. vii. p. 74, also Theory of Sound, vol. ii.",
+        "font_size": 21,
+        "confidence": 0.9107766151428223
+      },
+      {
+        "page": 469,
+        "line_number": 17,
+        "type": "text",
+        "content": "Appendix A. p. 291.",
+        "mathpix_content": " Appendix A. p. 291.\n}",
+        "font_size": 21,
+        "confidence": 0.9975600242614746
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

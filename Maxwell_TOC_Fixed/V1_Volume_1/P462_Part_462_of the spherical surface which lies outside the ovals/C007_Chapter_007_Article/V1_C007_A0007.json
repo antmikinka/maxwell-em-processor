@@ -1,0 +1,282 @@
+{
+  "article_id": "article_7",
+  "article_number": 7,
+  "title_original": "}",
+  "title_safe": "Article",
+  "page_start": 260,
+  "page_end": 260,
+  "content": {
+    "raw_text": "\n--- Page 260 ---\n146.]\nTWO SPHERICAL CONDUCTORS.\n225\nLet $a$ and $b$ be the radii of the spheres, and $c$ the distance\nbetween their centres. We shall also, for the sake of brevity,\nwrite $a=c x$, and $b=c y$, so that $x$ and $y$ are numerical quantities\nless than unity.\nLet the line joining the centres of the spheres be taken as\nthe axis of the zonal harmonics, and let the pole of the zonal\nharmonics belonging to either sphere be the point of that sphere\nnearest to the other.\nLet $r$ be the distance of any point from the centre of the first\nsphere, and $s$ the distance of the same point from that of the\nsecond sphere.\nLet the surface density, $\\sigma_{1}$, of the first sphere be given by the\nequation\n$$4 \\pi \\sigma_{1} a^{2}=A+A_{1} P_{1}+3 A_{2} P_{2}+\\text { \\&c. }+(2 m+1) A_{m} P_{m}$$\n(1)\nso that $A$ is the total charge of the sphere, and $A_{1}$, \\&c. are the\ncoefficients of the zonal harmonics $P_{1}$, \\&c.\nThe potential due to this distribution of charge may be repre-\nsented by\n$$U^{\\prime}=\\frac{1}{a}\\left[A+A_{1} I_{1}^{\\prime} \\frac{r}{a}+A_{2} P_{2} \\frac{r^{2}}{a^{2}}+\\text { \\&c. }+A_{m} P_{m}^{r^{m}}\\right]$$\n(2)\nfor points inside the sphere, and by\n$$U=\\frac{1}{r}\\left[A+A_{1} P_{1} \\frac{a}{r}+A_{2} I_{2} \\frac{a^{2}}{r^{2}}+\\text { \\&c. }+A_{m} P_{m} \\frac{a^{m}}{r^{m}}\\right]$$\n(3)\nfor points outside.\nSimilarly, if the surface density on the second sphere is given\nby the equation\n$$4 \\pi \\sigma_{2} b^{2}=B+B_{1} P_{1}+\\text { \\&c. }+(2 n+1) B_{n} P_{n}$$\n(4)\nthe potential inside and outside this sphere due to this charge\nmay be represented by equations of the form\n$$\\begin{aligned}\nV^{\\prime} & =\\frac{1}{b}\\left[B+B_{1} 1_{1} \\frac{s}{b}+\\text { \\&c. }+B_{n} P_{n} \\frac{s^{n}}{b^{n}}\\right] \\\\\nV & =\\frac{1}{s}\\left[B+B_{1} P_{1} \\frac{b}{s}+\\text { \\&c. }+B_{n} P_{n} \\frac{b^{n}}{s^{n}}\\right]\n\\end{aligned}$$\n(5)\n(6)\nwhere the several harmonics are related to the second sphere.\nThe charges of the spheres are $A$ and $B$ respectively.\nThe potential at every point within the first sphere is constant\nand equal to $a$, the potential of that sphere, so that within the\nfirst sphere\n$$U^{\\prime}+V=a .$$\n(7)\nvol. i.\n",
+    "mathpix_markdown": "\n--- Page 260 ---\n\n\nLet $a$ and $b$ be the radii of the spheres, and $c$ the distance\n between their centres. We shall also, for the sake of brevity,\n write $a=c x$, and $b=c y$, so that $x$ and $y$ are numerical quantities\n less than unity.\n\n\nLet the line joining the centres of the spheres be taken as\n the axis of the zonal harmonics, and let the pole of the zonal\n harmonics belonging to either sphere be the point of that sphere\n nearest to the other.\n\n\nLet $r$ be the distance of any point from the centre of the first\n sphere, and $s$ the distance of the same point from that of the\n second sphere.\n\n\nLet the surface density, $\\sigma_{1}$, of the first sphere be given by the\n equation\n\n$$\\begin{equation*}\n4 \\pi \\sigma_{1} a^{2}=A+A_{1} P_{1}+3 A_{2} P_{2}+\\text { \\&c. }+(2 m+1) A_{m} P_{m} \\tag{1}\n\\end{equation*}$$\n\nso that $A$ is the total charge of the sphere, and $A_{1}$, \\&c. are the\n coefficients of the zonal harmonics $P_{1}$, \\&c.\n\n\nThe potential due to this distribution of charge may be repre\nsented by\n\n$$\\begin{equation*}\nU^{\\prime}=\\frac{1}{a}\\left[A+A_{1} I_{1}^{\\prime} \\frac{r}{a}+A_{2} P_{2} \\frac{r^{2}}{a^{2}}+\\text { \\&c. }+A_{m} P_{m}^{r^{m}}\\right] \\tag{2}\n\\end{equation*}$$\n\nfor points inside the sphere, and by\n\n$$\\begin{equation*}\nU=\\frac{1}{r}\\left[A+A_{1} P_{1} \\frac{a}{r}+A_{2} I_{2} \\frac{a^{2}}{r^{2}}+\\text { \\&c. }+A_{m} P_{m} \\frac{a^{m}}{r^{m}}\\right] \\tag{3}\n\\end{equation*}$$\n\nfor points outside.\n\nSimilarly, if the surface density on the second sphere is given\n by the equation\n\n$$\\begin{equation*}\n4 \\pi \\sigma_{2} b^{2}=B+B_{1} P_{1}+\\text { \\&c. }+(2 n+1) B_{n} P_{n} \\tag{4}\n\\end{equation*}$$\n\nthe potential inside and outside this sphere due to this charge\n may be represented by equations of the form\n\n$$\\begin{align*}\nV^{\\prime} & =\\frac{1}{b}\\left[B+B_{1} 1_{1} \\frac{s}{b}+\\text { \\&c. }+B_{n} P_{n} \\frac{s^{n}}{b^{n}}\\right]  \\tag{5}\\\\\nV & =\\frac{1}{s}\\left[B+B_{1} P_{1} \\frac{b}{s}+\\text { \\&c. }+B_{n} P_{n} \\frac{b^{n}}{s^{n}}\\right] \\tag{6}\n\\end{align*}$$\n\nwhere the several harmonics are related to the second sphere.\n\nThe charges of the spheres are $A$ and $B$ respectively.\n\nThe potential at every point within the first sphere is constant\n and equal to $a$, the potential of that sphere, so that within the\n first sphere\n\n$$\\begin{equation*}\nU^{\\prime}+V=a . \\tag{7}\n\\end{equation*}$$\n\nvol. i.\n",
+    "structured_lines": [
+      {
+        "page": 260,
+        "line_number": 4,
+        "type": "text",
+        "content": "Let $a$ and $b$ be the radii of the spheres, and $c$ the distance",
+        "mathpix_content": "\n\nLet $a$ and $b$ be the radii of the spheres, and $c$ the distance",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 260,
+        "line_number": 5,
+        "type": "text",
+        "content": "between their centres. We shall also, for the sake of brevity,",
+        "mathpix_content": " between their centres. We shall also, for the sake of brevity,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 260,
+        "line_number": 6,
+        "type": "text",
+        "content": "write $a=c x$, and $b=c y$, so that $x$ and $y$ are numerical quantities",
+        "mathpix_content": " write $a=c x$, and $b=c y$, so that $x$ and $y$ are numerical quantities",
+        "font_size": 27,
+        "confidence": 0.95068359375
+      },
+      {
+        "page": 260,
+        "line_number": 7,
+        "type": "text",
+        "content": "less than unity.",
+        "mathpix_content": " less than unity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 8,
+        "type": "text",
+        "content": "Let the line joining the centres of the spheres be taken as",
+        "mathpix_content": "\n\nLet the line joining the centres of the spheres be taken as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 9,
+        "type": "text",
+        "content": "the axis of the zonal harmonics, and let the pole of the zonal",
+        "mathpix_content": " the axis of the zonal harmonics, and let the pole of the zonal",
+        "font_size": 27,
+        "confidence": 0.8173828125
+      },
+      {
+        "page": 260,
+        "line_number": 10,
+        "type": "text",
+        "content": "harmonics belonging to either sphere be the point of that sphere",
+        "mathpix_content": " harmonics belonging to either sphere be the point of that sphere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 11,
+        "type": "text",
+        "content": "nearest to the other.",
+        "mathpix_content": " nearest to the other.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 12,
+        "type": "text",
+        "content": "Let $r$ be the distance of any point from the centre of the first",
+        "mathpix_content": "\n\nLet $r$ be the distance of any point from the centre of the first",
+        "font_size": 27,
+        "confidence": 0.9931640625
+      },
+      {
+        "page": 260,
+        "line_number": 13,
+        "type": "text",
+        "content": "sphere, and $s$ the distance of the same point from that of the",
+        "mathpix_content": " sphere, and $s$ the distance of the same point from that of the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 260,
+        "line_number": 14,
+        "type": "text",
+        "content": "second sphere.",
+        "mathpix_content": " second sphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 15,
+        "type": "text",
+        "content": "Let the surface density, $\\sigma_{1}$, of the first sphere be given by the",
+        "mathpix_content": "\n\nLet the surface density, $\\sigma_{1}$, of the first sphere be given by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 16,
+        "type": "text",
+        "content": "equation",
+        "mathpix_content": " equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 20,
+        "type": "text",
+        "content": "so that $A$ is the total charge of the sphere, and $A_{1}$, \\&c. are the",
+        "mathpix_content": "\nso that $A$ is the total charge of the sphere, and $A_{1}$, \\&c. are the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 260,
+        "line_number": 21,
+        "type": "text",
+        "content": "coefficients of the zonal harmonics $P_{1}$, \\&c.",
+        "mathpix_content": " coefficients of the zonal harmonics $P_{1}$, \\&c.",
+        "font_size": 27,
+        "confidence": 0.98876953125
+      },
+      {
+        "page": 260,
+        "line_number": 22,
+        "type": "text",
+        "content": "The potential due to this distribution of charge may be repre-",
+        "mathpix_content": "\n\nThe potential due to this distribution of charge may be repre",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 23,
+        "type": "text",
+        "content": "sented by",
+        "mathpix_content": "sented by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 27,
+        "type": "text",
+        "content": "for points inside the sphere, and by",
+        "mathpix_content": "\nfor points inside the sphere, and by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 31,
+        "type": "text",
+        "content": "for points outside.",
+        "mathpix_content": "\nfor points outside.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 32,
+        "type": "text",
+        "content": "Similarly, if the surface density on the second sphere is given",
+        "mathpix_content": "\nSimilarly, if the surface density on the second sphere is given",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 33,
+        "type": "text",
+        "content": "by the equation",
+        "mathpix_content": " by the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 37,
+        "type": "text",
+        "content": "the potential inside and outside this sphere due to this charge",
+        "mathpix_content": "\nthe potential inside and outside this sphere due to this charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 38,
+        "type": "text",
+        "content": "may be represented by equations of the form",
+        "mathpix_content": " may be represented by equations of the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 44,
+        "type": "text",
+        "content": "where the several harmonics are related to the second sphere.",
+        "mathpix_content": "\nwhere the several harmonics are related to the second sphere.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 45,
+        "type": "text",
+        "content": "The charges of the spheres are $A$ and $B$ respectively.",
+        "mathpix_content": "\nThe charges of the spheres are $A$ and $B$ respectively.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 46,
+        "type": "text",
+        "content": "The potential at every point within the first sphere is constant",
+        "mathpix_content": "\nThe potential at every point within the first sphere is constant",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 47,
+        "type": "text",
+        "content": "and equal to $a$, the potential of that sphere, so that within the",
+        "mathpix_content": " and equal to $a$, the potential of that sphere, so that within the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 48,
+        "type": "text",
+        "content": "first sphere",
+        "mathpix_content": " first sphere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 260,
+        "line_number": 52,
+        "type": "text",
+        "content": "vol. i.",
+        "mathpix_content": "\nvol. i.",
+        "font_size": 27,
+        "confidence": 0.7137130741029978
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

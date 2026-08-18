@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "& \\frac{\\left(n_{1}+\\sigma_{1}\\right)!}{2^{2 \\sigma_{1}}} \\frac{\\left(n_{1}-\\sigma_{1}\\right)!}{n_{1}!} \\\\",
+  "title_safe": "and fracleftn1plussigma1right22 sigma1 fracleftn1-sigma1righ",
+  "page_start": 254,
+  "page_end": 253,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

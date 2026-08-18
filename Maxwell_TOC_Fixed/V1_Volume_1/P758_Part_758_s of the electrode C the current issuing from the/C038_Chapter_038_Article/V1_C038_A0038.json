@@ -1,0 +1,237 @@
+{
+  "article_id": "article_38",
+  "article_number": 38,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 468,
+  "page_end": 468,
+  "content": {
+    "raw_text": "\n--- Page 468 ---\n309.]\nCORRECTION FOR THE ENDS OF THE WIRE.\n433\ntrue resistance by constraining the flow through the disk to be\nuniform at every point. We may suppose electromotive forces\nintroduced for this purpose acting perpendicular to the surface\nof the disk.\nThe resistance within the wire will be the same as before, but\nin the electrode the rate of generation of heat will be the sur-\nface-integral of the product of the flow into the potential. The\nrate of flow at any point is $\\frac{C}{\\pi a^{2}}$, and the potential is the same as\nthat of an electrified surface whose surface-density is $\\sigma$, where\n$$2 \\pi \\sigma=\\frac{C \\rho^{\\prime}}{\\pi a^{2}},$$\n(20)\n$\\rho^{\\prime}$ being the specific resistance.\nWe have therefore to determine the potential energy of the\nelectrification of the disk with the uniform surface-density $\\sigma$.\n*The potential at the edge of a disk of uniform density $\\sigma$\nis easily found to be $4 a \\sigma$. The work done in adding a strip of\nbreadth $d a$ at the circumference of the disk is $2 \\pi a \\sigma d a .4 a \\sigma$,\nand the whole potential energy of the disk is the integral of this,\n$$\\text { or } \\quad P=\\frac{8 \\pi}{3} a^{3} \\sigma^{2}$$\n(21)\nIn the case of electrical conduction the rate at which work is\ndone in the electrode whose resistance is $R^{\\prime}$ is $C^{2} R^{\\prime}$. But from\nthe general equation of conduction the current across the disk\nper unit area is of the form\n$$\\begin{array}{r}\n-\\frac{1}{\\rho^{\\prime}} \\frac{d V}{d \\nu} \\\\\n\\text { or } \\quad \\frac{2 \\pi}{\\rho^{\\prime}} \\sigma .\n\\end{array}$$\nThe rate at which work is done is, if $V$ is the potential of the disk,\nand $d s$ an element of its surface,\n$$\\begin{aligned}\n& =\\frac{C}{\\pi a^{2}} \\int V d s \\\\\n& =\\frac{2 C}{\\pi a^{2}} \\frac{P}{\\sigma}, \\text { since } P=\\frac{1}{2} \\int V \\sigma d s, \\\\\n& =\\frac{4 \\pi}{\\rho^{\\prime}} P(\\text { by }(20)) .\n\\end{aligned}$$\nWe have therefore\n$$C^{2} R^{\\prime}=\\frac{4 \\pi}{\\rho^{\\prime}} P$$\n(22)\n* See a Paper by Professor Cayley, London Math. Soc. Proc. vi. p. 38.\nVOL. I.\nF f\n",
+    "mathpix_markdown": "\n--- Page 468 ---\n\ntrue resistance by constraining the flow through the disk to be\n uniform at every point. We may suppose electromotive forces\n introduced for this purpose acting perpendicular to the surface\n of the disk.\n\n\nThe resistance within the wire will be the same as before, but\n in the electrode the rate of generation of heat will be the sur-\nface-integral of the product of the flow into the potential. The\n rate of flow at any point is $\\frac{C}{\\pi a^{2}}$, and the potential is the same as\n that of an electrified surface whose surface-density is $\\sigma$, where\n\n$$\\begin{equation*}\n2 \\pi \\sigma=\\frac{C \\rho^{\\prime}}{\\pi a^{2}}, \\tag{20}\n\\end{equation*}$$\n\n$\\rho^{\\prime}$ being the specific resistance.\n\nWe have therefore to determine the potential energy of the\n electrification of the disk with the uniform surface-density $\\sigma$.\n\n*The potential at the edge of a disk of uniform density $\\sigma$\n is easily found to be $4 a \\sigma$. The work done in adding a strip of\n breadth $d a$ at the circumference of the disk is $2 \\pi a \\sigma d a .4 a \\sigma$,\n and the whole potential energy of the disk is the integral of this,\n\n$$\\begin{equation*}\n\\text { or } \\quad P=\\frac{8 \\pi}{3} a^{3} \\sigma^{2} \\tag{21}\n\\end{equation*}$$\n\n\nIn the case of electrical conduction the rate at which work is\n done in the electrode whose resistance is $R^{\\prime}$ is $C^{2} R^{\\prime}$. But from\n the general equation of conduction the current across the disk\n per unit area is of the form\n\n$$\\begin{array}{r}\n-\\frac{1}{\\rho^{\\prime}} \\frac{d V}{d \\nu} \\\\\n\\text { or } \\quad \\frac{2 \\pi}{\\rho^{\\prime}} \\sigma .\n\\end{array}$$\n\n\nThe rate at which work is done is, if $V$ is the potential of the disk,\n and $d s$ an element of its surface,\n\n$$\\begin{aligned}\n& =\\frac{C}{\\pi a^{2}} \\int V d s \\\\\n& =\\frac{2 C}{\\pi a^{2}} \\frac{P}{\\sigma}, \\text { since } P=\\frac{1}{2} \\int V \\sigma d s, \\\\\n& =\\frac{4 \\pi}{\\rho^{\\prime}} P(\\text { by }(20)) .\n\\end{aligned}$$\n\n\nWe have therefore\n\n$$\\begin{equation*}\nC^{2} R^{\\prime}=\\frac{4 \\pi}{\\rho^{\\prime}} P \\tag{22}\n\\end{equation*}$$\n\n* See a Paper by Professor Cayley, London Math. Soc. Proc. vi. p. 38.\n",
+    "structured_lines": [
+      {
+        "page": 468,
+        "line_number": 4,
+        "type": "text",
+        "content": "true resistance by constraining the flow through the disk to be",
+        "mathpix_content": "\ntrue resistance by constraining the flow through the disk to be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 5,
+        "type": "text",
+        "content": "uniform at every point. We may suppose electromotive forces",
+        "mathpix_content": " uniform at every point. We may suppose electromotive forces",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 6,
+        "type": "text",
+        "content": "introduced for this purpose acting perpendicular to the surface",
+        "mathpix_content": " introduced for this purpose acting perpendicular to the surface",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 7,
+        "type": "text",
+        "content": "of the disk.",
+        "mathpix_content": " of the disk.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 8,
+        "type": "text",
+        "content": "The resistance within the wire will be the same as before, but",
+        "mathpix_content": "\n\nThe resistance within the wire will be the same as before, but",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 9,
+        "type": "text",
+        "content": "in the electrode the rate of generation of heat will be the sur-",
+        "mathpix_content": " in the electrode the rate of generation of heat will be the sur-",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 10,
+        "type": "text",
+        "content": "face-integral of the product of the flow into the potential. The",
+        "mathpix_content": "face-integral of the product of the flow into the potential. The",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 11,
+        "type": "text",
+        "content": "rate of flow at any point is $\\frac{C}{\\pi a^{2}}$, and the potential is the same as",
+        "mathpix_content": " rate of flow at any point is $\\frac{C}{\\pi a^{2}}$, and the potential is the same as",
+        "font_size": 34,
+        "confidence": 0.99365234375
+      },
+      {
+        "page": 468,
+        "line_number": 12,
+        "type": "text",
+        "content": "that of an electrified surface whose surface-density is $\\sigma$, where",
+        "mathpix_content": " that of an electrified surface whose surface-density is $\\sigma$, where",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 16,
+        "type": "text",
+        "content": "$\\rho^{\\prime}$ being the specific resistance.",
+        "mathpix_content": "\n$\\rho^{\\prime}$ being the specific resistance.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 17,
+        "type": "text",
+        "content": "We have therefore to determine the potential energy of the",
+        "mathpix_content": "\nWe have therefore to determine the potential energy of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 18,
+        "type": "text",
+        "content": "electrification of the disk with the uniform surface-density $\\sigma$.",
+        "mathpix_content": " electrification of the disk with the uniform surface-density $\\sigma$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 19,
+        "type": "text",
+        "content": "*The potential at the edge of a disk of uniform density $\\sigma$",
+        "mathpix_content": "\n*The potential at the edge of a disk of uniform density $\\sigma$",
+        "font_size": 34,
+        "confidence": 0.89013671875
+      },
+      {
+        "page": 468,
+        "line_number": 20,
+        "type": "text",
+        "content": "is easily found to be $4 a \\sigma$. The work done in adding a strip of",
+        "mathpix_content": " is easily found to be $4 a \\sigma$. The work done in adding a strip of",
+        "font_size": 34,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 468,
+        "line_number": 21,
+        "type": "text",
+        "content": "breadth $d a$ at the circumference of the disk is $2 \\pi a \\sigma d a .4 a \\sigma$,",
+        "mathpix_content": " breadth $d a$ at the circumference of the disk is $2 \\pi a \\sigma d a .4 a \\sigma$,",
+        "font_size": 34,
+        "confidence": 0.9970724578015506
+      },
+      {
+        "page": 468,
+        "line_number": 22,
+        "type": "text",
+        "content": "and the whole potential energy of the disk is the integral of this,",
+        "mathpix_content": " and the whole potential energy of the disk is the integral of this,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 26,
+        "type": "text",
+        "content": "In the case of electrical conduction the rate at which work is",
+        "mathpix_content": "\n\nIn the case of electrical conduction the rate at which work is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 27,
+        "type": "text",
+        "content": "done in the electrode whose resistance is $R^{\\prime}$ is $C^{2} R^{\\prime}$. But from",
+        "mathpix_content": " done in the electrode whose resistance is $R^{\\prime}$ is $C^{2} R^{\\prime}$. But from",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 28,
+        "type": "text",
+        "content": "the general equation of conduction the current across the disk",
+        "mathpix_content": " the general equation of conduction the current across the disk",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 29,
+        "type": "text",
+        "content": "per unit area is of the form",
+        "mathpix_content": " per unit area is of the form",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 33,
+        "type": "text",
+        "content": "The rate at which work is done is, if $V$ is the potential of the disk,",
+        "mathpix_content": "\n\nThe rate at which work is done is, if $V$ is the potential of the disk,",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 468,
+        "line_number": 34,
+        "type": "text",
+        "content": "and $d s$ an element of its surface,",
+        "mathpix_content": " and $d s$ an element of its surface,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 39,
+        "type": "text",
+        "content": "We have therefore",
+        "mathpix_content": "\n\nWe have therefore",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 468,
+        "line_number": 43,
+        "type": "text",
+        "content": "* See a Paper by Professor Cayley, London Math. Soc. Proc. vi. p. 38.",
+        "mathpix_content": "\n* See a Paper by Professor Cayley, London Math. Soc. Proc. vi. p. 38.",
+        "font_size": 21,
+        "confidence": 0.99658203125
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

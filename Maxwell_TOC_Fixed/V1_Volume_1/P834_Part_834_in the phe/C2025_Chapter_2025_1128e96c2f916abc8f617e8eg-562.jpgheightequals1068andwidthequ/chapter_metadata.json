@@ -1,0 +1,126 @@
+{
+  "chapter_id": "chapter_51",
+  "chapter_number": 2025,
+  "title": "_11_28_e96c2f916abc8f617e8eg-562.jpg?height=1068&width=1059&top_left_y=502&top_left_x=110)",
+  "page_start": 562,
+  "page_end": 563,
+  "articles": [
+    {
+      "article_id": "article_562",
+      "article_number": 562,
+      "title_original": "jpg?height=1068&width=1059&top_left_y=502&top_left_x=110)",
+      "title_safe": "jpgheightequals1068andwidthequals1059andtopleftyequals502and",
+      "page_start": 562,
+      "page_end": 561,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_143",
+      "article_number": 143,
+      "title_original": "Spherical Harmonic of the fourth order",
+      "title_safe": "Spherical Harmonic of the fourth order",
+      "page_start": 562,
+      "page_end": 561,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_143",
+      "article_number": 143,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 562,
+      "page_end": 561,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2025",
+      "article_number": 2025,
+      "title_original": "_11_28_e96c2f916abc8f617e8eg-562.jpg?height=1068&width=1059&top_left_y=502&top_left_x=110)",
+      "title_safe": "1128e96c2f916abc8f617e8eg-562.jpgheightequals1068andwidthequ",
+      "page_start": 562,
+      "page_end": 563,
+      "content": {
+        "raw_text": "\n--- Page 562 ---\nClertc Maxwellis Electricity, Vol.I.\n\nFIG IX.\n\nArt 143\n\n\nSpherical Harmonic of the fourth order\nUniversity Press, Oxford\n\n--- Page 563 ---\n\"\n",
+        "mathpix_markdown": "\n--- Page 562 ---\n\n\n\\section*{FIG IX.}\n\n\n\\section*{Art 143}\n\n![](https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-562.jpg?height=1068&width=1059&top_left_y=502&top_left_x=110)\n\n\n\\section*{Spherical Harmonic of the fourth order}\n\n--- Page 563 ---\n\n\"\n",
+        "structured_lines": [
+          {
+            "page": 562,
+            "line_number": 3,
+            "type": "text",
+            "content": "FIG IX.",
+            "mathpix_content": "\n\n\\section*{FIG IX.}",
+            "font_size": 21,
+            "confidence": 0.9590794672258198
+          },
+          {
+            "page": 562,
+            "line_number": 5,
+            "type": "text",
+            "content": "Art 143",
+            "mathpix_content": "\n\n\\section*{Art 143}",
+            "font_size": 21,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 562,
+            "line_number": 8,
+            "type": "text",
+            "content": "Spherical Harmonic of the fourth order",
+            "mathpix_content": "\n\n\\section*{Spherical Harmonic of the fourth order}",
+            "font_size": 33,
+            "confidence": 1.0
+          },
+          {
+            "page": 563,
+            "line_number": 1,
+            "type": "text",
+            "content": "\"",
+            "mathpix_content": "\n\"",
+            "font_size": 80,
+            "confidence": 0.244873046875
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

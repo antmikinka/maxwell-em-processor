@@ -1,0 +1,255 @@
+{
+  "article_id": "article_8",
+  "article_number": 8,
+  "title_original": "\\pi p=R^{2}$.",
+  "title_safe": "pi pequalsR2",
+  "page_start": 222,
+  "page_end": 222,
+  "content": {
+    "raw_text": "\n--- Page 222 ---\nSIMPLE CASES. PARALLEL PLANES.\n187\ndensity $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and\n$$4 \\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$\nLet us next consider a portion of the first surface whose area\nis $S$, taken so that no part of $S$ is near the boundary of the\nsurface.\nThe quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by\nArt. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so\nthat the whole force acting on the area $S$, and attracting it\ntowards the other plane, is\n$$F=\\frac{1}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$\nHere the attraction is expressed in terms of the area $S$, the\ndifference of potentials of the two surfaces $(A-B)$, and the dis-\ntance between them $c$. The attraction, expressed in terms of the\ncharge $e_{1}$, on the area $S$, is\n$$F=\\frac{2 \\pi}{S} e_{1}^{2}$$\nThe electric energy due to the distribution of electricity on\nthe area $S$, and that on the corresponding area $S^{\\prime}$ on the surface\n$B$ defined by projecting $S$ on the surface $B$ by a system of lines\nof force, which in this case are normals to the plane, is\n$$\\begin{aligned}\nW & =\\frac{1}{2}\\left(e_{1} A+e_{2} B\\right) \\\\\n& =\\frac{1}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\\n& =\\frac{R^{2}}{8 \\pi} S c \\\\\n& =\\frac{2 \\pi}{S} e_{1}^{\\prime \\prime} c \\\\\n& =F c\n\\end{aligned}$$\nThe first of these expressions is the general expression of elec-\ntric energy (Art. 84).\nThe second gives the energy in terms of the area, the distance,\nand difference of potentials.\nThe third gives it in terms of the resultant force $R$, and the\nvolume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that\nthe energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.\nThe attraction between the planes is $p S$, or in other words,\nthere is an electrical tension (or negative pressure) equal to $p$ on\nevery unit of area.\n",
+    "mathpix_markdown": "\n--- Page 222 ---\n\ndensity $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and\n\n$$4 \\pi \\sigma^{\\prime}=-K=\\frac{B-A}{c}$$\n\n\nLet us next consider a portion of the first surface whose area\n is $S$, taken so that no part of $S$ is near the boundary of the\n surface.\n\n\nThe quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by\n Art. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so\n that the whole force acting on the area $S$, and attracting it\n towards the other plane, is\n\n$$F=\\frac{1}{2} R S \\sigma=\\frac{1}{8 \\pi} R^{2} S=\\frac{S}{8 \\pi} \\frac{(B-A)^{2}}{c^{2}}$$\n\n\nHere the attraction is expressed in terms of the area $S$, the\n difference of potentials of the two surfaces $(A-B)$, and the dis\ntance between them $c$. The attraction, expressed in terms of the\n charge $e_{1}$, on the area $S$, is\n\n$$F=\\frac{2 \\pi}{S} e_{1}^{2}$$\n\n\nThe electric energy due to the distribution of electricity on\n the area $S$, and that on the corresponding area $S^{\\prime}$ on the surface\n $B$ defined by projecting $S$ on the surface $B$ by a system of lines\n of force, which in this case are normals to the plane, is\n\n$$\\begin{aligned}\nW & =\\frac{1}{2}\\left(e_{1} A+e_{2} B\\right) \\\\\n& =\\frac{1}{2} \\frac{S}{4 \\pi} \\frac{(A-B)^{2}}{c} \\\\\n& =\\frac{R^{2}}{8 \\pi} S c \\\\\n& =\\frac{2 \\pi}{S} e_{1}^{\\prime \\prime} c \\\\\n& =F c\n\\end{aligned}$$\n\n\nThe first of these expressions is the general expression of elec\ntric energy (Art. 84).\n\n\nThe second gives the energy in terms of the area, the distance,\n and difference of potentials.\n\n\nThe third gives it in terms of the resultant force $R$, and the\n volume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that\n the energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.\n\n\nThe attraction between the planes is $p S$, or in other words,\n there is an electrical tension (or negative pressure) equal to $p$ on\n every unit of area.\n",
+    "structured_lines": [
+      {
+        "page": 222,
+        "line_number": 3,
+        "type": "text",
+        "content": "density $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and",
+        "mathpix_content": "\ndensity $\\sigma^{\\prime}$ will be equal and opposite to $\\sigma$, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 6,
+        "type": "text",
+        "content": "Let us next consider a portion of the first surface whose area",
+        "mathpix_content": "\n\nLet us next consider a portion of the first surface whose area",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 7,
+        "type": "text",
+        "content": "is $S$, taken so that no part of $S$ is near the boundary of the",
+        "mathpix_content": " is $S$, taken so that no part of $S$ is near the boundary of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 8,
+        "type": "text",
+        "content": "surface.",
+        "mathpix_content": " surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 9,
+        "type": "text",
+        "content": "The quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by",
+        "mathpix_content": "\n\nThe quantity of electricity on this surface is $e_{1}=S \\sigma$, and, by",
+        "font_size": 27,
+        "confidence": 0.97412109375
+      },
+      {
+        "page": 222,
+        "line_number": 10,
+        "type": "text",
+        "content": "Art. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+        "mathpix_content": " Art. 79, the force acting on every unit of electricity is $\\frac{1}{2} R$, so",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 222,
+        "line_number": 11,
+        "type": "text",
+        "content": "that the whole force acting on the area $S$, and attracting it",
+        "mathpix_content": " that the whole force acting on the area $S$, and attracting it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 12,
+        "type": "text",
+        "content": "towards the other plane, is",
+        "mathpix_content": " towards the other plane, is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 15,
+        "type": "text",
+        "content": "Here the attraction is expressed in terms of the area $S$, the",
+        "mathpix_content": "\n\nHere the attraction is expressed in terms of the area $S$, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 16,
+        "type": "text",
+        "content": "difference of potentials of the two surfaces $(A-B)$, and the dis-",
+        "mathpix_content": " difference of potentials of the two surfaces $(A-B)$, and the dis",
+        "font_size": 27,
+        "confidence": 0.935546875
+      },
+      {
+        "page": 222,
+        "line_number": 17,
+        "type": "text",
+        "content": "tance between them $c$. The attraction, expressed in terms of the",
+        "mathpix_content": "tance between them $c$. The attraction, expressed in terms of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 18,
+        "type": "text",
+        "content": "charge $e_{1}$, on the area $S$, is",
+        "mathpix_content": " charge $e_{1}$, on the area $S$, is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 21,
+        "type": "text",
+        "content": "The electric energy due to the distribution of electricity on",
+        "mathpix_content": "\n\nThe electric energy due to the distribution of electricity on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 22,
+        "type": "text",
+        "content": "the area $S$, and that on the corresponding area $S^{\\prime}$ on the surface",
+        "mathpix_content": " the area $S$, and that on the corresponding area $S^{\\prime}$ on the surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 23,
+        "type": "text",
+        "content": "$B$ defined by projecting $S$ on the surface $B$ by a system of lines",
+        "mathpix_content": " $B$ defined by projecting $S$ on the surface $B$ by a system of lines",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 24,
+        "type": "text",
+        "content": "of force, which in this case are normals to the plane, is",
+        "mathpix_content": " of force, which in this case are normals to the plane, is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 31,
+        "type": "text",
+        "content": "The first of these expressions is the general expression of elec-",
+        "mathpix_content": "\n\nThe first of these expressions is the general expression of elec",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 32,
+        "type": "text",
+        "content": "tric energy (Art. 84).",
+        "mathpix_content": "tric energy (Art. 84).",
+        "font_size": 27,
+        "confidence": 0.966796875
+      },
+      {
+        "page": 222,
+        "line_number": 33,
+        "type": "text",
+        "content": "The second gives the energy in terms of the area, the distance,",
+        "mathpix_content": "\n\nThe second gives the energy in terms of the area, the distance,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 34,
+        "type": "text",
+        "content": "and difference of potentials.",
+        "mathpix_content": " and difference of potentials.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 35,
+        "type": "text",
+        "content": "The third gives it in terms of the resultant force $R$, and the",
+        "mathpix_content": "\n\nThe third gives it in terms of the resultant force $R$, and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 36,
+        "type": "text",
+        "content": "volume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that",
+        "mathpix_content": " volume $S_{c}$ included between the areas $S$ and $S^{\\prime}$, and shews that",
+        "font_size": 27,
+        "confidence": 0.88720703125
+      },
+      {
+        "page": 222,
+        "line_number": 37,
+        "type": "text",
+        "content": "the energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.",
+        "mathpix_content": " the energy in unit of volume is $p$ where $8 \\pi p=R^{2}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 38,
+        "type": "text",
+        "content": "The attraction between the planes is $p S$, or in other words,",
+        "mathpix_content": "\n\nThe attraction between the planes is $p S$, or in other words,",
+        "font_size": 27,
+        "confidence": 0.99072265625
+      },
+      {
+        "page": 222,
+        "line_number": 39,
+        "type": "text",
+        "content": "there is an electrical tension (or negative pressure) equal to $p$ on",
+        "mathpix_content": " there is an electrical tension (or negative pressure) equal to $p$ on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 222,
+        "line_number": 40,
+        "type": "text",
+        "content": "every unit of area.",
+        "mathpix_content": " every unit of area.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

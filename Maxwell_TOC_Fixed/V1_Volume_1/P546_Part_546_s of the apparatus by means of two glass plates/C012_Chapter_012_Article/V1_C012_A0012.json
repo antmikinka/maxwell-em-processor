@@ -1,0 +1,381 @@
+{
+  "article_id": "article_12",
+  "article_number": 12,
+  "title_original": ".\\}",
+  "title_safe": "Article",
+  "page_start": 358,
+  "page_end": 358,
+  "content": {
+    "raw_text": "\n--- Page 358 ---\n213.]\nTHE RECIPROCAL ELECTROPHORUS.\n323\nvessel placed inside but not touching an inductor. The receiver\nis thus continually supplied with electricity of opposite sign to\nthat of the inductor. If the inductor is electrified positively, the\nreceiver will receive a continually increasing charge of negative\nelectricity.\nThe water is made to escape from the receiver by means of a\nfunnel, the nozzle of which is almost surrounded by the metal of\nthe receiver. The drops falling from this nozzle are therefore\nnearly free from electrification. Another inductor and receiver\nof the same construction are arranged so that the inductor of\nthe one system is in connexion with the receiver of the other.\nThe rate of increase of charge of the receivers is thus no longer\nconstant, but increases in a geometrical progression with the\ntime, the charges of the two receivers being of opposite signs.\nThis increase goes on till the falling drops are so diverted from\ntheir course by the electrical action that they fall outside of the\nreceiver or even strike the inductor.\nIn this instrument the energy of the electrification is drawn\nfrom that of the falling drops.\n212.] Several other electrical machines have been constructed\nin which the principle of electric induction is employed. Of\nthese the most remarkable is that of Holtz, in which the carrier\nis a glass plate varnished with gum-lac and the inductors are\npieces of pasteboard. Sparks are prevented from passing be-\ntween the parts of the apparatus by means of two glass plates,\none on each side of the revolving carrier plate. This machine\nis found to be very effective, and not to be much affected by the\nstate of the atmosphere. The principle is the same as in the\nrevolving doubler and the instruments developed out of the\nsame idea, but as the carrier is an insulating plate and the\ninductors are imperfect conductors, the complete explanation of\nthe action is more difficult than in the case where the carriers\nare good conductors of known form and are charged and dis-\ncharged at definite points *.\n213.] In the electrical machines already described sparks\noccur whenever the carrier comes in contact with a conductor at.\na different potential from its own.\n\n* \\{The induction machines most frequently used at present are those of Voss and\nWimshurst. A description of these with diagrams will be found in Nature, vol. xxviii.\np. 12.\\}\nY 2\n",
+    "mathpix_markdown": "\n--- Page 358 ---\n\nvessel placed inside but not touching an inductor. The receiver\n is thus continually supplied with electricity of opposite sign to\n that of the inductor. If the inductor is electrified positively, the\n receiver will receive a continually increasing charge of negative\n electricity.\n\n\nThe water is made to escape from the receiver by means of a\n funnel, the nozzle of which is almost surrounded by the metal of\n the receiver. The drops falling from this nozzle are therefore\n nearly free from electrification. Another inductor and receiver\n of the same construction are arranged so that the inductor of\n the one system is in connexion with the receiver of the other.\n The rate of increase of charge of the receivers is thus no longer\n constant, but increases in a geometrical progression with the\n time, the charges of the two receivers being of opposite signs.\n This increase goes on till the falling drops are so diverted from\n their course by the electrical action that they fall outside of the\n receiver or even strike the inductor.\n\n\nIn this instrument the energy of the electrification is drawn\n from that of the falling drops.\n\n212.] Several other electrical machines have been constructed\n in which the principle of electric induction is employed. Of\n these the most remarkable is that of Holtz, in which the carrier\n is a glass plate varnished with gum-lac and the inductors are\n pieces of pasteboard. Sparks are prevented from passing be\ntween the parts of the apparatus by means of two glass plates,\n one on each side of the revolving carrier plate. This machine\n is found to be very effective, and not to be much affected by the\n state of the atmosphere. The principle is the same as in the\n revolving doubler and the instruments developed out of the\n same idea, but as the carrier is an insulating plate and the\n inductors are imperfect conductors, the complete explanation of\n the action is more difficult than in the case where the carriers\n are good conductors of known form and are charged and dis\ncharged at definite points *.\n\n213.] In the electrical machines already described sparks\n occur whenever the carrier comes in contact with a conductor at.\n a different potential from its own.\n\n\n\\footnotetext{\n* \\{The induction machines most frequently used at present are those of Voss and\n Wimshurst. A description of these with diagrams will be found in Nature, vol. xxviii.\n p. 12.\\}\n}\n",
+    "structured_lines": [
+      {
+        "page": 358,
+        "line_number": 4,
+        "type": "text",
+        "content": "vessel placed inside but not touching an inductor. The receiver",
+        "mathpix_content": "\nvessel placed inside but not touching an inductor. The receiver",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 5,
+        "type": "text",
+        "content": "is thus continually supplied with electricity of opposite sign to",
+        "mathpix_content": " is thus continually supplied with electricity of opposite sign to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 6,
+        "type": "text",
+        "content": "that of the inductor. If the inductor is electrified positively, the",
+        "mathpix_content": " that of the inductor. If the inductor is electrified positively, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 7,
+        "type": "text",
+        "content": "receiver will receive a continually increasing charge of negative",
+        "mathpix_content": " receiver will receive a continually increasing charge of negative",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 8,
+        "type": "text",
+        "content": "electricity.",
+        "mathpix_content": " electricity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 9,
+        "type": "text",
+        "content": "The water is made to escape from the receiver by means of a",
+        "mathpix_content": "\n\nThe water is made to escape from the receiver by means of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 10,
+        "type": "text",
+        "content": "funnel, the nozzle of which is almost surrounded by the metal of",
+        "mathpix_content": " funnel, the nozzle of which is almost surrounded by the metal of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 11,
+        "type": "text",
+        "content": "the receiver. The drops falling from this nozzle are therefore",
+        "mathpix_content": " the receiver. The drops falling from this nozzle are therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 12,
+        "type": "text",
+        "content": "nearly free from electrification. Another inductor and receiver",
+        "mathpix_content": " nearly free from electrification. Another inductor and receiver",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 13,
+        "type": "text",
+        "content": "of the same construction are arranged so that the inductor of",
+        "mathpix_content": " of the same construction are arranged so that the inductor of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 14,
+        "type": "text",
+        "content": "the one system is in connexion with the receiver of the other.",
+        "mathpix_content": " the one system is in connexion with the receiver of the other.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 15,
+        "type": "text",
+        "content": "The rate of increase of charge of the receivers is thus no longer",
+        "mathpix_content": " The rate of increase of charge of the receivers is thus no longer",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 16,
+        "type": "text",
+        "content": "constant, but increases in a geometrical progression with the",
+        "mathpix_content": " constant, but increases in a geometrical progression with the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 17,
+        "type": "text",
+        "content": "time, the charges of the two receivers being of opposite signs.",
+        "mathpix_content": " time, the charges of the two receivers being of opposite signs.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 18,
+        "type": "text",
+        "content": "This increase goes on till the falling drops are so diverted from",
+        "mathpix_content": " This increase goes on till the falling drops are so diverted from",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 358,
+        "line_number": 19,
+        "type": "text",
+        "content": "their course by the electrical action that they fall outside of the",
+        "mathpix_content": " their course by the electrical action that they fall outside of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 20,
+        "type": "text",
+        "content": "receiver or even strike the inductor.",
+        "mathpix_content": " receiver or even strike the inductor.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 21,
+        "type": "text",
+        "content": "In this instrument the energy of the electrification is drawn",
+        "mathpix_content": "\n\nIn this instrument the energy of the electrification is drawn",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 22,
+        "type": "text",
+        "content": "from that of the falling drops.",
+        "mathpix_content": " from that of the falling drops.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 23,
+        "type": "text",
+        "content": "212.] Several other electrical machines have been constructed",
+        "mathpix_content": "\n212.] Several other electrical machines have been constructed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 24,
+        "type": "text",
+        "content": "in which the principle of electric induction is employed. Of",
+        "mathpix_content": " in which the principle of electric induction is employed. Of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 25,
+        "type": "text",
+        "content": "these the most remarkable is that of Holtz, in which the carrier",
+        "mathpix_content": " these the most remarkable is that of Holtz, in which the carrier",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 26,
+        "type": "text",
+        "content": "is a glass plate varnished with gum-lac and the inductors are",
+        "mathpix_content": " is a glass plate varnished with gum-lac and the inductors are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 27,
+        "type": "text",
+        "content": "pieces of pasteboard. Sparks are prevented from passing be-",
+        "mathpix_content": " pieces of pasteboard. Sparks are prevented from passing be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 28,
+        "type": "text",
+        "content": "tween the parts of the apparatus by means of two glass plates,",
+        "mathpix_content": "tween the parts of the apparatus by means of two glass plates,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 29,
+        "type": "text",
+        "content": "one on each side of the revolving carrier plate. This machine",
+        "mathpix_content": " one on each side of the revolving carrier plate. This machine",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 30,
+        "type": "text",
+        "content": "is found to be very effective, and not to be much affected by the",
+        "mathpix_content": " is found to be very effective, and not to be much affected by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 31,
+        "type": "text",
+        "content": "state of the atmosphere. The principle is the same as in the",
+        "mathpix_content": " state of the atmosphere. The principle is the same as in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 32,
+        "type": "text",
+        "content": "revolving doubler and the instruments developed out of the",
+        "mathpix_content": " revolving doubler and the instruments developed out of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 33,
+        "type": "text",
+        "content": "same idea, but as the carrier is an insulating plate and the",
+        "mathpix_content": " same idea, but as the carrier is an insulating plate and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 34,
+        "type": "text",
+        "content": "inductors are imperfect conductors, the complete explanation of",
+        "mathpix_content": " inductors are imperfect conductors, the complete explanation of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 35,
+        "type": "text",
+        "content": "the action is more difficult than in the case where the carriers",
+        "mathpix_content": " the action is more difficult than in the case where the carriers",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 36,
+        "type": "text",
+        "content": "are good conductors of known form and are charged and dis-",
+        "mathpix_content": " are good conductors of known form and are charged and dis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 37,
+        "type": "text",
+        "content": "charged at definite points *.",
+        "mathpix_content": "charged at definite points *.",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 358,
+        "line_number": 38,
+        "type": "text",
+        "content": "213.] In the electrical machines already described sparks",
+        "mathpix_content": "\n213.] In the electrical machines already described sparks",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 358,
+        "line_number": 39,
+        "type": "text",
+        "content": "occur whenever the carrier comes in contact with a conductor at.",
+        "mathpix_content": " occur whenever the carrier comes in contact with a conductor at.",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 358,
+        "line_number": 40,
+        "type": "text",
+        "content": "a different potential from its own.",
+        "mathpix_content": " a different potential from its own.",
+        "font_size": 27,
+        "confidence": 0.99462890625
+      },
+      {
+        "page": 358,
+        "line_number": 42,
+        "type": "text",
+        "content": "* \\{The induction machines most frequently used at present are those of Voss and",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{The induction machines most frequently used at present are those of Voss and",
+        "font_size": 21,
+        "confidence": 0.9970722198486328
+      },
+      {
+        "page": 358,
+        "line_number": 43,
+        "type": "text",
+        "content": "Wimshurst. A description of these with diagrams will be found in Nature, vol. xxviii.",
+        "mathpix_content": " Wimshurst. A description of these with diagrams will be found in Nature, vol. xxviii.",
+        "font_size": 21,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 358,
+        "line_number": 44,
+        "type": "text",
+        "content": "p. 12.\\}",
+        "mathpix_content": " p. 12.\\}\n}",
+        "font_size": 21,
+        "confidence": 0.8735854625701904
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

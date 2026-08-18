@@ -1,0 +1,228 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{8 \\pi} R^{2}, \\tag{22}",
+  "title_safe": "8 pi R2 tag22",
+  "page_start": 195,
+  "page_end": 195,
+  "content": {
+    "raw_text": "\n--- Page 195 ---\n160\nMECHANICAL ACTION.\n[106.\nMultiplying (19) by $2 \\frac{d \\Psi}{d x}$ and subtracting from (20), we find\n$$\\begin{aligned}\n8 \\pi\\left(l p_{x x}+m p_{y x}+n p_{x x}\\right) & =-l\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] \\\\\n& =-l R^{2}\n\\end{aligned}$$\n(21)\nHence the components of the tension per unit of area of $d s$ are\n$$\\begin{aligned}\n& a=-\\frac{1}{8 \\pi} R^{2} l \\\\\n& b=-\\frac{1}{8 \\pi} R^{2} m \\\\\n& c=-\\frac{1}{8 \\pi} R^{2} n\n\\end{aligned}$$\nHence if the element $d s$ is at right angles to an equipotential\nsurface, the force which acts on it is normal to the surface, and\nits numerical value per unit of area is the same as in the former\ncase, but the direction of the force is different, for it is a pressure\ninstead of a tension.\nWe have thus completely determined the type of the stress at\nany given point of the medium.\nThe direction of the electromotive intensity at the point is a\nprincipal axis of stress, and the stress in this direction is a tension\nwhose numerical value is\n$$p=\\frac{1}{8 \\pi} R^{2},$$\n(22)\nwhere $R$ is the electromotive intensity.\nAny direction at right angles to this is also a principal axis of\nstress, and the stress along such an axis is a pressure whose\nnumerical magnitude is also $p$.\nThe stress as thus defined is not of the most general type, for\nit has two of its principal stresses equal to each other, and the\nthird has the same value with the sign reversed.\nThese conditions reduce the number of independent variables\nwhich determine the stress from six to three, accordingly it is\ncompletely determined by the three components of the electro-\nmotive intensity\n$$-\\frac{d \\Psi}{d x}, \\quad-\\frac{d \\Psi}{d y}, \\quad-\\frac{d \\Psi}{d z} .$$\n",
+    "mathpix_markdown": "\n--- Page 195 ---\n\n\nMultiplying (19) by $2 \\frac{d \\Psi}{d x}$ and subtracting from (20), we find\n\n$$\\begin{align*}\n8 \\pi\\left(l p_{x x}+m p_{y x}+n p_{x x}\\right) & =-l\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] \\\\\n& =-l R^{2} \\tag{21}\n\\end{align*}$$\n\n\nHence the components of the tension per unit of area of $d s$ are\n\n$$\\begin{aligned}\n& a=-\\frac{1}{8 \\pi} R^{2} l \\\\\n& b=-\\frac{1}{8 \\pi} R^{2} m \\\\\n& c=-\\frac{1}{8 \\pi} R^{2} n\n\\end{aligned}$$\n\n\nHence if the element $d s$ is at right angles to an equipotential\n surface, the force which acts on it is normal to the surface, and\n its numerical value per unit of area is the same as in the former\n case, but the direction of the force is different, for it is a pressure\n instead of a tension.\n\n\nWe have thus completely determined the type of the stress at\n any given point of the medium.\n\n\nThe direction of the electromotive intensity at the point is a\n principal axis of stress, and the stress in this direction is a tension\n whose numerical value is\n\n$$\\begin{equation*}\np=\\frac{1}{8 \\pi} R^{2}, \\tag{22}\n\\end{equation*}$$\n\nwhere $R$ is the electromotive intensity.\n\nAny direction at right angles to this is also a principal axis of\n stress, and the stress along such an axis is a pressure whose\n numerical magnitude is also $p$.\n\n\nThe stress as thus defined is not of the most general type, for\n it has two of its principal stresses equal to each other, and the\n third has the same value with the sign reversed.\n\n\nThese conditions reduce the number of independent variables\n which determine the stress from six to three, accordingly it is\n completely determined by the three components of the electro\nmotive intensity\n\n$$-\\frac{d \\Psi}{d x}, \\quad-\\frac{d \\Psi}{d y}, \\quad-\\frac{d \\Psi}{d z} .$$\n",
+    "structured_lines": [
+      {
+        "page": 195,
+        "line_number": 4,
+        "type": "text",
+        "content": "Multiplying (19) by $2 \\frac{d \\Psi}{d x}$ and subtracting from (20), we find",
+        "mathpix_content": "\n\nMultiplying (19) by $2 \\frac{d \\Psi}{d x}$ and subtracting from (20), we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 9,
+        "type": "text",
+        "content": "Hence the components of the tension per unit of area of $d s$ are",
+        "mathpix_content": "\n\nHence the components of the tension per unit of area of $d s$ are",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 195,
+        "line_number": 14,
+        "type": "text",
+        "content": "Hence if the element $d s$ is at right angles to an equipotential",
+        "mathpix_content": "\n\nHence if the element $d s$ is at right angles to an equipotential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 15,
+        "type": "text",
+        "content": "surface, the force which acts on it is normal to the surface, and",
+        "mathpix_content": " surface, the force which acts on it is normal to the surface, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 16,
+        "type": "text",
+        "content": "its numerical value per unit of area is the same as in the former",
+        "mathpix_content": " its numerical value per unit of area is the same as in the former",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 17,
+        "type": "text",
+        "content": "case, but the direction of the force is different, for it is a pressure",
+        "mathpix_content": " case, but the direction of the force is different, for it is a pressure",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 18,
+        "type": "text",
+        "content": "instead of a tension.",
+        "mathpix_content": " instead of a tension.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 19,
+        "type": "text",
+        "content": "We have thus completely determined the type of the stress at",
+        "mathpix_content": "\n\nWe have thus completely determined the type of the stress at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 20,
+        "type": "text",
+        "content": "any given point of the medium.",
+        "mathpix_content": " any given point of the medium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 21,
+        "type": "text",
+        "content": "The direction of the electromotive intensity at the point is a",
+        "mathpix_content": "\n\nThe direction of the electromotive intensity at the point is a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 22,
+        "type": "text",
+        "content": "principal axis of stress, and the stress in this direction is a tension",
+        "mathpix_content": " principal axis of stress, and the stress in this direction is a tension",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 23,
+        "type": "text",
+        "content": "whose numerical value is",
+        "mathpix_content": " whose numerical value is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 27,
+        "type": "text",
+        "content": "where $R$ is the electromotive intensity.",
+        "mathpix_content": "\nwhere $R$ is the electromotive intensity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 28,
+        "type": "text",
+        "content": "Any direction at right angles to this is also a principal axis of",
+        "mathpix_content": "\nAny direction at right angles to this is also a principal axis of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 29,
+        "type": "text",
+        "content": "stress, and the stress along such an axis is a pressure whose",
+        "mathpix_content": " stress, and the stress along such an axis is a pressure whose",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 30,
+        "type": "text",
+        "content": "numerical magnitude is also $p$.",
+        "mathpix_content": " numerical magnitude is also $p$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 31,
+        "type": "text",
+        "content": "The stress as thus defined is not of the most general type, for",
+        "mathpix_content": "\n\nThe stress as thus defined is not of the most general type, for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 32,
+        "type": "text",
+        "content": "it has two of its principal stresses equal to each other, and the",
+        "mathpix_content": " it has two of its principal stresses equal to each other, and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 33,
+        "type": "text",
+        "content": "third has the same value with the sign reversed.",
+        "mathpix_content": " third has the same value with the sign reversed.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 34,
+        "type": "text",
+        "content": "These conditions reduce the number of independent variables",
+        "mathpix_content": "\n\nThese conditions reduce the number of independent variables",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 35,
+        "type": "text",
+        "content": "which determine the stress from six to three, accordingly it is",
+        "mathpix_content": " which determine the stress from six to three, accordingly it is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 36,
+        "type": "text",
+        "content": "completely determined by the three components of the electro-",
+        "mathpix_content": " completely determined by the three components of the electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 195,
+        "line_number": 37,
+        "type": "text",
+        "content": "motive intensity",
+        "mathpix_content": "motive intensity",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

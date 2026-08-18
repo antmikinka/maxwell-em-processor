@@ -1,0 +1,1213 @@
+{
+  "part_id": "part_83",
+  "part_number": 83,
+  "title": "icles, or with respect to the quantity of the fluid which flows",
+  "page_start": 46,
+  "page_end": 47,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 12,
+      "title": "]",
+      "page_start": 46,
+      "page_end": 45,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 11,
+      "title": "In the calculus of quaternions, the position of a point in space",
+      "page_start": 46,
+      "page_end": 45,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 12,
+      "title": "] Physical vector quantities may be divided into two classes,",
+      "page_start": 46,
+      "page_end": 45,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 12,
+      "title": "] Physical vector quantities may be divided into two classes,",
+      "page_start": 46,
+      "page_end": 46,
+      "articles": [
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 46,
+          "page_end": 45,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": "] Physical vector quantities may be divided into two classes,",
+          "title_safe": "Physical vector quantities may be divided into two classes",
+          "page_start": 46,
+          "page_end": 45,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": "] Physical vector quantities may be divided into two classes,",
+          "title_safe": "Physical vector quantities may be divided into two classes",
+          "page_start": 46,
+          "page_end": 45,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 46,
+          "page_end": 45,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": "In the calculus of quaternions, the position of a point in space",
+          "title_safe": "In the calculus of quaternions the position of a point in sp",
+          "page_start": 46,
+          "page_end": 45,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": ".] Physical vector quantities may be divided into two classes,",
+          "title_safe": "Physical vector quantities may be divided into two classes",
+          "page_start": 46,
+          "page_end": 45,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": ".] Physical vector quantities may be divided into two classes,",
+          "title_safe": "Physical vector quantities may be divided into two classes",
+          "page_start": 46,
+          "page_end": 46,
+          "content": {
+            "raw_text": "\n--- Page 46 ---\n12.]\nINTENSITIES AND FLUXES.\n11\nIn the calculus of quaternions, the position of a point in space\nis defined by the vector drawn from a fixed point, called the\norigin, to that point. If we have to consider any physical\nquantity whose value depends on the position of the point, that\nquantity is treated as a function of the vector drawn from the\norigin. The function may be itself either scalar or vector. The\ndensity of a body, its temperature, its hydrostatical pressure, the\npotential at a point, are examples of scalar functions. The\nresultant force at a point, the velocity of a fluid at a point, the\nvelocity of rotation of an element of the fluid, and the couple\nproducing rotation, are examples of vector functions.\n12.] Physical vector quantities may be divided into two classes,\nin one of which the quantity is defined with reference to a line,\nwhile in the other the quantity is defined with reference to an\narea.\nFor instance, the resultant of an attractive force in any direction\nmay be measured by finding the work which it would do on a\nbody if the body were moved a short distance in that direction\nand dividing it by that short distance. Here the attractive force\nis defined with reference to a line.\nOn the other hand, the flux of heat in any direction at any\npoint of a solid body may be defined as the quantity of heat\nwhich crosses a small area drawn perpendicular to that direction\ndivided by that area and by the time. Here the flux is defined\nwith reference to an area.\nThere are certain cases in which a quantity may be measured\nwith reference to a line as well as with reference to an area.\nThus, in treating of the displacements of elastic solids, we may\ndirect our attention either to the original and the actual positions\nof a particle, in which case the displacement of the particle is\nmeasured by the line drawn from the first position to the second,\nor we may consider a small area fixed in space, and determine\nwhat quantity of the solid passes across that area during the\ndisplacement.\nIn the same way the velocity of a fluid may be investigated\neither with respect to the actual velocity of the individual\nparticles, or with respect to the quantity of the fluid which flows\nthrough any fixed area.\nBut in these cases we require to know separately the density\nof the body as well as the displacement or velocity, in order to\n",
+            "mathpix_markdown": "\n--- Page 46 ---\n\n\nIn the calculus of quaternions, the position of a point in space\n is defined by the vector drawn from a fixed point, called the\n origin, to that point. If we have to consider any physical\n quantity whose value depends on the position of the point, that\n quantity is treated as a function of the vector drawn from the\n origin. The function may be itself either scalar or vector. The\n density of a body, its temperature, its hydrostatical pressure, the\n potential at a point, are examples of scalar functions. The\n resultant force at a point, the velocity of a fluid at a point, the\n velocity of rotation of an element of the fluid, and the couple\n producing rotation, are examples of vector functions.\n\n12.] Physical vector quantities may be divided into two classes,\n in one of which the quantity is defined with reference to a line,\n while in the other the quantity is defined with reference to an\n area.\n\n\nFor instance, the resultant of an attractive force in any direction\n may be measured by finding the work which it would do on a\n body if the body were moved a short distance in that direction\n and dividing it by that short distance. Here the attractive force\n is defined with reference to a line.\n\n\nOn the other hand, the flux of heat in any direction at any\n point of a solid body may be defined as the quantity of heat\n which crosses a small area drawn perpendicular to that direction\n divided by that area and by the time. Here the flux is defined\n with reference to an area.\n\n\nThere are certain cases in which a quantity may be measured\n with reference to a line as well as with reference to an area.\n\n\nThus, in treating of the displacements of elastic solids, we may\n direct our attention either to the original and the actual positions\n of a particle, in which case the displacement of the particle is\n measured by the line drawn from the first position to the second,\n or we may consider a small area fixed in space, and determine\n what quantity of the solid passes across that area during the\n displacement.\n\n\nIn the same way the velocity of a fluid may be investigated\n either with respect to the actual velocity of the individual\n particles, or with respect to the quantity of the fluid which flows\n through any fixed area.\n\n\nBut in these cases we require to know separately the density\n of the body as well as the displacement or velocity, in order to\n",
+            "structured_lines": [
+              {
+                "page": 46,
+                "line_number": 4,
+                "type": "text",
+                "content": "In the calculus of quaternions, the position of a point in space",
+                "mathpix_content": "\n\nIn the calculus of quaternions, the position of a point in space",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 5,
+                "type": "text",
+                "content": "is defined by the vector drawn from a fixed point, called the",
+                "mathpix_content": " is defined by the vector drawn from a fixed point, called the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 6,
+                "type": "text",
+                "content": "origin, to that point. If we have to consider any physical",
+                "mathpix_content": " origin, to that point. If we have to consider any physical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 7,
+                "type": "text",
+                "content": "quantity whose value depends on the position of the point, that",
+                "mathpix_content": " quantity whose value depends on the position of the point, that",
+                "font_size": 27,
+                "confidence": 0.99658203125
+              },
+              {
+                "page": 46,
+                "line_number": 8,
+                "type": "text",
+                "content": "quantity is treated as a function of the vector drawn from the",
+                "mathpix_content": " quantity is treated as a function of the vector drawn from the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 9,
+                "type": "text",
+                "content": "origin. The function may be itself either scalar or vector. The",
+                "mathpix_content": " origin. The function may be itself either scalar or vector. The",
+                "font_size": 27,
+                "confidence": 0.970703125
+              },
+              {
+                "page": 46,
+                "line_number": 10,
+                "type": "text",
+                "content": "density of a body, its temperature, its hydrostatical pressure, the",
+                "mathpix_content": " density of a body, its temperature, its hydrostatical pressure, the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 46,
+                "line_number": 11,
+                "type": "text",
+                "content": "potential at a point, are examples of scalar functions. The",
+                "mathpix_content": " potential at a point, are examples of scalar functions. The",
+                "font_size": 27,
+                "confidence": 0.98779296875
+              },
+              {
+                "page": 46,
+                "line_number": 12,
+                "type": "text",
+                "content": "resultant force at a point, the velocity of a fluid at a point, the",
+                "mathpix_content": " resultant force at a point, the velocity of a fluid at a point, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 13,
+                "type": "text",
+                "content": "velocity of rotation of an element of the fluid, and the couple",
+                "mathpix_content": " velocity of rotation of an element of the fluid, and the couple",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 14,
+                "type": "text",
+                "content": "producing rotation, are examples of vector functions.",
+                "mathpix_content": " producing rotation, are examples of vector functions.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 15,
+                "type": "text",
+                "content": "12.] Physical vector quantities may be divided into two classes,",
+                "mathpix_content": "\n12.] Physical vector quantities may be divided into two classes,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 16,
+                "type": "text",
+                "content": "in one of which the quantity is defined with reference to a line,",
+                "mathpix_content": " in one of which the quantity is defined with reference to a line,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 17,
+                "type": "text",
+                "content": "while in the other the quantity is defined with reference to an",
+                "mathpix_content": " while in the other the quantity is defined with reference to an",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 18,
+                "type": "text",
+                "content": "area.",
+                "mathpix_content": " area.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 19,
+                "type": "text",
+                "content": "For instance, the resultant of an attractive force in any direction",
+                "mathpix_content": "\n\nFor instance, the resultant of an attractive force in any direction",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 20,
+                "type": "text",
+                "content": "may be measured by finding the work which it would do on a",
+                "mathpix_content": " may be measured by finding the work which it would do on a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 21,
+                "type": "text",
+                "content": "body if the body were moved a short distance in that direction",
+                "mathpix_content": " body if the body were moved a short distance in that direction",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 22,
+                "type": "text",
+                "content": "and dividing it by that short distance. Here the attractive force",
+                "mathpix_content": " and dividing it by that short distance. Here the attractive force",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 23,
+                "type": "text",
+                "content": "is defined with reference to a line.",
+                "mathpix_content": " is defined with reference to a line.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 24,
+                "type": "text",
+                "content": "On the other hand, the flux of heat in any direction at any",
+                "mathpix_content": "\n\nOn the other hand, the flux of heat in any direction at any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 25,
+                "type": "text",
+                "content": "point of a solid body may be defined as the quantity of heat",
+                "mathpix_content": " point of a solid body may be defined as the quantity of heat",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 46,
+                "line_number": 26,
+                "type": "text",
+                "content": "which crosses a small area drawn perpendicular to that direction",
+                "mathpix_content": " which crosses a small area drawn perpendicular to that direction",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 27,
+                "type": "text",
+                "content": "divided by that area and by the time. Here the flux is defined",
+                "mathpix_content": " divided by that area and by the time. Here the flux is defined",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 46,
+                "line_number": 28,
+                "type": "text",
+                "content": "with reference to an area.",
+                "mathpix_content": " with reference to an area.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 29,
+                "type": "text",
+                "content": "There are certain cases in which a quantity may be measured",
+                "mathpix_content": "\n\nThere are certain cases in which a quantity may be measured",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 30,
+                "type": "text",
+                "content": "with reference to a line as well as with reference to an area.",
+                "mathpix_content": " with reference to a line as well as with reference to an area.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 46,
+                "line_number": 31,
+                "type": "text",
+                "content": "Thus, in treating of the displacements of elastic solids, we may",
+                "mathpix_content": "\n\nThus, in treating of the displacements of elastic solids, we may",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 46,
+                "line_number": 32,
+                "type": "text",
+                "content": "direct our attention either to the original and the actual positions",
+                "mathpix_content": " direct our attention either to the original and the actual positions",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 33,
+                "type": "text",
+                "content": "of a particle, in which case the displacement of the particle is",
+                "mathpix_content": " of a particle, in which case the displacement of the particle is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 34,
+                "type": "text",
+                "content": "measured by the line drawn from the first position to the second,",
+                "mathpix_content": " measured by the line drawn from the first position to the second,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 35,
+                "type": "text",
+                "content": "or we may consider a small area fixed in space, and determine",
+                "mathpix_content": " or we may consider a small area fixed in space, and determine",
+                "font_size": 27,
+                "confidence": 0.9306640625
+              },
+              {
+                "page": 46,
+                "line_number": 36,
+                "type": "text",
+                "content": "what quantity of the solid passes across that area during the",
+                "mathpix_content": " what quantity of the solid passes across that area during the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 37,
+                "type": "text",
+                "content": "displacement.",
+                "mathpix_content": " displacement.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 38,
+                "type": "text",
+                "content": "In the same way the velocity of a fluid may be investigated",
+                "mathpix_content": "\n\nIn the same way the velocity of a fluid may be investigated",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 39,
+                "type": "text",
+                "content": "either with respect to the actual velocity of the individual",
+                "mathpix_content": " either with respect to the actual velocity of the individual",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 40,
+                "type": "text",
+                "content": "particles, or with respect to the quantity of the fluid which flows",
+                "mathpix_content": " particles, or with respect to the quantity of the fluid which flows",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 41,
+                "type": "text",
+                "content": "through any fixed area.",
+                "mathpix_content": " through any fixed area.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 42,
+                "type": "text",
+                "content": "But in these cases we require to know separately the density",
+                "mathpix_content": "\n\nBut in these cases we require to know separately the density",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 46,
+                "line_number": 43,
+                "type": "text",
+                "content": "of the body as well as the displacement or velocity, in order to",
+                "mathpix_content": " of the body as well as the displacement or velocity, in order to",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 12,
+      "title": "PRELIMINARY.",
+      "page_start": 47,
+      "page_end": 46,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 13,
+      "title": "apply the first method, and whenever we attempt to form a",
+      "page_start": 47,
+      "page_end": 46,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 13,
+      "title": "] In some cases the flux is simply proportional to the inten-",
+      "page_start": 47,
+      "page_end": 46,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 297,
+      "title": "There are in general nine",
+      "page_start": 47,
+      "page_end": 46,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 13,
+      "title": "] In some cases the flux is simply proportional to the inten",
+      "page_start": 47,
+      "page_end": 46,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 297,
+      "title": "There are in general nine",
+      "page_start": 47,
+      "page_end": 47,
+      "articles": [
+        {
+          "article_id": "article_297",
+          "article_number": 297,
+          "title_original": "There are in general nine",
+          "title_safe": "There are in general nine",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_297",
+          "article_number": 297,
+          "title_original": "There are in general nine",
+          "title_safe": "There are in general nine",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_13",
+          "article_number": 13,
+          "title_original": "apply the first method, and whenever we attempt to form a",
+          "title_safe": "apply the first method and whenever we attempt to form a",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_13",
+          "article_number": 13,
+          "title_original": "] In some cases the flux is simply proportional to the inten-",
+          "title_safe": "In some cases the flux is simply proportional to the inten",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_297",
+          "article_number": 297,
+          "title_original": "There are in general nine",
+          "title_safe": "There are in general nine",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_13",
+          "article_number": 13,
+          "title_original": "] In some cases the flux is simply proportional to the inten",
+          "title_safe": "In some cases the flux is simply proportional to the inten",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_297",
+          "article_number": 297,
+          "title_original": "There are in general nine",
+          "title_safe": "There are in general nine",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": "PRELIMINARY.",
+          "title_safe": "PRELIMINARY",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_13",
+          "article_number": 13,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_13",
+          "article_number": 13,
+          "title_original": ".] In some cases the flux is simply proportional to the inten-",
+          "title_safe": "In some cases the flux is simply proportional to the inten",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_297",
+          "article_number": 297,
+          "title_original": ". There are in general nine",
+          "title_safe": "There are in general nine",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_13",
+          "article_number": 13,
+          "title_original": ".] In some cases the flux is simply proportional to the inten",
+          "title_safe": "In some cases the flux is simply proportional to the inten",
+          "page_start": 47,
+          "page_end": 46,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_297",
+          "article_number": 297,
+          "title_original": ". There are in general nine",
+          "title_safe": "There are in general nine",
+          "page_start": 47,
+          "page_end": 47,
+          "content": {
+            "raw_text": "\n--- Page 47 ---\n12\nPRELIMINARY.\n[13.\napply the first method, and whenever we attempt to form a\nmolecular theory we have to use the second method.\nIn the case of the flow of electricity we do not know anything\nof its density or its velocity in the conductor, we only know the\nvalue of what, on the fluid theory, would correspond to the\nproduct of the density and the velocity. Hence in all such cases\nwe must apply the more general method of measurement of the\nflux across an area.\nIn electrical science, electromotive and magnetic intensity\nbelong to the first class, being defined with reference to lines.\nWhen we wish to indicate this fact, we may refer to them as\nIntensities.\nOn the other hand, electric and magnetic induction, and\nelectric currents, belong to the second class, being defined with\nreference to areas. When we wish to indicate this fact, we shall\nrefer to them as Fluxes.\nEach of these intensities may be considered as producing, or\ntending to produce, its corresponding flux. Thus, electromotive\nintensity produces electric currents in conductors, and tends to\nproduce them in dielectrics. It produces electric induction in\ndielectrics, and probably in conductors also. In the same sense,\nmagnetic intensity produces magnetic induction.\n13.] In some cases the flux is simply proportional to the inten-\nsity and in the same direction, but in other cases we can only\naffirm that the direction and magnitude of the flux are functions\nof the direction and magnitude of the intensity.\nThe case in which the components of the flux are linear\nfunctions of those of the intensity is discussed in the chapter on\nthe Equations of Conduction, Art. 297. There are in general nine\ncoefficients which determine the relation between the intensity\nand the flux. In certain cases we have reason to believe that six\nof these coefficients form three pairs of equal quantities. In such\ncases the relation between the line of direction of the intensity\nand the normal plane of the flux is of the same kind as that be-\ntween a semi-diameter of an ellipsoid and its conjugate diametral\nplane. In Quaternion language, the one vector is said to be a\nlinear and vector function of the other, and when there are three\npairs of equal coefficients the function is said to be self-conjugate.\nIn the case of magnetic induction in iron, the flux (the mag-\nnetization of the iron) is not a linear function of the magnetizing\n",
+            "mathpix_markdown": "\n--- Page 47 ---\n\napply the first method, and whenever we attempt to form a\n molecular theory we have to use the second method.\n\n\nIn the case of the flow of electricity we do not know anything\n of its density or its velocity in the conductor, we only know the\n value of what, on the fluid theory, would correspond to the\n product of the density and the velocity. Hence in all such cases\n we must apply the more general method of measurement of the\n flux across an area.\n\n\nIn electrical science, electromotive and magnetic intensity\n belong to the first class, being defined with reference to lines.\n When we wish to indicate this fact, we may refer to them as\n Intensities.\n\n\nOn the other hand, electric and magnetic induction, and\n electric currents, belong to the second class, being defined with\n reference to areas. When we wish to indicate this fact, we shall\n refer to them as Fluxes.\n\n\nEach of these intensities may be considered as producing, or\n tending to produce, its corresponding flux. Thus, electromotive\n intensity produces electric currents in conductors, and tends to\n produce them in dielectrics. It produces electric induction in\n dielectrics, and probably in conductors also. In the same sense,\n magnetic intensity produces magnetic induction.\n\n13.] In some cases the flux is simply proportional to the inten\nsity and in the same direction, but in other cases we can only\n affirm that the direction and magnitude of the flux are functions\n of the direction and magnitude of the intensity.\n\n\nThe case in which the components of the flux are linear\n functions of those of the intensity is discussed in the chapter on\n the Equations of Conduction, Art. 297. There are in general nine\n coefficients which determine the relation between the intensity\n and the flux. In certain cases we have reason to believe that six\n of these coefficients form three pairs of equal quantities. In such\n cases the relation between the line of direction of the intensity\n and the normal plane of the flux is of the same kind as that be\ntween a semi-diameter of an ellipsoid and its conjugate diametral\n plane. In Quaternion language, the one vector is said to be a\n linear and vector function of the other, and when there are three\n pairs of equal coefficients the function is said to be self-conjugate.\n\n\nIn the case of magnetic induction in iron, the flux (the mag\nnetization of the iron) is not a linear function of the magnetizing\n",
+            "structured_lines": [
+              {
+                "page": 47,
+                "line_number": 4,
+                "type": "text",
+                "content": "apply the first method, and whenever we attempt to form a",
+                "mathpix_content": "\napply the first method, and whenever we attempt to form a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 5,
+                "type": "text",
+                "content": "molecular theory we have to use the second method.",
+                "mathpix_content": " molecular theory we have to use the second method.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 6,
+                "type": "text",
+                "content": "In the case of the flow of electricity we do not know anything",
+                "mathpix_content": "\n\nIn the case of the flow of electricity we do not know anything",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 7,
+                "type": "text",
+                "content": "of its density or its velocity in the conductor, we only know the",
+                "mathpix_content": " of its density or its velocity in the conductor, we only know the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 8,
+                "type": "text",
+                "content": "value of what, on the fluid theory, would correspond to the",
+                "mathpix_content": " value of what, on the fluid theory, would correspond to the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 9,
+                "type": "text",
+                "content": "product of the density and the velocity. Hence in all such cases",
+                "mathpix_content": " product of the density and the velocity. Hence in all such cases",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 10,
+                "type": "text",
+                "content": "we must apply the more general method of measurement of the",
+                "mathpix_content": " we must apply the more general method of measurement of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 11,
+                "type": "text",
+                "content": "flux across an area.",
+                "mathpix_content": " flux across an area.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 12,
+                "type": "text",
+                "content": "In electrical science, electromotive and magnetic intensity",
+                "mathpix_content": "\n\nIn electrical science, electromotive and magnetic intensity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 13,
+                "type": "text",
+                "content": "belong to the first class, being defined with reference to lines.",
+                "mathpix_content": " belong to the first class, being defined with reference to lines.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 14,
+                "type": "text",
+                "content": "When we wish to indicate this fact, we may refer to them as",
+                "mathpix_content": " When we wish to indicate this fact, we may refer to them as",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 15,
+                "type": "text",
+                "content": "Intensities.",
+                "mathpix_content": " Intensities.",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 47,
+                "line_number": 16,
+                "type": "text",
+                "content": "On the other hand, electric and magnetic induction, and",
+                "mathpix_content": "\n\nOn the other hand, electric and magnetic induction, and",
+                "font_size": 27,
+                "confidence": 0.984424352645874
+              },
+              {
+                "page": 47,
+                "line_number": 17,
+                "type": "text",
+                "content": "electric currents, belong to the second class, being defined with",
+                "mathpix_content": " electric currents, belong to the second class, being defined with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 18,
+                "type": "text",
+                "content": "reference to areas. When we wish to indicate this fact, we shall",
+                "mathpix_content": " reference to areas. When we wish to indicate this fact, we shall",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 47,
+                "line_number": 19,
+                "type": "text",
+                "content": "refer to them as Fluxes.",
+                "mathpix_content": " refer to them as Fluxes.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 20,
+                "type": "text",
+                "content": "Each of these intensities may be considered as producing, or",
+                "mathpix_content": "\n\nEach of these intensities may be considered as producing, or",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 21,
+                "type": "text",
+                "content": "tending to produce, its corresponding flux. Thus, electromotive",
+                "mathpix_content": " tending to produce, its corresponding flux. Thus, electromotive",
+                "font_size": 27,
+                "confidence": 0.99609375
+              },
+              {
+                "page": 47,
+                "line_number": 22,
+                "type": "text",
+                "content": "intensity produces electric currents in conductors, and tends to",
+                "mathpix_content": " intensity produces electric currents in conductors, and tends to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 23,
+                "type": "text",
+                "content": "produce them in dielectrics. It produces electric induction in",
+                "mathpix_content": " produce them in dielectrics. It produces electric induction in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 24,
+                "type": "text",
+                "content": "dielectrics, and probably in conductors also. In the same sense,",
+                "mathpix_content": " dielectrics, and probably in conductors also. In the same sense,",
+                "font_size": 27,
+                "confidence": 0.9921875
+              },
+              {
+                "page": 47,
+                "line_number": 25,
+                "type": "text",
+                "content": "magnetic intensity produces magnetic induction.",
+                "mathpix_content": " magnetic intensity produces magnetic induction.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 26,
+                "type": "text",
+                "content": "13.] In some cases the flux is simply proportional to the inten-",
+                "mathpix_content": "\n13.] In some cases the flux is simply proportional to the inten",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 27,
+                "type": "text",
+                "content": "sity and in the same direction, but in other cases we can only",
+                "mathpix_content": "sity and in the same direction, but in other cases we can only",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 28,
+                "type": "text",
+                "content": "affirm that the direction and magnitude of the flux are functions",
+                "mathpix_content": " affirm that the direction and magnitude of the flux are functions",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 29,
+                "type": "text",
+                "content": "of the direction and magnitude of the intensity.",
+                "mathpix_content": " of the direction and magnitude of the intensity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 30,
+                "type": "text",
+                "content": "The case in which the components of the flux are linear",
+                "mathpix_content": "\n\nThe case in which the components of the flux are linear",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 31,
+                "type": "text",
+                "content": "functions of those of the intensity is discussed in the chapter on",
+                "mathpix_content": " functions of those of the intensity is discussed in the chapter on",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 32,
+                "type": "text",
+                "content": "the Equations of Conduction, Art. 297. There are in general nine",
+                "mathpix_content": " the Equations of Conduction, Art. 297. There are in general nine",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 33,
+                "type": "text",
+                "content": "coefficients which determine the relation between the intensity",
+                "mathpix_content": " coefficients which determine the relation between the intensity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 34,
+                "type": "text",
+                "content": "and the flux. In certain cases we have reason to believe that six",
+                "mathpix_content": " and the flux. In certain cases we have reason to believe that six",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 35,
+                "type": "text",
+                "content": "of these coefficients form three pairs of equal quantities. In such",
+                "mathpix_content": " of these coefficients form three pairs of equal quantities. In such",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 36,
+                "type": "text",
+                "content": "cases the relation between the line of direction of the intensity",
+                "mathpix_content": " cases the relation between the line of direction of the intensity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 37,
+                "type": "text",
+                "content": "and the normal plane of the flux is of the same kind as that be-",
+                "mathpix_content": " and the normal plane of the flux is of the same kind as that be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 38,
+                "type": "text",
+                "content": "tween a semi-diameter of an ellipsoid and its conjugate diametral",
+                "mathpix_content": "tween a semi-diameter of an ellipsoid and its conjugate diametral",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 39,
+                "type": "text",
+                "content": "plane. In Quaternion language, the one vector is said to be a",
+                "mathpix_content": " plane. In Quaternion language, the one vector is said to be a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 40,
+                "type": "text",
+                "content": "linear and vector function of the other, and when there are three",
+                "mathpix_content": " linear and vector function of the other, and when there are three",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 41,
+                "type": "text",
+                "content": "pairs of equal coefficients the function is said to be self-conjugate.",
+                "mathpix_content": " pairs of equal coefficients the function is said to be self-conjugate.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 42,
+                "type": "text",
+                "content": "In the case of magnetic induction in iron, the flux (the mag-",
+                "mathpix_content": "\n\nIn the case of magnetic induction in iron, the flux (the mag",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 47,
+                "line_number": 43,
+                "type": "text",
+                "content": "netization of the iron) is not a linear function of the magnetizing",
+                "mathpix_content": "netization of the iron) is not a linear function of the magnetizing",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

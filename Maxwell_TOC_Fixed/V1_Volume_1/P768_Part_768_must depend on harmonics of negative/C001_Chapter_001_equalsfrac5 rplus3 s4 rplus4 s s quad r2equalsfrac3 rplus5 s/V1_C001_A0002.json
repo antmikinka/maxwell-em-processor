@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}=\\frac{\\left(1+k_{2}+k_{2} k_{3}\\right) r+\\left(k_{1}+k_{3}+k_{1} k_{2}+k_{1} k_{3}+k_{1} k_{2} k_{3}\\right) s}{\\left(1+k_{3}\\right)\\left\\{k_{2} r+\\left(1+k_{1}+k_{1} k_{2}\\right) s\\right\\}} s, \\\\",
+  "title_safe": "equalsfracleft1plusk2plusk2 k3right rplusleftk1plusk3plusk1",
+  "page_start": 482,
+  "page_end": 481,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

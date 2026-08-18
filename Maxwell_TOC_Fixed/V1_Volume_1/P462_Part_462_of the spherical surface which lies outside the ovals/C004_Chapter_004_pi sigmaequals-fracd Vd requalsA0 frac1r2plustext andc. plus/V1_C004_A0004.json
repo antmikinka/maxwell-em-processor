@@ -1,0 +1,255 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "\\pi \\sigma=-\\frac{d V}{d r}=A_{0} \\frac{1}{r^{2}}+\\text { \\&c. }+(n+1) A_{n} Y_{n} \\frac{1}{r^{n+2}}+\\ldots \\tag{9}",
+  "title_safe": "pi sigmaequals-fracd Vd requalsA0 frac1r2plustext andc. plus",
+  "page_start": 256,
+  "page_end": 256,
+  "content": {
+    "raw_text": "\n--- Page 256 ---\n$145 \\alpha$.]\nNEARLY SPHERICAL CONDUCTORS.\n221\nfrom the origin. If therefore we take that centre for origin, the\ncoefficient $f_{1}$ will also disappear.\nWe shall begin by supposing that the conductor has a charge\n$A_{0}$, and that no external electrical force acts on it. The potential\noutside the conductor must therefore be of the form\n$$V=A_{0} \\frac{1}{r}+A_{1} Y_{1}^{\\prime} \\frac{1}{r^{2}}+\\text { \\&c. }+A_{n} Y_{n}^{\\prime} \\frac{1}{r^{\\bar{n}+1}}+\\ldots,$$\n(3)\nwhere the surface harmonics are not assumed to be of the same\ntypes as in the expansion of $F$.\nAt the surface of the conductor the potential is that of the\nconductor, namely, the constant quantity $a$.\nHence, expanding the powers of $r$ in terms of $a$ and $F$, and\nneglecting the square and higher powers of $F$, we have\n$$\\begin{aligned}\n\\alpha=A_{0} \\frac{1}{a}(1-F)+A_{1} \\frac{1}{u^{2}} Y_{1}^{\\prime} & (1-2 F)+\\text { \\&c. } \\\\\n& +A_{n} \\frac{1}{u^{n+1}} Y_{n}^{\\prime}(1-(n+1) F)+\\ldots\n\\end{aligned}$$\n(4)\nSince the coefficients $A_{1}$, \\&c. are evidently small compared\nwith $A_{0}$, we may begin by neglecting products of these co-\nefficients into $F$.\nIf we then write for $F$ in its first term its expansion in\nspherical harmonics, and equate to zero the terms involving\nharmonics of the same order, we find\n$$\\begin{aligned}\na & =A_{0} \\frac{1}{a}, \\\\\nA_{1} Y_{1}^{\\prime} & =A_{0} a f_{1} Y_{1}=0, \\\\\n\\dot{A_{n} Y_{n}^{\\prime}} & =A_{0} a^{n} f_{n} Y_{n} .\n\\end{aligned}$$\n(5)\n(6)\n(7)\nIt follows from these equations that the $Y^{\\prime}$ 's must be of the\nsame type as the $Y$ 's, and therefore identical with them, and\nthat $A_{1}=0$ and $A_{n}=A_{0} \\alpha^{n} f_{n}$.\nTo determine the density at any point of the surface, we have\nthe equation\n$$4 \\pi \\sigma=-\\frac{d V}{d \\nu}=-\\frac{d V}{d r} \\cos \\epsilon, \\text { approximately } ;$$\n(8)\nwhere $\\nu$ is the normal and $\\epsilon$ is the angle which the normal makes\nwith the radius. Since in this investigation we suppose $F$ and\nits first differential coefficients with respect to $\\theta$ and $\\phi$ to be\nsmall, we may put $\\cos \\epsilon=1$, so that\n$$4 \\pi \\sigma=-\\frac{d V}{d r}=A_{0} \\frac{1}{r^{2}}+\\text { \\&c. }+(n+1) A_{n} Y_{n} \\frac{1}{r^{n+2}}+\\ldots$$\n(9)\n",
+    "mathpix_markdown": "\n--- Page 256 ---\n\nfrom the origin. If therefore we take that centre for origin, the\n coefficient $f_{1}$ will also disappear.\n\n\nWe shall begin by supposing that the conductor has a charge\n $A_{0}$, and that no external electrical force acts on it. The potential\n outside the conductor must therefore be of the form\n\n$$\\begin{equation*}\nV=A_{0} \\frac{1}{r}+A_{1} Y_{1}^{\\prime} \\frac{1}{r^{2}}+\\text { \\&c. }+A_{n} Y_{n}^{\\prime} \\frac{1}{r^{\\bar{n}+1}}+\\ldots, \\tag{3}\n\\end{equation*}$$\n\nwhere the surface harmonics are not assumed to be of the same\n types as in the expansion of $F$.\n\n\nAt the surface of the conductor the potential is that of the\n conductor, namely, the constant quantity $a$.\n\n\nHence, expanding the powers of $r$ in terms of $a$ and $F$, and\n neglecting the square and higher powers of $F$, we have\n\n$$\\begin{align*}\n\\alpha=A_{0} \\frac{1}{a}(1-F)+A_{1} \\frac{1}{u^{2}} Y_{1}^{\\prime} & (1-2 F)+\\text { \\&c. } \\\\\n& +A_{n} \\frac{1}{u^{n+1}} Y_{n}^{\\prime}(1-(n+1) F)+\\ldots \\tag{4}\n\\end{align*}$$\n\n\nSince the coefficients $A_{1}$, \\&c. are evidently small compared\n with $A_{0}$, we may begin by neglecting products of these co\nefficients into $F$.\n\n\nIf we then write for $F$ in its first term its expansion in\n spherical harmonics, and equate to zero the terms involving\n harmonics of the same order, we find\n\n$$\\begin{align*}\na & =A_{0} \\frac{1}{a},  \\tag{5}\\\\\nA_{1} Y_{1}^{\\prime} & =A_{0} a f_{1} Y_{1}=0,  \\tag{6}\\\\\n\\dot{A_{n} Y_{n}^{\\prime}} & =A_{0} a^{n} f_{n} Y_{n} . \\tag{7}\n\\end{align*}$$\n\n\nIt follows from these equations that the $Y^{\\prime}$ 's must be of the\n same type as the $Y$ 's, and therefore identical with them, and\n that $A_{1}=0$ and $A_{n}=A_{0} \\alpha^{n} f_{n}$.\n\n\nTo determine the density at any point of the surface, we have\n the equation\n\n$$\\begin{equation*}\n4 \\pi \\sigma=-\\frac{d V}{d \\nu}=-\\frac{d V}{d r} \\cos \\epsilon, \\text { approximately } ; \\tag{8}\n\\end{equation*}$$\n\nwhere $\\nu$ is the normal and $\\epsilon$ is the angle which the normal makes\n with the radius. Since in this investigation we suppose $F$ and\n its first differential coefficients with respect to $\\theta$ and $\\phi$ to be\n small, we may put $\\cos \\epsilon=1$, so that\n\n$$\\begin{equation*}\n4 \\pi \\sigma=-\\frac{d V}{d r}=A_{0} \\frac{1}{r^{2}}+\\text { \\&c. }+(n+1) A_{n} Y_{n} \\frac{1}{r^{n+2}}+\\ldots \\tag{9}\n\\end{equation*}$$\n",
+    "structured_lines": [
+      {
+        "page": 256,
+        "line_number": 4,
+        "type": "text",
+        "content": "from the origin. If therefore we take that centre for origin, the",
+        "mathpix_content": "\nfrom the origin. If therefore we take that centre for origin, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 5,
+        "type": "text",
+        "content": "coefficient $f_{1}$ will also disappear.",
+        "mathpix_content": " coefficient $f_{1}$ will also disappear.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 6,
+        "type": "text",
+        "content": "We shall begin by supposing that the conductor has a charge",
+        "mathpix_content": "\n\nWe shall begin by supposing that the conductor has a charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 7,
+        "type": "text",
+        "content": "$A_{0}$, and that no external electrical force acts on it. The potential",
+        "mathpix_content": " $A_{0}$, and that no external electrical force acts on it. The potential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 8,
+        "type": "text",
+        "content": "outside the conductor must therefore be of the form",
+        "mathpix_content": " outside the conductor must therefore be of the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 12,
+        "type": "text",
+        "content": "where the surface harmonics are not assumed to be of the same",
+        "mathpix_content": "\nwhere the surface harmonics are not assumed to be of the same",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 13,
+        "type": "text",
+        "content": "types as in the expansion of $F$.",
+        "mathpix_content": " types as in the expansion of $F$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 256,
+        "line_number": 14,
+        "type": "text",
+        "content": "At the surface of the conductor the potential is that of the",
+        "mathpix_content": "\n\nAt the surface of the conductor the potential is that of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 15,
+        "type": "text",
+        "content": "conductor, namely, the constant quantity $a$.",
+        "mathpix_content": " conductor, namely, the constant quantity $a$.",
+        "font_size": 27,
+        "confidence": 0.9912109375
+      },
+      {
+        "page": 256,
+        "line_number": 16,
+        "type": "text",
+        "content": "Hence, expanding the powers of $r$ in terms of $a$ and $F$, and",
+        "mathpix_content": "\n\nHence, expanding the powers of $r$ in terms of $a$ and $F$, and",
+        "font_size": 27,
+        "confidence": 0.9814453125
+      },
+      {
+        "page": 256,
+        "line_number": 17,
+        "type": "text",
+        "content": "neglecting the square and higher powers of $F$, we have",
+        "mathpix_content": " neglecting the square and higher powers of $F$, we have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 22,
+        "type": "text",
+        "content": "Since the coefficients $A_{1}$, \\&c. are evidently small compared",
+        "mathpix_content": "\n\nSince the coefficients $A_{1}$, \\&c. are evidently small compared",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 256,
+        "line_number": 23,
+        "type": "text",
+        "content": "with $A_{0}$, we may begin by neglecting products of these co-",
+        "mathpix_content": " with $A_{0}$, we may begin by neglecting products of these co",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 24,
+        "type": "text",
+        "content": "efficients into $F$.",
+        "mathpix_content": "efficients into $F$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 25,
+        "type": "text",
+        "content": "If we then write for $F$ in its first term its expansion in",
+        "mathpix_content": "\n\nIf we then write for $F$ in its first term its expansion in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 26,
+        "type": "text",
+        "content": "spherical harmonics, and equate to zero the terms involving",
+        "mathpix_content": " spherical harmonics, and equate to zero the terms involving",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 27,
+        "type": "text",
+        "content": "harmonics of the same order, we find",
+        "mathpix_content": " harmonics of the same order, we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 35,
+        "type": "text",
+        "content": "It follows from these equations that the $Y^{\\prime}$ 's must be of the",
+        "mathpix_content": "\n\nIt follows from these equations that the $Y^{\\prime}$ 's must be of the",
+        "font_size": 27,
+        "confidence": 0.996584415435791
+      },
+      {
+        "page": 256,
+        "line_number": 36,
+        "type": "text",
+        "content": "same type as the $Y$ 's, and therefore identical with them, and",
+        "mathpix_content": " same type as the $Y$ 's, and therefore identical with them, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 37,
+        "type": "text",
+        "content": "that $A_{1}=0$ and $A_{n}=A_{0} \\alpha^{n} f_{n}$.",
+        "mathpix_content": " that $A_{1}=0$ and $A_{n}=A_{0} \\alpha^{n} f_{n}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 38,
+        "type": "text",
+        "content": "To determine the density at any point of the surface, we have",
+        "mathpix_content": "\n\nTo determine the density at any point of the surface, we have",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 256,
+        "line_number": 39,
+        "type": "text",
+        "content": "the equation",
+        "mathpix_content": " the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 43,
+        "type": "text",
+        "content": "where $\\nu$ is the normal and $\\epsilon$ is the angle which the normal makes",
+        "mathpix_content": "\nwhere $\\nu$ is the normal and $\\epsilon$ is the angle which the normal makes",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 44,
+        "type": "text",
+        "content": "with the radius. Since in this investigation we suppose $F$ and",
+        "mathpix_content": " with the radius. Since in this investigation we suppose $F$ and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 45,
+        "type": "text",
+        "content": "its first differential coefficients with respect to $\\theta$ and $\\phi$ to be",
+        "mathpix_content": " its first differential coefficients with respect to $\\theta$ and $\\phi$ to be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 256,
+        "line_number": 46,
+        "type": "text",
+        "content": "small, we may put $\\cos \\epsilon=1$, so that",
+        "mathpix_content": " small, we may put $\\cos \\epsilon=1$, so that",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

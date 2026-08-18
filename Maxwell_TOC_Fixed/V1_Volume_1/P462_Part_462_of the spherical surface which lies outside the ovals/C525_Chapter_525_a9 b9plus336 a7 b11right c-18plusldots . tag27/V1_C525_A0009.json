@@ -1,0 +1,20 @@
+{
+  "article_id": "article_9",
+  "article_number": 9,
+  "title_original": "a^{2} b^{17}+280 a^{5} b^{14}+735 a^{7} b^{12}+192 a^{8} b^{11}+780 a^{9} b^{10}\\right. \\\\",
+  "title_safe": "a2 b17plus280 a5 b14plus735 a7 b12plus192 a8 b11plus780 a9 b",
+  "page_start": 264,
+  "page_end": 263,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

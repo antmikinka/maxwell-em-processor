@@ -1,0 +1,291 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}=\\frac{5 r+3 s}{4 r+4 s} s, \\quad r_{2}=\\frac{3 r+5 s}{2 r+6 s} s, \\quad r_{3}=\\frac{2 r+6 s}{r+7 s} s .$$",
+  "title_safe": "equalsfrac5 rplus3 s4 rplus4 s s quad r2equalsfrac3 rplus5 s",
+  "page_start": 482,
+  "page_end": 482,
+  "content": {
+    "raw_text": "\n--- Page 482 ---\n322.]\nSTRATIFIED CONDUCTORS.\n447\nIf we begin with both substances isotropic, but of different\nconductivities $r$ and $r^{\\prime}$, then, since $\\bar{r}_{1}-\\bar{r}_{3}=\\frac{c c^{\\prime}}{c+c^{\\prime}} \\frac{\\left(r-r^{\\prime}\\right)^{2}}{\\left(c r^{\\prime}+c^{\\prime} r\\right)}$,\nthe result of stratification will be to make the resistance greatest\nin the direction of a normal to the strata, and the resistances\nin all directions in the plane of the strata will be equal.\n322.] Take an isotropic substance of conductivity $r$, cut it\ninto exceedingly thin slices of thickness $a$, and place them\nalternately with slices of a substance whose conductivity is $s$,\nand thickness $k_{1} \\alpha$.\nLet these slices be normal to $x$. Then cut this compound\nconductor into very much thicker slices, of thickness $b$, normal\nto $y$, and alternate these with slices whose conductivity is 8 and\nthickness $k_{2} b$.\nLastly, cut the new conductor into still thicker slices, of\nthickness $c$, normal to $z$, and alternate them with slices whose\nconductivity is $s$ and thickness $k_{3} c$.\nThe result of the three operations will be to cut the substance\nwhose conductivity is $r$ into rectangular parallelepipeds whose\ndimensions are $a, b$ and $c$, where $b$ is exceedingly small compared\nwith $c$, and $a$ is exceedingly small compared with $b$, and to\nembed these parallelepipeds in the substance whose conductivity\nis 8 , so that they are separated from each other $k_{1} \\alpha$ in the\ndirection of $x, k_{2} b$ in that of $y$, and $k_{3} c$ in that of $z$. The\nconductivities of the conductor so formed in the directions of\n$x, y$, and $z$ are to be found by three applications in order of the\nresults of Art. 321. We thereby obtain\n$$\\begin{aligned}\n& r_{1}=\\frac{\\left\\{1+k_{1}\\left(1+k_{2}\\right)\\left(1+k_{3}\\right)\\right\\} r+\\left(k_{2}+k_{3}+k_{2} k_{3}\\right) s}{\\left(1+k_{2}\\right)\\left(1+k_{3}\\right)\\left(k_{1} r+8\\right)} s \\\\\n& r_{2}=\\frac{\\left(1+k_{2}+k_{2} k_{3}\\right) r+\\left(k_{1}+k_{3}+k_{1} k_{2}+k_{1} k_{3}+k_{1} k_{2} k_{3}\\right) s}{\\left(1+k_{3}\\right)\\left\\{k_{2} r+\\left(1+k_{1}+k_{1} k_{2}\\right) s\\right\\}} s, \\\\\n& r_{3}=\\frac{\\left(1+k_{3}\\right)\\left(r+\\left(k_{1}+k_{2}+k_{1} k_{2}\\right) s\\right)}{k_{3} r+\\left(1+k_{1}+k_{2}+k_{2} k_{3}+k_{3} k_{1}+k_{1} k_{2}+k_{1} k_{2} k_{3}\\right) s} s .\n\\end{aligned}$$\nThe accuracy of this investigation depends upon the three\ndimensions of the parallelepipeds being of different orders of\nmagnitude, so that we may neglect the conditions to be fulfilled\nat their edges and angles. If we make $k_{1}, k_{2}$ and $k_{3}$ each unity, then\n$$r_{1}=\\frac{5 r+3 s}{4 r+4 s} s, \\quad r_{2}=\\frac{3 r+5 s}{2 r+6 s} s, \\quad r_{3}=\\frac{2 r+6 s}{r+7 s} s .$$\n",
+    "mathpix_markdown": "\n--- Page 482 ---\n\n\nIf we begin with both substances isotropic, but of different\n conductivities $r$ and $r^{\\prime}$, then, since $\\bar{r}_{1}-\\bar{r}_{3}=\\frac{c c^{\\prime}}{c+c^{\\prime}} \\frac{\\left(r-r^{\\prime}\\right)^{2}}{\\left(c r^{\\prime}+c^{\\prime} r\\right)}$,\n the result of stratification will be to make the resistance greatest\n in the direction of a normal to the strata, and the resistances\n in all directions in the plane of the strata will be equal.\n\n322.] Take an isotropic substance of conductivity $r$, cut it\n into exceedingly thin slices of thickness $a$, and place them\n alternately with slices of a substance whose conductivity is $s$,\n and thickness $k_{1} \\alpha$.\n\n\nLet these slices be normal to $x$. Then cut this compound\n conductor into very much thicker slices, of thickness $b$, normal\n to $y$, and alternate these with slices whose conductivity is 8 and\n thickness $k_{2} b$.\n\n\nLastly, cut the new conductor into still thicker slices, of\n thickness $c$, normal to $z$, and alternate them with slices whose\n conductivity is $s$ and thickness $k_{3} c$.\n\n\nThe result of the three operations will be to cut the substance\n whose conductivity is $r$ into rectangular parallelepipeds whose\n dimensions are $a, b$ and $c$, where $b$ is exceedingly small compared\n with $c$, and $a$ is exceedingly small compared with $b$, and to\n embed these parallelepipeds in the substance whose conductivity\n is 8 , so that they are separated from each other $k_{1} \\alpha$ in the\n direction of $x, k_{2} b$ in that of $y$, and $k_{3} c$ in that of $z$. The\n conductivities of the conductor so formed in the directions of\n $x, y$, and $z$ are to be found by three applications in order of the\n results of Art. 321. We thereby obtain\n\n$$\\begin{aligned}\n& r_{1}=\\frac{\\left\\{1+k_{1}\\left(1+k_{2}\\right)\\left(1+k_{3}\\right)\\right\\} r+\\left(k_{2}+k_{3}+k_{2} k_{3}\\right) s}{\\left(1+k_{2}\\right)\\left(1+k_{3}\\right)\\left(k_{1} r+8\\right)} s \\\\\n& r_{2}=\\frac{\\left(1+k_{2}+k_{2} k_{3}\\right) r+\\left(k_{1}+k_{3}+k_{1} k_{2}+k_{1} k_{3}+k_{1} k_{2} k_{3}\\right) s}{\\left(1+k_{3}\\right)\\left\\{k_{2} r+\\left(1+k_{1}+k_{1} k_{2}\\right) s\\right\\}} s, \\\\\n& r_{3}=\\frac{\\left(1+k_{3}\\right)\\left(r+\\left(k_{1}+k_{2}+k_{1} k_{2}\\right) s\\right)}{k_{3} r+\\left(1+k_{1}+k_{2}+k_{2} k_{3}+k_{3} k_{1}+k_{1} k_{2}+k_{1} k_{2} k_{3}\\right) s} s .\n\\end{aligned}$$\n\n\nThe accuracy of this investigation depends upon the three\n dimensions of the parallelepipeds being of different orders of\n magnitude, so that we may neglect the conditions to be fulfilled\n at their edges and angles. If we make $k_{1}, k_{2}$ and $k_{3}$ each unity, then\n\n$$r_{1}=\\frac{5 r+3 s}{4 r+4 s} s, \\quad r_{2}=\\frac{3 r+5 s}{2 r+6 s} s, \\quad r_{3}=\\frac{2 r+6 s}{r+7 s} s .$$\n",
+    "structured_lines": [
+      {
+        "page": 482,
+        "line_number": 4,
+        "type": "text",
+        "content": "If we begin with both substances isotropic, but of different",
+        "mathpix_content": "\n\nIf we begin with both substances isotropic, but of different",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 482,
+        "line_number": 5,
+        "type": "text",
+        "content": "conductivities $r$ and $r^{\\prime}$, then, since $\\bar{r}_{1}-\\bar{r}_{3}=\\frac{c c^{\\prime}}{c+c^{\\prime}} \\frac{\\left(r-r^{\\prime}\\right)^{2}}{\\left(c r^{\\prime}+c^{\\prime} r\\right)}$,",
+        "mathpix_content": " conductivities $r$ and $r^{\\prime}$, then, since $\\bar{r}_{1}-\\bar{r}_{3}=\\frac{c c^{\\prime}}{c+c^{\\prime}} \\frac{\\left(r-r^{\\prime}\\right)^{2}}{\\left(c r^{\\prime}+c^{\\prime} r\\right)}$,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 482,
+        "line_number": 6,
+        "type": "text",
+        "content": "the result of stratification will be to make the resistance greatest",
+        "mathpix_content": " the result of stratification will be to make the resistance greatest",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 7,
+        "type": "text",
+        "content": "in the direction of a normal to the strata, and the resistances",
+        "mathpix_content": " in the direction of a normal to the strata, and the resistances",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 8,
+        "type": "text",
+        "content": "in all directions in the plane of the strata will be equal.",
+        "mathpix_content": " in all directions in the plane of the strata will be equal.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 9,
+        "type": "text",
+        "content": "322.] Take an isotropic substance of conductivity $r$, cut it",
+        "mathpix_content": "\n322.] Take an isotropic substance of conductivity $r$, cut it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 10,
+        "type": "text",
+        "content": "into exceedingly thin slices of thickness $a$, and place them",
+        "mathpix_content": " into exceedingly thin slices of thickness $a$, and place them",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 482,
+        "line_number": 11,
+        "type": "text",
+        "content": "alternately with slices of a substance whose conductivity is $s$,",
+        "mathpix_content": " alternately with slices of a substance whose conductivity is $s$,",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 482,
+        "line_number": 12,
+        "type": "text",
+        "content": "and thickness $k_{1} \\alpha$.",
+        "mathpix_content": " and thickness $k_{1} \\alpha$.",
+        "font_size": 27,
+        "confidence": 0.99072265625
+      },
+      {
+        "page": 482,
+        "line_number": 13,
+        "type": "text",
+        "content": "Let these slices be normal to $x$. Then cut this compound",
+        "mathpix_content": "\n\nLet these slices be normal to $x$. Then cut this compound",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 14,
+        "type": "text",
+        "content": "conductor into very much thicker slices, of thickness $b$, normal",
+        "mathpix_content": " conductor into very much thicker slices, of thickness $b$, normal",
+        "font_size": 27,
+        "confidence": 0.99462890625
+      },
+      {
+        "page": 482,
+        "line_number": 15,
+        "type": "text",
+        "content": "to $y$, and alternate these with slices whose conductivity is 8 and",
+        "mathpix_content": " to $y$, and alternate these with slices whose conductivity is 8 and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 16,
+        "type": "text",
+        "content": "thickness $k_{2} b$.",
+        "mathpix_content": " thickness $k_{2} b$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 17,
+        "type": "text",
+        "content": "Lastly, cut the new conductor into still thicker slices, of",
+        "mathpix_content": "\n\nLastly, cut the new conductor into still thicker slices, of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 18,
+        "type": "text",
+        "content": "thickness $c$, normal to $z$, and alternate them with slices whose",
+        "mathpix_content": " thickness $c$, normal to $z$, and alternate them with slices whose",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 482,
+        "line_number": 19,
+        "type": "text",
+        "content": "conductivity is $s$ and thickness $k_{3} c$.",
+        "mathpix_content": " conductivity is $s$ and thickness $k_{3} c$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 482,
+        "line_number": 20,
+        "type": "text",
+        "content": "The result of the three operations will be to cut the substance",
+        "mathpix_content": "\n\nThe result of the three operations will be to cut the substance",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 482,
+        "line_number": 21,
+        "type": "text",
+        "content": "whose conductivity is $r$ into rectangular parallelepipeds whose",
+        "mathpix_content": " whose conductivity is $r$ into rectangular parallelepipeds whose",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 482,
+        "line_number": 22,
+        "type": "text",
+        "content": "dimensions are $a, b$ and $c$, where $b$ is exceedingly small compared",
+        "mathpix_content": " dimensions are $a, b$ and $c$, where $b$ is exceedingly small compared",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 482,
+        "line_number": 23,
+        "type": "text",
+        "content": "with $c$, and $a$ is exceedingly small compared with $b$, and to",
+        "mathpix_content": " with $c$, and $a$ is exceedingly small compared with $b$, and to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 24,
+        "type": "text",
+        "content": "embed these parallelepipeds in the substance whose conductivity",
+        "mathpix_content": " embed these parallelepipeds in the substance whose conductivity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 25,
+        "type": "text",
+        "content": "is 8 , so that they are separated from each other $k_{1} \\alpha$ in the",
+        "mathpix_content": " is 8 , so that they are separated from each other $k_{1} \\alpha$ in the",
+        "font_size": 27,
+        "confidence": 0.9970724578015506
+      },
+      {
+        "page": 482,
+        "line_number": 26,
+        "type": "text",
+        "content": "direction of $x, k_{2} b$ in that of $y$, and $k_{3} c$ in that of $z$. The",
+        "mathpix_content": " direction of $x, k_{2} b$ in that of $y$, and $k_{3} c$ in that of $z$. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 27,
+        "type": "text",
+        "content": "conductivities of the conductor so formed in the directions of",
+        "mathpix_content": " conductivities of the conductor so formed in the directions of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 28,
+        "type": "text",
+        "content": "$x, y$, and $z$ are to be found by three applications in order of the",
+        "mathpix_content": " $x, y$, and $z$ are to be found by three applications in order of the",
+        "font_size": 27,
+        "confidence": 0.9224843978881836
+      },
+      {
+        "page": 482,
+        "line_number": 29,
+        "type": "text",
+        "content": "results of Art. 321. We thereby obtain",
+        "mathpix_content": " results of Art. 321. We thereby obtain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 34,
+        "type": "text",
+        "content": "The accuracy of this investigation depends upon the three",
+        "mathpix_content": "\n\nThe accuracy of this investigation depends upon the three",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 35,
+        "type": "text",
+        "content": "dimensions of the parallelepipeds being of different orders of",
+        "mathpix_content": " dimensions of the parallelepipeds being of different orders of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 36,
+        "type": "text",
+        "content": "magnitude, so that we may neglect the conditions to be fulfilled",
+        "mathpix_content": " magnitude, so that we may neglect the conditions to be fulfilled",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 482,
+        "line_number": 37,
+        "type": "text",
+        "content": "at their edges and angles. If we make $k_{1}, k_{2}$ and $k_{3}$ each unity, then",
+        "mathpix_content": " at their edges and angles. If we make $k_{1}, k_{2}$ and $k_{3}$ each unity, then",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

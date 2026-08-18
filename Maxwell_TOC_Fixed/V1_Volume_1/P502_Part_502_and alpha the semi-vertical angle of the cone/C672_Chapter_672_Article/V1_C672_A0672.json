@@ -1,0 +1,129 @@
+{
+  "article_id": "article_672",
+  "article_number": 672,
+  "title_original": ".\\}",
+  "title_safe": "Article",
+  "page_start": 318,
+  "page_end": 318,
+  "content": {
+    "raw_text": "\n--- Page 318 ---\nAPPENDIX TO CHAPTER XI.\n283\n$$\\begin{aligned}\n& p_{n}^{\\prime}=\\frac{a^{n}}{A^{\\prime} a^{2 n}+B^{\\prime}} \\\\\n& p_{0}^{\\prime}=-\\frac{a b U}{c}=\\frac{1}{A^{\\prime}+B^{\\prime}} \\\\\n& p_{1}^{\\prime}=-\\frac{a^{2} b^{2} U}{c\\left(c^{2}-\\left(a^{2}+b^{2}\\right)\\right)}=\\frac{a}{A^{\\prime} a^{2}+B^{\\prime}} .\n\\end{aligned}$$\nHence\n$A^{\\prime} / B^{\\prime}=-a^{2}$,\nand $\\Sigma p_{n}{ }^{\\prime}=-\\frac{a b U}{c}\\left\\{1-a^{2}\\right\\}\\left\\{\\frac{1}{\\left\\{1-a^{2}\\right.}+\\frac{a}{1-a^{4}}+\\frac{a^{3}}{1-a^{6}}+\\ldots\\right\\}$.\nHence if $E_{1}$ and $E_{2}$ are the charges on the sphere, and if\n$$\\begin{gathered}\nE_{1}=q_{11} U+q_{12} V, \\\\\nE_{2}=q_{12} U+q_{22} V ; \\\\\nq_{11}=a\\left(1-\\xi^{2}\\right)\\left\\{\\frac{1}{1-\\xi^{2}}+\\frac{a}{1-\\xi^{2} a^{2}}+\\frac{a^{2}}{1-\\xi^{2} a^{4}}+\\ldots\\right\\}, \\\\\nq_{12}=-\\frac{a b}{c}\\left(1-a^{2}\\right)\\left\\{\\frac{1}{1-a^{2}}+\\frac{a}{1-a^{4}}+\\frac{a^{2}}{1-a^{6}}+\\ldots\\right\\}, \\\\\nq_{22}=b\\left(1-\\eta^{2}\\right)\\left\\{\\frac{1}{1-\\eta^{2}}+\\frac{a}{1-\\eta^{8} a^{2}}+\\frac{a^{2}}{1-\\eta^{2} a^{4}}+\\ldots\\right\\},\n\\end{gathered}$$\nwhere\n$$\\eta^{2}=\\frac{\\left(b+a a^{2}\\right)}{c^{2}} .$$\nThese are the series given by Poisson and Kirchhoff.\nSince\n$$\\begin{aligned}\n& \\frac{\\epsilon^{p}+1}{\\epsilon^{p}-1}=\\frac{2}{p}+4 \\int_{0}^{\\infty} \\frac{\\sin p t}{\\epsilon^{2 \\pi t}-1} d t^{*} \\\\\n& \\frac{1}{1-\\epsilon^{p}}=\\frac{1}{2}-\\frac{1}{p}-2 \\int_{0}^{\\infty} \\frac{\\sin p t}{\\epsilon^{2 \\pi t}-1} d t,\n\\end{aligned}$$\n$$\\begin{gathered}\n\\frac{a^{n}}{1-\\xi^{2} a^{2 n}}=\\frac{1}{2} a^{n}-\\frac{1}{2 n \\log a+2 \\log \\xi}-2 \\int_{0}^{\\infty} \\frac{a^{n} \\sin (2 n \\log \\alpha+2 \\log \\xi) t}{\\epsilon^{2 n t}-1} d t \\\\\n\\Sigma \\frac{a^{n}}{1-\\xi^{2} a^{2 n}}=\\frac{1}{2} \\frac{1}{1-a}-\\Sigma \\frac{a^{n}}{2 n \\log a+2 \\log \\xi} \\\\\n-2 \\int_{0}^{\\infty} \\Sigma \\frac{a^{n} \\sin (2 n \\log a+2 \\log \\xi) t}{\\epsilon^{2 n t}-1} d t\n\\end{gathered}$$\nNow\n$$\\Sigma \\frac{a^{n}}{2 n \\log \\alpha+2 \\log \\xi}=\\int_{0}^{\\infty} \\frac{\\epsilon^{2 t \\log \\xi}}{1-a \\epsilon^{2 t \\log \\alpha}} d t$$\nand\n$$\\Sigma a^{n} \\sin (2 n \\log \\alpha+2 \\log \\xi) t=\\frac{\\sin (2 t \\log \\xi)-a \\sin (2 t \\log \\xi / a)}{1-2 a \\cos (2 t \\log a)+a^{2}}$$\nhence\n$$\\begin{aligned}\nq_{11}=a\\left(1-\\xi^{2}\\right)\\left\\{\\frac{1}{2} \\frac{1}{1-a}-\\right. & \\int_{0}^{\\infty} \\frac{\\epsilon^{2 t \\log \\xi}}{1-a \\epsilon^{2 t \\log a}} d t \\\\\n& \\left.-2 \\int_{0}^{\\infty} \\frac{\\sin (2 t \\log \\xi)-a \\sin (2 t \\log \\xi / a)}{\\left(\\epsilon^{2 \\pi t}-1\\right)\\left(1-2 a \\cos (2 t \\log a)+a^{2}\\right)}\\right\\} d t\n\\end{aligned}$$\nwhich is Poisson's integral for these expressions. \\}\n* \\{De Morgan, Diff. and Int. Cal. p. 672.\\}\n",
+    "mathpix_markdown": "\n--- Page 318 ---\n\n$$\\begin{aligned}\n& p_{n}^{\\prime}=\\frac{a^{n}}{A^{\\prime} a^{2 n}+B^{\\prime}} \\\\\n& p_{0}^{\\prime}=-\\frac{a b U}{c}=\\frac{1}{A^{\\prime}+B^{\\prime}} \\\\\n& p_{1}^{\\prime}=-\\frac{a^{2} b^{2} U}{c\\left(c^{2}-\\left(a^{2}+b^{2}\\right)\\right)}=\\frac{a}{A^{\\prime} a^{2}+B^{\\prime}} .\n\\end{aligned}$$\n\n\nHence\n $A^{\\prime} / B^{\\prime}=-a^{2}$,\n and $\\Sigma p_{n}{ }^{\\prime}=-\\frac{a b U}{c}\\left\\{1-a^{2}\\right\\}\\left\\{\\frac{1}{\\left\\{1-a^{2}\\right.}+\\frac{a}{1-a^{4}}+\\frac{a^{3}}{1-a^{6}}+\\ldots\\right\\}$.\n Hence if $E_{1}$ and $E_{2}$ are the charges on the sphere, and if\n\n$$\\begin{gathered}\nE_{1}=q_{11} U+q_{12} V, \\\\\nE_{2}=q_{12} U+q_{22} V ; \\\\\nq_{11}=a\\left(1-\\xi^{2}\\right)\\left\\{\\frac{1}{1-\\xi^{2}}+\\frac{a}{1-\\xi^{2} a^{2}}+\\frac{a^{2}}{1-\\xi^{2} a^{4}}+\\ldots\\right\\}, \\\\\nq_{12}=-\\frac{a b}{c}\\left(1-a^{2}\\right)\\left\\{\\frac{1}{1-a^{2}}+\\frac{a}{1-a^{4}}+\\frac{a^{2}}{1-a^{6}}+\\ldots\\right\\}, \\\\\nq_{22}=b\\left(1-\\eta^{2}\\right)\\left\\{\\frac{1}{1-\\eta^{2}}+\\frac{a}{1-\\eta^{8} a^{2}}+\\frac{a^{2}}{1-\\eta^{2} a^{4}}+\\ldots\\right\\},\n\\end{gathered}$$\n\nwhere\n\n$$\\eta^{2}=\\frac{\\left(b+a a^{2}\\right)}{c^{2}} .$$\n\n\nThese are the series given by Poisson and Kirchhoff.\n\nSince\n\n$$\\begin{aligned}\n& \\frac{\\epsilon^{p}+1}{\\epsilon^{p}-1}=\\frac{2}{p}+4 \\int_{0}^{\\infty} \\frac{\\sin p t}{\\epsilon^{2 \\pi t}-1} d t^{*} \\\\\n& \\frac{1}{1-\\epsilon^{p}}=\\frac{1}{2}-\\frac{1}{p}-2 \\int_{0}^{\\infty} \\frac{\\sin p t}{\\epsilon^{2 \\pi t}-1} d t,\n\\end{aligned}$$\n\n$$\\begin{gathered}\n\\frac{a^{n}}{1-\\xi^{2} a^{2 n}}=\\frac{1}{2} a^{n}-\\frac{1}{2 n \\log a+2 \\log \\xi}-2 \\int_{0}^{\\infty} \\frac{a^{n} \\sin (2 n \\log \\alpha+2 \\log \\xi) t}{\\epsilon^{2 n t}-1} d t \\\\\n\\Sigma \\frac{a^{n}}{1-\\xi^{2} a^{2 n}}=\\frac{1}{2} \\frac{1}{1-a}-\\Sigma \\frac{a^{n}}{2 n \\log a+2 \\log \\xi} \\\\\n-2 \\int_{0}^{\\infty} \\Sigma \\frac{a^{n} \\sin (2 n \\log a+2 \\log \\xi) t}{\\epsilon^{2 n t}-1} d t\n\\end{gathered}$$\n\n\nNow\n\n$$\\Sigma \\frac{a^{n}}{2 n \\log \\alpha+2 \\log \\xi}=\\int_{0}^{\\infty} \\frac{\\epsilon^{2 t \\log \\xi}}{1-a \\epsilon^{2 t \\log \\alpha}} d t$$\n\nand\n\n$$\\Sigma a^{n} \\sin (2 n \\log \\alpha+2 \\log \\xi) t=\\frac{\\sin (2 t \\log \\xi)-a \\sin (2 t \\log \\xi / a)}{1-2 a \\cos (2 t \\log a)+a^{2}}$$\n\nhence\n\n$$\\begin{aligned}\nq_{11}=a\\left(1-\\xi^{2}\\right)\\left\\{\\frac{1}{2} \\frac{1}{1-a}-\\right. & \\int_{0}^{\\infty} \\frac{\\epsilon^{2 t \\log \\xi}}{1-a \\epsilon^{2 t \\log a}} d t \\\\\n& \\left.-2 \\int_{0}^{\\infty} \\frac{\\sin (2 t \\log \\xi)-a \\sin (2 t \\log \\xi / a)}{\\left(\\epsilon^{2 \\pi t}-1\\right)\\left(1-2 a \\cos (2 t \\log a)+a^{2}\\right)}\\right\\} d t\n\\end{aligned}$$\n\nwhich is Poisson's integral for these expressions. \\}\n\n* \\{De Morgan, Diff. and Int. Cal. p. 672.\\}\n",
+    "structured_lines": [
+      {
+        "page": 318,
+        "line_number": 7,
+        "type": "text",
+        "content": "Hence",
+        "mathpix_content": "\n\nHence",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 318,
+        "line_number": 8,
+        "type": "text",
+        "content": "$A^{\\prime} / B^{\\prime}=-a^{2}$,",
+        "mathpix_content": " $A^{\\prime} / B^{\\prime}=-a^{2}$,",
+        "font_size": 26,
+        "confidence": 0.9931747913360596
+      },
+      {
+        "page": 318,
+        "line_number": 9,
+        "type": "text",
+        "content": "and $\\Sigma p_{n}{ }^{\\prime}=-\\frac{a b U}{c}\\left\\{1-a^{2}\\right\\}\\left\\{\\frac{1}{\\left\\{1-a^{2}\\right.}+\\frac{a}{1-a^{4}}+\\frac{a^{3}}{1-a^{6}}+\\ldots\\right\\}$.",
+        "mathpix_content": " and $\\Sigma p_{n}{ }^{\\prime}=-\\frac{a b U}{c}\\left\\{1-a^{2}\\right\\}\\left\\{\\frac{1}{\\left\\{1-a^{2}\\right.}+\\frac{a}{1-a^{4}}+\\frac{a^{3}}{1-a^{6}}+\\ldots\\right\\}$.",
+        "font_size": 26,
+        "confidence": 0.7774127890963989
+      },
+      {
+        "page": 318,
+        "line_number": 10,
+        "type": "text",
+        "content": "Hence if $E_{1}$ and $E_{2}$ are the charges on the sphere, and if",
+        "mathpix_content": " Hence if $E_{1}$ and $E_{2}$ are the charges on the sphere, and if",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 318,
+        "line_number": 17,
+        "type": "text",
+        "content": "where",
+        "mathpix_content": "\nwhere",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 318,
+        "line_number": 20,
+        "type": "text",
+        "content": "These are the series given by Poisson and Kirchhoff.",
+        "mathpix_content": "\n\nThese are the series given by Poisson and Kirchhoff.",
+        "font_size": 26,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 318,
+        "line_number": 21,
+        "type": "text",
+        "content": "Since",
+        "mathpix_content": "\nSince",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 318,
+        "line_number": 29,
+        "type": "text",
+        "content": "Now",
+        "mathpix_content": "\n\nNow",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 318,
+        "line_number": 32,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 318,
+        "line_number": 35,
+        "type": "text",
+        "content": "hence",
+        "mathpix_content": "\nhence",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 318,
+        "line_number": 39,
+        "type": "text",
+        "content": "which is Poisson's integral for these expressions. \\}",
+        "mathpix_content": "\nwhich is Poisson's integral for these expressions. \\}",
+        "font_size": 26,
+        "confidence": 0.5456690894162033
+      },
+      {
+        "page": 318,
+        "line_number": 40,
+        "type": "text",
+        "content": "* \\{De Morgan, Diff. and Int. Cal. p. 672.\\}",
+        "mathpix_content": "\n* \\{De Morgan, Diff. and Int. Cal. p. 672.\\}",
+        "font_size": 26,
+        "confidence": 0.9531700501684099
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

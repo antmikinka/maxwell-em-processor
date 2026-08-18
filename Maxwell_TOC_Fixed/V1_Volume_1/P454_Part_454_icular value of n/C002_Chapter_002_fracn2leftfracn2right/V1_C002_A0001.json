@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{(2 n-1)(2 n-3)(2 n-5)} R^{6}{ }_{p} c_{6} \\cdot x^{p-6} y^{q} z^{r}+{ }_{q} c_{0} \\cdot x^{p} y^{q-6} z^{r}+{ }_{r} c_{6} \\cdot x^{p} y^{q} z^{r-6} \\\\",
+  "title_safe": "2 n-12 n-32 n-5 R6 p c6 cdot xp-6 yq zrplus q c0 cdot xp yq",
+  "page_start": 239,
+  "page_end": 238,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

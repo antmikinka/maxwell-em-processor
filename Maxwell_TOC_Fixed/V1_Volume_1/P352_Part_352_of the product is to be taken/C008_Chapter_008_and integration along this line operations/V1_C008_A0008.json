@@ -1,0 +1,201 @@
+{
+  "article_id": "article_8",
+  "article_number": 8,
+  "title_original": "and integration along this line, operations",
+  "title_safe": "and integration along this line operations",
+  "page_start": 186,
+  "page_end": 186,
+  "content": {
+    "raw_text": "\n--- Page 186 ---\n102 b.]\nCALOULATION OF CAPACITY.\n151\nto the surfaces for which $\\Psi_{1}$ is constant, and if we denote the\nlength of this line measured from $8_{0}$ by 8 , then\n$$R \\frac{d x}{d s}=-\\frac{d \\Psi_{1}}{d x}, \\quad R \\frac{d y}{d s}=-\\frac{d \\Psi_{1}}{d y}, \\quad R \\frac{d z}{d s}=-\\frac{d \\Psi_{1}}{d z},$$\n(12)\nwhere $R$ is the resultant intensity $=-\\frac{d \\Psi_{1}}{d s}$, so that\n$$\\begin{aligned}\n\\frac{d p}{d x} \\frac{d \\Psi_{1}}{d x}+\\frac{d p}{d y} \\frac{d \\Psi_{1}}{d y}+\\frac{d p}{d z} \\frac{d \\Psi_{1}}{d z} & =-R \\frac{d p}{d s} \\\\\n& =R^{2} \\frac{d p}{d \\Psi_{1}}\n\\end{aligned}$$\n(13)\nand equation (11) becomes\nwhence\n$$\\begin{gathered}\np \\nabla^{2} \\Psi=R^{2} \\frac{d p}{d \\Psi_{1}} \\\\\np=C \\exp \\cdot \\int_{0}^{\\Psi_{1}} \\frac{\\nabla^{2} \\Psi_{1}}{R^{2}} d \\Psi_{1},\n\\end{gathered}$$\n(14)\n(15)\nthe integral being a line integral taken along the line $s$.\nLet us next assume that along the line 8 ,\n$$\\begin{aligned}\n&-\\frac{d \\Psi_{2}}{d s}=f \\frac{d x}{d s}+g \\frac{d y}{d s}+h \\frac{d z}{d s} \\\\\n&=-p \\frac{d \\Psi_{1}}{d s} \\\\\n& \\Psi_{2}=C \\int_{0}^{*}\\left(\\exp \\cdot \\int \\frac{\\nabla^{2} \\Psi_{1}}{R^{2}} d \\Psi_{1}\\right) d \\Psi_{1},\n\\end{aligned}$$\n(16)\n(17)\nthen\nthe integration being always understood to be performed along\nthe line $s$.\nThe constant $C$ is now to be determined from the condition\nthat $\\Psi_{2}=1$ at $s_{1}$ when also $\\Psi_{1}=1$, so that\n$$C \\int_{0}^{1}\\left\\{\\exp \\cdot \\int_{0}^{\\Psi} \\frac{\\nabla^{2} \\Psi}{R^{2}} d \\Psi\\right\\} d \\Psi=1$$\n(18)\nThis gives a second approximation to $\\Psi$, and the process may\nbe repeated.\nThe results obtained from calculating $W_{\\Psi_{1}}, W_{\\mathcal{D}_{2}}, W_{\\Psi_{2}}$, \\&c., give\ncapacities alternately above and below the true capacity and\ncontinually approximating thereto.\nThe process as indicated above involves the calculation of the\nform of the line 8 and integration along this line, operations\nwhich are in general too difficult for practical purposes.\n",
+    "mathpix_markdown": "\n--- Page 186 ---\n\nto the surfaces for which $\\Psi_{1}$ is constant, and if we denote the\n length of this line measured from $8_{0}$ by 8 , then\n\n$$\\begin{equation*}\nR \\frac{d x}{d s}=-\\frac{d \\Psi_{1}}{d x}, \\quad R \\frac{d y}{d s}=-\\frac{d \\Psi_{1}}{d y}, \\quad R \\frac{d z}{d s}=-\\frac{d \\Psi_{1}}{d z}, \\tag{12}\n\\end{equation*}$$\n\nwhere $R$ is the resultant intensity $=-\\frac{d \\Psi_{1}}{d s}$, so that\n\n$$\\begin{align*}\n\\frac{d p}{d x} \\frac{d \\Psi_{1}}{d x}+\\frac{d p}{d y} \\frac{d \\Psi_{1}}{d y}+\\frac{d p}{d z} \\frac{d \\Psi_{1}}{d z} & =-R \\frac{d p}{d s} \\\\\n& =R^{2} \\frac{d p}{d \\Psi_{1}} \\tag{13}\n\\end{align*}$$\n\nand equation (11) becomes\n\nwhence\n\n$$\\begin{gather*}\np \\nabla^{2} \\Psi=R^{2} \\frac{d p}{d \\Psi_{1}}  \\tag{14}\\\\\np=C \\exp \\cdot \\int_{0}^{\\Psi_{1}} \\frac{\\nabla^{2} \\Psi_{1}}{R^{2}} d \\Psi_{1}, \\tag{15}\n\\end{gather*}$$\n\nthe integral being a line integral taken along the line $s$.\n\nLet us next assume that along the line 8 ,\n\n$$\\begin{align*}\n&-\\frac{d \\Psi_{2}}{d s}=f \\frac{d x}{d s}+g \\frac{d y}{d s}+h \\frac{d z}{d s} \\\\\n&=-p \\frac{d \\Psi_{1}}{d s}  \\tag{16}\\\\\n& \\Psi_{2}=C \\int_{0}^{*}\\left(\\exp \\cdot \\int \\frac{\\nabla^{2} \\Psi_{1}}{R^{2}} d \\Psi_{1}\\right) d \\Psi_{1}, \\tag{17}\n\\end{align*}$$\n\nthen\n\nthe integration being always understood to be performed along\n the line $s$.\n\n\nThe constant $C$ is now to be determined from the condition\n that $\\Psi_{2}=1$ at $s_{1}$ when also $\\Psi_{1}=1$, so that\n\n$$\\begin{equation*}\nC \\int_{0}^{1}\\left\\{\\exp \\cdot \\int_{0}^{\\Psi} \\frac{\\nabla^{2} \\Psi}{R^{2}} d \\Psi\\right\\} d \\Psi=1 \\tag{18}\n\\end{equation*}$$\n\n\nThis gives a second approximation to $\\Psi$, and the process may\n be repeated.\n\nThe results obtained from calculating $W_{\\Psi_{1}}, W_{\\mathcal{D}_{2}}, W_{\\Psi_{2}}$, \\&c., give\n capacities alternately above and below the true capacity and\n continually approximating thereto.\n\n\nThe process as indicated above involves the calculation of the\n form of the line 8 and integration along this line, operations\n which are in general too difficult for practical purposes.\n",
+    "structured_lines": [
+      {
+        "page": 186,
+        "line_number": 4,
+        "type": "text",
+        "content": "to the surfaces for which $\\Psi_{1}$ is constant, and if we denote the",
+        "mathpix_content": "\nto the surfaces for which $\\Psi_{1}$ is constant, and if we denote the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 5,
+        "type": "text",
+        "content": "length of this line measured from $8_{0}$ by 8 , then",
+        "mathpix_content": " length of this line measured from $8_{0}$ by 8 , then",
+        "font_size": 34,
+        "confidence": 0.45015382766723633
+      },
+      {
+        "page": 186,
+        "line_number": 9,
+        "type": "text",
+        "content": "where $R$ is the resultant intensity $=-\\frac{d \\Psi_{1}}{d s}$, so that",
+        "mathpix_content": "\nwhere $R$ is the resultant intensity $=-\\frac{d \\Psi_{1}}{d s}$, so that",
+        "font_size": 34,
+        "confidence": 0.9980475902557373
+      },
+      {
+        "page": 186,
+        "line_number": 14,
+        "type": "text",
+        "content": "and equation (11) becomes",
+        "mathpix_content": "\nand equation (11) becomes",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 15,
+        "type": "text",
+        "content": "whence",
+        "mathpix_content": "\nwhence",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 21,
+        "type": "text",
+        "content": "the integral being a line integral taken along the line $s$.",
+        "mathpix_content": "\nthe integral being a line integral taken along the line $s$.",
+        "font_size": 34,
+        "confidence": 0.89892578125
+      },
+      {
+        "page": 186,
+        "line_number": 22,
+        "type": "text",
+        "content": "Let us next assume that along the line 8 ,",
+        "mathpix_content": "\nLet us next assume that along the line 8 ,",
+        "font_size": 34,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 186,
+        "line_number": 31,
+        "type": "text",
+        "content": "then",
+        "mathpix_content": "\nthen",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 32,
+        "type": "text",
+        "content": "the integration being always understood to be performed along",
+        "mathpix_content": "\nthe integration being always understood to be performed along",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 33,
+        "type": "text",
+        "content": "the line $s$.",
+        "mathpix_content": " the line $s$.",
+        "font_size": 34,
+        "confidence": 0.9951210021972656
+      },
+      {
+        "page": 186,
+        "line_number": 34,
+        "type": "text",
+        "content": "The constant $C$ is now to be determined from the condition",
+        "mathpix_content": "\n\nThe constant $C$ is now to be determined from the condition",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 35,
+        "type": "text",
+        "content": "that $\\Psi_{2}=1$ at $s_{1}$ when also $\\Psi_{1}=1$, so that",
+        "mathpix_content": " that $\\Psi_{2}=1$ at $s_{1}$ when also $\\Psi_{1}=1$, so that",
+        "font_size": 34,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 186,
+        "line_number": 39,
+        "type": "text",
+        "content": "This gives a second approximation to $\\Psi$, and the process may",
+        "mathpix_content": "\n\nThis gives a second approximation to $\\Psi$, and the process may",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 40,
+        "type": "text",
+        "content": "be repeated.",
+        "mathpix_content": " be repeated.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 41,
+        "type": "text",
+        "content": "The results obtained from calculating $W_{\\Psi_{1}}, W_{\\mathcal{D}_{2}}, W_{\\Psi_{2}}$, \\&c., give",
+        "mathpix_content": "\nThe results obtained from calculating $W_{\\Psi_{1}}, W_{\\mathcal{D}_{2}}, W_{\\Psi_{2}}$, \\&c., give",
+        "font_size": 34,
+        "confidence": 0.9565947331138887
+      },
+      {
+        "page": 186,
+        "line_number": 42,
+        "type": "text",
+        "content": "capacities alternately above and below the true capacity and",
+        "mathpix_content": " capacities alternately above and below the true capacity and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 43,
+        "type": "text",
+        "content": "continually approximating thereto.",
+        "mathpix_content": " continually approximating thereto.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 44,
+        "type": "text",
+        "content": "The process as indicated above involves the calculation of the",
+        "mathpix_content": "\n\nThe process as indicated above involves the calculation of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 45,
+        "type": "text",
+        "content": "form of the line 8 and integration along this line, operations",
+        "mathpix_content": " form of the line 8 and integration along this line, operations",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 186,
+        "line_number": 46,
+        "type": "text",
+        "content": "which are in general too difficult for practical purposes.",
+        "mathpix_content": " which are in general too difficult for practical purposes.",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

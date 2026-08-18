@@ -1,0 +1,318 @@
+{
+  "article_id": "article_5",
+  "article_number": 5,
+  "title_original": ", 1891.",
+  "title_safe": "1891",
+  "page_start": 19,
+  "page_end": 19,
+  "content": {
+    "raw_text": "\n--- Page 19 ---\nxvi\nPREFACE TO THE THIRD EDITION.\nto carry out this intention without disfiguring the book by a\ndisproportionate quantity of foot-notes. I therefore decided to\nthrow these notes into a slightly more consecutive form and\nto publish them separately. They are now almost ready for\npress, and will I hope appear in a few months. This volume\nof notes is the one referred to as the 'Supplementary Volume.'\nA few foot-notes relating to isolated points which could be\ndealt with briefly are given. All the matter added to this\nEdition is enclosed within \\{ \\} brackets.\nI have endeavoured to add something in explanation of the\nargument in those passages in which I have found from my\nexperience as a teacher that nearly all students find consider-\nable difficulties; to have added an explanation of all passages\nin which I have known students find difficulties would have\nrequired more volumes than were at my disposal.\nI have attempted to verify the results which Maxwell gives\nwithout proof; I have not in all instances succeeded in\narriving at the result given by him, and in such cases I have\nindicated the difference in a foot-note.\nI have reprinted from his paper on the Dynamical Theory of\nthe Electromagnetic Field, Maxwell's method of determining\nthe self-induction of a coil. The omission of this from previous\neditions has caused the method to be frequently attributed to\nother authors.\nIn preparing this edition I have received the greatest pos-\nsible assistance from Mr. Charles Chree, Fellow of King's College,\nCambridge. Mr. Chree has read the whole of the proof sheets,\nand his suggestions have been invaluable. I have also received\nhelp from Mr. Larmor, Fellow of St. John's College, Mr.\nWilberforce, Demonstrator at the Cavendish Laboratory, and\nMr. G. T. Walker, Fellow of Trinity College.\n\nJ. J. Thomson.\nCavendish Laboratory:\nDec. 5, 1891.\n",
+    "mathpix_markdown": "\n--- Page 19 ---\n\nto carry out this intention without disfiguring the book by a\n disproportionate quantity of foot-notes. I therefore decided to\n throw these notes into a slightly more consecutive form and\n to publish them separately. They are now almost ready for\n press, and will I hope appear in a few months. This volume\n of notes is the one referred to as the 'Supplementary Volume.'\n A few foot-notes relating to isolated points which could be\n dealt with briefly are given. All the matter added to this\n Edition is enclosed within \\{ \\} brackets.\n\n\nI have endeavoured to add something in explanation of the\n argument in those passages in which I have found from my\n experience as a teacher that nearly all students find consider\nable difficulties; to have added an explanation of all passages\n in which I have known students find difficulties would have\n required more volumes than were at my disposal.\n\n\nI have attempted to verify the results which Maxwell gives\n without proof; I have not in all instances succeeded in\n arriving at the result given by him, and in such cases I have\n indicated the difference in a foot-note.\n\n\nI have reprinted from his paper on the Dynamical Theory of\n the Electromagnetic Field, Maxwell's method of determining\n the self-induction of a coil. The omission of this from previous\n editions has caused the method to be frequently attributed to\n other authors.\n\n\nIn preparing this edition I have received the greatest pos\nsible assistance from Mr. Charles Chree, Fellow of King's College,\n Cambridge. Mr. Chree has read the whole of the proof sheets,\n and his suggestions have been invaluable. I have also received\n help from Mr. Larmor, Fellow of St. John's College, Mr.\n Wilberforce, Demonstrator at the Cavendish Laboratory, and\n Mr. G. T. Walker, Fellow of Trinity College.\n\n\n\\author{\nJ. J. Thomson.\n}\n\n\n\\section*{Cavendish Laboratory:}\n\n\nDec. 5, 1891.\n",
+    "structured_lines": [
+      {
+        "page": 19,
+        "line_number": 3,
+        "type": "text",
+        "content": "to carry out this intention without disfiguring the book by a",
+        "mathpix_content": "\nto carry out this intention without disfiguring the book by a",
+        "font_size": 34,
+        "confidence": 0.9946331977844238
+      },
+      {
+        "page": 19,
+        "line_number": 4,
+        "type": "text",
+        "content": "disproportionate quantity of foot-notes. I therefore decided to",
+        "mathpix_content": " disproportionate quantity of foot-notes. I therefore decided to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 5,
+        "type": "text",
+        "content": "throw these notes into a slightly more consecutive form and",
+        "mathpix_content": " throw these notes into a slightly more consecutive form and",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 19,
+        "line_number": 6,
+        "type": "text",
+        "content": "to publish them separately. They are now almost ready for",
+        "mathpix_content": " to publish them separately. They are now almost ready for",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 7,
+        "type": "text",
+        "content": "press, and will I hope appear in a few months. This volume",
+        "mathpix_content": " press, and will I hope appear in a few months. This volume",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 8,
+        "type": "text",
+        "content": "of notes is the one referred to as the 'Supplementary Volume.'",
+        "mathpix_content": " of notes is the one referred to as the 'Supplementary Volume.'",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 19,
+        "line_number": 9,
+        "type": "text",
+        "content": "A few foot-notes relating to isolated points which could be",
+        "mathpix_content": " A few foot-notes relating to isolated points which could be",
+        "font_size": 34,
+        "confidence": 0.984375
+      },
+      {
+        "page": 19,
+        "line_number": 10,
+        "type": "text",
+        "content": "dealt with briefly are given. All the matter added to this",
+        "mathpix_content": " dealt with briefly are given. All the matter added to this",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 11,
+        "type": "text",
+        "content": "Edition is enclosed within \\{ \\} brackets.",
+        "mathpix_content": " Edition is enclosed within \\{ \\} brackets.",
+        "font_size": 34,
+        "confidence": 0.9941432476043701
+      },
+      {
+        "page": 19,
+        "line_number": 12,
+        "type": "text",
+        "content": "I have endeavoured to add something in explanation of the",
+        "mathpix_content": "\n\nI have endeavoured to add something in explanation of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 13,
+        "type": "text",
+        "content": "argument in those passages in which I have found from my",
+        "mathpix_content": " argument in those passages in which I have found from my",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 14,
+        "type": "text",
+        "content": "experience as a teacher that nearly all students find consider-",
+        "mathpix_content": " experience as a teacher that nearly all students find consider",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 15,
+        "type": "text",
+        "content": "able difficulties; to have added an explanation of all passages",
+        "mathpix_content": "able difficulties; to have added an explanation of all passages",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 19,
+        "line_number": 16,
+        "type": "text",
+        "content": "in which I have known students find difficulties would have",
+        "mathpix_content": " in which I have known students find difficulties would have",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 19,
+        "line_number": 17,
+        "type": "text",
+        "content": "required more volumes than were at my disposal.",
+        "mathpix_content": " required more volumes than were at my disposal.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 18,
+        "type": "text",
+        "content": "I have attempted to verify the results which Maxwell gives",
+        "mathpix_content": "\n\nI have attempted to verify the results which Maxwell gives",
+        "font_size": 34,
+        "confidence": 0.9658689263780502
+      },
+      {
+        "page": 19,
+        "line_number": 19,
+        "type": "text",
+        "content": "without proof; I have not in all instances succeeded in",
+        "mathpix_content": " without proof; I have not in all instances succeeded in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 20,
+        "type": "text",
+        "content": "arriving at the result given by him, and in such cases I have",
+        "mathpix_content": " arriving at the result given by him, and in such cases I have",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 21,
+        "type": "text",
+        "content": "indicated the difference in a foot-note.",
+        "mathpix_content": " indicated the difference in a foot-note.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 22,
+        "type": "text",
+        "content": "I have reprinted from his paper on the Dynamical Theory of",
+        "mathpix_content": "\n\nI have reprinted from his paper on the Dynamical Theory of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 23,
+        "type": "text",
+        "content": "the Electromagnetic Field, Maxwell's method of determining",
+        "mathpix_content": " the Electromagnetic Field, Maxwell's method of determining",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 24,
+        "type": "text",
+        "content": "the self-induction of a coil. The omission of this from previous",
+        "mathpix_content": " the self-induction of a coil. The omission of this from previous",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 25,
+        "type": "text",
+        "content": "editions has caused the method to be frequently attributed to",
+        "mathpix_content": " editions has caused the method to be frequently attributed to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 26,
+        "type": "text",
+        "content": "other authors.",
+        "mathpix_content": " other authors.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 27,
+        "type": "text",
+        "content": "In preparing this edition I have received the greatest pos-",
+        "mathpix_content": "\n\nIn preparing this edition I have received the greatest pos",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 28,
+        "type": "text",
+        "content": "sible assistance from Mr. Charles Chree, Fellow of King's College,",
+        "mathpix_content": "sible assistance from Mr. Charles Chree, Fellow of King's College,",
+        "font_size": 34,
+        "confidence": 0.76611328125
+      },
+      {
+        "page": 19,
+        "line_number": 29,
+        "type": "text",
+        "content": "Cambridge. Mr. Chree has read the whole of the proof sheets,",
+        "mathpix_content": " Cambridge. Mr. Chree has read the whole of the proof sheets,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 30,
+        "type": "text",
+        "content": "and his suggestions have been invaluable. I have also received",
+        "mathpix_content": " and his suggestions have been invaluable. I have also received",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 31,
+        "type": "text",
+        "content": "help from Mr. Larmor, Fellow of St. John's College, Mr.",
+        "mathpix_content": " help from Mr. Larmor, Fellow of St. John's College, Mr.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 32,
+        "type": "text",
+        "content": "Wilberforce, Demonstrator at the Cavendish Laboratory, and",
+        "mathpix_content": " Wilberforce, Demonstrator at the Cavendish Laboratory, and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 33,
+        "type": "text",
+        "content": "Mr. G. T. Walker, Fellow of Trinity College.",
+        "mathpix_content": " Mr. G. T. Walker, Fellow of Trinity College.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 35,
+        "type": "text",
+        "content": "J. J. Thomson.",
+        "mathpix_content": "\n\n\\author{\nJ. J. Thomson.\n}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 19,
+        "line_number": 37,
+        "type": "text",
+        "content": "Dec. 5, 1891.",
+        "mathpix_content": "\n\nDec. 5, 1891.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

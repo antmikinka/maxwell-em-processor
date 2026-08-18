@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "\\left(S_{1} T_{2} T_{3}+S_{2} T_{3} T_{1}+S_{3} T_{1} T_{2}\\right)+R_{1} T_{1}^{2}+R_{2} T_{2}^{2}+R_{3} T_{3}^{2}",
+  "title_safe": "leftS1 T2 T3plusS2 T3 T1plusS3 T1 T2rightplusR1 T12plusR2 T2",
+  "page_start": 455,
+  "page_end": 454,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

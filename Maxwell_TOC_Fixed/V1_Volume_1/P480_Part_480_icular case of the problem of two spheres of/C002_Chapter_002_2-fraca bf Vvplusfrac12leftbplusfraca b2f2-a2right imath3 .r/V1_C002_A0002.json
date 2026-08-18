@@ -1,0 +1,327 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}}{2}-\\frac{a b}{f} V_{v}+\\frac{1}{2}\\left(b+\\frac{a b^{2}}{f^{2}-a^{2}}\\right) \\imath^{3} .\\right]$$",
+  "title_safe": "2-fraca bf Vvplusfrac12leftbplusfraca b2f2-a2right imath3 .r",
+  "page_start": 285,
+  "page_end": 285,
+  "content": {
+    "raw_text": "\n--- Page 285 ---\n250\nELECTRIC IMAGES.\n[160.\nelectrification will be the same as that which would be produced\nby the system of images $B_{1}, B_{2}$, \\&c. This system is therefore\ncalled the electrical image of the system $A_{1}, A_{2}$, \\&c.\nIf the sphere instead of being at potential zero is at potential\n$V$, we must superpose a distribution of electricity on its outer\nsurface having the uniform surface-density\n$$\\sigma=\\frac{V}{4 \\pi \\alpha} .$$\nThe effect of this at all points outside the sphere will be equal to\nthat of a quantity Va of electricity placed at its centre, and at\nall points inside the sphere the potential will be simply increased\nby $V$.\nThe whole charge on the sphere due to an external system of\ninfluencing points, $A_{1}, A_{2}$, \\&c. is\n$$E=V a-e_{1} \\frac{a}{f_{1}}-e_{2} \\frac{a}{f_{3}}-\\& \\mathrm{c} .,$$\n(9)\nfrom which either the charge $E$ or the potential $V$ may be cal-\nculated when the other is given.\nWhen the electrified system is within the spherical surface the\ninduced charge on the surface is equal and of opposite sign to the\ninducing charge, as we have before proved it to be for every\nclosed surface, with respect to points within it.\n*160.] The energy due to the mutual action between an elec-\ntrified point $e$, at a distance $f$ from the centre of the sphere\n* The discussion in the text will perhaps be more easily understood if the problem\nbe regarded as an example of Art. 86. Let as then suppose that what is described\nas an electrified point is really a small spherical conductor, the radius of which is $b$\nand the potential $v$. We have thus a particular case of the problem of two spheres of\nwhich one solution has already been given in Art. 146, and another will be given in\nArt. 173. In the case before us however the radius $b$ is so small that we may\nconsider the electricity of the small conductor to be uniformly distributed over its\nsurface and all the electric images except the first image of the small conductor to\nbe disregarded. Nince the charge $E$ on the sphere is given, we must in addition to\nthe charge - $e a / f$ at the image have a charge $e a / f$ at the centre of the sphere.\nWe thus have\n$$\\begin{aligned}\nV & =\\frac{E}{a}+\\frac{e}{f} \\\\\nv & =\\frac{E+e^{a}}{f}-\\frac{e a}{f^{2}-a^{2}}+\\frac{e}{b} .\n\\end{aligned}$$\nThe energy of the system is therefore, Art. 85,\n$$\\frac{E^{2}}{2 a}+\\frac{E e}{f}+\\frac{e^{2}}{2}\\left(\\frac{1}{b}-\\frac{a^{3}}{f^{2}\\left(f^{2}-a^{2}\\right)}\\right) .$$\nBy means of the above equations we may also express the energy in terms of the\npotentials : to the same order of approximation it is\n$$\\left.\\frac{a V^{2}}{2}-\\frac{a b}{f} V_{v}+\\frac{1}{2}\\left(b+\\frac{a b^{2}}{f^{2}-a^{2}}\\right) \\imath^{3} .\\right]$$\n",
+    "mathpix_markdown": "\n--- Page 285 ---\n\nelectrification will be the same as that which would be produced\n by the system of images $B_{1}, B_{2}$, \\&c. This system is therefore\n called the electrical image of the system $A_{1}, A_{2}$, \\&c.\n\n\nIf the sphere instead of being at potential zero is at potential\n $V$, we must superpose a distribution of electricity on its outer\n surface having the uniform surface-density\n\n$$\\sigma=\\frac{V}{4 \\pi \\alpha} .$$\n\n\nThe effect of this at all points outside the sphere will be equal to\n that of a quantity Va of electricity placed at its centre, and at\n all points inside the sphere the potential will be simply increased\n by $V$.\n\n\nThe whole charge on the sphere due to an external system of\n influencing points, $A_{1}, A_{2}$, \\&c. is\n\n$$\\begin{equation*}\nE=V a-e_{1} \\frac{a}{f_{1}}-e_{2} \\frac{a}{f_{3}}-\\& \\mathrm{c} ., \\tag{9}\n\\end{equation*}$$\n\nfrom which either the charge $E$ or the potential $V$ may be cal\nculated when the other is given.\n\n\nWhen the electrified system is within the spherical surface the\n induced charge on the surface is equal and of opposite sign to the\n inducing charge, as we have before proved it to be for every\n closed surface, with respect to points within it.\n\n*160.] The energy due to the mutual action between an elec\ntrified point $e$, at a distance $f$ from the centre of the sphere\n\n* The discussion in the text will perhaps be more easily understood if the problem\n be regarded as an example of Art. 86. Let as then suppose that what is described\n as an electrified point is really a small spherical conductor, the radius of which is $b$\n and the potential $v$. We have thus a particular case of the problem of two spheres of\n which one solution has already been given in Art. 146, and another will be given in\n Art. 173. In the case before us however the radius $b$ is so small that we may\n consider the electricity of the small conductor to be uniformly distributed over its\n surface and all the electric images except the first image of the small conductor to\n be disregarded. Nince the charge $E$ on the sphere is given, we must in addition to\n the charge - $e a / f$ at the image have a charge $e a / f$ at the centre of the sphere.\n\n\nWe thus have\n\n$$\\begin{aligned}\nV & =\\frac{E}{a}+\\frac{e}{f} \\\\\nv & =\\frac{E+e^{a}}{f}-\\frac{e a}{f^{2}-a^{2}}+\\frac{e}{b} .\n\\end{aligned}$$\n\n\nThe energy of the system is therefore, Art. 85,\n\n$$\\frac{E^{2}}{2 a}+\\frac{E e}{f}+\\frac{e^{2}}{2}\\left(\\frac{1}{b}-\\frac{a^{3}}{f^{2}\\left(f^{2}-a^{2}\\right)}\\right) .$$\n\n\nBy means of the above equations we may also express the energy in terms of the\n potentials : to the same order of approximation it is\n\n$$\\left.\\frac{a V^{2}}{2}-\\frac{a b}{f} V_{v}+\\frac{1}{2}\\left(b+\\frac{a b^{2}}{f^{2}-a^{2}}\\right) \\imath^{3} .\\right]$$\n",
+    "structured_lines": [
+      {
+        "page": 285,
+        "line_number": 4,
+        "type": "text",
+        "content": "electrification will be the same as that which would be produced",
+        "mathpix_content": "\nelectrification will be the same as that which would be produced",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 5,
+        "type": "text",
+        "content": "by the system of images $B_{1}, B_{2}$, \\&c. This system is therefore",
+        "mathpix_content": " by the system of images $B_{1}, B_{2}$, \\&c. This system is therefore",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 6,
+        "type": "text",
+        "content": "called the electrical image of the system $A_{1}, A_{2}$, \\&c.",
+        "mathpix_content": " called the electrical image of the system $A_{1}, A_{2}$, \\&c.",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 285,
+        "line_number": 7,
+        "type": "text",
+        "content": "If the sphere instead of being at potential zero is at potential",
+        "mathpix_content": "\n\nIf the sphere instead of being at potential zero is at potential",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 8,
+        "type": "text",
+        "content": "$V$, we must superpose a distribution of electricity on its outer",
+        "mathpix_content": " $V$, we must superpose a distribution of electricity on its outer",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 9,
+        "type": "text",
+        "content": "surface having the uniform surface-density",
+        "mathpix_content": " surface having the uniform surface-density",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 12,
+        "type": "text",
+        "content": "The effect of this at all points outside the sphere will be equal to",
+        "mathpix_content": "\n\nThe effect of this at all points outside the sphere will be equal to",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 13,
+        "type": "text",
+        "content": "that of a quantity Va of electricity placed at its centre, and at",
+        "mathpix_content": " that of a quantity Va of electricity placed at its centre, and at",
+        "font_size": 33,
+        "confidence": 0.95263671875
+      },
+      {
+        "page": 285,
+        "line_number": 14,
+        "type": "text",
+        "content": "all points inside the sphere the potential will be simply increased",
+        "mathpix_content": " all points inside the sphere the potential will be simply increased",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 15,
+        "type": "text",
+        "content": "by $V$.",
+        "mathpix_content": " by $V$.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 16,
+        "type": "text",
+        "content": "The whole charge on the sphere due to an external system of",
+        "mathpix_content": "\n\nThe whole charge on the sphere due to an external system of",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 17,
+        "type": "text",
+        "content": "influencing points, $A_{1}, A_{2}$, \\&c. is",
+        "mathpix_content": " influencing points, $A_{1}, A_{2}$, \\&c. is",
+        "font_size": 33,
+        "confidence": 0.9882867336273193
+      },
+      {
+        "page": 285,
+        "line_number": 21,
+        "type": "text",
+        "content": "from which either the charge $E$ or the potential $V$ may be cal-",
+        "mathpix_content": "\nfrom which either the charge $E$ or the potential $V$ may be cal",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 22,
+        "type": "text",
+        "content": "culated when the other is given.",
+        "mathpix_content": "culated when the other is given.",
+        "font_size": 26,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 285,
+        "line_number": 23,
+        "type": "text",
+        "content": "When the electrified system is within the spherical surface the",
+        "mathpix_content": "\n\nWhen the electrified system is within the spherical surface the",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 24,
+        "type": "text",
+        "content": "induced charge on the surface is equal and of opposite sign to the",
+        "mathpix_content": " induced charge on the surface is equal and of opposite sign to the",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 25,
+        "type": "text",
+        "content": "inducing charge, as we have before proved it to be for every",
+        "mathpix_content": " inducing charge, as we have before proved it to be for every",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 26,
+        "type": "text",
+        "content": "closed surface, with respect to points within it.",
+        "mathpix_content": " closed surface, with respect to points within it.",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 27,
+        "type": "text",
+        "content": "*160.] The energy due to the mutual action between an elec-",
+        "mathpix_content": "\n*160.] The energy due to the mutual action between an elec",
+        "font_size": 26,
+        "confidence": 0.98583984375
+      },
+      {
+        "page": 285,
+        "line_number": 28,
+        "type": "text",
+        "content": "trified point $e$, at a distance $f$ from the centre of the sphere",
+        "mathpix_content": "trified point $e$, at a distance $f$ from the centre of the sphere",
+        "font_size": 26,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 285,
+        "line_number": 29,
+        "type": "text",
+        "content": "* The discussion in the text will perhaps be more easily understood if the problem",
+        "mathpix_content": "\n* The discussion in the text will perhaps be more easily understood if the problem",
+        "font_size": 21,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 285,
+        "line_number": 30,
+        "type": "text",
+        "content": "be regarded as an example of Art. 86. Let as then suppose that what is described",
+        "mathpix_content": " be regarded as an example of Art. 86. Let as then suppose that what is described",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 31,
+        "type": "text",
+        "content": "as an electrified point is really a small spherical conductor, the radius of which is $b$",
+        "mathpix_content": " as an electrified point is really a small spherical conductor, the radius of which is $b$",
+        "font_size": 21,
+        "confidence": 0.9951240993104875
+      },
+      {
+        "page": 285,
+        "line_number": 32,
+        "type": "text",
+        "content": "and the potential $v$. We have thus a particular case of the problem of two spheres of",
+        "mathpix_content": " and the potential $v$. We have thus a particular case of the problem of two spheres of",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 285,
+        "line_number": 33,
+        "type": "text",
+        "content": "which one solution has already been given in Art. 146, and another will be given in",
+        "mathpix_content": " which one solution has already been given in Art. 146, and another will be given in",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 34,
+        "type": "text",
+        "content": "Art. 173. In the case before us however the radius $b$ is so small that we may",
+        "mathpix_content": " Art. 173. In the case before us however the radius $b$ is so small that we may",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 35,
+        "type": "text",
+        "content": "consider the electricity of the small conductor to be uniformly distributed over its",
+        "mathpix_content": " consider the electricity of the small conductor to be uniformly distributed over its",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 36,
+        "type": "text",
+        "content": "surface and all the electric images except the first image of the small conductor to",
+        "mathpix_content": " surface and all the electric images except the first image of the small conductor to",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 37,
+        "type": "text",
+        "content": "be disregarded. Nince the charge $E$ on the sphere is given, we must in addition to",
+        "mathpix_content": " be disregarded. Nince the charge $E$ on the sphere is given, we must in addition to",
+        "font_size": 21,
+        "confidence": 0.9960968487430364
+      },
+      {
+        "page": 285,
+        "line_number": 38,
+        "type": "text",
+        "content": "the charge - $e a / f$ at the image have a charge $e a / f$ at the centre of the sphere.",
+        "mathpix_content": " the charge - $e a / f$ at the image have a charge $e a / f$ at the centre of the sphere.",
+        "font_size": 21,
+        "confidence": 0.7458941433123565
+      },
+      {
+        "page": 285,
+        "line_number": 39,
+        "type": "text",
+        "content": "We thus have",
+        "mathpix_content": "\n\nWe thus have",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 43,
+        "type": "text",
+        "content": "The energy of the system is therefore, Art. 85,",
+        "mathpix_content": "\n\nThe energy of the system is therefore, Art. 85,",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 46,
+        "type": "text",
+        "content": "By means of the above equations we may also express the energy in terms of the",
+        "mathpix_content": "\n\nBy means of the above equations we may also express the energy in terms of the",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 285,
+        "line_number": 47,
+        "type": "text",
+        "content": "potentials : to the same order of approximation it is",
+        "mathpix_content": " potentials : to the same order of approximation it is",
+        "font_size": 26,
+        "confidence": 0.98046875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

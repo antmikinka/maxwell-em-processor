@@ -1,0 +1,4674 @@
+{
+  "part_id": "part_252",
+  "part_number": 252,
+  "title": "icles. We therefore prefer to do",
+  "page_start": 107,
+  "page_end": 112,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 72,
+      "title": "ELECTROSTATICS.",
+      "page_start": 107,
+      "page_end": 106,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 64,
+      "title": "ON ELECTRIC DENSITY.",
+      "page_start": 107,
+      "page_end": 106,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 64,
+      "title": "] Definition. The electric volume-density at a given point",
+      "page_start": 107,
+      "page_end": 106,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 0,
+      "title": "}$, or that value of $\\rho$",
+      "page_start": 107,
+      "page_end": 106,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 0,
+      "title": "} \\theta=\\sigma .$$",
+      "page_start": 107,
+      "page_end": 106,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 64,
+      "title": "] Definition. The electric volume-density at a given point",
+      "page_start": 107,
+      "page_end": 106,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 0,
+      "title": "}$, or that value of $\\rho$",
+      "page_start": 107,
+      "page_end": 106,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 0,
+      "title": "} \\theta=\\sigma .$$",
+      "page_start": 107,
+      "page_end": 107,
+      "articles": [
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": "ON ELECTRIC DENSITY.",
+          "title_safe": "ON ELECTRIC DENSITY",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": "] Definition. The electric volume-density at a given point",
+          "title_safe": "Definition. The electric volume-density at a given point",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": "] Definition. The electric volume-density at a given point",
+          "title_safe": "Definition. The electric volume-density at a given point",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_72",
+          "article_number": 72,
+          "title_original": "ELECTROSTATICS.",
+          "title_safe": "ELECTROSTATICS",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ".] Definition. The electric volume-density at a given point",
+          "title_safe": "Definition. The electric volume-density at a given point",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, or that value of $\\rho$",
+          "title_safe": "or that value of rho",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\theta=\\sigma .$$",
+          "title_safe": "thetaequalssigma",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ".] Definition. The electric volume-density at a given point",
+          "title_safe": "Definition. The electric volume-density at a given point",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, or that value of $\\rho$",
+          "title_safe": "or that value of rho",
+          "page_start": 107,
+          "page_end": 106,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\theta=\\sigma .$$",
+          "title_safe": "thetaequalssigma",
+          "page_start": 107,
+          "page_end": 107,
+          "content": {
+            "raw_text": "\n--- Page 107 ---\n72\nELECTROSTATICS.\n[64.\n\nON ELECTRIC DENSITY.\n\nDistribution in Three Dimensions.\n64.] Definition. The electric volume-density at a given point\nin space is the limiting ratio of the quantity of electricity within\na sphere whose centre is the given point to the volume of the\nsphere, when its radius is diminished without limit.\nWe shall denote this ratio by the symbol $\\rho$, which may be\npositive or negative.\n\nDistribution over a Surface.\nIt is a result alike of theory and of experiment, that, in certain\ncases, the charge of a body is entirely on the surface. The density\nat a point on the surface, if defined according to the method given\nabove, would be infinite. We therefore adopt a different method\nfor the measurement of surface-density.\nDefinition. The electric density at a given point on a surface\nis the limiting ratio of the quantity of electricity within a sphere\nwhose centre is the given point to the area of the surface con-\ntained within the sphere, when its radius is diminished without\nlimit.\nWe shall denote the surface-density by the symbol $\\sigma$.\nThose writers who supposed electricity to be a material fluid\nor a collection of particles, were obliged in this case to suppose\nthe electricity distributed on the surface in the form of a stratum\nof a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$\nwhich would result from the particles having the closest contact\nof which they are capable. It is manifest that on this theory\n$$\\rho_{0} \\theta=\\sigma .$$\nWhen $\\sigma$ is negative, according to this theory, a certain stratum\nof thickness $\\theta$ is left entirely devoid of positive electricity, and\nfilled entirely with negative electricity, or, on the theory of one\nfluid, with matter.\nThere is, however, no experimental evidence either of the\nelectric stratum having any thickness, or of electricity being a\nfluid or a collection of particles. We therefore prefer to do\nwithout the symbol for the thickness of the stratum, and to use\na special symbol for surface-density.\n",
+            "mathpix_markdown": "\n--- Page 107 ---\n\n\n\\section*{ON ELECTRIC DENSITY.}\n\n\n\\section*{Distribution in Three Dimensions.}\n\n64.] Definition. The electric volume-density at a given point\n in space is the limiting ratio of the quantity of electricity within\n a sphere whose centre is the given point to the volume of the\n sphere, when its radius is diminished without limit.\n\n\nWe shall denote this ratio by the symbol $\\rho$, which may be\n positive or negative.\n\n\n\\section*{Distribution over a Surface.}\n\n\nIt is a result alike of theory and of experiment, that, in certain\n cases, the charge of a body is entirely on the surface. The density\n at a point on the surface, if defined according to the method given\n above, would be infinite. We therefore adopt a different method\n for the measurement of surface-density.\n\n\nDefinition. The electric density at a given point on a surface\n is the limiting ratio of the quantity of electricity within a sphere\n whose centre is the given point to the area of the surface con\ntained within the sphere, when its radius is diminished without\n limit.\n\n\nWe shall denote the surface-density by the symbol $\\sigma$.\n\nThose writers who supposed electricity to be a material fluid\n or a collection of particles, were obliged in this case to suppose\n the electricity distributed on the surface in the form of a stratum\n of a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$\n which would result from the particles having the closest contact\n of which they are capable. It is manifest that on this theory\n\n$$\\rho_{0} \\theta=\\sigma .$$\n\n\nWhen $\\sigma$ is negative, according to this theory, a certain stratum\n of thickness $\\theta$ is left entirely devoid of positive electricity, and\n filled entirely with negative electricity, or, on the theory of one\n fluid, with matter.\n\n\nThere is, however, no experimental evidence either of the\n electric stratum having any thickness, or of electricity being a\n fluid or a collection of particles. We therefore prefer to do\n without the symbol for the thickness of the stratum, and to use\n a special symbol for surface-density.\n",
+            "structured_lines": [
+              {
+                "page": 107,
+                "line_number": 5,
+                "type": "text",
+                "content": "ON ELECTRIC DENSITY.",
+                "mathpix_content": "\n\n\\section*{ON ELECTRIC DENSITY.}",
+                "font_size": 21,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 7,
+                "type": "text",
+                "content": "Distribution in Three Dimensions.",
+                "mathpix_content": "\n\n\\section*{Distribution in Three Dimensions.}",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 107,
+                "line_number": 8,
+                "type": "text",
+                "content": "64.] Definition. The electric volume-density at a given point",
+                "mathpix_content": "\n64.] Definition. The electric volume-density at a given point",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 9,
+                "type": "text",
+                "content": "in space is the limiting ratio of the quantity of electricity within",
+                "mathpix_content": " in space is the limiting ratio of the quantity of electricity within",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 10,
+                "type": "text",
+                "content": "a sphere whose centre is the given point to the volume of the",
+                "mathpix_content": " a sphere whose centre is the given point to the volume of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 11,
+                "type": "text",
+                "content": "sphere, when its radius is diminished without limit.",
+                "mathpix_content": " sphere, when its radius is diminished without limit.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 12,
+                "type": "text",
+                "content": "We shall denote this ratio by the symbol $\\rho$, which may be",
+                "mathpix_content": "\n\nWe shall denote this ratio by the symbol $\\rho$, which may be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 13,
+                "type": "text",
+                "content": "positive or negative.",
+                "mathpix_content": " positive or negative.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 15,
+                "type": "text",
+                "content": "Distribution over a Surface.",
+                "mathpix_content": "\n\n\\section*{Distribution over a Surface.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 16,
+                "type": "text",
+                "content": "It is a result alike of theory and of experiment, that, in certain",
+                "mathpix_content": "\n\nIt is a result alike of theory and of experiment, that, in certain",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 17,
+                "type": "text",
+                "content": "cases, the charge of a body is entirely on the surface. The density",
+                "mathpix_content": " cases, the charge of a body is entirely on the surface. The density",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 18,
+                "type": "text",
+                "content": "at a point on the surface, if defined according to the method given",
+                "mathpix_content": " at a point on the surface, if defined according to the method given",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 19,
+                "type": "text",
+                "content": "above, would be infinite. We therefore adopt a different method",
+                "mathpix_content": " above, would be infinite. We therefore adopt a different method",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 20,
+                "type": "text",
+                "content": "for the measurement of surface-density.",
+                "mathpix_content": " for the measurement of surface-density.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 21,
+                "type": "text",
+                "content": "Definition. The electric density at a given point on a surface",
+                "mathpix_content": "\n\nDefinition. The electric density at a given point on a surface",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 22,
+                "type": "text",
+                "content": "is the limiting ratio of the quantity of electricity within a sphere",
+                "mathpix_content": " is the limiting ratio of the quantity of electricity within a sphere",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 23,
+                "type": "text",
+                "content": "whose centre is the given point to the area of the surface con-",
+                "mathpix_content": " whose centre is the given point to the area of the surface con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 24,
+                "type": "text",
+                "content": "tained within the sphere, when its radius is diminished without",
+                "mathpix_content": "tained within the sphere, when its radius is diminished without",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 107,
+                "line_number": 25,
+                "type": "text",
+                "content": "limit.",
+                "mathpix_content": " limit.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 26,
+                "type": "text",
+                "content": "We shall denote the surface-density by the symbol $\\sigma$.",
+                "mathpix_content": "\n\nWe shall denote the surface-density by the symbol $\\sigma$.",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 107,
+                "line_number": 27,
+                "type": "text",
+                "content": "Those writers who supposed electricity to be a material fluid",
+                "mathpix_content": "\nThose writers who supposed electricity to be a material fluid",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 107,
+                "line_number": 28,
+                "type": "text",
+                "content": "or a collection of particles, were obliged in this case to suppose",
+                "mathpix_content": " or a collection of particles, were obliged in this case to suppose",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 29,
+                "type": "text",
+                "content": "the electricity distributed on the surface in the form of a stratum",
+                "mathpix_content": " the electricity distributed on the surface in the form of a stratum",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 30,
+                "type": "text",
+                "content": "of a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$",
+                "mathpix_content": " of a certain thickness $\\theta$, its density being $\\rho_{0}$, or that value of $\\rho$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 31,
+                "type": "text",
+                "content": "which would result from the particles having the closest contact",
+                "mathpix_content": " which would result from the particles having the closest contact",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 32,
+                "type": "text",
+                "content": "of which they are capable. It is manifest that on this theory",
+                "mathpix_content": " of which they are capable. It is manifest that on this theory",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 35,
+                "type": "text",
+                "content": "When $\\sigma$ is negative, according to this theory, a certain stratum",
+                "mathpix_content": "\n\nWhen $\\sigma$ is negative, according to this theory, a certain stratum",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 36,
+                "type": "text",
+                "content": "of thickness $\\theta$ is left entirely devoid of positive electricity, and",
+                "mathpix_content": " of thickness $\\theta$ is left entirely devoid of positive electricity, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 37,
+                "type": "text",
+                "content": "filled entirely with negative electricity, or, on the theory of one",
+                "mathpix_content": " filled entirely with negative electricity, or, on the theory of one",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 38,
+                "type": "text",
+                "content": "fluid, with matter.",
+                "mathpix_content": " fluid, with matter.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 39,
+                "type": "text",
+                "content": "There is, however, no experimental evidence either of the",
+                "mathpix_content": "\n\nThere is, however, no experimental evidence either of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 40,
+                "type": "text",
+                "content": "electric stratum having any thickness, or of electricity being a",
+                "mathpix_content": " electric stratum having any thickness, or of electricity being a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 41,
+                "type": "text",
+                "content": "fluid or a collection of particles. We therefore prefer to do",
+                "mathpix_content": " fluid or a collection of particles. We therefore prefer to do",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 42,
+                "type": "text",
+                "content": "without the symbol for the thickness of the stratum, and to use",
+                "mathpix_content": " without the symbol for the thickness of the stratum, and to use",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 107,
+                "line_number": 43,
+                "type": "text",
+                "content": "a special symbol for surface-density.",
+                "mathpix_content": " a special symbol for surface-density.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 65,
+      "title": "]",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 73,
+      "title": "Distribution on a Line.",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 2,
+      "title": "} \\sigma$, and $l^{3} \\rho$ will be all of",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 2,
+      "title": "} \\sigma\\right]$, and",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 3,
+      "title": "} \\rho\\right]$ will each denote one unit of electricity.",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 65,
+      "title": "] Let $A$ and $B$ be two points the distance between which",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 6,
+      "title": "Then",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 2,
+      "title": "} \\sigma$, and $l^{3} \\rho$ will be all of",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 2,
+      "title": "} \\sigma\\right]$, and",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 3,
+      "title": "} \\rho\\right]$ will each denote one unit of electricity.",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 65,
+      "title": "] Let $A$ and $B$ be two points the distance between which",
+      "page_start": 108,
+      "page_end": 107,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 6,
+      "title": "Then",
+      "page_start": 108,
+      "page_end": 108,
+      "articles": [
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": "Then",
+          "title_safe": "Then",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": "Then",
+          "title_safe": "Then",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_65",
+          "article_number": 65,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_65",
+          "article_number": 65,
+          "title_original": "] Let $A$ and $B$ be two points the distance between which",
+          "title_safe": "Let A and B be two points the distance between which",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": "Then",
+          "title_safe": "Then",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_65",
+          "article_number": 65,
+          "title_original": "] Let $A$ and $B$ be two points the distance between which",
+          "title_safe": "Let A and B be two points the distance between which",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": "Then",
+          "title_safe": "Then",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_65",
+          "article_number": 65,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_73",
+          "article_number": 73,
+          "title_original": "Distribution on a Line.",
+          "title_safe": "Distribution on a Line",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\sigma$, and $l^{3} \\rho$ will be all of",
+          "title_safe": "sigma and l3 rho will be all of",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\sigma\\right]$, and",
+          "title_safe": "sigmaright and",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "} \\rho\\right]$ will each denote one unit of electricity.",
+          "title_safe": "rhoright will each denote one unit of electricity",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_65",
+          "article_number": 65,
+          "title_original": ".] Let $A$ and $B$ be two points the distance between which",
+          "title_safe": "Let A and B be two points the distance between which",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": ". Then",
+          "title_safe": "Then",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\sigma$, and $l^{3} \\rho$ will be all of",
+          "title_safe": "sigma and l3 rho will be all of",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\sigma\\right]$, and",
+          "title_safe": "sigmaright and",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "} \\rho\\right]$ will each denote one unit of electricity.",
+          "title_safe": "rhoright will each denote one unit of electricity",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_65",
+          "article_number": 65,
+          "title_original": ".] Let $A$ and $B$ be two points the distance between which",
+          "title_safe": "Let A and B be two points the distance between which",
+          "page_start": 108,
+          "page_end": 107,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": ". Then",
+          "title_safe": "Then",
+          "page_start": 108,
+          "page_end": 108,
+          "content": {
+            "raw_text": "\n--- Page 108 ---\n65.]\nUNIT OF ELECTRICITY.\n73\n\nDistribution on a Line.\nIt is sometimes convenient to suppose electricity distributed\non a line, that is, a long narrow body of which we neglect the\nthickness. In this case we may define the line-density at any\npoint to be the limiting ratio of the charge on an element of the\nline to the length of that element when the element is diminished\nwithout limit.\nIf $\\lambda$ denotes the line-density, then the whole quantity of elec-\ntricity on a curve is $e=\\int \\lambda d s$, where $d s$ is the element of the\ncurve. Similarly, if $\\sigma$ is the surface-density, the whole quantity\nof electricity on the surface is\n$$e=\\iint \\sigma d S,$$\nwhere $d S$ is the element of surface.\nIf $\\rho$ is the volume-density at any point of space, then the\nwhole electricity with a certain volume is\n$$e=\\iiint \\rho d x d y d z,$$\nwhere $d x d y d z$ is the element of volume. The limits of in-\ntegration in each case are those of the curve, the surface, or the\nportion of space considered.\nIt is manifest that $e, \\lambda, \\sigma$ and $\\rho$ are quantities differing in kind,\neach being one dimension in space lower than the preceding, so\nthat if $l$ be a line, the quantities $e, l \\lambda, l^{2} \\sigma$, and $l^{3} \\rho$ will be all of\nthe same kind, and if $[L]$ be the unit of length, and $[\\lambda],[\\sigma],[\\rho]$\nthe units of the different kinds of density, $[e],[L \\lambda] .\\left[L^{2} \\sigma\\right]$, and\n$\\left[L^{3} \\rho\\right]$ will each denote one unit of electricity.\n\nDefinition of the Unit of Electricity.\n65.] Let $A$ and $B$ be two points the distance between which\nis the unit of length. Let two bodies, whose dimensions are\nsmall compared with the distance $A B$, be charged with equal\nquantities of positive electricity and placed at $A$ and $B$ respect-\nively, and let the charges be such that the force with which they\nrepel each other is the unit of force, measured as in Art. 6. Then\nthe charge of either body is said to be the unit of electricity *.\nIf the charge of the body at $B$ were a unit of negative\n\n* \\{In this definition the dielectric separating the charged bodies is supposed to be\nair. \\}\n",
+            "mathpix_markdown": "\n--- Page 108 ---\n\n\n\\section*{Distribution on a Line.}\n\n\nIt is sometimes convenient to suppose electricity distributed\n on a line, that is, a long narrow body of which we neglect the\n thickness. In this case we may define the line-density at any\n point to be the limiting ratio of the charge on an element of the\n line to the length of that element when the element is diminished\n without limit.\n\n\nIf $\\lambda$ denotes the line-density, then the whole quantity of elec\ntricity on a curve is $e=\\int \\lambda d s$, where $d s$ is the element of the\n curve. Similarly, if $\\sigma$ is the surface-density, the whole quantity\n of electricity on the surface is\n\n$$e=\\iint \\sigma d S,$$\n\nwhere $d S$ is the element of surface.\n\nIf $\\rho$ is the volume-density at any point of space, then the\n whole electricity with a certain volume is\n\n$$e=\\iiint \\rho d x d y d z,$$\n\nwhere $d x d y d z$ is the element of volume. The limits of in\ntegration in each case are those of the curve, the surface, or the\n portion of space considered.\n\n\nIt is manifest that $e, \\lambda, \\sigma$ and $\\rho$ are quantities differing in kind,\n each being one dimension in space lower than the preceding, so\n that if $l$ be a line, the quantities $e, l \\lambda, l^{2} \\sigma$, and $l^{3} \\rho$ will be all of\n the same kind, and if $[L]$ be the unit of length, and $[\\lambda],[\\sigma],[\\rho]$\n the units of the different kinds of density, $[e],[L \\lambda] .\\left[L^{2} \\sigma\\right]$, and\n $\\left[L^{3} \\rho\\right]$ will each denote one unit of electricity.\n\n\n\\section*{Definition of the Unit of Electricity.}\n\n65.] Let $A$ and $B$ be two points the distance between which\n is the unit of length. Let two bodies, whose dimensions are\n small compared with the distance $A B$, be charged with equal\n quantities of positive electricity and placed at $A$ and $B$ respect\nively, and let the charges be such that the force with which they\n repel each other is the unit of force, measured as in Art. 6. Then\n the charge of either body is said to be the unit of electricity *.\n\n\nIf the charge of the body at $B$ were a unit of negative\n\n\n\\footnotetext{\n* \\{In this definition the dielectric separating the charged bodies is supposed to be\n air. \\}\n}\n",
+            "structured_lines": [
+              {
+                "page": 108,
+                "line_number": 5,
+                "type": "text",
+                "content": "Distribution on a Line.",
+                "mathpix_content": "\n\n\\section*{Distribution on a Line.}",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 108,
+                "line_number": 6,
+                "type": "text",
+                "content": "It is sometimes convenient to suppose electricity distributed",
+                "mathpix_content": "\n\nIt is sometimes convenient to suppose electricity distributed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 7,
+                "type": "text",
+                "content": "on a line, that is, a long narrow body of which we neglect the",
+                "mathpix_content": " on a line, that is, a long narrow body of which we neglect the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 8,
+                "type": "text",
+                "content": "thickness. In this case we may define the line-density at any",
+                "mathpix_content": " thickness. In this case we may define the line-density at any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 9,
+                "type": "text",
+                "content": "point to be the limiting ratio of the charge on an element of the",
+                "mathpix_content": " point to be the limiting ratio of the charge on an element of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 10,
+                "type": "text",
+                "content": "line to the length of that element when the element is diminished",
+                "mathpix_content": " line to the length of that element when the element is diminished",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 11,
+                "type": "text",
+                "content": "without limit.",
+                "mathpix_content": " without limit.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 12,
+                "type": "text",
+                "content": "If $\\lambda$ denotes the line-density, then the whole quantity of elec-",
+                "mathpix_content": "\n\nIf $\\lambda$ denotes the line-density, then the whole quantity of elec",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 13,
+                "type": "text",
+                "content": "tricity on a curve is $e=\\int \\lambda d s$, where $d s$ is the element of the",
+                "mathpix_content": "tricity on a curve is $e=\\int \\lambda d s$, where $d s$ is the element of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 14,
+                "type": "text",
+                "content": "curve. Similarly, if $\\sigma$ is the surface-density, the whole quantity",
+                "mathpix_content": " curve. Similarly, if $\\sigma$ is the surface-density, the whole quantity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 15,
+                "type": "text",
+                "content": "of electricity on the surface is",
+                "mathpix_content": " of electricity on the surface is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 18,
+                "type": "text",
+                "content": "where $d S$ is the element of surface.",
+                "mathpix_content": "\nwhere $d S$ is the element of surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 19,
+                "type": "text",
+                "content": "If $\\rho$ is the volume-density at any point of space, then the",
+                "mathpix_content": "\nIf $\\rho$ is the volume-density at any point of space, then the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 20,
+                "type": "text",
+                "content": "whole electricity with a certain volume is",
+                "mathpix_content": " whole electricity with a certain volume is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 23,
+                "type": "text",
+                "content": "where $d x d y d z$ is the element of volume. The limits of in-",
+                "mathpix_content": "\nwhere $d x d y d z$ is the element of volume. The limits of in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 24,
+                "type": "text",
+                "content": "tegration in each case are those of the curve, the surface, or the",
+                "mathpix_content": "tegration in each case are those of the curve, the surface, or the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 25,
+                "type": "text",
+                "content": "portion of space considered.",
+                "mathpix_content": " portion of space considered.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 26,
+                "type": "text",
+                "content": "It is manifest that $e, \\lambda, \\sigma$ and $\\rho$ are quantities differing in kind,",
+                "mathpix_content": "\n\nIt is manifest that $e, \\lambda, \\sigma$ and $\\rho$ are quantities differing in kind,",
+                "font_size": 27,
+                "confidence": 0.994633435155265
+              },
+              {
+                "page": 108,
+                "line_number": 27,
+                "type": "text",
+                "content": "each being one dimension in space lower than the preceding, so",
+                "mathpix_content": " each being one dimension in space lower than the preceding, so",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 108,
+                "line_number": 28,
+                "type": "text",
+                "content": "that if $l$ be a line, the quantities $e, l \\lambda, l^{2} \\sigma$, and $l^{3} \\rho$ will be all of",
+                "mathpix_content": " that if $l$ be a line, the quantities $e, l \\lambda, l^{2} \\sigma$, and $l^{3} \\rho$ will be all of",
+                "font_size": 27,
+                "confidence": 0.9892756876070052
+              },
+              {
+                "page": 108,
+                "line_number": 29,
+                "type": "text",
+                "content": "the same kind, and if $[L]$ be the unit of length, and $[\\lambda],[\\sigma],[\\rho]$",
+                "mathpix_content": " the same kind, and if $[L]$ be the unit of length, and $[\\lambda],[\\sigma],[\\rho]$",
+                "font_size": 27,
+                "confidence": 0.9912330885492793
+              },
+              {
+                "page": 108,
+                "line_number": 30,
+                "type": "text",
+                "content": "the units of the different kinds of density, $[e],[L \\lambda] .\\left[L^{2} \\sigma\\right]$, and",
+                "mathpix_content": " the units of the different kinds of density, $[e],[L \\lambda] .\\left[L^{2} \\sigma\\right]$, and",
+                "font_size": 27,
+                "confidence": 0.9781088074669242
+              },
+              {
+                "page": 108,
+                "line_number": 31,
+                "type": "text",
+                "content": "$\\left[L^{3} \\rho\\right]$ will each denote one unit of electricity.",
+                "mathpix_content": " $\\left[L^{3} \\rho\\right]$ will each denote one unit of electricity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 33,
+                "type": "text",
+                "content": "Definition of the Unit of Electricity.",
+                "mathpix_content": "\n\n\\section*{Definition of the Unit of Electricity.}",
+                "font_size": 27,
+                "confidence": 0.44753527641296387
+              },
+              {
+                "page": 108,
+                "line_number": 34,
+                "type": "text",
+                "content": "65.] Let $A$ and $B$ be two points the distance between which",
+                "mathpix_content": "\n65.] Let $A$ and $B$ be two points the distance between which",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 108,
+                "line_number": 35,
+                "type": "text",
+                "content": "is the unit of length. Let two bodies, whose dimensions are",
+                "mathpix_content": " is the unit of length. Let two bodies, whose dimensions are",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 36,
+                "type": "text",
+                "content": "small compared with the distance $A B$, be charged with equal",
+                "mathpix_content": " small compared with the distance $A B$, be charged with equal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 37,
+                "type": "text",
+                "content": "quantities of positive electricity and placed at $A$ and $B$ respect-",
+                "mathpix_content": " quantities of positive electricity and placed at $A$ and $B$ respect",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 38,
+                "type": "text",
+                "content": "ively, and let the charges be such that the force with which they",
+                "mathpix_content": "ively, and let the charges be such that the force with which they",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 39,
+                "type": "text",
+                "content": "repel each other is the unit of force, measured as in Art. 6. Then",
+                "mathpix_content": " repel each other is the unit of force, measured as in Art. 6. Then",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 40,
+                "type": "text",
+                "content": "the charge of either body is said to be the unit of electricity *.",
+                "mathpix_content": " the charge of either body is said to be the unit of electricity *.",
+                "font_size": 27,
+                "confidence": 0.99658203125
+              },
+              {
+                "page": 108,
+                "line_number": 41,
+                "type": "text",
+                "content": "If the charge of the body at $B$ were a unit of negative",
+                "mathpix_content": "\n\nIf the charge of the body at $B$ were a unit of negative",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 108,
+                "line_number": 43,
+                "type": "text",
+                "content": "* \\{In this definition the dielectric separating the charged bodies is supposed to be",
+                "mathpix_content": "\n\n\\footnotetext{\n* \\{In this definition the dielectric separating the charged bodies is supposed to be",
+                "font_size": 21,
+                "confidence": 0.6432777782902122
+              },
+              {
+                "page": 108,
+                "line_number": 44,
+                "type": "text",
+                "content": "air. \\}",
+                "mathpix_content": " air. \\}\n}",
+                "font_size": 21,
+                "confidence": 0.98974609375
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 74,
+      "title": "ELECTROSTATICS.",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 67,
+      "title": "electricity, then, since the action between the bodies would be",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 39,
+      "title": "Law of Force between Charged Bodies.",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 66,
+      "title": "] Coulomb shewed by experiment that the force between",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 2,
+      "title": "}",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 74,
+      "title": "c, 74 d, 74 e$ that this law is the only",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 67,
+      "title": "] In order to calculate the resultant force between two",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 2,
+      "title": "}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{2}}$$",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 39,
+      "title": "\\section*{Law of Force between Charged Bodies.}",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 66,
+      "title": "] Coulomb shewed by experiment that the force between",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": "}",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 74,
+      "title": "c, 74 d, 74 e$ that this law is the only",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 67,
+      "title": "] In order to calculate the resultant force between two",
+      "page_start": 109,
+      "page_end": 108,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 2,
+      "title": "}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{2}}$$",
+      "page_start": 109,
+      "page_end": 109,
+      "articles": [
+        {
+          "article_id": "article_39",
+          "article_number": 39,
+          "title_original": "Law of Force between Charged Bodies.",
+          "title_safe": "Law of Force between Charged Bodies",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_39",
+          "article_number": 39,
+          "title_original": "\\section*{Law of Force between Charged Bodies.}",
+          "title_safe": "sectionASTERISKLaw of Force between Charged Bodies",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_67",
+          "article_number": 67,
+          "title_original": "electricity, then, since the action between the bodies would be",
+          "title_safe": "electricity then since the action between the bodies would b",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_39",
+          "article_number": 39,
+          "title_original": "Law of Force between Charged Bodies.",
+          "title_safe": "Law of Force between Charged Bodies",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_66",
+          "article_number": 66,
+          "title_original": "] Coulomb shewed by experiment that the force between",
+          "title_safe": "Coulomb shewed by experiment that the force between",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_67",
+          "article_number": 67,
+          "title_original": "] In order to calculate the resultant force between two",
+          "title_safe": "In order to calculate the resultant force between two",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_39",
+          "article_number": 39,
+          "title_original": "\\section*{Law of Force between Charged Bodies.}",
+          "title_safe": "sectionASTERISKLaw of Force between Charged Bodies",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_66",
+          "article_number": 66,
+          "title_original": "] Coulomb shewed by experiment that the force between",
+          "title_safe": "Coulomb shewed by experiment that the force between",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_67",
+          "article_number": 67,
+          "title_original": "] In order to calculate the resultant force between two",
+          "title_safe": "In order to calculate the resultant force between two",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_74",
+          "article_number": 74,
+          "title_original": "ELECTROSTATICS.",
+          "title_safe": "ELECTROSTATICS",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_67",
+          "article_number": 67,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_39",
+          "article_number": 39,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_66",
+          "article_number": 66,
+          "title_original": ".] Coulomb shewed by experiment that the force between",
+          "title_safe": "Coulomb shewed by experiment that the force between",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_74",
+          "article_number": 74,
+          "title_original": "c, 74 d, 74 e$ that this law is the only",
+          "title_safe": "c 74 d 74 e that this law is the only",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_67",
+          "article_number": 67,
+          "title_original": ".] In order to calculate the resultant force between two",
+          "title_safe": "In order to calculate the resultant force between two",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{2}}$$",
+          "title_safe": "pluslefty-yprimeright2plusleftz-zprimeright2right2",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_39",
+          "article_number": 39,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_66",
+          "article_number": 66,
+          "title_original": ".] Coulomb shewed by experiment that the force between",
+          "title_safe": "Coulomb shewed by experiment that the force between",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_74",
+          "article_number": 74,
+          "title_original": "c, 74 d, 74 e$ that this law is the only",
+          "title_safe": "c 74 d 74 e that this law is the only",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_67",
+          "article_number": 67,
+          "title_original": ".] In order to calculate the resultant force between two",
+          "title_safe": "In order to calculate the resultant force between two",
+          "page_start": 109,
+          "page_end": 108,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{2}}$$",
+          "title_safe": "pluslefty-yprimeright2plusleftz-zprimeright2right2",
+          "page_start": 109,
+          "page_end": 109,
+          "content": {
+            "raw_text": "\n--- Page 109 ---\n74\nELECTROSTATICS.\n[67.\nelectricity, then, since the action between the bodies would be\nreversed, we should have an attraction equal to the unit of force.\nIf the charge of $A$ were also negative, and equal to unity, the\nforce would be repulsive, and equal to unity.\nSince the action between any two portions of electricity is not\naffected by the presence of other portions, the repulsion between\n$e$ units of electricity at $A$ and $e^{\\prime}$ units at $B$ is $e e^{\\prime}$, the distance\n$A B$ being unity. See Art. 39.\nLaw of Force between Charged Bodies.\n66.] Coulomb shewed by experiment that the force between\ncharged bodies whose dimensions are small compared with the\ndistance between them, varies inversely as the square of the dis-\ntance. Hence the repulsion between two such bodies charged\nwith quantities $e$ and $e^{\\prime}$ and placed at a distance $r$ is\n$$\\begin{gathered}\ne e^{\\prime} \\\\\nr^{2}\n\\end{gathered}$$\nWe shall prove in Arts. $74 c, 74 d, 74 e$ that this law is the only\none consistent with the observed fact that a conductor, placed\nin the inside of a closed hollow conductor and in contact with\nit, is deprived of all electrical charge. Our conviction of the\naccuracy of the law of the inverse square of the distance may\nbe considered to rest on experiments of this kind, rather than\non the direct measurements of Coulomb.\nResultant Force between Two Bodies.\n67.] In order to calculate the resultant force between two\nbodies we might divide each of them into its elements of volume,\nand consider the repulsion between the electricity in each of the\nelements of the first body and the electricity in each of the\nelements of the second body. We should thus get a system of\nforces equal in number to the product of the numbers of the\nelements into which we have divided each body, and we should\nhave to combine the effects of these forces by the rules of Statics.\nThus, to find the component in the direction of $x$ we should\nhave to find the value of the sextuple integral\n$$\\iiint \\iiint \\frac{\\rho \\rho^{\\prime}\\left(x-x^{\\prime}\\right) d x d y d z d x^{\\prime} d y^{\\prime} d z^{\\prime}}{\\left\\{\\left(x-x^{\\prime}\\right)^{2}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{2}}$$\nwhere $x, y, z$ are the coordinates of a point in the first body at\n",
+            "mathpix_markdown": "\n--- Page 109 ---\n\nelectricity, then, since the action between the bodies would be\n reversed, we should have an attraction equal to the unit of force.\n If the charge of $A$ were also negative, and equal to unity, the\n force would be repulsive, and equal to unity.\n\n\nSince the action between any two portions of electricity is not\n affected by the presence of other portions, the repulsion between\n $e$ units of electricity at $A$ and $e^{\\prime}$ units at $B$ is $e e^{\\prime}$, the distance\n $A B$ being unity. See Art. 39.\n\n\n\\section*{Law of Force between Charged Bodies.}\n\n66.] Coulomb shewed by experiment that the force between\n charged bodies whose dimensions are small compared with the\n distance between them, varies inversely as the square of the dis\ntance. Hence the repulsion between two such bodies charged\n with quantities $e$ and $e^{\\prime}$ and placed at a distance $r$ is\n\n$$\\begin{gathered}\ne e^{\\prime} \\\\\nr^{2}\n\\end{gathered}$$\n\n\nWe shall prove in Arts. $74 c, 74 d, 74 e$ that this law is the only\n one consistent with the observed fact that a conductor, placed\n in the inside of a closed hollow conductor and in contact with\n it, is deprived of all electrical charge. Our conviction of the\n accuracy of the law of the inverse square of the distance may\n be considered to rest on experiments of this kind, rather than\n on the direct measurements of Coulomb.\n\n\n\\section*{Resultant Force between Two Bodies.}\n\n67.] In order to calculate the resultant force between two\n bodies we might divide each of them into its elements of volume,\n and consider the repulsion between the electricity in each of the\n elements of the first body and the electricity in each of the\n elements of the second body. We should thus get a system of\n forces equal in number to the product of the numbers of the\n elements into which we have divided each body, and we should\n have to combine the effects of these forces by the rules of Statics.\n Thus, to find the component in the direction of $x$ we should\n have to find the value of the sextuple integral\n\n$$\\iiint \\iiint \\frac{\\rho \\rho^{\\prime}\\left(x-x^{\\prime}\\right) d x d y d z d x^{\\prime} d y^{\\prime} d z^{\\prime}}{\\left\\{\\left(x-x^{\\prime}\\right)^{2}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{2}}$$\n\nwhere $x, y, z$ are the coordinates of a point in the first body at\n",
+            "structured_lines": [
+              {
+                "page": 109,
+                "line_number": 4,
+                "type": "text",
+                "content": "electricity, then, since the action between the bodies would be",
+                "mathpix_content": "\nelectricity, then, since the action between the bodies would be",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 5,
+                "type": "text",
+                "content": "reversed, we should have an attraction equal to the unit of force.",
+                "mathpix_content": " reversed, we should have an attraction equal to the unit of force.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 109,
+                "line_number": 6,
+                "type": "text",
+                "content": "If the charge of $A$ were also negative, and equal to unity, the",
+                "mathpix_content": " If the charge of $A$ were also negative, and equal to unity, the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 7,
+                "type": "text",
+                "content": "force would be repulsive, and equal to unity.",
+                "mathpix_content": " force would be repulsive, and equal to unity.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 8,
+                "type": "text",
+                "content": "Since the action between any two portions of electricity is not",
+                "mathpix_content": "\n\nSince the action between any two portions of electricity is not",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 109,
+                "line_number": 9,
+                "type": "text",
+                "content": "affected by the presence of other portions, the repulsion between",
+                "mathpix_content": " affected by the presence of other portions, the repulsion between",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 10,
+                "type": "text",
+                "content": "$e$ units of electricity at $A$ and $e^{\\prime}$ units at $B$ is $e e^{\\prime}$, the distance",
+                "mathpix_content": " $e$ units of electricity at $A$ and $e^{\\prime}$ units at $B$ is $e e^{\\prime}$, the distance",
+                "font_size": 34,
+                "confidence": 0.9892578125
+              },
+              {
+                "page": 109,
+                "line_number": 11,
+                "type": "text",
+                "content": "$A B$ being unity. See Art. 39.",
+                "mathpix_content": " $A B$ being unity. See Art. 39.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 13,
+                "type": "text",
+                "content": "66.] Coulomb shewed by experiment that the force between",
+                "mathpix_content": "\n66.] Coulomb shewed by experiment that the force between",
+                "font_size": 34,
+                "confidence": 0.9980475902557373
+              },
+              {
+                "page": 109,
+                "line_number": 14,
+                "type": "text",
+                "content": "charged bodies whose dimensions are small compared with the",
+                "mathpix_content": " charged bodies whose dimensions are small compared with the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 15,
+                "type": "text",
+                "content": "distance between them, varies inversely as the square of the dis-",
+                "mathpix_content": " distance between them, varies inversely as the square of the dis",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 16,
+                "type": "text",
+                "content": "tance. Hence the repulsion between two such bodies charged",
+                "mathpix_content": "tance. Hence the repulsion between two such bodies charged",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 17,
+                "type": "text",
+                "content": "with quantities $e$ and $e^{\\prime}$ and placed at a distance $r$ is",
+                "mathpix_content": " with quantities $e$ and $e^{\\prime}$ and placed at a distance $r$ is",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 21,
+                "type": "text",
+                "content": "We shall prove in Arts. $74 c, 74 d, 74 e$ that this law is the only",
+                "mathpix_content": "\n\nWe shall prove in Arts. $74 c, 74 d, 74 e$ that this law is the only",
+                "font_size": 34,
+                "confidence": 0.9975600242614746
+              },
+              {
+                "page": 109,
+                "line_number": 22,
+                "type": "text",
+                "content": "one consistent with the observed fact that a conductor, placed",
+                "mathpix_content": " one consistent with the observed fact that a conductor, placed",
+                "font_size": 34,
+                "confidence": 0.98974609375
+              },
+              {
+                "page": 109,
+                "line_number": 23,
+                "type": "text",
+                "content": "in the inside of a closed hollow conductor and in contact with",
+                "mathpix_content": " in the inside of a closed hollow conductor and in contact with",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 24,
+                "type": "text",
+                "content": "it, is deprived of all electrical charge. Our conviction of the",
+                "mathpix_content": " it, is deprived of all electrical charge. Our conviction of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 25,
+                "type": "text",
+                "content": "accuracy of the law of the inverse square of the distance may",
+                "mathpix_content": " accuracy of the law of the inverse square of the distance may",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 26,
+                "type": "text",
+                "content": "be considered to rest on experiments of this kind, rather than",
+                "mathpix_content": " be considered to rest on experiments of this kind, rather than",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 27,
+                "type": "text",
+                "content": "on the direct measurements of Coulomb.",
+                "mathpix_content": " on the direct measurements of Coulomb.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 29,
+                "type": "text",
+                "content": "67.] In order to calculate the resultant force between two",
+                "mathpix_content": "\n67.] In order to calculate the resultant force between two",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 30,
+                "type": "text",
+                "content": "bodies we might divide each of them into its elements of volume,",
+                "mathpix_content": " bodies we might divide each of them into its elements of volume,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 31,
+                "type": "text",
+                "content": "and consider the repulsion between the electricity in each of the",
+                "mathpix_content": " and consider the repulsion between the electricity in each of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 32,
+                "type": "text",
+                "content": "elements of the first body and the electricity in each of the",
+                "mathpix_content": " elements of the first body and the electricity in each of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 33,
+                "type": "text",
+                "content": "elements of the second body. We should thus get a system of",
+                "mathpix_content": " elements of the second body. We should thus get a system of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 34,
+                "type": "text",
+                "content": "forces equal in number to the product of the numbers of the",
+                "mathpix_content": " forces equal in number to the product of the numbers of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 35,
+                "type": "text",
+                "content": "elements into which we have divided each body, and we should",
+                "mathpix_content": " elements into which we have divided each body, and we should",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 36,
+                "type": "text",
+                "content": "have to combine the effects of these forces by the rules of Statics.",
+                "mathpix_content": " have to combine the effects of these forces by the rules of Statics.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 37,
+                "type": "text",
+                "content": "Thus, to find the component in the direction of $x$ we should",
+                "mathpix_content": " Thus, to find the component in the direction of $x$ we should",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 38,
+                "type": "text",
+                "content": "have to find the value of the sextuple integral",
+                "mathpix_content": " have to find the value of the sextuple integral",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 109,
+                "line_number": 41,
+                "type": "text",
+                "content": "where $x, y, z$ are the coordinates of a point in the first body at",
+                "mathpix_content": "\nwhere $x, y, z$ are the coordinates of a point in the first body at",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 68,
+      "title": "]",
+      "page_start": 110,
+      "page_end": 109,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 75,
+      "title": "which the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the",
+      "page_start": 110,
+      "page_end": 109,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 68,
+      "title": "] In order to simplify the mathematical process, it is con-",
+      "page_start": 110,
+      "page_end": 109,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 68,
+      "title": "] In order to simplify the mathematical process, it is con",
+      "page_start": 110,
+      "page_end": 110,
+      "articles": [
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 110,
+          "page_end": 109,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": "] In order to simplify the mathematical process, it is con-",
+          "title_safe": "In order to simplify the mathematical process it is con",
+          "page_start": 110,
+          "page_end": 109,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": "] In order to simplify the mathematical process, it is con",
+          "title_safe": "In order to simplify the mathematical process it is con",
+          "page_start": 110,
+          "page_end": 109,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 110,
+          "page_end": 109,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": "which the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the",
+          "title_safe": "which the electrical density is rho and xprime yprime zprime",
+          "page_start": 110,
+          "page_end": 109,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": ".] In order to simplify the mathematical process, it is con-",
+          "title_safe": "In order to simplify the mathematical process it is con",
+          "page_start": 110,
+          "page_end": 109,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": ".] In order to simplify the mathematical process, it is con",
+          "title_safe": "In order to simplify the mathematical process it is con",
+          "page_start": 110,
+          "page_end": 110,
+          "content": {
+            "raw_text": "\n--- Page 110 ---\n68.]\nRESULTANT INTENSITY AT A POINT.\n75\nwhich the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the\ncorresponding quantities for the second body, and the integration\nis extended first over the one body and then over the other.\n\nResultant Intensity at a Point.\n68.] In order to simplify the mathematical process, it is con-\nvenient to consider the action of an electritied body, not on\nanother body of any form, but on an indefinitely small body,\ncharged with an indefinitely small amount of electricity, and\nplaced at any point of the space to which the electrical action\nextends. By making the charge of this body indefinitely small\nwe render insensible its disturbing action on the charge of the\nfirst body.\nLet $e$ be the charge of the small body, and let the force acting\non it when placed at the point $(x, y, z)$ be $R e$, and let the\ndirection-cosines of the force be $l, m, n$, then we may call $R$ the\nresultant electric intensity at the point ( $x, y, z$ ).\nIf $X, Y, Z$ denote the components of $R$, then\n$$X=R l, \\quad Y=R m, \\quad Z=R n .$$\nIn speaking of the resultant electric intensity at a point, we\ndo not necessarily imply that any force is actually exerted there,\nbut only that if an electrified body were placed there it would be\nacted on by a force $R e$, where $e$ is the charge of the body *.\nDefinition. The resultant electric intensity at any point is\nthe force which would be exerted on a small body charged with\nthe unit of positive electricity, if it were placed there without\ndisturbing the actual distribution of electricity.\nThis force not only tends to move a body charged with\nelectricity, but to move the electricity within the body, so that\nthe positive electricity tends to move in the direction of $R$ and\nthe negative electricity in the opposite direction. Hence the\nquantity $R$ is also called the Electromotive Intensity at the\npoint $(x, y, z)$.\nWhen we wish to express the fact that the resultant intensity\nis a vector, we shall denote it by the German letter C. If the\nbody is a dielectric, then, according to the theory adopted in\nthis treatise, the electricity is displaced within it, so that the\n\n* The Electric and Magnetic Intensities correspond, in electricity and magnetism,\nto the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.\n",
+            "mathpix_markdown": "\n--- Page 110 ---\n\nwhich the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the\n corresponding quantities for the second body, and the integration\n is extended first over the one body and then over the other.\n\n\n\\section*{Resultant Intensity at a Point.}\n\n68.] In order to simplify the mathematical process, it is con\nvenient to consider the action of an electritied body, not on\n another body of any form, but on an indefinitely small body,\n charged with an indefinitely small amount of electricity, and\n placed at any point of the space to which the electrical action\n extends. By making the charge of this body indefinitely small\n we render insensible its disturbing action on the charge of the\n first body.\n\n\nLet $e$ be the charge of the small body, and let the force acting\n on it when placed at the point $(x, y, z)$ be $R e$, and let the\n direction-cosines of the force be $l, m, n$, then we may call $R$ the\n resultant electric intensity at the point ( $x, y, z$ ).\n\n\nIf $X, Y, Z$ denote the components of $R$, then\n\n$$X=R l, \\quad Y=R m, \\quad Z=R n .$$\n\n\nIn speaking of the resultant electric intensity at a point, we\n do not necessarily imply that any force is actually exerted there,\n but only that if an electrified body were placed there it would be\n acted on by a force $R e$, where $e$ is the charge of the body *.\n\n\nDefinition. The resultant electric intensity at any point is\n the force which would be exerted on a small body charged with\n the unit of positive electricity, if it were placed there without\n disturbing the actual distribution of electricity.\n\n\nThis force not only tends to move a body charged with\n electricity, but to move the electricity within the body, so that\n the positive electricity tends to move in the direction of $R$ and\n the negative electricity in the opposite direction. Hence the\n quantity $R$ is also called the Electromotive Intensity at the\n point $(x, y, z)$.\n\n\nWhen we wish to express the fact that the resultant intensity\n is a vector, we shall denote it by the German letter C. If the\n body is a dielectric, then, according to the theory adopted in\n this treatise, the electricity is displaced within it, so that the\n\n\n\\footnotetext{\n* The Electric and Magnetic Intensities correspond, in electricity and magnetism,\n to the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.\n}\n",
+            "structured_lines": [
+              {
+                "page": 110,
+                "line_number": 4,
+                "type": "text",
+                "content": "which the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the",
+                "mathpix_content": "\nwhich the electrical density is $\\rho$, and $x^{\\prime}, y^{\\prime}, z^{\\prime}$, and $\\rho^{\\prime}$ are the",
+                "font_size": 27,
+                "confidence": 0.9931640625
+              },
+              {
+                "page": 110,
+                "line_number": 5,
+                "type": "text",
+                "content": "corresponding quantities for the second body, and the integration",
+                "mathpix_content": " corresponding quantities for the second body, and the integration",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 6,
+                "type": "text",
+                "content": "is extended first over the one body and then over the other.",
+                "mathpix_content": " is extended first over the one body and then over the other.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 8,
+                "type": "text",
+                "content": "Resultant Intensity at a Point.",
+                "mathpix_content": "\n\n\\section*{Resultant Intensity at a Point.}",
+                "font_size": 34,
+                "confidence": 0.9970722198486328
+              },
+              {
+                "page": 110,
+                "line_number": 9,
+                "type": "text",
+                "content": "68.] In order to simplify the mathematical process, it is con-",
+                "mathpix_content": "\n68.] In order to simplify the mathematical process, it is con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 10,
+                "type": "text",
+                "content": "venient to consider the action of an electritied body, not on",
+                "mathpix_content": "venient to consider the action of an electritied body, not on",
+                "font_size": 27,
+                "confidence": 0.9814453125
+              },
+              {
+                "page": 110,
+                "line_number": 11,
+                "type": "text",
+                "content": "another body of any form, but on an indefinitely small body,",
+                "mathpix_content": " another body of any form, but on an indefinitely small body,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 12,
+                "type": "text",
+                "content": "charged with an indefinitely small amount of electricity, and",
+                "mathpix_content": " charged with an indefinitely small amount of electricity, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 13,
+                "type": "text",
+                "content": "placed at any point of the space to which the electrical action",
+                "mathpix_content": " placed at any point of the space to which the electrical action",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 14,
+                "type": "text",
+                "content": "extends. By making the charge of this body indefinitely small",
+                "mathpix_content": " extends. By making the charge of this body indefinitely small",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 15,
+                "type": "text",
+                "content": "we render insensible its disturbing action on the charge of the",
+                "mathpix_content": " we render insensible its disturbing action on the charge of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 16,
+                "type": "text",
+                "content": "first body.",
+                "mathpix_content": " first body.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 17,
+                "type": "text",
+                "content": "Let $e$ be the charge of the small body, and let the force acting",
+                "mathpix_content": "\n\nLet $e$ be the charge of the small body, and let the force acting",
+                "font_size": 27,
+                "confidence": 0.99267578125
+              },
+              {
+                "page": 110,
+                "line_number": 18,
+                "type": "text",
+                "content": "on it when placed at the point $(x, y, z)$ be $R e$, and let the",
+                "mathpix_content": " on it when placed at the point $(x, y, z)$ be $R e$, and let the",
+                "font_size": 27,
+                "confidence": 0.9907341003417969
+              },
+              {
+                "page": 110,
+                "line_number": 19,
+                "type": "text",
+                "content": "direction-cosines of the force be $l, m, n$, then we may call $R$ the",
+                "mathpix_content": " direction-cosines of the force be $l, m, n$, then we may call $R$ the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 110,
+                "line_number": 20,
+                "type": "text",
+                "content": "resultant electric intensity at the point ( $x, y, z$ ).",
+                "mathpix_content": " resultant electric intensity at the point ( $x, y, z$ ).",
+                "font_size": 27,
+                "confidence": 0.5029226586912046
+              },
+              {
+                "page": 110,
+                "line_number": 21,
+                "type": "text",
+                "content": "If $X, Y, Z$ denote the components of $R$, then",
+                "mathpix_content": "\n\nIf $X, Y, Z$ denote the components of $R$, then",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 24,
+                "type": "text",
+                "content": "In speaking of the resultant electric intensity at a point, we",
+                "mathpix_content": "\n\nIn speaking of the resultant electric intensity at a point, we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 25,
+                "type": "text",
+                "content": "do not necessarily imply that any force is actually exerted there,",
+                "mathpix_content": " do not necessarily imply that any force is actually exerted there,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 26,
+                "type": "text",
+                "content": "but only that if an electrified body were placed there it would be",
+                "mathpix_content": " but only that if an electrified body were placed there it would be",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 110,
+                "line_number": 27,
+                "type": "text",
+                "content": "acted on by a force $R e$, where $e$ is the charge of the body *.",
+                "mathpix_content": " acted on by a force $R e$, where $e$ is the charge of the body *.",
+                "font_size": 27,
+                "confidence": 0.85400390625
+              },
+              {
+                "page": 110,
+                "line_number": 28,
+                "type": "text",
+                "content": "Definition. The resultant electric intensity at any point is",
+                "mathpix_content": "\n\nDefinition. The resultant electric intensity at any point is",
+                "font_size": 27,
+                "confidence": 0.99072265625
+              },
+              {
+                "page": 110,
+                "line_number": 29,
+                "type": "text",
+                "content": "the force which would be exerted on a small body charged with",
+                "mathpix_content": " the force which would be exerted on a small body charged with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 30,
+                "type": "text",
+                "content": "the unit of positive electricity, if it were placed there without",
+                "mathpix_content": " the unit of positive electricity, if it were placed there without",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 31,
+                "type": "text",
+                "content": "disturbing the actual distribution of electricity.",
+                "mathpix_content": " disturbing the actual distribution of electricity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 32,
+                "type": "text",
+                "content": "This force not only tends to move a body charged with",
+                "mathpix_content": "\n\nThis force not only tends to move a body charged with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 33,
+                "type": "text",
+                "content": "electricity, but to move the electricity within the body, so that",
+                "mathpix_content": " electricity, but to move the electricity within the body, so that",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 34,
+                "type": "text",
+                "content": "the positive electricity tends to move in the direction of $R$ and",
+                "mathpix_content": " the positive electricity tends to move in the direction of $R$ and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 35,
+                "type": "text",
+                "content": "the negative electricity in the opposite direction. Hence the",
+                "mathpix_content": " the negative electricity in the opposite direction. Hence the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 36,
+                "type": "text",
+                "content": "quantity $R$ is also called the Electromotive Intensity at the",
+                "mathpix_content": " quantity $R$ is also called the Electromotive Intensity at the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 110,
+                "line_number": 37,
+                "type": "text",
+                "content": "point $(x, y, z)$.",
+                "mathpix_content": " point $(x, y, z)$.",
+                "font_size": 27,
+                "confidence": 0.8173828125
+              },
+              {
+                "page": 110,
+                "line_number": 38,
+                "type": "text",
+                "content": "When we wish to express the fact that the resultant intensity",
+                "mathpix_content": "\n\nWhen we wish to express the fact that the resultant intensity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 39,
+                "type": "text",
+                "content": "is a vector, we shall denote it by the German letter C. If the",
+                "mathpix_content": " is a vector, we shall denote it by the German letter C. If the",
+                "font_size": 27,
+                "confidence": 0.78466796875
+              },
+              {
+                "page": 110,
+                "line_number": 40,
+                "type": "text",
+                "content": "body is a dielectric, then, according to the theory adopted in",
+                "mathpix_content": " body is a dielectric, then, according to the theory adopted in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 41,
+                "type": "text",
+                "content": "this treatise, the electricity is displaced within it, so that the",
+                "mathpix_content": " this treatise, the electricity is displaced within it, so that the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 110,
+                "line_number": 43,
+                "type": "text",
+                "content": "* The Electric and Magnetic Intensities correspond, in electricity and magnetism,",
+                "mathpix_content": "\n\n\\footnotetext{\n* The Electric and Magnetic Intensities correspond, in electricity and magnetism,",
+                "font_size": 21,
+                "confidence": 0.992196798324585
+              },
+              {
+                "page": 110,
+                "line_number": 44,
+                "type": "text",
+                "content": "to the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.",
+                "mathpix_content": " to the intensity of gravity, commonly denoted by $g$, in the theory of heavy bodies.\n}",
+                "font_size": 21,
+                "confidence": 0.9326171875
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 76,
+      "title": "ELECTROSTATICS.",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 69,
+      "title": "quantity of electricity which is forced in the direction of \\& across",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} K \\mathfrak{C} ;$$",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 69,
+      "title": "] The Electromotive force along a given arc $A P$ of a curve",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 8,
+      "title": "is the length of the arc, measured from $A$, and if the re-",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 0,
+      "title": "}^{\\cdot} R \\cos \\epsilon d s,$$",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 0,
+      "title": "}^{0}\\left(X \\frac{d x}{d s}+Y \\frac{d y}{d s}+Z \\frac{d z}{d s}\\right) d s .$$",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} K \\mathfrak{C} ;$$",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 69,
+      "title": "] The Electromotive force along a given arc $A P$ of a curve",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 8,
+      "title": "is the length of the arc, measured from $A$, and if the re",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 0,
+      "title": "}^{\\cdot} R \\cos \\epsilon d s,$$",
+      "page_start": 111,
+      "page_end": 110,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 0,
+      "title": "}^{0}\\left(X \\frac{d x}{d s}+Y \\frac{d y}{d s}+Z \\frac{d z}{d s}\\right) d s .$$",
+      "page_start": 111,
+      "page_end": 111,
+      "articles": [
+        {
+          "article_id": "article_69",
+          "article_number": 69,
+          "title_original": "quantity of electricity which is forced in the direction of \\& across",
+          "title_safe": "quantity of electricity which is forced in the direction of",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_69",
+          "article_number": 69,
+          "title_original": "] The Electromotive force along a given arc $A P$ of a curve",
+          "title_safe": "The Electromotive force along a given arc A P of a curve",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_69",
+          "article_number": 69,
+          "title_original": "] The Electromotive force along a given arc $A P$ of a curve",
+          "title_safe": "The Electromotive force along a given arc A P of a curve",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": "ELECTROSTATICS.",
+          "title_safe": "ELECTROSTATICS",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_69",
+          "article_number": 69,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} K \\mathfrak{C} ;$$",
+          "title_safe": "4 pi K mathfrakC",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_69",
+          "article_number": 69,
+          "title_original": ".] The Electromotive force along a given arc $A P$ of a curve",
+          "title_safe": "The Electromotive force along a given arc A P of a curve",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "is the length of the arc, measured from $A$, and if the re-",
+          "title_safe": "is the length of the arc measured from A and if the re",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{\\cdot} R \\cos \\epsilon d s,$$",
+          "title_safe": "cdot R cos epsilon d s",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{0}\\left(X \\frac{d x}{d s}+Y \\frac{d y}{d s}+Z \\frac{d z}{d s}\\right) d s .$$",
+          "title_safe": "0leftX fracd xd splusY fracd yd splusZ fracd zd sright d s",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} K \\mathfrak{C} ;$$",
+          "title_safe": "4 pi K mathfrakC",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_69",
+          "article_number": 69,
+          "title_original": ".] The Electromotive force along a given arc $A P$ of a curve",
+          "title_safe": "The Electromotive force along a given arc A P of a curve",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "is the length of the arc, measured from $A$, and if the re",
+          "title_safe": "is the length of the arc measured from A and if the re",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{\\cdot} R \\cos \\epsilon d s,$$",
+          "title_safe": "cdot R cos epsilon d s",
+          "page_start": 111,
+          "page_end": 110,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}^{0}\\left(X \\frac{d x}{d s}+Y \\frac{d y}{d s}+Z \\frac{d z}{d s}\\right) d s .$$",
+          "title_safe": "0leftX fracd xd splusY fracd yd splusZ fracd zd sright d s",
+          "page_start": 111,
+          "page_end": 111,
+          "content": {
+            "raw_text": "\n--- Page 111 ---\n76\nELECTROSTATICS.\n[69.\nquantity of electricity which is forced in the direction of \\& across\nunit of area fixed perpendicular to \\& is\n$$\\mathfrak{D}=\\frac{1}{4 \\pi} K \\mathfrak{C} ;$$\nwhere $\\mathfrak{D}$ is the displacement, $\\&$ the resultant intensity, and $K$ the\nspecific inductive capacity of the dielectric.\nIf the body is a conductor, the state of constraint is continually\ngiving way, so that a current of conduction is produced and\nmaintained as long as C acts on the medium.\n\nLine-Integral of Electric Intensity, or Electromotive Force\nalong an Arc of a Curve.\n69.] The Electromotive force along a given arc $A P$ of a curve\nis numerically measured by the work which would be done by\nthe electric intensity on a unit of positive electricity carried along\nthe curve from $A$, the beginning, to $P$, the end of the arc.\nIf 8 is the length of the arc, measured from $A$, and if the re-\nsultant intensity $R$ at any point of the curve makes an angle $\\epsilon$\nwith the tangent drawn in the positive direction, then the work\ndone on unit of electricity in moving along the element of the\ncurve $d s$ will be\n$$R \\cos \\epsilon d s,$$\nand the total electromotive force $E$ will be\n$$E=\\int_{0}^{\\cdot} R \\cos \\epsilon d s,$$\nthe integration being extended from the beginning to the end\nof the arc.\nIf we make use of the components of the intensity, the ex-\npression becomes\n$$E=\\int_{0}^{0}\\left(X \\frac{d x}{d s}+Y \\frac{d y}{d s}+Z \\frac{d z}{d s}\\right) d s .$$\nIf $X, Y$, and $Z$ are such that $X d x+Y d y+Z d z$ is the complete\ndifferential of $-V$, a function of $x, y, z$, then\n$$E=\\int_{A}^{P}(X d x+Y d y+Z d z)=-\\int_{A}^{P} d V=V_{A}-V_{P}$$\nwhere the integration is performed in any way from the point $A$\nto the point $P$, whether along the given curve or along any other\nline between $A$ and $P$.\n",
+            "mathpix_markdown": "\n--- Page 111 ---\n\nquantity of electricity which is forced in the direction of \\& across\n unit of area fixed perpendicular to \\& is\n\n$$\\mathfrak{D}=\\frac{1}{4 \\pi} K \\mathfrak{C} ;$$\n\nwhere $\\mathfrak{D}$ is the displacement, $\\&$ the resultant intensity, and $K$ the\n specific inductive capacity of the dielectric.\n\n\nIf the body is a conductor, the state of constraint is continually\n giving way, so that a current of conduction is produced and\n maintained as long as C acts on the medium.\n\n\n\\section*{Line-Integral of Electric Intensity, or Electromotive Force\n along an Arc of a Curve.}\n\n69.] The Electromotive force along a given arc $A P$ of a curve\n is numerically measured by the work which would be done by\n the electric intensity on a unit of positive electricity carried along\n the curve from $A$, the beginning, to $P$, the end of the arc.\n\n\nIf 8 is the length of the arc, measured from $A$, and if the re\nsultant intensity $R$ at any point of the curve makes an angle $\\epsilon$\n with the tangent drawn in the positive direction, then the work\n done on unit of electricity in moving along the element of the\n curve $d s$ will be\n\n$$R \\cos \\epsilon d s,$$\n\nand the total electromotive force $E$ will be\n\n$$E=\\int_{0}^{\\cdot} R \\cos \\epsilon d s,$$\n\nthe integration being extended from the beginning to the end\n of the arc.\n\n\nIf we make use of the components of the intensity, the ex\npression becomes\n\n$$E=\\int_{0}^{0}\\left(X \\frac{d x}{d s}+Y \\frac{d y}{d s}+Z \\frac{d z}{d s}\\right) d s .$$\n\n\nIf $X, Y$, and $Z$ are such that $X d x+Y d y+Z d z$ is the complete\n differential of $-V$, a function of $x, y, z$, then\n\n$$E=\\int_{A}^{P}(X d x+Y d y+Z d z)=-\\int_{A}^{P} d V=V_{A}-V_{P}$$\n\nwhere the integration is performed in any way from the point $A$\n to the point $P$, whether along the given curve or along any other\n line between $A$ and $P$.\n",
+            "structured_lines": [
+              {
+                "page": 111,
+                "line_number": 4,
+                "type": "text",
+                "content": "quantity of electricity which is forced in the direction of \\& across",
+                "mathpix_content": "\nquantity of electricity which is forced in the direction of \\& across",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 111,
+                "line_number": 5,
+                "type": "text",
+                "content": "unit of area fixed perpendicular to \\& is",
+                "mathpix_content": " unit of area fixed perpendicular to \\& is",
+                "font_size": 27,
+                "confidence": 0.7282309532165527
+              },
+              {
+                "page": 111,
+                "line_number": 8,
+                "type": "text",
+                "content": "where $\\mathfrak{D}$ is the displacement, $\\&$ the resultant intensity, and $K$ the",
+                "mathpix_content": "\nwhere $\\mathfrak{D}$ is the displacement, $\\&$ the resultant intensity, and $K$ the",
+                "font_size": 27,
+                "confidence": 0.4586652981233783
+              },
+              {
+                "page": 111,
+                "line_number": 9,
+                "type": "text",
+                "content": "specific inductive capacity of the dielectric.",
+                "mathpix_content": " specific inductive capacity of the dielectric.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 10,
+                "type": "text",
+                "content": "If the body is a conductor, the state of constraint is continually",
+                "mathpix_content": "\n\nIf the body is a conductor, the state of constraint is continually",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 11,
+                "type": "text",
+                "content": "giving way, so that a current of conduction is produced and",
+                "mathpix_content": " giving way, so that a current of conduction is produced and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 12,
+                "type": "text",
+                "content": "maintained as long as C acts on the medium.",
+                "mathpix_content": " maintained as long as C acts on the medium.",
+                "font_size": 27,
+                "confidence": 0.9137725830078125
+              },
+              {
+                "page": 111,
+                "line_number": 14,
+                "type": "text",
+                "content": "Line-Integral of Electric Intensity, or Electromotive Force",
+                "mathpix_content": "\n\n\\section*{Line-Integral of Electric Intensity, or Electromotive Force",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 15,
+                "type": "text",
+                "content": "along an Arc of a Curve.",
+                "mathpix_content": " along an Arc of a Curve.}",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 16,
+                "type": "text",
+                "content": "69.] The Electromotive force along a given arc $A P$ of a curve",
+                "mathpix_content": "\n69.] The Electromotive force along a given arc $A P$ of a curve",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 111,
+                "line_number": 17,
+                "type": "text",
+                "content": "is numerically measured by the work which would be done by",
+                "mathpix_content": " is numerically measured by the work which would be done by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 18,
+                "type": "text",
+                "content": "the electric intensity on a unit of positive electricity carried along",
+                "mathpix_content": " the electric intensity on a unit of positive electricity carried along",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 19,
+                "type": "text",
+                "content": "the curve from $A$, the beginning, to $P$, the end of the arc.",
+                "mathpix_content": " the curve from $A$, the beginning, to $P$, the end of the arc.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 20,
+                "type": "text",
+                "content": "If 8 is the length of the arc, measured from $A$, and if the re-",
+                "mathpix_content": "\n\nIf 8 is the length of the arc, measured from $A$, and if the re",
+                "font_size": 27,
+                "confidence": 0.9732272004612241
+              },
+              {
+                "page": 111,
+                "line_number": 21,
+                "type": "text",
+                "content": "sultant intensity $R$ at any point of the curve makes an angle $\\epsilon$",
+                "mathpix_content": "sultant intensity $R$ at any point of the curve makes an angle $\\epsilon$",
+                "font_size": 27,
+                "confidence": 0.9381885528564453
+              },
+              {
+                "page": 111,
+                "line_number": 22,
+                "type": "text",
+                "content": "with the tangent drawn in the positive direction, then the work",
+                "mathpix_content": " with the tangent drawn in the positive direction, then the work",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 23,
+                "type": "text",
+                "content": "done on unit of electricity in moving along the element of the",
+                "mathpix_content": " done on unit of electricity in moving along the element of the",
+                "font_size": 27,
+                "confidence": 0.89306640625
+              },
+              {
+                "page": 111,
+                "line_number": 24,
+                "type": "text",
+                "content": "curve $d s$ will be",
+                "mathpix_content": " curve $d s$ will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 27,
+                "type": "text",
+                "content": "and the total electromotive force $E$ will be",
+                "mathpix_content": "\nand the total electromotive force $E$ will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 30,
+                "type": "text",
+                "content": "the integration being extended from the beginning to the end",
+                "mathpix_content": "\nthe integration being extended from the beginning to the end",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 31,
+                "type": "text",
+                "content": "of the arc.",
+                "mathpix_content": " of the arc.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 32,
+                "type": "text",
+                "content": "If we make use of the components of the intensity, the ex-",
+                "mathpix_content": "\n\nIf we make use of the components of the intensity, the ex",
+                "font_size": 27,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 111,
+                "line_number": 33,
+                "type": "text",
+                "content": "pression becomes",
+                "mathpix_content": "pression becomes",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 36,
+                "type": "text",
+                "content": "If $X, Y$, and $Z$ are such that $X d x+Y d y+Z d z$ is the complete",
+                "mathpix_content": "\n\nIf $X, Y$, and $Z$ are such that $X d x+Y d y+Z d z$ is the complete",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 37,
+                "type": "text",
+                "content": "differential of $-V$, a function of $x, y, z$, then",
+                "mathpix_content": " differential of $-V$, a function of $x, y, z$, then",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 40,
+                "type": "text",
+                "content": "where the integration is performed in any way from the point $A$",
+                "mathpix_content": "\nwhere the integration is performed in any way from the point $A$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 41,
+                "type": "text",
+                "content": "to the point $P$, whether along the given curve or along any other",
+                "mathpix_content": " to the point $P$, whether along the given curve or along any other",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 111,
+                "line_number": 42,
+                "type": "text",
+                "content": "line between $A$ and $P$.",
+                "mathpix_content": " line between $A$ and $P$.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 70,
+      "title": "]",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 77,
+      "title": "In this case $V$ is a scalar function of the position of a point in",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 16,
+      "title": "On Functions of the Position of a Point.",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 70,
+      "title": "] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 1,
+      "title": "}$ be the distance of one of the points from the",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 1,
+      "title": "}$ be the repulsion, then",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 1,
+      "title": "}=R_{1} \\frac{x-x_{1}}{r_{1}}=R_{1} \\frac{d r_{1}}{d x},$$",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 1,
+      "title": "}$ and $Z_{1}$, so that",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 1,
+      "title": "} d x+Y_{1} d y+Z_{1} d z=R_{1} d r_{1}$$",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 1,
+      "title": "}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ-",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 1,
+      "title": "}$, say $-V_{1}$.",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 2,
+      "title": "}$, acting from a centre at dis-",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 2,
+      "title": "}}$,",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 2,
+      "title": "} d x+Y_{2} d y+Z_{2} d z=R_{2} d r_{2}=-d V_{2} .$$",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 1,
+      "title": "}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 1,
+      "title": "}-d V_{2}-\\text { \\&c. }=-d V .$$",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_67",
+      "chapter_number": 16,
+      "title": "\\section*{On Functions of the Position of a Point.}",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_68",
+      "chapter_number": 70,
+      "title": "] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_69",
+      "chapter_number": 1,
+      "title": "}$ be the distance of one of the points from the",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_70",
+      "chapter_number": 1,
+      "title": "}$ be the repulsion, then",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_71",
+      "chapter_number": 1,
+      "title": "}=R_{1} \\frac{x-x_{1}}{r_{1}}=R_{1} \\frac{d r_{1}}{d x},$$",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_72",
+      "chapter_number": 1,
+      "title": "}$ and $Z_{1}$, so that",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_73",
+      "chapter_number": 1,
+      "title": "} d x+Y_{1} d y+Z_{1} d z=R_{1} d r_{1}$$",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_74",
+      "chapter_number": 1,
+      "title": "}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_75",
+      "chapter_number": 1,
+      "title": "}$, say $-V_{1}$.",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_76",
+      "chapter_number": 2,
+      "title": "}$, acting from a centre at dis",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_77",
+      "chapter_number": 2,
+      "title": "}}$,",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_78",
+      "chapter_number": 2,
+      "title": "} d x+Y_{2} d y+Z_{2} d z=R_{2} d r_{2}=-d V_{2} .$$",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_79",
+      "chapter_number": 1,
+      "title": "}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same",
+      "page_start": 112,
+      "page_end": 111,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_80",
+      "chapter_number": 1,
+      "title": "}-d V_{2}-\\text { \\&c. }=-d V .$$",
+      "page_start": 112,
+      "page_end": 112,
+      "articles": [
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": "On Functions of the Position of a Point.",
+          "title_safe": "On Functions of the Position of a Point",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": "\\section*{On Functions of the Position of a Point.}",
+          "title_safe": "sectionASTERISKOn Functions of the Position of a Point",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_70",
+          "article_number": 70,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": "On Functions of the Position of a Point.",
+          "title_safe": "On Functions of the Position of a Point",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_70",
+          "article_number": 70,
+          "title_original": "] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+          "title_safe": "The quantity X d xplusY d yplusZ d z is an exact differentia",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": "\\section*{On Functions of the Position of a Point.}",
+          "title_safe": "sectionASTERISKOn Functions of the Position of a Point",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_70",
+          "article_number": 70,
+          "title_original": "] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+          "title_safe": "The quantity X d xplusY d yplusZ d z is an exact differentia",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_70",
+          "article_number": 70,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": "In this case $V$ is a scalar function of the position of a point in",
+          "title_safe": "In this case V is a scalar function of the position of a poi",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_70",
+          "article_number": 70,
+          "title_original": ".] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+          "title_safe": "The quantity X d xplusY d yplusZ d z is an exact different",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ be the distance of one of the points from the",
+          "title_safe": "be the distance of one of the points from the",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ be the repulsion, then",
+          "title_safe": "be the repulsion then",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=R_{1} \\frac{x-x_{1}}{r_{1}}=R_{1} \\frac{d r_{1}}{d x},$$",
+          "title_safe": "equalsR1 fracx-x1r1equalsR1 fracd r1d x",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $Z_{1}$, so that",
+          "title_safe": "and Z1 so that",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} d x+Y_{1} d y+Z_{1} d z=R_{1} d r_{1}$$",
+          "title_safe": "d xplusY1 d yplusZ1 d zequalsR1 d r1",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ-",
+          "title_safe": "is a function of r1 only R1 d r1 is an exact differ",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, say $-V_{1}$.",
+          "title_safe": "say -V1",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$, acting from a centre at dis-",
+          "title_safe": "acting from a centre at dis",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}$,",
+          "title_safe": "Article",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} d x+Y_{2} d y+Z_{2} d z=R_{2} d r_{2}=-d V_{2} .$$",
+          "title_safe": "d xplusY2 d yplusZ2 d zequalsR2 d r2equals-d V2",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same",
+          "title_safe": "plusX2plus andc. and Y and Z are compounded in the same",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-d V_{2}-\\text { \\&c. }=-d V .$$",
+          "title_safe": "d V2-text andc. equals-d V",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_70",
+          "article_number": 70,
+          "title_original": ".] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+          "title_safe": "The quantity X d xplusY d yplusZ d z is an exact different",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ be the distance of one of the points from the",
+          "title_safe": "be the distance of one of the points from the",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ be the repulsion, then",
+          "title_safe": "be the repulsion then",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=R_{1} \\frac{x-x_{1}}{r_{1}}=R_{1} \\frac{d r_{1}}{d x},$$",
+          "title_safe": "equalsR1 fracx-x1r1equalsR1 fracd r1d x",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $Z_{1}$, so that",
+          "title_safe": "and Z1 so that",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} d x+Y_{1} d y+Z_{1} d z=R_{1} d r_{1}$$",
+          "title_safe": "d xplusY1 d yplusZ1 d zequalsR1 d r1",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ",
+          "title_safe": "is a function of r1 only R1 d r1 is an exact differ",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, say $-V_{1}$.",
+          "title_safe": "say -V1",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$, acting from a centre at dis",
+          "title_safe": "acting from a centre at dis",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}$,",
+          "title_safe": "Article",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} d x+Y_{2} d y+Z_{2} d z=R_{2} d r_{2}=-d V_{2} .$$",
+          "title_safe": "d xplusY2 d yplusZ2 d zequalsR2 d r2equals-d V2",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same",
+          "title_safe": "plusX2plus andc. and Y and Z are compounded in the same",
+          "page_start": 112,
+          "page_end": 111,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-d V_{2}-\\text { \\&c. }=-d V .$$",
+          "title_safe": "d V2-text andc. equals-d V",
+          "page_start": 112,
+          "page_end": 112,
+          "content": {
+            "raw_text": "\n--- Page 112 ---\n70.]\nPOTENTIAL FUNCTIONS.\n77\nIn this case $V$ is a scalar function of the position of a point in\nspace, that is, when we know the coordinates of the point, the\nvalue of $V$ is determinate, and this value is independent of the\nposition and direction of the axes of reference. See Art. 16.\n\nOn Functions of the Position of a Point.\nIn what follows, when we describe a quantity as a function of\nthe position of a point, we mean that for every position of the\npoint the function has a determinate value. We do not imply\nthat this value can always be expressed by the same formula\nfor all points of space, for it may be expressed by one formula\non one side of a given surface and by another formula on the\nother side.\n\nOn Potential Functions.\n70.] The quantity $X d x+Y d y+Z d z$ is an exact differential\nwhenever the force arises from attractions or repulsions whose\nintensity is a function of the distances from any number of\npoints. For if $r_{1}$ be the distance of one of the points from the\npoint ( $x, y, z$ ), and if $R_{1}$ be the repulsion, then\n$$X_{1}=R_{1} \\frac{x-x_{1}}{r_{1}}=R_{1} \\frac{d r_{1}}{d x},$$\nwith similar expressions for $Y_{1}$ and $Z_{1}$, so that\n$$X_{1} d x+Y_{1} d y+Z_{1} d z=R_{1} d r_{1}$$\nand since $R_{1}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ-\nential of some function of $r_{1}$, say $-V_{1}$.\nSimilarly for any other force $R_{2}$, acting from a centre at dis-\ntance $\\boldsymbol{r}_{\\mathbf{2}}$,\n$$X_{2} d x+Y_{2} d y+Z_{2} d z=R_{2} d r_{2}=-d V_{2} .$$\nBut $X=X_{1}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same\nway, therefore\n$$X d x+Y d y+Z d z=-d V_{1}-d V_{2}-\\text { \\&c. }=-d V .$$\nThe integral of this quantity, under the condition that it vanishes\nat an infinite distance, is called the Potential Function.\nThe use of this function in the theory of attractions was intro-\nduced by Laplace in the calculation of the attraction of the\nearth. Green, in his essay ' On the Application of Mathematical\nAnalysis to Electricity,' gave it the name of the Potential\nFunction. Gauss, working independently of Green, also used\n",
+            "mathpix_markdown": "\n--- Page 112 ---\n\n\nIn this case $V$ is a scalar function of the position of a point in\n space, that is, when we know the coordinates of the point, the\n value of $V$ is determinate, and this value is independent of the\n position and direction of the axes of reference. See Art. 16.\n\n\n\\section*{On Functions of the Position of a Point.}\n\n\nIn what follows, when we describe a quantity as a function of\n the position of a point, we mean that for every position of the\n point the function has a determinate value. We do not imply\n that this value can always be expressed by the same formula\n for all points of space, for it may be expressed by one formula\n on one side of a given surface and by another formula on the\n other side.\n\n\n\\section*{On Potential Functions.}\n\n70.] The quantity $X d x+Y d y+Z d z$ is an exact differential\n whenever the force arises from attractions or repulsions whose\n intensity is a function of the distances from any number of\n points. For if $r_{1}$ be the distance of one of the points from the\n point ( $x, y, z$ ), and if $R_{1}$ be the repulsion, then\n\n$$X_{1}=R_{1} \\frac{x-x_{1}}{r_{1}}=R_{1} \\frac{d r_{1}}{d x},$$\n\nwith similar expressions for $Y_{1}$ and $Z_{1}$, so that\n\n$$X_{1} d x+Y_{1} d y+Z_{1} d z=R_{1} d r_{1}$$\n\nand since $R_{1}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ\nential of some function of $r_{1}$, say $-V_{1}$.\n\n\nSimilarly for any other force $R_{2}$, acting from a centre at dis\ntance $\\boldsymbol{r}_{\\mathbf{2}}$,\n\n$$X_{2} d x+Y_{2} d y+Z_{2} d z=R_{2} d r_{2}=-d V_{2} .$$\n\n\nBut $X=X_{1}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same\n way, therefore\n\n$$X d x+Y d y+Z d z=-d V_{1}-d V_{2}-\\text { \\&c. }=-d V .$$\n\n\nThe integral of this quantity, under the condition that it vanishes\n at an infinite distance, is called the Potential Function.\n\n\nThe use of this function in the theory of attractions was intro\nduced by Laplace in the calculation of the attraction of the\n earth. Green, in his essay ' On the Application of Mathematical\n Analysis to Electricity,' gave it the name of the Potential\n Function. Gauss, working independently of Green, also used\n",
+            "structured_lines": [
+              {
+                "page": 112,
+                "line_number": 4,
+                "type": "text",
+                "content": "In this case $V$ is a scalar function of the position of a point in",
+                "mathpix_content": "\n\nIn this case $V$ is a scalar function of the position of a point in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 5,
+                "type": "text",
+                "content": "space, that is, when we know the coordinates of the point, the",
+                "mathpix_content": " space, that is, when we know the coordinates of the point, the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 6,
+                "type": "text",
+                "content": "value of $V$ is determinate, and this value is independent of the",
+                "mathpix_content": " value of $V$ is determinate, and this value is independent of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 7,
+                "type": "text",
+                "content": "position and direction of the axes of reference. See Art. 16.",
+                "mathpix_content": " position and direction of the axes of reference. See Art. 16.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 9,
+                "type": "text",
+                "content": "On Functions of the Position of a Point.",
+                "mathpix_content": "\n\n\\section*{On Functions of the Position of a Point.}",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 112,
+                "line_number": 10,
+                "type": "text",
+                "content": "In what follows, when we describe a quantity as a function of",
+                "mathpix_content": "\n\nIn what follows, when we describe a quantity as a function of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 11,
+                "type": "text",
+                "content": "the position of a point, we mean that for every position of the",
+                "mathpix_content": " the position of a point, we mean that for every position of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 12,
+                "type": "text",
+                "content": "point the function has a determinate value. We do not imply",
+                "mathpix_content": " point the function has a determinate value. We do not imply",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 13,
+                "type": "text",
+                "content": "that this value can always be expressed by the same formula",
+                "mathpix_content": " that this value can always be expressed by the same formula",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 14,
+                "type": "text",
+                "content": "for all points of space, for it may be expressed by one formula",
+                "mathpix_content": " for all points of space, for it may be expressed by one formula",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 15,
+                "type": "text",
+                "content": "on one side of a given surface and by another formula on the",
+                "mathpix_content": " on one side of a given surface and by another formula on the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 16,
+                "type": "text",
+                "content": "other side.",
+                "mathpix_content": " other side.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 18,
+                "type": "text",
+                "content": "On Potential Functions.",
+                "mathpix_content": "\n\n\\section*{On Potential Functions.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 19,
+                "type": "text",
+                "content": "70.] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+                "mathpix_content": "\n70.] The quantity $X d x+Y d y+Z d z$ is an exact differential",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 20,
+                "type": "text",
+                "content": "whenever the force arises from attractions or repulsions whose",
+                "mathpix_content": " whenever the force arises from attractions or repulsions whose",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 21,
+                "type": "text",
+                "content": "intensity is a function of the distances from any number of",
+                "mathpix_content": " intensity is a function of the distances from any number of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 22,
+                "type": "text",
+                "content": "points. For if $r_{1}$ be the distance of one of the points from the",
+                "mathpix_content": " points. For if $r_{1}$ be the distance of one of the points from the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 23,
+                "type": "text",
+                "content": "point ( $x, y, z$ ), and if $R_{1}$ be the repulsion, then",
+                "mathpix_content": " point ( $x, y, z$ ), and if $R_{1}$ be the repulsion, then",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 26,
+                "type": "text",
+                "content": "with similar expressions for $Y_{1}$ and $Z_{1}$, so that",
+                "mathpix_content": "\nwith similar expressions for $Y_{1}$ and $Z_{1}$, so that",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 29,
+                "type": "text",
+                "content": "and since $R_{1}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ-",
+                "mathpix_content": "\nand since $R_{1}$ is a function of $r_{1}$ only, $R_{1} d r_{1}$ is an exact differ",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 30,
+                "type": "text",
+                "content": "ential of some function of $r_{1}$, say $-V_{1}$.",
+                "mathpix_content": "ential of some function of $r_{1}$, say $-V_{1}$.",
+                "font_size": 34,
+                "confidence": 0.99169921875
+              },
+              {
+                "page": 112,
+                "line_number": 31,
+                "type": "text",
+                "content": "Similarly for any other force $R_{2}$, acting from a centre at dis-",
+                "mathpix_content": "\n\nSimilarly for any other force $R_{2}$, acting from a centre at dis",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 32,
+                "type": "text",
+                "content": "tance $\\boldsymbol{r}_{\\mathbf{2}}$,",
+                "mathpix_content": "tance $\\boldsymbol{r}_{\\mathbf{2}}$,",
+                "font_size": 34,
+                "confidence": 0.9892578125
+              },
+              {
+                "page": 112,
+                "line_number": 35,
+                "type": "text",
+                "content": "But $X=X_{1}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same",
+                "mathpix_content": "\n\nBut $X=X_{1}+X_{2}+$ \\&c., and $Y$ and $Z$ are compounded in the same",
+                "font_size": 34,
+                "confidence": 0.90478515625
+              },
+              {
+                "page": 112,
+                "line_number": 36,
+                "type": "text",
+                "content": "way, therefore",
+                "mathpix_content": " way, therefore",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 39,
+                "type": "text",
+                "content": "The integral of this quantity, under the condition that it vanishes",
+                "mathpix_content": "\n\nThe integral of this quantity, under the condition that it vanishes",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 40,
+                "type": "text",
+                "content": "at an infinite distance, is called the Potential Function.",
+                "mathpix_content": " at an infinite distance, is called the Potential Function.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 41,
+                "type": "text",
+                "content": "The use of this function in the theory of attractions was intro-",
+                "mathpix_content": "\n\nThe use of this function in the theory of attractions was intro",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 112,
+                "line_number": 42,
+                "type": "text",
+                "content": "duced by Laplace in the calculation of the attraction of the",
+                "mathpix_content": "duced by Laplace in the calculation of the attraction of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 43,
+                "type": "text",
+                "content": "earth. Green, in his essay ' On the Application of Mathematical",
+                "mathpix_content": " earth. Green, in his essay ' On the Application of Mathematical",
+                "font_size": 34,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 112,
+                "line_number": 44,
+                "type": "text",
+                "content": "Analysis to Electricity,' gave it the name of the Potential",
+                "mathpix_content": " Analysis to Electricity,' gave it the name of the Potential",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 112,
+                "line_number": 45,
+                "type": "text",
+                "content": "Function. Gauss, working independently of Green, also used",
+                "mathpix_content": " Function. Gauss, working independently of Green, also used",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 250,
+  "page_end": 250,
+  "content": {
+    "raw_text": "\n--- Page 250 ---\n142 b.]\nSURFACE INTEGRALS.\n215\n${\\eta^{n}}^{n} \\stackrel{(\\sigma)}{Y}_{n}=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right)\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} z^{n-\\sigma-2} \\xi \\eta+\\right.$ \\&c. $]$,\n(79)\nwe find that on performing the differentiations with respect\nto $z$, all the terms of the series except the first disappear, and\nthe factor $(n--\\sigma)!$ is introduced.\nContinuing the differentiations with respect to $\\xi$ and $\\eta$ we\nget rid also of these variables and introduce the factor $-2 i \\sigma!$, so\nthat the final result is\n$$\\iint\\left(\\stackrel{(\\sigma)}{Y}_{n}\\right)^{2} d s=\\frac{8 \\pi a^{2}}{2 n+1} \\frac{(n+\\sigma)!(n-\\sigma)!}{2^{2 \\sigma} n!n!}$$\n(80)\nWe shall denote the second member of this equation by the\nabbreviated symbol $[n, \\sigma]$.\nThis expression is correct for all values of $\\sigma$ from 1 to $n$ inclu-\nsive, but there is no harmonic in $\\sin \\sigma \\phi$ corresponding to $\\sigma=0$.\nIn the same way we can shew that\n$$\\iint\\left(\\stackrel{(\\sigma)}{Y}_{n}^{c}\\right)^{2} d s=\\frac{8 \\pi a^{2}}{2 n+1} \\frac{(n+\\sigma)!(n-\\sigma)!}{2^{2 \\sigma} n!n!}$$\n(81)\nfor all values of $\\sigma$ from 1 to $n$ inclusive.\nWhen $\\sigma=0$, the harmonic becomes the zonal harmonic, and\n$$\\iint\\left(\\stackrel{(0)}{Y}_{n}^{(0)}\\right)^{2} d s=\\iint\\left(P_{\\mathrm{n}}\\right)^{2} d s=\\frac{4 \\pi a^{2}}{2 n+1}$$\n(82)\na result which may be obtained directly from equation (50) by\nputting $Y_{n}=P_{m}$ and remembering that the value of the zonal\nharmonic at its pole is unity.\n142 a.] We can now apply the method of Art. 136 to determine\nthe coefficient of any given tesseral surface harmonic in the\nexpansion of any arbitrary function of the position of a point on\na sphere. For let $F$ be the arbitrary function, and let $A_{\\eta}^{\\sigma}$ be the\ncoefficient of $Y_{n}^{(\\sigma)}$ in the expansion of this function in surface\nharmonics of the symmetrical system, then\n$$\\iint F Y_{n}^{(\\sigma)} d s=A_{n}^{(\\sigma)} \\iint\\left(Y_{n}^{(\\sigma)}\\right)^{2} d s=A_{n}^{(\\sigma)}[n, \\sigma]$$\n(83)\nwhere $[n, \\sigma]$ is the abbreviation for the value of the surface in-\ntegral given in equation (80).\n142 b.] Let $\\Psi$ be any function which satisfies Laplace's equa-\ntion, and which has no singular values within a distance $\\alpha$ of a\npoint $O$, which we may take as the origin of coordinates. It\nis always possible to expand such a function in a series of solid\nharmonics of positive degree, having their origin at 0 .\n",
+    "mathpix_markdown": "\n--- Page 250 ---\n\n${\\eta^{n}}^{n} \\stackrel{(\\sigma)}{Y}_{n}=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right)\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} z^{n-\\sigma-2} \\xi \\eta+\\right.$ \\&c. $]$,\n\nwe find that on performing the differentiations with respect\n to $z$, all the terms of the series except the first disappear, and\n the factor $(n--\\sigma)!$ is introduced.\n\n\nContinuing the differentiations with respect to $\\xi$ and $\\eta$ we\n get rid also of these variables and introduce the factor $-2 i \\sigma!$, so\n that the final result is\n\n$$\\begin{equation*}\n\\iint\\left(\\stackrel{(\\sigma)}{Y}_{n}\\right)^{2} d s=\\frac{8 \\pi a^{2}}{2 n+1} \\frac{(n+\\sigma)!(n-\\sigma)!}{2^{2 \\sigma} n!n!} \\tag{80}\n\\end{equation*}$$\n\n\nWe shall denote the second member of this equation by the\n abbreviated symbol $[n, \\sigma]$.\n\n\nThis expression is correct for all values of $\\sigma$ from 1 to $n$ inclu\nsive, but there is no harmonic in $\\sin \\sigma \\phi$ corresponding to $\\sigma=0$.\n\n\nIn the same way we can shew that\n\n$$\\begin{equation*}\n\\iint\\left(\\stackrel{(\\sigma)}{Y}_{n}^{c}\\right)^{2} d s=\\frac{8 \\pi a^{2}}{2 n+1} \\frac{(n+\\sigma)!(n-\\sigma)!}{2^{2 \\sigma} n!n!} \\tag{81}\n\\end{equation*}$$\n\nfor all values of $\\sigma$ from 1 to $n$ inclusive.\n\nWhen $\\sigma=0$, the harmonic becomes the zonal harmonic, and\n\n$$\\begin{equation*}\n\\iint\\left(\\stackrel{(0)}{Y}_{n}^{(0)}\\right)^{2} d s=\\iint\\left(P_{\\mathrm{n}}\\right)^{2} d s=\\frac{4 \\pi a^{2}}{2 n+1} \\tag{82}\n\\end{equation*}$$\n\na result which may be obtained directly from equation (50) by\n putting $Y_{n}=P_{m}$ and remembering that the value of the zonal\n harmonic at its pole is unity.\n\n\n142 a.] We can now apply the method of Art. 136 to determine\n the coefficient of any given tesseral surface harmonic in the\n expansion of any arbitrary function of the position of a point on\n a sphere. For let $F$ be the arbitrary function, and let $A_{\\eta}^{\\sigma}$ be the\n coefficient of $Y_{n}^{(\\sigma)}$ in the expansion of this function in surface\n harmonics of the symmetrical system, then\n\n$$\\begin{equation*}\n\\iint F Y_{n}^{(\\sigma)} d s=A_{n}^{(\\sigma)} \\iint\\left(Y_{n}^{(\\sigma)}\\right)^{2} d s=A_{n}^{(\\sigma)}[n, \\sigma] \\tag{83}\n\\end{equation*}$$\n\nwhere $[n, \\sigma]$ is the abbreviation for the value of the surface in\ntegral given in equation (80).\n\n\n142 b.] Let $\\Psi$ be any function which satisfies Laplace's equa\ntion, and which has no singular values within a distance $\\alpha$ of a\n point $O$, which we may take as the origin of coordinates. It\n is always possible to expand such a function in a series of solid\n harmonics of positive degree, having their origin at 0 .\n",
+    "structured_lines": [
+      {
+        "page": 250,
+        "line_number": 4,
+        "type": "text",
+        "content": "${\\eta^{n}}^{n} \\stackrel{(\\sigma)}{Y}_{n}=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right)\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} z^{n-\\sigma-2} \\xi \\eta+\\right.$ \\&c. $]$,",
+        "mathpix_content": "\n${\\eta^{n}}^{n} \\stackrel{(\\sigma)}{Y}_{n}=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} i\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right)\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} z^{n-\\sigma-2} \\xi \\eta+\\right.$ \\&c. $]$,",
+        "font_size": 27,
+        "confidence": 0.11580452893055888
+      },
+      {
+        "page": 250,
+        "line_number": 6,
+        "type": "text",
+        "content": "we find that on performing the differentiations with respect",
+        "mathpix_content": "\nwe find that on performing the differentiations with respect",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 7,
+        "type": "text",
+        "content": "to $z$, all the terms of the series except the first disappear, and",
+        "mathpix_content": " to $z$, all the terms of the series except the first disappear, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 8,
+        "type": "text",
+        "content": "the factor $(n--\\sigma)!$ is introduced.",
+        "mathpix_content": " the factor $(n--\\sigma)!$ is introduced.",
+        "font_size": 27,
+        "confidence": 0.5808944702148438
+      },
+      {
+        "page": 250,
+        "line_number": 9,
+        "type": "text",
+        "content": "Continuing the differentiations with respect to $\\xi$ and $\\eta$ we",
+        "mathpix_content": "\n\nContinuing the differentiations with respect to $\\xi$ and $\\eta$ we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 10,
+        "type": "text",
+        "content": "get rid also of these variables and introduce the factor $-2 i \\sigma!$, so",
+        "mathpix_content": " get rid also of these variables and introduce the factor $-2 i \\sigma!$, so",
+        "font_size": 27,
+        "confidence": 0.5114688873291016
+      },
+      {
+        "page": 250,
+        "line_number": 11,
+        "type": "text",
+        "content": "that the final result is",
+        "mathpix_content": " that the final result is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 15,
+        "type": "text",
+        "content": "We shall denote the second member of this equation by the",
+        "mathpix_content": "\n\nWe shall denote the second member of this equation by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 16,
+        "type": "text",
+        "content": "abbreviated symbol $[n, \\sigma]$.",
+        "mathpix_content": " abbreviated symbol $[n, \\sigma]$.",
+        "font_size": 27,
+        "confidence": 0.88525390625
+      },
+      {
+        "page": 250,
+        "line_number": 17,
+        "type": "text",
+        "content": "This expression is correct for all values of $\\sigma$ from 1 to $n$ inclu-",
+        "mathpix_content": "\n\nThis expression is correct for all values of $\\sigma$ from 1 to $n$ inclu",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 250,
+        "line_number": 18,
+        "type": "text",
+        "content": "sive, but there is no harmonic in $\\sin \\sigma \\phi$ corresponding to $\\sigma=0$.",
+        "mathpix_content": "sive, but there is no harmonic in $\\sin \\sigma \\phi$ corresponding to $\\sigma=0$.",
+        "font_size": 27,
+        "confidence": 0.9941470623016357
+      },
+      {
+        "page": 250,
+        "line_number": 19,
+        "type": "text",
+        "content": "In the same way we can shew that",
+        "mathpix_content": "\n\nIn the same way we can shew that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 23,
+        "type": "text",
+        "content": "for all values of $\\sigma$ from 1 to $n$ inclusive.",
+        "mathpix_content": "\nfor all values of $\\sigma$ from 1 to $n$ inclusive.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 24,
+        "type": "text",
+        "content": "When $\\sigma=0$, the harmonic becomes the zonal harmonic, and",
+        "mathpix_content": "\nWhen $\\sigma=0$, the harmonic becomes the zonal harmonic, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 28,
+        "type": "text",
+        "content": "a result which may be obtained directly from equation (50) by",
+        "mathpix_content": "\na result which may be obtained directly from equation (50) by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 29,
+        "type": "text",
+        "content": "putting $Y_{n}=P_{m}$ and remembering that the value of the zonal",
+        "mathpix_content": " putting $Y_{n}=P_{m}$ and remembering that the value of the zonal",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 30,
+        "type": "text",
+        "content": "harmonic at its pole is unity.",
+        "mathpix_content": " harmonic at its pole is unity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 31,
+        "type": "text",
+        "content": "142 a.] We can now apply the method of Art. 136 to determine",
+        "mathpix_content": "\n\n142 a.] We can now apply the method of Art. 136 to determine",
+        "font_size": 27,
+        "confidence": 0.932161808013916
+      },
+      {
+        "page": 250,
+        "line_number": 32,
+        "type": "text",
+        "content": "the coefficient of any given tesseral surface harmonic in the",
+        "mathpix_content": " the coefficient of any given tesseral surface harmonic in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 33,
+        "type": "text",
+        "content": "expansion of any arbitrary function of the position of a point on",
+        "mathpix_content": " expansion of any arbitrary function of the position of a point on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 34,
+        "type": "text",
+        "content": "a sphere. For let $F$ be the arbitrary function, and let $A_{\\eta}^{\\sigma}$ be the",
+        "mathpix_content": " a sphere. For let $F$ be the arbitrary function, and let $A_{\\eta}^{\\sigma}$ be the",
+        "font_size": 27,
+        "confidence": 0.8203773498535156
+      },
+      {
+        "page": 250,
+        "line_number": 35,
+        "type": "text",
+        "content": "coefficient of $Y_{n}^{(\\sigma)}$ in the expansion of this function in surface",
+        "mathpix_content": " coefficient of $Y_{n}^{(\\sigma)}$ in the expansion of this function in surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 36,
+        "type": "text",
+        "content": "harmonics of the symmetrical system, then",
+        "mathpix_content": " harmonics of the symmetrical system, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 40,
+        "type": "text",
+        "content": "where $[n, \\sigma]$ is the abbreviation for the value of the surface in-",
+        "mathpix_content": "\nwhere $[n, \\sigma]$ is the abbreviation for the value of the surface in",
+        "font_size": 27,
+        "confidence": 0.9970715045928955
+      },
+      {
+        "page": 250,
+        "line_number": 41,
+        "type": "text",
+        "content": "tegral given in equation (80).",
+        "mathpix_content": "tegral given in equation (80).",
+        "font_size": 27,
+        "confidence": 0.93603515625
+      },
+      {
+        "page": 250,
+        "line_number": 42,
+        "type": "text",
+        "content": "142 b.] Let $\\Psi$ be any function which satisfies Laplace's equa-",
+        "mathpix_content": "\n\n142 b.] Let $\\Psi$ be any function which satisfies Laplace's equa",
+        "font_size": 27,
+        "confidence": 0.994631290435791
+      },
+      {
+        "page": 250,
+        "line_number": 43,
+        "type": "text",
+        "content": "tion, and which has no singular values within a distance $\\alpha$ of a",
+        "mathpix_content": "tion, and which has no singular values within a distance $\\alpha$ of a",
+        "font_size": 27,
+        "confidence": 0.9697265625
+      },
+      {
+        "page": 250,
+        "line_number": 44,
+        "type": "text",
+        "content": "point $O$, which we may take as the origin of coordinates. It",
+        "mathpix_content": " point $O$, which we may take as the origin of coordinates. It",
+        "font_size": 27,
+        "confidence": 0.98974609375
+      },
+      {
+        "page": 250,
+        "line_number": 45,
+        "type": "text",
+        "content": "is always possible to expand such a function in a series of solid",
+        "mathpix_content": " is always possible to expand such a function in a series of solid",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 250,
+        "line_number": 46,
+        "type": "text",
+        "content": "harmonics of positive degree, having their origin at 0 .",
+        "mathpix_content": " harmonics of positive degree, having their origin at 0 .",
+        "font_size": 27,
+        "confidence": 0.89501953125
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

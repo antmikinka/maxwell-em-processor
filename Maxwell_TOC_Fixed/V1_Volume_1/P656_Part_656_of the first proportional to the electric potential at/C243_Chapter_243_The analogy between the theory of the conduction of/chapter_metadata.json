@@ -1,0 +1,532 @@
+{
+  "chapter_id": "chapter_6",
+  "chapter_number": 243,
+  "title": "] The analogy between the theory of the conduction of",
+  "page_start": 399,
+  "page_end": 399,
+  "articles": [
+    {
+      "article_id": "article_243",
+      "article_number": 243,
+      "title_original": "therefore leads us to look for internal work in the conductor.",
+      "title_safe": "therefore leads us to look for internal work in the conducto",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_243",
+      "article_number": 243,
+      "title_original": "] The analogy between the theory of the conduction of",
+      "title_safe": "The analogy between the theory of the conduction of",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_243",
+      "article_number": 243,
+      "title_original": "] The analogy between the theory of the conduction of",
+      "title_safe": "The analogy between the theory of the conduction of",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_364",
+      "article_number": 364,
+      "title_original": "CONDUCTION AND RESISTANCE.",
+      "title_safe": "CONDUCTION AND RESISTANCE",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_243",
+      "article_number": 243,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} R t,$$",
+      "title_safe": "R t",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_243",
+      "article_number": 243,
+      "title_original": ".] The analogy between the theory of the conduction of",
+      "title_safe": "The analogy between the theory of the conduction of",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} R t,$$",
+      "title_safe": "R t",
+      "page_start": 399,
+      "page_end": 398,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_243",
+      "article_number": 243,
+      "title_original": ".] The analogy between the theory of the conduction of",
+      "title_safe": "The analogy between the theory of the conduction of",
+      "page_start": 399,
+      "page_end": 399,
+      "content": {
+        "raw_text": "\n--- Page 399 ---\n364\nCONDUCTION AND RESISTANCE.\n[243.\ntherefore leads us to look for internal work in the conductor.\nIn an electrolyte this internal work consists partly of the separa-\ntion of its components. In other conductors it is entirely con-\nverted into heat.\nThe energy converted into heat is in this case the product of\nthe electromotive force into the quantity of electricity which\npasses. But the electromotive force is the product of the current\ninto the resistance, and the quantity of electricity is the product\nof the current into the time. Hence the quantity of heat multi-\nplied by the mechanical equivalent of unit of heat is equal to\nthe square of the strength of the current multiplied into the\nresistance and into the time.\nThe heat developed by electric currents in overcoming the\nresistance of conductors has been determined by Dr. Joule, who\nfirst established that the heat produced in a given time is pro-\nportional to the square of the current, and afterwards by careful\nabsolute measurements of all the quantities concerned, verified\nthe equation\n$$J H=C^{2} R t,$$\nwhere $J$ is Joule's dynamical equivalent of heat, $H$ the number\nof units of heat, $C$ the strength of the current, $R$ the resistance\nof the conductor, and $t$ the time during which the current flows.\nThese relations between electromotive force, work, and heat,\nwere first fully explained by Sir. W. Thomson in a paper on the\napplication of the principle of mechanical effect to the measure-\nment of electromotive forces*.\n243.] The analogy between the theory of the conduction of\nelectricity and that of the conduction of heat is at first sight\nalmost complete. If we take two systems geometrically similar,\nand such that the conductivity for heat at any part of the first\nis proportional to the conductivity for electricity at the corre-\nsponding part of the second, and if we also make the temperature\nat any part of the first proportional to the electric potential at\nthe corresponding point of the second, then the flow of heat\nacross any area of the first will be proportional to the flow of\nelectricity across the corresponding area of the second.\nThus, in the illustration we have given, in which flow of elec-\ntricity corresponds to flow of heat, and electric potential to\ntemperature, electricity tends to flow from places of high to\n\n",
+        "mathpix_markdown": "\n--- Page 399 ---\n\ntherefore leads us to look for internal work in the conductor.\n In an electrolyte this internal work consists partly of the separa\ntion of its components. In other conductors it is entirely con\nverted into heat.\n\n\nThe energy converted into heat is in this case the product of\n the electromotive force into the quantity of electricity which\n passes. But the electromotive force is the product of the current\n into the resistance, and the quantity of electricity is the product\n of the current into the time. Hence the quantity of heat multi\nplied by the mechanical equivalent of unit of heat is equal to\n the square of the strength of the current multiplied into the\n resistance and into the time.\n\n\nThe heat developed by electric currents in overcoming the\n resistance of conductors has been determined by Dr. Joule, who\n first established that the heat produced in a given time is pro\nportional to the square of the current, and afterwards by careful\n absolute measurements of all the quantities concerned, verified\n the equation\n\n$$J H=C^{2} R t,$$\n\nwhere $J$ is Joule's dynamical equivalent of heat, $H$ the number\n of units of heat, $C$ the strength of the current, $R$ the resistance\n of the conductor, and $t$ the time during which the current flows.\n These relations between electromotive force, work, and heat,\n were first fully explained by Sir. W. Thomson in a paper on the\n application of the principle of mechanical effect to the measure\nment of electromotive forces*.\n\n243.] The analogy between the theory of the conduction of\n electricity and that of the conduction of heat is at first sight\n almost complete. If we take two systems geometrically similar,\n and such that the conductivity for heat at any part of the first\n is proportional to the conductivity for electricity at the corre\nsponding part of the second, and if we also make the temperature\n at any part of the first proportional to the electric potential at\n the corresponding point of the second, then the flow of heat\n across any area of the first will be proportional to the flow of\n electricity across the corresponding area of the second.\n\n\nThus, in the illustration we have given, in which flow of elec\ntricity corresponds to flow of heat, and electric potential to\n temperature, electricity tends to flow from places of high to\n",
+        "structured_lines": [
+          {
+            "page": 399,
+            "line_number": 4,
+            "type": "text",
+            "content": "therefore leads us to look for internal work in the conductor.",
+            "mathpix_content": "\ntherefore leads us to look for internal work in the conductor.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 5,
+            "type": "text",
+            "content": "In an electrolyte this internal work consists partly of the separa-",
+            "mathpix_content": " In an electrolyte this internal work consists partly of the separa",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 6,
+            "type": "text",
+            "content": "tion of its components. In other conductors it is entirely con-",
+            "mathpix_content": "tion of its components. In other conductors it is entirely con",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 399,
+            "line_number": 7,
+            "type": "text",
+            "content": "verted into heat.",
+            "mathpix_content": "verted into heat.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 8,
+            "type": "text",
+            "content": "The energy converted into heat is in this case the product of",
+            "mathpix_content": "\n\nThe energy converted into heat is in this case the product of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 9,
+            "type": "text",
+            "content": "the electromotive force into the quantity of electricity which",
+            "mathpix_content": " the electromotive force into the quantity of electricity which",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 10,
+            "type": "text",
+            "content": "passes. But the electromotive force is the product of the current",
+            "mathpix_content": " passes. But the electromotive force is the product of the current",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 11,
+            "type": "text",
+            "content": "into the resistance, and the quantity of electricity is the product",
+            "mathpix_content": " into the resistance, and the quantity of electricity is the product",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 12,
+            "type": "text",
+            "content": "of the current into the time. Hence the quantity of heat multi-",
+            "mathpix_content": " of the current into the time. Hence the quantity of heat multi",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 13,
+            "type": "text",
+            "content": "plied by the mechanical equivalent of unit of heat is equal to",
+            "mathpix_content": "plied by the mechanical equivalent of unit of heat is equal to",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 14,
+            "type": "text",
+            "content": "the square of the strength of the current multiplied into the",
+            "mathpix_content": " the square of the strength of the current multiplied into the",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 399,
+            "line_number": 15,
+            "type": "text",
+            "content": "resistance and into the time.",
+            "mathpix_content": " resistance and into the time.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 16,
+            "type": "text",
+            "content": "The heat developed by electric currents in overcoming the",
+            "mathpix_content": "\n\nThe heat developed by electric currents in overcoming the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 17,
+            "type": "text",
+            "content": "resistance of conductors has been determined by Dr. Joule, who",
+            "mathpix_content": " resistance of conductors has been determined by Dr. Joule, who",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 18,
+            "type": "text",
+            "content": "first established that the heat produced in a given time is pro-",
+            "mathpix_content": " first established that the heat produced in a given time is pro",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 19,
+            "type": "text",
+            "content": "portional to the square of the current, and afterwards by careful",
+            "mathpix_content": "portional to the square of the current, and afterwards by careful",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 20,
+            "type": "text",
+            "content": "absolute measurements of all the quantities concerned, verified",
+            "mathpix_content": " absolute measurements of all the quantities concerned, verified",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 21,
+            "type": "text",
+            "content": "the equation",
+            "mathpix_content": " the equation",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 24,
+            "type": "text",
+            "content": "where $J$ is Joule's dynamical equivalent of heat, $H$ the number",
+            "mathpix_content": "\nwhere $J$ is Joule's dynamical equivalent of heat, $H$ the number",
+            "font_size": 34,
+            "confidence": 0.99755859375
+          },
+          {
+            "page": 399,
+            "line_number": 25,
+            "type": "text",
+            "content": "of units of heat, $C$ the strength of the current, $R$ the resistance",
+            "mathpix_content": " of units of heat, $C$ the strength of the current, $R$ the resistance",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 26,
+            "type": "text",
+            "content": "of the conductor, and $t$ the time during which the current flows.",
+            "mathpix_content": " of the conductor, and $t$ the time during which the current flows.",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 399,
+            "line_number": 27,
+            "type": "text",
+            "content": "These relations between electromotive force, work, and heat,",
+            "mathpix_content": " These relations between electromotive force, work, and heat,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 28,
+            "type": "text",
+            "content": "were first fully explained by Sir. W. Thomson in a paper on the",
+            "mathpix_content": " were first fully explained by Sir. W. Thomson in a paper on the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 29,
+            "type": "text",
+            "content": "application of the principle of mechanical effect to the measure-",
+            "mathpix_content": " application of the principle of mechanical effect to the measure",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 30,
+            "type": "text",
+            "content": "ment of electromotive forces*.",
+            "mathpix_content": "ment of electromotive forces*.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 31,
+            "type": "text",
+            "content": "243.] The analogy between the theory of the conduction of",
+            "mathpix_content": "\n243.] The analogy between the theory of the conduction of",
+            "font_size": 34,
+            "confidence": 0.96826171875
+          },
+          {
+            "page": 399,
+            "line_number": 32,
+            "type": "text",
+            "content": "electricity and that of the conduction of heat is at first sight",
+            "mathpix_content": " electricity and that of the conduction of heat is at first sight",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 33,
+            "type": "text",
+            "content": "almost complete. If we take two systems geometrically similar,",
+            "mathpix_content": " almost complete. If we take two systems geometrically similar,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 34,
+            "type": "text",
+            "content": "and such that the conductivity for heat at any part of the first",
+            "mathpix_content": " and such that the conductivity for heat at any part of the first",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 35,
+            "type": "text",
+            "content": "is proportional to the conductivity for electricity at the corre-",
+            "mathpix_content": " is proportional to the conductivity for electricity at the corre",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 36,
+            "type": "text",
+            "content": "sponding part of the second, and if we also make the temperature",
+            "mathpix_content": "sponding part of the second, and if we also make the temperature",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 37,
+            "type": "text",
+            "content": "at any part of the first proportional to the electric potential at",
+            "mathpix_content": " at any part of the first proportional to the electric potential at",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 38,
+            "type": "text",
+            "content": "the corresponding point of the second, then the flow of heat",
+            "mathpix_content": " the corresponding point of the second, then the flow of heat",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 39,
+            "type": "text",
+            "content": "across any area of the first will be proportional to the flow of",
+            "mathpix_content": " across any area of the first will be proportional to the flow of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 40,
+            "type": "text",
+            "content": "electricity across the corresponding area of the second.",
+            "mathpix_content": " electricity across the corresponding area of the second.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 41,
+            "type": "text",
+            "content": "Thus, in the illustration we have given, in which flow of elec-",
+            "mathpix_content": "\n\nThus, in the illustration we have given, in which flow of elec",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 42,
+            "type": "text",
+            "content": "tricity corresponds to flow of heat, and electric potential to",
+            "mathpix_content": "tricity corresponds to flow of heat, and electric potential to",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 399,
+            "line_number": 43,
+            "type": "text",
+            "content": "temperature, electricity tends to flow from places of high to",
+            "mathpix_content": " temperature, electricity tends to flow from places of high to",
+            "font_size": 34,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

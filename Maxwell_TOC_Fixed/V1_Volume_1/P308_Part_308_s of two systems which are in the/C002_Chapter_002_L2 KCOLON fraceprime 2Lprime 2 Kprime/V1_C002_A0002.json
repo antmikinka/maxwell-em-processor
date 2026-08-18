@@ -1,0 +1,318 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}}{L^{2} K}: \\frac{e^{\\prime 2}}{L^{\\prime 2} K^{\\prime}} .",
+  "title_safe": "L2 KCOLON fraceprime 2Lprime 2 Kprime",
+  "page_start": 156,
+  "page_end": 156,
+  "content": {
+    "raw_text": "\n--- Page 156 ---\n94.]\nSIMILAR SYSTEMS.\n121\nthird place so electrified that the potentials of corresponding\npoints are as $V$ to $V^{\\prime}$.\nFrom this it appears that if $q$ be any coefficient of capacity or\ninduction in the first system, and $q^{\\prime}$ the corresponding one in the\nsecond,\n$$q: q^{\\prime}:: L K: L^{\\prime} K^{\\prime} ;$$\nand if $p$ and $p^{\\prime}$ denote corresponding coefficients of potential in\nthe two systems,\n$$p: p^{\\prime}:: \\frac{1}{L K}: \\frac{1}{L^{\\prime} K^{\\prime}}$$\nIf one of the bodies be displaced in the first system, and the\ncorresponding body in the second system receives a similar dis-\nplacement, then these displacements are in the proportion of $L$\nto $L^{\\prime}$, and if the forces acting on the two bodies are as $F$ to $F^{\\prime \\prime}$,\nthen the work done in the two systems will be as $F L$ to $F L^{\\prime}$.\nBut the total electric energy is half the sum of the charges\nof electricity multiplied each by the potential of the charged\nbody, so that in the similar systems, if $W$ and $W^{\\prime}$ be the total\nelectric energies in the two systems respectively,\n$$W: W^{\\prime}:: e V: e^{\\prime} V^{\\prime},$$\nand the differences of energy after similar displacements in the\ntwo systems will be in the same proportion. Hence, since FL\nis proportional to the electrical work done during the displace-\nment,\n$$F L: F^{\\nu} L^{\\prime}:: e V: e^{\\prime} V^{\\prime} .$$\nCombining these proportions, we find that the ratio of the\nresultant force on any body of the first system to that on the\ncorresponding body of the second system is\n$$\\begin{aligned}\n& F: F^{\\prime}:: V^{2} K: V^{\\prime 2} K^{\\prime}, \\\\\n& \\text { or } \\quad F: F^{\\prime}:: \\frac{e^{2}}{L^{2} K}: \\frac{e^{\\prime 2}}{L^{\\prime 2} K^{\\prime}} .\n\\end{aligned}$$\nThe first of these proportions shews that in similar systems the\nforce is proportional to the square of the electromotive force and\nto the inductive capacity of the dielectric, but is independent of\nthe actual dimensions of the system.\nHence two conductors placed in a liquid whose inductive\ncapacity is greater than that of air, and electrified to given\npotentials, will attract each other more than if they had been\nelectrified to the same potentials in air.\nThe second proportion shews that if the quantity of electricity\non each body is given, the forces arc proportional to the squares\n",
+    "mathpix_markdown": "\n--- Page 156 ---\n\nthird place so electrified that the potentials of corresponding\n points are as $V$ to $V^{\\prime}$.\n\n\nFrom this it appears that if $q$ be any coefficient of capacity or\n induction in the first system, and $q^{\\prime}$ the corresponding one in the\n second,\n\n$$q: q^{\\prime}:: L K: L^{\\prime} K^{\\prime} ;$$\n\nand if $p$ and $p^{\\prime}$ denote corresponding coefficients of potential in\n the two systems,\n\n$$p: p^{\\prime}:: \\frac{1}{L K}: \\frac{1}{L^{\\prime} K^{\\prime}}$$\n\n\nIf one of the bodies be displaced in the first system, and the\n corresponding body in the second system receives a similar dis\nplacement, then these displacements are in the proportion of $L$\n to $L^{\\prime}$, and if the forces acting on the two bodies are as $F$ to $F^{\\prime \\prime}$,\n then the work done in the two systems will be as $F L$ to $F L^{\\prime}$.\n\n\nBut the total electric energy is half the sum of the charges\n of electricity multiplied each by the potential of the charged\n body, so that in the similar systems, if $W$ and $W^{\\prime}$ be the total\n electric energies in the two systems respectively,\n\n$$W: W^{\\prime}:: e V: e^{\\prime} V^{\\prime},$$\n\nand the differences of energy after similar displacements in the\n two systems will be in the same proportion. Hence, since FL\n is proportional to the electrical work done during the displace\nment,\n\n$$F L: F^{\\nu} L^{\\prime}:: e V: e^{\\prime} V^{\\prime} .$$\n\n\nCombining these proportions, we find that the ratio of the\n resultant force on any body of the first system to that on the\n corresponding body of the second system is\n\n$$\\begin{aligned}\n& F: F^{\\prime}:: V^{2} K: V^{\\prime 2} K^{\\prime}, \\\\\n& \\text { or } \\quad F: F^{\\prime}:: \\frac{e^{2}}{L^{2} K}: \\frac{e^{\\prime 2}}{L^{\\prime 2} K^{\\prime}} .\n\\end{aligned}$$\n\n\nThe first of these proportions shews that in similar systems the\n force is proportional to the square of the electromotive force and\n to the inductive capacity of the dielectric, but is independent of\n the actual dimensions of the system.\n\n\nHence two conductors placed in a liquid whose inductive\n capacity is greater than that of air, and electrified to given\n potentials, will attract each other more than if they had been\n electrified to the same potentials in air.\n\n\nThe second proportion shews that if the quantity of electricity\n on each body is given, the forces arc proportional to the squares\n",
+    "structured_lines": [
+      {
+        "page": 156,
+        "line_number": 4,
+        "type": "text",
+        "content": "third place so electrified that the potentials of corresponding",
+        "mathpix_content": "\nthird place so electrified that the potentials of corresponding",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 5,
+        "type": "text",
+        "content": "points are as $V$ to $V^{\\prime}$.",
+        "mathpix_content": " points are as $V$ to $V^{\\prime}$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 6,
+        "type": "text",
+        "content": "From this it appears that if $q$ be any coefficient of capacity or",
+        "mathpix_content": "\n\nFrom this it appears that if $q$ be any coefficient of capacity or",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 156,
+        "line_number": 7,
+        "type": "text",
+        "content": "induction in the first system, and $q^{\\prime}$ the corresponding one in the",
+        "mathpix_content": " induction in the first system, and $q^{\\prime}$ the corresponding one in the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 8,
+        "type": "text",
+        "content": "second,",
+        "mathpix_content": " second,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 11,
+        "type": "text",
+        "content": "and if $p$ and $p^{\\prime}$ denote corresponding coefficients of potential in",
+        "mathpix_content": "\nand if $p$ and $p^{\\prime}$ denote corresponding coefficients of potential in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 12,
+        "type": "text",
+        "content": "the two systems,",
+        "mathpix_content": " the two systems,",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 156,
+        "line_number": 15,
+        "type": "text",
+        "content": "If one of the bodies be displaced in the first system, and the",
+        "mathpix_content": "\n\nIf one of the bodies be displaced in the first system, and the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 16,
+        "type": "text",
+        "content": "corresponding body in the second system receives a similar dis-",
+        "mathpix_content": " corresponding body in the second system receives a similar dis",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 17,
+        "type": "text",
+        "content": "placement, then these displacements are in the proportion of $L$",
+        "mathpix_content": "placement, then these displacements are in the proportion of $L$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 18,
+        "type": "text",
+        "content": "to $L^{\\prime}$, and if the forces acting on the two bodies are as $F$ to $F^{\\prime \\prime}$,",
+        "mathpix_content": " to $L^{\\prime}$, and if the forces acting on the two bodies are as $F$ to $F^{\\prime \\prime}$,",
+        "font_size": 34,
+        "confidence": 0.5434520244598389
+      },
+      {
+        "page": 156,
+        "line_number": 19,
+        "type": "text",
+        "content": "then the work done in the two systems will be as $F L$ to $F L^{\\prime}$.",
+        "mathpix_content": " then the work done in the two systems will be as $F L$ to $F L^{\\prime}$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 20,
+        "type": "text",
+        "content": "But the total electric energy is half the sum of the charges",
+        "mathpix_content": "\n\nBut the total electric energy is half the sum of the charges",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 21,
+        "type": "text",
+        "content": "of electricity multiplied each by the potential of the charged",
+        "mathpix_content": " of electricity multiplied each by the potential of the charged",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 22,
+        "type": "text",
+        "content": "body, so that in the similar systems, if $W$ and $W^{\\prime}$ be the total",
+        "mathpix_content": " body, so that in the similar systems, if $W$ and $W^{\\prime}$ be the total",
+        "font_size": 34,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 156,
+        "line_number": 23,
+        "type": "text",
+        "content": "electric energies in the two systems respectively,",
+        "mathpix_content": " electric energies in the two systems respectively,",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 156,
+        "line_number": 26,
+        "type": "text",
+        "content": "and the differences of energy after similar displacements in the",
+        "mathpix_content": "\nand the differences of energy after similar displacements in the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 27,
+        "type": "text",
+        "content": "two systems will be in the same proportion. Hence, since FL",
+        "mathpix_content": " two systems will be in the same proportion. Hence, since FL",
+        "font_size": 34,
+        "confidence": 0.978515625
+      },
+      {
+        "page": 156,
+        "line_number": 28,
+        "type": "text",
+        "content": "is proportional to the electrical work done during the displace-",
+        "mathpix_content": " is proportional to the electrical work done during the displace",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 29,
+        "type": "text",
+        "content": "ment,",
+        "mathpix_content": "ment,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 32,
+        "type": "text",
+        "content": "Combining these proportions, we find that the ratio of the",
+        "mathpix_content": "\n\nCombining these proportions, we find that the ratio of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 33,
+        "type": "text",
+        "content": "resultant force on any body of the first system to that on the",
+        "mathpix_content": " resultant force on any body of the first system to that on the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 34,
+        "type": "text",
+        "content": "corresponding body of the second system is",
+        "mathpix_content": " corresponding body of the second system is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 38,
+        "type": "text",
+        "content": "The first of these proportions shews that in similar systems the",
+        "mathpix_content": "\n\nThe first of these proportions shews that in similar systems the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 39,
+        "type": "text",
+        "content": "force is proportional to the square of the electromotive force and",
+        "mathpix_content": " force is proportional to the square of the electromotive force and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 40,
+        "type": "text",
+        "content": "to the inductive capacity of the dielectric, but is independent of",
+        "mathpix_content": " to the inductive capacity of the dielectric, but is independent of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 41,
+        "type": "text",
+        "content": "the actual dimensions of the system.",
+        "mathpix_content": " the actual dimensions of the system.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 42,
+        "type": "text",
+        "content": "Hence two conductors placed in a liquid whose inductive",
+        "mathpix_content": "\n\nHence two conductors placed in a liquid whose inductive",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 43,
+        "type": "text",
+        "content": "capacity is greater than that of air, and electrified to given",
+        "mathpix_content": " capacity is greater than that of air, and electrified to given",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 44,
+        "type": "text",
+        "content": "potentials, will attract each other more than if they had been",
+        "mathpix_content": " potentials, will attract each other more than if they had been",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 45,
+        "type": "text",
+        "content": "electrified to the same potentials in air.",
+        "mathpix_content": " electrified to the same potentials in air.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 46,
+        "type": "text",
+        "content": "The second proportion shews that if the quantity of electricity",
+        "mathpix_content": "\n\nThe second proportion shews that if the quantity of electricity",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 156,
+        "line_number": 47,
+        "type": "text",
+        "content": "on each body is given, the forces arc proportional to the squares",
+        "mathpix_content": " on each body is given, the forces arc proportional to the squares",
+        "font_size": 34,
+        "confidence": 0.94873046875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "article_id": "article_8",
+  "article_number": 8,
+  "title_original": ", and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+  "title_safe": "and the internal closed surfaces 81 82 andc",
+  "page_start": 173,
+  "page_end": 173,
+  "content": {
+    "raw_text": "\n--- Page 173 ---\n138\nGENERAL THEOREMS.\n$[100 b$.\n\nThomson's Theorem.\n\nLemma.\n$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and\ncontinuous within the closed surface $s$, and which at certain\nclosed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.\nconstant for each surface.\nLet $u, v, w$ be functions of $x, y, z$, which we may consider as\nthe components of a vector \u00a9 subject to the solenoidal condition\n$$-S . \\nabla \\complement=\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}=0,$$\n(28)\nand let us put in Theorem III\n$$X=\\Psi u, \\quad Y=\\Psi v, \\quad Z=\\Psi w ;$$\n(29)\nwe find as the result of these substitutions\n$$\\begin{aligned}\n\\Sigma_{p} \\iint \\Psi_{p}\\left(l_{p} u\\right. & \\left.+m_{p} v+n_{p} w\\right) d s_{p}+\\iiint \\Psi\\left(\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}\\right) d x d y d z \\\\\n& +\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0\n\\end{aligned}$$\n(30)\nthe surface-integrals being extended over the different surfaces\nand the volume-integrals being taken throughout the whole\nfield, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal\nto $s_{p}$ drawn from the surface into the field. Now the first\nvolume-integral vanishes in virtue of the solenoidal condition\nfor $u, v, w$, and the surface-integrals vanish in the following\ncases :-\n(1) When at every point of the surface $\\Psi=0$.\n(2) When at every point of the surface $l u+m v+n w=0$.\n(3) When the surface is entirely made up of parts which\nsatisfy either (1) or (2).\n(4) When $\\Psi$ is constant over each of the closed surfaces, and\n$$\\iint(l u+m v+n w) d s=0$$\nHence in these four cases the volume-integral\n$$M=\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0$$\n(31)\n100 b.] Now consider a field bounded by the external closed\nsurface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.\n",
+    "mathpix_markdown": "\n--- Page 173 ---\n\n\n\\section*{Thomson's Theorem.}\n\n\n\\section*{Lemma.}\n\n$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and\n continuous within the closed surface $s$, and which at certain\n closed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.\n constant for each surface.\n\n\nLet $u, v, w$ be functions of $x, y, z$, which we may consider as\n the components of a vector \u00a9 subject to the solenoidal condition\n\n$$\\begin{equation*}\n-S . \\nabla \\complement=\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}=0, \\tag{28}\n\\end{equation*}$$\n\nand let us put in Theorem III\n\n$$\\begin{equation*}\nX=\\Psi u, \\quad Y=\\Psi v, \\quad Z=\\Psi w ; \\tag{29}\n\\end{equation*}$$\n\nwe find as the result of these substitutions\n\n$$\\begin{align*}\n\\Sigma_{p} \\iint \\Psi_{p}\\left(l_{p} u\\right. & \\left.+m_{p} v+n_{p} w\\right) d s_{p}+\\iiint \\Psi\\left(\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}\\right) d x d y d z \\\\\n& +\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0 \\tag{30}\n\\end{align*}$$\n\nthe surface-integrals being extended over the different surfaces\n and the volume-integrals being taken throughout the whole\n field, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal\n to $s_{p}$ drawn from the surface into the field. Now the first\n volume-integral vanishes in virtue of the solenoidal condition\n for $u, v, w$, and the surface-integrals vanish in the following\n cases :-\n\n(1) When at every point of the surface $\\Psi=0$.\n\n(2) When at every point of the surface $l u+m v+n w=0$.\n\n(3) When the surface is entirely made up of parts which\n satisfy either (1) or (2).\n\n(4) When $\\Psi$ is constant over each of the closed surfaces, and\n\n$$\\iint(l u+m v+n w) d s=0$$\n\n\nHence in these four cases the volume-integral\n\n$$\\begin{equation*}\nM=\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0 \\tag{31}\n\\end{equation*}$$\n\n\n100 b.] Now consider a field bounded by the external closed\n surface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.\n",
+    "structured_lines": [
+      {
+        "page": 173,
+        "line_number": 5,
+        "type": "text",
+        "content": "Thomson's Theorem.",
+        "mathpix_content": "\n\n\\section*{Thomson's Theorem.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 7,
+        "type": "text",
+        "content": "Lemma.",
+        "mathpix_content": "\n\n\\section*{Lemma.}",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 173,
+        "line_number": 8,
+        "type": "text",
+        "content": "$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+        "mathpix_content": "\n$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+        "font_size": 27,
+        "confidence": 0.6848773956298828
+      },
+      {
+        "page": 173,
+        "line_number": 9,
+        "type": "text",
+        "content": "continuous within the closed surface $s$, and which at certain",
+        "mathpix_content": " continuous within the closed surface $s$, and which at certain",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 173,
+        "line_number": 10,
+        "type": "text",
+        "content": "closed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+        "mathpix_content": " closed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+        "font_size": 27,
+        "confidence": 0.9237693808972836
+      },
+      {
+        "page": 173,
+        "line_number": 11,
+        "type": "text",
+        "content": "constant for each surface.",
+        "mathpix_content": " constant for each surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 12,
+        "type": "text",
+        "content": "Let $u, v, w$ be functions of $x, y, z$, which we may consider as",
+        "mathpix_content": "\n\nLet $u, v, w$ be functions of $x, y, z$, which we may consider as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 13,
+        "type": "text",
+        "content": "the components of a vector \u00a9 subject to the solenoidal condition",
+        "mathpix_content": " the components of a vector \u00a9 subject to the solenoidal condition",
+        "font_size": 27,
+        "confidence": 0.9853515625
+      },
+      {
+        "page": 173,
+        "line_number": 17,
+        "type": "text",
+        "content": "and let us put in Theorem III",
+        "mathpix_content": "\nand let us put in Theorem III",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 21,
+        "type": "text",
+        "content": "we find as the result of these substitutions",
+        "mathpix_content": "\nwe find as the result of these substitutions",
+        "font_size": 27,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 173,
+        "line_number": 26,
+        "type": "text",
+        "content": "the surface-integrals being extended over the different surfaces",
+        "mathpix_content": "\nthe surface-integrals being extended over the different surfaces",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 27,
+        "type": "text",
+        "content": "and the volume-integrals being taken throughout the whole",
+        "mathpix_content": " and the volume-integrals being taken throughout the whole",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 28,
+        "type": "text",
+        "content": "field, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal",
+        "mathpix_content": " field, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 173,
+        "line_number": 29,
+        "type": "text",
+        "content": "to $s_{p}$ drawn from the surface into the field. Now the first",
+        "mathpix_content": " to $s_{p}$ drawn from the surface into the field. Now the first",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 173,
+        "line_number": 30,
+        "type": "text",
+        "content": "volume-integral vanishes in virtue of the solenoidal condition",
+        "mathpix_content": " volume-integral vanishes in virtue of the solenoidal condition",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 31,
+        "type": "text",
+        "content": "for $u, v, w$, and the surface-integrals vanish in the following",
+        "mathpix_content": " for $u, v, w$, and the surface-integrals vanish in the following",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 32,
+        "type": "text",
+        "content": "cases :-",
+        "mathpix_content": " cases :-",
+        "font_size": 27,
+        "confidence": 0.9833984375
+      },
+      {
+        "page": 173,
+        "line_number": 33,
+        "type": "text",
+        "content": "(1) When at every point of the surface $\\Psi=0$.",
+        "mathpix_content": "\n(1) When at every point of the surface $\\Psi=0$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 34,
+        "type": "text",
+        "content": "(2) When at every point of the surface $l u+m v+n w=0$.",
+        "mathpix_content": "\n(2) When at every point of the surface $l u+m v+n w=0$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 35,
+        "type": "text",
+        "content": "(3) When the surface is entirely made up of parts which",
+        "mathpix_content": "\n(3) When the surface is entirely made up of parts which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 36,
+        "type": "text",
+        "content": "satisfy either (1) or (2).",
+        "mathpix_content": " satisfy either (1) or (2).",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 37,
+        "type": "text",
+        "content": "(4) When $\\Psi$ is constant over each of the closed surfaces, and",
+        "mathpix_content": "\n(4) When $\\Psi$ is constant over each of the closed surfaces, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 40,
+        "type": "text",
+        "content": "Hence in these four cases the volume-integral",
+        "mathpix_content": "\n\nHence in these four cases the volume-integral",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 173,
+        "line_number": 44,
+        "type": "text",
+        "content": "100 b.] Now consider a field bounded by the external closed",
+        "mathpix_content": "\n\n100 b.] Now consider a field bounded by the external closed",
+        "font_size": 27,
+        "confidence": 0.9687936305999756
+      },
+      {
+        "page": 173,
+        "line_number": 45,
+        "type": "text",
+        "content": "surface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+        "mathpix_content": " surface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+        "font_size": 27,
+        "confidence": 0.998535871389322
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "$, and that of the negative ones $n-1$. The surface which",
+  "title_safe": "and that of the negative ones n-1. The surface which",
+  "page_start": 206,
+  "page_end": 206,
+  "content": {
+    "raw_text": "\n--- Page 206 ---\n113 .]\nTHEIR NUMBER.\n171\nmay meet in a point or a line. If $n+1$ negative regions meet,\nthe positive region loses $n$ degrees of periphraxy, and the point\nor the line in which they meet is a point or line of equilibrium\nof the $n$th degree.\nWhen $C$ becomes equal to $V_{1}$ the positive region is reduced to\nthe point or the conductor of highest potential, and has therefore\nlost all its periphraxy. Hence, if each point or line of equilibrium\ncounts for one, two, or $n$, according to its degree, the number so\nmade up by the points or lines now considered will be less by\none than the number of negatively charged bodies.\nThere are other points or lines of equilibrium which occur\nwhere the positive regions become separated from each other,\nand the negative region acquires periphraxy. The number of\nthese, reckoned according to their degrees, is less by one than\nthe number of positively charged bodies.\nIf we call a point or line of equilibrium positive when it is the\nmeeting-place of two or more positive regions, and negative when\nthe regions which unite there are negative, then, if there are $p$\nbodies positively and $n$ bodies negatively charged, the sum of\nthe degrees of the positive points and lines of equilibrium will be\n$\\ell-1$, and that of the negative ones $n-1$. The surface which\nsurrounds the electrical system at an infinite distance from it is\nto be reckoned as a body whose charge is equal and opposite to\nthe sum of the charges of the system.\nBut, besides this definite number of points and lines of equi-\nlibrium arising from the junction of different regions, there may\nbe others, of which we can only affirm that their number must\nbe even. For if, as any one of the negative regions expands, it\nmeets itself, it becomes a cyclic region, and it may acquire, by\nrepeatedly meeting itself, any number of degrees of cyclosis, each\nof which corresponds to the point or line of equilibrium at which\nthe cyclosis was established. As the negative region continues\nto expand till it fills all space, it loses every degree of cyclosis\nit has acquired, and becomes at last acyclic. Hence there is a\nset of points or lines of equilibrium at which cyclosis is lost, and\nthese are equal in number of degrees to those at which it is\nacquired.\nIf the form of the charged bodies or conductors is arbitrary,\nwe can only assert that the number of these additional points or\nlines is even, but if they are charged points or spherical con-\n",
+    "mathpix_markdown": "\n--- Page 206 ---\n\nmay meet in a point or a line. If $n+1$ negative regions meet,\n the positive region loses $n$ degrees of periphraxy, and the point\n or the line in which they meet is a point or line of equilibrium\n of the $n$th degree.\n\n\nWhen $C$ becomes equal to $V_{1}$ the positive region is reduced to\n the point or the conductor of highest potential, and has therefore\n lost all its periphraxy. Hence, if each point or line of equilibrium\n counts for one, two, or $n$, according to its degree, the number so\n made up by the points or lines now considered will be less by\n one than the number of negatively charged bodies.\n\n\nThere are other points or lines of equilibrium which occur\n where the positive regions become separated from each other,\n and the negative region acquires periphraxy. The number of\n these, reckoned according to their degrees, is less by one than\n the number of positively charged bodies.\n\n\nIf we call a point or line of equilibrium positive when it is the\n meeting-place of two or more positive regions, and negative when\n the regions which unite there are negative, then, if there are $p$\n bodies positively and $n$ bodies negatively charged, the sum of\n the degrees of the positive points and lines of equilibrium will be\n $\\ell-1$, and that of the negative ones $n-1$. The surface which\n surrounds the electrical system at an infinite distance from it is\n to be reckoned as a body whose charge is equal and opposite to\n the sum of the charges of the system.\n\n\nBut, besides this definite number of points and lines of equi\nlibrium arising from the junction of different regions, there may\n be others, of which we can only affirm that their number must\n be even. For if, as any one of the negative regions expands, it\n meets itself, it becomes a cyclic region, and it may acquire, by\n repeatedly meeting itself, any number of degrees of cyclosis, each\n of which corresponds to the point or line of equilibrium at which\n the cyclosis was established. As the negative region continues\n to expand till it fills all space, it loses every degree of cyclosis\n it has acquired, and becomes at last acyclic. Hence there is a\n set of points or lines of equilibrium at which cyclosis is lost, and\n these are equal in number of degrees to those at which it is\n acquired.\n\n\nIf the form of the charged bodies or conductors is arbitrary,\n we can only assert that the number of these additional points or\n lines is even, but if they are charged points or spherical con-\n",
+    "structured_lines": [
+      {
+        "page": 206,
+        "line_number": 4,
+        "type": "text",
+        "content": "may meet in a point or a line. If $n+1$ negative regions meet,",
+        "mathpix_content": "\nmay meet in a point or a line. If $n+1$ negative regions meet,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 5,
+        "type": "text",
+        "content": "the positive region loses $n$ degrees of periphraxy, and the point",
+        "mathpix_content": " the positive region loses $n$ degrees of periphraxy, and the point",
+        "font_size": 27,
+        "confidence": 0.9941503966692835
+      },
+      {
+        "page": 206,
+        "line_number": 6,
+        "type": "text",
+        "content": "or the line in which they meet is a point or line of equilibrium",
+        "mathpix_content": " or the line in which they meet is a point or line of equilibrium",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 7,
+        "type": "text",
+        "content": "of the $n$th degree.",
+        "mathpix_content": " of the $n$th degree.",
+        "font_size": 27,
+        "confidence": 0.6799507141113281
+      },
+      {
+        "page": 206,
+        "line_number": 8,
+        "type": "text",
+        "content": "When $C$ becomes equal to $V_{1}$ the positive region is reduced to",
+        "mathpix_content": "\n\nWhen $C$ becomes equal to $V_{1}$ the positive region is reduced to",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 206,
+        "line_number": 9,
+        "type": "text",
+        "content": "the point or the conductor of highest potential, and has therefore",
+        "mathpix_content": " the point or the conductor of highest potential, and has therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 10,
+        "type": "text",
+        "content": "lost all its periphraxy. Hence, if each point or line of equilibrium",
+        "mathpix_content": " lost all its periphraxy. Hence, if each point or line of equilibrium",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 206,
+        "line_number": 11,
+        "type": "text",
+        "content": "counts for one, two, or $n$, according to its degree, the number so",
+        "mathpix_content": " counts for one, two, or $n$, according to its degree, the number so",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 206,
+        "line_number": 12,
+        "type": "text",
+        "content": "made up by the points or lines now considered will be less by",
+        "mathpix_content": " made up by the points or lines now considered will be less by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 13,
+        "type": "text",
+        "content": "one than the number of negatively charged bodies.",
+        "mathpix_content": " one than the number of negatively charged bodies.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 14,
+        "type": "text",
+        "content": "There are other points or lines of equilibrium which occur",
+        "mathpix_content": "\n\nThere are other points or lines of equilibrium which occur",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 206,
+        "line_number": 15,
+        "type": "text",
+        "content": "where the positive regions become separated from each other,",
+        "mathpix_content": " where the positive regions become separated from each other,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 16,
+        "type": "text",
+        "content": "and the negative region acquires periphraxy. The number of",
+        "mathpix_content": " and the negative region acquires periphraxy. The number of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 17,
+        "type": "text",
+        "content": "these, reckoned according to their degrees, is less by one than",
+        "mathpix_content": " these, reckoned according to their degrees, is less by one than",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 18,
+        "type": "text",
+        "content": "the number of positively charged bodies.",
+        "mathpix_content": " the number of positively charged bodies.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 19,
+        "type": "text",
+        "content": "If we call a point or line of equilibrium positive when it is the",
+        "mathpix_content": "\n\nIf we call a point or line of equilibrium positive when it is the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 206,
+        "line_number": 20,
+        "type": "text",
+        "content": "meeting-place of two or more positive regions, and negative when",
+        "mathpix_content": " meeting-place of two or more positive regions, and negative when",
+        "font_size": 27,
+        "confidence": 0.9682769775390625
+      },
+      {
+        "page": 206,
+        "line_number": 21,
+        "type": "text",
+        "content": "the regions which unite there are negative, then, if there are $p$",
+        "mathpix_content": " the regions which unite there are negative, then, if there are $p$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 22,
+        "type": "text",
+        "content": "bodies positively and $n$ bodies negatively charged, the sum of",
+        "mathpix_content": " bodies positively and $n$ bodies negatively charged, the sum of",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 206,
+        "line_number": 23,
+        "type": "text",
+        "content": "the degrees of the positive points and lines of equilibrium will be",
+        "mathpix_content": " the degrees of the positive points and lines of equilibrium will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 24,
+        "type": "text",
+        "content": "$\\ell-1$, and that of the negative ones $n-1$. The surface which",
+        "mathpix_content": " $\\ell-1$, and that of the negative ones $n-1$. The surface which",
+        "font_size": 27,
+        "confidence": 0.5160802725004032
+      },
+      {
+        "page": 206,
+        "line_number": 25,
+        "type": "text",
+        "content": "surrounds the electrical system at an infinite distance from it is",
+        "mathpix_content": " surrounds the electrical system at an infinite distance from it is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 26,
+        "type": "text",
+        "content": "to be reckoned as a body whose charge is equal and opposite to",
+        "mathpix_content": " to be reckoned as a body whose charge is equal and opposite to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 27,
+        "type": "text",
+        "content": "the sum of the charges of the system.",
+        "mathpix_content": " the sum of the charges of the system.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 28,
+        "type": "text",
+        "content": "But, besides this definite number of points and lines of equi-",
+        "mathpix_content": "\n\nBut, besides this definite number of points and lines of equi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 29,
+        "type": "text",
+        "content": "librium arising from the junction of different regions, there may",
+        "mathpix_content": "librium arising from the junction of different regions, there may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 30,
+        "type": "text",
+        "content": "be others, of which we can only affirm that their number must",
+        "mathpix_content": " be others, of which we can only affirm that their number must",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 31,
+        "type": "text",
+        "content": "be even. For if, as any one of the negative regions expands, it",
+        "mathpix_content": " be even. For if, as any one of the negative regions expands, it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 32,
+        "type": "text",
+        "content": "meets itself, it becomes a cyclic region, and it may acquire, by",
+        "mathpix_content": " meets itself, it becomes a cyclic region, and it may acquire, by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 33,
+        "type": "text",
+        "content": "repeatedly meeting itself, any number of degrees of cyclosis, each",
+        "mathpix_content": " repeatedly meeting itself, any number of degrees of cyclosis, each",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 34,
+        "type": "text",
+        "content": "of which corresponds to the point or line of equilibrium at which",
+        "mathpix_content": " of which corresponds to the point or line of equilibrium at which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 35,
+        "type": "text",
+        "content": "the cyclosis was established. As the negative region continues",
+        "mathpix_content": " the cyclosis was established. As the negative region continues",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 36,
+        "type": "text",
+        "content": "to expand till it fills all space, it loses every degree of cyclosis",
+        "mathpix_content": " to expand till it fills all space, it loses every degree of cyclosis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 37,
+        "type": "text",
+        "content": "it has acquired, and becomes at last acyclic. Hence there is a",
+        "mathpix_content": " it has acquired, and becomes at last acyclic. Hence there is a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 38,
+        "type": "text",
+        "content": "set of points or lines of equilibrium at which cyclosis is lost, and",
+        "mathpix_content": " set of points or lines of equilibrium at which cyclosis is lost, and",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 206,
+        "line_number": 39,
+        "type": "text",
+        "content": "these are equal in number of degrees to those at which it is",
+        "mathpix_content": " these are equal in number of degrees to those at which it is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 40,
+        "type": "text",
+        "content": "acquired.",
+        "mathpix_content": " acquired.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 41,
+        "type": "text",
+        "content": "If the form of the charged bodies or conductors is arbitrary,",
+        "mathpix_content": "\n\nIf the form of the charged bodies or conductors is arbitrary,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 42,
+        "type": "text",
+        "content": "we can only assert that the number of these additional points or",
+        "mathpix_content": " we can only assert that the number of these additional points or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 206,
+        "line_number": 43,
+        "type": "text",
+        "content": "lines is even, but if they are charged points or spherical con-",
+        "mathpix_content": " lines is even, but if they are charged points or spherical con-",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

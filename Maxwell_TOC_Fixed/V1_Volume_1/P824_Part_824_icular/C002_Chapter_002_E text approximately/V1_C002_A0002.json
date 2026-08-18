@@ -1,0 +1,183 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}}{E} \\text { approximately }",
+  "title_safe": "E text approximately",
+  "page_start": 526,
+  "page_end": 526,
+  "content": {
+    "raw_text": "\n--- Page 526 ---\n357.]\nMANCE'S METHOD.\n491\ncase of the result proved in Art. 347, or may be seen directly on\nthe elimination of $z$ and $\\beta$ from the equations of that article,\nviz. we then have\n$$(a a-c \\gamma) x+(c \\gamma+c a+c b+b a) y=E a .$$\nIf $y$ is independent of $x$, and therefore of $\\beta$, we must have\n$a \\alpha=c \\gamma$. The resistance of the battery is thus obtained in terms\nof $c, \\gamma, a$.\nWhen the condition $a a=c \\gamma$ is fulfilled, the current $y$ through\nthe galvanometer is given by\n$$y=\\frac{E a}{c b+a(a+b+c)},=\\frac{E \\gamma}{a b+\\gamma(a+b+c)} .$$\nTo test the sensibility of the method let us suppose that\nthe condition $c \\gamma=\\alpha a$ is nearly, but not accurately, fulfilled,\n\nFig. 38.\nand that $y_{0}$ is the current through the galvanometer when\n$O$ and $B$ are connected by a conductor of no sensible resistance,\nand $y_{1}$ the current when $O$ and $B$ are completely disconnected.\nTo find these values we must make $\\beta$ equal to 0 and to $\\infty$ in\nthe general formula for $y$, and compare the results.\nThe general value for $y$ is\n$$\\frac{c \\gamma+\\beta \\gamma+\\gamma a+a \\beta}{D} E,$$\nwhere $D$ denotes the same expression as in Art. 348. Putting\n$\\beta=0$, we get\n$$\\begin{aligned}\ny_{0} & =\\frac{\\gamma E}{a b+\\gamma(a+b+c)+\\frac{c(a a-c \\gamma)}{a+c}} \\\\\n& =y+\\frac{c(c \\gamma-a a)}{\\gamma(c+a)} \\frac{y^{2}}{E} \\text { approximately }\n\\end{aligned}$$\n",
+    "mathpix_markdown": "\n--- Page 526 ---\n\ncase of the result proved in Art. 347, or may be seen directly on\n the elimination of $z$ and $\\beta$ from the equations of that article,\n viz. we then have\n\n$$(a a-c \\gamma) x+(c \\gamma+c a+c b+b a) y=E a .$$\n\n\nIf $y$ is independent of $x$, and therefore of $\\beta$, we must have\n $a \\alpha=c \\gamma$. The resistance of the battery is thus obtained in terms\n of $c, \\gamma, a$.\n\n\nWhen the condition $a a=c \\gamma$ is fulfilled, the current $y$ through\n the galvanometer is given by\n\n$$y=\\frac{E a}{c b+a(a+b+c)},=\\frac{E \\gamma}{a b+\\gamma(a+b+c)} .$$\n\n\nTo test the sensibility of the method let us suppose that\n the condition $c \\gamma=\\alpha a$ is nearly, but not accurately, fulfilled,\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-526.jpg?height=392&width=542&top_left_y=808&top_left_x=369}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 38.}\n\\end{figure}\n\nand that $y_{0}$ is the current through the galvanometer when\n $O$ and $B$ are connected by a conductor of no sensible resistance,\n and $y_{1}$ the current when $O$ and $B$ are completely disconnected.\n\n\nTo find these values we must make $\\beta$ equal to 0 and to $\\infty$ in\n the general formula for $y$, and compare the results.\n\n\nThe general value for $y$ is\n\n$$\\frac{c \\gamma+\\beta \\gamma+\\gamma a+a \\beta}{D} E,$$\n\nwhere $D$ denotes the same expression as in Art. 348. Putting\n $\\beta=0$, we get\n\n$$\\begin{aligned}\ny_{0} & =\\frac{\\gamma E}{a b+\\gamma(a+b+c)+\\frac{c(a a-c \\gamma)}{a+c}} \\\\\n& =y+\\frac{c(c \\gamma-a a)}{\\gamma(c+a)} \\frac{y^{2}}{E} \\text { approximately }\n\\end{aligned}$$\n",
+    "structured_lines": [
+      {
+        "page": 526,
+        "line_number": 4,
+        "type": "text",
+        "content": "case of the result proved in Art. 347, or may be seen directly on",
+        "mathpix_content": "\ncase of the result proved in Art. 347, or may be seen directly on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 5,
+        "type": "text",
+        "content": "the elimination of $z$ and $\\beta$ from the equations of that article,",
+        "mathpix_content": " the elimination of $z$ and $\\beta$ from the equations of that article,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 6,
+        "type": "text",
+        "content": "viz. we then have",
+        "mathpix_content": " viz. we then have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 9,
+        "type": "text",
+        "content": "If $y$ is independent of $x$, and therefore of $\\beta$, we must have",
+        "mathpix_content": "\n\nIf $y$ is independent of $x$, and therefore of $\\beta$, we must have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 10,
+        "type": "text",
+        "content": "$a \\alpha=c \\gamma$. The resistance of the battery is thus obtained in terms",
+        "mathpix_content": " $a \\alpha=c \\gamma$. The resistance of the battery is thus obtained in terms",
+        "font_size": 27,
+        "confidence": 0.4413238763809204
+      },
+      {
+        "page": 526,
+        "line_number": 11,
+        "type": "text",
+        "content": "of $c, \\gamma, a$.",
+        "mathpix_content": " of $c, \\gamma, a$.",
+        "font_size": 27,
+        "confidence": 0.9718927054200321
+      },
+      {
+        "page": 526,
+        "line_number": 12,
+        "type": "text",
+        "content": "When the condition $a a=c \\gamma$ is fulfilled, the current $y$ through",
+        "mathpix_content": "\n\nWhen the condition $a a=c \\gamma$ is fulfilled, the current $y$ through",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 526,
+        "line_number": 13,
+        "type": "text",
+        "content": "the galvanometer is given by",
+        "mathpix_content": " the galvanometer is given by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 16,
+        "type": "text",
+        "content": "To test the sensibility of the method let us suppose that",
+        "mathpix_content": "\n\nTo test the sensibility of the method let us suppose that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 17,
+        "type": "text",
+        "content": "the condition $c \\gamma=\\alpha a$ is nearly, but not accurately, fulfilled,",
+        "mathpix_content": " the condition $c \\gamma=\\alpha a$ is nearly, but not accurately, fulfilled,",
+        "font_size": 27,
+        "confidence": 0.8452901840209961
+      },
+      {
+        "page": 526,
+        "line_number": 20,
+        "type": "text",
+        "content": "and that $y_{0}$ is the current through the galvanometer when",
+        "mathpix_content": "\nand that $y_{0}$ is the current through the galvanometer when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 21,
+        "type": "text",
+        "content": "$O$ and $B$ are connected by a conductor of no sensible resistance,",
+        "mathpix_content": " $O$ and $B$ are connected by a conductor of no sensible resistance,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 22,
+        "type": "text",
+        "content": "and $y_{1}$ the current when $O$ and $B$ are completely disconnected.",
+        "mathpix_content": " and $y_{1}$ the current when $O$ and $B$ are completely disconnected.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 23,
+        "type": "text",
+        "content": "To find these values we must make $\\beta$ equal to 0 and to $\\infty$ in",
+        "mathpix_content": "\n\nTo find these values we must make $\\beta$ equal to 0 and to $\\infty$ in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 24,
+        "type": "text",
+        "content": "the general formula for $y$, and compare the results.",
+        "mathpix_content": " the general formula for $y$, and compare the results.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 25,
+        "type": "text",
+        "content": "The general value for $y$ is",
+        "mathpix_content": "\n\nThe general value for $y$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 28,
+        "type": "text",
+        "content": "where $D$ denotes the same expression as in Art. 348. Putting",
+        "mathpix_content": "\nwhere $D$ denotes the same expression as in Art. 348. Putting",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 526,
+        "line_number": 29,
+        "type": "text",
+        "content": "$\\beta=0$, we get",
+        "mathpix_content": " $\\beta=0$, we get",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

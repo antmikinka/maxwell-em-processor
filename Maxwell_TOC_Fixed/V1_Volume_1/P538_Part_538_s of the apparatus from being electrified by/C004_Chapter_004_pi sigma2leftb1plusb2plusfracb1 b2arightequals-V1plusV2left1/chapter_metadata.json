@@ -1,0 +1,1126 @@
+{
+  "chapter_id": "chapter_89",
+  "chapter_number": 4,
+  "title": "\\pi \\sigma_{2}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=-V_{1}+V_{2}\\left(1+\\frac{b_{1}}{a}\\right)-V \\frac{b_{1}}{a} . \\tag{13}",
+  "page_start": 347,
+  "page_end": 347,
+  "articles": [
+    {
+      "article_id": "article_205",
+      "article_number": 205,
+      "title_original": "The equipotential surfaces at a distance from the wires become",
+      "title_safe": "The equipotential surfaces at a distance from the wires beco",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_205",
+      "article_number": 205,
+      "title_original": "] We have now obtained expressions representing the",
+      "title_safe": "We have now obtained expressions representing the",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_205",
+      "article_number": 205,
+      "title_original": "] We have now obtained expressions representing the",
+      "title_safe": "We have now obtained expressions representing the",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_312",
+      "article_number": 312,
+      "title_original": "CONJUGATE FUNCTIONS.",
+      "title_safe": "CONJUGATE FUNCTIONS",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_205",
+      "article_number": 205,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, a quantity large compared",
+      "title_safe": "a quantity large compared",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=-\\frac{4 \\pi b_{1}}{a}\\left(\\lambda+\\lambda^{\\prime}\\right)+C \\text { nearly }$$",
+      "title_safe": "equals-frac4 pi b1aleftlambdapluslambdaprimerightplusC text",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$, where $b_{2}$ is a positive quantity large",
+      "title_safe": "where b2 is a positive quantity large",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=\\frac{4 \\pi b_{2}}{a} \\lambda^{\\prime}+C \\text { nearly }$$",
+      "title_safe": "equalsfrac4 pi b2a lambdaprimeplusC text nearly",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_7",
+      "article_number": 7,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "$, whence",
+      "title_safe": "whence",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\lambda \\log _{e} 2 \\sin \\frac{\\pi c}{\\alpha}+C$$",
+      "title_safe": "lambda log e 2 sin fracpi calphaplusC",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_205",
+      "article_number": 205,
+      "title_original": ".] We have now obtained expressions representing the",
+      "title_safe": "We have now obtained expressions representing the",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ on the first plane is got from the",
+      "title_safe": "on the first plane is got from the",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{1}=\\frac{d V_{1}}{d b_{1}}=-\\frac{4 \\pi}{a}\\left(\\lambda+\\lambda^{\\prime}\\right),$$",
+      "title_safe": "pi sigma1equalsfracd V1d b1equals-frac4 pialeftlambdapluslam",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_9",
+      "article_number": 9,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ from the equation (7)",
+      "title_safe": "from the equation 7",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{2}=\\frac{d V_{2}}{d b_{2}}=\\frac{4 \\pi}{a} \\lambda^{\\prime} .$$",
+      "title_safe": "pi sigma2equalsfracd V2d b2equalsfrac4 pia lambdaprime",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_10",
+      "article_number": 10,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi} \\log _{e}\\left(2 \\sin \\frac{\\pi c}{a}\\right)$$",
+      "title_safe": "pi log eleft2 sin fracpi caright",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": "), (7), (8), (9), (10),",
+      "title_safe": "7 8 9 10",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{1}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=V_{1}\\left(1+\\frac{b_{2}}{a}\\right)-V_{2}-V \\frac{b_{2}}{a}, \\\\",
+      "title_safe": "pi sigma1leftb1plusb2plusfracb1 b2arightequalsV1left1plusfra",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{2}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=-V_{1}+V_{2}\\left(1+\\frac{b_{1}}{a}\\right)-V \\frac{b_{1}}{a} .",
+      "title_safe": "pi sigma2leftb1plusb2plusfracb1 b2arightequals-V1plusV2left1",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_12",
+      "article_number": 12,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_13",
+      "article_number": 13,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, a quantity large compared",
+      "title_safe": "a quantity large compared",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=-\\frac{4 \\pi b_{1}}{a}\\left(\\lambda+\\lambda^{\\prime}\\right)+C \\text { nearly } \\tag{6}",
+      "title_safe": "equals-frac4 pi b1aleftlambdapluslambdaprimerightplusC text",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$, where $b_{2}$ is a positive quantity large",
+      "title_safe": "where b2 is a positive quantity large",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=\\frac{4 \\pi b_{2}}{a} \\lambda^{\\prime}+C \\text { nearly } \\tag{7}",
+      "title_safe": "equalsfrac4 pi b2a lambdaprimeplusC text nearly tag7",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "$, whence",
+      "title_safe": "whence",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\lambda \\log _{e} 2 \\sin \\frac{\\pi c}{\\alpha}+C \\tag{8}",
+      "title_safe": "lambda log e 2 sin fracpi calphaplusC tag8",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_205",
+      "article_number": 205,
+      "title_original": ".] We have now obtained expressions representing the",
+      "title_safe": "We have now obtained expressions representing the",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ on the first plane is got from the",
+      "title_safe": "on the first plane is got from the",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{1}=\\frac{d V_{1}}{d b_{1}}=-\\frac{4 \\pi}{a}\\left(\\lambda+\\lambda^{\\prime}\\right), \\tag{9}",
+      "title_safe": "pi sigma1equalsfracd V1d b1equals-frac4 pialeftlambdapluslam",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ from the equation (7)",
+      "title_safe": "from the equation 7",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{2}=\\frac{d V_{2}}{d b_{2}}=\\frac{4 \\pi}{a} \\lambda^{\\prime} . \\tag{10}",
+      "title_safe": "pi sigma2equalsfracd V2d b2equalsfrac4 pia lambdaprime . tag",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi} \\log _{e}\\left(2 \\sin \\frac{\\pi c}{a}\\right) \\tag{11}",
+      "title_safe": "pi log eleft2 sin fracpi caright tag11",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": "), (7), (8), (9), (10),",
+      "title_safe": "7 8 9 10",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{1}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=V_{1}\\left(1+\\frac{b_{2}}{a}\\right)-V_{2}-V \\frac{b_{2}}{a},  \\tag{12}\\\\",
+      "title_safe": "pi sigma1leftb1plusb2plusfracb1 b2arightequalsV1left1plusfra",
+      "page_start": 347,
+      "page_end": 346,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\sigma_{2}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=-V_{1}+V_{2}\\left(1+\\frac{b_{1}}{a}\\right)-V \\frac{b_{1}}{a} . \\tag{13}",
+      "title_safe": "pi sigma2leftb1plusb2plusfracb1 b2arightequals-V1plusV2left1",
+      "page_start": 347,
+      "page_end": 347,
+      "content": {
+        "raw_text": "\n--- Page 347 ---\n312\nCONJUGATE FUNCTIONS.\n[205.\nThe equipotential surfaces at a distance from the wires become\nmore and more nearly planes parallel to that of the grating.\nIf in the equation we make $y=b_{1}$, a quantity large compared\nwith $a$, we find approximately,\n$$V_{1}=-\\frac{4 \\pi b_{1}}{a}\\left(\\lambda+\\lambda^{\\prime}\\right)+C \\text { nearly }$$\n(6)\nIf we next make $y=-b_{2}$, where $b_{2}$ is a positive quantity large\ncompared with $u$, we find approximately,\n$$V_{2}=\\frac{4 \\pi b_{2}}{a} \\lambda^{\\prime}+C \\text { nearly }$$\n(7)\nIf $c$ is the radius of the wires of the grating, $c$ being small\ncompared with $\\alpha$, we may find the potential of the grating itself\nby supposing that the surface of the wire coincides with the\nequipotential surface which cuts the plane of $x z$ at a distance $c$\nfrom the axis of $z$. To find the potential of the grating we\ntherefore put $x=c$, and $y=0$, whence\n$$V=-2 \\lambda \\log _{e} 2 \\sin \\frac{\\pi c}{\\alpha}+C$$\n(8)\n205.] We have now obtained expressions representing the\nelectrical state of a system consisting of a grating of wires\nwhose diameter is small compared with the distance between\nthem, and two plane conducting surfaces, one on each side of\nthe grating, and at distances which are great compared with\nthe distance between the wires.\nThe surface-density $\\sigma_{1}$ on the first plane is got from the\nequation (6)\n$$4 \\pi \\sigma_{1}=\\frac{d V_{1}}{d b_{1}}=-\\frac{4 \\pi}{a}\\left(\\lambda+\\lambda^{\\prime}\\right),$$\n(9)\nthat on the second plane $\\sigma_{2}$ from the equation (7)\n$$4 \\pi \\sigma_{2}=\\frac{d V_{2}}{d b_{2}}=\\frac{4 \\pi}{a} \\lambda^{\\prime} .$$\n(10)\nIf we now write\n$$a=-\\frac{a}{2 \\pi} \\log _{e}\\left(2 \\sin \\frac{\\pi c}{a}\\right)$$\n(11)\nand eliminate $c, \\lambda$ and $\\lambda^{\\prime}$ from the equations (6), (7), (8), (9), (10),\nwe find\n$$\\begin{aligned}\n& 4 \\pi \\sigma_{1}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=V_{1}\\left(1+\\frac{b_{2}}{a}\\right)-V_{2}-V \\frac{b_{2}}{a}, \\\\\n& 4 \\pi \\sigma_{2}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=-V_{1}+V_{2}\\left(1+\\frac{b_{1}}{a}\\right)-V \\frac{b_{1}}{a} .\n\\end{aligned}$$\n(12)\n(13)\n",
+        "mathpix_markdown": "\n--- Page 347 ---\n\n\nThe equipotential surfaces at a distance from the wires become\n more and more nearly planes parallel to that of the grating.\n\n\nIf in the equation we make $y=b_{1}$, a quantity large compared\n with $a$, we find approximately,\n\n$$\\begin{equation*}\nV_{1}=-\\frac{4 \\pi b_{1}}{a}\\left(\\lambda+\\lambda^{\\prime}\\right)+C \\text { nearly } \\tag{6}\n\\end{equation*}$$\n\n\nIf we next make $y=-b_{2}$, where $b_{2}$ is a positive quantity large\n compared with $u$, we find approximately,\n\n$$\\begin{equation*}\nV_{2}=\\frac{4 \\pi b_{2}}{a} \\lambda^{\\prime}+C \\text { nearly } \\tag{7}\n\\end{equation*}$$\n\n\nIf $c$ is the radius of the wires of the grating, $c$ being small\n compared with $\\alpha$, we may find the potential of the grating itself\n by supposing that the surface of the wire coincides with the\n equipotential surface which cuts the plane of $x z$ at a distance $c$\n from the axis of $z$. To find the potential of the grating we\n therefore put $x=c$, and $y=0$, whence\n\n$$\\begin{equation*}\nV=-2 \\lambda \\log _{e} 2 \\sin \\frac{\\pi c}{\\alpha}+C \\tag{8}\n\\end{equation*}$$\n\n205.] We have now obtained expressions representing the\n electrical state of a system consisting of a grating of wires\n whose diameter is small compared with the distance between\n them, and two plane conducting surfaces, one on each side of\n the grating, and at distances which are great compared with\n the distance between the wires.\n\n\nThe surface-density $\\sigma_{1}$ on the first plane is got from the\n equation (6)\n\n$$\\begin{equation*}\n4 \\pi \\sigma_{1}=\\frac{d V_{1}}{d b_{1}}=-\\frac{4 \\pi}{a}\\left(\\lambda+\\lambda^{\\prime}\\right), \\tag{9}\n\\end{equation*}$$\n\nthat on the second plane $\\sigma_{2}$ from the equation (7)\n\n$$\\begin{equation*}\n4 \\pi \\sigma_{2}=\\frac{d V_{2}}{d b_{2}}=\\frac{4 \\pi}{a} \\lambda^{\\prime} . \\tag{10}\n\\end{equation*}$$\n\n\nIf we now write\n\n$$\\begin{equation*}\na=-\\frac{a}{2 \\pi} \\log _{e}\\left(2 \\sin \\frac{\\pi c}{a}\\right) \\tag{11}\n\\end{equation*}$$\n\nand eliminate $c, \\lambda$ and $\\lambda^{\\prime}$ from the equations (6), (7), (8), (9), (10),\n we find\n\n$$\\begin{align*}\n& 4 \\pi \\sigma_{1}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=V_{1}\\left(1+\\frac{b_{2}}{a}\\right)-V_{2}-V \\frac{b_{2}}{a},  \\tag{12}\\\\\n& 4 \\pi \\sigma_{2}\\left(b_{1}+b_{2}+\\frac{b_{1} b_{2}}{a}\\right)=-V_{1}+V_{2}\\left(1+\\frac{b_{1}}{a}\\right)-V \\frac{b_{1}}{a} . \\tag{13}\n\\end{align*}$$\n",
+        "structured_lines": [
+          {
+            "page": 347,
+            "line_number": 4,
+            "type": "text",
+            "content": "The equipotential surfaces at a distance from the wires become",
+            "mathpix_content": "\n\nThe equipotential surfaces at a distance from the wires become",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 5,
+            "type": "text",
+            "content": "more and more nearly planes parallel to that of the grating.",
+            "mathpix_content": " more and more nearly planes parallel to that of the grating.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 6,
+            "type": "text",
+            "content": "If in the equation we make $y=b_{1}$, a quantity large compared",
+            "mathpix_content": "\n\nIf in the equation we make $y=b_{1}$, a quantity large compared",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 7,
+            "type": "text",
+            "content": "with $a$, we find approximately,",
+            "mathpix_content": " with $a$, we find approximately,",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 347,
+            "line_number": 11,
+            "type": "text",
+            "content": "If we next make $y=-b_{2}$, where $b_{2}$ is a positive quantity large",
+            "mathpix_content": "\n\nIf we next make $y=-b_{2}$, where $b_{2}$ is a positive quantity large",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 12,
+            "type": "text",
+            "content": "compared with $u$, we find approximately,",
+            "mathpix_content": " compared with $u$, we find approximately,",
+            "font_size": 27,
+            "confidence": 0.958984375
+          },
+          {
+            "page": 347,
+            "line_number": 16,
+            "type": "text",
+            "content": "If $c$ is the radius of the wires of the grating, $c$ being small",
+            "mathpix_content": "\n\nIf $c$ is the radius of the wires of the grating, $c$ being small",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 17,
+            "type": "text",
+            "content": "compared with $\\alpha$, we may find the potential of the grating itself",
+            "mathpix_content": " compared with $\\alpha$, we may find the potential of the grating itself",
+            "font_size": 27,
+            "confidence": 0.99658203125
+          },
+          {
+            "page": 347,
+            "line_number": 18,
+            "type": "text",
+            "content": "by supposing that the surface of the wire coincides with the",
+            "mathpix_content": " by supposing that the surface of the wire coincides with the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 19,
+            "type": "text",
+            "content": "equipotential surface which cuts the plane of $x z$ at a distance $c$",
+            "mathpix_content": " equipotential surface which cuts the plane of $x z$ at a distance $c$",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 20,
+            "type": "text",
+            "content": "from the axis of $z$. To find the potential of the grating we",
+            "mathpix_content": " from the axis of $z$. To find the potential of the grating we",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 21,
+            "type": "text",
+            "content": "therefore put $x=c$, and $y=0$, whence",
+            "mathpix_content": " therefore put $x=c$, and $y=0$, whence",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 25,
+            "type": "text",
+            "content": "205.] We have now obtained expressions representing the",
+            "mathpix_content": "\n205.] We have now obtained expressions representing the",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 347,
+            "line_number": 26,
+            "type": "text",
+            "content": "electrical state of a system consisting of a grating of wires",
+            "mathpix_content": " electrical state of a system consisting of a grating of wires",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 27,
+            "type": "text",
+            "content": "whose diameter is small compared with the distance between",
+            "mathpix_content": " whose diameter is small compared with the distance between",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 28,
+            "type": "text",
+            "content": "them, and two plane conducting surfaces, one on each side of",
+            "mathpix_content": " them, and two plane conducting surfaces, one on each side of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 29,
+            "type": "text",
+            "content": "the grating, and at distances which are great compared with",
+            "mathpix_content": " the grating, and at distances which are great compared with",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 30,
+            "type": "text",
+            "content": "the distance between the wires.",
+            "mathpix_content": " the distance between the wires.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 31,
+            "type": "text",
+            "content": "The surface-density $\\sigma_{1}$ on the first plane is got from the",
+            "mathpix_content": "\n\nThe surface-density $\\sigma_{1}$ on the first plane is got from the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 32,
+            "type": "text",
+            "content": "equation (6)",
+            "mathpix_content": " equation (6)",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 36,
+            "type": "text",
+            "content": "that on the second plane $\\sigma_{2}$ from the equation (7)",
+            "mathpix_content": "\nthat on the second plane $\\sigma_{2}$ from the equation (7)",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 40,
+            "type": "text",
+            "content": "If we now write",
+            "mathpix_content": "\n\nIf we now write",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 44,
+            "type": "text",
+            "content": "and eliminate $c, \\lambda$ and $\\lambda^{\\prime}$ from the equations (6), (7), (8), (9), (10),",
+            "mathpix_content": "\nand eliminate $c, \\lambda$ and $\\lambda^{\\prime}$ from the equations (6), (7), (8), (9), (10),",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 347,
+            "line_number": 45,
+            "type": "text",
+            "content": "we find",
+            "mathpix_content": " we find",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

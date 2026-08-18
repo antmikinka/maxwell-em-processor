@@ -1,0 +1,20 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "}$ and $\\mathrm{Na}_{2} \\mathrm{O}$ but $\\mathrm{SO}_{4}$ and $\\mathrm{Na}_{2}$,-not sulphuric acid and",
+  "title_safe": "and mathrmNa2 mathrmO but mathrmSO4 and mathrmNa2-not sulphu",
+  "page_start": 417,
+  "page_end": 416,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

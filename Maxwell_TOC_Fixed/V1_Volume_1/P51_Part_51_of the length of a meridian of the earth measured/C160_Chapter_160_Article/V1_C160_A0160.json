@@ -1,0 +1,363 @@
+{
+  "article_id": "article_160",
+  "article_number": 160,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 37,
+  "page_end": 37,
+  "content": {
+    "raw_text": "\n--- Page 37 ---\n2\nPRELIMINARY.\n[\u0292.\nnumerical values of the quantities as measured by his own\nnational units, would arrive at a true result.\nHence, in all scientific studies it is of the greatest importance\nto employ units belonging to a properly defined system, and to\nknow the relations of these units to the fundamental units, so\nthat we may be able at once to transform our results from one\nsystem to another.\nThis is most conveniently done by ascertaining the dimensions\nof every unit in terms of the three fundamental units. When a\ngiven unit varies as the $n$th power of one of these units, it is\nsaid to be of $n$ dimensions as regards that unit.\nFor instance, the scientific unit of volume is always the cube\nwhose side is the unit of length. If the unit of length varies,\nthe unit of volume will vary as its third power, and the unit of\nvolume is said to be of three limensions with respect to the unit\nof length.\nA knowledge of the dimensions of units furnishes a test which\nought to be applied to the equations resulting from any lengthened\ninvestigation. The dimensions of every term of such an equa-\ntion, with respect to each of the three fundamental units, must\nbe the same. If not, the equation is absurd, and contains some\nerror, as its interpretation would be different according to the\narbitrary system of units which we adopt *.\n\nThe Three Fundamental Units.\n3.] (1) Length. The standard of length for scientinic purposes\nin this country is one foot, which is the third part of the standard\nyard preserved in the Exchequer Chambers.\nIn France, and other countries which have adopted the metric\nsystem, it is the m\u00e8tre. The m\u00e8tre is theoretically the ten mil-\nlionth part of the length of a meridian of the earth measured\nfrom the pole to the equator; but practically it is the length of\na standard preserved in Paris, which was constructed by Borda\nto correspond, when at the temperature of melting ice, with the\nvalue of the preceding length as measured by Delambre. The\nm\u00e8tre has not been altered to correspond with new and more\naccurate measurements of the earth, but the arc of the meridian\nis estimated in terms of the original m\u00e8tre.\n\n* The theory of dimensions was first stated by Fourier, Th\u00e9orie de Chaleur, \u00a7 160.\n",
+    "mathpix_markdown": "\n--- Page 37 ---\n\nnumerical values of the quantities as measured by his own\n national units, would arrive at a true result.\n\n\nHence, in all scientific studies it is of the greatest importance\n to employ units belonging to a properly defined system, and to\n know the relations of these units to the fundamental units, so\n that we may be able at once to transform our results from one\n system to another.\n\n\nThis is most conveniently done by ascertaining the dimensions\n of every unit in terms of the three fundamental units. When a\n given unit varies as the $n$th power of one of these units, it is\n said to be of $n$ dimensions as regards that unit.\n\n\nFor instance, the scientific unit of volume is always the cube\n whose side is the unit of length. If the unit of length varies,\n the unit of volume will vary as its third power, and the unit of\n volume is said to be of three limensions with respect to the unit\n of length.\n\n\nA knowledge of the dimensions of units furnishes a test which\n ought to be applied to the equations resulting from any lengthened\n investigation. The dimensions of every term of such an equa\ntion, with respect to each of the three fundamental units, must\n be the same. If not, the equation is absurd, and contains some\n error, as its interpretation would be different according to the\n arbitrary system of units which we adopt *.\n\n\n\\section*{The Three Fundamental Units.}\n\n3.] (1) Length. The standard of length for scientinic purposes\n in this country is one foot, which is the third part of the standard\n yard preserved in the Exchequer Chambers.\n\n\nIn France, and other countries which have adopted the metric\n system, it is the m\u00e8tre. The m\u00e8tre is theoretically the ten mil\nlionth part of the length of a meridian of the earth measured\n from the pole to the equator; but practically it is the length of\n a standard preserved in Paris, which was constructed by Borda\n to correspond, when at the temperature of melting ice, with the\n value of the preceding length as measured by Delambre. The\n m\u00e8tre has not been altered to correspond with new and more\n accurate measurements of the earth, but the arc of the meridian\n is estimated in terms of the original m\u00e8tre.\n\n\n\\footnotetext{\n* The theory of dimensions was first stated by Fourier, Th\u00e9orie de Chaleur, \u00a7 160.\n}\n",
+    "structured_lines": [
+      {
+        "page": 37,
+        "line_number": 4,
+        "type": "text",
+        "content": "numerical values of the quantities as measured by his own",
+        "mathpix_content": "\nnumerical values of the quantities as measured by his own",
+        "font_size": 27,
+        "confidence": 0.8377161026000977
+      },
+      {
+        "page": 37,
+        "line_number": 5,
+        "type": "text",
+        "content": "national units, would arrive at a true result.",
+        "mathpix_content": " national units, would arrive at a true result.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 6,
+        "type": "text",
+        "content": "Hence, in all scientific studies it is of the greatest importance",
+        "mathpix_content": "\n\nHence, in all scientific studies it is of the greatest importance",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 7,
+        "type": "text",
+        "content": "to employ units belonging to a properly defined system, and to",
+        "mathpix_content": " to employ units belonging to a properly defined system, and to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 8,
+        "type": "text",
+        "content": "know the relations of these units to the fundamental units, so",
+        "mathpix_content": " know the relations of these units to the fundamental units, so",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 9,
+        "type": "text",
+        "content": "that we may be able at once to transform our results from one",
+        "mathpix_content": " that we may be able at once to transform our results from one",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 37,
+        "line_number": 10,
+        "type": "text",
+        "content": "system to another.",
+        "mathpix_content": " system to another.",
+        "font_size": 27,
+        "confidence": 0.99267578125
+      },
+      {
+        "page": 37,
+        "line_number": 11,
+        "type": "text",
+        "content": "This is most conveniently done by ascertaining the dimensions",
+        "mathpix_content": "\n\nThis is most conveniently done by ascertaining the dimensions",
+        "font_size": 27,
+        "confidence": 0.984408833091095
+      },
+      {
+        "page": 37,
+        "line_number": 12,
+        "type": "text",
+        "content": "of every unit in terms of the three fundamental units. When a",
+        "mathpix_content": " of every unit in terms of the three fundamental units. When a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 13,
+        "type": "text",
+        "content": "given unit varies as the $n$th power of one of these units, it is",
+        "mathpix_content": " given unit varies as the $n$th power of one of these units, it is",
+        "font_size": 27,
+        "confidence": 0.8281331062316895
+      },
+      {
+        "page": 37,
+        "line_number": 14,
+        "type": "text",
+        "content": "said to be of $n$ dimensions as regards that unit.",
+        "mathpix_content": " said to be of $n$ dimensions as regards that unit.",
+        "font_size": 27,
+        "confidence": 0.9931671619415283
+      },
+      {
+        "page": 37,
+        "line_number": 15,
+        "type": "text",
+        "content": "For instance, the scientific unit of volume is always the cube",
+        "mathpix_content": "\n\nFor instance, the scientific unit of volume is always the cube",
+        "font_size": 27,
+        "confidence": 0.998535871389322
+      },
+      {
+        "page": 37,
+        "line_number": 16,
+        "type": "text",
+        "content": "whose side is the unit of length. If the unit of length varies,",
+        "mathpix_content": " whose side is the unit of length. If the unit of length varies,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 17,
+        "type": "text",
+        "content": "the unit of volume will vary as its third power, and the unit of",
+        "mathpix_content": " the unit of volume will vary as its third power, and the unit of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 18,
+        "type": "text",
+        "content": "volume is said to be of three limensions with respect to the unit",
+        "mathpix_content": " volume is said to be of three limensions with respect to the unit",
+        "font_size": 27,
+        "confidence": 0.73095703125
+      },
+      {
+        "page": 37,
+        "line_number": 19,
+        "type": "text",
+        "content": "of length.",
+        "mathpix_content": " of length.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 20,
+        "type": "text",
+        "content": "A knowledge of the dimensions of units furnishes a test which",
+        "mathpix_content": "\n\nA knowledge of the dimensions of units furnishes a test which",
+        "font_size": 27,
+        "confidence": 0.8837890625
+      },
+      {
+        "page": 37,
+        "line_number": 21,
+        "type": "text",
+        "content": "ought to be applied to the equations resulting from any lengthened",
+        "mathpix_content": " ought to be applied to the equations resulting from any lengthened",
+        "font_size": 27,
+        "confidence": 0.9560546875
+      },
+      {
+        "page": 37,
+        "line_number": 22,
+        "type": "text",
+        "content": "investigation. The dimensions of every term of such an equa-",
+        "mathpix_content": " investigation. The dimensions of every term of such an equa",
+        "font_size": 27,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 37,
+        "line_number": 23,
+        "type": "text",
+        "content": "tion, with respect to each of the three fundamental units, must",
+        "mathpix_content": "tion, with respect to each of the three fundamental units, must",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 24,
+        "type": "text",
+        "content": "be the same. If not, the equation is absurd, and contains some",
+        "mathpix_content": " be the same. If not, the equation is absurd, and contains some",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 37,
+        "line_number": 25,
+        "type": "text",
+        "content": "error, as its interpretation would be different according to the",
+        "mathpix_content": " error, as its interpretation would be different according to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 26,
+        "type": "text",
+        "content": "arbitrary system of units which we adopt *.",
+        "mathpix_content": " arbitrary system of units which we adopt *.",
+        "font_size": 27,
+        "confidence": 0.9965848922729492
+      },
+      {
+        "page": 37,
+        "line_number": 28,
+        "type": "text",
+        "content": "The Three Fundamental Units.",
+        "mathpix_content": "\n\n\\section*{The Three Fundamental Units.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 29,
+        "type": "text",
+        "content": "3.] (1) Length. The standard of length for scientinic purposes",
+        "mathpix_content": "\n3.] (1) Length. The standard of length for scientinic purposes",
+        "font_size": 27,
+        "confidence": 0.951896421611309
+      },
+      {
+        "page": 37,
+        "line_number": 30,
+        "type": "text",
+        "content": "in this country is one foot, which is the third part of the standard",
+        "mathpix_content": " in this country is one foot, which is the third part of the standard",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 37,
+        "line_number": 31,
+        "type": "text",
+        "content": "yard preserved in the Exchequer Chambers.",
+        "mathpix_content": " yard preserved in the Exchequer Chambers.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 32,
+        "type": "text",
+        "content": "In France, and other countries which have adopted the metric",
+        "mathpix_content": "\n\nIn France, and other countries which have adopted the metric",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 33,
+        "type": "text",
+        "content": "system, it is the m\u00e8tre. The m\u00e8tre is theoretically the ten mil-",
+        "mathpix_content": " system, it is the m\u00e8tre. The m\u00e8tre is theoretically the ten mil",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 37,
+        "line_number": 34,
+        "type": "text",
+        "content": "lionth part of the length of a meridian of the earth measured",
+        "mathpix_content": "lionth part of the length of a meridian of the earth measured",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 35,
+        "type": "text",
+        "content": "from the pole to the equator; but practically it is the length of",
+        "mathpix_content": " from the pole to the equator; but practically it is the length of",
+        "font_size": 27,
+        "confidence": 0.9755859375
+      },
+      {
+        "page": 37,
+        "line_number": 36,
+        "type": "text",
+        "content": "a standard preserved in Paris, which was constructed by Borda",
+        "mathpix_content": " a standard preserved in Paris, which was constructed by Borda",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 37,
+        "type": "text",
+        "content": "to correspond, when at the temperature of melting ice, with the",
+        "mathpix_content": " to correspond, when at the temperature of melting ice, with the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 38,
+        "type": "text",
+        "content": "value of the preceding length as measured by Delambre. The",
+        "mathpix_content": " value of the preceding length as measured by Delambre. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 37,
+        "line_number": 39,
+        "type": "text",
+        "content": "m\u00e8tre has not been altered to correspond with new and more",
+        "mathpix_content": " m\u00e8tre has not been altered to correspond with new and more",
+        "font_size": 27,
+        "confidence": 0.9677734375
+      },
+      {
+        "page": 37,
+        "line_number": 40,
+        "type": "text",
+        "content": "accurate measurements of the earth, but the arc of the meridian",
+        "mathpix_content": " accurate measurements of the earth, but the arc of the meridian",
+        "font_size": 27,
+        "confidence": 0.529693603515625
+      },
+      {
+        "page": 37,
+        "line_number": 41,
+        "type": "text",
+        "content": "is estimated in terms of the original m\u00e8tre.",
+        "mathpix_content": " is estimated in terms of the original m\u00e8tre.",
+        "font_size": 27,
+        "confidence": 0.99365234375
+      },
+      {
+        "page": 37,
+        "line_number": 43,
+        "type": "text",
+        "content": "* The theory of dimensions was first stated by Fourier, Th\u00e9orie de Chaleur, \u00a7 160.",
+        "mathpix_content": "\n\n\\footnotetext{\n* The theory of dimensions was first stated by Fourier, Th\u00e9orie de Chaleur, \u00a7 160.\n}",
+        "font_size": 21,
+        "confidence": 0.9614443778991699
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "chapter_id": "chapter_204",
+  "chapter_number": 1,
+  "title": "}{4 \\pi a^{\\prime}}\\left(1-\\left(\\frac{\\beta^{\\prime}}{p^{\\prime}}\\right)^{3}\\right) .$$",
+  "page_start": 297,
+  "page_end": 297,
+  "articles": [
+    {
+      "article_id": "article_168",
+      "article_number": 168,
+      "title_original": "at potential unity, and the density at any point is expressed",
+      "title_safe": "at potential unity and the density at any point is expressed",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_262",
+      "article_number": 262,
+      "title_original": "ELECTRIC IMAGES.",
+      "title_safe": "ELECTRIC IMAGES",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_168",
+      "article_number": 168,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": ") On the meniscus $D P D^{\\prime} Q^{\\prime}$ charged with a quantity $a$, and",
+      "title_safe": "On the meniscus D P Dprime Qprime charged with a quantity a",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+\\beta^{2}}}$, which is also in equilibrium at potential",
+      "title_safe": "plusbeta2 which is also in equilibrium at potential",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": ") On the other meniscus $Q D P^{\\prime} D^{\\prime}$ charged with a quantity",
+      "title_safe": "On the other meniscus Q D Pprime Dprime charged with a quant",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+\\beta^{2}}",
+      "title_safe": "plusbeta2",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-a^{2}}, \\quad b^{\\prime}=\\frac{b}{b^{2}-\\beta^{2}}, \\quad a^{\\prime}=\\frac{a}{a^{2}-a^{2}}, \\quad \\beta^{\\prime}=\\frac{\\beta}{b^{2}-\\beta^{2}} \\\\",
+      "title_safe": "a2 quad bprimeequalsfracbb2-beta2 quad aprimeequalsfracaa2",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{r}, \\quad p^{\\prime 2}=\\frac{\\beta^{2} r^{2}+\\left(b^{2}-\\beta^{2}\\right)\\left(p^{2}-\\beta^{2}\\right)}{r^{2}\\left(b^{2}-\\beta^{2}\\right)^{2}} .",
+      "title_safe": "r quad pprime 2equalsfracbeta2 r2plusleftb2-beta2rightleftp2",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi a^{\\prime}}\\left(1-\\left(\\frac{\\beta^{\\prime}}{p^{\\prime}}\\right)^{3}\\right) .$$",
+      "title_safe": "4 pi aprimeleft1-leftfracbetaprimepprimeright3right",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": ") On the meniscus $D P D^{\\prime} Q^{\\prime}$ charged with a quantity $a$, and",
+      "title_safe": "On the meniscus D P Dprime Qprime charged with a quantity a",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+\\beta^{2}}}$, which is also in equilibrium at potential",
+      "title_safe": "plusbeta2 which is also in equilibrium at potential",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": ") On the other meniscus $Q D P^{\\prime} D^{\\prime}$ charged with a quantity",
+      "title_safe": "On the other meniscus Q D Pprime Dprime charged with a quant",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+\\beta^{2}}",
+      "title_safe": "plusbeta2",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-a^{2}}, \\quad b^{\\prime}=\\frac{b}{b^{2}-\\beta^{2}}, \\quad a^{\\prime}=\\frac{a}{a^{2}-a^{2}}, \\quad \\beta^{\\prime}=\\frac{\\beta}{b^{2}-\\beta^{2}} \\\\",
+      "title_safe": "a2 quad bprimeequalsfracbb2-beta2 quad aprimeequalsfracaa2",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{r}, \\quad p^{\\prime 2}=\\frac{\\beta^{2} r^{2}+\\left(b^{2}-\\beta^{2}\\right)\\left(p^{2}-\\beta^{2}\\right)}{r^{2}\\left(b^{2}-\\beta^{2}\\right)^{2}} .",
+      "title_safe": "r quad pprime 2equalsfracbeta2 r2plusleftb2-beta2rightleftp2",
+      "page_start": 297,
+      "page_end": 296,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi a^{\\prime}}\\left(1-\\left(\\frac{\\beta^{\\prime}}{p^{\\prime}}\\right)^{3}\\right) .$$",
+      "title_safe": "4 pi aprimeleft1-leftfracbetaprimepprimeright3right",
+      "page_start": 297,
+      "page_end": 297,
+      "content": {
+        "raw_text": "\n--- Page 297 ---\n262\nELECTRIC IMAGES.\n[168.\nat potential unity, and the density at any point is expressed\nby the same formula.\n(3) On the meniscus $D P D^{\\prime} Q^{\\prime}$ charged with a quantity $a$, and\nacted on by points $B$ and $C$ charged respectively with quantities\n$\\beta$ and $\\frac{-a \\beta}{\\sqrt{\\alpha^{2}+\\beta^{2}}}$, which is also in equilibrium at potential\nunity.\n(4) On the other meniscus $Q D P^{\\prime} D^{\\prime}$ charged with a quantity\n\u5b50 under the action of $A$ and $C$.\nWe may also deduce the distribution of electricity on the\nfollowing internal surfaces-\nThe hollow lens $P^{\\prime} D Q^{\\prime} D^{\\prime}$ under the influence of the internal\nelectrified point $C$ at the centre of the circle $D D^{\\prime}$.\nThe hollow meniscus under the influence of a point at the\ncentre of the concave surface.\nThe hollow formed of the two larger segments of both spheres\nunder the influence of the three points $A, B, C$.\nBut, instead of working out the solutions of these cases, we\nshall apply the principle of electrical images to determine the\ndensity of the electricity induced at the point $P$ of the external\nsurface of the conductor $P D Q D^{\\prime}$ by the action of a point at $O$\ncharged with unit of electricity.\nLet\n$$\\begin{array}{lll}\nO A=a, & O B=b, & O P=r, \\quad B P=p \\\\\nA D=a, & B D=\\beta, & A B=\\sqrt{a^{2}+\\beta^{2}}\n\\end{array}$$\nInvert the system with respect to a sphere of radius unity and\ncentre $O$.\nThe two spheres will remain spheres, cutting each other ortho-\ngonally, and having their centres in the same radii with $A$ and $B$.\nIf we indicate by accented letters the quantities corresponding\nto the inverted system,\n$$\\begin{gathered}\na^{\\prime}=\\frac{a}{a^{2}-a^{2}}, \\quad b^{\\prime}=\\frac{b}{b^{2}-\\beta^{2}}, \\quad a^{\\prime}=\\frac{a}{a^{2}-a^{2}}, \\quad \\beta^{\\prime}=\\frac{\\beta}{b^{2}-\\beta^{2}} \\\\\nr^{\\prime}=\\frac{1}{r}, \\quad p^{\\prime 2}=\\frac{\\beta^{2} r^{2}+\\left(b^{2}-\\beta^{2}\\right)\\left(p^{2}-\\beta^{2}\\right)}{r^{2}\\left(b^{2}-\\beta^{2}\\right)^{2}} .\n\\end{gathered}$$\nIf, in the inverted system, the potential of the surface is\nunity, then the density at the point $P^{\\prime}$ is\n$$\\sigma^{\\prime}=\\frac{1}{4 \\pi a^{\\prime}}\\left(1-\\left(\\frac{\\beta^{\\prime}}{p^{\\prime}}\\right)^{3}\\right) .$$\n",
+        "mathpix_markdown": "\n--- Page 297 ---\n\nat potential unity, and the density at any point is expressed\n by the same formula.\n\n(3) On the meniscus $D P D^{\\prime} Q^{\\prime}$ charged with a quantity $a$, and\n acted on by points $B$ and $C$ charged respectively with quantities\n $\\beta$ and $\\frac{-a \\beta}{\\sqrt{\\alpha^{2}+\\beta^{2}}}$, which is also in equilibrium at potential\n unity.\n\n(4) On the other meniscus $Q D P^{\\prime} D^{\\prime}$ charged with a quantity\n\u5b50 under the action of $A$ and $C$.\n\n\nWe may also deduce the distribution of electricity on the\n following internal surfaces-\n\n\nThe hollow lens $P^{\\prime} D Q^{\\prime} D^{\\prime}$ under the influence of the internal\n electrified point $C$ at the centre of the circle $D D^{\\prime}$.\n\n\nThe hollow meniscus under the influence of a point at the\n centre of the concave surface.\n\n\nThe hollow formed of the two larger segments of both spheres\n under the influence of the three points $A, B, C$.\n\n\nBut, instead of working out the solutions of these cases, we\n shall apply the principle of electrical images to determine the\n density of the electricity induced at the point $P$ of the external\n surface of the conductor $P D Q D^{\\prime}$ by the action of a point at $O$\n charged with unit of electricity.\n\n\nLet\n\n$$\\begin{array}{lll}\nO A=a, & O B=b, & O P=r, \\quad B P=p \\\\\nA D=a, & B D=\\beta, & A B=\\sqrt{a^{2}+\\beta^{2}}\n\\end{array}$$\n\n\nInvert the system with respect to a sphere of radius unity and\n centre $O$.\n\n\nThe two spheres will remain spheres, cutting each other ortho\ngonally, and having their centres in the same radii with $A$ and $B$.\n If we indicate by accented letters the quantities corresponding\n to the inverted system,\n\n$$\\begin{gathered}\na^{\\prime}=\\frac{a}{a^{2}-a^{2}}, \\quad b^{\\prime}=\\frac{b}{b^{2}-\\beta^{2}}, \\quad a^{\\prime}=\\frac{a}{a^{2}-a^{2}}, \\quad \\beta^{\\prime}=\\frac{\\beta}{b^{2}-\\beta^{2}} \\\\\nr^{\\prime}=\\frac{1}{r}, \\quad p^{\\prime 2}=\\frac{\\beta^{2} r^{2}+\\left(b^{2}-\\beta^{2}\\right)\\left(p^{2}-\\beta^{2}\\right)}{r^{2}\\left(b^{2}-\\beta^{2}\\right)^{2}} .\n\\end{gathered}$$\n\n\nIf, in the inverted system, the potential of the surface is\n unity, then the density at the point $P^{\\prime}$ is\n\n$$\\sigma^{\\prime}=\\frac{1}{4 \\pi a^{\\prime}}\\left(1-\\left(\\frac{\\beta^{\\prime}}{p^{\\prime}}\\right)^{3}\\right) .$$\n",
+        "structured_lines": [
+          {
+            "page": 297,
+            "line_number": 4,
+            "type": "text",
+            "content": "at potential unity, and the density at any point is expressed",
+            "mathpix_content": "\nat potential unity, and the density at any point is expressed",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 5,
+            "type": "text",
+            "content": "by the same formula.",
+            "mathpix_content": " by the same formula.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 6,
+            "type": "text",
+            "content": "(3) On the meniscus $D P D^{\\prime} Q^{\\prime}$ charged with a quantity $a$, and",
+            "mathpix_content": "\n(3) On the meniscus $D P D^{\\prime} Q^{\\prime}$ charged with a quantity $a$, and",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 297,
+            "line_number": 7,
+            "type": "text",
+            "content": "acted on by points $B$ and $C$ charged respectively with quantities",
+            "mathpix_content": " acted on by points $B$ and $C$ charged respectively with quantities",
+            "font_size": 27,
+            "confidence": 0.9990236759185791
+          },
+          {
+            "page": 297,
+            "line_number": 8,
+            "type": "text",
+            "content": "$\\beta$ and $\\frac{-a \\beta}{\\sqrt{\\alpha^{2}+\\beta^{2}}}$, which is also in equilibrium at potential",
+            "mathpix_content": " $\\beta$ and $\\frac{-a \\beta}{\\sqrt{\\alpha^{2}+\\beta^{2}}}$, which is also in equilibrium at potential",
+            "font_size": 27,
+            "confidence": 0.9584484100341797
+          },
+          {
+            "page": 297,
+            "line_number": 9,
+            "type": "text",
+            "content": "unity.",
+            "mathpix_content": " unity.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 10,
+            "type": "text",
+            "content": "(4) On the other meniscus $Q D P^{\\prime} D^{\\prime}$ charged with a quantity",
+            "mathpix_content": "\n(4) On the other meniscus $Q D P^{\\prime} D^{\\prime}$ charged with a quantity",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 11,
+            "type": "text",
+            "content": "\u5b50 under the action of $A$ and $C$.",
+            "mathpix_content": "\u5b50 under the action of $A$ and $C$.",
+            "font_size": 27,
+            "confidence": 0.599853515625
+          },
+          {
+            "page": 297,
+            "line_number": 12,
+            "type": "text",
+            "content": "We may also deduce the distribution of electricity on the",
+            "mathpix_content": "\n\nWe may also deduce the distribution of electricity on the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 13,
+            "type": "text",
+            "content": "following internal surfaces-",
+            "mathpix_content": " following internal surfaces-",
+            "font_size": 27,
+            "confidence": 0.99560546875
+          },
+          {
+            "page": 297,
+            "line_number": 14,
+            "type": "text",
+            "content": "The hollow lens $P^{\\prime} D Q^{\\prime} D^{\\prime}$ under the influence of the internal",
+            "mathpix_content": "\n\nThe hollow lens $P^{\\prime} D Q^{\\prime} D^{\\prime}$ under the influence of the internal",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 15,
+            "type": "text",
+            "content": "electrified point $C$ at the centre of the circle $D D^{\\prime}$.",
+            "mathpix_content": " electrified point $C$ at the centre of the circle $D D^{\\prime}$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 16,
+            "type": "text",
+            "content": "The hollow meniscus under the influence of a point at the",
+            "mathpix_content": "\n\nThe hollow meniscus under the influence of a point at the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 17,
+            "type": "text",
+            "content": "centre of the concave surface.",
+            "mathpix_content": " centre of the concave surface.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 18,
+            "type": "text",
+            "content": "The hollow formed of the two larger segments of both spheres",
+            "mathpix_content": "\n\nThe hollow formed of the two larger segments of both spheres",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 19,
+            "type": "text",
+            "content": "under the influence of the three points $A, B, C$.",
+            "mathpix_content": " under the influence of the three points $A, B, C$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 20,
+            "type": "text",
+            "content": "But, instead of working out the solutions of these cases, we",
+            "mathpix_content": "\n\nBut, instead of working out the solutions of these cases, we",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 297,
+            "line_number": 21,
+            "type": "text",
+            "content": "shall apply the principle of electrical images to determine the",
+            "mathpix_content": " shall apply the principle of electrical images to determine the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 22,
+            "type": "text",
+            "content": "density of the electricity induced at the point $P$ of the external",
+            "mathpix_content": " density of the electricity induced at the point $P$ of the external",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 23,
+            "type": "text",
+            "content": "surface of the conductor $P D Q D^{\\prime}$ by the action of a point at $O$",
+            "mathpix_content": " surface of the conductor $P D Q D^{\\prime}$ by the action of a point at $O$",
+            "font_size": 27,
+            "confidence": 0.95361328125
+          },
+          {
+            "page": 297,
+            "line_number": 24,
+            "type": "text",
+            "content": "charged with unit of electricity.",
+            "mathpix_content": " charged with unit of electricity.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 25,
+            "type": "text",
+            "content": "Let",
+            "mathpix_content": "\n\nLet",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 29,
+            "type": "text",
+            "content": "Invert the system with respect to a sphere of radius unity and",
+            "mathpix_content": "\n\nInvert the system with respect to a sphere of radius unity and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 30,
+            "type": "text",
+            "content": "centre $O$.",
+            "mathpix_content": " centre $O$.",
+            "font_size": 27,
+            "confidence": 0.9990236759185791
+          },
+          {
+            "page": 297,
+            "line_number": 31,
+            "type": "text",
+            "content": "The two spheres will remain spheres, cutting each other ortho-",
+            "mathpix_content": "\n\nThe two spheres will remain spheres, cutting each other ortho",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 32,
+            "type": "text",
+            "content": "gonally, and having their centres in the same radii with $A$ and $B$.",
+            "mathpix_content": "gonally, and having their centres in the same radii with $A$ and $B$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 33,
+            "type": "text",
+            "content": "If we indicate by accented letters the quantities corresponding",
+            "mathpix_content": " If we indicate by accented letters the quantities corresponding",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 34,
+            "type": "text",
+            "content": "to the inverted system,",
+            "mathpix_content": " to the inverted system,",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 297,
+            "line_number": 38,
+            "type": "text",
+            "content": "If, in the inverted system, the potential of the surface is",
+            "mathpix_content": "\n\nIf, in the inverted system, the potential of the surface is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 297,
+            "line_number": 39,
+            "type": "text",
+            "content": "unity, then the density at the point $P^{\\prime}$ is",
+            "mathpix_content": " unity, then the density at the point $P^{\\prime}$ is",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

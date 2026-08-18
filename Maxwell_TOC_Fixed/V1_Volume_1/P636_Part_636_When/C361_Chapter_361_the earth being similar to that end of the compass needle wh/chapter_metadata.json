@@ -1,0 +1,160 @@
+{
+  "chapter_id": "chapter_2",
+  "chapter_number": 361,
+  "title": "the earth being similar to that end of the compass needle which",
+  "page_start": 396,
+  "page_end": 396,
+  "articles": [
+    {
+      "article_id": "article_240",
+      "article_number": 240,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 396,
+      "page_end": 395,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_240",
+      "article_number": 240,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 396,
+      "page_end": 395,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_361",
+      "article_number": 361,
+      "title_original": "the earth being similar to that end of the compass needle which",
+      "title_safe": "the earth being similar to that end of the compass needle wh",
+      "page_start": 396,
+      "page_end": 396,
+      "content": {
+        "raw_text": "\n--- Page 396 ---\n240.]\nTHE ELECTRIC CURRENT.\n361\nthe earth being similar to that end of the compass needle which\npoints south.\nThe galvanometer is the most convenient instrument for\nmeasuring the strength of electric currents. We shall therefore\nassume the possibility of constructing such an instrument\nin studying the laws of these currents, reserving the discussion\nof the principles of the instrument for our fourth part. When\ntherefore we say that an electric current is of a certain strength\nwe suppose that the measurement is effected by the galvano-\nmeter.\n",
+        "mathpix_markdown": "\n--- Page 396 ---\n\nthe earth being similar to that end of the compass needle which\n points south.\n\n\nThe galvanometer is the most convenient instrument for\n measuring the strength of electric currents. We shall therefore\n assume the possibility of constructing such an instrument\n in studying the laws of these currents, reserving the discussion\n of the principles of the instrument for our fourth part. When\n therefore we say that an electric current is of a certain strength\n we suppose that the measurement is effected by the galvano\nmeter.\n",
+        "structured_lines": [
+          {
+            "page": 396,
+            "line_number": 4,
+            "type": "text",
+            "content": "the earth being similar to that end of the compass needle which",
+            "mathpix_content": "\nthe earth being similar to that end of the compass needle which",
+            "font_size": 34,
+            "confidence": 0.99755859375
+          },
+          {
+            "page": 396,
+            "line_number": 5,
+            "type": "text",
+            "content": "points south.",
+            "mathpix_content": " points south.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 396,
+            "line_number": 6,
+            "type": "text",
+            "content": "The galvanometer is the most convenient instrument for",
+            "mathpix_content": "\n\nThe galvanometer is the most convenient instrument for",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 396,
+            "line_number": 7,
+            "type": "text",
+            "content": "measuring the strength of electric currents. We shall therefore",
+            "mathpix_content": " measuring the strength of electric currents. We shall therefore",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 396,
+            "line_number": 8,
+            "type": "text",
+            "content": "assume the possibility of constructing such an instrument",
+            "mathpix_content": " assume the possibility of constructing such an instrument",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 396,
+            "line_number": 9,
+            "type": "text",
+            "content": "in studying the laws of these currents, reserving the discussion",
+            "mathpix_content": " in studying the laws of these currents, reserving the discussion",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 396,
+            "line_number": 10,
+            "type": "text",
+            "content": "of the principles of the instrument for our fourth part. When",
+            "mathpix_content": " of the principles of the instrument for our fourth part. When",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 396,
+            "line_number": 11,
+            "type": "text",
+            "content": "therefore we say that an electric current is of a certain strength",
+            "mathpix_content": " therefore we say that an electric current is of a certain strength",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 396,
+            "line_number": 12,
+            "type": "text",
+            "content": "we suppose that the measurement is effected by the galvano-",
+            "mathpix_content": " we suppose that the measurement is effected by the galvano",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 396,
+            "line_number": 13,
+            "type": "text",
+            "content": "meter.",
+            "mathpix_content": "meter.",
+            "font_size": 34,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,4150 @@
+{
+  "part_id": "part_756",
+  "part_number": 756,
+  "title": "of the",
+  "page_start": 462,
+  "page_end": 466,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 306,
+      "title": "]",
+      "page_start": 462,
+      "page_end": 461,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 427,
+      "title": "We may suppose the conditions of the first and second portions",
+      "page_start": 462,
+      "page_end": 461,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 1871,
+      "title": ", p. 77. See Art. 102a.",
+      "page_start": 462,
+      "page_end": 461,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 1871,
+      "title": ", p. 77. See Art. 102a.",
+      "page_start": 462,
+      "page_end": 462,
+      "articles": [
+        {
+          "article_id": "article_102",
+          "article_number": 102,
+          "title_original": "a.",
+          "title_safe": "a",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_102",
+          "article_number": 102,
+          "title_original": "a.",
+          "title_safe": "a",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_306",
+          "article_number": 306,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": "See Art. 102a.",
+          "title_safe": "See Art. 102a",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": "See Art. 102a.",
+          "title_safe": "See Art. 102a",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_306",
+          "article_number": 306,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_427",
+          "article_number": 427,
+          "title_original": "We may suppose the conditions of the first and second portions",
+          "title_safe": "We may suppose the conditions of the first and second portio",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1871",
+          "article_number": 1871,
+          "title_original": ", p. 77. See Art. 102a.",
+          "title_safe": "p. 77. See Art. 102a",
+          "page_start": 462,
+          "page_end": 461,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1871",
+          "article_number": 1871,
+          "title_original": ", p. 77. See Art. 102a.",
+          "title_safe": "p. 77. See Art. 102a",
+          "page_start": 462,
+          "page_end": 462,
+          "content": {
+            "raw_text": "\n--- Page 462 ---\n306.]\nRESISTANCE OF A WIRE OF VARIABLE SECTION.\n427\nWe may suppose the conditions of the first and second portions\nto be fulfilled by applying to the conductor two electrodes of\nperfectly conducting material, and that of the remainder of the\nsurface by coating it with perfectly non-conducting material.\nUnder these circumstances the current in every part of the\nconductor is simply proportional to the difference between the\npotentials of the electrodes. Calling this difference the electro-\nmotive force, the total current from the one electrode to the other\nis the product of the electromotive force by the conductivity of\nthe conductor as a whole, and the resistance of the conductor is\nthe reciprocal of the conductivity.\nIt is only when a conductor is approximately in the circum-\nstances above defined that it can be said to have a definite\nresistance or conductivity as a whole. A resistance coil, con-\nsisting of a thin wire terminating in large masses of copper,\napproximately satisfies these conditions, for the potential in\nthe massive electrodes is nearly constant, and any differences\nof potential in different points of the same electrode may be\nneglected in comparison with the difference of the potentials of\nthe two electrodes.\nA very useful method of calculating the resistance of such\nconductors has been given, so far as I know, for the first time,\nby Lord Rayleigh, in a paper ' On the Theory of Resonance' * .\nIt is founded on the following considerations.\nIf the specific resistance of any portion of the conductor be\nchanged, that of the remainder being unchanged, the resistance\nof the whole conductor will be increased if that of the portion\nis increased, and diminished if that of the portion is diminished.\nThis principle may be regarded as self-evident, but it may\neasily be shewn that the value of the expression for the re-\nsistance of a system of conductors between two points selected\nas electrodes, increases as the resistance of each member of the\nsystem increases.\nIt follows from this that if a surface of any form be described\nin the substance of the conductor, and if we further suppose this\nsurface to be an infinitely thin sheet of a perfectly conducting\nsubstance, the resistance of the conductor as a whole will be\ndiminished unless the surface is one of the equipotential surfaces\nin the natural state of the conductor, in which case no effect will\n\n* Phil. Trans., 1871, p. 77. See Art. 102a.\n",
+            "mathpix_markdown": "\n--- Page 462 ---\n\n\nWe may suppose the conditions of the first and second portions\n to be fulfilled by applying to the conductor two electrodes of\n perfectly conducting material, and that of the remainder of the\n surface by coating it with perfectly non-conducting material.\n\n\nUnder these circumstances the current in every part of the\n conductor is simply proportional to the difference between the\n potentials of the electrodes. Calling this difference the electro\nmotive force, the total current from the one electrode to the other\n is the product of the electromotive force by the conductivity of\n the conductor as a whole, and the resistance of the conductor is\n the reciprocal of the conductivity.\n\n\nIt is only when a conductor is approximately in the circum\nstances above defined that it can be said to have a definite\n resistance or conductivity as a whole. A resistance coil, con\nsisting of a thin wire terminating in large masses of copper,\n approximately satisfies these conditions, for the potential in\n the massive electrodes is nearly constant, and any differences\n of potential in different points of the same electrode may be\n neglected in comparison with the difference of the potentials of\n the two electrodes.\n\n\nA very useful method of calculating the resistance of such\n conductors has been given, so far as I know, for the first time,\n by Lord Rayleigh, in a paper ' On the Theory of Resonance' * .\n\n\nIt is founded on the following considerations.\n\nIf the specific resistance of any portion of the conductor be\n changed, that of the remainder being unchanged, the resistance\n of the whole conductor will be increased if that of the portion\n is increased, and diminished if that of the portion is diminished.\n\n\nThis principle may be regarded as self-evident, but it may\n easily be shewn that the value of the expression for the re\nsistance of a system of conductors between two points selected\n as electrodes, increases as the resistance of each member of the\n system increases.\n\n\nIt follows from this that if a surface of any form be described\n in the substance of the conductor, and if we further suppose this\n surface to be an infinitely thin sheet of a perfectly conducting\n substance, the resistance of the conductor as a whole will be\n diminished unless the surface is one of the equipotential surfaces\n in the natural state of the conductor, in which case no effect will\n\n\n\\footnotetext{\n* Phil. Trans., 1871, p. 77. See Art. 102a.\n}\n",
+            "structured_lines": [
+              {
+                "page": 462,
+                "line_number": 4,
+                "type": "text",
+                "content": "We may suppose the conditions of the first and second portions",
+                "mathpix_content": "\n\nWe may suppose the conditions of the first and second portions",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 5,
+                "type": "text",
+                "content": "to be fulfilled by applying to the conductor two electrodes of",
+                "mathpix_content": " to be fulfilled by applying to the conductor two electrodes of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 6,
+                "type": "text",
+                "content": "perfectly conducting material, and that of the remainder of the",
+                "mathpix_content": " perfectly conducting material, and that of the remainder of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 7,
+                "type": "text",
+                "content": "surface by coating it with perfectly non-conducting material.",
+                "mathpix_content": " surface by coating it with perfectly non-conducting material.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 8,
+                "type": "text",
+                "content": "Under these circumstances the current in every part of the",
+                "mathpix_content": "\n\nUnder these circumstances the current in every part of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 9,
+                "type": "text",
+                "content": "conductor is simply proportional to the difference between the",
+                "mathpix_content": " conductor is simply proportional to the difference between the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 10,
+                "type": "text",
+                "content": "potentials of the electrodes. Calling this difference the electro-",
+                "mathpix_content": " potentials of the electrodes. Calling this difference the electro",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 11,
+                "type": "text",
+                "content": "motive force, the total current from the one electrode to the other",
+                "mathpix_content": "motive force, the total current from the one electrode to the other",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 12,
+                "type": "text",
+                "content": "is the product of the electromotive force by the conductivity of",
+                "mathpix_content": " is the product of the electromotive force by the conductivity of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 13,
+                "type": "text",
+                "content": "the conductor as a whole, and the resistance of the conductor is",
+                "mathpix_content": " the conductor as a whole, and the resistance of the conductor is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 14,
+                "type": "text",
+                "content": "the reciprocal of the conductivity.",
+                "mathpix_content": " the reciprocal of the conductivity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 15,
+                "type": "text",
+                "content": "It is only when a conductor is approximately in the circum-",
+                "mathpix_content": "\n\nIt is only when a conductor is approximately in the circum",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 16,
+                "type": "text",
+                "content": "stances above defined that it can be said to have a definite",
+                "mathpix_content": "stances above defined that it can be said to have a definite",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 17,
+                "type": "text",
+                "content": "resistance or conductivity as a whole. A resistance coil, con-",
+                "mathpix_content": " resistance or conductivity as a whole. A resistance coil, con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 18,
+                "type": "text",
+                "content": "sisting of a thin wire terminating in large masses of copper,",
+                "mathpix_content": "sisting of a thin wire terminating in large masses of copper,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 19,
+                "type": "text",
+                "content": "approximately satisfies these conditions, for the potential in",
+                "mathpix_content": " approximately satisfies these conditions, for the potential in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 20,
+                "type": "text",
+                "content": "the massive electrodes is nearly constant, and any differences",
+                "mathpix_content": " the massive electrodes is nearly constant, and any differences",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 21,
+                "type": "text",
+                "content": "of potential in different points of the same electrode may be",
+                "mathpix_content": " of potential in different points of the same electrode may be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 22,
+                "type": "text",
+                "content": "neglected in comparison with the difference of the potentials of",
+                "mathpix_content": " neglected in comparison with the difference of the potentials of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 23,
+                "type": "text",
+                "content": "the two electrodes.",
+                "mathpix_content": " the two electrodes.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 24,
+                "type": "text",
+                "content": "A very useful method of calculating the resistance of such",
+                "mathpix_content": "\n\nA very useful method of calculating the resistance of such",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 25,
+                "type": "text",
+                "content": "conductors has been given, so far as I know, for the first time,",
+                "mathpix_content": " conductors has been given, so far as I know, for the first time,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 26,
+                "type": "text",
+                "content": "by Lord Rayleigh, in a paper ' On the Theory of Resonance' * .",
+                "mathpix_content": " by Lord Rayleigh, in a paper ' On the Theory of Resonance' * .",
+                "font_size": 27,
+                "confidence": 0.9545295176799184
+              },
+              {
+                "page": 462,
+                "line_number": 27,
+                "type": "text",
+                "content": "It is founded on the following considerations.",
+                "mathpix_content": "\n\nIt is founded on the following considerations.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 28,
+                "type": "text",
+                "content": "If the specific resistance of any portion of the conductor be",
+                "mathpix_content": "\nIf the specific resistance of any portion of the conductor be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 29,
+                "type": "text",
+                "content": "changed, that of the remainder being unchanged, the resistance",
+                "mathpix_content": " changed, that of the remainder being unchanged, the resistance",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 30,
+                "type": "text",
+                "content": "of the whole conductor will be increased if that of the portion",
+                "mathpix_content": " of the whole conductor will be increased if that of the portion",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 31,
+                "type": "text",
+                "content": "is increased, and diminished if that of the portion is diminished.",
+                "mathpix_content": " is increased, and diminished if that of the portion is diminished.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 32,
+                "type": "text",
+                "content": "This principle may be regarded as self-evident, but it may",
+                "mathpix_content": "\n\nThis principle may be regarded as self-evident, but it may",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 33,
+                "type": "text",
+                "content": "easily be shewn that the value of the expression for the re-",
+                "mathpix_content": " easily be shewn that the value of the expression for the re",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 34,
+                "type": "text",
+                "content": "sistance of a system of conductors between two points selected",
+                "mathpix_content": "sistance of a system of conductors between two points selected",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 35,
+                "type": "text",
+                "content": "as electrodes, increases as the resistance of each member of the",
+                "mathpix_content": " as electrodes, increases as the resistance of each member of the",
+                "font_size": 27,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 462,
+                "line_number": 36,
+                "type": "text",
+                "content": "system increases.",
+                "mathpix_content": " system increases.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 37,
+                "type": "text",
+                "content": "It follows from this that if a surface of any form be described",
+                "mathpix_content": "\n\nIt follows from this that if a surface of any form be described",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 38,
+                "type": "text",
+                "content": "in the substance of the conductor, and if we further suppose this",
+                "mathpix_content": " in the substance of the conductor, and if we further suppose this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 39,
+                "type": "text",
+                "content": "surface to be an infinitely thin sheet of a perfectly conducting",
+                "mathpix_content": " surface to be an infinitely thin sheet of a perfectly conducting",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 40,
+                "type": "text",
+                "content": "substance, the resistance of the conductor as a whole will be",
+                "mathpix_content": " substance, the resistance of the conductor as a whole will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 41,
+                "type": "text",
+                "content": "diminished unless the surface is one of the equipotential surfaces",
+                "mathpix_content": " diminished unless the surface is one of the equipotential surfaces",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 42,
+                "type": "text",
+                "content": "in the natural state of the conductor, in which case no effect will",
+                "mathpix_content": " in the natural state of the conductor, in which case no effect will",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 462,
+                "line_number": 44,
+                "type": "text",
+                "content": "* Phil. Trans., 1871, p. 77. See Art. 102a.",
+                "mathpix_content": "\n\n\\footnotetext{\n* Phil. Trans., 1871, p. 77. See Art. 102a.\n}",
+                "font_size": 21,
+                "confidence": 0.8090902750555399
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 428,
+      "title": "RESISTANCE AND CONDUCTIVITY.",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 306,
+      "title": "be produced by making it a perfect conductor, as it is already in",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 1,
+      "title": "}{\\rho \\nu} d S$$",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": ")",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 1,
+      "title": "}{\\rho v} d S$$",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 2,
+      "title": ")",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 1,
+      "title": "}{\\rho v} d S$$",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 3,
+      "title": ")",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 2,
+      "title": "}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}},$$",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 4,
+      "title": ")",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 1,
+      "title": "}{\\rho} \\nabla F d S}$$",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 5,
+      "title": ")",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": "}{\\rho \\nu} d S \\tag{1}",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "}{\\rho v} d S \\tag{2}",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": "}{\\rho v} d S \\tag{3}",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 2,
+      "title": "}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}}, \\tag{4}",
+      "page_start": 463,
+      "page_end": 462,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": "}{\\rho} \\nabla F d S} \\tag{5}",
+      "page_start": 463,
+      "page_end": 463,
+      "articles": [
+        {
+          "article_id": "article_306",
+          "article_number": 306,
+          "title_original": "be produced by making it a perfect conductor, as it is already in",
+          "title_safe": "be produced by making it a perfect conductor as it is alread",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_428",
+          "article_number": 428,
+          "title_original": "RESISTANCE AND CONDUCTIVITY.",
+          "title_safe": "RESISTANCE AND CONDUCTIVITY",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_306",
+          "article_number": 306,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho \\nu} d S$$",
+          "title_safe": "rho nu d S",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho v} d S$$",
+          "title_safe": "rho v d S",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho v} d S$$",
+          "title_safe": "rho v d S",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}},$$",
+          "title_safe": "plusleftfracd Fd yright2plusleftfracd Fd zright2rightfracd2",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho} \\nabla F d S}$$",
+          "title_safe": "rho nabla F d S",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_5",
+          "article_number": 5,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho \\nu} d S \\tag{1}",
+          "title_safe": "rho nu d S tag1",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho v} d S \\tag{2}",
+          "title_safe": "rho v d S tag2",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho v} d S \\tag{3}",
+          "title_safe": "rho v d S tag3",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}}, \\tag{4}",
+          "title_safe": "plusleftfracd Fd yright2plusleftfracd Fd zright2rightfracd2",
+          "page_start": 463,
+          "page_end": 462,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\rho} \\nabla F d S} \\tag{5}",
+          "title_safe": "rho nabla F d S tag5",
+          "page_start": 463,
+          "page_end": 463,
+          "content": {
+            "raw_text": "\n--- Page 463 ---\n428\nRESISTANCE AND CONDUCTIVITY.\n[306.\nbe produced by making it a perfect conductor, as it is already in\nelectrical equilibrium.\nIf therefore we draw within the conductor a series of surfaces,\nthe first of which coincides with the first electrode, and the last\nwith the second, while the intermediate surfaces are bounded by\nthe non-conducting surface and do not intersect each other, and\nif we suppose each of these surfaces to be an infinitely thin sheet\nof perfectly conducting matter, we shall have obtained a system\nthe resistance of which is certainly not greater than that of the\noriginal conductor, and is equal to it only when the surfaces we\nhave chosen are the natural equipotential surfaces.\nTo calculate the resistance of the artificial system is an opera-\ntion of much less difficulty than the original problem. For the\nresistance of the whole is the sum of the resistances of all\nthe strata contained between the consecutive surfaces, and the\nresistance of each stratum can be found thus :\nLet $d S$ be an element of the surface of the stratum, $\\nu$ the\nthickness of the stratum perpendicular to the element, $\\rho$ the\nspecific resistance, $E$ the difference of potential of the perfectly\nconducting surfaces, and $d C$ the current through $d S$, then\n$$d C=E \\frac{1}{\\rho \\nu} d S$$\n(1)\nand the whole current through the stratum is\n$$C=E \\iint \\frac{1}{\\rho v} d S$$\n(2)\nthe integration being extended over the whole stratum bounded\nby the non-conducting surface of the conductor.\nHence the conductivity of the stratum is\n$$\\frac{C}{E}=\\iint \\frac{1}{\\rho v} d S$$\n(3)\nand the resistance of the stratum is the reciprocal of this\nquantity.\nIf the stratum be that bounded by the two surfaces for which\nthe function $F$ has the values $F$ and $F+d F$ respectively, then\n$$\\frac{d F}{\\nu}=\\nabla F=\\left[\\left(\\frac{d F}{d x}\\right)^{2}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}},$$\n(4)\nand the resistance of the stratum is\n$$\\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S}$$\n(5)\n",
+            "mathpix_markdown": "\n--- Page 463 ---\n\nbe produced by making it a perfect conductor, as it is already in\n electrical equilibrium.\n\n\nIf therefore we draw within the conductor a series of surfaces,\n the first of which coincides with the first electrode, and the last\n with the second, while the intermediate surfaces are bounded by\n the non-conducting surface and do not intersect each other, and\n if we suppose each of these surfaces to be an infinitely thin sheet\n of perfectly conducting matter, we shall have obtained a system\n the resistance of which is certainly not greater than that of the\n original conductor, and is equal to it only when the surfaces we\n have chosen are the natural equipotential surfaces.\n\n\nTo calculate the resistance of the artificial system is an opera\ntion of much less difficulty than the original problem. For the\n resistance of the whole is the sum of the resistances of all\n the strata contained between the consecutive surfaces, and the\n resistance of each stratum can be found thus :\n\n\nLet $d S$ be an element of the surface of the stratum, $\\nu$ the\n thickness of the stratum perpendicular to the element, $\\rho$ the\n specific resistance, $E$ the difference of potential of the perfectly\n conducting surfaces, and $d C$ the current through $d S$, then\n\n$$\\begin{equation*}\nd C=E \\frac{1}{\\rho \\nu} d S \\tag{1}\n\\end{equation*}$$\n\nand the whole current through the stratum is\n\n$$\\begin{equation*}\nC=E \\iint \\frac{1}{\\rho v} d S \\tag{2}\n\\end{equation*}$$\n\nthe integration being extended over the whole stratum bounded\n by the non-conducting surface of the conductor.\n\n\nHence the conductivity of the stratum is\n\n$$\\begin{equation*}\n\\frac{C}{E}=\\iint \\frac{1}{\\rho v} d S \\tag{3}\n\\end{equation*}$$\n\nand the resistance of the stratum is the reciprocal of this\n quantity.\n\n\nIf the stratum be that bounded by the two surfaces for which\n the function $F$ has the values $F$ and $F+d F$ respectively, then\n\n$$\\begin{equation*}\n\\frac{d F}{\\nu}=\\nabla F=\\left[\\left(\\frac{d F}{d x}\\right)^{2}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}}, \\tag{4}\n\\end{equation*}$$\n\nand the resistance of the stratum is\n\n$$\\begin{equation*}\n\\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S} \\tag{5}\n\\end{equation*}$$\n",
+            "structured_lines": [
+              {
+                "page": 463,
+                "line_number": 4,
+                "type": "text",
+                "content": "be produced by making it a perfect conductor, as it is already in",
+                "mathpix_content": "\nbe produced by making it a perfect conductor, as it is already in",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 463,
+                "line_number": 5,
+                "type": "text",
+                "content": "electrical equilibrium.",
+                "mathpix_content": " electrical equilibrium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 6,
+                "type": "text",
+                "content": "If therefore we draw within the conductor a series of surfaces,",
+                "mathpix_content": "\n\nIf therefore we draw within the conductor a series of surfaces,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 7,
+                "type": "text",
+                "content": "the first of which coincides with the first electrode, and the last",
+                "mathpix_content": " the first of which coincides with the first electrode, and the last",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 8,
+                "type": "text",
+                "content": "with the second, while the intermediate surfaces are bounded by",
+                "mathpix_content": " with the second, while the intermediate surfaces are bounded by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 9,
+                "type": "text",
+                "content": "the non-conducting surface and do not intersect each other, and",
+                "mathpix_content": " the non-conducting surface and do not intersect each other, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 10,
+                "type": "text",
+                "content": "if we suppose each of these surfaces to be an infinitely thin sheet",
+                "mathpix_content": " if we suppose each of these surfaces to be an infinitely thin sheet",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 463,
+                "line_number": 11,
+                "type": "text",
+                "content": "of perfectly conducting matter, we shall have obtained a system",
+                "mathpix_content": " of perfectly conducting matter, we shall have obtained a system",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 12,
+                "type": "text",
+                "content": "the resistance of which is certainly not greater than that of the",
+                "mathpix_content": " the resistance of which is certainly not greater than that of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 13,
+                "type": "text",
+                "content": "original conductor, and is equal to it only when the surfaces we",
+                "mathpix_content": " original conductor, and is equal to it only when the surfaces we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 14,
+                "type": "text",
+                "content": "have chosen are the natural equipotential surfaces.",
+                "mathpix_content": " have chosen are the natural equipotential surfaces.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 15,
+                "type": "text",
+                "content": "To calculate the resistance of the artificial system is an opera-",
+                "mathpix_content": "\n\nTo calculate the resistance of the artificial system is an opera",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 16,
+                "type": "text",
+                "content": "tion of much less difficulty than the original problem. For the",
+                "mathpix_content": "tion of much less difficulty than the original problem. For the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 17,
+                "type": "text",
+                "content": "resistance of the whole is the sum of the resistances of all",
+                "mathpix_content": " resistance of the whole is the sum of the resistances of all",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 18,
+                "type": "text",
+                "content": "the strata contained between the consecutive surfaces, and the",
+                "mathpix_content": " the strata contained between the consecutive surfaces, and the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 19,
+                "type": "text",
+                "content": "resistance of each stratum can be found thus :",
+                "mathpix_content": " resistance of each stratum can be found thus :",
+                "font_size": 27,
+                "confidence": 0.9775390625
+              },
+              {
+                "page": 463,
+                "line_number": 20,
+                "type": "text",
+                "content": "Let $d S$ be an element of the surface of the stratum, $\\nu$ the",
+                "mathpix_content": "\n\nLet $d S$ be an element of the surface of the stratum, $\\nu$ the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 21,
+                "type": "text",
+                "content": "thickness of the stratum perpendicular to the element, $\\rho$ the",
+                "mathpix_content": " thickness of the stratum perpendicular to the element, $\\rho$ the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 22,
+                "type": "text",
+                "content": "specific resistance, $E$ the difference of potential of the perfectly",
+                "mathpix_content": " specific resistance, $E$ the difference of potential of the perfectly",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 463,
+                "line_number": 23,
+                "type": "text",
+                "content": "conducting surfaces, and $d C$ the current through $d S$, then",
+                "mathpix_content": " conducting surfaces, and $d C$ the current through $d S$, then",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 27,
+                "type": "text",
+                "content": "and the whole current through the stratum is",
+                "mathpix_content": "\nand the whole current through the stratum is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 31,
+                "type": "text",
+                "content": "the integration being extended over the whole stratum bounded",
+                "mathpix_content": "\nthe integration being extended over the whole stratum bounded",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 32,
+                "type": "text",
+                "content": "by the non-conducting surface of the conductor.",
+                "mathpix_content": " by the non-conducting surface of the conductor.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 33,
+                "type": "text",
+                "content": "Hence the conductivity of the stratum is",
+                "mathpix_content": "\n\nHence the conductivity of the stratum is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 37,
+                "type": "text",
+                "content": "and the resistance of the stratum is the reciprocal of this",
+                "mathpix_content": "\nand the resistance of the stratum is the reciprocal of this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 38,
+                "type": "text",
+                "content": "quantity.",
+                "mathpix_content": " quantity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 39,
+                "type": "text",
+                "content": "If the stratum be that bounded by the two surfaces for which",
+                "mathpix_content": "\n\nIf the stratum be that bounded by the two surfaces for which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 40,
+                "type": "text",
+                "content": "the function $F$ has the values $F$ and $F+d F$ respectively, then",
+                "mathpix_content": " the function $F$ has the values $F$ and $F+d F$ respectively, then",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 463,
+                "line_number": 44,
+                "type": "text",
+                "content": "and the resistance of the stratum is",
+                "mathpix_content": "\nand the resistance of the stratum is",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 307,
+      "title": "] RESISTANCE OF A WIRE OF VARIABLE SECTION.",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 429,
+      "title": "To find the resistance of the whole artificial conductor, we",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 1,
+      "title": "}=\\int \\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S}$$",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 6,
+      "title": ")",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 1,
+      "title": "}$",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 1,
+      "title": "}=\\frac{\\rho d 8}{S}$$",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 7,
+      "title": ")",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 1,
+      "title": "}=\\int \\frac{\\rho d s}{S}$$",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 8,
+      "title": ")",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 307,
+      "title": "] To find the higher limit of the resistance, let us suppose",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 1,
+      "title": "}=\\int \\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S} \\tag{6}",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 1,
+      "title": "}$",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 1,
+      "title": "}=\\frac{\\rho d 8}{S} \\tag{7}",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 1,
+      "title": "}=\\int \\frac{\\rho d s}{S} \\tag{8}",
+      "page_start": 464,
+      "page_end": 463,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 307,
+      "title": "] To find the higher limit of the resistance, let us suppose",
+      "page_start": 464,
+      "page_end": 464,
+      "articles": [
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": "] RESISTANCE OF A WIRE OF VARIABLE SECTION.",
+          "title_safe": "RESISTANCE OF A WIRE OF VARIABLE SECTION",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": "] To find the higher limit of the resistance, let us suppose",
+          "title_safe": "To find the higher limit of the resistance let us suppose",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": "] To find the higher limit of the resistance, let us suppose",
+          "title_safe": "To find the higher limit of the resistance let us suppose",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": ".] RESISTANCE OF A WIRE OF VARIABLE SECTION.",
+          "title_safe": "RESISTANCE OF A WIRE OF VARIABLE SECTION",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_429",
+          "article_number": 429,
+          "title_original": "To find the resistance of the whole artificial conductor, we",
+          "title_safe": "To find the resistance of the whole artificial conductor we",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\int \\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S}$$",
+          "title_safe": "equalsint fracd Fiint frac1rho nabla F d S",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$",
+          "title_safe": "Article",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{\\rho d 8}{S}$$",
+          "title_safe": "equalsfracrho d 8S",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\int \\frac{\\rho d s}{S}$$",
+          "title_safe": "equalsint fracrho d sS",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": ".] To find the higher limit of the resistance, let us suppose",
+          "title_safe": "To find the higher limit of the resistance let us suppose",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\int \\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S} \\tag{6}",
+          "title_safe": "equalsint fracd Fiint frac1rho nabla F d S tag6",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$",
+          "title_safe": "Article",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\frac{\\rho d 8}{S} \\tag{7}",
+          "title_safe": "equalsfracrho d 8S tag7",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=\\int \\frac{\\rho d s}{S} \\tag{8}",
+          "title_safe": "equalsint fracrho d sS tag8",
+          "page_start": 464,
+          "page_end": 463,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": ".] To find the higher limit of the resistance, let us suppose",
+          "title_safe": "To find the higher limit of the resistance let us suppose",
+          "page_start": 464,
+          "page_end": 464,
+          "content": {
+            "raw_text": "\n--- Page 464 ---\n307.] RESISTANCE OF A WIRE OF VARIABLE SECTION.\n429\nTo find the resistance of the whole artificial conductor, we\nhave only to integrate with respect to $F$, and we find\n$$R_{1}=\\int \\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S}$$\n(6)\nThe resistance $R$ of the conductor in its natural state is\ngreater than the value thus obtained, unless all the surfaces we\nhave chosen are the natural equipotential surfaces. Also, since\nthe true value of $R$ is the absolute maximum of the values of $R_{1}$\nwhich can thus be obtained, a small deviation of the chosen\nsurfaces from the true equipotential surfaces will produce an\nerror of $R$ which is comparatively small.\nThis method of determining a lower limit of the value of the\nresistance is evidently perfectly general, and may be applied to\nconductors of any form, even when $\\rho$, the specific resistance,\nvaries in any manner within the conductor.\nThe most familiar example is the ordinary method of deter-\nmining the resistance of a straight wire of variable section. In\nthis case the surfaces chosen are planes perpendicular to the\naxis of the wire, the strata have parallel faces, and the resistance\nof a stratum of section $S$ and thickness $d s$ is\n$$d R_{1}=\\frac{\\rho d 8}{S}$$\n(7)\nand that of the whole wire of length $s$ is\n$$R_{1}=\\int \\frac{\\rho d s}{S}$$\n(8)\nwhere $S$ is the transverse section and is a function of $\\delta$.\nThis method in the case of wires whose section varies slowly\nwith the length gives a result very near the truth, but it is\nreally only a lower limit, for the true resistance is always\ngreater than this, except in the case where the section is per-\nfectly uniform.\n307.] To find the higher limit of the resistance, let us suppose\na surface drawn in the conductor to be rendered impermeable to\nelectricity. The effect of this must be to increase the resistance\nof the conductor unless the surface is one of the natural surfaces\nof flow. By means of two systems of surfaces we can form a\nset of tubes which will completely regulate the flow, and the\neffect, if there is any, of this system of impermeable surfaces\nmust be to increase the resistance above its natural value.\n",
+            "mathpix_markdown": "\n--- Page 464 ---\n\n\nTo find the resistance of the whole artificial conductor, we\n have only to integrate with respect to $F$, and we find\n\n$$\\begin{equation*}\nR_{1}=\\int \\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S} \\tag{6}\n\\end{equation*}$$\n\n\nThe resistance $R$ of the conductor in its natural state is\n greater than the value thus obtained, unless all the surfaces we\n have chosen are the natural equipotential surfaces. Also, since\n the true value of $R$ is the absolute maximum of the values of $R_{1}$\n which can thus be obtained, a small deviation of the chosen\n surfaces from the true equipotential surfaces will produce an\n error of $R$ which is comparatively small.\n\n\nThis method of determining a lower limit of the value of the\n resistance is evidently perfectly general, and may be applied to\n conductors of any form, even when $\\rho$, the specific resistance,\n varies in any manner within the conductor.\n\n\nThe most familiar example is the ordinary method of deter\nmining the resistance of a straight wire of variable section. In\n this case the surfaces chosen are planes perpendicular to the\n axis of the wire, the strata have parallel faces, and the resistance\n of a stratum of section $S$ and thickness $d s$ is\n\n$$\\begin{equation*}\nd R_{1}=\\frac{\\rho d 8}{S} \\tag{7}\n\\end{equation*}$$\n\nand that of the whole wire of length $s$ is\n\n$$\\begin{equation*}\nR_{1}=\\int \\frac{\\rho d s}{S} \\tag{8}\n\\end{equation*}$$\n\nwhere $S$ is the transverse section and is a function of $\\delta$.\n\nThis method in the case of wires whose section varies slowly\n with the length gives a result very near the truth, but it is\n really only a lower limit, for the true resistance is always\n greater than this, except in the case where the section is per\nfectly uniform.\n\n307.] To find the higher limit of the resistance, let us suppose\n a surface drawn in the conductor to be rendered impermeable to\n electricity. The effect of this must be to increase the resistance\n of the conductor unless the surface is one of the natural surfaces\n of flow. By means of two systems of surfaces we can form a\n set of tubes which will completely regulate the flow, and the\n effect, if there is any, of this system of impermeable surfaces\n must be to increase the resistance above its natural value.\n",
+            "structured_lines": [
+              {
+                "page": 464,
+                "line_number": 3,
+                "type": "text",
+                "content": "To find the resistance of the whole artificial conductor, we",
+                "mathpix_content": "\n\nTo find the resistance of the whole artificial conductor, we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 4,
+                "type": "text",
+                "content": "have only to integrate with respect to $F$, and we find",
+                "mathpix_content": " have only to integrate with respect to $F$, and we find",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 464,
+                "line_number": 8,
+                "type": "text",
+                "content": "The resistance $R$ of the conductor in its natural state is",
+                "mathpix_content": "\n\nThe resistance $R$ of the conductor in its natural state is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 9,
+                "type": "text",
+                "content": "greater than the value thus obtained, unless all the surfaces we",
+                "mathpix_content": " greater than the value thus obtained, unless all the surfaces we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 10,
+                "type": "text",
+                "content": "have chosen are the natural equipotential surfaces. Also, since",
+                "mathpix_content": " have chosen are the natural equipotential surfaces. Also, since",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 11,
+                "type": "text",
+                "content": "the true value of $R$ is the absolute maximum of the values of $R_{1}$",
+                "mathpix_content": " the true value of $R$ is the absolute maximum of the values of $R_{1}$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 12,
+                "type": "text",
+                "content": "which can thus be obtained, a small deviation of the chosen",
+                "mathpix_content": " which can thus be obtained, a small deviation of the chosen",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 13,
+                "type": "text",
+                "content": "surfaces from the true equipotential surfaces will produce an",
+                "mathpix_content": " surfaces from the true equipotential surfaces will produce an",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 14,
+                "type": "text",
+                "content": "error of $R$ which is comparatively small.",
+                "mathpix_content": " error of $R$ which is comparatively small.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 15,
+                "type": "text",
+                "content": "This method of determining a lower limit of the value of the",
+                "mathpix_content": "\n\nThis method of determining a lower limit of the value of the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 464,
+                "line_number": 16,
+                "type": "text",
+                "content": "resistance is evidently perfectly general, and may be applied to",
+                "mathpix_content": " resistance is evidently perfectly general, and may be applied to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 17,
+                "type": "text",
+                "content": "conductors of any form, even when $\\rho$, the specific resistance,",
+                "mathpix_content": " conductors of any form, even when $\\rho$, the specific resistance,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 18,
+                "type": "text",
+                "content": "varies in any manner within the conductor.",
+                "mathpix_content": " varies in any manner within the conductor.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 19,
+                "type": "text",
+                "content": "The most familiar example is the ordinary method of deter-",
+                "mathpix_content": "\n\nThe most familiar example is the ordinary method of deter",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 20,
+                "type": "text",
+                "content": "mining the resistance of a straight wire of variable section. In",
+                "mathpix_content": "mining the resistance of a straight wire of variable section. In",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 21,
+                "type": "text",
+                "content": "this case the surfaces chosen are planes perpendicular to the",
+                "mathpix_content": " this case the surfaces chosen are planes perpendicular to the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 22,
+                "type": "text",
+                "content": "axis of the wire, the strata have parallel faces, and the resistance",
+                "mathpix_content": " axis of the wire, the strata have parallel faces, and the resistance",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 23,
+                "type": "text",
+                "content": "of a stratum of section $S$ and thickness $d s$ is",
+                "mathpix_content": " of a stratum of section $S$ and thickness $d s$ is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 27,
+                "type": "text",
+                "content": "and that of the whole wire of length $s$ is",
+                "mathpix_content": "\nand that of the whole wire of length $s$ is",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 464,
+                "line_number": 31,
+                "type": "text",
+                "content": "where $S$ is the transverse section and is a function of $\\delta$.",
+                "mathpix_content": "\nwhere $S$ is the transverse section and is a function of $\\delta$.",
+                "font_size": 27,
+                "confidence": 0.5966796875
+              },
+              {
+                "page": 464,
+                "line_number": 32,
+                "type": "text",
+                "content": "This method in the case of wires whose section varies slowly",
+                "mathpix_content": "\nThis method in the case of wires whose section varies slowly",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 33,
+                "type": "text",
+                "content": "with the length gives a result very near the truth, but it is",
+                "mathpix_content": " with the length gives a result very near the truth, but it is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 34,
+                "type": "text",
+                "content": "really only a lower limit, for the true resistance is always",
+                "mathpix_content": " really only a lower limit, for the true resistance is always",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 35,
+                "type": "text",
+                "content": "greater than this, except in the case where the section is per-",
+                "mathpix_content": " greater than this, except in the case where the section is per",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 36,
+                "type": "text",
+                "content": "fectly uniform.",
+                "mathpix_content": "fectly uniform.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 37,
+                "type": "text",
+                "content": "307.] To find the higher limit of the resistance, let us suppose",
+                "mathpix_content": "\n307.] To find the higher limit of the resistance, let us suppose",
+                "font_size": 27,
+                "confidence": 0.9970715045928955
+              },
+              {
+                "page": 464,
+                "line_number": 38,
+                "type": "text",
+                "content": "a surface drawn in the conductor to be rendered impermeable to",
+                "mathpix_content": " a surface drawn in the conductor to be rendered impermeable to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 39,
+                "type": "text",
+                "content": "electricity. The effect of this must be to increase the resistance",
+                "mathpix_content": " electricity. The effect of this must be to increase the resistance",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 40,
+                "type": "text",
+                "content": "of the conductor unless the surface is one of the natural surfaces",
+                "mathpix_content": " of the conductor unless the surface is one of the natural surfaces",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 41,
+                "type": "text",
+                "content": "of flow. By means of two systems of surfaces we can form a",
+                "mathpix_content": " of flow. By means of two systems of surfaces we can form a",
+                "font_size": 27,
+                "confidence": 0.9599609375
+              },
+              {
+                "page": 464,
+                "line_number": 42,
+                "type": "text",
+                "content": "set of tubes which will completely regulate the flow, and the",
+                "mathpix_content": " set of tubes which will completely regulate the flow, and the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 43,
+                "type": "text",
+                "content": "effect, if there is any, of this system of impermeable surfaces",
+                "mathpix_content": " effect, if there is any, of this system of impermeable surfaces",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 464,
+                "line_number": 44,
+                "type": "text",
+                "content": "must be to increase the resistance above its natural value.",
+                "mathpix_content": " must be to increase the resistance above its natural value.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 430,
+      "title": "RESISTANCE AND CONDUCTIVITY.",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 307,
+      "title": "The resistance of each of the tubes may be calculated by the",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 2,
+      "title": "}=\\psi b^{2}$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 9,
+      "title": ")",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 0,
+      "title": "and 1 .",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 1,
+      "title": "}{2} b^{2} d \\psi d \\phi$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 10,
+      "title": ")",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 1,
+      "title": "}{2}} \\frac{d b}{d x}$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 11,
+      "title": ")",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 1,
+      "title": "}{2} b^{2} d \\psi d \\phi \\cos \\theta$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 2,
+      "title": "\\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) .$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 12,
+      "title": ")",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 2,
+      "title": "}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 13,
+      "title": ")",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 2,
+      "title": "}{d \\psi d \\phi}(A+\\psi B),$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 2,
+      "title": "(A+\\psi B)}$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 0,
+      "title": "$ and $\\phi=2 \\pi$, and between",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 2,
+      "title": "}=\\psi b^{2} \\tag{9}",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 0,
+      "title": "and 1 .",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 1,
+      "title": "}{2} b^{2} d \\psi d \\phi \\tag{10}",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 1,
+      "title": "}{2}} \\frac{d b}{d x} \\tag{11}",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 1,
+      "title": "}{2} b^{2} d \\psi d \\phi \\cos \\theta$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 2,
+      "title": "\\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) . \\tag{12}",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 2,
+      "title": "}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 2,
+      "title": "}{d \\psi d \\phi}(A+\\psi B),$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 2,
+      "title": "(A+\\psi B)}$$",
+      "page_start": 465,
+      "page_end": 464,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 0,
+      "title": "$ and $\\phi=2 \\pi$, and between",
+      "page_start": 465,
+      "page_end": 465,
+      "articles": [
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": "The resistance of each of the tubes may be calculated by the",
+          "title_safe": "The resistance of each of the tubes may be calculated by the",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_430",
+          "article_number": 430,
+          "title_original": "RESISTANCE AND CONDUCTIVITY.",
+          "title_safe": "RESISTANCE AND CONDUCTIVITY",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_307",
+          "article_number": 307,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=\\psi b^{2}$$",
+          "title_safe": "equalspsi b2",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_9",
+          "article_number": 9,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "and 1 .",
+          "title_safe": "and 1",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} b^{2} d \\psi d \\phi$$",
+          "title_safe": "2 b2 d psi d phi",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_10",
+          "article_number": 10,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}} \\frac{d b}{d x}$$",
+          "title_safe": "2 fracd bd x",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} b^{2} d \\psi d \\phi \\cos \\theta$$",
+          "title_safe": "2 b2 d psi d phi cos theta",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) .$$",
+          "title_safe": "rho fracd xb2 d psi d phi sec 2 thetaequals2 rho fracd xb2 d",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+          "title_safe": "d x and Bequalsint fracrhob2leftfracd bd xright2 d x",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_13",
+          "article_number": 13,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}{d \\psi d \\phi}(A+\\psi B),$$",
+          "title_safe": "d psi d phiApluspsi B",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "(A+\\psi B)}$$",
+          "title_safe": "Apluspsi B",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ and $\\phi=2 \\pi$, and between",
+          "title_safe": "and phiequals2 pi and between",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=\\psi b^{2} \\tag{9}",
+          "title_safe": "equalspsi b2 tag9",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "and 1 .",
+          "title_safe": "and 1",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} b^{2} d \\psi d \\phi \\tag{10}",
+          "title_safe": "2 b2 d psi d phi tag10",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}} \\frac{d b}{d x} \\tag{11}",
+          "title_safe": "2 fracd bd x tag11",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2} b^{2} d \\psi d \\phi \\cos \\theta$$",
+          "title_safe": "2 b2 d psi d phi cos theta",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) . \\tag{12}",
+          "title_safe": "rho fracd xb2 d psi d phi sec 2 thetaequals2 rho fracd xb2 d",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+          "title_safe": "d x and Bequalsint fracrhob2leftfracd bd xright2 d x",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}{d \\psi d \\phi}(A+\\psi B),$$",
+          "title_safe": "d psi d phiApluspsi B",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "(A+\\psi B)}$$",
+          "title_safe": "Apluspsi B",
+          "page_start": 465,
+          "page_end": 464,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ and $\\phi=2 \\pi$, and between",
+          "title_safe": "and phiequals2 pi and between",
+          "page_start": 465,
+          "page_end": 465,
+          "content": {
+            "raw_text": "\n--- Page 465 ---\n430\nRESISTANCE AND CONDUCTIVITY.\n[307.\nThe resistance of each of the tubes may be calculated by the\nmethod already given for a fine wire, and the resistance of the\nwhole conductor is the reciprocal of the sum of the reciprocals\nof the resistances of all the tubes. The resistance thus found is\ngreater than the natural resistance, except when the tubes follow\nthe natural lines of flow.\nIn the case already considered, where the conductor is in the\nform of an elongated solid of revolution, let us measure $x$ along\nthe axis, and let the radius of the section at any point be $b$.\nLet one set of impermeable surfaces be the planes through the\naxis for each of which $\\phi$ is constant, and let the other set be\nsurfaces of revolution for which\n$$y^{2}=\\psi b^{2}$$\n(9)\nwhere $\\psi$ is a numerical quantity between 0 and 1 .\nLet us consider a portion of one of the tubes bounded by the\nsurfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.\nThe section of the tube taken perpendicular to the axis is\n$$y d y d \\phi=\\frac{1}{2} b^{2} d \\psi d \\phi$$\n(10)\nIf $\\theta$ be the angle which the tube makes with the axis\n$$\\tan \\theta=\\psi^{\\frac{1}{2}} \\frac{d b}{d x}$$\n(11)\nThe true length of the element of the tube is $d x \\sec \\theta$, and its\ntrue section is\n$$\\frac{1}{2} b^{2} d \\psi d \\phi \\cos \\theta$$\nso that its resistance is\nLet\n$$2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) .$$\n(12)\nLet $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,\n(13)\nthe integration being extended over the whole length, $x$, of the\nconductor, then the resistance of the tube $d \\psi d \\phi$ is\n$$\\frac{2}{d \\psi d \\phi}(A+\\psi B),$$\nand its conductivity is\n$$\\frac{d \\psi d \\phi}{2(A+\\psi B)}$$\nTo find the conductivity of the whole conductor, which is the\nsum of the conductivities of the separate tubes, we must inte-\ngrate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between\n",
+            "mathpix_markdown": "\n--- Page 465 ---\n\n\nThe resistance of each of the tubes may be calculated by the\n method already given for a fine wire, and the resistance of the\n whole conductor is the reciprocal of the sum of the reciprocals\n of the resistances of all the tubes. The resistance thus found is\n greater than the natural resistance, except when the tubes follow\n the natural lines of flow.\n\n\nIn the case already considered, where the conductor is in the\n form of an elongated solid of revolution, let us measure $x$ along\n the axis, and let the radius of the section at any point be $b$.\n Let one set of impermeable surfaces be the planes through the\n axis for each of which $\\phi$ is constant, and let the other set be\n surfaces of revolution for which\n\n$$\\begin{equation*}\ny^{2}=\\psi b^{2} \\tag{9}\n\\end{equation*}$$\n\nwhere $\\psi$ is a numerical quantity between 0 and 1 .\n\nLet us consider a portion of one of the tubes bounded by the\n surfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.\n\n\nThe section of the tube taken perpendicular to the axis is\n\n$$\\begin{equation*}\ny d y d \\phi=\\frac{1}{2} b^{2} d \\psi d \\phi \\tag{10}\n\\end{equation*}$$\n\n\nIf $\\theta$ be the angle which the tube makes with the axis\n\n$$\\begin{equation*}\n\\tan \\theta=\\psi^{\\frac{1}{2}} \\frac{d b}{d x} \\tag{11}\n\\end{equation*}$$\n\n\nThe true length of the element of the tube is $d x \\sec \\theta$, and its\n true section is\n\n$$\\frac{1}{2} b^{2} d \\psi d \\phi \\cos \\theta$$\n\nso that its resistance is\n\n\nLet\n\n$$\\begin{equation*}\n2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) . \\tag{12}\n\\end{equation*}$$\n\n\nLet $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,\n\nthe integration being extended over the whole length, $x$, of the\n conductor, then the resistance of the tube $d \\psi d \\phi$ is\n\n$$\\frac{2}{d \\psi d \\phi}(A+\\psi B),$$\n\nand its conductivity is\n\n$$\\frac{d \\psi d \\phi}{2(A+\\psi B)}$$\n\n\nTo find the conductivity of the whole conductor, which is the\n sum of the conductivities of the separate tubes, we must inte\ngrate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between\n",
+            "structured_lines": [
+              {
+                "page": 465,
+                "line_number": 4,
+                "type": "text",
+                "content": "The resistance of each of the tubes may be calculated by the",
+                "mathpix_content": "\n\nThe resistance of each of the tubes may be calculated by the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 5,
+                "type": "text",
+                "content": "method already given for a fine wire, and the resistance of the",
+                "mathpix_content": " method already given for a fine wire, and the resistance of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 6,
+                "type": "text",
+                "content": "whole conductor is the reciprocal of the sum of the reciprocals",
+                "mathpix_content": " whole conductor is the reciprocal of the sum of the reciprocals",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 7,
+                "type": "text",
+                "content": "of the resistances of all the tubes. The resistance thus found is",
+                "mathpix_content": " of the resistances of all the tubes. The resistance thus found is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 8,
+                "type": "text",
+                "content": "greater than the natural resistance, except when the tubes follow",
+                "mathpix_content": " greater than the natural resistance, except when the tubes follow",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 9,
+                "type": "text",
+                "content": "the natural lines of flow.",
+                "mathpix_content": " the natural lines of flow.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 10,
+                "type": "text",
+                "content": "In the case already considered, where the conductor is in the",
+                "mathpix_content": "\n\nIn the case already considered, where the conductor is in the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 11,
+                "type": "text",
+                "content": "form of an elongated solid of revolution, let us measure $x$ along",
+                "mathpix_content": " form of an elongated solid of revolution, let us measure $x$ along",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 12,
+                "type": "text",
+                "content": "the axis, and let the radius of the section at any point be $b$.",
+                "mathpix_content": " the axis, and let the radius of the section at any point be $b$.",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 465,
+                "line_number": 13,
+                "type": "text",
+                "content": "Let one set of impermeable surfaces be the planes through the",
+                "mathpix_content": " Let one set of impermeable surfaces be the planes through the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 465,
+                "line_number": 14,
+                "type": "text",
+                "content": "axis for each of which $\\phi$ is constant, and let the other set be",
+                "mathpix_content": " axis for each of which $\\phi$ is constant, and let the other set be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 15,
+                "type": "text",
+                "content": "surfaces of revolution for which",
+                "mathpix_content": " surfaces of revolution for which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 19,
+                "type": "text",
+                "content": "where $\\psi$ is a numerical quantity between 0 and 1 .",
+                "mathpix_content": "\nwhere $\\psi$ is a numerical quantity between 0 and 1 .",
+                "font_size": 27,
+                "confidence": 0.93896484375
+              },
+              {
+                "page": 465,
+                "line_number": 20,
+                "type": "text",
+                "content": "Let us consider a portion of one of the tubes bounded by the",
+                "mathpix_content": "\nLet us consider a portion of one of the tubes bounded by the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 21,
+                "type": "text",
+                "content": "surfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.",
+                "mathpix_content": " surfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 465,
+                "line_number": 22,
+                "type": "text",
+                "content": "The section of the tube taken perpendicular to the axis is",
+                "mathpix_content": "\n\nThe section of the tube taken perpendicular to the axis is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 26,
+                "type": "text",
+                "content": "If $\\theta$ be the angle which the tube makes with the axis",
+                "mathpix_content": "\n\nIf $\\theta$ be the angle which the tube makes with the axis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 30,
+                "type": "text",
+                "content": "The true length of the element of the tube is $d x \\sec \\theta$, and its",
+                "mathpix_content": "\n\nThe true length of the element of the tube is $d x \\sec \\theta$, and its",
+                "font_size": 27,
+                "confidence": 0.9873046875
+              },
+              {
+                "page": 465,
+                "line_number": 31,
+                "type": "text",
+                "content": "true section is",
+                "mathpix_content": " true section is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 34,
+                "type": "text",
+                "content": "so that its resistance is",
+                "mathpix_content": "\nso that its resistance is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 35,
+                "type": "text",
+                "content": "Let",
+                "mathpix_content": "\n\nLet",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 39,
+                "type": "text",
+                "content": "Let $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+                "mathpix_content": "\n\nLet $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+                "font_size": 27,
+                "confidence": 0.9105465412139893
+              },
+              {
+                "page": 465,
+                "line_number": 41,
+                "type": "text",
+                "content": "the integration being extended over the whole length, $x$, of the",
+                "mathpix_content": "\nthe integration being extended over the whole length, $x$, of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 42,
+                "type": "text",
+                "content": "conductor, then the resistance of the tube $d \\psi d \\phi$ is",
+                "mathpix_content": " conductor, then the resistance of the tube $d \\psi d \\phi$ is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 45,
+                "type": "text",
+                "content": "and its conductivity is",
+                "mathpix_content": "\nand its conductivity is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 48,
+                "type": "text",
+                "content": "To find the conductivity of the whole conductor, which is the",
+                "mathpix_content": "\n\nTo find the conductivity of the whole conductor, which is the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 49,
+                "type": "text",
+                "content": "sum of the conductivities of the separate tubes, we must inte-",
+                "mathpix_content": " sum of the conductivities of the separate tubes, we must inte",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 465,
+                "line_number": 50,
+                "type": "text",
+                "content": "grate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between",
+                "mathpix_content": "grate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 308,
+      "title": "]",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 431,
+      "title": "$\\psi=0$ and $\\psi=1$. The result is",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 1,
+      "title": "}{R^{\\prime}}=\\frac{\\pi}{B} \\log _{e}\\left(1+\\frac{B}{A}\\right),$$",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_67",
+      "chapter_number": 14,
+      "title": ")",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_68",
+      "chapter_number": 1,
+      "title": "}{R^{\\prime}}=\\frac{\\pi}{A}\\left(1-\\frac{1}{2} \\frac{B}{A}+\\frac{1}{8} \\frac{B^{2}}{A^{2}}-\\frac{1}{4} \\frac{B^{3}}{A^{3}}+\\text { \\&c. }\\right) .$$",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_69",
+      "chapter_number": 15,
+      "title": ")",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_70",
+      "chapter_number": 1,
+      "title": "+\\frac{1}{2} \\frac{B}{A}-\\frac{1}{12} \\frac{B^{2}}{A^{2}}+\\frac{1}{24} \\frac{B^{3}}{A^{3}}-\\& \\mathrm{c.}\\right) .$$",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_71",
+      "chapter_number": 16,
+      "title": ")",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_72",
+      "chapter_number": 1,
+      "title": "}{\\pi}\\left(A+\\frac{1}{2} B\\right)^{*}$$",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_73",
+      "chapter_number": 17,
+      "title": ")",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_74",
+      "chapter_number": 17,
+      "title": "), which is a little",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_75",
+      "chapter_number": 16,
+      "title": ").",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_76",
+      "chapter_number": 308,
+      "title": "] We shall now apply the same method to find the cor-",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_77",
+      "chapter_number": 171,
+      "title": "$\\psi=0$ and $\\psi=1$. The result is",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_78",
+      "chapter_number": 1,
+      "title": "}{R^{\\prime}}=\\frac{\\pi}{B} \\log _{e}\\left(1+\\frac{B}{A}\\right), \\tag{14}",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_79",
+      "chapter_number": 1,
+      "title": "}{R^{\\prime}}=\\frac{\\pi}{A}\\left(1-\\frac{1}{2} \\frac{B}{A}+\\frac{1}{8} \\frac{B^{2}}{A^{2}}-\\frac{1}{4} \\frac{B^{3}}{A^{3}}+\\text { \\&c. }\\right) . \\tag{15}",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_80",
+      "chapter_number": 1,
+      "title": "+\\frac{1}{2} \\frac{B}{A}-\\frac{1}{12} \\frac{B^{2}}{A^{2}}+\\frac{1}{24} \\frac{B^{3}}{A^{3}}-\\& \\mathrm{c.}\\right) . \\tag{16}",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_81",
+      "chapter_number": 1,
+      "title": "}{\\pi}\\left(A+\\frac{1}{2} B\\right)^{*} \\tag{17}",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_82",
+      "chapter_number": 17,
+      "title": "), which is a little",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_83",
+      "chapter_number": 16,
+      "title": ").",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_84",
+      "chapter_number": 308,
+      "title": "] We shall now apply the same method to find the cor",
+      "page_start": 466,
+      "page_end": 465,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_85",
+      "chapter_number": 171,
+      "title": "}",
+      "page_start": 466,
+      "page_end": 466,
+      "articles": [
+        {
+          "article_id": "article_308",
+          "article_number": 308,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_308",
+          "article_number": 308,
+          "title_original": "] We shall now apply the same method to find the cor-",
+          "title_safe": "We shall now apply the same method to find the cor",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_171",
+          "article_number": 171,
+          "title_original": "$\\psi=0$ and $\\psi=1$. The result is",
+          "title_safe": "psiequals0 and psiequals1. The result is",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_308",
+          "article_number": 308,
+          "title_original": "] We shall now apply the same method to find the cor",
+          "title_safe": "We shall now apply the same method to find the cor",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_171",
+          "article_number": 171,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_308",
+          "article_number": 308,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_431",
+          "article_number": 431,
+          "title_original": "$\\psi=0$ and $\\psi=1$. The result is",
+          "title_safe": "psiequals0 and psiequals1. The result is",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{R^{\\prime}}=\\frac{\\pi}{B} \\log _{e}\\left(1+\\frac{B}{A}\\right),$$",
+          "title_safe": "RprimeequalsfracpiB log eleft1plusfracBAright",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_14",
+          "article_number": 14,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{R^{\\prime}}=\\frac{\\pi}{A}\\left(1-\\frac{1}{2} \\frac{B}{A}+\\frac{1}{8} \\frac{B^{2}}{A^{2}}-\\frac{1}{4} \\frac{B^{3}}{A^{3}}+\\text { \\&c. }\\right) .$$",
+          "title_safe": "RprimeequalsfracpiAleft1-frac12 fracBAplusfrac18 fracB2A2-fr",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_15",
+          "article_number": 15,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+\\frac{1}{2} \\frac{B}{A}-\\frac{1}{12} \\frac{B^{2}}{A^{2}}+\\frac{1}{24} \\frac{B^{3}}{A^{3}}-\\& \\mathrm{c.}\\right) .$$",
+          "title_safe": "plusfrac12 fracBA-frac112 fracB2A2plusfrac124 fracB3A3-and m",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\pi}\\left(A+\\frac{1}{2} B\\right)^{*}$$",
+          "title_safe": "pileftAplusfrac12 BrightASTERISK",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_17",
+          "article_number": 17,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_17",
+          "article_number": 17,
+          "title_original": "), which is a little",
+          "title_safe": "which is a little",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_308",
+          "article_number": 308,
+          "title_original": ".] We shall now apply the same method to find the cor-",
+          "title_safe": "We shall now apply the same method to find the cor",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_171",
+          "article_number": 171,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ and $\\psi=1$. The result is",
+          "title_safe": "and psiequals1. The result is",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{R^{\\prime}}=\\frac{\\pi}{B} \\log _{e}\\left(1+\\frac{B}{A}\\right), \\tag{14}",
+          "title_safe": "RprimeequalsfracpiB log eleft1plusfracBAright tag14",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{R^{\\prime}}=\\frac{\\pi}{A}\\left(1-\\frac{1}{2} \\frac{B}{A}+\\frac{1}{8} \\frac{B^{2}}{A^{2}}-\\frac{1}{4} \\frac{B^{3}}{A^{3}}+\\text { \\&c. }\\right) . \\tag{15}",
+          "title_safe": "RprimeequalsfracpiAleft1-frac12 fracBAplusfrac18 fracB2A2-fr",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+\\frac{1}{2} \\frac{B}{A}-\\frac{1}{12} \\frac{B^{2}}{A^{2}}+\\frac{1}{24} \\frac{B^{3}}{A^{3}}-\\& \\mathrm{c.}\\right) . \\tag{16}",
+          "title_safe": "plusfrac12 fracBA-frac112 fracB2A2plusfrac124 fracB3A3-and m",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{\\pi}\\left(A+\\frac{1}{2} B\\right)^{*} \\tag{17}",
+          "title_safe": "pileftAplusfrac12 BrightASTERISK tag17",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_17",
+          "article_number": 17,
+          "title_original": "), which is a little",
+          "title_safe": "which is a little",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_308",
+          "article_number": 308,
+          "title_original": ".] We shall now apply the same method to find the cor",
+          "title_safe": "We shall now apply the same method to find the cor",
+          "page_start": 466,
+          "page_end": 465,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_171",
+          "article_number": 171,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 466,
+          "page_end": 466,
+          "content": {
+            "raw_text": "\n--- Page 466 ---\n308.]\nHIGHER AND LOWER LIMITS.\n431\n$\\psi=0$ and $\\psi=1$. The result is\n$$\\frac{1}{R^{\\prime}}=\\frac{\\pi}{B} \\log _{e}\\left(1+\\frac{B}{A}\\right),$$\n(14)\nwhich may be less, but cannot be greater, than the true con-\nductivity of the conductor.\nWhen $\\frac{d b}{d x}$ is always a small quantity $\\frac{B}{A}$ will also be small, and\nwe may expand the expression for the conductivity, thus\n$$\\frac{1}{R^{\\prime}}=\\frac{\\pi}{A}\\left(1-\\frac{1}{2} \\frac{B}{A}+\\frac{1}{8} \\frac{B^{2}}{A^{2}}-\\frac{1}{4} \\frac{B^{3}}{A^{3}}+\\text { \\&c. }\\right) .$$\n(15)\nThe first term of this expression, $\\frac{\\pi}{A}$, is that which we should\nhave found by the former method as the superior limit of the\nconductivity. Hence the true conductivity is less than the first\nterm but greater than the whole series. The superior value of\nthe resistance is the reciprocal of this, or\n$$R^{\\prime}=\\frac{A}{\\pi}\\left(1+\\frac{1}{2} \\frac{B}{A}-\\frac{1}{12} \\frac{B^{2}}{A^{2}}+\\frac{1}{24} \\frac{B^{3}}{A^{3}}-\\& \\mathrm{c.}\\right) .$$\n(16)\nIf, besides supposing the flow to be guided by the surfaces $\\phi$\nand $\\psi$, we had assumed that the flow through each tube is\nproportional to $d \\psi d \\phi$, we should have obtained as the value of\nthe resistance under this additional constraint\n$$R^{\\prime \\prime}=\\frac{1}{\\pi}\\left(A+\\frac{1}{2} B\\right)^{*}$$\n(17)\nwhich is evidently greater than the former value, as it ought to\nbe, on account of the additional constraint. In Lord Rayleigh's\npaper this is the supposition made, and the superior limit of the\nresistance there given has the value (17), which is a little\ngreater than that which we have obtained in (16).\n308.] We shall now apply the same method to find the cor-\nrection which must be applied to the length of a cylindrical\nconductor of radius $a$ when its extremity is placed in metallic\ncontact with a massive electrode, which we may suppose of a\ndifferent metal.\nFor the lower limit of the resistance we shall suppose that an\ninfinitely thin disk of perfectly conducting matter is placed be-\ntween the end of the cylinder and the massive electrode, so as to\nbring the end of the cylinder to one and the same potential\n\n* Lord Rayleigh, Theory of Sound, ii. p. 171.\n",
+            "mathpix_markdown": "\n--- Page 466 ---\n\n$\\psi=0$ and $\\psi=1$. The result is\n\n$$\\begin{equation*}\n\\frac{1}{R^{\\prime}}=\\frac{\\pi}{B} \\log _{e}\\left(1+\\frac{B}{A}\\right), \\tag{14}\n\\end{equation*}$$\n\nwhich may be less, but cannot be greater, than the true con\nductivity of the conductor.\n\n\nWhen $\\frac{d b}{d x}$ is always a small quantity $\\frac{B}{A}$ will also be small, and\n we may expand the expression for the conductivity, thus\n\n$$\\begin{equation*}\n\\frac{1}{R^{\\prime}}=\\frac{\\pi}{A}\\left(1-\\frac{1}{2} \\frac{B}{A}+\\frac{1}{8} \\frac{B^{2}}{A^{2}}-\\frac{1}{4} \\frac{B^{3}}{A^{3}}+\\text { \\&c. }\\right) . \\tag{15}\n\\end{equation*}$$\n\n\nThe first term of this expression, $\\frac{\\pi}{A}$, is that which we should\n have found by the former method as the superior limit of the\n conductivity. Hence the true conductivity is less than the first\n term but greater than the whole series. The superior value of\n the resistance is the reciprocal of this, or\n\n$$\\begin{equation*}\nR^{\\prime}=\\frac{A}{\\pi}\\left(1+\\frac{1}{2} \\frac{B}{A}-\\frac{1}{12} \\frac{B^{2}}{A^{2}}+\\frac{1}{24} \\frac{B^{3}}{A^{3}}-\\& \\mathrm{c.}\\right) . \\tag{16}\n\\end{equation*}$$\n\n\nIf, besides supposing the flow to be guided by the surfaces $\\phi$\n and $\\psi$, we had assumed that the flow through each tube is\n proportional to $d \\psi d \\phi$, we should have obtained as the value of\n the resistance under this additional constraint\n\n$$\\begin{equation*}\nR^{\\prime \\prime}=\\frac{1}{\\pi}\\left(A+\\frac{1}{2} B\\right)^{*} \\tag{17}\n\\end{equation*}$$\n\nwhich is evidently greater than the former value, as it ought to\n be, on account of the additional constraint. In Lord Rayleigh's\n paper this is the supposition made, and the superior limit of the\n resistance there given has the value (17), which is a little\n greater than that which we have obtained in (16).\n\n308.] We shall now apply the same method to find the cor\nrection which must be applied to the length of a cylindrical\n conductor of radius $a$ when its extremity is placed in metallic\n contact with a massive electrode, which we may suppose of a\n different metal.\n\n\nFor the lower limit of the resistance we shall suppose that an\n infinitely thin disk of perfectly conducting matter is placed be\ntween the end of the cylinder and the massive electrode, so as to\n bring the end of the cylinder to one and the same potential\n\n\n\\footnotetext{\n* Lord Rayleigh, Theory of Sound, ii. p. 171.\n}\n",
+            "structured_lines": [
+              {
+                "page": 466,
+                "line_number": 4,
+                "type": "text",
+                "content": "$\\psi=0$ and $\\psi=1$. The result is",
+                "mathpix_content": "\n$\\psi=0$ and $\\psi=1$. The result is",
+                "font_size": 27,
+                "confidence": 0.91748046875
+              },
+              {
+                "page": 466,
+                "line_number": 8,
+                "type": "text",
+                "content": "which may be less, but cannot be greater, than the true con-",
+                "mathpix_content": "\nwhich may be less, but cannot be greater, than the true con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 9,
+                "type": "text",
+                "content": "ductivity of the conductor.",
+                "mathpix_content": "ductivity of the conductor.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 10,
+                "type": "text",
+                "content": "When $\\frac{d b}{d x}$ is always a small quantity $\\frac{B}{A}$ will also be small, and",
+                "mathpix_content": "\n\nWhen $\\frac{d b}{d x}$ is always a small quantity $\\frac{B}{A}$ will also be small, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 11,
+                "type": "text",
+                "content": "we may expand the expression for the conductivity, thus",
+                "mathpix_content": " we may expand the expression for the conductivity, thus",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 15,
+                "type": "text",
+                "content": "The first term of this expression, $\\frac{\\pi}{A}$, is that which we should",
+                "mathpix_content": "\n\nThe first term of this expression, $\\frac{\\pi}{A}$, is that which we should",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 16,
+                "type": "text",
+                "content": "have found by the former method as the superior limit of the",
+                "mathpix_content": " have found by the former method as the superior limit of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 17,
+                "type": "text",
+                "content": "conductivity. Hence the true conductivity is less than the first",
+                "mathpix_content": " conductivity. Hence the true conductivity is less than the first",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 18,
+                "type": "text",
+                "content": "term but greater than the whole series. The superior value of",
+                "mathpix_content": " term but greater than the whole series. The superior value of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 19,
+                "type": "text",
+                "content": "the resistance is the reciprocal of this, or",
+                "mathpix_content": " the resistance is the reciprocal of this, or",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 23,
+                "type": "text",
+                "content": "If, besides supposing the flow to be guided by the surfaces $\\phi$",
+                "mathpix_content": "\n\nIf, besides supposing the flow to be guided by the surfaces $\\phi$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 24,
+                "type": "text",
+                "content": "and $\\psi$, we had assumed that the flow through each tube is",
+                "mathpix_content": " and $\\psi$, we had assumed that the flow through each tube is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 25,
+                "type": "text",
+                "content": "proportional to $d \\psi d \\phi$, we should have obtained as the value of",
+                "mathpix_content": " proportional to $d \\psi d \\phi$, we should have obtained as the value of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 26,
+                "type": "text",
+                "content": "the resistance under this additional constraint",
+                "mathpix_content": " the resistance under this additional constraint",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 30,
+                "type": "text",
+                "content": "which is evidently greater than the former value, as it ought to",
+                "mathpix_content": "\nwhich is evidently greater than the former value, as it ought to",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 466,
+                "line_number": 31,
+                "type": "text",
+                "content": "be, on account of the additional constraint. In Lord Rayleigh's",
+                "mathpix_content": " be, on account of the additional constraint. In Lord Rayleigh's",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 466,
+                "line_number": 32,
+                "type": "text",
+                "content": "paper this is the supposition made, and the superior limit of the",
+                "mathpix_content": " paper this is the supposition made, and the superior limit of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 33,
+                "type": "text",
+                "content": "resistance there given has the value (17), which is a little",
+                "mathpix_content": " resistance there given has the value (17), which is a little",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 34,
+                "type": "text",
+                "content": "greater than that which we have obtained in (16).",
+                "mathpix_content": " greater than that which we have obtained in (16).",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 35,
+                "type": "text",
+                "content": "308.] We shall now apply the same method to find the cor-",
+                "mathpix_content": "\n308.] We shall now apply the same method to find the cor",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 466,
+                "line_number": 36,
+                "type": "text",
+                "content": "rection which must be applied to the length of a cylindrical",
+                "mathpix_content": "rection which must be applied to the length of a cylindrical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 37,
+                "type": "text",
+                "content": "conductor of radius $a$ when its extremity is placed in metallic",
+                "mathpix_content": " conductor of radius $a$ when its extremity is placed in metallic",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 466,
+                "line_number": 38,
+                "type": "text",
+                "content": "contact with a massive electrode, which we may suppose of a",
+                "mathpix_content": " contact with a massive electrode, which we may suppose of a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 39,
+                "type": "text",
+                "content": "different metal.",
+                "mathpix_content": " different metal.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 40,
+                "type": "text",
+                "content": "For the lower limit of the resistance we shall suppose that an",
+                "mathpix_content": "\n\nFor the lower limit of the resistance we shall suppose that an",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 41,
+                "type": "text",
+                "content": "infinitely thin disk of perfectly conducting matter is placed be-",
+                "mathpix_content": " infinitely thin disk of perfectly conducting matter is placed be",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 466,
+                "line_number": 42,
+                "type": "text",
+                "content": "tween the end of the cylinder and the massive electrode, so as to",
+                "mathpix_content": "tween the end of the cylinder and the massive electrode, so as to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 466,
+                "line_number": 43,
+                "type": "text",
+                "content": "bring the end of the cylinder to one and the same potential",
+                "mathpix_content": " bring the end of the cylinder to one and the same potential",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 466,
+                "line_number": 45,
+                "type": "text",
+                "content": "* Lord Rayleigh, Theory of Sound, ii. p. 171.",
+                "mathpix_content": "\n\n\\footnotetext{\n* Lord Rayleigh, Theory of Sound, ii. p. 171.\n}",
+                "font_size": 21,
+                "confidence": 0.9960982785560191
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

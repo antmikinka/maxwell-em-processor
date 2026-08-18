@@ -1,0 +1,237 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{2} \\frac{r^{2}}{m n}$, and the component of",
+  "title_safe": "2 fracr2m n and the component of",
+  "page_start": 446,
+  "page_end": 446,
+  "content": {
+    "raw_text": "\n--- Page 446 ---\n\nCHAPTER VII.\n\nCONDUCTION IN THREE DIMENSIONS.\n\nNotation of Electric Currents.\n285.] At any point let an element of area $d S$ be taken normal\nto the axis of $x$, and let $Q$ units of electricity pass across this\narea from the negative to the positive side in unit of time,\nthen, if $\\frac{Q}{d S}$ becomes ultimately equal to $u$ when $d S$ is indefinitely\ndiminished, $u$ is said to be the Component of the electric current\nin the direction of $x$ at the given point.\nIn the same way we may determine $v$ and $w$, the components\nof the current in the directions of $y$ and $z$ respectively.\n286.] To determine the component of the current in any other\ndirection $O R$ through the given point, $O$, let $l, m, n$ be the\ndirection-cosines of $O R$; then if we cut off from the axes of\n$x, y, z$ portions equal to\n$$\\frac{r}{l}, \\frac{r}{m}, \\quad \\text { and } \\quad \\frac{r}{n}$$\nrespectively at $A, B$ and $C$, the triangle $A B C$ will be normal\nto OR.\nThe area of this triangle $A B C$ will be\n$$d S=\\frac{1}{2} \\frac{r^{2}}{\\operatorname{lm} n},$$\nand by diminishing $r$ this area may be di-\nminished without limit.\n\n\nFig. 23.\nThe quantity of electricity which leaves the tetrahedron $A B C O$\nby the triangle $A B C$ must be equal to that which enters it\nthrough the three triangles $O B C, O C A$, and $O A B$.\nThe area of the triangle $O B C$ is $\\frac{1}{2} \\frac{r^{2}}{m n}$, and the component of\n",
+    "mathpix_markdown": "\n--- Page 446 ---\n\n\n\\section*{CHAPTER VII.}\n\n\n\\section*{CONDUCTION IN THREE DIMENSIONS.}\n\n\n\\section*{Notation of Electric Currents.}\n\n285.] At any point let an element of area $d S$ be taken normal\n to the axis of $x$, and let $Q$ units of electricity pass across this\n area from the negative to the positive side in unit of time,\n then, if $\\frac{Q}{d S}$ becomes ultimately equal to $u$ when $d S$ is indefinitely\n diminished, $u$ is said to be the Component of the electric current\n in the direction of $x$ at the given point.\n\n\nIn the same way we may determine $v$ and $w$, the components\n of the current in the directions of $y$ and $z$ respectively.\n\n286.] To determine the component of the current in any other\n direction $O R$ through the given point, $O$, let $l, m, n$ be the\n direction-cosines of $O R$; then if we cut off from the axes of\n $x, y, z$ portions equal to\n\n$$\\frac{r}{l}, \\frac{r}{m}, \\quad \\text { and } \\quad \\frac{r}{n}$$\n\nrespectively at $A, B$ and $C$, the triangle $A B C$ will be normal\n to OR.\n\n\nThe area of this triangle $A B C$ will be\n\n$$d S=\\frac{1}{2} \\frac{r^{2}}{\\operatorname{lm} n},$$\n\nand by diminishing $r$ this area may be di\nminished without limit.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-446.jpg?height=206&width=223&top_left_y=1409&top_left_x=881}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 23.}\n\\end{figure}\n\n\nThe quantity of electricity which leaves the tetrahedron $A B C O$\n by the triangle $A B C$ must be equal to that which enters it\n through the three triangles $O B C, O C A$, and $O A B$.\n\n\nThe area of the triangle $O B C$ is $\\frac{1}{2} \\frac{r^{2}}{m n}$, and the component of\n",
+    "structured_lines": [
+      {
+        "page": 446,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER VII.",
+        "mathpix_content": "\n\n\\section*{CHAPTER VII.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 4,
+        "type": "text",
+        "content": "CONDUCTION IN THREE DIMENSIONS.",
+        "mathpix_content": "\n\n\\section*{CONDUCTION IN THREE DIMENSIONS.}",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 446,
+        "line_number": 6,
+        "type": "text",
+        "content": "Notation of Electric Currents.",
+        "mathpix_content": "\n\n\\section*{Notation of Electric Currents.}",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 446,
+        "line_number": 7,
+        "type": "text",
+        "content": "285.] At any point let an element of area $d S$ be taken normal",
+        "mathpix_content": "\n285.] At any point let an element of area $d S$ be taken normal",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 8,
+        "type": "text",
+        "content": "to the axis of $x$, and let $Q$ units of electricity pass across this",
+        "mathpix_content": " to the axis of $x$, and let $Q$ units of electricity pass across this",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 446,
+        "line_number": 9,
+        "type": "text",
+        "content": "area from the negative to the positive side in unit of time,",
+        "mathpix_content": " area from the negative to the positive side in unit of time,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 10,
+        "type": "text",
+        "content": "then, if $\\frac{Q}{d S}$ becomes ultimately equal to $u$ when $d S$ is indefinitely",
+        "mathpix_content": " then, if $\\frac{Q}{d S}$ becomes ultimately equal to $u$ when $d S$ is indefinitely",
+        "font_size": 27,
+        "confidence": 0.8814811706542969
+      },
+      {
+        "page": 446,
+        "line_number": 11,
+        "type": "text",
+        "content": "diminished, $u$ is said to be the Component of the electric current",
+        "mathpix_content": " diminished, $u$ is said to be the Component of the electric current",
+        "font_size": 27,
+        "confidence": 0.9921875
+      },
+      {
+        "page": 446,
+        "line_number": 12,
+        "type": "text",
+        "content": "in the direction of $x$ at the given point.",
+        "mathpix_content": " in the direction of $x$ at the given point.",
+        "font_size": 27,
+        "confidence": 0.9722065925598145
+      },
+      {
+        "page": 446,
+        "line_number": 13,
+        "type": "text",
+        "content": "In the same way we may determine $v$ and $w$, the components",
+        "mathpix_content": "\n\nIn the same way we may determine $v$ and $w$, the components",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 14,
+        "type": "text",
+        "content": "of the current in the directions of $y$ and $z$ respectively.",
+        "mathpix_content": " of the current in the directions of $y$ and $z$ respectively.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 15,
+        "type": "text",
+        "content": "286.] To determine the component of the current in any other",
+        "mathpix_content": "\n286.] To determine the component of the current in any other",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 16,
+        "type": "text",
+        "content": "direction $O R$ through the given point, $O$, let $l, m, n$ be the",
+        "mathpix_content": " direction $O R$ through the given point, $O$, let $l, m, n$ be the",
+        "font_size": 27,
+        "confidence": 0.95361328125
+      },
+      {
+        "page": 446,
+        "line_number": 17,
+        "type": "text",
+        "content": "direction-cosines of $O R$; then if we cut off from the axes of",
+        "mathpix_content": " direction-cosines of $O R$; then if we cut off from the axes of",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 446,
+        "line_number": 18,
+        "type": "text",
+        "content": "$x, y, z$ portions equal to",
+        "mathpix_content": " $x, y, z$ portions equal to",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 446,
+        "line_number": 21,
+        "type": "text",
+        "content": "respectively at $A, B$ and $C$, the triangle $A B C$ will be normal",
+        "mathpix_content": "\nrespectively at $A, B$ and $C$, the triangle $A B C$ will be normal",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 446,
+        "line_number": 22,
+        "type": "text",
+        "content": "to OR.",
+        "mathpix_content": " to OR.",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 446,
+        "line_number": 23,
+        "type": "text",
+        "content": "The area of this triangle $A B C$ will be",
+        "mathpix_content": "\n\nThe area of this triangle $A B C$ will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 26,
+        "type": "text",
+        "content": "and by diminishing $r$ this area may be di-",
+        "mathpix_content": "\nand by diminishing $r$ this area may be di",
+        "font_size": 27,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 446,
+        "line_number": 27,
+        "type": "text",
+        "content": "minished without limit.",
+        "mathpix_content": "minished without limit.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 31,
+        "type": "text",
+        "content": "The quantity of electricity which leaves the tetrahedron $A B C O$",
+        "mathpix_content": "\n\nThe quantity of electricity which leaves the tetrahedron $A B C O$",
+        "font_size": 27,
+        "confidence": 0.9726693630218506
+      },
+      {
+        "page": 446,
+        "line_number": 32,
+        "type": "text",
+        "content": "by the triangle $A B C$ must be equal to that which enters it",
+        "mathpix_content": " by the triangle $A B C$ must be equal to that which enters it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 446,
+        "line_number": 33,
+        "type": "text",
+        "content": "through the three triangles $O B C, O C A$, and $O A B$.",
+        "mathpix_content": " through the three triangles $O B C, O C A$, and $O A B$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 446,
+        "line_number": 34,
+        "type": "text",
+        "content": "The area of the triangle $O B C$ is $\\frac{1}{2} \\frac{r^{2}}{m n}$, and the component of",
+        "mathpix_content": "\n\nThe area of the triangle $O B C$ is $\\frac{1}{2} \\frac{r^{2}}{m n}$, and the component of",
+        "font_size": 27,
+        "confidence": 0.9980475902557373
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

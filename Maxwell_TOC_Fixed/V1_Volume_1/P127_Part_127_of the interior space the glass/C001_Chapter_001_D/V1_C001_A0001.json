@@ -1,0 +1,399 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 68,
+  "page_end": 68,
+  "content": {
+    "raw_text": "\n--- Page 68 ---\n28.]\nELECTRIFICATION.\n33\nIf a body electrified in any manner whatever behaves as the\nglass does, that is, if it repels the glass and attracts the resin, the\nbody is said to be vitreously electrified, and if it attracts the glass\nand repels the resin it is said to be resinously electrified. All\nelectrified bodies are found to be either vitreously or resinously\nelectrified.\nIt is the established practice of men of science to call the vitreous\nelectrification positive, and the resinous electrification negative.\nThe exactly opposite properties of the two kinds of electrification\njustify us in indicating them by opposite signs, but the applica-\ntion of the positive sign to one rather than to the other kind must\nbe considered as a matter of arbitrary convention, just as it is a\nmatter of convention in mathematical diagrams to reckon positive\ndistances towards the right hand.\nNo force, either of attraction or of repulsion, can be observed\nbetween an electrified body and a body not electrified. When, in\nany case, bodies not previously electrified are observed to be acted\non by an electrified body, it is because they have become electrified\nby induction.\n\nElectrification by Induction.\n28.] Experiment II *. Let a hollow vessel of metal be hung\nup by white silk threads, and let a similar thread\nbe attached to the lid of the vessel so that the vessel\nmay be opened or closed without touching it.\nLet the pieces of glass and resin be similarly sus-\npended and electrified as before.\nLet the vessel be originally unelectrified, then if\nan electrified piece of glass is hung up within it by\nits thread without touching the vessel, and the lid\nclosed, the outside of the vessel will be found to\nbe vitreously electrified, and it may be shewn that\nthe electrification outside of the vessel is exactly the\nsame in whatever part of the interior space the glass\n\n\nFig. 4.\nis suspended \u2020 .\nIf the glass is now taken out of the vessel without touching\nit, the electrification of the glass will be the same as before it\nwas put in, and that of the vessel will have disappeared.\n\n* This, and several experiments which follow, are due to Faraday, 'On Static\nElectrical Inductive Action,' Phil. Mag., 1843, or Exp. Res., vol. ii. p. 279.\n\u2020 \\{This is an illustration of Art. 100 c. \\}\nVOL. 1.\nD\n",
+    "mathpix_markdown": "\n--- Page 68 ---\n\n\nIf a body electrified in any manner whatever behaves as the\n glass does, that is, if it repels the glass and attracts the resin, the\n body is said to be vitreously electrified, and if it attracts the glass\n and repels the resin it is said to be resinously electrified. All\n electrified bodies are found to be either vitreously or resinously\n electrified.\n\n\nIt is the established practice of men of science to call the vitreous\n electrification positive, and the resinous electrification negative.\n The exactly opposite properties of the two kinds of electrification\n justify us in indicating them by opposite signs, but the applica\ntion of the positive sign to one rather than to the other kind must\n be considered as a matter of arbitrary convention, just as it is a\n matter of convention in mathematical diagrams to reckon positive\n distances towards the right hand.\n\n\nNo force, either of attraction or of repulsion, can be observed\n between an electrified body and a body not electrified. When, in\n any case, bodies not previously electrified are observed to be acted\n on by an electrified body, it is because they have become electrified\n by induction.\n\n\n\\section*{Electrification by Induction.}\n\n28.] Experiment II *. Let a hollow vessel of metal be hung\n up by white silk threads, and let a similar thread\n be attached to the lid of the vessel so that the vessel\n may be opened or closed without touching it.\n\n\nLet the pieces of glass and resin be similarly sus\npended and electrified as before.\n\n\nLet the vessel be originally unelectrified, then if\n an electrified piece of glass is hung up within it by\n its thread without touching the vessel, and the lid\n closed, the outside of the vessel will be found to\n be vitreously electrified, and it may be shewn that\n the electrification outside of the vessel is exactly the\n same in whatever part of the interior space the glass\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-068.jpg?height=423&width=128&top_left_y=1138&top_left_x=972}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 4.}\n\\end{figure}\n\nis suspended \u2020 .\n\n\nIf the glass is now taken out of the vessel without touching\n it, the electrification of the glass will be the same as before it\n was put in, and that of the vessel will have disappeared.\n\n\n\\footnotetext{\n* This, and several experiments which follow, are due to Faraday, 'On Static\n Electrical Inductive Action,' Phil. Mag., 1843, or Exp. Res., vol. ii. p. 279.\n\n\u2020 \\{This is an illustration of Art. 100 c. \\}\n\nVOL. 1.\n D\n}\n",
+    "structured_lines": [
+      {
+        "page": 68,
+        "line_number": 4,
+        "type": "text",
+        "content": "If a body electrified in any manner whatever behaves as the",
+        "mathpix_content": "\n\nIf a body electrified in any manner whatever behaves as the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 5,
+        "type": "text",
+        "content": "glass does, that is, if it repels the glass and attracts the resin, the",
+        "mathpix_content": " glass does, that is, if it repels the glass and attracts the resin, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 6,
+        "type": "text",
+        "content": "body is said to be vitreously electrified, and if it attracts the glass",
+        "mathpix_content": " body is said to be vitreously electrified, and if it attracts the glass",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 7,
+        "type": "text",
+        "content": "and repels the resin it is said to be resinously electrified. All",
+        "mathpix_content": " and repels the resin it is said to be resinously electrified. All",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 8,
+        "type": "text",
+        "content": "electrified bodies are found to be either vitreously or resinously",
+        "mathpix_content": " electrified bodies are found to be either vitreously or resinously",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 9,
+        "type": "text",
+        "content": "electrified.",
+        "mathpix_content": " electrified.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 10,
+        "type": "text",
+        "content": "It is the established practice of men of science to call the vitreous",
+        "mathpix_content": "\n\nIt is the established practice of men of science to call the vitreous",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 11,
+        "type": "text",
+        "content": "electrification positive, and the resinous electrification negative.",
+        "mathpix_content": " electrification positive, and the resinous electrification negative.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 12,
+        "type": "text",
+        "content": "The exactly opposite properties of the two kinds of electrification",
+        "mathpix_content": " The exactly opposite properties of the two kinds of electrification",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 13,
+        "type": "text",
+        "content": "justify us in indicating them by opposite signs, but the applica-",
+        "mathpix_content": " justify us in indicating them by opposite signs, but the applica",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 14,
+        "type": "text",
+        "content": "tion of the positive sign to one rather than to the other kind must",
+        "mathpix_content": "tion of the positive sign to one rather than to the other kind must",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 68,
+        "line_number": 15,
+        "type": "text",
+        "content": "be considered as a matter of arbitrary convention, just as it is a",
+        "mathpix_content": " be considered as a matter of arbitrary convention, just as it is a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 16,
+        "type": "text",
+        "content": "matter of convention in mathematical diagrams to reckon positive",
+        "mathpix_content": " matter of convention in mathematical diagrams to reckon positive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 17,
+        "type": "text",
+        "content": "distances towards the right hand.",
+        "mathpix_content": " distances towards the right hand.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 18,
+        "type": "text",
+        "content": "No force, either of attraction or of repulsion, can be observed",
+        "mathpix_content": "\n\nNo force, either of attraction or of repulsion, can be observed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 19,
+        "type": "text",
+        "content": "between an electrified body and a body not electrified. When, in",
+        "mathpix_content": " between an electrified body and a body not electrified. When, in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 20,
+        "type": "text",
+        "content": "any case, bodies not previously electrified are observed to be acted",
+        "mathpix_content": " any case, bodies not previously electrified are observed to be acted",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 21,
+        "type": "text",
+        "content": "on by an electrified body, it is because they have become electrified",
+        "mathpix_content": " on by an electrified body, it is because they have become electrified",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 22,
+        "type": "text",
+        "content": "by induction.",
+        "mathpix_content": " by induction.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 68,
+        "line_number": 24,
+        "type": "text",
+        "content": "Electrification by Induction.",
+        "mathpix_content": "\n\n\\section*{Electrification by Induction.}",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 68,
+        "line_number": 25,
+        "type": "text",
+        "content": "28.] Experiment II *. Let a hollow vessel of metal be hung",
+        "mathpix_content": "\n28.] Experiment II *. Let a hollow vessel of metal be hung",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 68,
+        "line_number": 26,
+        "type": "text",
+        "content": "up by white silk threads, and let a similar thread",
+        "mathpix_content": " up by white silk threads, and let a similar thread",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 27,
+        "type": "text",
+        "content": "be attached to the lid of the vessel so that the vessel",
+        "mathpix_content": " be attached to the lid of the vessel so that the vessel",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 28,
+        "type": "text",
+        "content": "may be opened or closed without touching it.",
+        "mathpix_content": " may be opened or closed without touching it.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 29,
+        "type": "text",
+        "content": "Let the pieces of glass and resin be similarly sus-",
+        "mathpix_content": "\n\nLet the pieces of glass and resin be similarly sus",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 30,
+        "type": "text",
+        "content": "pended and electrified as before.",
+        "mathpix_content": "pended and electrified as before.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 31,
+        "type": "text",
+        "content": "Let the vessel be originally unelectrified, then if",
+        "mathpix_content": "\n\nLet the vessel be originally unelectrified, then if",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 32,
+        "type": "text",
+        "content": "an electrified piece of glass is hung up within it by",
+        "mathpix_content": " an electrified piece of glass is hung up within it by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 33,
+        "type": "text",
+        "content": "its thread without touching the vessel, and the lid",
+        "mathpix_content": " its thread without touching the vessel, and the lid",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 34,
+        "type": "text",
+        "content": "closed, the outside of the vessel will be found to",
+        "mathpix_content": " closed, the outside of the vessel will be found to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 35,
+        "type": "text",
+        "content": "be vitreously electrified, and it may be shewn that",
+        "mathpix_content": " be vitreously electrified, and it may be shewn that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 36,
+        "type": "text",
+        "content": "the electrification outside of the vessel is exactly the",
+        "mathpix_content": " the electrification outside of the vessel is exactly the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 37,
+        "type": "text",
+        "content": "same in whatever part of the interior space the glass",
+        "mathpix_content": " same in whatever part of the interior space the glass",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 41,
+        "type": "text",
+        "content": "is suspended \u2020 .",
+        "mathpix_content": "\nis suspended \u2020 .",
+        "font_size": 27,
+        "confidence": 0.9372954368591309
+      },
+      {
+        "page": 68,
+        "line_number": 42,
+        "type": "text",
+        "content": "If the glass is now taken out of the vessel without touching",
+        "mathpix_content": "\n\nIf the glass is now taken out of the vessel without touching",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 43,
+        "type": "text",
+        "content": "it, the electrification of the glass will be the same as before it",
+        "mathpix_content": " it, the electrification of the glass will be the same as before it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 44,
+        "type": "text",
+        "content": "was put in, and that of the vessel will have disappeared.",
+        "mathpix_content": " was put in, and that of the vessel will have disappeared.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 68,
+        "line_number": 46,
+        "type": "text",
+        "content": "* This, and several experiments which follow, are due to Faraday, 'On Static",
+        "mathpix_content": "\n\n\\footnotetext{\n* This, and several experiments which follow, are due to Faraday, 'On Static",
+        "font_size": 21,
+        "confidence": 0.8996553929048332
+      },
+      {
+        "page": 68,
+        "line_number": 47,
+        "type": "text",
+        "content": "Electrical Inductive Action,' Phil. Mag., 1843, or Exp. Res., vol. ii. p. 279.",
+        "mathpix_content": " Electrical Inductive Action,' Phil. Mag., 1843, or Exp. Res., vol. ii. p. 279.",
+        "font_size": 21,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 68,
+        "line_number": 48,
+        "type": "text",
+        "content": "\u2020 \\{This is an illustration of Art. 100 c. \\}",
+        "mathpix_content": "\n\u2020 \\{This is an illustration of Art. 100 c. \\}",
+        "font_size": 21,
+        "confidence": 0.8846518273801105
+      },
+      {
+        "page": 68,
+        "line_number": 49,
+        "type": "text",
+        "content": "VOL. 1.",
+        "mathpix_content": "\nVOL. 1.",
+        "font_size": 21,
+        "confidence": 0.8731701073702425
+      },
+      {
+        "page": 68,
+        "line_number": 50,
+        "type": "text",
+        "content": "D",
+        "mathpix_content": " D\n}",
+        "font_size": 21,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

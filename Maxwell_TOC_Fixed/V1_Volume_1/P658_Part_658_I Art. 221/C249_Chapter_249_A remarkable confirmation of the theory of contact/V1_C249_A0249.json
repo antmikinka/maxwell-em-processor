@@ -1,0 +1,372 @@
+{
+  "article_id": "article_249",
+  "article_number": 249,
+  "title_original": ".] A remarkable confirmation of the theory of contact",
+  "title_safe": "A remarkable confirmation of the theory of contact",
+  "page_start": 403,
+  "page_end": 403,
+  "content": {
+    "raw_text": "\n--- Page 403 ---\n368\nCONTACT FORCE.\n[249.\nture there will be electrical equilibrium as soon as they have\nacquired their proper potentials, and th\u00e8re will be no current\nkept up in the circuit.\n247.] If, however, the circuit consist of two metals and an\nelectrolyte, the electrolyte, according to Volta's theory, tends to\nreduce the potentials of the metals in contact with it to equality,\nso that the electromotive force at the metallic junction is no\nlonger balanced, and a continuous current is kept up. The\nenergy of this current is supplied by the chemical action which\ntakes place between the electrolyte and the metals.\n248.] The electric effect may, however, be produced without\nchemical action if by any other means we can produce an\nequalization of the potentials of two metals in contact. Thus,\nin an experiment due to Sir W. Thomson*, a copper funnel is\nplaced in contact with a vertical zinc cylinder, so that when\ncopper filings are allowed to pass through the funnel, they\nseparate from each other and from the funnel near the middle\nof the zinc cylinder, and then fall into an insulated receiver\nplaced below. The receiver is then found to be charged\nnegatively, and the charge increases as the filings continue\nto pour into it. At the same time the zinc cylinder with\nthe copper funnel in it becomes charged more and more posi-\ntively.\nIf now the zinc cylinder were connected with the receiver by\na wire, there would be a positive current in the wire from the\ncylinder to the receiver. The stream of copper filings, each\nfiling charged negatively by induction, constitutes a negative\ncurrent from the funnel to the receiver, or, in other words,\na positive current from the receiver to the copper funnel. The\npositive current, therefore, passes through the air (by the\nfilings) from zinc to copper, and through the metallic junction\nfrom copper to zinc, just as in the ordinary voltaic arrange-\nment, but in this case the force which keeps up the current\nis not chemical action but gravity, which causes the filings to\nfall, in spite of the electrical attraction between the positively\ncharged funnel and the negatively charged filings.\n249.] A remarkable confirmation of the theory of contact\nelectricity is supplied by the discovery of Peltier, that, when\na current of electricity crosses the junction of two metals, the\n\n",
+    "mathpix_markdown": "\n--- Page 403 ---\n\nture there will be electrical equilibrium as soon as they have\n acquired their proper potentials, and th\u00e8re will be no current\n kept up in the circuit.\n\n247.] If, however, the circuit consist of two metals and an\n electrolyte, the electrolyte, according to Volta's theory, tends to\n reduce the potentials of the metals in contact with it to equality,\n so that the electromotive force at the metallic junction is no\n longer balanced, and a continuous current is kept up. The\n energy of this current is supplied by the chemical action which\n takes place between the electrolyte and the metals.\n\n248.] The electric effect may, however, be produced without\n chemical action if by any other means we can produce an\n equalization of the potentials of two metals in contact. Thus,\n in an experiment due to Sir W. Thomson*, a copper funnel is\n placed in contact with a vertical zinc cylinder, so that when\n copper filings are allowed to pass through the funnel, they\n separate from each other and from the funnel near the middle\n of the zinc cylinder, and then fall into an insulated receiver\n placed below. The receiver is then found to be charged\n negatively, and the charge increases as the filings continue\n to pour into it. At the same time the zinc cylinder with\n the copper funnel in it becomes charged more and more posi\ntively.\n\n\nIf now the zinc cylinder were connected with the receiver by\n a wire, there would be a positive current in the wire from the\n cylinder to the receiver. The stream of copper filings, each\n filing charged negatively by induction, constitutes a negative\n current from the funnel to the receiver, or, in other words,\n a positive current from the receiver to the copper funnel. The\n positive current, therefore, passes through the air (by the\n filings) from zinc to copper, and through the metallic junction\n from copper to zinc, just as in the ordinary voltaic arrange\nment, but in this case the force which keeps up the current\n is not chemical action but gravity, which causes the filings to\n fall, in spite of the electrical attraction between the positively\n charged funnel and the negatively charged filings.\n\n249.] A remarkable confirmation of the theory of contact\n electricity is supplied by the discovery of Peltier, that, when\n a current of electricity crosses the junction of two metals, the\n",
+    "structured_lines": [
+      {
+        "page": 403,
+        "line_number": 4,
+        "type": "text",
+        "content": "ture there will be electrical equilibrium as soon as they have",
+        "mathpix_content": "\nture there will be electrical equilibrium as soon as they have",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 5,
+        "type": "text",
+        "content": "acquired their proper potentials, and th\u00e8re will be no current",
+        "mathpix_content": " acquired their proper potentials, and th\u00e8re will be no current",
+        "font_size": 34,
+        "confidence": 0.9599609375
+      },
+      {
+        "page": 403,
+        "line_number": 6,
+        "type": "text",
+        "content": "kept up in the circuit.",
+        "mathpix_content": " kept up in the circuit.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 7,
+        "type": "text",
+        "content": "247.] If, however, the circuit consist of two metals and an",
+        "mathpix_content": "\n247.] If, however, the circuit consist of two metals and an",
+        "font_size": 34,
+        "confidence": 0.99072265625
+      },
+      {
+        "page": 403,
+        "line_number": 8,
+        "type": "text",
+        "content": "electrolyte, the electrolyte, according to Volta's theory, tends to",
+        "mathpix_content": " electrolyte, the electrolyte, according to Volta's theory, tends to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 9,
+        "type": "text",
+        "content": "reduce the potentials of the metals in contact with it to equality,",
+        "mathpix_content": " reduce the potentials of the metals in contact with it to equality,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 10,
+        "type": "text",
+        "content": "so that the electromotive force at the metallic junction is no",
+        "mathpix_content": " so that the electromotive force at the metallic junction is no",
+        "font_size": 34,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 403,
+        "line_number": 11,
+        "type": "text",
+        "content": "longer balanced, and a continuous current is kept up. The",
+        "mathpix_content": " longer balanced, and a continuous current is kept up. The",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 12,
+        "type": "text",
+        "content": "energy of this current is supplied by the chemical action which",
+        "mathpix_content": " energy of this current is supplied by the chemical action which",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 13,
+        "type": "text",
+        "content": "takes place between the electrolyte and the metals.",
+        "mathpix_content": " takes place between the electrolyte and the metals.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 14,
+        "type": "text",
+        "content": "248.] The electric effect may, however, be produced without",
+        "mathpix_content": "\n248.] The electric effect may, however, be produced without",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 15,
+        "type": "text",
+        "content": "chemical action if by any other means we can produce an",
+        "mathpix_content": " chemical action if by any other means we can produce an",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 16,
+        "type": "text",
+        "content": "equalization of the potentials of two metals in contact. Thus,",
+        "mathpix_content": " equalization of the potentials of two metals in contact. Thus,",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 403,
+        "line_number": 17,
+        "type": "text",
+        "content": "in an experiment due to Sir W. Thomson*, a copper funnel is",
+        "mathpix_content": " in an experiment due to Sir W. Thomson*, a copper funnel is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 18,
+        "type": "text",
+        "content": "placed in contact with a vertical zinc cylinder, so that when",
+        "mathpix_content": " placed in contact with a vertical zinc cylinder, so that when",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 19,
+        "type": "text",
+        "content": "copper filings are allowed to pass through the funnel, they",
+        "mathpix_content": " copper filings are allowed to pass through the funnel, they",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 20,
+        "type": "text",
+        "content": "separate from each other and from the funnel near the middle",
+        "mathpix_content": " separate from each other and from the funnel near the middle",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 21,
+        "type": "text",
+        "content": "of the zinc cylinder, and then fall into an insulated receiver",
+        "mathpix_content": " of the zinc cylinder, and then fall into an insulated receiver",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 22,
+        "type": "text",
+        "content": "placed below. The receiver is then found to be charged",
+        "mathpix_content": " placed below. The receiver is then found to be charged",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 23,
+        "type": "text",
+        "content": "negatively, and the charge increases as the filings continue",
+        "mathpix_content": " negatively, and the charge increases as the filings continue",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 24,
+        "type": "text",
+        "content": "to pour into it. At the same time the zinc cylinder with",
+        "mathpix_content": " to pour into it. At the same time the zinc cylinder with",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 25,
+        "type": "text",
+        "content": "the copper funnel in it becomes charged more and more posi-",
+        "mathpix_content": " the copper funnel in it becomes charged more and more posi",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 26,
+        "type": "text",
+        "content": "tively.",
+        "mathpix_content": "tively.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 27,
+        "type": "text",
+        "content": "If now the zinc cylinder were connected with the receiver by",
+        "mathpix_content": "\n\nIf now the zinc cylinder were connected with the receiver by",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 28,
+        "type": "text",
+        "content": "a wire, there would be a positive current in the wire from the",
+        "mathpix_content": " a wire, there would be a positive current in the wire from the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 29,
+        "type": "text",
+        "content": "cylinder to the receiver. The stream of copper filings, each",
+        "mathpix_content": " cylinder to the receiver. The stream of copper filings, each",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 30,
+        "type": "text",
+        "content": "filing charged negatively by induction, constitutes a negative",
+        "mathpix_content": " filing charged negatively by induction, constitutes a negative",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 31,
+        "type": "text",
+        "content": "current from the funnel to the receiver, or, in other words,",
+        "mathpix_content": " current from the funnel to the receiver, or, in other words,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 32,
+        "type": "text",
+        "content": "a positive current from the receiver to the copper funnel. The",
+        "mathpix_content": " a positive current from the receiver to the copper funnel. The",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 33,
+        "type": "text",
+        "content": "positive current, therefore, passes through the air (by the",
+        "mathpix_content": " positive current, therefore, passes through the air (by the",
+        "font_size": 34,
+        "confidence": 0.9912109375
+      },
+      {
+        "page": 403,
+        "line_number": 34,
+        "type": "text",
+        "content": "filings) from zinc to copper, and through the metallic junction",
+        "mathpix_content": " filings) from zinc to copper, and through the metallic junction",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 35,
+        "type": "text",
+        "content": "from copper to zinc, just as in the ordinary voltaic arrange-",
+        "mathpix_content": " from copper to zinc, just as in the ordinary voltaic arrange",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 36,
+        "type": "text",
+        "content": "ment, but in this case the force which keeps up the current",
+        "mathpix_content": "ment, but in this case the force which keeps up the current",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 37,
+        "type": "text",
+        "content": "is not chemical action but gravity, which causes the filings to",
+        "mathpix_content": " is not chemical action but gravity, which causes the filings to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 38,
+        "type": "text",
+        "content": "fall, in spite of the electrical attraction between the positively",
+        "mathpix_content": " fall, in spite of the electrical attraction between the positively",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 39,
+        "type": "text",
+        "content": "charged funnel and the negatively charged filings.",
+        "mathpix_content": " charged funnel and the negatively charged filings.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 40,
+        "type": "text",
+        "content": "249.] A remarkable confirmation of the theory of contact",
+        "mathpix_content": "\n249.] A remarkable confirmation of the theory of contact",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 41,
+        "type": "text",
+        "content": "electricity is supplied by the discovery of Peltier, that, when",
+        "mathpix_content": " electricity is supplied by the discovery of Peltier, that, when",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 403,
+        "line_number": 42,
+        "type": "text",
+        "content": "a current of electricity crosses the junction of two metals, the",
+        "mathpix_content": " a current of electricity crosses the junction of two metals, the",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article_id": "article_176",
+  "article_number": 176,
+  "title_original": "POINTS AND LINES OF EQUILIBRIUM.",
+  "title_safe": "POINTS AND LINES OF EQUILIBRIUM",
+  "page_start": 211,
+  "page_end": 211,
+  "content": {
+    "raw_text": "\n--- Page 211 ---\n176\nPOINTS AND LINES OF EQUILIBRIUM.\nHence the total increment of the potential when the electricity\nis free to move will be\n$$\\left(\\begin{array}{l}\nd M \\\\\nd r\n\\end{array}-C\\right) d r$$\nand the force tending to bring $A$ back towards its original\nposition will be\n$$\\frac{d M}{d r}-C,$$\nwhere $C$ is always positive.\nNow we have shewn that $d M / d r$ is negative for certain\ndirections of $r$, hence when the electricity is free to move the\ninstability in these directions will be increased.\n",
+    "mathpix_markdown": "\n--- Page 211 ---\n\n\nHence the total increment of the potential when the electricity\n is free to move will be\n\n$$\\left(\\begin{array}{l}\nd M \\\\\nd r\n\\end{array}-C\\right) d r$$\n\nand the force tending to bring $A$ back towards its original\n position will be\n\n$$\\frac{d M}{d r}-C,$$\n\nwhere $C$ is always positive.\n\nNow we have shewn that $d M / d r$ is negative for certain\n directions of $r$, hence when the electricity is free to move the\n instability in these directions will be increased.\n",
+    "structured_lines": [
+      {
+        "page": 211,
+        "line_number": 3,
+        "type": "text",
+        "content": "Hence the total increment of the potential when the electricity",
+        "mathpix_content": "\n\nHence the total increment of the potential when the electricity",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 211,
+        "line_number": 4,
+        "type": "text",
+        "content": "is free to move will be",
+        "mathpix_content": " is free to move will be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 211,
+        "line_number": 7,
+        "type": "text",
+        "content": "and the force tending to bring $A$ back towards its original",
+        "mathpix_content": "\nand the force tending to bring $A$ back towards its original",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 211,
+        "line_number": 8,
+        "type": "text",
+        "content": "position will be",
+        "mathpix_content": " position will be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 211,
+        "line_number": 11,
+        "type": "text",
+        "content": "where $C$ is always positive.",
+        "mathpix_content": "\nwhere $C$ is always positive.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 211,
+        "line_number": 12,
+        "type": "text",
+        "content": "Now we have shewn that $d M / d r$ is negative for certain",
+        "mathpix_content": "\nNow we have shewn that $d M / d r$ is negative for certain",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 211,
+        "line_number": 13,
+        "type": "text",
+        "content": "directions of $r$, hence when the electricity is free to move the",
+        "mathpix_content": " directions of $r$, hence when the electricity is free to move the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 211,
+        "line_number": 14,
+        "type": "text",
+        "content": "instability in these directions will be increased.",
+        "mathpix_content": " instability in these directions will be increased.",
+        "font_size": 34,
+        "confidence": 0.9970703125
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

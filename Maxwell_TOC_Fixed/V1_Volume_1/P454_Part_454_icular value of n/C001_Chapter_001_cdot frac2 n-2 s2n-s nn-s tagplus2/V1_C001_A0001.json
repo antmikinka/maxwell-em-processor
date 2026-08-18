@@ -1,0 +1,237 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": ")^{\\cdot} \\frac{(2 n-2 s)!}{2^{n-s} n!(n-s)} \\tag{+2}",
+  "title_safe": "cdot frac2 n-2 s2n-s nn-s tagplus2",
+  "page_start": 238,
+  "page_end": 238,
+  "content": {
+    "raw_text": "\n--- Page 238 ---\n133.]\nTRIGONOMETRIOAL EXPRESSION.\n203\nLet us now assume that for a particular value of $n$\n$$\\begin{aligned}\nY_{n}=A_{n .0} \\Sigma\\left(\\mu^{n}\\right) & +A_{n .1} \\Sigma\\left(\\mu^{n-2} \\lambda^{1}\\right)+\\text { \\&c. } \\\\\n& +A_{n .,} \\Sigma\\left(\\mu^{n-2} \\lambda^{n}\\right)+\\text { \\&c. }\n\\end{aligned}$$\n(34)\nwhere the $A$ 's are numerical coefficients. We may write the\nseries in the abbreviated form\n$$Y_{n}=S\\left[A_{n \\cdot n} \\Sigma\\left(\\mu^{n-2 s} \\lambda^{s}\\right)\\right],$$\n(35)\nwhere $S$ indicates a summation in which all values of 8 , including\nzero, not greater than $\\frac{1}{2} n$, are to be taken.\nTo obtain the corresponding solid harmonic of negative degree\n$(n+1)$ and order $n$, we multiply by $r^{-(n+1)}$, and obtain\n$$V_{n}=S\\left[A_{n . s} r^{2 .-2 n-1} \\Sigma\\left(p^{n-2 s} \\lambda^{*}\\right)\\right]$$\n(36)\nputting $r \\mu=p$, as in equation (3).\nIf we differentiate $V_{n}$ with respect to a new axis $h_{m}$ we obtain\n$-(n+1) V_{n+1}$, and therefore\n$$\\begin{aligned}\n&(n+1) V_{n+1}=S\\left[A_{n . s}(2 n+1-2 s) r^{2 s-2 n-3} \\Sigma\\left(p_{m}^{n-2 s+1} \\lambda^{s}\\right)\\right. \\\\\n&\\left.-A_{n . s} r^{2 s-2 n-1} \\Sigma\\left(p^{n-2 s-1} \\lambda_{m}^{s+1}\\right)\\right] .\n\\end{aligned}$$\n(37)\nIf we wish to obtain the terms containing 8 cosines with\ndouble suffixes, we must diminish $s$ by unity in the last term,\nand we find\n$$\\begin{aligned}\n(n+1) V_{n+1}=S\\left[r ^ { 2 s - 2 n - 3 } \\left\\{A_{n . s}(2 n\\right.\\right. & -2 s+1) \\Sigma\\left(p_{n}^{n-2 s+1} \\Lambda^{s}\\right) \\\\\n& \\left.-A_{n . s-1} \\Sigma\\left(p^{n-2 s+1} \\lambda_{m}^{s}\\right) \\dagger\\right]\n\\end{aligned}$$\n(38)\nNow the two classes of products are not distinguished from\neach other in any way except that the suffix $m$ occurs among\nthe $p$ 's in one and among the $\\lambda$ 's in the other. Hence their\ncoefficients must be the same, and since we ought to be able to\nobtain the same result by putting $n+1$ for $n$ in the expression\nfor $V_{n}$ and multiplying by $n+1$, we obtain the following equa-\ntions,\n$$(n+1) A_{n+1 \\cdot s}=(2 n-28+1) A_{n \\cdot s}=-A_{n \\cdot s-1} .$$\n(39)\nIf we put $s=0$, we obtain\n$$(n+1) A_{n+1 \\cdot 0}=(2 n+1) A_{n \\cdot 0} ;$$\n(40)\nand therefore, since $A_{1 \\cdot 0}=1$,\n$$A_{n, 0}=\\frac{2 n!}{2^{n}(n!)^{2}}$$\n(41)\nand from this we obtain the general value of the coefficient\n$$A_{n, s}=(-1)^{\\cdot} \\frac{(2 n-2 s)!}{2^{n-s} n!(n-s)}$$\n$(+2)$\nand finally the trigonometrical expression for the surface har-\n",
+    "mathpix_markdown": "\n--- Page 238 ---\n\n\nLet us now assume that for a particular value of $n$\n\n$$\\begin{align*}\nY_{n}=A_{n .0} \\Sigma\\left(\\mu^{n}\\right) & +A_{n .1} \\Sigma\\left(\\mu^{n-2} \\lambda^{1}\\right)+\\text { \\&c. } \\\\\n& +A_{n .,} \\Sigma\\left(\\mu^{n-2} \\lambda^{n}\\right)+\\text { \\&c. } \\tag{34}\n\\end{align*}$$\n\nwhere the $A$ 's are numerical coefficients. We may write the\n series in the abbreviated form\n\n$$\\begin{equation*}\nY_{n}=S\\left[A_{n \\cdot n} \\Sigma\\left(\\mu^{n-2 s} \\lambda^{s}\\right)\\right], \\tag{35}\n\\end{equation*}$$\n\nwhere $S$ indicates a summation in which all values of 8 , including\n zero, not greater than $\\frac{1}{2} n$, are to be taken.\n\n\nTo obtain the corresponding solid harmonic of negative degree\n $(n+1)$ and order $n$, we multiply by $r^{-(n+1)}$, and obtain\n\n$$\\begin{equation*}\nV_{n}=S\\left[A_{n . s} r^{2 .-2 n-1} \\Sigma\\left(p^{n-2 s} \\lambda^{*}\\right)\\right] \\tag{36}\n\\end{equation*}$$\n\nputting $r \\mu=p$, as in equation (3).\n\nIf we differentiate $V_{n}$ with respect to a new axis $h_{m}$ we obtain\n $-(n+1) V_{n+1}$, and therefore\n\n$$\\begin{align*}\n&(n+1) V_{n+1}=S\\left[A_{n . s}(2 n+1-2 s) r^{2 s-2 n-3} \\Sigma\\left(p_{m}^{n-2 s+1} \\lambda^{s}\\right)\\right. \\\\\n&\\left.-A_{n . s} r^{2 s-2 n-1} \\Sigma\\left(p^{n-2 s-1} \\lambda_{m}^{s+1}\\right)\\right] . \\tag{37}\n\\end{align*}$$\n\n\nIf we wish to obtain the terms containing 8 cosines with\n double suffixes, we must diminish $s$ by unity in the last term,\n and we find\n\n$$\\begin{align*}\n(n+1) V_{n+1}=S\\left[r ^ { 2 s - 2 n - 3 } \\left\\{A_{n . s}(2 n\\right.\\right. & -2 s+1) \\Sigma\\left(p_{n}^{n-2 s+1} \\Lambda^{s}\\right) \\\\\n& \\left.-A_{n . s-1} \\Sigma\\left(p^{n-2 s+1} \\lambda_{m}^{s}\\right) \\dagger\\right] \\tag{38}\n\\end{align*}$$\n\n\nNow the two classes of products are not distinguished from\n each other in any way except that the suffix $m$ occurs among\n the $p$ 's in one and among the $\\lambda$ 's in the other. Hence their\n coefficients must be the same, and since we ought to be able to\n obtain the same result by putting $n+1$ for $n$ in the expression\n for $V_{n}$ and multiplying by $n+1$, we obtain the following equa\ntions,\n\n$$\\begin{equation*}\n(n+1) A_{n+1 \\cdot s}=(2 n-28+1) A_{n \\cdot s}=-A_{n \\cdot s-1} . \\tag{39}\n\\end{equation*}$$\n\n\nIf we put $s=0$, we obtain\n\n$$\\begin{equation*}\n(n+1) A_{n+1 \\cdot 0}=(2 n+1) A_{n \\cdot 0} ; \\tag{40}\n\\end{equation*}$$\n\nand therefore, since $A_{1 \\cdot 0}=1$,\n\n$$\\begin{equation*}\nA_{n, 0}=\\frac{2 n!}{2^{n}(n!)^{2}} \\tag{41}\n\\end{equation*}$$\n\nand from this we obtain the general value of the coefficient\n\n$$\\begin{equation*}\nA_{n, s}=(-1)^{\\cdot} \\frac{(2 n-2 s)!}{2^{n-s} n!(n-s)} \\tag{+2}\n\\end{equation*}$$\n\nand finally the trigonometrical expression for the surface har-\n",
+    "structured_lines": [
+      {
+        "page": 238,
+        "line_number": 4,
+        "type": "text",
+        "content": "Let us now assume that for a particular value of $n$",
+        "mathpix_content": "\n\nLet us now assume that for a particular value of $n$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 9,
+        "type": "text",
+        "content": "where the $A$ 's are numerical coefficients. We may write the",
+        "mathpix_content": "\nwhere the $A$ 's are numerical coefficients. We may write the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 10,
+        "type": "text",
+        "content": "series in the abbreviated form",
+        "mathpix_content": " series in the abbreviated form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 14,
+        "type": "text",
+        "content": "where $S$ indicates a summation in which all values of 8 , including",
+        "mathpix_content": "\nwhere $S$ indicates a summation in which all values of 8 , including",
+        "font_size": 27,
+        "confidence": 0.9902389049530029
+      },
+      {
+        "page": 238,
+        "line_number": 15,
+        "type": "text",
+        "content": "zero, not greater than $\\frac{1}{2} n$, are to be taken.",
+        "mathpix_content": " zero, not greater than $\\frac{1}{2} n$, are to be taken.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 16,
+        "type": "text",
+        "content": "To obtain the corresponding solid harmonic of negative degree",
+        "mathpix_content": "\n\nTo obtain the corresponding solid harmonic of negative degree",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 17,
+        "type": "text",
+        "content": "$(n+1)$ and order $n$, we multiply by $r^{-(n+1)}$, and obtain",
+        "mathpix_content": " $(n+1)$ and order $n$, we multiply by $r^{-(n+1)}$, and obtain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 21,
+        "type": "text",
+        "content": "putting $r \\mu=p$, as in equation (3).",
+        "mathpix_content": "\nputting $r \\mu=p$, as in equation (3).",
+        "font_size": 27,
+        "confidence": 0.7431640625
+      },
+      {
+        "page": 238,
+        "line_number": 22,
+        "type": "text",
+        "content": "If we differentiate $V_{n}$ with respect to a new axis $h_{m}$ we obtain",
+        "mathpix_content": "\nIf we differentiate $V_{n}$ with respect to a new axis $h_{m}$ we obtain",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 238,
+        "line_number": 23,
+        "type": "text",
+        "content": "$-(n+1) V_{n+1}$, and therefore",
+        "mathpix_content": " $-(n+1) V_{n+1}$, and therefore",
+        "font_size": 27,
+        "confidence": 0.8896484375
+      },
+      {
+        "page": 238,
+        "line_number": 28,
+        "type": "text",
+        "content": "If we wish to obtain the terms containing 8 cosines with",
+        "mathpix_content": "\n\nIf we wish to obtain the terms containing 8 cosines with",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 29,
+        "type": "text",
+        "content": "double suffixes, we must diminish $s$ by unity in the last term,",
+        "mathpix_content": " double suffixes, we must diminish $s$ by unity in the last term,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 238,
+        "line_number": 30,
+        "type": "text",
+        "content": "and we find",
+        "mathpix_content": " and we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 35,
+        "type": "text",
+        "content": "Now the two classes of products are not distinguished from",
+        "mathpix_content": "\n\nNow the two classes of products are not distinguished from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 36,
+        "type": "text",
+        "content": "each other in any way except that the suffix $m$ occurs among",
+        "mathpix_content": " each other in any way except that the suffix $m$ occurs among",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 238,
+        "line_number": 37,
+        "type": "text",
+        "content": "the $p$ 's in one and among the $\\lambda$ 's in the other. Hence their",
+        "mathpix_content": " the $p$ 's in one and among the $\\lambda$ 's in the other. Hence their",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 238,
+        "line_number": 38,
+        "type": "text",
+        "content": "coefficients must be the same, and since we ought to be able to",
+        "mathpix_content": " coefficients must be the same, and since we ought to be able to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 39,
+        "type": "text",
+        "content": "obtain the same result by putting $n+1$ for $n$ in the expression",
+        "mathpix_content": " obtain the same result by putting $n+1$ for $n$ in the expression",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 40,
+        "type": "text",
+        "content": "for $V_{n}$ and multiplying by $n+1$, we obtain the following equa-",
+        "mathpix_content": " for $V_{n}$ and multiplying by $n+1$, we obtain the following equa",
+        "font_size": 27,
+        "confidence": 0.9052734375
+      },
+      {
+        "page": 238,
+        "line_number": 41,
+        "type": "text",
+        "content": "tions,",
+        "mathpix_content": "tions,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 45,
+        "type": "text",
+        "content": "If we put $s=0$, we obtain",
+        "mathpix_content": "\n\nIf we put $s=0$, we obtain",
+        "font_size": 27,
+        "confidence": 0.70556640625
+      },
+      {
+        "page": 238,
+        "line_number": 49,
+        "type": "text",
+        "content": "and therefore, since $A_{1 \\cdot 0}=1$,",
+        "mathpix_content": "\nand therefore, since $A_{1 \\cdot 0}=1$,",
+        "font_size": 27,
+        "confidence": 0.87744140625
+      },
+      {
+        "page": 238,
+        "line_number": 53,
+        "type": "text",
+        "content": "and from this we obtain the general value of the coefficient",
+        "mathpix_content": "\nand from this we obtain the general value of the coefficient",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 238,
+        "line_number": 57,
+        "type": "text",
+        "content": "and finally the trigonometrical expression for the surface har-",
+        "mathpix_content": "\nand finally the trigonometrical expression for the surface har-",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

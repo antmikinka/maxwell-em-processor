@@ -1,0 +1,770 @@
+{
+  "chapter_id": "chapter_46",
+  "chapter_number": 1,
+  "title": "}{e^{\\omega}-1}-1\\right)=-P \\frac{e^{\\varpi}-e^{\\varpi-u}}{e^{\\varpi}-1} .$$",
+  "page_start": 302,
+  "page_end": 302,
+  "articles": [
+    {
+      "article_id": "article_171",
+      "article_number": 171,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_171",
+      "article_number": 171,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_267",
+      "article_number": 267,
+      "title_original": "also",
+      "title_safe": "also",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}=b e^{-u} \\\\",
+      "title_safe": "equalsb e-u",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=b e^{u+2 \\varpi} \\\\",
+      "title_safe": "equalsb euplus2 varpi",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=b e^{-(u+2) \\varpi}, \\& \\mathrm{c} \\\\",
+      "title_safe": "equalsb e-uplus2 varpi and mathrmc",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "}=b e^{(u+2 s \\varpi)} \\\\",
+      "title_safe": "equalsb euplus2 s varpi",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "}=b e^{-(u+2 s \\varpi)}",
+      "title_safe": "equalsb e-uplus2 s varpi",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{ }^{\\prime}$ be the image of $P$ in the second sphere, $P_{1}{ }^{\\prime}$ that",
+      "title_safe": "prime be the image of P in the second sphere P1 prime that",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{ }^{\\prime}$ in the first, \\&c., then",
+      "title_safe": "prime in the first andc. then",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}^{\\prime} & =b e^{2 \\varpi-u}, & O P_{1}^{\\prime} & =b e^{v-2 \\varpi}, \\\\",
+      "title_safe": "prime and equalsb e2 varpi-u and O P1prime and equalsb ev-2",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}^{\\prime} & =b e^{4 \\varpi-u}, & O P_{2}^{\\prime} & =b e^{u-4 \\varpi}, \\\\",
+      "title_safe": "prime and equalsb e4 varpi-u and O P2prime and equalsb eu-4",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\prime} & =b e^{2 s \\varpi-u}, & O P_{s}^{\\prime} & =b e^{u-2 s w}, \\\\",
+      "title_safe": "prime and equalsb e2 s varpi-u and O Psprime and equalsb eu",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\prime} & =-P e^{s \\varpi-u}, & P_{1}^{\\prime} & =P e^{-s \\varpi} .",
+      "title_safe": "prime and equals-P es varpi-u and P1prime and equalsP e-s va",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{e^{\\varpi}-1}$$",
+      "title_safe": "evarpi-1",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{e^{\\omega}-1}-1\\right)=-P \\frac{e^{\\varpi}-e^{\\varpi-u}}{e^{\\varpi}-1} .$$",
+      "title_safe": "eomega-1-1rightequals-P fracevarpi-evarpi-uevarpi-1",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}=b e^{-u} \\\\",
+      "title_safe": "equalsb e-u",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=b e^{u+2 \\varpi} \\\\",
+      "title_safe": "equalsb euplus2 varpi",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=b e^{-(u+2) \\varpi}, \\& \\mathrm{c} \\\\",
+      "title_safe": "equalsb e-uplus2 varpi and mathrmc",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "}=b e^{(u+2 s \\varpi)} \\\\",
+      "title_safe": "equalsb euplus2 s varpi",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "}=b e^{-(u+2 s \\varpi)}",
+      "title_safe": "equalsb e-uplus2 s varpi",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{ }^{\\prime}$ be the image of $P$ in the second sphere, $P_{1}{ }^{\\prime}$ that",
+      "title_safe": "prime be the image of P in the second sphere P1 prime that",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{ }^{\\prime}$ in the first, \\&c., then",
+      "title_safe": "prime in the first andc. then",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}^{\\prime} & =b e^{2 \\varpi-u}, & O P_{1}^{\\prime} & =b e^{v-2 \\varpi}, \\\\",
+      "title_safe": "prime and equalsb e2 varpi-u and O P1prime and equalsb ev-2",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}^{\\prime} & =b e^{4 \\varpi-u}, & O P_{2}^{\\prime} & =b e^{u-4 \\varpi}, \\\\",
+      "title_safe": "prime and equalsb e4 varpi-u and O P2prime and equalsb eu-4",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\prime} & =b e^{2 s \\varpi-u}, & O P_{s}^{\\prime} & =b e^{u-2 s w}, \\\\",
+      "title_safe": "prime and equalsb e2 s varpi-u and O Psprime and equalsb eu",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\prime} & =-P e^{s \\varpi-u}, & P_{1}^{\\prime} & =P e^{-s \\varpi} .",
+      "title_safe": "prime and equals-P es varpi-u and P1prime and equalsP e-s va",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{e^{\\varpi}-1}$$",
+      "title_safe": "evarpi-1",
+      "page_start": 302,
+      "page_end": 301,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{e^{\\omega}-1}-1\\right)=-P \\frac{e^{\\varpi}-e^{\\varpi-u}}{e^{\\varpi}-1} .$$",
+      "title_safe": "eomega-1-1rightequals-P fracevarpi-evarpi-uevarpi-1",
+      "page_start": 302,
+      "page_end": 302,
+      "content": {
+        "raw_text": "\n--- Page 302 ---\n171.]\nTWO SPHERES NOT INTERSECTING.\n267\nalso\nHence\n$$\\begin{aligned}\n& O Q_{0}=b e^{-u} \\\\\n& O P_{1}=b e^{u+2 \\varpi} \\\\\n& O Q_{1}=b e^{-(u+2) \\varpi}, \\& \\mathrm{c} \\\\\n& O P_{8}=b e^{(u+2 s \\varpi)} \\\\\n& O Q_{8}=b e^{-(u+2 s \\varpi)}\n\\end{aligned}$$\nIf the charge of $P$ is denoted by $P$, that of $P_{s}$ by $P_{s}$, then\n$$P_{s}=P e^{\\varpi}, \\quad Q_{s}=-P e^{-(u+s \\varpi)} .$$\nNext, let $Q_{1}{ }^{\\prime}$ be the image of $P$ in the second sphere, $P_{1}{ }^{\\prime}$ that\nof $Q_{1}{ }^{\\prime}$ in the first, \\&c., then\n$$\\begin{aligned}\nO Q_{1}^{\\prime} & =b e^{2 \\varpi-u}, & O P_{1}^{\\prime} & =b e^{v-2 \\varpi}, \\\\\nO Q_{2}^{\\prime} & =b e^{4 \\varpi-u}, & O P_{2}^{\\prime} & =b e^{u-4 \\varpi}, \\\\\nO Q_{0}^{\\prime} & =b e^{2 s \\varpi-u}, & O P_{s}^{\\prime} & =b e^{u-2 s w}, \\\\\nQ_{0}^{\\prime} & =-P e^{s \\varpi-u}, & P_{1}^{\\prime} & =P e^{-s \\varpi} .\n\\end{aligned}$$\nOf these images all the $P$ 's are positive, and all the $Q$ 's\nnegative, all the $P$ 's and $Q$ 's belong to the first sphere, and\nall the $P$ 's and $Q$ 's to the second.\nThe images within the first sphere form two converging series,\nthe sum of which is\n$$-P \\frac{e^{\\varpi-u}-1}{e^{\\varpi}-1}$$\nThis therefore is the quantity of electricity on the first or\ninterior sphere. The images outside the second sphere form two\ndiverging series, but the surface-integral due to each with respect\nto the spherical surface is zero. The charge of electricity on the\nexterior spherical surface is therefore\n$$P\\left(\\frac{e^{\\varpi-u}-1}{e^{\\omega}-1}-1\\right)=-P \\frac{e^{\\varpi}-e^{\\varpi-u}}{e^{\\varpi}-1} .$$\nIf we substitute for these expressions their values in terms of\n$O A, O B$, and $O P$, we find\n$$\\begin{aligned}\n& \\text { charge on } A=-P \\frac{O A}{O P} \\frac{P B}{A B} \\\\\n& \\text { charge on } B=-P \\frac{O B}{O P} \\overline{A B}\n\\end{aligned}$$\nIf we suppose the radii of the spheres to become infinite, the\ncase becomes that of a point placed between two parallel planes\n$A$ and $B$. In this case these expressions become\n$$\\begin{aligned}\n& \\text { charge on } A=-P \\frac{P B}{A B}, \\\\\n& \\text { charge on } B=-P \\frac{A P}{A B} .\n\\end{aligned}$$\n",
+        "mathpix_markdown": "\n--- Page 302 ---\n\nalso\n\n\nHence\n\n$$\\begin{aligned}\n& O Q_{0}=b e^{-u} \\\\\n& O P_{1}=b e^{u+2 \\varpi} \\\\\n& O Q_{1}=b e^{-(u+2) \\varpi}, \\& \\mathrm{c} \\\\\n& O P_{8}=b e^{(u+2 s \\varpi)} \\\\\n& O Q_{8}=b e^{-(u+2 s \\varpi)}\n\\end{aligned}$$\n\n\nIf the charge of $P$ is denoted by $P$, that of $P_{s}$ by $P_{s}$, then\n\n$$P_{s}=P e^{\\varpi}, \\quad Q_{s}=-P e^{-(u+s \\varpi)} .$$\n\n\nNext, let $Q_{1}{ }^{\\prime}$ be the image of $P$ in the second sphere, $P_{1}{ }^{\\prime}$ that\n of $Q_{1}{ }^{\\prime}$ in the first, \\&c., then\n\n$$\\begin{aligned}\nO Q_{1}^{\\prime} & =b e^{2 \\varpi-u}, & O P_{1}^{\\prime} & =b e^{v-2 \\varpi}, \\\\\nO Q_{2}^{\\prime} & =b e^{4 \\varpi-u}, & O P_{2}^{\\prime} & =b e^{u-4 \\varpi}, \\\\\nO Q_{0}^{\\prime} & =b e^{2 s \\varpi-u}, & O P_{s}^{\\prime} & =b e^{u-2 s w}, \\\\\nQ_{0}^{\\prime} & =-P e^{s \\varpi-u}, & P_{1}^{\\prime} & =P e^{-s \\varpi} .\n\\end{aligned}$$\n\n\nOf these images all the $P$ 's are positive, and all the $Q$ 's\n negative, all the $P$ 's and $Q$ 's belong to the first sphere, and\n all the $P$ 's and $Q$ 's to the second.\n\n\nThe images within the first sphere form two converging series,\n the sum of which is\n\n$$-P \\frac{e^{\\varpi-u}-1}{e^{\\varpi}-1}$$\n\n\nThis therefore is the quantity of electricity on the first or\n interior sphere. The images outside the second sphere form two\n diverging series, but the surface-integral due to each with respect\n to the spherical surface is zero. The charge of electricity on the\n exterior spherical surface is therefore\n\n$$P\\left(\\frac{e^{\\varpi-u}-1}{e^{\\omega}-1}-1\\right)=-P \\frac{e^{\\varpi}-e^{\\varpi-u}}{e^{\\varpi}-1} .$$\n\n\nIf we substitute for these expressions their values in terms of\n $O A, O B$, and $O P$, we find\n\n$$\\begin{aligned}\n& \\text { charge on } A=-P \\frac{O A}{O P} \\frac{P B}{A B} \\\\\n& \\text { charge on } B=-P \\frac{O B}{O P} \\overline{A B}\n\\end{aligned}$$\n\n\nIf we suppose the radii of the spheres to become infinite, the\n case becomes that of a point placed between two parallel planes\n $A$ and $B$. In this case these expressions become\n\n$$\\begin{aligned}\n& \\text { charge on } A=-P \\frac{P B}{A B}, \\\\\n& \\text { charge on } B=-P \\frac{A P}{A B} .\n\\end{aligned}$$\n",
+        "structured_lines": [
+          {
+            "page": 302,
+            "line_number": 4,
+            "type": "text",
+            "content": "also",
+            "mathpix_content": "\nalso",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 5,
+            "type": "text",
+            "content": "Hence",
+            "mathpix_content": "\n\nHence",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 12,
+            "type": "text",
+            "content": "If the charge of $P$ is denoted by $P$, that of $P_{s}$ by $P_{s}$, then",
+            "mathpix_content": "\n\nIf the charge of $P$ is denoted by $P$, that of $P_{s}$ by $P_{s}$, then",
+            "font_size": 27,
+            "confidence": 0.72509765625
+          },
+          {
+            "page": 302,
+            "line_number": 15,
+            "type": "text",
+            "content": "Next, let $Q_{1}{ }^{\\prime}$ be the image of $P$ in the second sphere, $P_{1}{ }^{\\prime}$ that",
+            "mathpix_content": "\n\nNext, let $Q_{1}{ }^{\\prime}$ be the image of $P$ in the second sphere, $P_{1}{ }^{\\prime}$ that",
+            "font_size": 27,
+            "confidence": 0.7377881901338696
+          },
+          {
+            "page": 302,
+            "line_number": 16,
+            "type": "text",
+            "content": "of $Q_{1}{ }^{\\prime}$ in the first, \\&c., then",
+            "mathpix_content": " of $Q_{1}{ }^{\\prime}$ in the first, \\&c., then",
+            "font_size": 27,
+            "confidence": 0.953125
+          },
+          {
+            "page": 302,
+            "line_number": 22,
+            "type": "text",
+            "content": "Of these images all the $P$ 's are positive, and all the $Q$ 's",
+            "mathpix_content": "\n\nOf these images all the $P$ 's are positive, and all the $Q$ 's",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 23,
+            "type": "text",
+            "content": "negative, all the $P$ 's and $Q$ 's belong to the first sphere, and",
+            "mathpix_content": " negative, all the $P$ 's and $Q$ 's belong to the first sphere, and",
+            "font_size": 27,
+            "confidence": 0.9970703125
+          },
+          {
+            "page": 302,
+            "line_number": 24,
+            "type": "text",
+            "content": "all the $P$ 's and $Q$ 's to the second.",
+            "mathpix_content": " all the $P$ 's and $Q$ 's to the second.",
+            "font_size": 27,
+            "confidence": 0.99267578125
+          },
+          {
+            "page": 302,
+            "line_number": 25,
+            "type": "text",
+            "content": "The images within the first sphere form two converging series,",
+            "mathpix_content": "\n\nThe images within the first sphere form two converging series,",
+            "font_size": 27,
+            "confidence": 0.99462890625
+          },
+          {
+            "page": 302,
+            "line_number": 26,
+            "type": "text",
+            "content": "the sum of which is",
+            "mathpix_content": " the sum of which is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 29,
+            "type": "text",
+            "content": "This therefore is the quantity of electricity on the first or",
+            "mathpix_content": "\n\nThis therefore is the quantity of electricity on the first or",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 30,
+            "type": "text",
+            "content": "interior sphere. The images outside the second sphere form two",
+            "mathpix_content": " interior sphere. The images outside the second sphere form two",
+            "font_size": 27,
+            "confidence": 0.9912109375
+          },
+          {
+            "page": 302,
+            "line_number": 31,
+            "type": "text",
+            "content": "diverging series, but the surface-integral due to each with respect",
+            "mathpix_content": " diverging series, but the surface-integral due to each with respect",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 32,
+            "type": "text",
+            "content": "to the spherical surface is zero. The charge of electricity on the",
+            "mathpix_content": " to the spherical surface is zero. The charge of electricity on the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 33,
+            "type": "text",
+            "content": "exterior spherical surface is therefore",
+            "mathpix_content": " exterior spherical surface is therefore",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 36,
+            "type": "text",
+            "content": "If we substitute for these expressions their values in terms of",
+            "mathpix_content": "\n\nIf we substitute for these expressions their values in terms of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 37,
+            "type": "text",
+            "content": "$O A, O B$, and $O P$, we find",
+            "mathpix_content": " $O A, O B$, and $O P$, we find",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 41,
+            "type": "text",
+            "content": "If we suppose the radii of the spheres to become infinite, the",
+            "mathpix_content": "\n\nIf we suppose the radii of the spheres to become infinite, the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 42,
+            "type": "text",
+            "content": "case becomes that of a point placed between two parallel planes",
+            "mathpix_content": " case becomes that of a point placed between two parallel planes",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 302,
+            "line_number": 43,
+            "type": "text",
+            "content": "$A$ and $B$. In this case these expressions become",
+            "mathpix_content": " $A$ and $B$. In this case these expressions become",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

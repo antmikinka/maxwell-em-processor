@@ -1,0 +1,66 @@
+{
+  "article_id": "article_8",
+  "article_number": 8,
+  "title_original": "a^{2} b^{15}+154 a^{5} b^{12}+288 a^{7} b^{10}+32 a^{8} b^{9}+200 a^{9} b^{8}+50 a^{11} b^{6}\\right) c^{-17}",
+  "title_safe": "a2 b15plus154 a5 b12plus288 a7 b10plus32 a8 b9plus200 a9 b8p",
+  "page_start": 263,
+  "page_end": 263,
+  "content": {
+    "raw_text": "\n--- Page 263 ---\n228\nSPHERICAL HARMONICS.\n[146.\nwe find\n\n$$\\begin{aligned}\n& \\rho_{1}=x^{2} y^{3}\\left[2+3 y^{2}+4 y^{4}+5 y^{6}+6 y^{8}+7 y^{10}+8 y^{12}+9 y^{14}+\\text { \\&c. }\\right] \\\\\n& +x^{5} y^{6}\\left[8+30 y^{2}+75 y^{4}+154 y^{6}+280 y^{8}+8 \\mathrm{c} .\\right] \\\\\n& +x^{7} y^{6}\\left[18+90 y^{2}+288 y^{4}+735 y^{6}+\\& \\mathrm{c} .\\right] \\\\\n& +x^{9} y^{6}\\left[32+200 y^{2}+780 y^{4}+\\text { \\&c. }\\right] \\\\\n& +x^{11} y^{6}\\left[50+375 y^{2}+\\text { \\&c. }\\right] \\\\\n& +2^{13} y^{6}[72+\\& \\mathrm{c} .] \\\\\n& +x^{8} y^{9}\\left[32+192 y^{2}+\\text { \\&c. }\\right] \\\\\n& +x^{10} y^{9}[144+\\text { \\&c. }] \\\\\n& q_{1}=x^{2} \\\\\n& +x^{5} y^{3}\\left[4+9 y^{2}+16 y^{4}+25 y^{6}+36 y^{8}+49 y^{10}+64 y^{12}+\\& \\mathrm{c} .\\right] \\\\\n& +x^{7} y^{3}\\left[6+18 y^{2}+40 y^{4}+75 y^{6}+126 y^{8}+196 y^{10}+\\text { \\&c } .\\right] \\\\\n& +x^{9} y^{3}\\left[8+30 y^{2}+80 y^{4}+175 y^{6}+336 y^{8}+\\text { \\&c. }\\right] \\\\\n& +x^{11} y^{3}\\left[10+45 y^{2}+140 y^{4}+350 y^{6}+\\text { \\&c. }\\right] \\\\\n& +x^{13} y^{3}\\left[12+63 y^{2}+224 y^{4}+\\text { \\&c. }\\right] \\\\\n& +x^{15} y^{3}\\left[14+84 y^{2}+8 \\mathrm{c} .\\right] \\\\\n& +x^{17} y^{3}[16+\\& \\mathrm{c} .] \\\\\n& +x^{8} y^{6}\\left[16+72 y^{2}+209 y^{4}+488 y^{6}+\\text { \\&c. }\\right] \\\\\n& +x^{10} y^{6}\\left[60+342 y^{2}+1222 y^{4}+\\text { \\&c. }\\right] \\\\\n& +x^{12} y^{6}\\left[150+1050 y^{2}+\\& \\mathrm{c} .\\right] \\\\\n& +x^{14} y^{6}[308+\\& \\mathrm{c} .] \\\\\n& +x^{11} y^{9}[64+\\& \\mathrm{c} .]\n\\end{aligned}$$\n(21)\n(20)\nIt will be more convenient in subsequent operations to write\nthese coefficients in terms of $a, b$, and $c$, and to arrange the terms\naccording to their dimensions in $c$. This will make it easier to\ndifferentiate with respect to $c$. We thus find\n$$\\begin{aligned}\n& p_{1}=2 a^{2} b^{3} c^{-5}+3 a^{2} b^{5} c^{-7}+4 a^{2} b^{7} c^{-9}+\\left(5 a^{2} b^{9}+8 a^{5} b^{6}\\right) c^{-11} \\\\\n& +\\left(6 a^{2} b^{11}+39 a^{5} b^{8}+18 a^{7} b^{6}\\right) c^{-13} \\\\\n& +\\left(7 a^{2} b^{13}+75 a^{5} b^{10}+90 a^{7} b^{8}+32 a^{9} b^{6}\\right) c^{-15} \\\\\n& +\\left(8 a^{2} b^{15}+154 a^{5} b^{12}+288 a^{7} b^{10}+32 a^{8} b^{9}+200 a^{9} b^{8}+50 a^{11} b^{6}\\right) c^{-17}\n\\end{aligned}$$\n",
+    "mathpix_markdown": "\n--- Page 263 ---\n\nwe find\n\n$$\\begin{align*}\n& \\rho_{1}=x^{2} y^{3}\\left[2+3 y^{2}+4 y^{4}+5 y^{6}+6 y^{8}+7 y^{10}+8 y^{12}+9 y^{14}+\\text { \\&c. }\\right] \\\\\n& +x^{5} y^{6}\\left[8+30 y^{2}+75 y^{4}+154 y^{6}+280 y^{8}+8 \\mathrm{c} .\\right] \\\\\n& +x^{7} y^{6}\\left[18+90 y^{2}+288 y^{4}+735 y^{6}+\\& \\mathrm{c} .\\right] \\\\\n& +x^{9} y^{6}\\left[32+200 y^{2}+780 y^{4}+\\text { \\&c. }\\right] \\\\\n& +x^{11} y^{6}\\left[50+375 y^{2}+\\text { \\&c. }\\right] \\\\\n& +2^{13} y^{6}[72+\\& \\mathrm{c} .] \\\\\n& +x^{8} y^{9}\\left[32+192 y^{2}+\\text { \\&c. }\\right] \\\\\n& +x^{10} y^{9}[144+\\text { \\&c. }]  \\tag{20}\\\\\n& q_{1}=x^{2} \\\\\n& +x^{5} y^{3}\\left[4+9 y^{2}+16 y^{4}+25 y^{6}+36 y^{8}+49 y^{10}+64 y^{12}+\\& \\mathrm{c} .\\right] \\\\\n& +x^{7} y^{3}\\left[6+18 y^{2}+40 y^{4}+75 y^{6}+126 y^{8}+196 y^{10}+\\text { \\&c } .\\right] \\\\\n& +x^{9} y^{3}\\left[8+30 y^{2}+80 y^{4}+175 y^{6}+336 y^{8}+\\text { \\&c. }\\right] \\\\\n& +x^{11} y^{3}\\left[10+45 y^{2}+140 y^{4}+350 y^{6}+\\text { \\&c. }\\right] \\\\\n& +x^{13} y^{3}\\left[12+63 y^{2}+224 y^{4}+\\text { \\&c. }\\right] \\\\\n& +x^{15} y^{3}\\left[14+84 y^{2}+8 \\mathrm{c} .\\right] \\\\\n& +x^{17} y^{3}[16+\\& \\mathrm{c} .] \\\\\n& +x^{8} y^{6}\\left[16+72 y^{2}+209 y^{4}+488 y^{6}+\\text { \\&c. }\\right] \\\\\n& +x^{10} y^{6}\\left[60+342 y^{2}+1222 y^{4}+\\text { \\&c. }\\right] \\\\\n& +x^{12} y^{6}\\left[150+1050 y^{2}+\\& \\mathrm{c} .\\right] \\\\\n& +x^{14} y^{6}[308+\\& \\mathrm{c} .] \\\\\n& +x^{11} y^{9}[64+\\& \\mathrm{c} .] \\tag{21}\n\\end{align*}$$\n\n\nIt will be more convenient in subsequent operations to write\n these coefficients in terms of $a, b$, and $c$, and to arrange the terms\n according to their dimensions in $c$. This will make it easier to\n differentiate with respect to $c$. We thus find\n\n$$\\begin{aligned}\n& p_{1}=2 a^{2} b^{3} c^{-5}+3 a^{2} b^{5} c^{-7}+4 a^{2} b^{7} c^{-9}+\\left(5 a^{2} b^{9}+8 a^{5} b^{6}\\right) c^{-11} \\\\\n& +\\left(6 a^{2} b^{11}+39 a^{5} b^{8}+18 a^{7} b^{6}\\right) c^{-13} \\\\\n& +\\left(7 a^{2} b^{13}+75 a^{5} b^{10}+90 a^{7} b^{8}+32 a^{9} b^{6}\\right) c^{-15} \\\\\n& +\\left(8 a^{2} b^{15}+154 a^{5} b^{12}+288 a^{7} b^{10}+32 a^{8} b^{9}+200 a^{9} b^{8}+50 a^{11} b^{6}\\right) c^{-17}\n\\end{aligned}$$\n",
+    "structured_lines": [
+      {
+        "page": 263,
+        "line_number": 4,
+        "type": "text",
+        "content": "we find",
+        "mathpix_content": "\nwe find",
+        "font_size": 26,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 263,
+        "line_number": 30,
+        "type": "text",
+        "content": "It will be more convenient in subsequent operations to write",
+        "mathpix_content": "\n\nIt will be more convenient in subsequent operations to write",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 263,
+        "line_number": 31,
+        "type": "text",
+        "content": "these coefficients in terms of $a, b$, and $c$, and to arrange the terms",
+        "mathpix_content": " these coefficients in terms of $a, b$, and $c$, and to arrange the terms",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 263,
+        "line_number": 32,
+        "type": "text",
+        "content": "according to their dimensions in $c$. This will make it easier to",
+        "mathpix_content": " according to their dimensions in $c$. This will make it easier to",
+        "font_size": 26,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 263,
+        "line_number": 33,
+        "type": "text",
+        "content": "differentiate with respect to $c$. We thus find",
+        "mathpix_content": " differentiate with respect to $c$. We thus find",
+        "font_size": 26,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

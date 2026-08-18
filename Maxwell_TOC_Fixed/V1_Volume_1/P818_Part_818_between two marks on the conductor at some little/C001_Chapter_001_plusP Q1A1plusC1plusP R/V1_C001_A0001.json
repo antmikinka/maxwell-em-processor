@@ -1,0 +1,318 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}+P Q_{1}}{A_{1}+C_{1}+P R} .$$",
+  "title_safe": "plusP Q1A1plusC1plusP R",
+  "page_start": 520,
+  "page_end": 520,
+  "content": {
+    "raw_text": "\n--- Page 520 ---\n352.]\nmatthiessen and hockin's method.\n- 485\nratio of $R$ to $C$ is nearly equal to that of $P$ to $A$, the last term\nof the equation will vanish, and we shall have\n$$F: H:: C: A .$$\nThe success of this method depends in some degree on the\nperfection of the contact between the wires and the tested con-\nductors at $S, S^{\\prime}, T^{\\prime}$ and $T$. In the following method, employed\nby Messrs. Matthiessen and Hockin*, this condition is dispensed\nwith.\n352.] The conductors to be tested are arranged in the manner\nalready described, with the connexions as well made as possible,\nand it is required to compare the resistance between the marks\nSS' on the first conductor with the resistance between the marks\n$T^{\\prime} T$ on the second.\nTwo conducting points or sharp edges are fixed in a piece of\ninsulating material so that the distance between them can be\naccurately measured. This apparatus is laid on the conductor to\nbe tested, and the points of contact with the conductor are then\nat a known distance $S S^{\\prime}$. Each of these contact pieces is con-\nnected with a mercury cup, into which one electrode of the\ngalvanometer may be plunged.\nThe rest of the apparatus is arranged, as in Wheatstone's\nBridge, with resistance coils or boxes $A$ and $C$, and a wire $P R$\nwith a sliding contact piece $Q$, to which the other electrode o\nthe galvanometer is connected.\nNow let the galvanometer be connected to $S$ and $Q$, and let\n$A_{1}$ and $C_{1}$ be so arranged, and the position of $Q$, (viz. $Q_{1}$,) so\ndetermined, that there is no current in the galvanometer wire.\nThen we know that\n$$\\frac{X S}{S Y}=\\frac{A_{1}+P Q_{1}}{C_{1}+Q_{1} R},$$\nwhere $X S, P Q_{1}$, \\&c. stand for the resistances in these conductors.\nFrom this we get\n$$\\frac{X S}{X Y}=\\frac{A_{1}+P Q_{1}}{A_{1}+C_{1}+P R} .$$\nNow let the electrode of the galvanometer be connected to $S^{\\prime}$,\nand let resistance be transferred from $C$ to $A$ (by carrying re-\nsistance coils from one side to the other) till electric equilibrium\nof the galvanometer wire can be obtained by placing $Q$ at some\n\n",
+    "mathpix_markdown": "\n--- Page 520 ---\n\nratio of $R$ to $C$ is nearly equal to that of $P$ to $A$, the last term\n of the equation will vanish, and we shall have\n\n$$F: H:: C: A .$$\n\n\nThe success of this method depends in some degree on the\n perfection of the contact between the wires and the tested con\nductors at $S, S^{\\prime}, T^{\\prime}$ and $T$. In the following method, employed\n by Messrs. Matthiessen and Hockin*, this condition is dispensed\n with.\n\n352.] The conductors to be tested are arranged in the manner\n already described, with the connexions as well made as possible,\n and it is required to compare the resistance between the marks\n SS' on the first conductor with the resistance between the marks\n $T^{\\prime} T$ on the second.\n\n\nTwo conducting points or sharp edges are fixed in a piece of\n insulating material so that the distance between them can be\n accurately measured. This apparatus is laid on the conductor to\n be tested, and the points of contact with the conductor are then\n at a known distance $S S^{\\prime}$. Each of these contact pieces is con\nnected with a mercury cup, into which one electrode of the\n galvanometer may be plunged.\n\n\nThe rest of the apparatus is arranged, as in Wheatstone's\n Bridge, with resistance coils or boxes $A$ and $C$, and a wire $P R$\n with a sliding contact piece $Q$, to which the other electrode o\n the galvanometer is connected.\n\n\nNow let the galvanometer be connected to $S$ and $Q$, and let\n $A_{1}$ and $C_{1}$ be so arranged, and the position of $Q$, (viz. $Q_{1}$,) so\n determined, that there is no current in the galvanometer wire.\n\n\nThen we know that\n\n$$\\frac{X S}{S Y}=\\frac{A_{1}+P Q_{1}}{C_{1}+Q_{1} R},$$\n\nwhere $X S, P Q_{1}$, \\&c. stand for the resistances in these conductors.\n\nFrom this we get\n\n$$\\frac{X S}{X Y}=\\frac{A_{1}+P Q_{1}}{A_{1}+C_{1}+P R} .$$\n\n\nNow let the electrode of the galvanometer be connected to $S^{\\prime}$,\n and let resistance be transferred from $C$ to $A$ (by carrying re\nsistance coils from one side to the other) till electric equilibrium\n of the galvanometer wire can be obtained by placing $Q$ at some\n",
+    "structured_lines": [
+      {
+        "page": 520,
+        "line_number": 4,
+        "type": "text",
+        "content": "ratio of $R$ to $C$ is nearly equal to that of $P$ to $A$, the last term",
+        "mathpix_content": "\nratio of $R$ to $C$ is nearly equal to that of $P$ to $A$, the last term",
+        "font_size": 34,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 520,
+        "line_number": 5,
+        "type": "text",
+        "content": "of the equation will vanish, and we shall have",
+        "mathpix_content": " of the equation will vanish, and we shall have",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 8,
+        "type": "text",
+        "content": "The success of this method depends in some degree on the",
+        "mathpix_content": "\n\nThe success of this method depends in some degree on the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 9,
+        "type": "text",
+        "content": "perfection of the contact between the wires and the tested con-",
+        "mathpix_content": " perfection of the contact between the wires and the tested con",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 10,
+        "type": "text",
+        "content": "ductors at $S, S^{\\prime}, T^{\\prime}$ and $T$. In the following method, employed",
+        "mathpix_content": "ductors at $S, S^{\\prime}, T^{\\prime}$ and $T$. In the following method, employed",
+        "font_size": 34,
+        "confidence": 0.98876953125
+      },
+      {
+        "page": 520,
+        "line_number": 11,
+        "type": "text",
+        "content": "by Messrs. Matthiessen and Hockin*, this condition is dispensed",
+        "mathpix_content": " by Messrs. Matthiessen and Hockin*, this condition is dispensed",
+        "font_size": 34,
+        "confidence": 0.9873046875
+      },
+      {
+        "page": 520,
+        "line_number": 12,
+        "type": "text",
+        "content": "with.",
+        "mathpix_content": " with.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 13,
+        "type": "text",
+        "content": "352.] The conductors to be tested are arranged in the manner",
+        "mathpix_content": "\n352.] The conductors to be tested are arranged in the manner",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 14,
+        "type": "text",
+        "content": "already described, with the connexions as well made as possible,",
+        "mathpix_content": " already described, with the connexions as well made as possible,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 15,
+        "type": "text",
+        "content": "and it is required to compare the resistance between the marks",
+        "mathpix_content": " and it is required to compare the resistance between the marks",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 16,
+        "type": "text",
+        "content": "SS' on the first conductor with the resistance between the marks",
+        "mathpix_content": " SS' on the first conductor with the resistance between the marks",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 520,
+        "line_number": 17,
+        "type": "text",
+        "content": "$T^{\\prime} T$ on the second.",
+        "mathpix_content": " $T^{\\prime} T$ on the second.",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 520,
+        "line_number": 18,
+        "type": "text",
+        "content": "Two conducting points or sharp edges are fixed in a piece of",
+        "mathpix_content": "\n\nTwo conducting points or sharp edges are fixed in a piece of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 19,
+        "type": "text",
+        "content": "insulating material so that the distance between them can be",
+        "mathpix_content": " insulating material so that the distance between them can be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 20,
+        "type": "text",
+        "content": "accurately measured. This apparatus is laid on the conductor to",
+        "mathpix_content": " accurately measured. This apparatus is laid on the conductor to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 21,
+        "type": "text",
+        "content": "be tested, and the points of contact with the conductor are then",
+        "mathpix_content": " be tested, and the points of contact with the conductor are then",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 22,
+        "type": "text",
+        "content": "at a known distance $S S^{\\prime}$. Each of these contact pieces is con-",
+        "mathpix_content": " at a known distance $S S^{\\prime}$. Each of these contact pieces is con",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 23,
+        "type": "text",
+        "content": "nected with a mercury cup, into which one electrode of the",
+        "mathpix_content": "nected with a mercury cup, into which one electrode of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 24,
+        "type": "text",
+        "content": "galvanometer may be plunged.",
+        "mathpix_content": " galvanometer may be plunged.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 25,
+        "type": "text",
+        "content": "The rest of the apparatus is arranged, as in Wheatstone's",
+        "mathpix_content": "\n\nThe rest of the apparatus is arranged, as in Wheatstone's",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 26,
+        "type": "text",
+        "content": "Bridge, with resistance coils or boxes $A$ and $C$, and a wire $P R$",
+        "mathpix_content": " Bridge, with resistance coils or boxes $A$ and $C$, and a wire $P R$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 27,
+        "type": "text",
+        "content": "with a sliding contact piece $Q$, to which the other electrode o",
+        "mathpix_content": " with a sliding contact piece $Q$, to which the other electrode o",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 28,
+        "type": "text",
+        "content": "the galvanometer is connected.",
+        "mathpix_content": " the galvanometer is connected.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 29,
+        "type": "text",
+        "content": "Now let the galvanometer be connected to $S$ and $Q$, and let",
+        "mathpix_content": "\n\nNow let the galvanometer be connected to $S$ and $Q$, and let",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 30,
+        "type": "text",
+        "content": "$A_{1}$ and $C_{1}$ be so arranged, and the position of $Q$, (viz. $Q_{1}$,) so",
+        "mathpix_content": " $A_{1}$ and $C_{1}$ be so arranged, and the position of $Q$, (viz. $Q_{1}$,) so",
+        "font_size": 34,
+        "confidence": 0.9965846532722935
+      },
+      {
+        "page": 520,
+        "line_number": 31,
+        "type": "text",
+        "content": "determined, that there is no current in the galvanometer wire.",
+        "mathpix_content": " determined, that there is no current in the galvanometer wire.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 32,
+        "type": "text",
+        "content": "Then we know that",
+        "mathpix_content": "\n\nThen we know that",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 35,
+        "type": "text",
+        "content": "where $X S, P Q_{1}$, \\&c. stand for the resistances in these conductors.",
+        "mathpix_content": "\nwhere $X S, P Q_{1}$, \\&c. stand for the resistances in these conductors.",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 520,
+        "line_number": 36,
+        "type": "text",
+        "content": "From this we get",
+        "mathpix_content": "\nFrom this we get",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 39,
+        "type": "text",
+        "content": "Now let the electrode of the galvanometer be connected to $S^{\\prime}$,",
+        "mathpix_content": "\n\nNow let the electrode of the galvanometer be connected to $S^{\\prime}$,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 40,
+        "type": "text",
+        "content": "and let resistance be transferred from $C$ to $A$ (by carrying re-",
+        "mathpix_content": " and let resistance be transferred from $C$ to $A$ (by carrying re",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 41,
+        "type": "text",
+        "content": "sistance coils from one side to the other) till electric equilibrium",
+        "mathpix_content": "sistance coils from one side to the other) till electric equilibrium",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 520,
+        "line_number": 42,
+        "type": "text",
+        "content": "of the galvanometer wire can be obtained by placing $Q$ at some",
+        "mathpix_content": " of the galvanometer wire can be obtained by placing $Q$ at some",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

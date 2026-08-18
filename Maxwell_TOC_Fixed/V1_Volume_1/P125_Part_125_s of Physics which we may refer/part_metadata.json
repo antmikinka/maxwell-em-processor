@@ -1,0 +1,1357 @@
+{
+  "part_id": "part_125",
+  "part_number": 125,
+  "title": "s of Physics, which we may refer",
+  "page_start": 66,
+  "page_end": 67,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 26,
+      "title": "]",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 31,
+      "title": "In Fig. 3 we have an illustration of rotation combined with",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 26,
+      "title": "] One of the most remarkable properties of the operator \u2207",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 2,
+      "title": "}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}+\\frac{d^{2}}{d z^{2}}\\right),$$",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 0,
+      "title": "}$ is the value of $q$ at the centre, and $\\bar{q}$ the",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 0,
+      "title": "}-\\bar{q}=\\frac{1}{1} \\delta r^{2} \\nabla^{2} q ;$$",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 2,
+      "title": "} q$ is positive or negative.",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 2,
+      "title": "} q$ the concentration of $q$ at the",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 3,
+      "title": "we have an illustration of rotation combined with",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 26,
+      "title": "] One of the most remarkable properties of the operator \u2207",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 2,
+      "title": "}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}+\\frac{d^{2}}{d z^{2}}\\right),$$",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 0,
+      "title": "}$ is the value of $q$ at the centre, and $\\bar{q}$ the",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 0,
+      "title": "}-\\bar{q}=\\frac{1}{1} \\delta r^{2} \\nabla^{2} q ;$$",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 2,
+      "title": "} q$ is positive or negative.",
+      "page_start": 66,
+      "page_end": 65,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 2,
+      "title": "} q$ the concentration of $q$ at the",
+      "page_start": 66,
+      "page_end": 66,
+      "articles": [
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": "] One of the most remarkable properties of the operator \u2207",
+          "title_safe": "One of the most remarkable properties of the operator \u2207",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": "] One of the most remarkable properties of the operator \u2207",
+          "title_safe": "One of the most remarkable properties of the operator \u2207",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_31",
+          "article_number": 31,
+          "title_original": "In Fig. 3 we have an illustration of rotation combined with",
+          "title_safe": "In Fig. 3 we have an illustration of rotation combined with",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ".$$",
+          "title_safe": "Article",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ".] One of the most remarkable properties of the operator \u2207",
+          "title_safe": "One of the most remarkable properties of the operator \u2207",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}+\\frac{d^{2}}{d z^{2}}\\right),$$",
+          "title_safe": "equals-leftfracd2d x2plusfracd2d y2plusfracd2d z2right",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the value of $q$ at the centre, and $\\bar{q}$ the",
+          "title_safe": "is the value of q at the centre and barq the",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}-\\bar{q}=\\frac{1}{1} \\delta r^{2} \\nabla^{2} q ;$$",
+          "title_safe": "barqequalsfrac11 delta r2 nabla2 q",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} q$ is positive or negative.",
+          "title_safe": "q is positive or negative",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} q$ the concentration of $q$ at the",
+          "title_safe": "q the concentration of q at the",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "we have an illustration of rotation combined with",
+          "title_safe": "we have an illustration of rotation combined with",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ".$$",
+          "title_safe": "Article",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ".] One of the most remarkable properties of the operator \u2207",
+          "title_safe": "One of the most remarkable properties of the operator \u2207",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}+\\frac{d^{2}}{d z^{2}}\\right),$$",
+          "title_safe": "equals-leftfracd2d x2plusfracd2d y2plusfracd2d z2right",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the value of $q$ at the centre, and $\\bar{q}$ the",
+          "title_safe": "is the value of q at the centre and barq the",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}-\\bar{q}=\\frac{1}{1} \\delta r^{2} \\nabla^{2} q ;$$",
+          "title_safe": "barqequalsfrac11 delta r2 nabla2 q",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} q$ is positive or negative.",
+          "title_safe": "q is positive or negative",
+          "page_start": 66,
+          "page_end": 65,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} q$ the concentration of $q$ at the",
+          "title_safe": "q the concentration of q at the",
+          "page_start": 66,
+          "page_end": 66,
+          "content": {
+            "raw_text": "\n--- Page 66 ---\n26.]\nHAMILTON'S OPERATOR $\\nabla$.\n31\nIn Fig. 3 we have an illustration of rotation combined with\nconvergence.\nLet us now consider the meaning of the equation\n$$V \\nabla_{\\sigma}=0 .$$\nThis implies that $\\nabla \\sigma$ is a scalar, or that the vector $\\sigma$ is the space-\nvariation of some scalar function $\\Psi$.\n26.] One of the most remarkable properties of the operator \u2207\nis that when repeated it becomes\n$$\\nabla^{2}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}+\\frac{d^{2}}{d z^{2}}\\right),$$\nan operator occurring in all parts of Physics, which we may refer\nto as Laplace's Operator.\nThis operator is itself essentially scalar. When it acts on a\nscalar function the result is scalar, when it acts on a vector\nfunction the result is a vector.\nIf, with any point $P$ as centre, we draw a small sphere whose\nradius is $r$, then if $q_{0}$ is the value of $q$ at the centre, and $\\bar{q}$ the\nmean value of $q$ for all points within the sphere,\n$$q_{0}-\\bar{q}=\\frac{1}{1} \\delta r^{2} \\nabla^{2} q ;$$\nso that the value at the centre exceeds or falls short of the mean\nvalue according as $\\nabla^{2} q$ is positive or negative.\nI propose therefore to call $\\nabla^{2} q$ the concentration of $q$ at the\npoint $P$, because it indicates the excess of the value of $q$ at that\npoint over its mean value in the neighbourhood of the point.\nIf $q$ is a scalar function, the method of finding its mean value\nis well known. If it is a vector function, we must find its mean\nvalue by the rules for integrating vector functions. The result\nof course is a vector.\n",
+            "mathpix_markdown": "\n--- Page 66 ---\n\n\nIn Fig. 3 we have an illustration of rotation combined with\n convergence.\n\n\nLet us now consider the meaning of the equation\n\n$$V \\nabla_{\\sigma}=0 .$$\n\n\nThis implies that $\\nabla \\sigma$ is a scalar, or that the vector $\\sigma$ is the space\nvariation of some scalar function $\\Psi$.\n\n26.] One of the most remarkable properties of the operator \u2207\n is that when repeated it becomes\n\n$$\\nabla^{2}=-\\left(\\frac{d^{2}}{d x^{2}}+\\frac{d^{2}}{d y^{2}}+\\frac{d^{2}}{d z^{2}}\\right),$$\n\nan operator occurring in all parts of Physics, which we may refer\n to as Laplace's Operator.\n\n\nThis operator is itself essentially scalar. When it acts on a\n scalar function the result is scalar, when it acts on a vector\n function the result is a vector.\n\n\nIf, with any point $P$ as centre, we draw a small sphere whose\n radius is $r$, then if $q_{0}$ is the value of $q$ at the centre, and $\\bar{q}$ the\n mean value of $q$ for all points within the sphere,\n\n$$q_{0}-\\bar{q}=\\frac{1}{1} \\delta r^{2} \\nabla^{2} q ;$$\n\nso that the value at the centre exceeds or falls short of the mean\n value according as $\\nabla^{2} q$ is positive or negative.\n\n\nI propose therefore to call $\\nabla^{2} q$ the concentration of $q$ at the\n point $P$, because it indicates the excess of the value of $q$ at that\n point over its mean value in the neighbourhood of the point.\n\n\nIf $q$ is a scalar function, the method of finding its mean value\n is well known. If it is a vector function, we must find its mean\n value by the rules for integrating vector functions. The result\n of course is a vector.\n",
+            "structured_lines": [
+              {
+                "page": 66,
+                "line_number": 4,
+                "type": "text",
+                "content": "In Fig. 3 we have an illustration of rotation combined with",
+                "mathpix_content": "\n\nIn Fig. 3 we have an illustration of rotation combined with",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 5,
+                "type": "text",
+                "content": "convergence.",
+                "mathpix_content": " convergence.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 6,
+                "type": "text",
+                "content": "Let us now consider the meaning of the equation",
+                "mathpix_content": "\n\nLet us now consider the meaning of the equation",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 9,
+                "type": "text",
+                "content": "This implies that $\\nabla \\sigma$ is a scalar, or that the vector $\\sigma$ is the space-",
+                "mathpix_content": "\n\nThis implies that $\\nabla \\sigma$ is a scalar, or that the vector $\\sigma$ is the space",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 10,
+                "type": "text",
+                "content": "variation of some scalar function $\\Psi$.",
+                "mathpix_content": "variation of some scalar function $\\Psi$.",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 66,
+                "line_number": 11,
+                "type": "text",
+                "content": "26.] One of the most remarkable properties of the operator \u2207",
+                "mathpix_content": "\n26.] One of the most remarkable properties of the operator \u2207",
+                "font_size": 34,
+                "confidence": 0.95361328125
+              },
+              {
+                "page": 66,
+                "line_number": 12,
+                "type": "text",
+                "content": "is that when repeated it becomes",
+                "mathpix_content": " is that when repeated it becomes",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 15,
+                "type": "text",
+                "content": "an operator occurring in all parts of Physics, which we may refer",
+                "mathpix_content": "\nan operator occurring in all parts of Physics, which we may refer",
+                "font_size": 34,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 66,
+                "line_number": 16,
+                "type": "text",
+                "content": "to as Laplace's Operator.",
+                "mathpix_content": " to as Laplace's Operator.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 66,
+                "line_number": 17,
+                "type": "text",
+                "content": "This operator is itself essentially scalar. When it acts on a",
+                "mathpix_content": "\n\nThis operator is itself essentially scalar. When it acts on a",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 18,
+                "type": "text",
+                "content": "scalar function the result is scalar, when it acts on a vector",
+                "mathpix_content": " scalar function the result is scalar, when it acts on a vector",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 19,
+                "type": "text",
+                "content": "function the result is a vector.",
+                "mathpix_content": " function the result is a vector.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 20,
+                "type": "text",
+                "content": "If, with any point $P$ as centre, we draw a small sphere whose",
+                "mathpix_content": "\n\nIf, with any point $P$ as centre, we draw a small sphere whose",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 21,
+                "type": "text",
+                "content": "radius is $r$, then if $q_{0}$ is the value of $q$ at the centre, and $\\bar{q}$ the",
+                "mathpix_content": " radius is $r$, then if $q_{0}$ is the value of $q$ at the centre, and $\\bar{q}$ the",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 66,
+                "line_number": 22,
+                "type": "text",
+                "content": "mean value of $q$ for all points within the sphere,",
+                "mathpix_content": " mean value of $q$ for all points within the sphere,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 25,
+                "type": "text",
+                "content": "so that the value at the centre exceeds or falls short of the mean",
+                "mathpix_content": "\nso that the value at the centre exceeds or falls short of the mean",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 26,
+                "type": "text",
+                "content": "value according as $\\nabla^{2} q$ is positive or negative.",
+                "mathpix_content": " value according as $\\nabla^{2} q$ is positive or negative.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 27,
+                "type": "text",
+                "content": "I propose therefore to call $\\nabla^{2} q$ the concentration of $q$ at the",
+                "mathpix_content": "\n\nI propose therefore to call $\\nabla^{2} q$ the concentration of $q$ at the",
+                "font_size": 34,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 66,
+                "line_number": 28,
+                "type": "text",
+                "content": "point $P$, because it indicates the excess of the value of $q$ at that",
+                "mathpix_content": " point $P$, because it indicates the excess of the value of $q$ at that",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 29,
+                "type": "text",
+                "content": "point over its mean value in the neighbourhood of the point.",
+                "mathpix_content": " point over its mean value in the neighbourhood of the point.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 66,
+                "line_number": 30,
+                "type": "text",
+                "content": "If $q$ is a scalar function, the method of finding its mean value",
+                "mathpix_content": "\n\nIf $q$ is a scalar function, the method of finding its mean value",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 31,
+                "type": "text",
+                "content": "is well known. If it is a vector function, we must find its mean",
+                "mathpix_content": " is well known. If it is a vector function, we must find its mean",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 32,
+                "type": "text",
+                "content": "value by the rules for integrating vector functions. The result",
+                "mathpix_content": " value by the rules for integrating vector functions. The result",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 66,
+                "line_number": 33,
+                "type": "text",
+                "content": "of course is a vector.",
+                "mathpix_content": " of course is a vector.",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 27,
+      "title": "] Experiment I*. Let a piece of glass and a piece of resin,",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": ") That the two pieces of glass repel each other.",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 2,
+      "title": ") That each piece of glass attracts each piece of resin.",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 3,
+      "title": ") That the two pieces of resin repel each other.",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 1848,
+      "title": "\\section*{PART I.}",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 27,
+      "title": "] Experiment I*. Let a piece of glass and a piece of resin,",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 1,
+      "title": ") That the two pieces of glass repel each other.",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 2,
+      "title": ") That each piece of glass attracts each piece of resin.",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 3,
+      "title": ") That the two pieces of resin repel each other.",
+      "page_start": 67,
+      "page_end": 66,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 1848,
+      "title": ".",
+      "page_start": 67,
+      "page_end": 67,
+      "articles": [
+        {
+          "article_id": "article_27",
+          "article_number": 27,
+          "title_original": "] Experiment I*. Let a piece of glass and a piece of resin,",
+          "title_safe": "Experiment IASTERISK. Let a piece of glass and a piece of re",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1848",
+          "article_number": 1848,
+          "title_original": "\\section*{PART I.}",
+          "title_safe": "sectionASTERISKPART I",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_27",
+          "article_number": 27,
+          "title_original": "] Experiment I*. Let a piece of glass and a piece of resin,",
+          "title_safe": "Experiment IASTERISK. Let a piece of glass and a piece of re",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_27",
+          "article_number": 27,
+          "title_original": ".] Experiment I*. Let a piece of glass and a piece of resin,",
+          "title_safe": "Experiment IASTERISK. Let a piece of glass and a piece of",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") That the two pieces of glass repel each other.",
+          "title_safe": "That the two pieces of glass repel each other",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ") That each piece of glass attracts each piece of resin.",
+          "title_safe": "That each piece of glass attracts each piece of resin",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": ") That the two pieces of resin repel each other.",
+          "title_safe": "That the two pieces of resin repel each other",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1848",
+          "article_number": 1848,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_27",
+          "article_number": 27,
+          "title_original": ".] Experiment I*. Let a piece of glass and a piece of resin,",
+          "title_safe": "Experiment IASTERISK. Let a piece of glass and a piece of",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") That the two pieces of glass repel each other.",
+          "title_safe": "That the two pieces of glass repel each other",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ") That each piece of glass attracts each piece of resin.",
+          "title_safe": "That each piece of glass attracts each piece of resin",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": ") That the two pieces of resin repel each other.",
+          "title_safe": "That the two pieces of resin repel each other",
+          "page_start": 67,
+          "page_end": 66,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1848",
+          "article_number": 1848,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 67,
+          "page_end": 67,
+          "content": {
+            "raw_text": "\n--- Page 67 ---\n\nPART I.\n\nELECTROSTATICS.\n\nCHAPTER I.\n\nDESCRIPTION OF PHENOMENA.\n\nElectrification by Friction.\n27.] Experiment I*. Let a piece of glass and a piece of resin,\nneither of which exhibits any electrical properties, be rubbed to-\ngether and left with the rubbed surfaces in contact. They will\nstill exhibit no electrical properties. Let them be separated. They\nwill now attract each other.\nIf a second piece of glass be rubbed with a second piece of\nresin, and if the pieces be then separated and suspended in the\nneighbourhood of the former pieces of glass and resin, it may be\nobserved-\n(1) That the two pieces of glass repel each other.\n(2) That each piece of glass attracts each piece of resin.\n(3) That the two pieces of resin repel each other.\nThese phenomena of attraction and repulsion are called Elec-\ntrical phenomena, and the bodies which exhibit them are said to\nbe electrified, or to be charged with electricity.\nBodies may be electrified in many other ways, as well as by\nfriction.\nThe electrical properties of the two pieces of glass are similar\nto each other but opposite to those of the two pieces of resin :\nthe glass attracts what the resin repels and repels what the resin\nattracts.\n* See Sir W. Thomson ' Cn the Mathematical Theory of Electricity in Equilibrium,'\nCambridge and Dublin Mathematical Journal, March, 1848.\n",
+            "mathpix_markdown": "\n--- Page 67 ---\n\n\n\\section*{PART I.}\n\n\n\\section*{ELECTROSTATICS.}\n\n\n\\section*{CHAPTER I.}\n\n\n\\section*{DESCRIPTION OF PHENOMENA.}\n\n\n\\section*{Electrification by Friction.}\n\n27.] Experiment I*. Let a piece of glass and a piece of resin,\n neither of which exhibits any electrical properties, be rubbed to\ngether and left with the rubbed surfaces in contact. They will\n still exhibit no electrical properties. Let them be separated. They\n will now attract each other.\n\n\nIf a second piece of glass be rubbed with a second piece of\n resin, and if the pieces be then separated and suspended in the\n neighbourhood of the former pieces of glass and resin, it may be\n observed-\n\n(1) That the two pieces of glass repel each other.\n\n(2) That each piece of glass attracts each piece of resin.\n\n(3) That the two pieces of resin repel each other.\n\n\nThese phenomena of attraction and repulsion are called Elec\ntrical phenomena, and the bodies which exhibit them are said to\n be electrified, or to be charged with electricity.\n\n\nBodies may be electrified in many other ways, as well as by\n friction.\n\n\nThe electrical properties of the two pieces of glass are similar\n to each other but opposite to those of the two pieces of resin :\n the glass attracts what the resin repels and repels what the resin\n attracts.\n\n* See Sir W. Thomson ' Cn the Mathematical Theory of Electricity in Equilibrium,'\n Cambridge and Dublin Mathematical Journal, March, 1848.\n",
+            "structured_lines": [
+              {
+                "page": 67,
+                "line_number": 2,
+                "type": "text",
+                "content": "PART I.",
+                "mathpix_content": "\n\n\\section*{PART I.}",
+                "font_size": 43,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 67,
+                "line_number": 4,
+                "type": "text",
+                "content": "ELECTROSTATICS.",
+                "mathpix_content": "\n\n\\section*{ELECTROSTATICS.}",
+                "font_size": 34,
+                "confidence": 0.994140625
+              },
+              {
+                "page": 67,
+                "line_number": 6,
+                "type": "text",
+                "content": "CHAPTER I.",
+                "mathpix_content": "\n\n\\section*{CHAPTER I.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 8,
+                "type": "text",
+                "content": "DESCRIPTION OF PHENOMENA.",
+                "mathpix_content": "\n\n\\section*{DESCRIPTION OF PHENOMENA.}",
+                "font_size": 21,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 67,
+                "line_number": 10,
+                "type": "text",
+                "content": "Electrification by Friction.",
+                "mathpix_content": "\n\n\\section*{Electrification by Friction.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 11,
+                "type": "text",
+                "content": "27.] Experiment I*. Let a piece of glass and a piece of resin,",
+                "mathpix_content": "\n27.] Experiment I*. Let a piece of glass and a piece of resin,",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 67,
+                "line_number": 12,
+                "type": "text",
+                "content": "neither of which exhibits any electrical properties, be rubbed to-",
+                "mathpix_content": " neither of which exhibits any electrical properties, be rubbed to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 13,
+                "type": "text",
+                "content": "gether and left with the rubbed surfaces in contact. They will",
+                "mathpix_content": "gether and left with the rubbed surfaces in contact. They will",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 67,
+                "line_number": 14,
+                "type": "text",
+                "content": "still exhibit no electrical properties. Let them be separated. They",
+                "mathpix_content": " still exhibit no electrical properties. Let them be separated. They",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 15,
+                "type": "text",
+                "content": "will now attract each other.",
+                "mathpix_content": " will now attract each other.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 16,
+                "type": "text",
+                "content": "If a second piece of glass be rubbed with a second piece of",
+                "mathpix_content": "\n\nIf a second piece of glass be rubbed with a second piece of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 17,
+                "type": "text",
+                "content": "resin, and if the pieces be then separated and suspended in the",
+                "mathpix_content": " resin, and if the pieces be then separated and suspended in the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 18,
+                "type": "text",
+                "content": "neighbourhood of the former pieces of glass and resin, it may be",
+                "mathpix_content": " neighbourhood of the former pieces of glass and resin, it may be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 19,
+                "type": "text",
+                "content": "observed-",
+                "mathpix_content": " observed-",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 67,
+                "line_number": 20,
+                "type": "text",
+                "content": "(1) That the two pieces of glass repel each other.",
+                "mathpix_content": "\n(1) That the two pieces of glass repel each other.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 21,
+                "type": "text",
+                "content": "(2) That each piece of glass attracts each piece of resin.",
+                "mathpix_content": "\n(2) That each piece of glass attracts each piece of resin.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 22,
+                "type": "text",
+                "content": "(3) That the two pieces of resin repel each other.",
+                "mathpix_content": "\n(3) That the two pieces of resin repel each other.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 23,
+                "type": "text",
+                "content": "These phenomena of attraction and repulsion are called Elec-",
+                "mathpix_content": "\n\nThese phenomena of attraction and repulsion are called Elec",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 67,
+                "line_number": 24,
+                "type": "text",
+                "content": "trical phenomena, and the bodies which exhibit them are said to",
+                "mathpix_content": "trical phenomena, and the bodies which exhibit them are said to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 25,
+                "type": "text",
+                "content": "be electrified, or to be charged with electricity.",
+                "mathpix_content": " be electrified, or to be charged with electricity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 26,
+                "type": "text",
+                "content": "Bodies may be electrified in many other ways, as well as by",
+                "mathpix_content": "\n\nBodies may be electrified in many other ways, as well as by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 27,
+                "type": "text",
+                "content": "friction.",
+                "mathpix_content": " friction.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 28,
+                "type": "text",
+                "content": "The electrical properties of the two pieces of glass are similar",
+                "mathpix_content": "\n\nThe electrical properties of the two pieces of glass are similar",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 29,
+                "type": "text",
+                "content": "to each other but opposite to those of the two pieces of resin :",
+                "mathpix_content": " to each other but opposite to those of the two pieces of resin :",
+                "font_size": 27,
+                "confidence": 0.99267578125
+              },
+              {
+                "page": 67,
+                "line_number": 30,
+                "type": "text",
+                "content": "the glass attracts what the resin repels and repels what the resin",
+                "mathpix_content": " the glass attracts what the resin repels and repels what the resin",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 31,
+                "type": "text",
+                "content": "attracts.",
+                "mathpix_content": " attracts.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 67,
+                "line_number": 32,
+                "type": "text",
+                "content": "* See Sir W. Thomson ' Cn the Mathematical Theory of Electricity in Equilibrium,'",
+                "mathpix_content": "\n* See Sir W. Thomson ' Cn the Mathematical Theory of Electricity in Equilibrium,'",
+                "font_size": 21,
+                "confidence": 0.6772785796783864
+              },
+              {
+                "page": 67,
+                "line_number": 33,
+                "type": "text",
+                "content": "Cambridge and Dublin Mathematical Journal, March, 1848.",
+                "mathpix_content": " Cambridge and Dublin Mathematical Journal, March, 1848.",
+                "font_size": 21,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

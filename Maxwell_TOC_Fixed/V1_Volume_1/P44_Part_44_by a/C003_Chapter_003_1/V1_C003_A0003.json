@@ -1,0 +1,48 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "1",
+  "title_safe": "1",
+  "page_start": 20,
+  "page_end": 20,
+  "content": {
+    "raw_text": "\n--- Page 20 ---\n\nCONTENTS\n\nPRELIMINARY.\n\nON THE MEASUREMENT OF QUANTITIES.\n\n\nArt.\nPage\n\n1. The expression of a quantity consists of two factors, the nu-\nmerical value, and the name of the concrete unit\n1\n\n2. Dimensions of derived units\n1\n\n3-5. The three fundamental units-Length, Time and Masc\n2, 3\n\n6. Derived units\n5\n\n7. Physical continuity and discontinuity\n6\n\n8. Discontinuity of a function of more than one variable\n7\n\n9. Periodic and multiple functions\n8\n\n10. Relation of physical quantities to directions in space\n9\n\n11. Meaning of the words Scalar and Vector\n10\n\n12. Division of physical vectors into two classes, Forces and Fluxes\n11\n\n13. Relation between corresponding vectors of the two classes\n12\n\n14. Line-integration appropriate to forces, surface-integration to\nfluxes\n13\n\n15. Longitudinal and rotational vectors\n13\n\n16. Line-integrals and potentials\n14\n\n17. Hamilton's expression for the relation between a force and its\npotential\n16\n\n18. Cyclic regions and geometry of position\n17\n\n19. The potential in an acyclic region is single valued\n18\n\n20. System of values of the potential in a cyclic region\n19\n\n21. Surface-integrals\n20\n\n22. Surfaces, tubes, and lines of flow\n22\n\n23. Right-handed and left-handed relations in space\n25\n\n24. Transformation of a line-integral into a surface-integral\n27\n\n25. Effect of Hamilton's operation $\\nabla$ on a vector function\n29\n\n26. Nature of the operation $\\nabla^{2}$\n31\nVOL. I.\nb\n",
+    "mathpix_markdown": "\n--- Page 20 ---\n\n\n\\section*{CONTENTS}\n\n\n\\section*{PRELIMINARY.}\n\n\n\\section*{ON THE MEASUREMENT OF QUANTITIES.}\n\nArt.\n Page\n\n1. The expression of a quantity consists of two factors, the nu-\n merical value, and the name of the concrete unit\n ..... 1\n\n2. Dimensions of derived units\n ..... 1\n\n3-5. The three fundamental units-Length, Time and Masc\n ..... 2, 3\n\n6. Derived units\n ..... 5\n\n7. Physical continuity and discontinuity\n ..... 6\n\n8. Discontinuity of a function of more than one variable\n ..... 7\n\n9. Periodic and multiple functions\n ..... 8\n\n10. Relation of physical quantities to directions in space\n ..... 9\n\n11. Meaning of the words Scalar and Vector\n ..... 10\n\n12. Division of physical vectors into two classes, Forces and Fluxes\n ..... 11\n\n13. Relation between corresponding vectors of the two classes\n ..... 12\n\n14. Line-integration appropriate to forces, surface-integration to\n fluxes\n ..... 13\n\n15. Longitudinal and rotational vectors\n ..... 13\n\n16. Line-integrals and potentials\n ..... 14\n\n17. Hamilton's expression for the relation between a force and its\n potential\n ..... 16\n\n18. Cyclic regions and geometry of position\n ..... 17\n\n19. The potential in an acyclic region is single valued\n ..... 18\n\n20. System of values of the potential in a cyclic region\n ..... 19\n\n21. Surface-integrals\n ..... 20\n\n22. Surfaces, tubes, and lines of flow\n ..... 22\n\n23. Right-handed and left-handed relations in space\n ..... 25\n\n24. Transformation of a line-integral into a surface-integral\n ..... 27\n\n25. Effect of Hamilton's operation $\\nabla$ on a vector function\n ..... 29\n\n26. Nature of the operation $\\nabla^{2}$\n ..... 31\n",
+    "structured_lines": [
+      {
+        "page": 20,
+        "line_number": 2,
+        "type": "text",
+        "content": "CONTENTS",
+        "mathpix_content": "\n\n\\section*{CONTENTS}",
+        "font_size": 52,
+        "confidence": 0.97705078125
+      },
+      {
+        "page": 20,
+        "line_number": 4,
+        "type": "text",
+        "content": "PRELIMINARY.",
+        "mathpix_content": "\n\n\\section*{PRELIMINARY.}",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 20,
+        "line_number": 6,
+        "type": "text",
+        "content": "ON THE MEASUREMENT OF QUANTITIES.",
+        "mathpix_content": "\n\n\\section*{ON THE MEASUREMENT OF QUANTITIES.}",
+        "font_size": 16,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

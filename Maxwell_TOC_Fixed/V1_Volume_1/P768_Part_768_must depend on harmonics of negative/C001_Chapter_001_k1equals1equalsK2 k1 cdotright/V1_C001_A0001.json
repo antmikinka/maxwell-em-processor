@@ -1,0 +1,345 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "} k_{1}=1=K_{2} k_{1 \\cdot}\\right\\}$",
+  "title_safe": "k1equals1equalsK2 k1 cdotright",
+  "page_start": 477,
+  "page_end": 477,
+  "content": {
+    "raw_text": "\n--- Page 477 ---\n442\nCONDUCTION IN HETEROGENEOUS MEDIA.\n[316.\ngives\n$$\\frac{1}{k_{1}}\\left(E-E_{2}\\right)=\\frac{1}{k_{2}} E_{1}$$\n(6)\nwhence\n$$E_{1}=\\frac{2 k_{2}}{k_{1}+k_{2}} E, \\quad E_{2}=\\frac{k_{2}-k_{1}}{k_{1}+k_{2}} E$$\n(7)\nThe potential in the first medium is therefore the same as\nwould be produced in air by a charge $E$ placed at $S$, and a\ncharge $E_{2}$ at $I$ on the electrostatic theory, and the potential in\nthe second medium is the same as that which would be produced\nin air by a charge $E_{1}$ at $S$.\nThe current at any point of the first medium is the same as\nwould have been produced by the source $S$ together with a\nsource $\\frac{k_{2}-k_{1}}{k_{1}+k_{2}} S$ placed at $I$ if the first medium had been infinite,\nand the current at any point of the second medium is the same\nas would have been produced by a source $\\frac{2 k_{2} S}{\\left(k_{1}+k_{2}\\right)}$ placed at $S$ if\nthe second medium had been infinite.\nWe have thus a complete theory of electrical images in the\ncase of two media separated by a plane boundary. Whatever\nbe the nature of the electromotive forces in the first medium,\nthe potential they produce in the first medium may be found by\ncombining their direct effect with the effect of their image.\nIf we suppose the second medium a perfect conductor, then\n$k_{2}=0$, and the image at $I$ is equal and opposite to the source\nat $S$. This is the case of electric images, as in Thomson's theory\nin electrostatics.\nIf we suppose the second medium a perfect insulator, then\n$k_{2}=\\infty$, and the image at $I$ is equal to the source at $S$ and of\nthe same sign. This is the case of images in hydrokinetics\nwhen the fluid is bounded by a rigid plane surface*.\n316.] The method of inversion, which is of so much use in\nelectrostatics when the bounding surface is supposed to be that\nof a perfect conductor, is not applicable to the more general case\nof the surface separating two conductors of unequal electric\nresistance. The method of inversion in two dimensions is, how-\n\n* \\{ A similar investigation will give the electric field due to a charge of electricity\nat $S$ placed in a dielectric whose specific inductive capacity is $K_{1}$, this dielectric being\nseparated by a plane face from another dielectric whose specific inductive capacity is\n$K_{2} . \\quad V_{1}$ and $V_{2}$ will represent the potentials in this case if the charge $=K_{1} E$ and if\n$\\left.K_{1} k_{1}=1=K_{2} k_{1 \\cdot}\\right\\}$\n",
+    "mathpix_markdown": "\n--- Page 477 ---\n\ngives\n\n$$\\begin{equation*}\n\\frac{1}{k_{1}}\\left(E-E_{2}\\right)=\\frac{1}{k_{2}} E_{1} \\tag{6}\n\\end{equation*}$$\n\nwhence\n\n$$\\begin{equation*}\nE_{1}=\\frac{2 k_{2}}{k_{1}+k_{2}} E, \\quad E_{2}=\\frac{k_{2}-k_{1}}{k_{1}+k_{2}} E \\tag{7}\n\\end{equation*}$$\n\n\nThe potential in the first medium is therefore the same as\n would be produced in air by a charge $E$ placed at $S$, and a\n charge $E_{2}$ at $I$ on the electrostatic theory, and the potential in\n the second medium is the same as that which would be produced\n in air by a charge $E_{1}$ at $S$.\n\n\nThe current at any point of the first medium is the same as\n would have been produced by the source $S$ together with a\n source $\\frac{k_{2}-k_{1}}{k_{1}+k_{2}} S$ placed at $I$ if the first medium had been infinite,\n and the current at any point of the second medium is the same\n as would have been produced by a source $\\frac{2 k_{2} S}{\\left(k_{1}+k_{2}\\right)}$ placed at $S$ if\n the second medium had been infinite.\n\n\nWe have thus a complete theory of electrical images in the\n case of two media separated by a plane boundary. Whatever\n be the nature of the electromotive forces in the first medium,\n the potential they produce in the first medium may be found by\n combining their direct effect with the effect of their image.\n\n\nIf we suppose the second medium a perfect conductor, then\n $k_{2}=0$, and the image at $I$ is equal and opposite to the source\n at $S$. This is the case of electric images, as in Thomson's theory\n in electrostatics.\n\n\nIf we suppose the second medium a perfect insulator, then\n $k_{2}=\\infty$, and the image at $I$ is equal to the source at $S$ and of\n the same sign. This is the case of images in hydrokinetics\n when the fluid is bounded by a rigid plane surface*.\n\n316.] The method of inversion, which is of so much use in\n electrostatics when the bounding surface is supposed to be that\n of a perfect conductor, is not applicable to the more general case\n of the surface separating two conductors of unequal electric\n resistance. The method of inversion in two dimensions is, how-\n\n\n\\footnotetext{\n* \\{ A similar investigation will give the electric field due to a charge of electricity\n at $S$ placed in a dielectric whose specific inductive capacity is $K_{1}$, this dielectric being\n separated by a plane face from another dielectric whose specific inductive capacity is\n $K_{2} . \\quad V_{1}$ and $V_{2}$ will represent the potentials in this case if the charge $=K_{1} E$ and if\n $\\left.K_{1} k_{1}=1=K_{2} k_{1 \\cdot}\\right\\}$\n}\n",
+    "structured_lines": [
+      {
+        "page": 477,
+        "line_number": 4,
+        "type": "text",
+        "content": "gives",
+        "mathpix_content": "\ngives",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 8,
+        "type": "text",
+        "content": "whence",
+        "mathpix_content": "\nwhence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 12,
+        "type": "text",
+        "content": "The potential in the first medium is therefore the same as",
+        "mathpix_content": "\n\nThe potential in the first medium is therefore the same as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 13,
+        "type": "text",
+        "content": "would be produced in air by a charge $E$ placed at $S$, and a",
+        "mathpix_content": " would be produced in air by a charge $E$ placed at $S$, and a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 14,
+        "type": "text",
+        "content": "charge $E_{2}$ at $I$ on the electrostatic theory, and the potential in",
+        "mathpix_content": " charge $E_{2}$ at $I$ on the electrostatic theory, and the potential in",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 477,
+        "line_number": 15,
+        "type": "text",
+        "content": "the second medium is the same as that which would be produced",
+        "mathpix_content": " the second medium is the same as that which would be produced",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 16,
+        "type": "text",
+        "content": "in air by a charge $E_{1}$ at $S$.",
+        "mathpix_content": " in air by a charge $E_{1}$ at $S$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 17,
+        "type": "text",
+        "content": "The current at any point of the first medium is the same as",
+        "mathpix_content": "\n\nThe current at any point of the first medium is the same as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 18,
+        "type": "text",
+        "content": "would have been produced by the source $S$ together with a",
+        "mathpix_content": " would have been produced by the source $S$ together with a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 19,
+        "type": "text",
+        "content": "source $\\frac{k_{2}-k_{1}}{k_{1}+k_{2}} S$ placed at $I$ if the first medium had been infinite,",
+        "mathpix_content": " source $\\frac{k_{2}-k_{1}}{k_{1}+k_{2}} S$ placed at $I$ if the first medium had been infinite,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 20,
+        "type": "text",
+        "content": "and the current at any point of the second medium is the same",
+        "mathpix_content": " and the current at any point of the second medium is the same",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 21,
+        "type": "text",
+        "content": "as would have been produced by a source $\\frac{2 k_{2} S}{\\left(k_{1}+k_{2}\\right)}$ placed at $S$ if",
+        "mathpix_content": " as would have been produced by a source $\\frac{2 k_{2} S}{\\left(k_{1}+k_{2}\\right)}$ placed at $S$ if",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 477,
+        "line_number": 22,
+        "type": "text",
+        "content": "the second medium had been infinite.",
+        "mathpix_content": " the second medium had been infinite.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 23,
+        "type": "text",
+        "content": "We have thus a complete theory of electrical images in the",
+        "mathpix_content": "\n\nWe have thus a complete theory of electrical images in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 24,
+        "type": "text",
+        "content": "case of two media separated by a plane boundary. Whatever",
+        "mathpix_content": " case of two media separated by a plane boundary. Whatever",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 25,
+        "type": "text",
+        "content": "be the nature of the electromotive forces in the first medium,",
+        "mathpix_content": " be the nature of the electromotive forces in the first medium,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 26,
+        "type": "text",
+        "content": "the potential they produce in the first medium may be found by",
+        "mathpix_content": " the potential they produce in the first medium may be found by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 27,
+        "type": "text",
+        "content": "combining their direct effect with the effect of their image.",
+        "mathpix_content": " combining their direct effect with the effect of their image.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 28,
+        "type": "text",
+        "content": "If we suppose the second medium a perfect conductor, then",
+        "mathpix_content": "\n\nIf we suppose the second medium a perfect conductor, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 29,
+        "type": "text",
+        "content": "$k_{2}=0$, and the image at $I$ is equal and opposite to the source",
+        "mathpix_content": " $k_{2}=0$, and the image at $I$ is equal and opposite to the source",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 30,
+        "type": "text",
+        "content": "at $S$. This is the case of electric images, as in Thomson's theory",
+        "mathpix_content": " at $S$. This is the case of electric images, as in Thomson's theory",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 31,
+        "type": "text",
+        "content": "in electrostatics.",
+        "mathpix_content": " in electrostatics.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 32,
+        "type": "text",
+        "content": "If we suppose the second medium a perfect insulator, then",
+        "mathpix_content": "\n\nIf we suppose the second medium a perfect insulator, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 33,
+        "type": "text",
+        "content": "$k_{2}=\\infty$, and the image at $I$ is equal to the source at $S$ and of",
+        "mathpix_content": " $k_{2}=\\infty$, and the image at $I$ is equal to the source at $S$ and of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 34,
+        "type": "text",
+        "content": "the same sign. This is the case of images in hydrokinetics",
+        "mathpix_content": " the same sign. This is the case of images in hydrokinetics",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 35,
+        "type": "text",
+        "content": "when the fluid is bounded by a rigid plane surface*.",
+        "mathpix_content": " when the fluid is bounded by a rigid plane surface*.",
+        "font_size": 27,
+        "confidence": 0.97705078125
+      },
+      {
+        "page": 477,
+        "line_number": 36,
+        "type": "text",
+        "content": "316.] The method of inversion, which is of so much use in",
+        "mathpix_content": "\n316.] The method of inversion, which is of so much use in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 37,
+        "type": "text",
+        "content": "electrostatics when the bounding surface is supposed to be that",
+        "mathpix_content": " electrostatics when the bounding surface is supposed to be that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 38,
+        "type": "text",
+        "content": "of a perfect conductor, is not applicable to the more general case",
+        "mathpix_content": " of a perfect conductor, is not applicable to the more general case",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 39,
+        "type": "text",
+        "content": "of the surface separating two conductors of unequal electric",
+        "mathpix_content": " of the surface separating two conductors of unequal electric",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 40,
+        "type": "text",
+        "content": "resistance. The method of inversion in two dimensions is, how-",
+        "mathpix_content": " resistance. The method of inversion in two dimensions is, how-",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 42,
+        "type": "text",
+        "content": "* \\{ A similar investigation will give the electric field due to a charge of electricity",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{ A similar investigation will give the electric field due to a charge of electricity",
+        "font_size": 21,
+        "confidence": 0.90185546875
+      },
+      {
+        "page": 477,
+        "line_number": 43,
+        "type": "text",
+        "content": "at $S$ placed in a dielectric whose specific inductive capacity is $K_{1}$, this dielectric being",
+        "mathpix_content": " at $S$ placed in a dielectric whose specific inductive capacity is $K_{1}$, this dielectric being",
+        "font_size": 21,
+        "confidence": 0.9721941947937012
+      },
+      {
+        "page": 477,
+        "line_number": 44,
+        "type": "text",
+        "content": "separated by a plane face from another dielectric whose specific inductive capacity is",
+        "mathpix_content": " separated by a plane face from another dielectric whose specific inductive capacity is",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 477,
+        "line_number": 45,
+        "type": "text",
+        "content": "$K_{2} . \\quad V_{1}$ and $V_{2}$ will represent the potentials in this case if the charge $=K_{1} E$ and if",
+        "mathpix_content": " $K_{2} . \\quad V_{1}$ and $V_{2}$ will represent the potentials in this case if the charge $=K_{1} E$ and if",
+        "font_size": 21,
+        "confidence": 0.8960444937692955
+      },
+      {
+        "page": 477,
+        "line_number": 46,
+        "type": "text",
+        "content": "$\\left.K_{1} k_{1}=1=K_{2} k_{1 \\cdot}\\right\\}$",
+        "mathpix_content": " $\\left.K_{1} k_{1}=1=K_{2} k_{1 \\cdot}\\right\\}$\n}",
+        "font_size": 21,
+        "confidence": 0.3572745327804495
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

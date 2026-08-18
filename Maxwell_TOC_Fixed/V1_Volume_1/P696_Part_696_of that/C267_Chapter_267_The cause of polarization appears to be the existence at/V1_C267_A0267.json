@@ -1,0 +1,381 @@
+{
+  "article_id": "article_267",
+  "article_number": 267,
+  "title_original": ".] The cause of polarization appears to be the existence at",
+  "title_safe": "The cause of polarization appears to be the existence at",
+  "page_start": 423,
+  "page_end": 423,
+  "content": {
+    "raw_text": "\n--- Page 423 ---\n388\nELECTROLYTIO POLARIZATION.\n[267.\nperceived as a force opposed to the current, but we can distin-\nguish between the two phenomena by instantaneously removing\nor reversing the electromotive force.\nThe resisting force is always opposite in direction to the\ncurrent, and the external electromotive force required to over-\ncome it is proportional to the strength of the current, and\nchanges its direction when the direction of the current is\nchanged. If the external electromotive force becomes zero the\ncurrent simply stops.\nThe electromotive force due to polarization, on the other hand,\nis in a fixed direction, opposed to the current which produced\nit. If the electromotive force which produced the current is\nremoved, the polarization produces a current in the opposits\ndirection.\nThe difference between the two phenomena may be compared\nwith the difference between forcing a current of water through\na long capillary tube, and forcing water through a tube of\nmoderate bore up into a cistern. In the first case if we\nremove the pressure which produces the flow the current will\nsimply stop. In the second case, if we remove the pressure the\nwater will begin to flow down again from the cistern.\nTo make the mechanical illustration more complete, we have\nonly to suppose that the cistern is of moderate depth, so that\nwhen a certain amount of water is raised into it, it begins to\noverflow. This will represent the fact that the total electro-\nmotive force due to polarization has a maximum limit.\n267.] The cause of polarization appears to be the existence at\nthe electrodes of the products of the electrolytic decomposition\nof the fluid between them. The surfaces of the electrodes are\nthus rendered electrically different, and an electromotive force\nbetween them is called into action, the direction of which is\nopposite to that of the current which caused the polarization.\nThe ions, which by their presence at the electrodes produce\nthe phenomena of polarization, are not in a perfectly free state,\nbut are in a condition in which they adhere to the surface of the\nelectrodes with considerable force.\nThe electromotive force due to polarization depends upon the\ndensity with which the electrode is covered with the ion, but it\nis not proportional to this density, for the electromotive force\ndoes not increase so rapidly as this density.\n",
+    "mathpix_markdown": "\n--- Page 423 ---\n\nperceived as a force opposed to the current, but we can distin\nguish between the two phenomena by instantaneously removing\n or reversing the electromotive force.\n\n\nThe resisting force is always opposite in direction to the\n current, and the external electromotive force required to over\ncome it is proportional to the strength of the current, and\n changes its direction when the direction of the current is\n changed. If the external electromotive force becomes zero the\n current simply stops.\n\n\nThe electromotive force due to polarization, on the other hand,\n is in a fixed direction, opposed to the current which produced\n it. If the electromotive force which produced the current is\n removed, the polarization produces a current in the opposits\n direction.\n\n\nThe difference between the two phenomena may be compared\n with the difference between forcing a current of water through\n a long capillary tube, and forcing water through a tube of\n moderate bore up into a cistern. In the first case if we\n remove the pressure which produces the flow the current will\n simply stop. In the second case, if we remove the pressure the\n water will begin to flow down again from the cistern.\n\n\nTo make the mechanical illustration more complete, we have\n only to suppose that the cistern is of moderate depth, so that\n when a certain amount of water is raised into it, it begins to\n overflow. This will represent the fact that the total electro\nmotive force due to polarization has a maximum limit.\n\n267.] The cause of polarization appears to be the existence at\n the electrodes of the products of the electrolytic decomposition\n of the fluid between them. The surfaces of the electrodes are\n thus rendered electrically different, and an electromotive force\n between them is called into action, the direction of which is\n opposite to that of the current which caused the polarization.\n\n\nThe ions, which by their presence at the electrodes produce\n the phenomena of polarization, are not in a perfectly free state,\n but are in a condition in which they adhere to the surface of the\n electrodes with considerable force.\n\n\nThe electromotive force due to polarization depends upon the\n density with which the electrode is covered with the ion, but it\n is not proportional to this density, for the electromotive force\n does not increase so rapidly as this density.\n",
+    "structured_lines": [
+      {
+        "page": 423,
+        "line_number": 4,
+        "type": "text",
+        "content": "perceived as a force opposed to the current, but we can distin-",
+        "mathpix_content": "\nperceived as a force opposed to the current, but we can distin",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 5,
+        "type": "text",
+        "content": "guish between the two phenomena by instantaneously removing",
+        "mathpix_content": "guish between the two phenomena by instantaneously removing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 6,
+        "type": "text",
+        "content": "or reversing the electromotive force.",
+        "mathpix_content": " or reversing the electromotive force.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 7,
+        "type": "text",
+        "content": "The resisting force is always opposite in direction to the",
+        "mathpix_content": "\n\nThe resisting force is always opposite in direction to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 8,
+        "type": "text",
+        "content": "current, and the external electromotive force required to over-",
+        "mathpix_content": " current, and the external electromotive force required to over",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 9,
+        "type": "text",
+        "content": "come it is proportional to the strength of the current, and",
+        "mathpix_content": "come it is proportional to the strength of the current, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 10,
+        "type": "text",
+        "content": "changes its direction when the direction of the current is",
+        "mathpix_content": " changes its direction when the direction of the current is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 11,
+        "type": "text",
+        "content": "changed. If the external electromotive force becomes zero the",
+        "mathpix_content": " changed. If the external electromotive force becomes zero the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 12,
+        "type": "text",
+        "content": "current simply stops.",
+        "mathpix_content": " current simply stops.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 13,
+        "type": "text",
+        "content": "The electromotive force due to polarization, on the other hand,",
+        "mathpix_content": "\n\nThe electromotive force due to polarization, on the other hand,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 14,
+        "type": "text",
+        "content": "is in a fixed direction, opposed to the current which produced",
+        "mathpix_content": " is in a fixed direction, opposed to the current which produced",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 15,
+        "type": "text",
+        "content": "it. If the electromotive force which produced the current is",
+        "mathpix_content": " it. If the electromotive force which produced the current is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 16,
+        "type": "text",
+        "content": "removed, the polarization produces a current in the opposits",
+        "mathpix_content": " removed, the polarization produces a current in the opposits",
+        "font_size": 27,
+        "confidence": 0.642578125
+      },
+      {
+        "page": 423,
+        "line_number": 17,
+        "type": "text",
+        "content": "direction.",
+        "mathpix_content": " direction.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 18,
+        "type": "text",
+        "content": "The difference between the two phenomena may be compared",
+        "mathpix_content": "\n\nThe difference between the two phenomena may be compared",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 19,
+        "type": "text",
+        "content": "with the difference between forcing a current of water through",
+        "mathpix_content": " with the difference between forcing a current of water through",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 20,
+        "type": "text",
+        "content": "a long capillary tube, and forcing water through a tube of",
+        "mathpix_content": " a long capillary tube, and forcing water through a tube of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 21,
+        "type": "text",
+        "content": "moderate bore up into a cistern. In the first case if we",
+        "mathpix_content": " moderate bore up into a cistern. In the first case if we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 22,
+        "type": "text",
+        "content": "remove the pressure which produces the flow the current will",
+        "mathpix_content": " remove the pressure which produces the flow the current will",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 423,
+        "line_number": 23,
+        "type": "text",
+        "content": "simply stop. In the second case, if we remove the pressure the",
+        "mathpix_content": " simply stop. In the second case, if we remove the pressure the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 24,
+        "type": "text",
+        "content": "water will begin to flow down again from the cistern.",
+        "mathpix_content": " water will begin to flow down again from the cistern.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 25,
+        "type": "text",
+        "content": "To make the mechanical illustration more complete, we have",
+        "mathpix_content": "\n\nTo make the mechanical illustration more complete, we have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 26,
+        "type": "text",
+        "content": "only to suppose that the cistern is of moderate depth, so that",
+        "mathpix_content": " only to suppose that the cistern is of moderate depth, so that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 27,
+        "type": "text",
+        "content": "when a certain amount of water is raised into it, it begins to",
+        "mathpix_content": " when a certain amount of water is raised into it, it begins to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 28,
+        "type": "text",
+        "content": "overflow. This will represent the fact that the total electro-",
+        "mathpix_content": " overflow. This will represent the fact that the total electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 29,
+        "type": "text",
+        "content": "motive force due to polarization has a maximum limit.",
+        "mathpix_content": "motive force due to polarization has a maximum limit.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 30,
+        "type": "text",
+        "content": "267.] The cause of polarization appears to be the existence at",
+        "mathpix_content": "\n267.] The cause of polarization appears to be the existence at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 31,
+        "type": "text",
+        "content": "the electrodes of the products of the electrolytic decomposition",
+        "mathpix_content": " the electrodes of the products of the electrolytic decomposition",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 32,
+        "type": "text",
+        "content": "of the fluid between them. The surfaces of the electrodes are",
+        "mathpix_content": " of the fluid between them. The surfaces of the electrodes are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 33,
+        "type": "text",
+        "content": "thus rendered electrically different, and an electromotive force",
+        "mathpix_content": " thus rendered electrically different, and an electromotive force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 34,
+        "type": "text",
+        "content": "between them is called into action, the direction of which is",
+        "mathpix_content": " between them is called into action, the direction of which is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 35,
+        "type": "text",
+        "content": "opposite to that of the current which caused the polarization.",
+        "mathpix_content": " opposite to that of the current which caused the polarization.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 36,
+        "type": "text",
+        "content": "The ions, which by their presence at the electrodes produce",
+        "mathpix_content": "\n\nThe ions, which by their presence at the electrodes produce",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 37,
+        "type": "text",
+        "content": "the phenomena of polarization, are not in a perfectly free state,",
+        "mathpix_content": " the phenomena of polarization, are not in a perfectly free state,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 38,
+        "type": "text",
+        "content": "but are in a condition in which they adhere to the surface of the",
+        "mathpix_content": " but are in a condition in which they adhere to the surface of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 39,
+        "type": "text",
+        "content": "electrodes with considerable force.",
+        "mathpix_content": " electrodes with considerable force.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 40,
+        "type": "text",
+        "content": "The electromotive force due to polarization depends upon the",
+        "mathpix_content": "\n\nThe electromotive force due to polarization depends upon the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 41,
+        "type": "text",
+        "content": "density with which the electrode is covered with the ion, but it",
+        "mathpix_content": " density with which the electrode is covered with the ion, but it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 42,
+        "type": "text",
+        "content": "is not proportional to this density, for the electromotive force",
+        "mathpix_content": " is not proportional to this density, for the electromotive force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 423,
+        "line_number": 43,
+        "type": "text",
+        "content": "does not increase so rapidly as this density.",
+        "mathpix_content": " does not increase so rapidly as this density.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

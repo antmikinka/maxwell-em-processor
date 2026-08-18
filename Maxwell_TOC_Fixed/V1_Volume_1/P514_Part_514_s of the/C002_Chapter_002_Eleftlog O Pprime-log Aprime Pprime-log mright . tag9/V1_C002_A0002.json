@@ -1,0 +1,237 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "E\\left(\\log O P^{\\prime}-\\log A^{\\prime} P^{\\prime}-\\log m\\right) . \\tag{9}",
+  "title_safe": "Eleftlog O Pprime-log Aprime Pprime-log mright . tag9",
+  "page_start": 326,
+  "page_end": 326,
+  "content": {
+    "raw_text": "\n--- Page 326 ---\n189.]\nELECTRIC IMAGES IN TWO DIMENSIONS.\n291\n\nInversion in Two Dimensions.\nIn this case if $r$ and $r^{\\prime}$ represent the distances of corresponding\npoints from $O, e$ and $e^{\\prime}$ the total electrification of a body, $S$ and $S^{\\prime \\prime}$\nsuperficial elements, $V$ and $V^{\\prime}$ solid elements, $\\sigma$ and $\\sigma^{\\prime}$ surface-\ndensities, $\\rho$ and $\\rho^{\\prime}$ volume densities, $\\phi$ and $\\psi^{\\prime}$ corresponding poten-\ntials,\n$$\\begin{aligned}\n& r^{\\prime}=\\frac{\\grave{s}^{\\prime}}{S}=\\frac{a^{2}}{r^{2}}=\\frac{r^{\\prime 2}}{a^{2}}, \\quad V^{\\prime}=\\frac{a^{4}}{r^{4}}=\\frac{r^{\\prime 4}}{a^{4}} \\\\\n& \\frac{e^{\\prime}}{e}=1, \\quad \\frac{\\sigma^{\\prime}}{\\sigma}=\\frac{r^{2}}{a^{2}}=\\frac{a^{2}}{r^{\\prime 2}}, \\quad \\frac{\\rho^{\\prime}}{\\rho}=\\frac{r^{4}}{a^{4}}=\\frac{a^{4}}{r^{4}}\n\\end{aligned}$$\n( 7 )\nand since by hypothesis $\\phi^{\\prime}$ is got from $\\phi$ by expressing\nthe old variables in terms of the new, $\\frac{\\phi^{\\prime}}{\\phi}=1$.\nExample II.-Electric Images in Two Dimensions.\n189.] Let $A$ be the centre of a circle of radius $A Q=b$ at zero\npotential, and let $E$ be a charge at $A$,\nthen the potential at any point $P$ is\n$$\\phi=2 E^{\\prime} \\log \\frac{b}{A P^{\\prime}} ;$$\n(8)\nand if the circle is a section of a\nhollow conducting cylinder, the surface-\ndensity at any point $Q$ is $-\\frac{E}{2 \\pi} \\frac{}{b}$.\n\n\nFig. 17.\nInvert the system with respect to a point $O$, making\n$$A O=m b, \\text { and } \\alpha^{2}=\\left(m^{2}-1\\right) b^{2} ;$$\nthen the circle inverts into itself and we have a charge at $A^{\\prime}$\nequal to that at $A$, where\n$$A A^{\\prime}=\\frac{b}{m} .$$\nThe density at $Q^{\\prime}$ is\n$$-\\underset{2 \\pi b}{E} \\frac{b^{2}-\\left.\\bar{A} \\bar{A}^{\\prime}\\right|^{2}}{A^{\\prime} Q^{\\prime 2}},$$\nand the potential at any point $P^{\\prime}$ within the circle is\n$$\\begin{aligned}\n\\psi^{\\prime}=\\phi & =2 E(\\log b-\\log A P), \\\\\n& =2 E\\left(\\log O P^{\\prime}-\\log A^{\\prime} P^{\\prime}-\\log m\\right) .\n\\end{aligned}$$\n(9)\nThis is equivalent to the potential arising from a combination\nof a charge $E$ at $A^{\\prime}$, and a charge $-E$ at $O$, which is the image\nof $A^{\\prime}$ with respect to the circle. The imaginary charge at $O$ is\nthus equal and opposite to that at $A^{\\prime}$.\nU 2\n",
+    "mathpix_markdown": "\n--- Page 326 ---\n\n\n\\section*{Inversion in Two Dimensions.}\n\n\nIn this case if $r$ and $r^{\\prime}$ represent the distances of corresponding\n points from $O, e$ and $e^{\\prime}$ the total electrification of a body, $S$ and $S^{\\prime \\prime}$\n superficial elements, $V$ and $V^{\\prime}$ solid elements, $\\sigma$ and $\\sigma^{\\prime}$ surface\ndensities, $\\rho$ and $\\rho^{\\prime}$ volume densities, $\\phi$ and $\\psi^{\\prime}$ corresponding poten\ntials,\n\n$$\\begin{align*}\n& r^{\\prime}=\\frac{\\grave{s}^{\\prime}}{S}=\\frac{a^{2}}{r^{2}}=\\frac{r^{\\prime 2}}{a^{2}}, \\quad V^{\\prime}=\\frac{a^{4}}{r^{4}}=\\frac{r^{\\prime 4}}{a^{4}} \\\\\n& \\frac{e^{\\prime}}{e}=1, \\quad \\frac{\\sigma^{\\prime}}{\\sigma}=\\frac{r^{2}}{a^{2}}=\\frac{a^{2}}{r^{\\prime 2}}, \\quad \\frac{\\rho^{\\prime}}{\\rho}=\\frac{r^{4}}{a^{4}}=\\frac{a^{4}}{r^{4}} \\tag{7}\n\\end{align*}$$\n\nand since by hypothesis $\\phi^{\\prime}$ is got from $\\phi$ by expressing\n the old variables in terms of the new, $\\frac{\\phi^{\\prime}}{\\phi}=1$.\n\n\nExample II.-Electric Images in Two Dimensions.\n\n189.] Let $A$ be the centre of a circle of radius $A Q=b$ at zero\n potential, and let $E$ be a charge at $A$,\n then the potential at any point $P$ is\n\n$$\\begin{equation*}\n\\phi=2 E^{\\prime} \\log \\frac{b}{A P^{\\prime}} ; \\tag{8}\n\\end{equation*}$$\n\nand if the circle is a section of a\n hollow conducting cylinder, the surface\ndensity at any point $Q$ is $-\\frac{E}{2 \\pi} \\frac{}{b}$.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-326.jpg?height=218&width=355&top_left_y=900&top_left_x=773}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 17.}\n\\end{figure}\n\n\nInvert the system with respect to a point $O$, making\n\n$$A O=m b, \\text { and } \\alpha^{2}=\\left(m^{2}-1\\right) b^{2} ;$$\n\nthen the circle inverts into itself and we have a charge at $A^{\\prime}$\n equal to that at $A$, where\n\n$$A A^{\\prime}=\\frac{b}{m} .$$\n\n\nThe density at $Q^{\\prime}$ is\n\n$$-\\underset{2 \\pi b}{E} \\frac{b^{2}-\\left.\\bar{A} \\bar{A}^{\\prime}\\right|^{2}}{A^{\\prime} Q^{\\prime 2}},$$\n\nand the potential at any point $P^{\\prime}$ within the circle is\n\n$$\\begin{align*}\n\\psi^{\\prime}=\\phi & =2 E(\\log b-\\log A P), \\\\\n& =2 E\\left(\\log O P^{\\prime}-\\log A^{\\prime} P^{\\prime}-\\log m\\right) . \\tag{9}\n\\end{align*}$$\n\n\nThis is equivalent to the potential arising from a combination\n of a charge $E$ at $A^{\\prime}$, and a charge $-E$ at $O$, which is the image\n of $A^{\\prime}$ with respect to the circle. The imaginary charge at $O$ is\n thus equal and opposite to that at $A^{\\prime}$.\n",
+    "structured_lines": [
+      {
+        "page": 326,
+        "line_number": 5,
+        "type": "text",
+        "content": "Inversion in Two Dimensions.",
+        "mathpix_content": "\n\n\\section*{Inversion in Two Dimensions.}",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 6,
+        "type": "text",
+        "content": "In this case if $r$ and $r^{\\prime}$ represent the distances of corresponding",
+        "mathpix_content": "\n\nIn this case if $r$ and $r^{\\prime}$ represent the distances of corresponding",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 7,
+        "type": "text",
+        "content": "points from $O, e$ and $e^{\\prime}$ the total electrification of a body, $S$ and $S^{\\prime \\prime}$",
+        "mathpix_content": " points from $O, e$ and $e^{\\prime}$ the total electrification of a body, $S$ and $S^{\\prime \\prime}$",
+        "font_size": 33,
+        "confidence": 0.9655896479388546
+      },
+      {
+        "page": 326,
+        "line_number": 8,
+        "type": "text",
+        "content": "superficial elements, $V$ and $V^{\\prime}$ solid elements, $\\sigma$ and $\\sigma^{\\prime}$ surface-",
+        "mathpix_content": " superficial elements, $V$ and $V^{\\prime}$ solid elements, $\\sigma$ and $\\sigma^{\\prime}$ surface",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 9,
+        "type": "text",
+        "content": "densities, $\\rho$ and $\\rho^{\\prime}$ volume densities, $\\phi$ and $\\psi^{\\prime}$ corresponding poten-",
+        "mathpix_content": "densities, $\\rho$ and $\\rho^{\\prime}$ volume densities, $\\phi$ and $\\psi^{\\prime}$ corresponding poten",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 326,
+        "line_number": 10,
+        "type": "text",
+        "content": "tials,",
+        "mathpix_content": "tials,",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 326,
+        "line_number": 15,
+        "type": "text",
+        "content": "and since by hypothesis $\\phi^{\\prime}$ is got from $\\phi$ by expressing",
+        "mathpix_content": "\nand since by hypothesis $\\phi^{\\prime}$ is got from $\\phi$ by expressing",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 16,
+        "type": "text",
+        "content": "the old variables in terms of the new, $\\frac{\\phi^{\\prime}}{\\phi}=1$.",
+        "mathpix_content": " the old variables in terms of the new, $\\frac{\\phi^{\\prime}}{\\phi}=1$.",
+        "font_size": 26,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 326,
+        "line_number": 17,
+        "type": "text",
+        "content": "Example II.-Electric Images in Two Dimensions.",
+        "mathpix_content": "\n\nExample II.-Electric Images in Two Dimensions.",
+        "font_size": 26,
+        "confidence": 0.88525390625
+      },
+      {
+        "page": 326,
+        "line_number": 18,
+        "type": "text",
+        "content": "189.] Let $A$ be the centre of a circle of radius $A Q=b$ at zero",
+        "mathpix_content": "\n189.] Let $A$ be the centre of a circle of radius $A Q=b$ at zero",
+        "font_size": 26,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 326,
+        "line_number": 19,
+        "type": "text",
+        "content": "potential, and let $E$ be a charge at $A$,",
+        "mathpix_content": " potential, and let $E$ be a charge at $A$,",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 20,
+        "type": "text",
+        "content": "then the potential at any point $P$ is",
+        "mathpix_content": " then the potential at any point $P$ is",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 24,
+        "type": "text",
+        "content": "and if the circle is a section of a",
+        "mathpix_content": "\nand if the circle is a section of a",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 25,
+        "type": "text",
+        "content": "hollow conducting cylinder, the surface-",
+        "mathpix_content": " hollow conducting cylinder, the surface",
+        "font_size": 26,
+        "confidence": 0.9873046875
+      },
+      {
+        "page": 326,
+        "line_number": 26,
+        "type": "text",
+        "content": "density at any point $Q$ is $-\\frac{E}{2 \\pi} \\frac{}{b}$.",
+        "mathpix_content": "density at any point $Q$ is $-\\frac{E}{2 \\pi} \\frac{}{b}$.",
+        "font_size": 26,
+        "confidence": 0.09258424874172244
+      },
+      {
+        "page": 326,
+        "line_number": 30,
+        "type": "text",
+        "content": "Invert the system with respect to a point $O$, making",
+        "mathpix_content": "\n\nInvert the system with respect to a point $O$, making",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 33,
+        "type": "text",
+        "content": "then the circle inverts into itself and we have a charge at $A^{\\prime}$",
+        "mathpix_content": "\nthen the circle inverts into itself and we have a charge at $A^{\\prime}$",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 34,
+        "type": "text",
+        "content": "equal to that at $A$, where",
+        "mathpix_content": " equal to that at $A$, where",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 37,
+        "type": "text",
+        "content": "The density at $Q^{\\prime}$ is",
+        "mathpix_content": "\n\nThe density at $Q^{\\prime}$ is",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 40,
+        "type": "text",
+        "content": "and the potential at any point $P^{\\prime}$ within the circle is",
+        "mathpix_content": "\nand the potential at any point $P^{\\prime}$ within the circle is",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 45,
+        "type": "text",
+        "content": "This is equivalent to the potential arising from a combination",
+        "mathpix_content": "\n\nThis is equivalent to the potential arising from a combination",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 46,
+        "type": "text",
+        "content": "of a charge $E$ at $A^{\\prime}$, and a charge $-E$ at $O$, which is the image",
+        "mathpix_content": " of a charge $E$ at $A^{\\prime}$, and a charge $-E$ at $O$, which is the image",
+        "font_size": 26,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 326,
+        "line_number": 47,
+        "type": "text",
+        "content": "of $A^{\\prime}$ with respect to the circle. The imaginary charge at $O$ is",
+        "mathpix_content": " of $A^{\\prime}$ with respect to the circle. The imaginary charge at $O$ is",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 326,
+        "line_number": 48,
+        "type": "text",
+        "content": "thus equal and opposite to that at $A^{\\prime}$.",
+        "mathpix_content": " thus equal and opposite to that at $A^{\\prime}$.",
+        "font_size": 26,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "article_id": "article_8",
+  "article_number": 8,
+  "title_original": "} .$$",
+  "title_safe": "Article",
+  "page_start": 436,
+  "page_end": 436,
+  "content": {
+    "raw_text": "\n--- Page 436 ---\n277.]\nSPECIFIC RESISTANCE AND CONDUCTIVITY.\n401\nLet the resistances of these conductors be $R_{1}, R_{2}, R_{3}$ respect-\nively, and the currents $C_{1}, C_{2}, C_{3}$, and let the resistance of the\nmultiple conductor be $R$, and the total current $C$. Then, since\nthe potentials at $A$ and $Z$ are the same for all the conductors,\nthey have the same difference, which we may call $E$. We then\nhave\n$$E=C_{1} R_{1}=C_{2} R_{2}=C_{3} R_{3}=C R,$$\nbut\n$$C=C_{1}+C_{2}+C_{3},$$\nwhence\n$$\\frac{1}{R}=\\frac{1}{R_{1}}+\\frac{1}{R_{2}}+\\frac{1}{R_{3}}$$\n(7)\nOr, the reciprocal of the resistance of a multiple conductor is the\nsum of the reciprocals of the component conductors.\nIf we call the reciprocal of the resistance of a conductor the\nconductivity of the conductor, then we may say that the con-\nductivity of a multiple conductor is the sum of the conductivities\nof the component conductors.\n\nCurrent in any Branch of a Multiple Conductor.\nFrom the equations of the preceding article, it appears that if\n$C_{1}$ is the current in any branch of the multiple conductor, and\n$R_{1}$ the resistance of that branch,\n$$C_{1}=C \\frac{R}{R_{1}},$$\n(8)\nwhere $C$ is the total current, and $R$ is the resistance of the\nmultiple conductor as previously determined.\n\nLongitudinal Resistance of Conductors of Uniform Section.\n277.] Let the resistance of a cube of a given material to a\ncurrent parallel to one of its edges be $\\dot{\\rho}$, the side of the cube\nbeing unit of length, $\\rho$ is called the 'specific resistance of that\nmaterial for unit of volume.'\nConsider next a prismatic conductor of the same material\nwhose length is $l$, and whose section is unity. This is equi-\nvalent to $l$ cubes arranged in series. The resistance of the\nconductor is therefore $l_{\\rho}$.\nFinally, consider a conductor of length $l$ and uniform section $s$.\nThis is equivalent to 8 conductors similar to the last arranged in\nmultiple arc. The resistance of this conductor is therefore\n$$R=\\frac{l_{\\rho}}{8} .$$\nVOL. I.\nD d\n",
+    "mathpix_markdown": "\n--- Page 436 ---\n\n\nLet the resistances of these conductors be $R_{1}, R_{2}, R_{3}$ respect\nively, and the currents $C_{1}, C_{2}, C_{3}$, and let the resistance of the\n multiple conductor be $R$, and the total current $C$. Then, since\n the potentials at $A$ and $Z$ are the same for all the conductors,\n they have the same difference, which we may call $E$. We then\n have\n\n$$E=C_{1} R_{1}=C_{2} R_{2}=C_{3} R_{3}=C R,$$\n\nbut\n\n$$C=C_{1}+C_{2}+C_{3},$$\n\nwhence\n\n$$\\begin{equation*}\n\\frac{1}{R}=\\frac{1}{R_{1}}+\\frac{1}{R_{2}}+\\frac{1}{R_{3}} \\tag{7}\n\\end{equation*}$$\n\n\nOr, the reciprocal of the resistance of a multiple conductor is the\n sum of the reciprocals of the component conductors.\n\n\nIf we call the reciprocal of the resistance of a conductor the\n conductivity of the conductor, then we may say that the con\nductivity of a multiple conductor is the sum of the conductivities\n of the component conductors.\n\n\n\\section*{Current in any Branch of a Multiple Conductor.}\n\n\nFrom the equations of the preceding article, it appears that if\n $C_{1}$ is the current in any branch of the multiple conductor, and\n $R_{1}$ the resistance of that branch,\n\n$$\\begin{equation*}\nC_{1}=C \\frac{R}{R_{1}}, \\tag{8}\n\\end{equation*}$$\n\nwhere $C$ is the total current, and $R$ is the resistance of the\n multiple conductor as previously determined.\n\n\n\\section*{Longitudinal Resistance of Conductors of Uniform Section.}\n\n277.] Let the resistance of a cube of a given material to a\n current parallel to one of its edges be $\\dot{\\rho}$, the side of the cube\n being unit of length, $\\rho$ is called the 'specific resistance of that\n material for unit of volume.'\n\n\nConsider next a prismatic conductor of the same material\n whose length is $l$, and whose section is unity. This is equi\nvalent to $l$ cubes arranged in series. The resistance of the\n conductor is therefore $l_{\\rho}$.\n\n\nFinally, consider a conductor of length $l$ and uniform section $s$.\n This is equivalent to 8 conductors similar to the last arranged in\n multiple arc. The resistance of this conductor is therefore\n\n$$R=\\frac{l_{\\rho}}{8} .$$\n",
+    "structured_lines": [
+      {
+        "page": 436,
+        "line_number": 4,
+        "type": "text",
+        "content": "Let the resistances of these conductors be $R_{1}, R_{2}, R_{3}$ respect-",
+        "mathpix_content": "\n\nLet the resistances of these conductors be $R_{1}, R_{2}, R_{3}$ respect",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 5,
+        "type": "text",
+        "content": "ively, and the currents $C_{1}, C_{2}, C_{3}$, and let the resistance of the",
+        "mathpix_content": "ively, and the currents $C_{1}, C_{2}, C_{3}$, and let the resistance of the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 436,
+        "line_number": 6,
+        "type": "text",
+        "content": "multiple conductor be $R$, and the total current $C$. Then, since",
+        "mathpix_content": " multiple conductor be $R$, and the total current $C$. Then, since",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 7,
+        "type": "text",
+        "content": "the potentials at $A$ and $Z$ are the same for all the conductors,",
+        "mathpix_content": " the potentials at $A$ and $Z$ are the same for all the conductors,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 8,
+        "type": "text",
+        "content": "they have the same difference, which we may call $E$. We then",
+        "mathpix_content": " they have the same difference, which we may call $E$. We then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 9,
+        "type": "text",
+        "content": "have",
+        "mathpix_content": " have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 12,
+        "type": "text",
+        "content": "but",
+        "mathpix_content": "\nbut",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 15,
+        "type": "text",
+        "content": "whence",
+        "mathpix_content": "\nwhence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 19,
+        "type": "text",
+        "content": "Or, the reciprocal of the resistance of a multiple conductor is the",
+        "mathpix_content": "\n\nOr, the reciprocal of the resistance of a multiple conductor is the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 436,
+        "line_number": 20,
+        "type": "text",
+        "content": "sum of the reciprocals of the component conductors.",
+        "mathpix_content": " sum of the reciprocals of the component conductors.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 21,
+        "type": "text",
+        "content": "If we call the reciprocal of the resistance of a conductor the",
+        "mathpix_content": "\n\nIf we call the reciprocal of the resistance of a conductor the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 22,
+        "type": "text",
+        "content": "conductivity of the conductor, then we may say that the con-",
+        "mathpix_content": " conductivity of the conductor, then we may say that the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 23,
+        "type": "text",
+        "content": "ductivity of a multiple conductor is the sum of the conductivities",
+        "mathpix_content": "ductivity of a multiple conductor is the sum of the conductivities",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 24,
+        "type": "text",
+        "content": "of the component conductors.",
+        "mathpix_content": " of the component conductors.",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 436,
+        "line_number": 26,
+        "type": "text",
+        "content": "Current in any Branch of a Multiple Conductor.",
+        "mathpix_content": "\n\n\\section*{Current in any Branch of a Multiple Conductor.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 27,
+        "type": "text",
+        "content": "From the equations of the preceding article, it appears that if",
+        "mathpix_content": "\n\nFrom the equations of the preceding article, it appears that if",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 436,
+        "line_number": 28,
+        "type": "text",
+        "content": "$C_{1}$ is the current in any branch of the multiple conductor, and",
+        "mathpix_content": " $C_{1}$ is the current in any branch of the multiple conductor, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 29,
+        "type": "text",
+        "content": "$R_{1}$ the resistance of that branch,",
+        "mathpix_content": " $R_{1}$ the resistance of that branch,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 33,
+        "type": "text",
+        "content": "where $C$ is the total current, and $R$ is the resistance of the",
+        "mathpix_content": "\nwhere $C$ is the total current, and $R$ is the resistance of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 34,
+        "type": "text",
+        "content": "multiple conductor as previously determined.",
+        "mathpix_content": " multiple conductor as previously determined.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 36,
+        "type": "text",
+        "content": "Longitudinal Resistance of Conductors of Uniform Section.",
+        "mathpix_content": "\n\n\\section*{Longitudinal Resistance of Conductors of Uniform Section.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 37,
+        "type": "text",
+        "content": "277.] Let the resistance of a cube of a given material to a",
+        "mathpix_content": "\n277.] Let the resistance of a cube of a given material to a",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 436,
+        "line_number": 38,
+        "type": "text",
+        "content": "current parallel to one of its edges be $\\dot{\\rho}$, the side of the cube",
+        "mathpix_content": " current parallel to one of its edges be $\\dot{\\rho}$, the side of the cube",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 39,
+        "type": "text",
+        "content": "being unit of length, $\\rho$ is called the 'specific resistance of that",
+        "mathpix_content": " being unit of length, $\\rho$ is called the 'specific resistance of that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 40,
+        "type": "text",
+        "content": "material for unit of volume.'",
+        "mathpix_content": " material for unit of volume.'",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 436,
+        "line_number": 41,
+        "type": "text",
+        "content": "Consider next a prismatic conductor of the same material",
+        "mathpix_content": "\n\nConsider next a prismatic conductor of the same material",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 42,
+        "type": "text",
+        "content": "whose length is $l$, and whose section is unity. This is equi-",
+        "mathpix_content": " whose length is $l$, and whose section is unity. This is equi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 43,
+        "type": "text",
+        "content": "valent to $l$ cubes arranged in series. The resistance of the",
+        "mathpix_content": "valent to $l$ cubes arranged in series. The resistance of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 44,
+        "type": "text",
+        "content": "conductor is therefore $l_{\\rho}$.",
+        "mathpix_content": " conductor is therefore $l_{\\rho}$.",
+        "font_size": 27,
+        "confidence": 0.64404296875
+      },
+      {
+        "page": 436,
+        "line_number": 45,
+        "type": "text",
+        "content": "Finally, consider a conductor of length $l$ and uniform section $s$.",
+        "mathpix_content": "\n\nFinally, consider a conductor of length $l$ and uniform section $s$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 46,
+        "type": "text",
+        "content": "This is equivalent to 8 conductors similar to the last arranged in",
+        "mathpix_content": " This is equivalent to 8 conductors similar to the last arranged in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 436,
+        "line_number": 47,
+        "type": "text",
+        "content": "multiple arc. The resistance of this conductor is therefore",
+        "mathpix_content": " multiple arc. The resistance of this conductor is therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

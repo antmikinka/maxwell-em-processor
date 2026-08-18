@@ -1,0 +1,264 @@
+{
+  "article_id": "article_1845",
+  "article_number": 1845,
+  "title_original": ", or Reprint, art. ix. \u00a7 156.",
+  "title_safe": "or Reprint art. ix. \u00a7 156",
+  "page_start": 480,
+  "page_end": 480,
+  "content": {
+    "raw_text": "\n--- Page 480 ---\n319.]\nSTRATIFIED OONDUOTORS.\n445\nIf the first medium is the same as the third, then $k_{1}=k_{3}$ and\n$\\rho=\\rho^{\\prime}$, and the potential on the other side of the plate will be\n$$V=\\left(1-\\rho^{2}\\right) E\\left\\{\\frac{1}{P S}+\\frac{\\rho^{2}}{P J_{1}}+\\text { \\&c. }+\\frac{\\rho^{2 n}}{P J_{n}}+\\ldots\\right\\} .$$\n(17)\nIf the plate is a very much better conductor than the rest of\nthe medium, $\\rho$ is very nearly equal to 1 . If the plate is a nearly\nperfect insulator, $\\rho$ is nearly equal to -1 , and if the plate differs\nlittle in conducting power from the rest of the medium, $\\rho$ is a\nsmall quantity positive or negative.\nThe theory of this case was first stated by Green in his\n'Theory of Magnetic Induction' (Essay, p. 65). His result,\nhowever, is correct only when $\\rho$ is nearly equal to $1^{*}$. The\nquantity $g$ which he uses is connected with $\\rho$ by the equations\n$$g=\\frac{2 \\rho}{3-\\rho}=\\frac{k_{1}-k_{2}}{k_{1}+2 k_{2}}, \\quad \\rho=\\frac{3 g}{2+g}=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}} .$$\nIf we put $\\rho=\\frac{2 \\pi \\kappa}{1+2 \\pi \\kappa}$, we shall have a solution of the problem\nof the magnetic induction excited by a magnetic pole in an\ninfinite plate whose coefficient of magnetization is $\\kappa$.\n\nOn Stratified Conductors.\n319.] Let a conductor be composed of alternate strata of\nthicknesses $c$ and $c^{\\prime}$ of two substances whose coefficients of con-\nductivity are different. Required the coefficients of resistance\nand conductivity of the compound conductor.\nLet the planes of the strata be normal to $z$. Let every symbol\nrelating to the strata of the second kind be accented, and let\nevery symbol relating to the compound conductor be marked\nwith a bar thus, $\\bar{X}$. Then\n$$\\begin{aligned}\n\\bar{X} & =X=X^{\\prime}, & & \\left(c+c^{\\prime}\\right) \\bar{u}=c u+c^{\\prime} u^{\\prime} \\\\\n\\bar{Y} & =Y=Y^{\\prime}, & & \\left(c+c^{\\prime}\\right) \\bar{v}=c v+c^{\\prime} v^{\\prime} \\\\\n\\left(c+c^{\\prime}\\right) \\bar{Z} & =c Z+c^{\\prime} Z^{\\prime}, & & \\bar{w}=w=w^{\\prime}\n\\end{aligned}$$\nWe must first determine $u, u,,^{\\prime} v, v,{ }^{\\prime} Z$ and $Z^{\\prime}$ in terms of\n$\\bar{X}, \\bar{Y}$ and $\\bar{w}$ from the equations of resistance, Art. 297, or those\n\n* See Sir W. Thomson's 'Note on Induced Magnetism in a Plate,' Camb. and\nDub. Math. Journ., Nov. 1845, or Reprint, art. ix. \u00a7 156.\n",
+    "mathpix_markdown": "\n--- Page 480 ---\n\n\nIf the first medium is the same as the third, then $k_{1}=k_{3}$ and\n $\\rho=\\rho^{\\prime}$, and the potential on the other side of the plate will be\n\n$$\\begin{equation*}\nV=\\left(1-\\rho^{2}\\right) E\\left\\{\\frac{1}{P S}+\\frac{\\rho^{2}}{P J_{1}}+\\text { \\&c. }+\\frac{\\rho^{2 n}}{P J_{n}}+\\ldots\\right\\} . \\tag{17}\n\\end{equation*}$$\n\n\nIf the plate is a very much better conductor than the rest of\n the medium, $\\rho$ is very nearly equal to 1 . If the plate is a nearly\n perfect insulator, $\\rho$ is nearly equal to -1 , and if the plate differs\n little in conducting power from the rest of the medium, $\\rho$ is a\n small quantity positive or negative.\n\n\nThe theory of this case was first stated by Green in his\n 'Theory of Magnetic Induction' (Essay, p. 65). His result,\n however, is correct only when $\\rho$ is nearly equal to $1^{*}$. The\n quantity $g$ which he uses is connected with $\\rho$ by the equations\n\n$$g=\\frac{2 \\rho}{3-\\rho}=\\frac{k_{1}-k_{2}}{k_{1}+2 k_{2}}, \\quad \\rho=\\frac{3 g}{2+g}=\\frac{k_{1}-k_{2}}{k_{1}+k_{2}} .$$\n\n\nIf we put $\\rho=\\frac{2 \\pi \\kappa}{1+2 \\pi \\kappa}$, we shall have a solution of the problem\n of the magnetic induction excited by a magnetic pole in an\n infinite plate whose coefficient of magnetization is $\\kappa$.\n\n\n\\section*{On Stratified Conductors.}\n\n319.] Let a conductor be composed of alternate strata of\n thicknesses $c$ and $c^{\\prime}$ of two substances whose coefficients of con\nductivity are different. Required the coefficients of resistance\n and conductivity of the compound conductor.\n\n\nLet the planes of the strata be normal to $z$. Let every symbol\n relating to the strata of the second kind be accented, and let\n every symbol relating to the compound conductor be marked\n with a bar thus, $\\bar{X}$. Then\n\n$$\\begin{aligned}\n\\bar{X} & =X=X^{\\prime}, & & \\left(c+c^{\\prime}\\right) \\bar{u}=c u+c^{\\prime} u^{\\prime} \\\\\n\\bar{Y} & =Y=Y^{\\prime}, & & \\left(c+c^{\\prime}\\right) \\bar{v}=c v+c^{\\prime} v^{\\prime} \\\\\n\\left(c+c^{\\prime}\\right) \\bar{Z} & =c Z+c^{\\prime} Z^{\\prime}, & & \\bar{w}=w=w^{\\prime}\n\\end{aligned}$$\n\n\nWe must first determine $u, u,,^{\\prime} v, v,{ }^{\\prime} Z$ and $Z^{\\prime}$ in terms of\n $\\bar{X}, \\bar{Y}$ and $\\bar{w}$ from the equations of resistance, Art. 297, or those\n\n\n\\footnotetext{\n* See Sir W. Thomson's 'Note on Induced Magnetism in a Plate,' Camb. and\n Dub. Math. Journ., Nov. 1845, or Reprint, art. ix. \u00a7 156.\n}\n",
+    "structured_lines": [
+      {
+        "page": 480,
+        "line_number": 4,
+        "type": "text",
+        "content": "If the first medium is the same as the third, then $k_{1}=k_{3}$ and",
+        "mathpix_content": "\n\nIf the first medium is the same as the third, then $k_{1}=k_{3}$ and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 5,
+        "type": "text",
+        "content": "$\\rho=\\rho^{\\prime}$, and the potential on the other side of the plate will be",
+        "mathpix_content": " $\\rho=\\rho^{\\prime}$, and the potential on the other side of the plate will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 9,
+        "type": "text",
+        "content": "If the plate is a very much better conductor than the rest of",
+        "mathpix_content": "\n\nIf the plate is a very much better conductor than the rest of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 10,
+        "type": "text",
+        "content": "the medium, $\\rho$ is very nearly equal to 1 . If the plate is a nearly",
+        "mathpix_content": " the medium, $\\rho$ is very nearly equal to 1 . If the plate is a nearly",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 11,
+        "type": "text",
+        "content": "perfect insulator, $\\rho$ is nearly equal to -1 , and if the plate differs",
+        "mathpix_content": " perfect insulator, $\\rho$ is nearly equal to -1 , and if the plate differs",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 12,
+        "type": "text",
+        "content": "little in conducting power from the rest of the medium, $\\rho$ is a",
+        "mathpix_content": " little in conducting power from the rest of the medium, $\\rho$ is a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 13,
+        "type": "text",
+        "content": "small quantity positive or negative.",
+        "mathpix_content": " small quantity positive or negative.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 14,
+        "type": "text",
+        "content": "The theory of this case was first stated by Green in his",
+        "mathpix_content": "\n\nThe theory of this case was first stated by Green in his",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 15,
+        "type": "text",
+        "content": "'Theory of Magnetic Induction' (Essay, p. 65). His result,",
+        "mathpix_content": " 'Theory of Magnetic Induction' (Essay, p. 65). His result,",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 480,
+        "line_number": 16,
+        "type": "text",
+        "content": "however, is correct only when $\\rho$ is nearly equal to $1^{*}$. The",
+        "mathpix_content": " however, is correct only when $\\rho$ is nearly equal to $1^{*}$. The",
+        "font_size": 27,
+        "confidence": 0.6608161926269531
+      },
+      {
+        "page": 480,
+        "line_number": 17,
+        "type": "text",
+        "content": "quantity $g$ which he uses is connected with $\\rho$ by the equations",
+        "mathpix_content": " quantity $g$ which he uses is connected with $\\rho$ by the equations",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 20,
+        "type": "text",
+        "content": "If we put $\\rho=\\frac{2 \\pi \\kappa}{1+2 \\pi \\kappa}$, we shall have a solution of the problem",
+        "mathpix_content": "\n\nIf we put $\\rho=\\frac{2 \\pi \\kappa}{1+2 \\pi \\kappa}$, we shall have a solution of the problem",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 480,
+        "line_number": 21,
+        "type": "text",
+        "content": "of the magnetic induction excited by a magnetic pole in an",
+        "mathpix_content": " of the magnetic induction excited by a magnetic pole in an",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 22,
+        "type": "text",
+        "content": "infinite plate whose coefficient of magnetization is $\\kappa$.",
+        "mathpix_content": " infinite plate whose coefficient of magnetization is $\\kappa$.",
+        "font_size": 27,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 480,
+        "line_number": 24,
+        "type": "text",
+        "content": "On Stratified Conductors.",
+        "mathpix_content": "\n\n\\section*{On Stratified Conductors.}",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 480,
+        "line_number": 25,
+        "type": "text",
+        "content": "319.] Let a conductor be composed of alternate strata of",
+        "mathpix_content": "\n319.] Let a conductor be composed of alternate strata of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 26,
+        "type": "text",
+        "content": "thicknesses $c$ and $c^{\\prime}$ of two substances whose coefficients of con-",
+        "mathpix_content": " thicknesses $c$ and $c^{\\prime}$ of two substances whose coefficients of con",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 480,
+        "line_number": 27,
+        "type": "text",
+        "content": "ductivity are different. Required the coefficients of resistance",
+        "mathpix_content": "ductivity are different. Required the coefficients of resistance",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 28,
+        "type": "text",
+        "content": "and conductivity of the compound conductor.",
+        "mathpix_content": " and conductivity of the compound conductor.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 29,
+        "type": "text",
+        "content": "Let the planes of the strata be normal to $z$. Let every symbol",
+        "mathpix_content": "\n\nLet the planes of the strata be normal to $z$. Let every symbol",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 480,
+        "line_number": 30,
+        "type": "text",
+        "content": "relating to the strata of the second kind be accented, and let",
+        "mathpix_content": " relating to the strata of the second kind be accented, and let",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 31,
+        "type": "text",
+        "content": "every symbol relating to the compound conductor be marked",
+        "mathpix_content": " every symbol relating to the compound conductor be marked",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 32,
+        "type": "text",
+        "content": "with a bar thus, $\\bar{X}$. Then",
+        "mathpix_content": " with a bar thus, $\\bar{X}$. Then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 37,
+        "type": "text",
+        "content": "We must first determine $u, u,,^{\\prime} v, v,{ }^{\\prime} Z$ and $Z^{\\prime}$ in terms of",
+        "mathpix_content": "\n\nWe must first determine $u, u,,^{\\prime} v, v,{ }^{\\prime} Z$ and $Z^{\\prime}$ in terms of",
+        "font_size": 27,
+        "confidence": 0.6278610825538635
+      },
+      {
+        "page": 480,
+        "line_number": 38,
+        "type": "text",
+        "content": "$\\bar{X}, \\bar{Y}$ and $\\bar{w}$ from the equations of resistance, Art. 297, or those",
+        "mathpix_content": " $\\bar{X}, \\bar{Y}$ and $\\bar{w}$ from the equations of resistance, Art. 297, or those",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 480,
+        "line_number": 40,
+        "type": "text",
+        "content": "* See Sir W. Thomson's 'Note on Induced Magnetism in a Plate,' Camb. and",
+        "mathpix_content": "\n\n\\footnotetext{\n* See Sir W. Thomson's 'Note on Induced Magnetism in a Plate,' Camb. and",
+        "font_size": 21,
+        "confidence": 0.823889083412098
+      },
+      {
+        "page": 480,
+        "line_number": 41,
+        "type": "text",
+        "content": "Dub. Math. Journ., Nov. 1845, or Reprint, art. ix. \u00a7 156.",
+        "mathpix_content": " Dub. Math. Journ., Nov. 1845, or Reprint, art. ix. \u00a7 156.\n}",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "article_id": "article_271",
+  "article_number": 271,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 537,
+  "page_end": 537,
+  "content": {
+    "raw_text": "\n--- Page 537 ---\n502\nRESISTANCE OF SUBSTANCES.\n[366.\nin the manufacture of telegraphic cables, have been made in\norder to ascertain the value of these materials as insulators.\nThe tests are generally applied to the material after it has\nbeen used to cover the conducting wire, the wire being used\nas one electrode, and the water of a tank, in which the cable is\nplunged, as the other. Thus the current is made to pass through\na cylindrical coating of the insulator of great area and small\nthickness.\nIt is found that when the electromotive force begins to act,\nthe current, as indicated by the galvanometer, is by no means\nconstant. The first effect is of course a transient current of\nconsiderable intensity, the total quantity of electricity being\nthat required to charge the surfaces of the insulator with the\nsuperficial distribution of electricity corresponding to the electro-\nmotive force. This first current therefore is a measure not of\nthe conductivity, but of the capacity of the insulating layer.\nBut even after this current has been allowed to subside the\nresidual current is not constant, and does not indicate the true\nconductivity of the substance. It is found that the current\ncontinues to decrease for at least half an hour, so that a\ndetermination of the resistance deduced from the current will\ngive a greater value if a certain time is allowed to elapse than\nif taken immediately after applying the battery.\nThus, with Hooper's insulating material the apparent resist-\nance at the end of ten minutes was four times, and at the\nend of nineteen hours twenty-three times that observed at the\nend of one minute. When the direction of the electromotive\nforce is reversed, the resistance falls as low or lower than at\nfirst and then gradually rises.\nThese phenomena seem to be due to a condition of the gutta-\npercha, which, for want of a better name, we may call polariza-\ntion, and which we may compare on the one hand with that of\na series of Leyden jars charged by cascade, and, on the other,\nwith Ritter's secondary pile, Art. 271.\nIf a number of Leyden jars of great capacity are connected\nin series by means of conductors of great resistance (such as wet\ncotton threads in the experiments of M. Gaugain); then an\nelectromotive force acting on the series will produce a current,\nas indicated by a galvanometer, which will gradually diminish\ntill the jars are fully charged.\n",
+    "mathpix_markdown": "\n--- Page 537 ---\n\nin the manufacture of telegraphic cables, have been made in\n order to ascertain the value of these materials as insulators.\n\n\nThe tests are generally applied to the material after it has\n been used to cover the conducting wire, the wire being used\n as one electrode, and the water of a tank, in which the cable is\n plunged, as the other. Thus the current is made to pass through\n a cylindrical coating of the insulator of great area and small\n thickness.\n\n\nIt is found that when the electromotive force begins to act,\n the current, as indicated by the galvanometer, is by no means\n constant. The first effect is of course a transient current of\n considerable intensity, the total quantity of electricity being\n that required to charge the surfaces of the insulator with the\n superficial distribution of electricity corresponding to the electro\nmotive force. This first current therefore is a measure not of\n the conductivity, but of the capacity of the insulating layer.\n\n\nBut even after this current has been allowed to subside the\n residual current is not constant, and does not indicate the true\n conductivity of the substance. It is found that the current\n continues to decrease for at least half an hour, so that a\n determination of the resistance deduced from the current will\n give a greater value if a certain time is allowed to elapse than\n if taken immediately after applying the battery.\n\n\nThus, with Hooper's insulating material the apparent resist\nance at the end of ten minutes was four times, and at the\n end of nineteen hours twenty-three times that observed at the\n end of one minute. When the direction of the electromotive\n force is reversed, the resistance falls as low or lower than at\n first and then gradually rises.\n\n\nThese phenomena seem to be due to a condition of the gutta\npercha, which, for want of a better name, we may call polariza\ntion, and which we may compare on the one hand with that of\n a series of Leyden jars charged by cascade, and, on the other,\n with Ritter's secondary pile, Art. 271.\n\n\nIf a number of Leyden jars of great capacity are connected\n in series by means of conductors of great resistance (such as wet\n cotton threads in the experiments of M. Gaugain); then an\n electromotive force acting on the series will produce a current,\n as indicated by a galvanometer, which will gradually diminish\n till the jars are fully charged.\n",
+    "structured_lines": [
+      {
+        "page": 537,
+        "line_number": 4,
+        "type": "text",
+        "content": "in the manufacture of telegraphic cables, have been made in",
+        "mathpix_content": "\nin the manufacture of telegraphic cables, have been made in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 5,
+        "type": "text",
+        "content": "order to ascertain the value of these materials as insulators.",
+        "mathpix_content": " order to ascertain the value of these materials as insulators.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 6,
+        "type": "text",
+        "content": "The tests are generally applied to the material after it has",
+        "mathpix_content": "\n\nThe tests are generally applied to the material after it has",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 7,
+        "type": "text",
+        "content": "been used to cover the conducting wire, the wire being used",
+        "mathpix_content": " been used to cover the conducting wire, the wire being used",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 8,
+        "type": "text",
+        "content": "as one electrode, and the water of a tank, in which the cable is",
+        "mathpix_content": " as one electrode, and the water of a tank, in which the cable is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 9,
+        "type": "text",
+        "content": "plunged, as the other. Thus the current is made to pass through",
+        "mathpix_content": " plunged, as the other. Thus the current is made to pass through",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 10,
+        "type": "text",
+        "content": "a cylindrical coating of the insulator of great area and small",
+        "mathpix_content": " a cylindrical coating of the insulator of great area and small",
+        "font_size": 27,
+        "confidence": 0.9980478286743164
+      },
+      {
+        "page": 537,
+        "line_number": 11,
+        "type": "text",
+        "content": "thickness.",
+        "mathpix_content": " thickness.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 12,
+        "type": "text",
+        "content": "It is found that when the electromotive force begins to act,",
+        "mathpix_content": "\n\nIt is found that when the electromotive force begins to act,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 13,
+        "type": "text",
+        "content": "the current, as indicated by the galvanometer, is by no means",
+        "mathpix_content": " the current, as indicated by the galvanometer, is by no means",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 14,
+        "type": "text",
+        "content": "constant. The first effect is of course a transient current of",
+        "mathpix_content": " constant. The first effect is of course a transient current of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 15,
+        "type": "text",
+        "content": "considerable intensity, the total quantity of electricity being",
+        "mathpix_content": " considerable intensity, the total quantity of electricity being",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 16,
+        "type": "text",
+        "content": "that required to charge the surfaces of the insulator with the",
+        "mathpix_content": " that required to charge the surfaces of the insulator with the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 17,
+        "type": "text",
+        "content": "superficial distribution of electricity corresponding to the electro-",
+        "mathpix_content": " superficial distribution of electricity corresponding to the electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 18,
+        "type": "text",
+        "content": "motive force. This first current therefore is a measure not of",
+        "mathpix_content": "motive force. This first current therefore is a measure not of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 19,
+        "type": "text",
+        "content": "the conductivity, but of the capacity of the insulating layer.",
+        "mathpix_content": " the conductivity, but of the capacity of the insulating layer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 20,
+        "type": "text",
+        "content": "But even after this current has been allowed to subside the",
+        "mathpix_content": "\n\nBut even after this current has been allowed to subside the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 21,
+        "type": "text",
+        "content": "residual current is not constant, and does not indicate the true",
+        "mathpix_content": " residual current is not constant, and does not indicate the true",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 22,
+        "type": "text",
+        "content": "conductivity of the substance. It is found that the current",
+        "mathpix_content": " conductivity of the substance. It is found that the current",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 23,
+        "type": "text",
+        "content": "continues to decrease for at least half an hour, so that a",
+        "mathpix_content": " continues to decrease for at least half an hour, so that a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 24,
+        "type": "text",
+        "content": "determination of the resistance deduced from the current will",
+        "mathpix_content": " determination of the resistance deduced from the current will",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 25,
+        "type": "text",
+        "content": "give a greater value if a certain time is allowed to elapse than",
+        "mathpix_content": " give a greater value if a certain time is allowed to elapse than",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 26,
+        "type": "text",
+        "content": "if taken immediately after applying the battery.",
+        "mathpix_content": " if taken immediately after applying the battery.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 27,
+        "type": "text",
+        "content": "Thus, with Hooper's insulating material the apparent resist-",
+        "mathpix_content": "\n\nThus, with Hooper's insulating material the apparent resist",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 28,
+        "type": "text",
+        "content": "ance at the end of ten minutes was four times, and at the",
+        "mathpix_content": "ance at the end of ten minutes was four times, and at the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 29,
+        "type": "text",
+        "content": "end of nineteen hours twenty-three times that observed at the",
+        "mathpix_content": " end of nineteen hours twenty-three times that observed at the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 30,
+        "type": "text",
+        "content": "end of one minute. When the direction of the electromotive",
+        "mathpix_content": " end of one minute. When the direction of the electromotive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 31,
+        "type": "text",
+        "content": "force is reversed, the resistance falls as low or lower than at",
+        "mathpix_content": " force is reversed, the resistance falls as low or lower than at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 32,
+        "type": "text",
+        "content": "first and then gradually rises.",
+        "mathpix_content": " first and then gradually rises.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 33,
+        "type": "text",
+        "content": "These phenomena seem to be due to a condition of the gutta-",
+        "mathpix_content": "\n\nThese phenomena seem to be due to a condition of the gutta",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 34,
+        "type": "text",
+        "content": "percha, which, for want of a better name, we may call polariza-",
+        "mathpix_content": "percha, which, for want of a better name, we may call polariza",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 35,
+        "type": "text",
+        "content": "tion, and which we may compare on the one hand with that of",
+        "mathpix_content": "tion, and which we may compare on the one hand with that of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 36,
+        "type": "text",
+        "content": "a series of Leyden jars charged by cascade, and, on the other,",
+        "mathpix_content": " a series of Leyden jars charged by cascade, and, on the other,",
+        "font_size": 27,
+        "confidence": 0.92822265625
+      },
+      {
+        "page": 537,
+        "line_number": 37,
+        "type": "text",
+        "content": "with Ritter's secondary pile, Art. 271.",
+        "mathpix_content": " with Ritter's secondary pile, Art. 271.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 38,
+        "type": "text",
+        "content": "If a number of Leyden jars of great capacity are connected",
+        "mathpix_content": "\n\nIf a number of Leyden jars of great capacity are connected",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 39,
+        "type": "text",
+        "content": "in series by means of conductors of great resistance (such as wet",
+        "mathpix_content": " in series by means of conductors of great resistance (such as wet",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 40,
+        "type": "text",
+        "content": "cotton threads in the experiments of M. Gaugain); then an",
+        "mathpix_content": " cotton threads in the experiments of M. Gaugain); then an",
+        "font_size": 27,
+        "confidence": 0.6513671875
+      },
+      {
+        "page": 537,
+        "line_number": 41,
+        "type": "text",
+        "content": "electromotive force acting on the series will produce a current,",
+        "mathpix_content": " electromotive force acting on the series will produce a current,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 42,
+        "type": "text",
+        "content": "as indicated by a galvanometer, which will gradually diminish",
+        "mathpix_content": " as indicated by a galvanometer, which will gradually diminish",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 537,
+        "line_number": 43,
+        "type": "text",
+        "content": "till the jars are fully charged.",
+        "mathpix_content": " till the jars are fully charged.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

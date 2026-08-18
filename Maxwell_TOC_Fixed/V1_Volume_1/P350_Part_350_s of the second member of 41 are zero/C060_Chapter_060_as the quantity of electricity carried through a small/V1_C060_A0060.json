@@ -1,0 +1,300 @@
+{
+  "article_id": "article_60",
+  "article_number": 60,
+  "title_original": ", as the quantity of electricity carried through a small",
+  "title_safe": "as the quantity of electricity carried through a small",
+  "page_start": 178,
+  "page_end": 178,
+  "content": {
+    "raw_text": "\n--- Page 178 ---\nIOIC.]\nINTENSITY AND DISPLACEMENT.\n143\nform with the potential, and the electric displacement is con-\nnected by equations of invariable form with the distribution of\nelectricity, but the relation between the electromotive intensity\nand the electric displacement depends on the nature of the\ndielectric medium, and must be expressed by equations, the most\ngeneral form of which is as yet not fully determined, and can be\ndetermined only by experiments on dielectrics.\n101 b.] The electromotive intensity is a vector defined in\nArt. 68, as the mechanical force on a small quantity $e$ of elec-\ntricity divided by $e$. We shall denote its components by the\nletters $P, Q, R$, and the vector itself by $\\mathscr{E}$.\nIn electrostatics, the line integral of $\\mathscr{E}$ is always independent\nof the path of integration, or in other words $\\mathscr{C}$ is the space-\nvariation of a potential. Hence\n$$P=-\\frac{d \\Psi}{d x}, \\quad Q=-\\frac{d \\Psi}{d y}, \\quad R=-\\frac{d \\Psi}{d z},$$\nor more briefly, in the language of Quaternions\n$$\\mathscr{E}=-\\nabla \\Psi .$$\n$101 c$.] The electric displacement in any direction is defined\nin Art. 60, as the quantity of electricity carried through a small\narea $A$, the plane of which is normal to that direction, divided\nby $A$. We shall denote the rectangular components of the\nelectric displacement by the letters $f, g, h$, and the vector itself\nby $\\mathfrak{D}$.\nThe volume-density at any point is determined by the equation\n$$\\rho=\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z},$$\nor in the language of Quaternions\n$$\\rho=-S \\cdot \\nabla \\mathfrak{D} .$$\nThe surface-density at any point of a charged surface is deter-\nmined by the equation\n$$\\sigma=l f+m g+n h+l^{\\prime} f^{\\prime}+m^{\\prime} g^{\\prime}+n^{\\prime} h^{\\prime},$$\nwhere $f, g, h$ are the components of the displacement on one side\nof the surface, the direction cosines of the normal drawn from\nthe surface on that side being $l, m, n$, and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$\nare the components of the displacements, and the direction cosines\nof the normal on the other side.\nThis is expressed in Quaternions by the equation\n$$\\sigma=-\\left[S \\cdot U_{\\nu} \\mathfrak{D}+S \\cdot U_{\\nu^{\\prime}} \\mathfrak{D}^{\\prime}\\right],$$\n",
+    "mathpix_markdown": "\n--- Page 178 ---\n\nform with the potential, and the electric displacement is con\nnected by equations of invariable form with the distribution of\n electricity, but the relation between the electromotive intensity\n and the electric displacement depends on the nature of the\n dielectric medium, and must be expressed by equations, the most\n general form of which is as yet not fully determined, and can be\n determined only by experiments on dielectrics.\n\n\n101 b.] The electromotive intensity is a vector defined in\n Art. 68, as the mechanical force on a small quantity $e$ of elec\ntricity divided by $e$. We shall denote its components by the\n letters $P, Q, R$, and the vector itself by $\\mathscr{E}$.\n\n\nIn electrostatics, the line integral of $\\mathscr{E}$ is always independent\n of the path of integration, or in other words $\\mathscr{C}$ is the space\nvariation of a potential. Hence\n\n$$P=-\\frac{d \\Psi}{d x}, \\quad Q=-\\frac{d \\Psi}{d y}, \\quad R=-\\frac{d \\Psi}{d z},$$\n\nor more briefly, in the language of Quaternions\n\n$$\\mathscr{E}=-\\nabla \\Psi .$$\n\n$101 c$.] The electric displacement in any direction is defined\n in Art. 60, as the quantity of electricity carried through a small\n area $A$, the plane of which is normal to that direction, divided\n by $A$. We shall denote the rectangular components of the\n electric displacement by the letters $f, g, h$, and the vector itself\n by $\\mathfrak{D}$.\n\n\nThe volume-density at any point is determined by the equation\n\n$$\\rho=\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z},$$\n\nor in the language of Quaternions\n\n$$\\rho=-S \\cdot \\nabla \\mathfrak{D} .$$\n\n\nThe surface-density at any point of a charged surface is deter\nmined by the equation\n\n$$\\sigma=l f+m g+n h+l^{\\prime} f^{\\prime}+m^{\\prime} g^{\\prime}+n^{\\prime} h^{\\prime},$$\n\nwhere $f, g, h$ are the components of the displacement on one side\n of the surface, the direction cosines of the normal drawn from\n the surface on that side being $l, m, n$, and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$\n are the components of the displacements, and the direction cosines\n of the normal on the other side.\n\n\nThis is expressed in Quaternions by the equation\n\n$$\\sigma=-\\left[S \\cdot U_{\\nu} \\mathfrak{D}+S \\cdot U_{\\nu^{\\prime}} \\mathfrak{D}^{\\prime}\\right],$$\n",
+    "structured_lines": [
+      {
+        "page": 178,
+        "line_number": 4,
+        "type": "text",
+        "content": "form with the potential, and the electric displacement is con-",
+        "mathpix_content": "\nform with the potential, and the electric displacement is con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 5,
+        "type": "text",
+        "content": "nected by equations of invariable form with the distribution of",
+        "mathpix_content": "nected by equations of invariable form with the distribution of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 6,
+        "type": "text",
+        "content": "electricity, but the relation between the electromotive intensity",
+        "mathpix_content": " electricity, but the relation between the electromotive intensity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 7,
+        "type": "text",
+        "content": "and the electric displacement depends on the nature of the",
+        "mathpix_content": " and the electric displacement depends on the nature of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 8,
+        "type": "text",
+        "content": "dielectric medium, and must be expressed by equations, the most",
+        "mathpix_content": " dielectric medium, and must be expressed by equations, the most",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 9,
+        "type": "text",
+        "content": "general form of which is as yet not fully determined, and can be",
+        "mathpix_content": " general form of which is as yet not fully determined, and can be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 10,
+        "type": "text",
+        "content": "determined only by experiments on dielectrics.",
+        "mathpix_content": " determined only by experiments on dielectrics.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 11,
+        "type": "text",
+        "content": "101 b.] The electromotive intensity is a vector defined in",
+        "mathpix_content": "\n\n101 b.] The electromotive intensity is a vector defined in",
+        "font_size": 27,
+        "confidence": 0.9502429962158203
+      },
+      {
+        "page": 178,
+        "line_number": 12,
+        "type": "text",
+        "content": "Art. 68, as the mechanical force on a small quantity $e$ of elec-",
+        "mathpix_content": " Art. 68, as the mechanical force on a small quantity $e$ of elec",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 178,
+        "line_number": 13,
+        "type": "text",
+        "content": "tricity divided by $e$. We shall denote its components by the",
+        "mathpix_content": "tricity divided by $e$. We shall denote its components by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 14,
+        "type": "text",
+        "content": "letters $P, Q, R$, and the vector itself by $\\mathscr{E}$.",
+        "mathpix_content": " letters $P, Q, R$, and the vector itself by $\\mathscr{E}$.",
+        "font_size": 27,
+        "confidence": 0.9352688789367676
+      },
+      {
+        "page": 178,
+        "line_number": 15,
+        "type": "text",
+        "content": "In electrostatics, the line integral of $\\mathscr{E}$ is always independent",
+        "mathpix_content": "\n\nIn electrostatics, the line integral of $\\mathscr{E}$ is always independent",
+        "font_size": 27,
+        "confidence": 0.3965299667324871
+      },
+      {
+        "page": 178,
+        "line_number": 16,
+        "type": "text",
+        "content": "of the path of integration, or in other words $\\mathscr{C}$ is the space-",
+        "mathpix_content": " of the path of integration, or in other words $\\mathscr{C}$ is the space",
+        "font_size": 27,
+        "confidence": 0.8923847749829292
+      },
+      {
+        "page": 178,
+        "line_number": 17,
+        "type": "text",
+        "content": "variation of a potential. Hence",
+        "mathpix_content": "variation of a potential. Hence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 20,
+        "type": "text",
+        "content": "or more briefly, in the language of Quaternions",
+        "mathpix_content": "\nor more briefly, in the language of Quaternions",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 23,
+        "type": "text",
+        "content": "$101 c$.] The electric displacement in any direction is defined",
+        "mathpix_content": "\n$101 c$.] The electric displacement in any direction is defined",
+        "font_size": 27,
+        "confidence": 0.6492898464202881
+      },
+      {
+        "page": 178,
+        "line_number": 24,
+        "type": "text",
+        "content": "in Art. 60, as the quantity of electricity carried through a small",
+        "mathpix_content": " in Art. 60, as the quantity of electricity carried through a small",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 25,
+        "type": "text",
+        "content": "area $A$, the plane of which is normal to that direction, divided",
+        "mathpix_content": " area $A$, the plane of which is normal to that direction, divided",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 26,
+        "type": "text",
+        "content": "by $A$. We shall denote the rectangular components of the",
+        "mathpix_content": " by $A$. We shall denote the rectangular components of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 27,
+        "type": "text",
+        "content": "electric displacement by the letters $f, g, h$, and the vector itself",
+        "mathpix_content": " electric displacement by the letters $f, g, h$, and the vector itself",
+        "font_size": 27,
+        "confidence": 0.9698183536529541
+      },
+      {
+        "page": 178,
+        "line_number": 28,
+        "type": "text",
+        "content": "by $\\mathfrak{D}$.",
+        "mathpix_content": " by $\\mathfrak{D}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 29,
+        "type": "text",
+        "content": "The volume-density at any point is determined by the equation",
+        "mathpix_content": "\n\nThe volume-density at any point is determined by the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 32,
+        "type": "text",
+        "content": "or in the language of Quaternions",
+        "mathpix_content": "\nor in the language of Quaternions",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 35,
+        "type": "text",
+        "content": "The surface-density at any point of a charged surface is deter-",
+        "mathpix_content": "\n\nThe surface-density at any point of a charged surface is deter",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 36,
+        "type": "text",
+        "content": "mined by the equation",
+        "mathpix_content": "mined by the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 39,
+        "type": "text",
+        "content": "where $f, g, h$ are the components of the displacement on one side",
+        "mathpix_content": "\nwhere $f, g, h$ are the components of the displacement on one side",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 40,
+        "type": "text",
+        "content": "of the surface, the direction cosines of the normal drawn from",
+        "mathpix_content": " of the surface, the direction cosines of the normal drawn from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 41,
+        "type": "text",
+        "content": "the surface on that side being $l, m, n$, and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$",
+        "mathpix_content": " the surface on that side being $l, m, n$, and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$",
+        "font_size": 27,
+        "confidence": 0.9960982785560191
+      },
+      {
+        "page": 178,
+        "line_number": 42,
+        "type": "text",
+        "content": "are the components of the displacements, and the direction cosines",
+        "mathpix_content": " are the components of the displacements, and the direction cosines",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 43,
+        "type": "text",
+        "content": "of the normal on the other side.",
+        "mathpix_content": " of the normal on the other side.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 178,
+        "line_number": 44,
+        "type": "text",
+        "content": "This is expressed in Quaternions by the equation",
+        "mathpix_content": "\n\nThis is expressed in Quaternions by the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

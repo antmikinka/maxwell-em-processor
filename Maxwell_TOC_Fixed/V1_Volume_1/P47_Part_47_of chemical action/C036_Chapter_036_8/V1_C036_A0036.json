@@ -1,0 +1,57 @@
+{
+  "article_id": "article_36",
+  "article_number": 36,
+  "title_original": "8",
+  "title_safe": "8",
+  "page_start": 30,
+  "page_end": 30,
+  "content": {
+    "raw_text": "\n--- Page 30 ---\nCONTENTS.\nxxvii\n\nPART II.\n\nELECTROKINEMATICS.\n\nCHAPTER I.\n\nTHE ELECTRIC CURRENT.\n\n\nArt.\nPago\n\n230. Current produced when conductors are discharged\n354\n\n231. Transference of electrification\n354\n\n232. Description of the voltaic battery\n355\n\n233. Flectromotive force\n356\n\n234. Production of a steady current\n356\n\n235. Properties of the current\n357\n\n236. Electrolytic action\n357\n\n237. Explanation of terms connected with electrolysis\n358\n\n238. Different modes of passage of the current\n359\n\n239. Magnetic action of the current\n360\n\n240. The Galvanometer\n360\n\nCHAPTER II.\n\nCONDUCTION AND RESISTANCE.\n\n241. Ohm's Law\n362\n\n242. Generation of heat by the current. Joule's Law\n363\n\n243. Analogy between the conduction of electricity and that of heat\n364\n\n244. Differences between the two classes of phenomena\n365\n\n245. Faraday's doctrine of the impossibility of an absolute charge\n365\n\nCHAPTER III.\n\nELECTROMOTIVE FORCE BETWEEN BODIES IN CONTACT.\n\n246. Volta's law of the contact force between different metals at the\nsame temperature\n367\n\n247. Effect of electrolytes\n368\n\n248. Thomson's voltaic current in which gravity performs the part\nof chemical action\n368\n",
+    "mathpix_markdown": "\n--- Page 30 ---\n\n\n\\section*{PART II.}\n\n\n\\section*{ELECTROKINEMATICS.}\n\n\n\\section*{CHAPTER I.}\n\n\n\\section*{THE ELECTRIC CURRENT.}\n\nArt.\n Pago\n\n230. Current produced when conductors are discharged\n ..... 354\n\n231. Transference of electrification\n ..... 354\n\n232. Description of the voltaic battery\n ..... 355\n\n233. Flectromotive force\n ..... 356\n\n234. Production of a steady current\n ..... 356\n\n235. Properties of the current\n ..... 357\n\n236. Electrolytic action\n ..... 357\n\n237. Explanation of terms connected with electrolysis\n ..... 358\n\n238. Different modes of passage of the current\n ..... 359\n\n239. Magnetic action of the current\n ..... 360\n\n240. The Galvanometer\n ..... 360\n\nCHAPTER II.\n\nCONDUCTION AND RESISTANCE.\n\n241. Ohm's Law\n ..... 362\n\n242. Generation of heat by the current. Joule's Law\n ..... 363\n\n243. Analogy between the conduction of electricity and that of heat\n ..... 364\n\n244. Differences between the two classes of phenomena\n ..... 365\n\n245. Faraday's doctrine of the impossibility of an absolute charge\n ..... 365\n\nCHAPTER III.\n\nELECTROMOTIVE FORCE BETWEEN BODIES IN CONTACT.\n\n246. Volta's law of the contact force between different metals at the\n same temperature\n ..... 367\n\n247. Effect of electrolytes\n ..... 368\n\n248. Thomson's voltaic current in which gravity performs the part\n of chemical action\n ..... 368\n",
+    "structured_lines": [
+      {
+        "page": 30,
+        "line_number": 4,
+        "type": "text",
+        "content": "PART II.",
+        "mathpix_content": "\n\n\\section*{PART II.}",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 30,
+        "line_number": 6,
+        "type": "text",
+        "content": "ELECTROKINEMATICS.",
+        "mathpix_content": "\n\n\\section*{ELECTROKINEMATICS.}",
+        "font_size": 21,
+        "confidence": 0.5390625
+      },
+      {
+        "page": 30,
+        "line_number": 8,
+        "type": "text",
+        "content": "CHAPTER I.",
+        "mathpix_content": "\n\n\\section*{CHAPTER I.}",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 30,
+        "line_number": 10,
+        "type": "text",
+        "content": "THE ELECTRIC CURRENT.",
+        "mathpix_content": "\n\n\\section*{THE ELECTRIC CURRENT.}",
+        "font_size": 16,
+        "confidence": 0.994636058807373
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

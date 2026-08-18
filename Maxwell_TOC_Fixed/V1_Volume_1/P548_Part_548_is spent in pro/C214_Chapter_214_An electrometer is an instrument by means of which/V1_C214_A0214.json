@@ -1,0 +1,363 @@
+{
+  "article_id": "article_214",
+  "article_number": 214,
+  "title_original": ".] An electrometer is an instrument by means of which",
+  "title_safe": "An electrometer is an instrument by means of which",
+  "page_start": 361,
+  "page_end": 361,
+  "content": {
+    "raw_text": "\n--- Page 361 ---\n326\nELECTROSTATIC INSTRUMENTS.\n[214.\ncommunicates to the positive receiver $A$, and the cycle of opera-\ntions is completed.\nDuring this cycle the positive receiver has lost a charge $a V$\nand gained a charge $B^{\\prime} V^{\\prime}$. Hence the total gain of positive\nelectricity is\n$$B^{\\prime} V^{\\prime}-a V .$$\nSimilarly the total gain of negative electricity is $B V-a^{\\prime} V^{\\prime}$.\nBy making the inductors so as to be as close to the surface of\nthe carrier as is consistent with insulation, $B$ and $B^{\\prime}$ may be\nmade large, and by making the receivers so as nearly to surround\nthe carrier when it is within them, $a$ and $a^{\\prime}$ may be made very\nsmall, and then the charges of both the Leyden jars will be\nincreased in every revolution.\nThe conditions to be fulfilled by the regenerators are\n$$C^{\\prime} V^{\\prime}=a V, \\quad \\text { and } \\quad C V=a^{\\prime} V^{\\prime} .$$\nSince $a$ and $\\alpha^{\\prime}$ are small the regenerators must neither be\nlarge nor very close to the carriers.\n\nOn Electrometers and Electroscopes.\n214.] An electrometer is an instrument by means of which\nelectric charges or electric potentials may be measured. In-\nstruments by means of which the existence of electric charges or\nof differences of potential may be indicated, but which are not\ncapable of affording numerical measures, are called Electro-\nscopes.\nAn elecuroscope if sufficiently sensitive may be used in elec-\ntrical measurements, provided we can make the measurement\ndepend on the absence of electrification. For instance, if we\nhave two charged bodies $A$ and $B$ we may use the method\ndescribed in Chapter I to determine which body has the greater\ncharge. Let the body $A$ be carried by an insulating support\ninto the interior of an insulated closed vessel $C$. Let $C$ be\nconnected to earth and again insulated. There will then be no\nexternal electrification on $C$. Now let $A$ be removed, and $B$\nintroduced into the interior of $C$, and the electrification of $C$\nlested by an electroscope. If the charge of $B$ is equal to that\nof $A$ there will be no electrification, but if it is greater or less\nthere will be electrification of the same kind as that of $B$, or\nthe opposite kind.\nMethods of this kind, in which the thing to be observed is the\nnon-existence of some phenomenon, are called null or zero\n",
+    "mathpix_markdown": "\n--- Page 361 ---\n\ncommunicates to the positive receiver $A$, and the cycle of opera\ntions is completed.\n\n\nDuring this cycle the positive receiver has lost a charge $a V$\n and gained a charge $B^{\\prime} V^{\\prime}$. Hence the total gain of positive\n electricity is\n\n$$B^{\\prime} V^{\\prime}-a V .$$\n\n\nSimilarly the total gain of negative electricity is $B V-a^{\\prime} V^{\\prime}$.\n\nBy making the inductors so as to be as close to the surface of\n the carrier as is consistent with insulation, $B$ and $B^{\\prime}$ may be\n made large, and by making the receivers so as nearly to surround\n the carrier when it is within them, $a$ and $a^{\\prime}$ may be made very\n small, and then the charges of both the Leyden jars will be\n increased in every revolution.\n\n\nThe conditions to be fulfilled by the regenerators are\n\n$$C^{\\prime} V^{\\prime}=a V, \\quad \\text { and } \\quad C V=a^{\\prime} V^{\\prime} .$$\n\n\nSince $a$ and $\\alpha^{\\prime}$ are small the regenerators must neither be\n large nor very close to the carriers.\n\n\n\\section*{On Electrometers and Electroscopes.}\n\n214.] An electrometer is an instrument by means of which\n electric charges or electric potentials may be measured. In\nstruments by means of which the existence of electric charges or\n of differences of potential may be indicated, but which are not\n capable of affording numerical measures, are called Electro\nscopes.\n\n\nAn elecuroscope if sufficiently sensitive may be used in elec\ntrical measurements, provided we can make the measurement\n depend on the absence of electrification. For instance, if we\n have two charged bodies $A$ and $B$ we may use the method\n described in Chapter I to determine which body has the greater\n charge. Let the body $A$ be carried by an insulating support\n into the interior of an insulated closed vessel $C$. Let $C$ be\n connected to earth and again insulated. There will then be no\n external electrification on $C$. Now let $A$ be removed, and $B$\n introduced into the interior of $C$, and the electrification of $C$\n lested by an electroscope. If the charge of $B$ is equal to that\n of $A$ there will be no electrification, but if it is greater or less\n there will be electrification of the same kind as that of $B$, or\n the opposite kind.\n\n\nMethods of this kind, in which the thing to be observed is the\n non-existence of some phenomenon, are called null or zero\n",
+    "structured_lines": [
+      {
+        "page": 361,
+        "line_number": 4,
+        "type": "text",
+        "content": "communicates to the positive receiver $A$, and the cycle of opera-",
+        "mathpix_content": "\ncommunicates to the positive receiver $A$, and the cycle of opera",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 5,
+        "type": "text",
+        "content": "tions is completed.",
+        "mathpix_content": "tions is completed.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 6,
+        "type": "text",
+        "content": "During this cycle the positive receiver has lost a charge $a V$",
+        "mathpix_content": "\n\nDuring this cycle the positive receiver has lost a charge $a V$",
+        "font_size": 27,
+        "confidence": 0.7625408172607422
+      },
+      {
+        "page": 361,
+        "line_number": 7,
+        "type": "text",
+        "content": "and gained a charge $B^{\\prime} V^{\\prime}$. Hence the total gain of positive",
+        "mathpix_content": " and gained a charge $B^{\\prime} V^{\\prime}$. Hence the total gain of positive",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 361,
+        "line_number": 8,
+        "type": "text",
+        "content": "electricity is",
+        "mathpix_content": " electricity is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 11,
+        "type": "text",
+        "content": "Similarly the total gain of negative electricity is $B V-a^{\\prime} V^{\\prime}$.",
+        "mathpix_content": "\n\nSimilarly the total gain of negative electricity is $B V-a^{\\prime} V^{\\prime}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 12,
+        "type": "text",
+        "content": "By making the inductors so as to be as close to the surface of",
+        "mathpix_content": "\nBy making the inductors so as to be as close to the surface of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 13,
+        "type": "text",
+        "content": "the carrier as is consistent with insulation, $B$ and $B^{\\prime}$ may be",
+        "mathpix_content": " the carrier as is consistent with insulation, $B$ and $B^{\\prime}$ may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 14,
+        "type": "text",
+        "content": "made large, and by making the receivers so as nearly to surround",
+        "mathpix_content": " made large, and by making the receivers so as nearly to surround",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 15,
+        "type": "text",
+        "content": "the carrier when it is within them, $a$ and $a^{\\prime}$ may be made very",
+        "mathpix_content": " the carrier when it is within them, $a$ and $a^{\\prime}$ may be made very",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 361,
+        "line_number": 16,
+        "type": "text",
+        "content": "small, and then the charges of both the Leyden jars will be",
+        "mathpix_content": " small, and then the charges of both the Leyden jars will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 17,
+        "type": "text",
+        "content": "increased in every revolution.",
+        "mathpix_content": " increased in every revolution.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 18,
+        "type": "text",
+        "content": "The conditions to be fulfilled by the regenerators are",
+        "mathpix_content": "\n\nThe conditions to be fulfilled by the regenerators are",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 361,
+        "line_number": 21,
+        "type": "text",
+        "content": "Since $a$ and $\\alpha^{\\prime}$ are small the regenerators must neither be",
+        "mathpix_content": "\n\nSince $a$ and $\\alpha^{\\prime}$ are small the regenerators must neither be",
+        "font_size": 27,
+        "confidence": 0.7079954147338867
+      },
+      {
+        "page": 361,
+        "line_number": 22,
+        "type": "text",
+        "content": "large nor very close to the carriers.",
+        "mathpix_content": " large nor very close to the carriers.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 361,
+        "line_number": 24,
+        "type": "text",
+        "content": "On Electrometers and Electroscopes.",
+        "mathpix_content": "\n\n\\section*{On Electrometers and Electroscopes.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 25,
+        "type": "text",
+        "content": "214.] An electrometer is an instrument by means of which",
+        "mathpix_content": "\n214.] An electrometer is an instrument by means of which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 26,
+        "type": "text",
+        "content": "electric charges or electric potentials may be measured. In-",
+        "mathpix_content": " electric charges or electric potentials may be measured. In",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 27,
+        "type": "text",
+        "content": "struments by means of which the existence of electric charges or",
+        "mathpix_content": "struments by means of which the existence of electric charges or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 28,
+        "type": "text",
+        "content": "of differences of potential may be indicated, but which are not",
+        "mathpix_content": " of differences of potential may be indicated, but which are not",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 29,
+        "type": "text",
+        "content": "capable of affording numerical measures, are called Electro-",
+        "mathpix_content": " capable of affording numerical measures, are called Electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 30,
+        "type": "text",
+        "content": "scopes.",
+        "mathpix_content": "scopes.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 31,
+        "type": "text",
+        "content": "An elecuroscope if sufficiently sensitive may be used in elec-",
+        "mathpix_content": "\n\nAn elecuroscope if sufficiently sensitive may be used in elec",
+        "font_size": 27,
+        "confidence": 0.9814541339874268
+      },
+      {
+        "page": 361,
+        "line_number": 32,
+        "type": "text",
+        "content": "trical measurements, provided we can make the measurement",
+        "mathpix_content": "trical measurements, provided we can make the measurement",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 33,
+        "type": "text",
+        "content": "depend on the absence of electrification. For instance, if we",
+        "mathpix_content": " depend on the absence of electrification. For instance, if we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 34,
+        "type": "text",
+        "content": "have two charged bodies $A$ and $B$ we may use the method",
+        "mathpix_content": " have two charged bodies $A$ and $B$ we may use the method",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 35,
+        "type": "text",
+        "content": "described in Chapter I to determine which body has the greater",
+        "mathpix_content": " described in Chapter I to determine which body has the greater",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 36,
+        "type": "text",
+        "content": "charge. Let the body $A$ be carried by an insulating support",
+        "mathpix_content": " charge. Let the body $A$ be carried by an insulating support",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 37,
+        "type": "text",
+        "content": "into the interior of an insulated closed vessel $C$. Let $C$ be",
+        "mathpix_content": " into the interior of an insulated closed vessel $C$. Let $C$ be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 38,
+        "type": "text",
+        "content": "connected to earth and again insulated. There will then be no",
+        "mathpix_content": " connected to earth and again insulated. There will then be no",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 361,
+        "line_number": 39,
+        "type": "text",
+        "content": "external electrification on $C$. Now let $A$ be removed, and $B$",
+        "mathpix_content": " external electrification on $C$. Now let $A$ be removed, and $B$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 40,
+        "type": "text",
+        "content": "introduced into the interior of $C$, and the electrification of $C$",
+        "mathpix_content": " introduced into the interior of $C$, and the electrification of $C$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 41,
+        "type": "text",
+        "content": "lested by an electroscope. If the charge of $B$ is equal to that",
+        "mathpix_content": " lested by an electroscope. If the charge of $B$ is equal to that",
+        "font_size": 27,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 361,
+        "line_number": 42,
+        "type": "text",
+        "content": "of $A$ there will be no electrification, but if it is greater or less",
+        "mathpix_content": " of $A$ there will be no electrification, but if it is greater or less",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 43,
+        "type": "text",
+        "content": "there will be electrification of the same kind as that of $B$, or",
+        "mathpix_content": " there will be electrification of the same kind as that of $B$, or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 44,
+        "type": "text",
+        "content": "the opposite kind.",
+        "mathpix_content": " the opposite kind.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 45,
+        "type": "text",
+        "content": "Methods of this kind, in which the thing to be observed is the",
+        "mathpix_content": "\n\nMethods of this kind, in which the thing to be observed is the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 361,
+        "line_number": 46,
+        "type": "text",
+        "content": "non-existence of some phenomenon, are called null or zero",
+        "mathpix_content": " non-existence of some phenomenon, are called null or zero",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

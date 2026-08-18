@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{\\frac{1}{2}},$$",
+  "title_safe": "pluslefty-yprimeright2plusleftz-zprimeright2rightfrac12",
+  "page_start": 115,
+  "page_end": 114,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

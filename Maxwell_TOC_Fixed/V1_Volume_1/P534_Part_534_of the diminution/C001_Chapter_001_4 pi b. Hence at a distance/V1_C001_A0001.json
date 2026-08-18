@@ -1,0 +1,228 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{4 \\pi b}$. Hence at a distance",
+  "title_safe": "4 pi b. Hence at a distance",
+  "page_start": 339,
+  "page_end": 339,
+  "content": {
+    "raw_text": "\n--- Page 339 ---\n304\nCONJUGATE FUNCTIONS.\n[199.\nthe opposite plane, the capacity of the system composed of the\nplane surface and the undulating surface is the same as that of\ntwo planes at a distance $A+a^{\\prime}$, where\n$$a^{\\prime}=\\frac{B}{\\pi} \\log _{e} \\frac{2}{1+e^{-\\pi \\frac{D}{B}}} .$$\n(28)\n199.] If a single groove of this form be made in a conductor\nhaving the rest of its surface plane, and if the other conductor is\na plane surface at a distance $A$, the capacity of the one conductor\nwith respect to the other will be diminished. The amount of\nthis diminution will be less than the $\\frac{1}{n}$ th part of the diminution\ndue to $n$ such grooves side by side, for in the latter case the\naverage electrical force between the conductors will be less than\nin the former case, so that the induction on the surface of each\ngroove will be diminished on account of the neighbouring\ngrooves.\nIf $L$ is the length, $B$ the breadth, and $D$ the depth of the\ngroove, the capacity of a portion of the opposite plane whose\narea is $S$ will be\n$$\\frac{S-L B}{4 \\pi A}+\\frac{L B}{4 \\pi\\left(A+a^{\\prime}\\right)}=\\frac{S}{4 \\pi A}-\\frac{L B}{4 \\pi A} \\cdot \\frac{a^{\\prime}}{A+a^{\\prime}} .$$\n(29)\nIf $A$ is large compared with $B$ or $a^{\\prime}$, the correction becomes\nby (28)\n$$\\frac{L}{4 \\pi^{2}} \\frac{B^{2}}{A^{2}} \\log _{e} \\frac{2}{1+e^{-\\pi \\frac{D}{B}}},$$\n(30)\nand for a slit of infinite depth, putting $D=\\infty$, the correction is\n$$\\frac{L}{4 \\pi^{2}} \\frac{B^{2}}{A^{2}} \\log _{e} 2 .$$\n(31)\nTo find the surface-density on the series of parallel plates we\nmust find $\\sigma=\\frac{1}{4 \\pi} \\frac{d \\psi}{d x^{\\prime}}$ when $\\phi=0$. We find\n$$\\sigma=\\frac{1}{4 \\pi b} \\frac{1}{\\sqrt{e^{-2 \\frac{x^{\\prime}}{b}}-1}}$$\n(32)\nThe average density on the plane plate at distance $A$ from the\nedges of the series of plates is $\\bar{\\sigma}=\\frac{1}{4 \\pi b}$. Hence at a distance\n",
+    "mathpix_markdown": "\n--- Page 339 ---\n\nthe opposite plane, the capacity of the system composed of the\n plane surface and the undulating surface is the same as that of\n two planes at a distance $A+a^{\\prime}$, where\n\n$$\\begin{equation*}\na^{\\prime}=\\frac{B}{\\pi} \\log _{e} \\frac{2}{1+e^{-\\pi \\frac{D}{B}}} . \\tag{28}\n\\end{equation*}$$\n\n199.] If a single groove of this form be made in a conductor\n having the rest of its surface plane, and if the other conductor is\n a plane surface at a distance $A$, the capacity of the one conductor\n with respect to the other will be diminished. The amount of\n this diminution will be less than the $\\frac{1}{n}$ th part of the diminution\n due to $n$ such grooves side by side, for in the latter case the\n average electrical force between the conductors will be less than\n in the former case, so that the induction on the surface of each\n groove will be diminished on account of the neighbouring\n grooves.\n\n\nIf $L$ is the length, $B$ the breadth, and $D$ the depth of the\n groove, the capacity of a portion of the opposite plane whose\n area is $S$ will be\n\n$$\\begin{equation*}\n\\frac{S-L B}{4 \\pi A}+\\frac{L B}{4 \\pi\\left(A+a^{\\prime}\\right)}=\\frac{S}{4 \\pi A}-\\frac{L B}{4 \\pi A} \\cdot \\frac{a^{\\prime}}{A+a^{\\prime}} . \\tag{29}\n\\end{equation*}$$\n\n\nIf $A$ is large compared with $B$ or $a^{\\prime}$, the correction becomes\n by (28)\n\n$$\\begin{equation*}\n\\frac{L}{4 \\pi^{2}} \\frac{B^{2}}{A^{2}} \\log _{e} \\frac{2}{1+e^{-\\pi \\frac{D}{B}}}, \\tag{30}\n\\end{equation*}$$\n\nand for a slit of infinite depth, putting $D=\\infty$, the correction is\n\n$$\\begin{equation*}\n\\frac{L}{4 \\pi^{2}} \\frac{B^{2}}{A^{2}} \\log _{e} 2 . \\tag{31}\n\\end{equation*}$$\n\n\nTo find the surface-density on the series of parallel plates we\n must find $\\sigma=\\frac{1}{4 \\pi} \\frac{d \\psi}{d x^{\\prime}}$ when $\\phi=0$. We find\n\n$$\\begin{equation*}\n\\sigma=\\frac{1}{4 \\pi b} \\frac{1}{\\sqrt{e^{-2 \\frac{x^{\\prime}}{b}}-1}} \\tag{32}\n\\end{equation*}$$\n\n\nThe average density on the plane plate at distance $A$ from the\n edges of the series of plates is $\\bar{\\sigma}=\\frac{1}{4 \\pi b}$. Hence at a distance\n",
+    "structured_lines": [
+      {
+        "page": 339,
+        "line_number": 4,
+        "type": "text",
+        "content": "the opposite plane, the capacity of the system composed of the",
+        "mathpix_content": "\nthe opposite plane, the capacity of the system composed of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 5,
+        "type": "text",
+        "content": "plane surface and the undulating surface is the same as that of",
+        "mathpix_content": " plane surface and the undulating surface is the same as that of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 6,
+        "type": "text",
+        "content": "two planes at a distance $A+a^{\\prime}$, where",
+        "mathpix_content": " two planes at a distance $A+a^{\\prime}$, where",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 339,
+        "line_number": 10,
+        "type": "text",
+        "content": "199.] If a single groove of this form be made in a conductor",
+        "mathpix_content": "\n199.] If a single groove of this form be made in a conductor",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 11,
+        "type": "text",
+        "content": "having the rest of its surface plane, and if the other conductor is",
+        "mathpix_content": " having the rest of its surface plane, and if the other conductor is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 12,
+        "type": "text",
+        "content": "a plane surface at a distance $A$, the capacity of the one conductor",
+        "mathpix_content": " a plane surface at a distance $A$, the capacity of the one conductor",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 13,
+        "type": "text",
+        "content": "with respect to the other will be diminished. The amount of",
+        "mathpix_content": " with respect to the other will be diminished. The amount of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 14,
+        "type": "text",
+        "content": "this diminution will be less than the $\\frac{1}{n}$ th part of the diminution",
+        "mathpix_content": " this diminution will be less than the $\\frac{1}{n}$ th part of the diminution",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 339,
+        "line_number": 15,
+        "type": "text",
+        "content": "due to $n$ such grooves side by side, for in the latter case the",
+        "mathpix_content": " due to $n$ such grooves side by side, for in the latter case the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 16,
+        "type": "text",
+        "content": "average electrical force between the conductors will be less than",
+        "mathpix_content": " average electrical force between the conductors will be less than",
+        "font_size": 27,
+        "confidence": 0.79296875
+      },
+      {
+        "page": 339,
+        "line_number": 17,
+        "type": "text",
+        "content": "in the former case, so that the induction on the surface of each",
+        "mathpix_content": " in the former case, so that the induction on the surface of each",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 18,
+        "type": "text",
+        "content": "groove will be diminished on account of the neighbouring",
+        "mathpix_content": " groove will be diminished on account of the neighbouring",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 19,
+        "type": "text",
+        "content": "grooves.",
+        "mathpix_content": " grooves.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 20,
+        "type": "text",
+        "content": "If $L$ is the length, $B$ the breadth, and $D$ the depth of the",
+        "mathpix_content": "\n\nIf $L$ is the length, $B$ the breadth, and $D$ the depth of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 21,
+        "type": "text",
+        "content": "groove, the capacity of a portion of the opposite plane whose",
+        "mathpix_content": " groove, the capacity of a portion of the opposite plane whose",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 22,
+        "type": "text",
+        "content": "area is $S$ will be",
+        "mathpix_content": " area is $S$ will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 26,
+        "type": "text",
+        "content": "If $A$ is large compared with $B$ or $a^{\\prime}$, the correction becomes",
+        "mathpix_content": "\n\nIf $A$ is large compared with $B$ or $a^{\\prime}$, the correction becomes",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 27,
+        "type": "text",
+        "content": "by (28)",
+        "mathpix_content": " by (28)",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 31,
+        "type": "text",
+        "content": "and for a slit of infinite depth, putting $D=\\infty$, the correction is",
+        "mathpix_content": "\nand for a slit of infinite depth, putting $D=\\infty$, the correction is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 35,
+        "type": "text",
+        "content": "To find the surface-density on the series of parallel plates we",
+        "mathpix_content": "\n\nTo find the surface-density on the series of parallel plates we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 36,
+        "type": "text",
+        "content": "must find $\\sigma=\\frac{1}{4 \\pi} \\frac{d \\psi}{d x^{\\prime}}$ when $\\phi=0$. We find",
+        "mathpix_content": " must find $\\sigma=\\frac{1}{4 \\pi} \\frac{d \\psi}{d x^{\\prime}}$ when $\\phi=0$. We find",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 339,
+        "line_number": 40,
+        "type": "text",
+        "content": "The average density on the plane plate at distance $A$ from the",
+        "mathpix_content": "\n\nThe average density on the plane plate at distance $A$ from the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 339,
+        "line_number": 41,
+        "type": "text",
+        "content": "edges of the series of plates is $\\bar{\\sigma}=\\frac{1}{4 \\pi b}$. Hence at a distance",
+        "mathpix_content": " edges of the series of plates is $\\bar{\\sigma}=\\frac{1}{4 \\pi b}$. Hence at a distance",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

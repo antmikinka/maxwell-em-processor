@@ -1,0 +1,20 @@
+{
+  "article_id": "article_12",
+  "article_number": 12,
+  "title_original": "a^{10} b^{3}+36 a^{8} b^{5}+40 a^{6} b^{7}\\right) c^{-13}$",
+  "title_safe": "a10 b3plus36 a8 b5plus40 a6 b7right c-13",
+  "page_start": 264,
+  "page_end": 263,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

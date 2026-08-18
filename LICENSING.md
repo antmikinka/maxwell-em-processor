@@ -226,9 +226,10 @@ Copyright (c) 2025 Anthony Mikinka (modifications and vendored fork)
 | Maxwell's original 1873 text | Published 1873; author died 1879. Public domain worldwide. |
 | `input/15773-A Treatise On Electricity And Magnetism Vol-i.pdf` | Public-domain scan of Volume I. Published in this repo. |
 | `input/15774-A Treatise On Electricity And Magnetism Vol-ii.pdf` | Public-domain scan of Volume II. Published in this repo. |
-| `MAXWELL_VOLUME_1_MASTER_OUTPUT/` (published files) | Readable Volume I OCR edition: `volume_1_ocr.md`, chapter JSON, reports. No copyright claimed. |
-| `MAXWELL_VOLUME_2_MASTER_OUTPUT/` (published files) | Readable Volume II OCR edition. No copyright claimed. |
-| Mechanical OCR / typesetting of that text | Markdown, LaTeX, HTML, JSON, and similar reproductions. Local-only trees such as `output/`, `Maxwell_TOC/`, `Maxwell_TOC_Fixed/`, and `RAW_OUTPUTS/` fall here when they reproduce Maxwell; they are not published. |
+| `MAXWELL_VOLUME_1_MASTER_OUTPUT/` | Volume I edition: `volume_1_ocr.md`, chapter JSON, reports, and `RAW_OUTPUTS/`. No copyright claimed. |
+| `MAXWELL_VOLUME_2_MASTER_OUTPUT/` | Volume II edition, including `RAW_OUTPUTS/`. No copyright claimed. |
+| `Maxwell_TOC_Fixed/` | Intermediate failed TOC split of Maxwell JSON. Published for inspection. No copyright claimed. |
+| Mechanical OCR / typesetting of that text | Markdown, LaTeX, HTML, JSON, zip, and similar reproductions of Maxwell. Local-only trees such as `output/` and `Maxwell_TOC/` are the same class when they reproduce Maxwell; they are not published. |
 | `maxwell_article_index.json` | Factual `{art, title, page}` transcription of Maxwell. |
 | `input/v3 - Vol 1 - README.md` | Transcription of Maxwell's volume 1 table of contents. |
 | `input/v3 - Vol 2 - README.md` | Transcription of Maxwell's volume 2 table of contents. |
@@ -260,10 +261,9 @@ These files do not add rights. They publish the texts and the map.
 | Material | Reason |
 |----------|--------|
 | `.env` (API credentials) | Secrets — never committed |
-| `output/` | Local pipeline cache, logs, and non-Maxwell trial OCR |
-| `Maxwell_TOC/`, `Maxwell_TOC_Fixed/`, `Enhanced_Maxwell_TOC/` | Failed or intermediate TOC extraction trees |
-| `MAXWELL_VOLUME_*_MASTER_OUTPUT/RAW_OUTPUTS/` | Raw Mathpix dumps (zip, html, docx, pptx) |
-| `MAXWELL_VOLUME_*_MASTER_OUTPUT/volume_*_direct_result.json` | Large raw API blobs |
+| `output/` | Local pipeline cache, logs, and non-Maxwell trial OCR (including the modern textbook chapter) |
+| `Maxwell_TOC/`, `Enhanced_Maxwell_TOC/` | Earlier local TOC attempts / logs |
+| `MAXWELL_VOLUME_*_MASTER_OUTPUT/volume_*_direct_result.json` | Duplicate root-level API blobs (`RAW_OUTPUTS/` is published) |
 | `chroma_data/` | Runtime vector store |
 | `*.log` files | Operational logs |
 | `venv/` | Virtual environment |

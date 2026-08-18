@@ -1,0 +1,75 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "\\pi a c^{2}}{3 u^{2}+\\pi^{2} c^{2}}\\left(\\frac{e^{-4 \\pi \\frac{b_{1}}{a}}}{1-e^{-4 \\pi \\frac{b_{1}}{a}}}-\\frac{e^{-4 \\pi \\frac{b_{2}}{a}}}{1-e^{-4 \\pi \\frac{b_{2}}{a}}}\\right)+\\& c . *",
+  "title_safe": "pi a c23 u2pluspi2 c2leftfrace-4 pi fracb1a1-e-4 pi fracb1a",
+  "page_start": 351,
+  "page_end": 351,
+  "content": {
+    "raw_text": "\n--- Page 351 ---\n316\nCONJUGATE FUNCTIONS.\nprotected by the grating, the other plane being at a given dif-\nference of potential, will be the same as if the planes had been at\na distance\n$$\\frac{(a-\\gamma)\\left(b_{1}+b_{2}\\right)+b_{1} b_{2}-4 a \\gamma}{a+\\gamma} \\text { instead of } b_{1}+b_{2} \\text {. }$$\nThe values of $a$ and $\\gamma$ are approximately as follows,\n$$\\begin{aligned}\n& \\begin{aligned}\na= & \\frac{a}{2 \\pi}\\left\\{\\log \\frac{a}{2 \\pi c}-\\frac{5}{3} \\cdot \\frac{\\pi^{4} c^{4}}{15 u^{4}+\\pi^{4} c^{4}}\\right. \\\\\n& \\left.\\quad+2 e^{-4 \\pi \\frac{b_{1}+b_{3}}{a}}\\left(1+e^{-4 \\pi \\frac{b_{1}}{a}}+e^{-4 \\pi \\frac{b_{2}}{a}}+\\& c .\\right)+\\& c .\\right\\} \\\\\n\\gamma= & \\frac{3 \\pi a c^{2}}{3 u^{2}+\\pi^{2} c^{2}}\\left(\\frac{e^{-4 \\pi \\frac{b_{1}}{a}}}{1-e^{-4 \\pi \\frac{b_{1}}{a}}}-\\frac{e^{-4 \\pi \\frac{b_{2}}{a}}}{1-e^{-4 \\pi \\frac{b_{2}}{a}}}\\right)+\\& c . *\n\\end{aligned}\n\\end{aligned}$$\n(24)\n(25)\n* \\{In the Supplementary Volume another method of employing conjugate functions,\nby which the capacity of finite plane surfaces etc.can be calculated, will be described \\}.\n",
+    "mathpix_markdown": "\n--- Page 351 ---\n\nprotected by the grating, the other plane being at a given dif\nference of potential, will be the same as if the planes had been at\n a distance\n\n$$\\frac{(a-\\gamma)\\left(b_{1}+b_{2}\\right)+b_{1} b_{2}-4 a \\gamma}{a+\\gamma} \\text { instead of } b_{1}+b_{2} \\text {. }$$\n\n\nThe values of $a$ and $\\gamma$ are approximately as follows,\n\n$$\\begin{align*}\n& \\begin{aligned}\na= & \\frac{a}{2 \\pi}\\left\\{\\log \\frac{a}{2 \\pi c}-\\frac{5}{3} \\cdot \\frac{\\pi^{4} c^{4}}{15 u^{4}+\\pi^{4} c^{4}}\\right. \\\\\n& \\left.\\quad+2 e^{-4 \\pi \\frac{b_{1}+b_{3}}{a}}\\left(1+e^{-4 \\pi \\frac{b_{1}}{a}}+e^{-4 \\pi \\frac{b_{2}}{a}}+\\& c .\\right)+\\& c .\\right\\} \\\\\n\\gamma= & \\frac{3 \\pi a c^{2}}{3 u^{2}+\\pi^{2} c^{2}}\\left(\\frac{e^{-4 \\pi \\frac{b_{1}}{a}}}{1-e^{-4 \\pi \\frac{b_{1}}{a}}}-\\frac{e^{-4 \\pi \\frac{b_{2}}{a}}}{1-e^{-4 \\pi \\frac{b_{2}}{a}}}\\right)+\\& c . *\n\\end{aligned}\n\\end{align*}$$\n\n* \\{In the Supplementary Volume another method of employing conjugate functions,\n by which the capacity of finite plane surfaces etc.can be calculated, will be described \\}.\n",
+    "structured_lines": [
+      {
+        "page": 351,
+        "line_number": 3,
+        "type": "text",
+        "content": "protected by the grating, the other plane being at a given dif-",
+        "mathpix_content": "\nprotected by the grating, the other plane being at a given dif",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 351,
+        "line_number": 4,
+        "type": "text",
+        "content": "ference of potential, will be the same as if the planes had been at",
+        "mathpix_content": "ference of potential, will be the same as if the planes had been at",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 351,
+        "line_number": 5,
+        "type": "text",
+        "content": "a distance",
+        "mathpix_content": " a distance",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 351,
+        "line_number": 8,
+        "type": "text",
+        "content": "The values of $a$ and $\\gamma$ are approximately as follows,",
+        "mathpix_content": "\n\nThe values of $a$ and $\\gamma$ are approximately as follows,",
+        "font_size": 33,
+        "confidence": 0.9931671619415283
+      },
+      {
+        "page": 351,
+        "line_number": 15,
+        "type": "text",
+        "content": "* \\{In the Supplementary Volume another method of employing conjugate functions,",
+        "mathpix_content": "\n* \\{In the Supplementary Volume another method of employing conjugate functions,",
+        "font_size": 26,
+        "confidence": 0.5436797142028809
+      },
+      {
+        "page": 351,
+        "line_number": 16,
+        "type": "text",
+        "content": "by which the capacity of finite plane surfaces etc.can be calculated, will be described \\}.",
+        "mathpix_content": " by which the capacity of finite plane surfaces etc.can be calculated, will be described \\}.",
+        "font_size": 26,
+        "confidence": 0.3623839472604666
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

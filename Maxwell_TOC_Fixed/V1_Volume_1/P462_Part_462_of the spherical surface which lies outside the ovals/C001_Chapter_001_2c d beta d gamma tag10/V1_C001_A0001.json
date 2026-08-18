@@ -1,0 +1,219 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}^{2}}{c} d \\beta d \\gamma \\tag{10}",
+  "title_safe": "2c d beta d gamma tag10",
+  "page_start": 268,
+  "page_end": 268,
+  "content": {
+    "raw_text": "\n--- Page 268 ---\n148.]\nCONFOCAL QUADRIC SURFACES.\n233\nThe denominator of this fraction is the product of the squares\nof the semi-axes of the surface $\\lambda_{1}$.\nIf we put\n$$D_{1}^{2}=\\lambda_{3}^{2}-\\lambda_{2}^{2}, \\quad D_{2}^{2}=\\lambda_{3}^{2}-\\lambda_{1}^{2}, \\quad \\text { and } \\quad D_{3}^{2}=\\lambda_{2}^{2}-\\lambda_{1}^{2},$$\n(5)\nand if we make $a=0$, then\n$$\\frac{d s_{1}}{d \\lambda_{1}}=\\frac{D_{2} D_{3}}{\\sqrt{b^{2}-\\lambda_{1}^{2}} \\sqrt{c^{2}-\\lambda_{1}^{2}}}$$\n(6)\nIt is easy to see that $D_{2}$ and $D_{3}$ are the semi-axes of the\ncentral section of $\\lambda_{1}$ which is conjugate to the diameter passing\nthrough the given point, and that $D_{3}$ is parallel to $d s_{2}$, and\n$D_{2}$ to $d s_{3}$.\nIf we also substitute for the three parameters $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$ their\nvalues in terms of three functions $a, \\beta, \\gamma$, defined by the equations\n$$\\begin{aligned}\n& a=\\int_{0}^{\\lambda_{1}} \\frac{c d \\lambda_{1}}{\\sqrt{\\left(b^{2}-\\lambda_{1}^{2}\\right)\\left(c^{2}-\\lambda_{1}^{2}\\right)}} \\\\\n& \\beta=\\int_{b}^{\\lambda_{2}} \\frac{c d \\lambda_{2}}{\\sqrt{\\left(\\lambda_{2}^{2}-b^{2}\\right)\\left(c^{2}-\\lambda_{2}^{2}\\right)}} \\\\\n& \\gamma=\\int_{c}^{\\lambda_{3}} \\frac{c d \\lambda_{3}}{\\sqrt{\\left(\\lambda_{3}^{2}-b^{2}\\right)\\left(\\lambda_{3}^{2}-c^{2}\\right)}}\n\\end{aligned}$$\n(7)\n(8)\nthen $\\quad d s_{1}=\\frac{1}{c} D_{2} D_{3} d \\alpha, \\quad d s_{2}=\\frac{1}{c} D_{3} D_{1} d \\beta, d s_{3}=\\frac{1}{c} D_{1} D_{2} d \\gamma$.\n3)\n148.] Now let $V$ be the potential at any point, $\\alpha, \\beta, \\gamma$, then the\nresultant force in the direction of $d s_{1}$ is\n$$R_{1}=-\\frac{d V}{d s_{1}}=-\\frac{d V}{d a} \\frac{d a}{d s_{1}}=-\\frac{d V}{d a} \\frac{c}{D_{2} D_{3}} .$$\n(9)\nSince $d s_{1}, d s_{2}$, and $d s_{3}$ are at right angles to each other, the\nsurface-integral over the element of area $d s_{2} d s_{3}$ is\n$$\\begin{aligned}\nR_{1} d s_{2} d s_{3} & =-\\frac{d V}{d a} \\frac{c}{D_{2} D_{3}} \\cdot \\frac{D_{3} D_{1}}{c} \\cdot \\frac{D_{1} D_{2}}{c} \\cdot d \\beta d \\gamma \\\\\n& =-\\frac{d V}{d a} \\frac{D_{1}^{2}}{c} d \\beta d \\gamma\n\\end{aligned}$$\n(10)\nNow consider the element of volume intercepted between the\nsurface $a, \\beta, \\gamma$, and $a+d a, \\beta+d \\beta, \\gamma+d \\gamma$. There will be eight\nsuch elements, one in each octant of space.\nWe have found the surface-integral of the normal component\nof the force (measured inwards) for the element of surface\nintercepted from the surface $a$ by the surfaces $\\beta$ and $\\beta+d \\beta, \\gamma$\nand $\\gamma+d \\gamma$.\n",
+    "mathpix_markdown": "\n--- Page 268 ---\n\n\nThe denominator of this fraction is the product of the squares\n of the semi-axes of the surface $\\lambda_{1}$.\n\n\nIf we put\n\n$$\\begin{equation*}\nD_{1}^{2}=\\lambda_{3}^{2}-\\lambda_{2}^{2}, \\quad D_{2}^{2}=\\lambda_{3}^{2}-\\lambda_{1}^{2}, \\quad \\text { and } \\quad D_{3}^{2}=\\lambda_{2}^{2}-\\lambda_{1}^{2}, \\tag{5}\n\\end{equation*}$$\n\nand if we make $a=0$, then\n\n$$\\begin{equation*}\n\\frac{d s_{1}}{d \\lambda_{1}}=\\frac{D_{2} D_{3}}{\\sqrt{b^{2}-\\lambda_{1}^{2}} \\sqrt{c^{2}-\\lambda_{1}^{2}}} \\tag{6}\n\\end{equation*}$$\n\n\nIt is easy to see that $D_{2}$ and $D_{3}$ are the semi-axes of the\n central section of $\\lambda_{1}$ which is conjugate to the diameter passing\n through the given point, and that $D_{3}$ is parallel to $d s_{2}$, and\n $D_{2}$ to $d s_{3}$.\n\n\nIf we also substitute for the three parameters $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$ their\n values in terms of three functions $a, \\beta, \\gamma$, defined by the equations\n\n$$\\begin{align*}\n& a=\\int_{0}^{\\lambda_{1}} \\frac{c d \\lambda_{1}}{\\sqrt{\\left(b^{2}-\\lambda_{1}^{2}\\right)\\left(c^{2}-\\lambda_{1}^{2}\\right)}} \\\\\n& \\beta=\\int_{b}^{\\lambda_{2}} \\frac{c d \\lambda_{2}}{\\sqrt{\\left(\\lambda_{2}^{2}-b^{2}\\right)\\left(c^{2}-\\lambda_{2}^{2}\\right)}}  \\tag{7}\\\\\n& \\gamma=\\int_{c}^{\\lambda_{3}} \\frac{c d \\lambda_{3}}{\\sqrt{\\left(\\lambda_{3}^{2}-b^{2}\\right)\\left(\\lambda_{3}^{2}-c^{2}\\right)}} \\tag{3)}\n\\end{align*}$$\n\nthen $\\quad d s_{1}=\\frac{1}{c} D_{2} D_{3} d \\alpha, \\quad d s_{2}=\\frac{1}{c} D_{3} D_{1} d \\beta, d s_{3}=\\frac{1}{c} D_{1} D_{2} d \\gamma$.\n\n148.] Now let $V$ be the potential at any point, $\\alpha, \\beta, \\gamma$, then the\n resultant force in the direction of $d s_{1}$ is\n\n$$\\begin{equation*}\nR_{1}=-\\frac{d V}{d s_{1}}=-\\frac{d V}{d a} \\frac{d a}{d s_{1}}=-\\frac{d V}{d a} \\frac{c}{D_{2} D_{3}} . \\tag{9}\n\\end{equation*}$$\n\n\nSince $d s_{1}, d s_{2}$, and $d s_{3}$ are at right angles to each other, the\n surface-integral over the element of area $d s_{2} d s_{3}$ is\n\n$$\\begin{align*}\nR_{1} d s_{2} d s_{3} & =-\\frac{d V}{d a} \\frac{c}{D_{2} D_{3}} \\cdot \\frac{D_{3} D_{1}}{c} \\cdot \\frac{D_{1} D_{2}}{c} \\cdot d \\beta d \\gamma \\\\\n& =-\\frac{d V}{d a} \\frac{D_{1}^{2}}{c} d \\beta d \\gamma \\tag{10}\n\\end{align*}$$\n\n\nNow consider the element of volume intercepted between the\n surface $a, \\beta, \\gamma$, and $a+d a, \\beta+d \\beta, \\gamma+d \\gamma$. There will be eight\n such elements, one in each octant of space.\n\n\nWe have found the surface-integral of the normal component\n of the force (measured inwards) for the element of surface\n intercepted from the surface $a$ by the surfaces $\\beta$ and $\\beta+d \\beta, \\gamma$\n and $\\gamma+d \\gamma$.\n",
+    "structured_lines": [
+      {
+        "page": 268,
+        "line_number": 4,
+        "type": "text",
+        "content": "The denominator of this fraction is the product of the squares",
+        "mathpix_content": "\n\nThe denominator of this fraction is the product of the squares",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 5,
+        "type": "text",
+        "content": "of the semi-axes of the surface $\\lambda_{1}$.",
+        "mathpix_content": " of the semi-axes of the surface $\\lambda_{1}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 6,
+        "type": "text",
+        "content": "If we put",
+        "mathpix_content": "\n\nIf we put",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 10,
+        "type": "text",
+        "content": "and if we make $a=0$, then",
+        "mathpix_content": "\nand if we make $a=0$, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 14,
+        "type": "text",
+        "content": "It is easy to see that $D_{2}$ and $D_{3}$ are the semi-axes of the",
+        "mathpix_content": "\n\nIt is easy to see that $D_{2}$ and $D_{3}$ are the semi-axes of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 15,
+        "type": "text",
+        "content": "central section of $\\lambda_{1}$ which is conjugate to the diameter passing",
+        "mathpix_content": " central section of $\\lambda_{1}$ which is conjugate to the diameter passing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 16,
+        "type": "text",
+        "content": "through the given point, and that $D_{3}$ is parallel to $d s_{2}$, and",
+        "mathpix_content": " through the given point, and that $D_{3}$ is parallel to $d s_{2}$, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 17,
+        "type": "text",
+        "content": "$D_{2}$ to $d s_{3}$.",
+        "mathpix_content": " $D_{2}$ to $d s_{3}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 18,
+        "type": "text",
+        "content": "If we also substitute for the three parameters $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$ their",
+        "mathpix_content": "\n\nIf we also substitute for the three parameters $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}$ their",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 19,
+        "type": "text",
+        "content": "values in terms of three functions $a, \\beta, \\gamma$, defined by the equations",
+        "mathpix_content": " values in terms of three functions $a, \\beta, \\gamma$, defined by the equations",
+        "font_size": 27,
+        "confidence": 0.9726822313386947
+      },
+      {
+        "page": 268,
+        "line_number": 26,
+        "type": "text",
+        "content": "then $\\quad d s_{1}=\\frac{1}{c} D_{2} D_{3} d \\alpha, \\quad d s_{2}=\\frac{1}{c} D_{3} D_{1} d \\beta, d s_{3}=\\frac{1}{c} D_{1} D_{2} d \\gamma$.",
+        "mathpix_content": "\nthen $\\quad d s_{1}=\\frac{1}{c} D_{2} D_{3} d \\alpha, \\quad d s_{2}=\\frac{1}{c} D_{3} D_{1} d \\beta, d s_{3}=\\frac{1}{c} D_{1} D_{2} d \\gamma$.",
+        "font_size": 27,
+        "confidence": 0.3747124512702645
+      },
+      {
+        "page": 268,
+        "line_number": 28,
+        "type": "text",
+        "content": "148.] Now let $V$ be the potential at any point, $\\alpha, \\beta, \\gamma$, then the",
+        "mathpix_content": "\n148.] Now let $V$ be the potential at any point, $\\alpha, \\beta, \\gamma$, then the",
+        "font_size": 27,
+        "confidence": 0.9960982785560191
+      },
+      {
+        "page": 268,
+        "line_number": 29,
+        "type": "text",
+        "content": "resultant force in the direction of $d s_{1}$ is",
+        "mathpix_content": " resultant force in the direction of $d s_{1}$ is",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 268,
+        "line_number": 33,
+        "type": "text",
+        "content": "Since $d s_{1}, d s_{2}$, and $d s_{3}$ are at right angles to each other, the",
+        "mathpix_content": "\n\nSince $d s_{1}, d s_{2}$, and $d s_{3}$ are at right angles to each other, the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 268,
+        "line_number": 34,
+        "type": "text",
+        "content": "surface-integral over the element of area $d s_{2} d s_{3}$ is",
+        "mathpix_content": " surface-integral over the element of area $d s_{2} d s_{3}$ is",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 268,
+        "line_number": 39,
+        "type": "text",
+        "content": "Now consider the element of volume intercepted between the",
+        "mathpix_content": "\n\nNow consider the element of volume intercepted between the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 40,
+        "type": "text",
+        "content": "surface $a, \\beta, \\gamma$, and $a+d a, \\beta+d \\beta, \\gamma+d \\gamma$. There will be eight",
+        "mathpix_content": " surface $a, \\beta, \\gamma$, and $a+d a, \\beta+d \\beta, \\gamma+d \\gamma$. There will be eight",
+        "font_size": 27,
+        "confidence": 0.7813256608460506
+      },
+      {
+        "page": 268,
+        "line_number": 41,
+        "type": "text",
+        "content": "such elements, one in each octant of space.",
+        "mathpix_content": " such elements, one in each octant of space.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 42,
+        "type": "text",
+        "content": "We have found the surface-integral of the normal component",
+        "mathpix_content": "\n\nWe have found the surface-integral of the normal component",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 43,
+        "type": "text",
+        "content": "of the force (measured inwards) for the element of surface",
+        "mathpix_content": " of the force (measured inwards) for the element of surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 268,
+        "line_number": 44,
+        "type": "text",
+        "content": "intercepted from the surface $a$ by the surfaces $\\beta$ and $\\beta+d \\beta, \\gamma$",
+        "mathpix_content": " intercepted from the surface $a$ by the surfaces $\\beta$ and $\\beta+d \\beta, \\gamma$",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 268,
+        "line_number": 45,
+        "type": "text",
+        "content": "and $\\gamma+d \\gamma$.",
+        "mathpix_content": " and $\\gamma+d \\gamma$.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

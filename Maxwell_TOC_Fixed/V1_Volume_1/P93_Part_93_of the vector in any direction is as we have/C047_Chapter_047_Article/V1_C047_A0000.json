@@ -1,0 +1,20 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": ", \\frac{d X}{d z}-\\frac{d Z}{d x}=0, \\text { and } \\frac{d Y}{d x}-\\frac{d X}{d y}=0,$$",
+  "title_safe": "fracd Xd z-fracd Zd xequals0 text and fracd Yd x-fracd Xd ye",
+  "page_start": 52,
+  "page_end": 51,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "} / 8 \\pi a^{4}$. Hence the surface-integral taken over a sphere whose",
+  "title_safe": "SLASH 8 pi a4. Hence the surface-integral taken over a spher",
+  "page_start": 198,
+  "page_end": 198,
+  "content": {
+    "raw_text": "\n--- Page 198 ---\n108.]\nFORCE ON A CHARGED SURFACE.\n163\nsince the action of the element on itself must have a resultant zero.\nHence the $x$-component of this force per unit of area must be\n$$\\begin{aligned}\na & =\\sigma P_{0} \\\\\n& =\\frac{1}{2} \\sigma\\left(P+P^{\\prime}\\right)\n\\end{aligned}$$\n103.] If we define the potential (as in equation (2)) in terms\nof a distribution of electricity supposed to be given, then it follows\nfrom the fact that the action and reaction between any pair of\nelectric particles are equal and opposite, that the $x$-component of\nthe force arising from the action of a system on itself must be\nzero, and we may write this in the form\n$$\\frac{1}{4 \\pi} \\iiint \\frac{d \\Psi}{d x} \\nabla^{2} \\Psi d x d y d z=0$$\n(26)\nBut if we define $\\Psi$ as a function of $x, y, z$ which satisfies the\nequation\n$$\\nabla^{2} \\Psi=0$$\nat every point outside the closed surface $s$, and is zero at an infinite\ndistance, the fact, that the volume-integral extended throughout\nany space including $s$ is zero, would seem to require proof.\nOne method of proof is founded on the theorem (Art. $100 c$ ), that\nif $\\nabla^{2} \\Psi$ is given at every point, and $\\Psi=0$ at an infinite distance.\nthen the value of $\\Psi$ at every point is determinate and equal to\n$$\\Psi^{\\prime}=\\frac{1}{4 \\pi} \\iiint \\frac{1}{r} \\nabla^{2} \\Psi d x d y d z$$\n(27)\nwhere $r$ is the distance between the element $d x d y d z$ at which the\nconcentration of $\\Psi$ is given $=\\nabla^{2} \\Psi$ and the point $x^{\\prime}, y^{\\prime}, z^{\\prime}$ at which\n$\\Psi^{\\prime}$ is to be found.\nThis reduces the theorem to what we deduced from the first\ndefinition of $\\Psi$.\nBut when we consider $\\Psi$ as the primary function of $x, y, z$, from\nwhich the others are derived, it is more appropriate to reduce (26)\nto the form of a surface-integral,\n$$A=\\iint\\left(l_{p_{x x}}+m_{p_{x H}}+n p_{x z}\\right) d S$$\n(28)\nand if we suppose the surface $S$ to be everywhere at a great\ndistance $a$ from the surface 8 , which includes every point where\n$\\nabla^{\\circ} \\Psi$ differs from zero, then we know that $\\Psi$ cannot be numerically\ngreater than $e / a$, where $4 \\pi e$ is the volume-integral of $\\nabla^{2} \\Psi$, and that\n$R$ cannot be greater than $-d \\Psi / d a$ or $e / a^{2}$, and that the quantities\n$p_{x x}, p_{x y}, p_{x z}$ can none of them be greater than $p$, i.e. $R^{2} / 8 \\pi$ or\n$e^{2} / 8 \\pi a^{4}$. Hence the surface-integral taken over a sphere whose\nM 2\n",
+    "mathpix_markdown": "\n--- Page 198 ---\n\nsince the action of the element on itself must have a resultant zero.\n Hence the $x$-component of this force per unit of area must be\n\n$$\\begin{aligned}\na & =\\sigma P_{0} \\\\\n& =\\frac{1}{2} \\sigma\\left(P+P^{\\prime}\\right)\n\\end{aligned}$$\n\n103.] If we define the potential (as in equation (2)) in terms\n of a distribution of electricity supposed to be given, then it follows\n from the fact that the action and reaction between any pair of\n electric particles are equal and opposite, that the $x$-component of\n the force arising from the action of a system on itself must be\n zero, and we may write this in the form\n\n$$\\begin{equation*}\n\\frac{1}{4 \\pi} \\iiint \\frac{d \\Psi}{d x} \\nabla^{2} \\Psi d x d y d z=0 \\tag{26}\n\\end{equation*}$$\n\n\nBut if we define $\\Psi$ as a function of $x, y, z$ which satisfies the\n equation\n\n$$\\nabla^{2} \\Psi=0$$\n\nat every point outside the closed surface $s$, and is zero at an infinite\n distance, the fact, that the volume-integral extended throughout\n any space including $s$ is zero, would seem to require proof.\n\n\nOne method of proof is founded on the theorem (Art. $100 c$ ), that\n if $\\nabla^{2} \\Psi$ is given at every point, and $\\Psi=0$ at an infinite distance.\n then the value of $\\Psi$ at every point is determinate and equal to\n\n$$\\begin{equation*}\n\\Psi^{\\prime}=\\frac{1}{4 \\pi} \\iiint \\frac{1}{r} \\nabla^{2} \\Psi d x d y d z \\tag{27}\n\\end{equation*}$$\n\nwhere $r$ is the distance between the element $d x d y d z$ at which the\n concentration of $\\Psi$ is given $=\\nabla^{2} \\Psi$ and the point $x^{\\prime}, y^{\\prime}, z^{\\prime}$ at which\n $\\Psi^{\\prime}$ is to be found.\n\n\nThis reduces the theorem to what we deduced from the first\n definition of $\\Psi$.\n\n\nBut when we consider $\\Psi$ as the primary function of $x, y, z$, from\n which the others are derived, it is more appropriate to reduce (26)\n to the form of a surface-integral,\n\n$$\\begin{equation*}\nA=\\iint\\left(l_{p_{x x}}+m_{p_{x H}}+n p_{x z}\\right) d S \\tag{28}\n\\end{equation*}$$\n\nand if we suppose the surface $S$ to be everywhere at a great\n distance $a$ from the surface 8 , which includes every point where\n $\\nabla^{\\circ} \\Psi$ differs from zero, then we know that $\\Psi$ cannot be numerically\n greater than $e / a$, where $4 \\pi e$ is the volume-integral of $\\nabla^{2} \\Psi$, and that\n $R$ cannot be greater than $-d \\Psi / d a$ or $e / a^{2}$, and that the quantities\n $p_{x x}, p_{x y}, p_{x z}$ can none of them be greater than $p$, i.e. $R^{2} / 8 \\pi$ or\n $e^{2} / 8 \\pi a^{4}$. Hence the surface-integral taken over a sphere whose\n",
+    "structured_lines": [
+      {
+        "page": 198,
+        "line_number": 4,
+        "type": "text",
+        "content": "since the action of the element on itself must have a resultant zero.",
+        "mathpix_content": "\nsince the action of the element on itself must have a resultant zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 5,
+        "type": "text",
+        "content": "Hence the $x$-component of this force per unit of area must be",
+        "mathpix_content": " Hence the $x$-component of this force per unit of area must be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 9,
+        "type": "text",
+        "content": "103.] If we define the potential (as in equation (2)) in terms",
+        "mathpix_content": "\n103.] If we define the potential (as in equation (2)) in terms",
+        "font_size": 27,
+        "confidence": 0.98974609375
+      },
+      {
+        "page": 198,
+        "line_number": 10,
+        "type": "text",
+        "content": "of a distribution of electricity supposed to be given, then it follows",
+        "mathpix_content": " of a distribution of electricity supposed to be given, then it follows",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 11,
+        "type": "text",
+        "content": "from the fact that the action and reaction between any pair of",
+        "mathpix_content": " from the fact that the action and reaction between any pair of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 12,
+        "type": "text",
+        "content": "electric particles are equal and opposite, that the $x$-component of",
+        "mathpix_content": " electric particles are equal and opposite, that the $x$-component of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 13,
+        "type": "text",
+        "content": "the force arising from the action of a system on itself must be",
+        "mathpix_content": " the force arising from the action of a system on itself must be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 14,
+        "type": "text",
+        "content": "zero, and we may write this in the form",
+        "mathpix_content": " zero, and we may write this in the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 18,
+        "type": "text",
+        "content": "But if we define $\\Psi$ as a function of $x, y, z$ which satisfies the",
+        "mathpix_content": "\n\nBut if we define $\\Psi$ as a function of $x, y, z$ which satisfies the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 19,
+        "type": "text",
+        "content": "equation",
+        "mathpix_content": " equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 22,
+        "type": "text",
+        "content": "at every point outside the closed surface $s$, and is zero at an infinite",
+        "mathpix_content": "\nat every point outside the closed surface $s$, and is zero at an infinite",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 198,
+        "line_number": 23,
+        "type": "text",
+        "content": "distance, the fact, that the volume-integral extended throughout",
+        "mathpix_content": " distance, the fact, that the volume-integral extended throughout",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 24,
+        "type": "text",
+        "content": "any space including $s$ is zero, would seem to require proof.",
+        "mathpix_content": " any space including $s$ is zero, would seem to require proof.",
+        "font_size": 27,
+        "confidence": 0.9638671875
+      },
+      {
+        "page": 198,
+        "line_number": 25,
+        "type": "text",
+        "content": "One method of proof is founded on the theorem (Art. $100 c$ ), that",
+        "mathpix_content": "\n\nOne method of proof is founded on the theorem (Art. $100 c$ ), that",
+        "font_size": 27,
+        "confidence": 0.9956073760986328
+      },
+      {
+        "page": 198,
+        "line_number": 26,
+        "type": "text",
+        "content": "if $\\nabla^{2} \\Psi$ is given at every point, and $\\Psi=0$ at an infinite distance.",
+        "mathpix_content": " if $\\nabla^{2} \\Psi$ is given at every point, and $\\Psi=0$ at an infinite distance.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 198,
+        "line_number": 27,
+        "type": "text",
+        "content": "then the value of $\\Psi$ at every point is determinate and equal to",
+        "mathpix_content": " then the value of $\\Psi$ at every point is determinate and equal to",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 198,
+        "line_number": 31,
+        "type": "text",
+        "content": "where $r$ is the distance between the element $d x d y d z$ at which the",
+        "mathpix_content": "\nwhere $r$ is the distance between the element $d x d y d z$ at which the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 198,
+        "line_number": 32,
+        "type": "text",
+        "content": "concentration of $\\Psi$ is given $=\\nabla^{2} \\Psi$ and the point $x^{\\prime}, y^{\\prime}, z^{\\prime}$ at which",
+        "mathpix_content": " concentration of $\\Psi$ is given $=\\nabla^{2} \\Psi$ and the point $x^{\\prime}, y^{\\prime}, z^{\\prime}$ at which",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 198,
+        "line_number": 33,
+        "type": "text",
+        "content": "$\\Psi^{\\prime}$ is to be found.",
+        "mathpix_content": " $\\Psi^{\\prime}$ is to be found.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 34,
+        "type": "text",
+        "content": "This reduces the theorem to what we deduced from the first",
+        "mathpix_content": "\n\nThis reduces the theorem to what we deduced from the first",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 35,
+        "type": "text",
+        "content": "definition of $\\Psi$.",
+        "mathpix_content": " definition of $\\Psi$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 36,
+        "type": "text",
+        "content": "But when we consider $\\Psi$ as the primary function of $x, y, z$, from",
+        "mathpix_content": "\n\nBut when we consider $\\Psi$ as the primary function of $x, y, z$, from",
+        "font_size": 27,
+        "confidence": 0.9956073760986328
+      },
+      {
+        "page": 198,
+        "line_number": 37,
+        "type": "text",
+        "content": "which the others are derived, it is more appropriate to reduce (26)",
+        "mathpix_content": " which the others are derived, it is more appropriate to reduce (26)",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 198,
+        "line_number": 38,
+        "type": "text",
+        "content": "to the form of a surface-integral,",
+        "mathpix_content": " to the form of a surface-integral,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 42,
+        "type": "text",
+        "content": "and if we suppose the surface $S$ to be everywhere at a great",
+        "mathpix_content": "\nand if we suppose the surface $S$ to be everywhere at a great",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 198,
+        "line_number": 43,
+        "type": "text",
+        "content": "distance $a$ from the surface 8 , which includes every point where",
+        "mathpix_content": " distance $a$ from the surface 8 , which includes every point where",
+        "font_size": 27,
+        "confidence": 0.9757404546253383
+      },
+      {
+        "page": 198,
+        "line_number": 44,
+        "type": "text",
+        "content": "$\\nabla^{\\circ} \\Psi$ differs from zero, then we know that $\\Psi$ cannot be numerically",
+        "mathpix_content": " $\\nabla^{\\circ} \\Psi$ differs from zero, then we know that $\\Psi$ cannot be numerically",
+        "font_size": 27,
+        "confidence": 0.452392578125
+      },
+      {
+        "page": 198,
+        "line_number": 45,
+        "type": "text",
+        "content": "greater than $e / a$, where $4 \\pi e$ is the volume-integral of $\\nabla^{2} \\Psi$, and that",
+        "mathpix_content": " greater than $e / a$, where $4 \\pi e$ is the volume-integral of $\\nabla^{2} \\Psi$, and that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 198,
+        "line_number": 46,
+        "type": "text",
+        "content": "$R$ cannot be greater than $-d \\Psi / d a$ or $e / a^{2}$, and that the quantities",
+        "mathpix_content": " $R$ cannot be greater than $-d \\Psi / d a$ or $e / a^{2}$, and that the quantities",
+        "font_size": 27,
+        "confidence": 0.9581293144773956
+      },
+      {
+        "page": 198,
+        "line_number": 47,
+        "type": "text",
+        "content": "$p_{x x}, p_{x y}, p_{x z}$ can none of them be greater than $p$, i.e. $R^{2} / 8 \\pi$ or",
+        "mathpix_content": " $p_{x x}, p_{x y}, p_{x z}$ can none of them be greater than $p$, i.e. $R^{2} / 8 \\pi$ or",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 198,
+        "line_number": 48,
+        "type": "text",
+        "content": "$e^{2} / 8 \\pi a^{4}$. Hence the surface-integral taken over a sphere whose",
+        "mathpix_content": " $e^{2} / 8 \\pi a^{4}$. Hence the surface-integral taken over a sphere whose",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

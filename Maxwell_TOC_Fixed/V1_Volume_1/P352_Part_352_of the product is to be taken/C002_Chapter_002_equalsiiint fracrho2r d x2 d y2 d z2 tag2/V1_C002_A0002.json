@@ -1,0 +1,264 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}=\\iiint \\frac{\\rho_{2}}{r} d x_{2} d y_{2} d z_{2}, \\tag{2}",
+  "title_safe": "equalsiiint fracrho2r d x2 d y2 d z2 tag2",
+  "page_start": 190,
+  "page_end": 190,
+  "content": {
+    "raw_text": "\n--- Page 190 ---\n\nCHAPTER V.\n\nMECHANICAL ACTION BETWEEN TWO ELECTRICAL SYSTEMS.\n103.] Let $E_{1}$ and $E_{2}$ be two electrical systems the mutual\naction between which we propose to investigate. Let the dis-\ntribution of electricity in $E_{1}$ be defined by the volume-density,\n$\\rho_{1}$, of the element whose coordinates are $x_{1}, y_{1}, z_{1}$. Let $\\rho_{2}$ be the\nvolume-density of the element of $E_{2}$, whose coordinates are\n$x_{2}, y_{2}, z_{2}$.\nThen the $x$-component of the force acting on the element of $E_{1}$\non account of the repulsion of the element of $E_{2}$ will be\n$$\\rho_{1} \\rho_{2} \\frac{x_{1}-x_{2}}{r^{3}} d x_{1} d y_{1} d z_{1} d x_{2} d y_{2} d z_{2},$$\nwhere\n$$r^{2}=\\left(x_{1}-x_{2}\\right)^{2}+\\left(y_{1}-y_{2}\\right)^{2}+\\left(z_{1}-z_{2}\\right)^{2},$$\nand if $A$ denotes the $x$-component of the whole force acting on $E_{1}$\non account of the presence of $E_{2}$\n$$A=\\iiint \\iiint \\frac{x_{1}-x_{2}}{r^{3}} \\rho_{1} \\rho_{2} d x_{1} d y_{1} d z_{1} d x_{2} d y_{2} d z_{2}$$\n(1)\nwhere the integration with respect to $x_{1}, y_{1}, z_{1}$ is extended\nthroughout the region occupied by $E_{1}$, and the integration with\nrespect to $x_{2}, y_{2}, z_{2}$ is extended throughout the region occupied\nby $E_{2}$.\nSince, however, $\\rho_{1}$ is zero except in the system $E_{1}$, and $\\rho_{2}$ is zero\nexcept in the system $E_{2}$, the value of the integral will not be\naltered by extending the limits of the integrations, so that we\nmay suppose the limits of every integration to be $\\pm \\infty$.\nThis expression for the force is a literal translation into mathe-\nmatical symbols of the theory which supposes the electric force\nto act directly between bodies at a distance, no attention being\nbestowed on the intervening medium.\nIf we now define $\\Psi_{2}$, the potential at the point $x_{1}, y_{1}, z_{1}$,\narising from the presence of the system $E_{2}$, by the equation\n$$\\Psi_{2}=\\iiint \\frac{\\rho_{2}}{r} d x_{2} d y_{2} d z_{2},$$\n(2)\n",
+    "mathpix_markdown": "\n--- Page 190 ---\n\n\n\\section*{CHAPTER V.}\n\n\n\\section*{MECHANICAL ACTION BETWEEN TWO ELECTRICAL SYSTEMS.}\n\n103.] Let $E_{1}$ and $E_{2}$ be two electrical systems the mutual\n action between which we propose to investigate. Let the dis\ntribution of electricity in $E_{1}$ be defined by the volume-density,\n $\\rho_{1}$, of the element whose coordinates are $x_{1}, y_{1}, z_{1}$. Let $\\rho_{2}$ be the\n volume-density of the element of $E_{2}$, whose coordinates are\n $x_{2}, y_{2}, z_{2}$.\n\n\nThen the $x$-component of the force acting on the element of $E_{1}$\n on account of the repulsion of the element of $E_{2}$ will be\n\n$$\\rho_{1} \\rho_{2} \\frac{x_{1}-x_{2}}{r^{3}} d x_{1} d y_{1} d z_{1} d x_{2} d y_{2} d z_{2},$$\n\nwhere\n\n$$r^{2}=\\left(x_{1}-x_{2}\\right)^{2}+\\left(y_{1}-y_{2}\\right)^{2}+\\left(z_{1}-z_{2}\\right)^{2},$$\n\nand if $A$ denotes the $x$-component of the whole force acting on $E_{1}$\n on account of the presence of $E_{2}$\n\n$$\\begin{equation*}\nA=\\iiint \\iiint \\frac{x_{1}-x_{2}}{r^{3}} \\rho_{1} \\rho_{2} d x_{1} d y_{1} d z_{1} d x_{2} d y_{2} d z_{2} \\tag{1}\n\\end{equation*}$$\n\nwhere the integration with respect to $x_{1}, y_{1}, z_{1}$ is extended\n throughout the region occupied by $E_{1}$, and the integration with\n respect to $x_{2}, y_{2}, z_{2}$ is extended throughout the region occupied\n by $E_{2}$.\n\n\nSince, however, $\\rho_{1}$ is zero except in the system $E_{1}$, and $\\rho_{2}$ is zero\n except in the system $E_{2}$, the value of the integral will not be\n altered by extending the limits of the integrations, so that we\n may suppose the limits of every integration to be $\\pm \\infty$.\n\n\nThis expression for the force is a literal translation into mathe\nmatical symbols of the theory which supposes the electric force\n to act directly between bodies at a distance, no attention being\n bestowed on the intervening medium.\n\n\nIf we now define $\\Psi_{2}$, the potential at the point $x_{1}, y_{1}, z_{1}$,\n arising from the presence of the system $E_{2}$, by the equation\n\n$$\\begin{equation*}\n\\Psi_{2}=\\iiint \\frac{\\rho_{2}}{r} d x_{2} d y_{2} d z_{2}, \\tag{2}\n\\end{equation*}$$\n",
+    "structured_lines": [
+      {
+        "page": 190,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER V.",
+        "mathpix_content": "\n\n\\section*{CHAPTER V.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 4,
+        "type": "text",
+        "content": "MECHANICAL ACTION BETWEEN TWO ELECTRICAL SYSTEMS.",
+        "mathpix_content": "\n\n\\section*{MECHANICAL ACTION BETWEEN TWO ELECTRICAL SYSTEMS.}",
+        "font_size": 27,
+        "confidence": 0.5927734375
+      },
+      {
+        "page": 190,
+        "line_number": 5,
+        "type": "text",
+        "content": "103.] Let $E_{1}$ and $E_{2}$ be two electrical systems the mutual",
+        "mathpix_content": "\n103.] Let $E_{1}$ and $E_{2}$ be two electrical systems the mutual",
+        "font_size": 27,
+        "confidence": 0.86328125
+      },
+      {
+        "page": 190,
+        "line_number": 6,
+        "type": "text",
+        "content": "action between which we propose to investigate. Let the dis-",
+        "mathpix_content": " action between which we propose to investigate. Let the dis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 7,
+        "type": "text",
+        "content": "tribution of electricity in $E_{1}$ be defined by the volume-density,",
+        "mathpix_content": "tribution of electricity in $E_{1}$ be defined by the volume-density,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 8,
+        "type": "text",
+        "content": "$\\rho_{1}$, of the element whose coordinates are $x_{1}, y_{1}, z_{1}$. Let $\\rho_{2}$ be the",
+        "mathpix_content": " $\\rho_{1}$, of the element whose coordinates are $x_{1}, y_{1}, z_{1}$. Let $\\rho_{2}$ be the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 9,
+        "type": "text",
+        "content": "volume-density of the element of $E_{2}$, whose coordinates are",
+        "mathpix_content": " volume-density of the element of $E_{2}$, whose coordinates are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 10,
+        "type": "text",
+        "content": "$x_{2}, y_{2}, z_{2}$.",
+        "mathpix_content": " $x_{2}, y_{2}, z_{2}$.",
+        "font_size": 27,
+        "confidence": 0.90478515625
+      },
+      {
+        "page": 190,
+        "line_number": 11,
+        "type": "text",
+        "content": "Then the $x$-component of the force acting on the element of $E_{1}$",
+        "mathpix_content": "\n\nThen the $x$-component of the force acting on the element of $E_{1}$",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 190,
+        "line_number": 12,
+        "type": "text",
+        "content": "on account of the repulsion of the element of $E_{2}$ will be",
+        "mathpix_content": " on account of the repulsion of the element of $E_{2}$ will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 15,
+        "type": "text",
+        "content": "where",
+        "mathpix_content": "\nwhere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 18,
+        "type": "text",
+        "content": "and if $A$ denotes the $x$-component of the whole force acting on $E_{1}$",
+        "mathpix_content": "\nand if $A$ denotes the $x$-component of the whole force acting on $E_{1}$",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 190,
+        "line_number": 19,
+        "type": "text",
+        "content": "on account of the presence of $E_{2}$",
+        "mathpix_content": " on account of the presence of $E_{2}$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 23,
+        "type": "text",
+        "content": "where the integration with respect to $x_{1}, y_{1}, z_{1}$ is extended",
+        "mathpix_content": "\nwhere the integration with respect to $x_{1}, y_{1}, z_{1}$ is extended",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 24,
+        "type": "text",
+        "content": "throughout the region occupied by $E_{1}$, and the integration with",
+        "mathpix_content": " throughout the region occupied by $E_{1}$, and the integration with",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 25,
+        "type": "text",
+        "content": "respect to $x_{2}, y_{2}, z_{2}$ is extended throughout the region occupied",
+        "mathpix_content": " respect to $x_{2}, y_{2}, z_{2}$ is extended throughout the region occupied",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 26,
+        "type": "text",
+        "content": "by $E_{2}$.",
+        "mathpix_content": " by $E_{2}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 27,
+        "type": "text",
+        "content": "Since, however, $\\rho_{1}$ is zero except in the system $E_{1}$, and $\\rho_{2}$ is zero",
+        "mathpix_content": "\n\nSince, however, $\\rho_{1}$ is zero except in the system $E_{1}$, and $\\rho_{2}$ is zero",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 28,
+        "type": "text",
+        "content": "except in the system $E_{2}$, the value of the integral will not be",
+        "mathpix_content": " except in the system $E_{2}$, the value of the integral will not be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 29,
+        "type": "text",
+        "content": "altered by extending the limits of the integrations, so that we",
+        "mathpix_content": " altered by extending the limits of the integrations, so that we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 30,
+        "type": "text",
+        "content": "may suppose the limits of every integration to be $\\pm \\infty$.",
+        "mathpix_content": " may suppose the limits of every integration to be $\\pm \\infty$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 31,
+        "type": "text",
+        "content": "This expression for the force is a literal translation into mathe-",
+        "mathpix_content": "\n\nThis expression for the force is a literal translation into mathe",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 190,
+        "line_number": 32,
+        "type": "text",
+        "content": "matical symbols of the theory which supposes the electric force",
+        "mathpix_content": "matical symbols of the theory which supposes the electric force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 33,
+        "type": "text",
+        "content": "to act directly between bodies at a distance, no attention being",
+        "mathpix_content": " to act directly between bodies at a distance, no attention being",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 34,
+        "type": "text",
+        "content": "bestowed on the intervening medium.",
+        "mathpix_content": " bestowed on the intervening medium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 35,
+        "type": "text",
+        "content": "If we now define $\\Psi_{2}$, the potential at the point $x_{1}, y_{1}, z_{1}$,",
+        "mathpix_content": "\n\nIf we now define $\\Psi_{2}$, the potential at the point $x_{1}, y_{1}, z_{1}$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 190,
+        "line_number": 36,
+        "type": "text",
+        "content": "arising from the presence of the system $E_{2}$, by the equation",
+        "mathpix_content": " arising from the presence of the system $E_{2}$, by the equation",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

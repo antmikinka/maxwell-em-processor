@@ -1,0 +1,430 @@
+{
+  "chapter_id": "chapter_2",
+  "chapter_number": 395,
+  "title": "it is seen to become covered with bubbles of hydrogen gas,",
+  "page_start": 430,
+  "page_end": 430,
+  "articles": [
+    {
+      "article_id": "article_272",
+      "article_number": 272,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 430,
+      "page_end": 429,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_272",
+      "article_number": 272,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 430,
+      "page_end": 429,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_395",
+      "article_number": 395,
+      "title_original": "it is seen to become covered with bubbles of hydrogen gas,",
+      "title_safe": "it is seen to become covered with bubbles of hydrogen gas",
+      "page_start": 430,
+      "page_end": 430,
+      "content": {
+        "raw_text": "\n--- Page 430 ---\n272.]\nCONSTANT VOLTAIO ELEMENTS.\n395\nit is seen to become covered with bubbles of hydrogen gas,\narising from the electrolytic decomposition of the fluid. Of\ncourse these bubbles, by preventing the fluid from touching\nthe metal, diminish the surface of contact and increase the\nresistance of the circuit. But besides the visible bubbles it is\ncertain that there is a thin coating of hydrogen, probably not\nin a free state, adhering to the metal, and as we have seen that\nthis coating is able to produce an electromotive force in the\nreverse direction, it must necessarily diminish the electromotive\nforce of the battery.\nVarious plans have been adopted to get rid of this coating of\nhydrogen. It may be diminished to some extent by mechanical\nmeans, such as stirring the liquid, or rubbing the surface of\nthe negative plate. In Smee's battery the negative plates are\nvertical, and covered with finely divided platinum from which\nthe bubbles of hydrogen easily escape, and in their ascent\nproduce a current of liquid which helps to brush off other\nbubbles as they are formed.\nA far more efficacious method, however, is to employ chemical\nmeans. These are of two kinds. In the batteries of Grove and\nBunsen the negative plate is immersed in a fluid rich in oxygen,\nand the hydrogen, instead of forming a coating on the plate,\ncombines with this substance. In Grove's battery the plate is\nof platinum immersed in strong nitric acid. In Bunsen's first\nbattery it is of carbon in the same acid. Chromic acid is also\nused for the same purpose, and has the advantage of being free\nfrom the acid fumes produced by the reduction of nitric acid.\nA different mode of getting rid of the hydrogen is by using\ncopper as the negative metal, and covering the surface with a\ncoat of oxide. This, however, rapidly disappears when it is used\nas the negative electrode. To renew it Joule has proposed to\nmake the copper plates in the form of disks, half immersed in the\nliquid, and to rotate them slowly, so that the air may act on the\nparts exposed to it in turn.\nThe other method is by using as the liquid an electrolyte, the\ncation of which is a metal highly negative to zinc.\nIn Daniell's battery a copper plate is immersed in a saturated\nsolution of sulphate of copper. When the current flows through\nthe solution from the zinc to the copper no hydrogen appears\non the copper plate, but copper is deposited on it. When the\n",
+        "mathpix_markdown": "\n--- Page 430 ---\n\nit is seen to become covered with bubbles of hydrogen gas,\n arising from the electrolytic decomposition of the fluid. Of\n course these bubbles, by preventing the fluid from touching\n the metal, diminish the surface of contact and increase the\n resistance of the circuit. But besides the visible bubbles it is\n certain that there is a thin coating of hydrogen, probably not\n in a free state, adhering to the metal, and as we have seen that\n this coating is able to produce an electromotive force in the\n reverse direction, it must necessarily diminish the electromotive\n force of the battery.\n\n\nVarious plans have been adopted to get rid of this coating of\n hydrogen. It may be diminished to some extent by mechanical\n means, such as stirring the liquid, or rubbing the surface of\n the negative plate. In Smee's battery the negative plates are\n vertical, and covered with finely divided platinum from which\n the bubbles of hydrogen easily escape, and in their ascent\n produce a current of liquid which helps to brush off other\n bubbles as they are formed.\n\n\nA far more efficacious method, however, is to employ chemical\n means. These are of two kinds. In the batteries of Grove and\n Bunsen the negative plate is immersed in a fluid rich in oxygen,\n and the hydrogen, instead of forming a coating on the plate,\n combines with this substance. In Grove's battery the plate is\n of platinum immersed in strong nitric acid. In Bunsen's first\n battery it is of carbon in the same acid. Chromic acid is also\n used for the same purpose, and has the advantage of being free\n from the acid fumes produced by the reduction of nitric acid.\n\n\nA different mode of getting rid of the hydrogen is by using\n copper as the negative metal, and covering the surface with a\n coat of oxide. This, however, rapidly disappears when it is used\n as the negative electrode. To renew it Joule has proposed to\n make the copper plates in the form of disks, half immersed in the\n liquid, and to rotate them slowly, so that the air may act on the\n parts exposed to it in turn.\n\n\nThe other method is by using as the liquid an electrolyte, the\n cation of which is a metal highly negative to zinc.\n\n\nIn Daniell's battery a copper plate is immersed in a saturated\n solution of sulphate of copper. When the current flows through\n the solution from the zinc to the copper no hydrogen appears\n on the copper plate, but copper is deposited on it. When the\n",
+        "structured_lines": [
+          {
+            "page": 430,
+            "line_number": 4,
+            "type": "text",
+            "content": "it is seen to become covered with bubbles of hydrogen gas,",
+            "mathpix_content": "\nit is seen to become covered with bubbles of hydrogen gas,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 5,
+            "type": "text",
+            "content": "arising from the electrolytic decomposition of the fluid. Of",
+            "mathpix_content": " arising from the electrolytic decomposition of the fluid. Of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 6,
+            "type": "text",
+            "content": "course these bubbles, by preventing the fluid from touching",
+            "mathpix_content": " course these bubbles, by preventing the fluid from touching",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 7,
+            "type": "text",
+            "content": "the metal, diminish the surface of contact and increase the",
+            "mathpix_content": " the metal, diminish the surface of contact and increase the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 8,
+            "type": "text",
+            "content": "resistance of the circuit. But besides the visible bubbles it is",
+            "mathpix_content": " resistance of the circuit. But besides the visible bubbles it is",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 9,
+            "type": "text",
+            "content": "certain that there is a thin coating of hydrogen, probably not",
+            "mathpix_content": " certain that there is a thin coating of hydrogen, probably not",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 10,
+            "type": "text",
+            "content": "in a free state, adhering to the metal, and as we have seen that",
+            "mathpix_content": " in a free state, adhering to the metal, and as we have seen that",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 11,
+            "type": "text",
+            "content": "this coating is able to produce an electromotive force in the",
+            "mathpix_content": " this coating is able to produce an electromotive force in the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 12,
+            "type": "text",
+            "content": "reverse direction, it must necessarily diminish the electromotive",
+            "mathpix_content": " reverse direction, it must necessarily diminish the electromotive",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 13,
+            "type": "text",
+            "content": "force of the battery.",
+            "mathpix_content": " force of the battery.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 14,
+            "type": "text",
+            "content": "Various plans have been adopted to get rid of this coating of",
+            "mathpix_content": "\n\nVarious plans have been adopted to get rid of this coating of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 15,
+            "type": "text",
+            "content": "hydrogen. It may be diminished to some extent by mechanical",
+            "mathpix_content": " hydrogen. It may be diminished to some extent by mechanical",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 16,
+            "type": "text",
+            "content": "means, such as stirring the liquid, or rubbing the surface of",
+            "mathpix_content": " means, such as stirring the liquid, or rubbing the surface of",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 17,
+            "type": "text",
+            "content": "the negative plate. In Smee's battery the negative plates are",
+            "mathpix_content": " the negative plate. In Smee's battery the negative plates are",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 18,
+            "type": "text",
+            "content": "vertical, and covered with finely divided platinum from which",
+            "mathpix_content": " vertical, and covered with finely divided platinum from which",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 19,
+            "type": "text",
+            "content": "the bubbles of hydrogen easily escape, and in their ascent",
+            "mathpix_content": " the bubbles of hydrogen easily escape, and in their ascent",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 20,
+            "type": "text",
+            "content": "produce a current of liquid which helps to brush off other",
+            "mathpix_content": " produce a current of liquid which helps to brush off other",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 21,
+            "type": "text",
+            "content": "bubbles as they are formed.",
+            "mathpix_content": " bubbles as they are formed.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 22,
+            "type": "text",
+            "content": "A far more efficacious method, however, is to employ chemical",
+            "mathpix_content": "\n\nA far more efficacious method, however, is to employ chemical",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 23,
+            "type": "text",
+            "content": "means. These are of two kinds. In the batteries of Grove and",
+            "mathpix_content": " means. These are of two kinds. In the batteries of Grove and",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 24,
+            "type": "text",
+            "content": "Bunsen the negative plate is immersed in a fluid rich in oxygen,",
+            "mathpix_content": " Bunsen the negative plate is immersed in a fluid rich in oxygen,",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 430,
+            "line_number": 25,
+            "type": "text",
+            "content": "and the hydrogen, instead of forming a coating on the plate,",
+            "mathpix_content": " and the hydrogen, instead of forming a coating on the plate,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 26,
+            "type": "text",
+            "content": "combines with this substance. In Grove's battery the plate is",
+            "mathpix_content": " combines with this substance. In Grove's battery the plate is",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 27,
+            "type": "text",
+            "content": "of platinum immersed in strong nitric acid. In Bunsen's first",
+            "mathpix_content": " of platinum immersed in strong nitric acid. In Bunsen's first",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 28,
+            "type": "text",
+            "content": "battery it is of carbon in the same acid. Chromic acid is also",
+            "mathpix_content": " battery it is of carbon in the same acid. Chromic acid is also",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 29,
+            "type": "text",
+            "content": "used for the same purpose, and has the advantage of being free",
+            "mathpix_content": " used for the same purpose, and has the advantage of being free",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 30,
+            "type": "text",
+            "content": "from the acid fumes produced by the reduction of nitric acid.",
+            "mathpix_content": " from the acid fumes produced by the reduction of nitric acid.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 31,
+            "type": "text",
+            "content": "A different mode of getting rid of the hydrogen is by using",
+            "mathpix_content": "\n\nA different mode of getting rid of the hydrogen is by using",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 32,
+            "type": "text",
+            "content": "copper as the negative metal, and covering the surface with a",
+            "mathpix_content": " copper as the negative metal, and covering the surface with a",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 33,
+            "type": "text",
+            "content": "coat of oxide. This, however, rapidly disappears when it is used",
+            "mathpix_content": " coat of oxide. This, however, rapidly disappears when it is used",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 34,
+            "type": "text",
+            "content": "as the negative electrode. To renew it Joule has proposed to",
+            "mathpix_content": " as the negative electrode. To renew it Joule has proposed to",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 35,
+            "type": "text",
+            "content": "make the copper plates in the form of disks, half immersed in the",
+            "mathpix_content": " make the copper plates in the form of disks, half immersed in the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 36,
+            "type": "text",
+            "content": "liquid, and to rotate them slowly, so that the air may act on the",
+            "mathpix_content": " liquid, and to rotate them slowly, so that the air may act on the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 37,
+            "type": "text",
+            "content": "parts exposed to it in turn.",
+            "mathpix_content": " parts exposed to it in turn.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 38,
+            "type": "text",
+            "content": "The other method is by using as the liquid an electrolyte, the",
+            "mathpix_content": "\n\nThe other method is by using as the liquid an electrolyte, the",
+            "font_size": 34,
+            "confidence": 0.982421875
+          },
+          {
+            "page": 430,
+            "line_number": 39,
+            "type": "text",
+            "content": "cation of which is a metal highly negative to zinc.",
+            "mathpix_content": " cation of which is a metal highly negative to zinc.",
+            "font_size": 34,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 430,
+            "line_number": 40,
+            "type": "text",
+            "content": "In Daniell's battery a copper plate is immersed in a saturated",
+            "mathpix_content": "\n\nIn Daniell's battery a copper plate is immersed in a saturated",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 41,
+            "type": "text",
+            "content": "solution of sulphate of copper. When the current flows through",
+            "mathpix_content": " solution of sulphate of copper. When the current flows through",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 430,
+            "line_number": 42,
+            "type": "text",
+            "content": "the solution from the zinc to the copper no hydrogen appears",
+            "mathpix_content": " the solution from the zinc to the copper no hydrogen appears",
+            "font_size": 34,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 430,
+            "line_number": 43,
+            "type": "text",
+            "content": "on the copper plate, but copper is deposited on it. When the",
+            "mathpix_content": " on the copper plate, but copper is deposited on it. When the",
+            "font_size": 34,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

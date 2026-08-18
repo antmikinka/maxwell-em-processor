@@ -1,0 +1,433 @@
+{
+  "chapter_id": "chapter_26",
+  "chapter_number": 1,
+  "title": "} y$.",
+  "page_start": 323,
+  "page_end": 323,
+  "articles": [
+    {
+      "article_id": "article_185",
+      "article_number": 185,
+      "title_original": "For",
+      "title_safe": "For",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_288",
+      "article_number": 288,
+      "title_original": "CONDUGATE FUNCTIONS.",
+      "title_safe": "CONDUGATE FUNCTIONS",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_185",
+      "article_number": 185,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} y^{\\prime \\prime}$ is a function of $x^{\\prime}+\\sqrt{-1} y^{\\prime}$, and",
+      "title_safe": "yprime prime is a function of xprimeplussqrt-1 yprime and",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} y^{\\prime}$ is a function of $x+\\sqrt{-1} y$. Hence, $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$",
+      "title_safe": "yprime is a function of xplussqrt-1 y. Hence xprime primeplu",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} y$.",
+      "title_safe": "y",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} y^{\\prime \\prime}$ is a function of $x^{\\prime}+\\sqrt{-1} y^{\\prime}$, and",
+      "title_safe": "yprime prime is a function of xprimeplussqrt-1 yprime and",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} y^{\\prime}$ is a function of $x+\\sqrt{-1} y$. Hence, $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$",
+      "title_safe": "yprime is a function of xplussqrt-1 y. Hence xprime primeplu",
+      "page_start": 323,
+      "page_end": 322,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} y$.",
+      "title_safe": "y",
+      "page_start": 323,
+      "page_end": 323,
+      "content": {
+        "raw_text": "\n--- Page 323 ---\n288\nCONDUGATE FUNCTIONS.\n[185.\nFor\n$$\\begin{aligned}\n\\frac{d x^{\\prime \\prime}}{d x} & =\\frac{d x^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d x}+\\frac{d x^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d x}, \\\\\n& =\\frac{d y^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d y}+\\frac{d y^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d y}, \\\\\n& =\\frac{d y^{\\prime \\prime}}{d y} ; \\\\\n\\text { and } \\frac{d x^{\\prime \\prime}}{d y} & =\\frac{d x^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d y}+\\frac{d x^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d y}, \\\\\n& =-\\frac{d y^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d x}-\\frac{d y^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d x}, \\\\\n& =-\\frac{d y^{\\prime \\prime}}{d y} ;\n\\end{aligned}$$\nand these are the conditions that $x^{\\prime \\prime}$ and $y^{\\prime \\prime}$ should be conjugate\nfunctions of $x$ and $y$.\nThis may also be shewn from the original definition of conjugate\nfunctions. For $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$ is a function of $x^{\\prime}+\\sqrt{-1} y^{\\prime}$, and\n$x^{\\prime}+\\sqrt{-1} y^{\\prime}$ is a function of $x+\\sqrt{-1} y$. Hence, $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$\nis a function of $x+\\sqrt{-1} y$.\nIn the same way we may shew that if $x^{\\prime}$ and $y^{\\prime}$ are conjugate\nfunctions of $x$ and $y$, then $x$ and $y$ are conjugate functions of $x^{\\prime}$\nand $y^{\\prime}$.\nThis theorem may be interpreted graphically as follows :-\nLet $x^{\\prime}, y^{\\prime}$ be taken as rectangular coordinates, and let the\ncurves corresponding to values of $x^{\\prime \\prime}$ and of $y^{\\prime \\prime}$ taken in regular\narithmetical series be drawn on paper. A double system of\ncurves will thus be drawn cutting the paper into little squares.\nLet the paper be also ruled with horizontal and vertical lines at\nequal intervals, and let these lines be marked with the corre-\nsponding values of $x^{\\prime}$ and $y^{\\prime}$.\nNext, let another piece of paper be taken in which $x$ and $y$ are\nmade rectangular coordinates and a double system of curves $x^{\\prime}, y^{\\prime}$\nis drawn, each curve being marked with the corresponding value\nof $x^{\\prime}$ or $y^{\\prime}$. This system of curvilinear coordinates will correspond,\npoint for point, to the rectilinear system of coordinates $x^{\\prime}, y^{\\prime}$ on\nthe first piece of paper.\nHence, if we take any number of points on the curve $x^{\\prime \\prime}$ on the\nfirst paper, and note the values of $x^{\\prime}$ and $y^{\\prime}$ at these points, and\nmark the corresponding points on the second paper, we shall find\n",
+        "mathpix_markdown": "\n--- Page 323 ---\n\n\nFor\n\n$$\\begin{aligned}\n\\frac{d x^{\\prime \\prime}}{d x} & =\\frac{d x^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d x}+\\frac{d x^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d x}, \\\\\n& =\\frac{d y^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d y}+\\frac{d y^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d y}, \\\\\n& =\\frac{d y^{\\prime \\prime}}{d y} ; \\\\\n\\text { and } \\frac{d x^{\\prime \\prime}}{d y} & =\\frac{d x^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d y}+\\frac{d x^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d y}, \\\\\n& =-\\frac{d y^{\\prime \\prime}}{d y^{\\prime}} \\frac{d y^{\\prime}}{d x}-\\frac{d y^{\\prime \\prime}}{d x^{\\prime}} \\frac{d x^{\\prime}}{d x}, \\\\\n& =-\\frac{d y^{\\prime \\prime}}{d y} ;\n\\end{aligned}$$\n\nand these are the conditions that $x^{\\prime \\prime}$ and $y^{\\prime \\prime}$ should be conjugate\n functions of $x$ and $y$.\n\n\nThis may also be shewn from the original definition of conjugate\n functions. For $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$ is a function of $x^{\\prime}+\\sqrt{-1} y^{\\prime}$, and\n $x^{\\prime}+\\sqrt{-1} y^{\\prime}$ is a function of $x+\\sqrt{-1} y$. Hence, $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$\n is a function of $x+\\sqrt{-1} y$.\n\n\nIn the same way we may shew that if $x^{\\prime}$ and $y^{\\prime}$ are conjugate\n functions of $x$ and $y$, then $x$ and $y$ are conjugate functions of $x^{\\prime}$\n and $y^{\\prime}$.\n\n\nThis theorem may be interpreted graphically as follows :-\n\nLet $x^{\\prime}, y^{\\prime}$ be taken as rectangular coordinates, and let the\n curves corresponding to values of $x^{\\prime \\prime}$ and of $y^{\\prime \\prime}$ taken in regular\n arithmetical series be drawn on paper. A double system of\n curves will thus be drawn cutting the paper into little squares.\n Let the paper be also ruled with horizontal and vertical lines at\n equal intervals, and let these lines be marked with the corre\nsponding values of $x^{\\prime}$ and $y^{\\prime}$.\n\n\nNext, let another piece of paper be taken in which $x$ and $y$ are\n made rectangular coordinates and a double system of curves $x^{\\prime}, y^{\\prime}$\n is drawn, each curve being marked with the corresponding value\n of $x^{\\prime}$ or $y^{\\prime}$. This system of curvilinear coordinates will correspond,\n point for point, to the rectilinear system of coordinates $x^{\\prime}, y^{\\prime}$ on\n the first piece of paper.\n\n\nHence, if we take any number of points on the curve $x^{\\prime \\prime}$ on the\n first paper, and note the values of $x^{\\prime}$ and $y^{\\prime}$ at these points, and\n mark the corresponding points on the second paper, we shall find\n",
+        "structured_lines": [
+          {
+            "page": 323,
+            "line_number": 4,
+            "type": "text",
+            "content": "For",
+            "mathpix_content": "\n\nFor",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 12,
+            "type": "text",
+            "content": "and these are the conditions that $x^{\\prime \\prime}$ and $y^{\\prime \\prime}$ should be conjugate",
+            "mathpix_content": "\nand these are the conditions that $x^{\\prime \\prime}$ and $y^{\\prime \\prime}$ should be conjugate",
+            "font_size": 27,
+            "confidence": 0.998046875
+          },
+          {
+            "page": 323,
+            "line_number": 13,
+            "type": "text",
+            "content": "functions of $x$ and $y$.",
+            "mathpix_content": " functions of $x$ and $y$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 14,
+            "type": "text",
+            "content": "This may also be shewn from the original definition of conjugate",
+            "mathpix_content": "\n\nThis may also be shewn from the original definition of conjugate",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 15,
+            "type": "text",
+            "content": "functions. For $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$ is a function of $x^{\\prime}+\\sqrt{-1} y^{\\prime}$, and",
+            "mathpix_content": " functions. For $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$ is a function of $x^{\\prime}+\\sqrt{-1} y^{\\prime}$, and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 16,
+            "type": "text",
+            "content": "$x^{\\prime}+\\sqrt{-1} y^{\\prime}$ is a function of $x+\\sqrt{-1} y$. Hence, $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$",
+            "mathpix_content": " $x^{\\prime}+\\sqrt{-1} y^{\\prime}$ is a function of $x+\\sqrt{-1} y$. Hence, $x^{\\prime \\prime}+\\sqrt{-1} y^{\\prime \\prime}$",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 17,
+            "type": "text",
+            "content": "is a function of $x+\\sqrt{-1} y$.",
+            "mathpix_content": " is a function of $x+\\sqrt{-1} y$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 18,
+            "type": "text",
+            "content": "In the same way we may shew that if $x^{\\prime}$ and $y^{\\prime}$ are conjugate",
+            "mathpix_content": "\n\nIn the same way we may shew that if $x^{\\prime}$ and $y^{\\prime}$ are conjugate",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 19,
+            "type": "text",
+            "content": "functions of $x$ and $y$, then $x$ and $y$ are conjugate functions of $x^{\\prime}$",
+            "mathpix_content": " functions of $x$ and $y$, then $x$ and $y$ are conjugate functions of $x^{\\prime}$",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 20,
+            "type": "text",
+            "content": "and $y^{\\prime}$.",
+            "mathpix_content": " and $y^{\\prime}$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 21,
+            "type": "text",
+            "content": "This theorem may be interpreted graphically as follows :-",
+            "mathpix_content": "\n\nThis theorem may be interpreted graphically as follows :-",
+            "font_size": 27,
+            "confidence": 0.89501953125
+          },
+          {
+            "page": 323,
+            "line_number": 22,
+            "type": "text",
+            "content": "Let $x^{\\prime}, y^{\\prime}$ be taken as rectangular coordinates, and let the",
+            "mathpix_content": "\nLet $x^{\\prime}, y^{\\prime}$ be taken as rectangular coordinates, and let the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 23,
+            "type": "text",
+            "content": "curves corresponding to values of $x^{\\prime \\prime}$ and of $y^{\\prime \\prime}$ taken in regular",
+            "mathpix_content": " curves corresponding to values of $x^{\\prime \\prime}$ and of $y^{\\prime \\prime}$ taken in regular",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 24,
+            "type": "text",
+            "content": "arithmetical series be drawn on paper. A double system of",
+            "mathpix_content": " arithmetical series be drawn on paper. A double system of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 25,
+            "type": "text",
+            "content": "curves will thus be drawn cutting the paper into little squares.",
+            "mathpix_content": " curves will thus be drawn cutting the paper into little squares.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 26,
+            "type": "text",
+            "content": "Let the paper be also ruled with horizontal and vertical lines at",
+            "mathpix_content": " Let the paper be also ruled with horizontal and vertical lines at",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 27,
+            "type": "text",
+            "content": "equal intervals, and let these lines be marked with the corre-",
+            "mathpix_content": " equal intervals, and let these lines be marked with the corre",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 28,
+            "type": "text",
+            "content": "sponding values of $x^{\\prime}$ and $y^{\\prime}$.",
+            "mathpix_content": "sponding values of $x^{\\prime}$ and $y^{\\prime}$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 29,
+            "type": "text",
+            "content": "Next, let another piece of paper be taken in which $x$ and $y$ are",
+            "mathpix_content": "\n\nNext, let another piece of paper be taken in which $x$ and $y$ are",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 30,
+            "type": "text",
+            "content": "made rectangular coordinates and a double system of curves $x^{\\prime}, y^{\\prime}$",
+            "mathpix_content": " made rectangular coordinates and a double system of curves $x^{\\prime}, y^{\\prime}$",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 31,
+            "type": "text",
+            "content": "is drawn, each curve being marked with the corresponding value",
+            "mathpix_content": " is drawn, each curve being marked with the corresponding value",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 32,
+            "type": "text",
+            "content": "of $x^{\\prime}$ or $y^{\\prime}$. This system of curvilinear coordinates will correspond,",
+            "mathpix_content": " of $x^{\\prime}$ or $y^{\\prime}$. This system of curvilinear coordinates will correspond,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 33,
+            "type": "text",
+            "content": "point for point, to the rectilinear system of coordinates $x^{\\prime}, y^{\\prime}$ on",
+            "mathpix_content": " point for point, to the rectilinear system of coordinates $x^{\\prime}, y^{\\prime}$ on",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 34,
+            "type": "text",
+            "content": "the first piece of paper.",
+            "mathpix_content": " the first piece of paper.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 35,
+            "type": "text",
+            "content": "Hence, if we take any number of points on the curve $x^{\\prime \\prime}$ on the",
+            "mathpix_content": "\n\nHence, if we take any number of points on the curve $x^{\\prime \\prime}$ on the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 36,
+            "type": "text",
+            "content": "first paper, and note the values of $x^{\\prime}$ and $y^{\\prime}$ at these points, and",
+            "mathpix_content": " first paper, and note the values of $x^{\\prime}$ and $y^{\\prime}$ at these points, and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 323,
+            "line_number": 37,
+            "type": "text",
+            "content": "mark the corresponding points on the second paper, we shall find",
+            "mathpix_content": " mark the corresponding points on the second paper, we shall find",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

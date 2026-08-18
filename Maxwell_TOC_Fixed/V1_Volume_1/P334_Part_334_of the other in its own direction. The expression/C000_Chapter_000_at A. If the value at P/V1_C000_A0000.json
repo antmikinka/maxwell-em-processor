@@ -1,0 +1,282 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "}$ at $A$. If the value at $P$",
+  "title_safe": "at A. If the value at P",
+  "page_start": 163,
+  "page_end": 163,
+  "content": {
+    "raw_text": "\n--- Page 163 ---\n128\nGENERAL THEOREMS.\n[96 b.\nand $\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=\\Psi\\left(\\frac{d^{2} \\Phi}{d x^{2}}+\\frac{d^{2} \\Phi}{d y^{2}}+\\frac{d^{2} \\Phi}{d z^{2}}\\right)$\n$$+\\frac{d \\Psi}{d x} \\frac{d \\Phi}{d x}+\\frac{d \\Psi}{d y} \\frac{d \\Phi}{d y}+\\frac{d \\Psi}{d z} \\frac{d \\Phi}{d z}$$\n$$=-\\Psi \\nabla^{2} \\Phi-S . \\nabla \\Psi \\nabla \\Phi, \\text { by (2) and (3). }$$\n(7)\nBut by Theorem III\n$$\\iint R \\cos \\epsilon d s=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d s ;$$\nor by (6) and (7)\n$$\\iint \\Psi \\frac{d \\Phi}{d \\nu} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s=\\iiint S . \\nabla \\Psi \\nabla \\Phi d s$$\n(8)\nSince in the second member of this equation $\\Psi$ and $\\Phi$ may\nbe interchanged, we may do so in the first, and we thus\nobtain the complete statement of Green's Theorem, as given in\nequation (4).\n96 b.] We have next to shew that Green's Theorem is true\nwhen one of the functions, say $\\Psi$, is a many-valued one, provided\nthat its first derivatives are single-valued, and do not become\ninfinite within the acyclic region s.\nSince $\\nabla \\Psi$ and $\\nabla \\Phi$ are single-valued, the second member of\nequation (4) is single-valued ; but since $\\Psi$ is many-valued, any\none element of the first member, as $\\Psi \\nabla^{2} \\Phi$, is many-valued. If,\nhowever, we select one of the many values of $\\Psi$, as $\\Psi_{0}$, at the\npoint $A$ within the region $\\varsigma$, then the value of $\\Psi$ at any other\npoint, $P$, will be definite. For, since the selected value of $\\Psi$ is\ncontinuous within the region, the value of $\\Psi$ at $P$ must be that\nwhich is arrived at by continuous variation along any path from\n$A$ to $P$, beginning with the value $\\Psi_{0}$ at $A$. If the value at $P$\nwere different for two paths between $A$ and $P$, then these two\npaths must embrace between them a closed curve at which the\nfirst derivatives of $\\Psi$ become infinite *. Now this is contrary to\nthe specification, for since the first derivatives do not become\ninfinite within the region $\\varsigma$, the closed curve must be entirely\nwithout the region; and since the region is acyclic, two paths\nwithin the region cannot embrace anything outside the region.\n* $\\left\\{\\int_{A}^{P}\\left(\\frac{d \\Psi}{d x} d x+\\frac{d \\Psi}{d y} d y+\\frac{d \\Psi}{d z} d z\\right)\\right.$ is the same for all reconcileable paths, and\nsince the region is acyclic all paths are reconcileable. $\\}$.\n",
+    "mathpix_markdown": "\n--- Page 163 ---\n\nand $\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=\\Psi\\left(\\frac{d^{2} \\Phi}{d x^{2}}+\\frac{d^{2} \\Phi}{d y^{2}}+\\frac{d^{2} \\Phi}{d z^{2}}\\right)$\n\n$$+\\frac{d \\Psi}{d x} \\frac{d \\Phi}{d x}+\\frac{d \\Psi}{d y} \\frac{d \\Phi}{d y}+\\frac{d \\Psi}{d z} \\frac{d \\Phi}{d z}$$\n\n$$\\begin{equation*}\n=-\\Psi \\nabla^{2} \\Phi-S . \\nabla \\Psi \\nabla \\Phi, \\text { by (2) and (3). } \\tag{7}\n\\end{equation*}$$\n\n\nBut by Theorem III\n\n$$\\iint R \\cos \\epsilon d s=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d s ;$$\n\nor by (6) and (7)\n\n$$\\begin{equation*}\n\\iint \\Psi \\frac{d \\Phi}{d \\nu} d s-\\iiint \\Psi \\nabla^{2} \\Phi d s=\\iiint S . \\nabla \\Psi \\nabla \\Phi d s \\tag{8}\n\\end{equation*}$$\n\n\nSince in the second member of this equation $\\Psi$ and $\\Phi$ may\n be interchanged, we may do so in the first, and we thus\n obtain the complete statement of Green's Theorem, as given in\n equation (4).\n\n\n96 b.] We have next to shew that Green's Theorem is true\n when one of the functions, say $\\Psi$, is a many-valued one, provided\n that its first derivatives are single-valued, and do not become\n infinite within the acyclic region s.\n\n\nSince $\\nabla \\Psi$ and $\\nabla \\Phi$ are single-valued, the second member of\n equation (4) is single-valued ; but since $\\Psi$ is many-valued, any\n one element of the first member, as $\\Psi \\nabla^{2} \\Phi$, is many-valued. If,\n however, we select one of the many values of $\\Psi$, as $\\Psi_{0}$, at the\n point $A$ within the region $\\varsigma$, then the value of $\\Psi$ at any other\n point, $P$, will be definite. For, since the selected value of $\\Psi$ is\n continuous within the region, the value of $\\Psi$ at $P$ must be that\n which is arrived at by continuous variation along any path from\n $A$ to $P$, beginning with the value $\\Psi_{0}$ at $A$. If the value at $P$\n were different for two paths between $A$ and $P$, then these two\n paths must embrace between them a closed curve at which the\n first derivatives of $\\Psi$ become infinite *. Now this is contrary to\n the specification, for since the first derivatives do not become\n infinite within the region $\\varsigma$, the closed curve must be entirely\n without the region; and since the region is acyclic, two paths\n within the region cannot embrace anything outside the region.\n\n* $\\left\\{\\int_{A}^{P}\\left(\\frac{d \\Psi}{d x} d x+\\frac{d \\Psi}{d y} d y+\\frac{d \\Psi}{d z} d z\\right)\\right.$ is the same for all reconcileable paths, and\n since the region is acyclic all paths are reconcileable. $\\}$.\n",
+    "structured_lines": [
+      {
+        "page": 163,
+        "line_number": 4,
+        "type": "text",
+        "content": "and $\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=\\Psi\\left(\\frac{d^{2} \\Phi}{d x^{2}}+\\frac{d^{2} \\Phi}{d y^{2}}+\\frac{d^{2} \\Phi}{d z^{2}}\\right)$",
+        "mathpix_content": "\nand $\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=\\Psi\\left(\\frac{d^{2} \\Phi}{d x^{2}}+\\frac{d^{2} \\Phi}{d y^{2}}+\\frac{d^{2} \\Phi}{d z^{2}}\\right)$",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 163,
+        "line_number": 10,
+        "type": "text",
+        "content": "But by Theorem III",
+        "mathpix_content": "\n\nBut by Theorem III",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 13,
+        "type": "text",
+        "content": "or by (6) and (7)",
+        "mathpix_content": "\nor by (6) and (7)",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 17,
+        "type": "text",
+        "content": "Since in the second member of this equation $\\Psi$ and $\\Phi$ may",
+        "mathpix_content": "\n\nSince in the second member of this equation $\\Psi$ and $\\Phi$ may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 18,
+        "type": "text",
+        "content": "be interchanged, we may do so in the first, and we thus",
+        "mathpix_content": " be interchanged, we may do so in the first, and we thus",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 19,
+        "type": "text",
+        "content": "obtain the complete statement of Green's Theorem, as given in",
+        "mathpix_content": " obtain the complete statement of Green's Theorem, as given in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 20,
+        "type": "text",
+        "content": "equation (4).",
+        "mathpix_content": " equation (4).",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 21,
+        "type": "text",
+        "content": "96 b.] We have next to shew that Green's Theorem is true",
+        "mathpix_content": "\n\n96 b.] We have next to shew that Green's Theorem is true",
+        "font_size": 27,
+        "confidence": 0.97216796875
+      },
+      {
+        "page": 163,
+        "line_number": 22,
+        "type": "text",
+        "content": "when one of the functions, say $\\Psi$, is a many-valued one, provided",
+        "mathpix_content": " when one of the functions, say $\\Psi$, is a many-valued one, provided",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 23,
+        "type": "text",
+        "content": "that its first derivatives are single-valued, and do not become",
+        "mathpix_content": " that its first derivatives are single-valued, and do not become",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 24,
+        "type": "text",
+        "content": "infinite within the acyclic region s.",
+        "mathpix_content": " infinite within the acyclic region s.",
+        "font_size": 27,
+        "confidence": 0.9970722198486328
+      },
+      {
+        "page": 163,
+        "line_number": 25,
+        "type": "text",
+        "content": "Since $\\nabla \\Psi$ and $\\nabla \\Phi$ are single-valued, the second member of",
+        "mathpix_content": "\n\nSince $\\nabla \\Psi$ and $\\nabla \\Phi$ are single-valued, the second member of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 26,
+        "type": "text",
+        "content": "equation (4) is single-valued ; but since $\\Psi$ is many-valued, any",
+        "mathpix_content": " equation (4) is single-valued ; but since $\\Psi$ is many-valued, any",
+        "font_size": 27,
+        "confidence": 0.6198239279910922
+      },
+      {
+        "page": 163,
+        "line_number": 27,
+        "type": "text",
+        "content": "one element of the first member, as $\\Psi \\nabla^{2} \\Phi$, is many-valued. If,",
+        "mathpix_content": " one element of the first member, as $\\Psi \\nabla^{2} \\Phi$, is many-valued. If,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 28,
+        "type": "text",
+        "content": "however, we select one of the many values of $\\Psi$, as $\\Psi_{0}$, at the",
+        "mathpix_content": " however, we select one of the many values of $\\Psi$, as $\\Psi_{0}$, at the",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 163,
+        "line_number": 29,
+        "type": "text",
+        "content": "point $A$ within the region $\\varsigma$, then the value of $\\Psi$ at any other",
+        "mathpix_content": " point $A$ within the region $\\varsigma$, then the value of $\\Psi$ at any other",
+        "font_size": 27,
+        "confidence": 0.8050506617873907
+      },
+      {
+        "page": 163,
+        "line_number": 30,
+        "type": "text",
+        "content": "point, $P$, will be definite. For, since the selected value of $\\Psi$ is",
+        "mathpix_content": " point, $P$, will be definite. For, since the selected value of $\\Psi$ is",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 163,
+        "line_number": 31,
+        "type": "text",
+        "content": "continuous within the region, the value of $\\Psi$ at $P$ must be that",
+        "mathpix_content": " continuous within the region, the value of $\\Psi$ at $P$ must be that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 32,
+        "type": "text",
+        "content": "which is arrived at by continuous variation along any path from",
+        "mathpix_content": " which is arrived at by continuous variation along any path from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 33,
+        "type": "text",
+        "content": "$A$ to $P$, beginning with the value $\\Psi_{0}$ at $A$. If the value at $P$",
+        "mathpix_content": " $A$ to $P$, beginning with the value $\\Psi_{0}$ at $A$. If the value at $P$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 34,
+        "type": "text",
+        "content": "were different for two paths between $A$ and $P$, then these two",
+        "mathpix_content": " were different for two paths between $A$ and $P$, then these two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 35,
+        "type": "text",
+        "content": "paths must embrace between them a closed curve at which the",
+        "mathpix_content": " paths must embrace between them a closed curve at which the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 36,
+        "type": "text",
+        "content": "first derivatives of $\\Psi$ become infinite *. Now this is contrary to",
+        "mathpix_content": " first derivatives of $\\Psi$ become infinite *. Now this is contrary to",
+        "font_size": 27,
+        "confidence": 0.9741573217324913
+      },
+      {
+        "page": 163,
+        "line_number": 37,
+        "type": "text",
+        "content": "the specification, for since the first derivatives do not become",
+        "mathpix_content": " the specification, for since the first derivatives do not become",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 38,
+        "type": "text",
+        "content": "infinite within the region $\\varsigma$, the closed curve must be entirely",
+        "mathpix_content": " infinite within the region $\\varsigma$, the closed curve must be entirely",
+        "font_size": 27,
+        "confidence": 0.9674450646853074
+      },
+      {
+        "page": 163,
+        "line_number": 39,
+        "type": "text",
+        "content": "without the region; and since the region is acyclic, two paths",
+        "mathpix_content": " without the region; and since the region is acyclic, two paths",
+        "font_size": 27,
+        "confidence": 0.9921875
+      },
+      {
+        "page": 163,
+        "line_number": 40,
+        "type": "text",
+        "content": "within the region cannot embrace anything outside the region.",
+        "mathpix_content": " within the region cannot embrace anything outside the region.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 163,
+        "line_number": 41,
+        "type": "text",
+        "content": "* $\\left\\{\\int_{A}^{P}\\left(\\frac{d \\Psi}{d x} d x+\\frac{d \\Psi}{d y} d y+\\frac{d \\Psi}{d z} d z\\right)\\right.$ is the same for all reconcileable paths, and",
+        "mathpix_content": "\n* $\\left\\{\\int_{A}^{P}\\left(\\frac{d \\Psi}{d x} d x+\\frac{d \\Psi}{d y} d y+\\frac{d \\Psi}{d z} d z\\right)\\right.$ is the same for all reconcileable paths, and",
+        "font_size": 21,
+        "confidence": 0.9960954189300537
+      },
+      {
+        "page": 163,
+        "line_number": 42,
+        "type": "text",
+        "content": "since the region is acyclic all paths are reconcileable. $\\}$.",
+        "mathpix_content": " since the region is acyclic all paths are reconcileable. $\\}$.",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

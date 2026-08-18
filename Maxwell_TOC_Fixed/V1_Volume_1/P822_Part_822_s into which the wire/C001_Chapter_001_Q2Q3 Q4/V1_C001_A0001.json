@@ -1,0 +1,255 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "} Q_{2}}{Q_{3} Q_{4}} .$$",
+  "title_safe": "Q2Q3 Q4",
+  "page_start": 521,
+  "page_end": 521,
+  "content": {
+    "raw_text": "\n--- Page 521 ---\n486\nMEASUREMENT OF RESISTANCE.\n[352.\npoint of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now\n$C_{2}$ and $A_{2}$, and let\n$$A_{2}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$\nThen we have, as before\nWhence\n$$\\begin{aligned}\n& \\frac{X S^{\\prime}}{X Y}=\\frac{A_{2}+P Q_{2}}{R} . \\\\\n& \\frac{S S^{\\prime}}{X Y}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{R} .\n\\end{aligned}$$\nIn the same way, placing the apparatus on the second\nconductor at $T T^{\\prime}$ and again transferring resistance, we get,\nwhen the electrode is in $T^{\\prime}$,\n$$\\frac{X T^{\\prime}}{X Y}=\\frac{A_{3}+P Q_{3}}{R},$$\nand when it is in $T$,\n$$\\frac{X T}{X Y}=\\frac{A_{4}+P Q_{4}}{R} .$$\nWhence\n$$\\frac{T^{\\prime} T}{X Y}=\\frac{A_{4}-A_{3}+Q_{3} Q_{4}}{R} .$$\nWe can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,\nfor\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$\nWhen great accuracy is not required we may dispense with\nthe resistance coils $A$ and $C$, and we then find\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{Q_{1} Q_{2}}{Q_{3} Q_{4}} .$$\nThe readings of the position of $Q$ on a wire of a metre in\nlength cannot be depended on to less than a tenth of a milli-\nmetre, and the resistance of the wire may vary considerably in\ndifferent parts owing to inequality of temperature, friction, \\&c.\nHence, when great accuracy is required, coils of considerable\nresistance are introduced at $A$ and $C$, and the ratios of the\nresistances of these coils can be determined more accurately\nthan the ratio of the resistances of the parts into which the wire\nis divided at $Q$.\nIt will be observed that in this method the accuracy of the\ndetermination depends in no degree on the perfection of the\ncontacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.\nThis method may be called the differential method of using\n",
+    "mathpix_markdown": "\n--- Page 521 ---\n\npoint of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now\n $C_{2}$ and $A_{2}$, and let\n\n$$A_{2}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$\n\n\nThen we have, as before\n\n\nWhence\n\n$$\\begin{aligned}\n& \\frac{X S^{\\prime}}{X Y}=\\frac{A_{2}+P Q_{2}}{R} . \\\\\n& \\frac{S S^{\\prime}}{X Y}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{R} .\n\\end{aligned}$$\n\n\nIn the same way, placing the apparatus on the second\n conductor at $T T^{\\prime}$ and again transferring resistance, we get,\n when the electrode is in $T^{\\prime}$,\n\n$$\\frac{X T^{\\prime}}{X Y}=\\frac{A_{3}+P Q_{3}}{R},$$\n\nand when it is in $T$,\n\n$$\\frac{X T}{X Y}=\\frac{A_{4}+P Q_{4}}{R} .$$\n\n\nWhence\n\n$$\\frac{T^{\\prime} T}{X Y}=\\frac{A_{4}-A_{3}+Q_{3} Q_{4}}{R} .$$\n\n\nWe can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,\n for\n\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$\n\n\nWhen great accuracy is not required we may dispense with\n the resistance coils $A$ and $C$, and we then find\n\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{Q_{1} Q_{2}}{Q_{3} Q_{4}} .$$\n\n\nThe readings of the position of $Q$ on a wire of a metre in\n length cannot be depended on to less than a tenth of a milli\nmetre, and the resistance of the wire may vary considerably in\n different parts owing to inequality of temperature, friction, \\&c.\n Hence, when great accuracy is required, coils of considerable\n resistance are introduced at $A$ and $C$, and the ratios of the\n resistances of these coils can be determined more accurately\n than the ratio of the resistances of the parts into which the wire\n is divided at $Q$.\n\n\nIt will be observed that in this method the accuracy of the\n determination depends in no degree on the perfection of the\n contacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.\n\n\nThis method may be called the differential method of using\n",
+    "structured_lines": [
+      {
+        "page": 521,
+        "line_number": 4,
+        "type": "text",
+        "content": "point of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now",
+        "mathpix_content": "\npoint of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 5,
+        "type": "text",
+        "content": "$C_{2}$ and $A_{2}$, and let",
+        "mathpix_content": " $C_{2}$ and $A_{2}$, and let",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 8,
+        "type": "text",
+        "content": "Then we have, as before",
+        "mathpix_content": "\n\nThen we have, as before",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 9,
+        "type": "text",
+        "content": "Whence",
+        "mathpix_content": "\n\nWhence",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 13,
+        "type": "text",
+        "content": "In the same way, placing the apparatus on the second",
+        "mathpix_content": "\n\nIn the same way, placing the apparatus on the second",
+        "font_size": 34,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 521,
+        "line_number": 14,
+        "type": "text",
+        "content": "conductor at $T T^{\\prime}$ and again transferring resistance, we get,",
+        "mathpix_content": " conductor at $T T^{\\prime}$ and again transferring resistance, we get,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 15,
+        "type": "text",
+        "content": "when the electrode is in $T^{\\prime}$,",
+        "mathpix_content": " when the electrode is in $T^{\\prime}$,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 18,
+        "type": "text",
+        "content": "and when it is in $T$,",
+        "mathpix_content": "\nand when it is in $T$,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 21,
+        "type": "text",
+        "content": "Whence",
+        "mathpix_content": "\n\nWhence",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 24,
+        "type": "text",
+        "content": "We can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,",
+        "mathpix_content": "\n\nWe can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,",
+        "font_size": 34,
+        "confidence": 0.95947265625
+      },
+      {
+        "page": 521,
+        "line_number": 25,
+        "type": "text",
+        "content": "for",
+        "mathpix_content": " for",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 28,
+        "type": "text",
+        "content": "When great accuracy is not required we may dispense with",
+        "mathpix_content": "\n\nWhen great accuracy is not required we may dispense with",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 521,
+        "line_number": 29,
+        "type": "text",
+        "content": "the resistance coils $A$ and $C$, and we then find",
+        "mathpix_content": " the resistance coils $A$ and $C$, and we then find",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 32,
+        "type": "text",
+        "content": "The readings of the position of $Q$ on a wire of a metre in",
+        "mathpix_content": "\n\nThe readings of the position of $Q$ on a wire of a metre in",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 521,
+        "line_number": 33,
+        "type": "text",
+        "content": "length cannot be depended on to less than a tenth of a milli-",
+        "mathpix_content": " length cannot be depended on to less than a tenth of a milli",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 34,
+        "type": "text",
+        "content": "metre, and the resistance of the wire may vary considerably in",
+        "mathpix_content": "metre, and the resistance of the wire may vary considerably in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 35,
+        "type": "text",
+        "content": "different parts owing to inequality of temperature, friction, \\&c.",
+        "mathpix_content": " different parts owing to inequality of temperature, friction, \\&c.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 36,
+        "type": "text",
+        "content": "Hence, when great accuracy is required, coils of considerable",
+        "mathpix_content": " Hence, when great accuracy is required, coils of considerable",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 37,
+        "type": "text",
+        "content": "resistance are introduced at $A$ and $C$, and the ratios of the",
+        "mathpix_content": " resistance are introduced at $A$ and $C$, and the ratios of the",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 521,
+        "line_number": 38,
+        "type": "text",
+        "content": "resistances of these coils can be determined more accurately",
+        "mathpix_content": " resistances of these coils can be determined more accurately",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 521,
+        "line_number": 39,
+        "type": "text",
+        "content": "than the ratio of the resistances of the parts into which the wire",
+        "mathpix_content": " than the ratio of the resistances of the parts into which the wire",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 40,
+        "type": "text",
+        "content": "is divided at $Q$.",
+        "mathpix_content": " is divided at $Q$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 41,
+        "type": "text",
+        "content": "It will be observed that in this method the accuracy of the",
+        "mathpix_content": "\n\nIt will be observed that in this method the accuracy of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 42,
+        "type": "text",
+        "content": "determination depends in no degree on the perfection of the",
+        "mathpix_content": " determination depends in no degree on the perfection of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 521,
+        "line_number": 43,
+        "type": "text",
+        "content": "contacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.",
+        "mathpix_content": " contacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 521,
+        "line_number": 44,
+        "type": "text",
+        "content": "This method may be called the differential method of using",
+        "mathpix_content": "\n\nThis method may be called the differential method of using",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,2858 @@
+{
+  "part_id": "part_348",
+  "part_number": 348,
+  "title": "s which",
+  "page_start": 173,
+  "page_end": 174,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 138,
+      "title": "GENERAL THEOREMS.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 100,
+      "title": "b$.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 100,
+      "title": "\\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 1,
+      "title": "}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 0,
+      "title": ",$$",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 28,
+      "title": ")",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 29,
+      "title": ")",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 0,
+      "title": "\\end{aligned}$$",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 30,
+      "title": ")",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 1,
+      "title": ") When at every point of the surface $\\Psi=0$.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 2,
+      "title": ") When at every point of the surface $l u+m v+n w=0$.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 3,
+      "title": ") When the surface is entirely made up of parts which",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 1,
+      "title": ") or (2).",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 4,
+      "title": ") When $\\Psi$ is constant over each of the closed surfaces, and",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 31,
+      "title": ")",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 100,
+      "title": "b.] Now consider a field bounded by the external closed",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 8,
+      "title": ", and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 100,
+      "title": "\\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": "}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 0,
+      "title": ", \\tag{28}",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 29,
+      "title": "}",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 0,
+      "title": "\\tag{30}",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 1,
+      "title": ") When at every point of the surface $\\Psi=0$.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 2,
+      "title": ") When at every point of the surface $l u+m v+n w=0$.",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 3,
+      "title": ") When the surface is entirely made up of parts which",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 1,
+      "title": ") or (2).",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 4,
+      "title": ") When $\\Psi$ is constant over each of the closed surfaces, and",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 0,
+      "title": "\\tag{31}",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 100,
+      "title": "b.] Now consider a field bounded by the external closed",
+      "page_start": 173,
+      "page_end": 172,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 8,
+      "title": ", and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+      "page_start": 173,
+      "page_end": 173,
+      "articles": [
+        {
+          "article_id": "article_138",
+          "article_number": 138,
+          "title_original": "GENERAL THEOREMS.",
+          "title_safe": "GENERAL THEOREMS",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "b$.",
+          "title_safe": "b",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "\\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+          "title_safe": "alpha. Let Psi be any function of x y z which is finite and",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+          "title_safe": "s2 ldots sp andc. has the values Psi1 Psi2 ldots Psip andc",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ",$$",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\end{aligned}$$",
+          "title_safe": "endaligned",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_30",
+          "article_number": 30,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") When at every point of the surface $\\Psi=0$.",
+          "title_safe": "When at every point of the surface Psiequals0",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ") When at every point of the surface $l u+m v+n w=0$.",
+          "title_safe": "When at every point of the surface l uplusm vplusn wequals0",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": ") When the surface is entirely made up of parts which",
+          "title_safe": "When the surface is entirely made up of parts which",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") or (2).",
+          "title_safe": "or 2",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ") When $\\Psi$ is constant over each of the closed surfaces, and",
+          "title_safe": "When Psi is constant over each of the closed surfaces and",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$$",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$$",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_31",
+          "article_number": 31,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "b.] Now consider a field bounded by the external closed",
+          "title_safe": "b. Now consider a field bounded by the external closed",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ", and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+          "title_safe": "and the internal closed surfaces 81 82 andc",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "\\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+          "title_safe": "alpha. Let Psi be any function of x y z which is finite and",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+          "title_safe": "s2 ldots sp andc. has the values Psi1 Psi2 ldots Psip andc",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ", \\tag{28}",
+          "title_safe": "tag28",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\tag{30}",
+          "title_safe": "tag30",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") When at every point of the surface $\\Psi=0$.",
+          "title_safe": "When at every point of the surface Psiequals0",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ") When at every point of the surface $l u+m v+n w=0$.",
+          "title_safe": "When at every point of the surface l uplusm vplusn wequals0",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": ") When the surface is entirely made up of parts which",
+          "title_safe": "When the surface is entirely made up of parts which",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") or (2).",
+          "title_safe": "or 2",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ") When $\\Psi$ is constant over each of the closed surfaces, and",
+          "title_safe": "When Psi is constant over each of the closed surfaces and",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$$",
+          "title_safe": "Article",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\tag{31}",
+          "title_safe": "tag31",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "b.] Now consider a field bounded by the external closed",
+          "title_safe": "b. Now consider a field bounded by the external closed",
+          "page_start": 173,
+          "page_end": 172,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ", and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+          "title_safe": "and the internal closed surfaces 81 82 andc",
+          "page_start": 173,
+          "page_end": 173,
+          "content": {
+            "raw_text": "\n--- Page 173 ---\n138\nGENERAL THEOREMS.\n$[100 b$.\n\nThomson's Theorem.\n\nLemma.\n$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and\ncontinuous within the closed surface $s$, and which at certain\nclosed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.\nconstant for each surface.\nLet $u, v, w$ be functions of $x, y, z$, which we may consider as\nthe components of a vector \u00a9 subject to the solenoidal condition\n$$-S . \\nabla \\complement=\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}=0,$$\n(28)\nand let us put in Theorem III\n$$X=\\Psi u, \\quad Y=\\Psi v, \\quad Z=\\Psi w ;$$\n(29)\nwe find as the result of these substitutions\n$$\\begin{aligned}\n\\Sigma_{p} \\iint \\Psi_{p}\\left(l_{p} u\\right. & \\left.+m_{p} v+n_{p} w\\right) d s_{p}+\\iiint \\Psi\\left(\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}\\right) d x d y d z \\\\\n& +\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0\n\\end{aligned}$$\n(30)\nthe surface-integrals being extended over the different surfaces\nand the volume-integrals being taken throughout the whole\nfield, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal\nto $s_{p}$ drawn from the surface into the field. Now the first\nvolume-integral vanishes in virtue of the solenoidal condition\nfor $u, v, w$, and the surface-integrals vanish in the following\ncases :-\n(1) When at every point of the surface $\\Psi=0$.\n(2) When at every point of the surface $l u+m v+n w=0$.\n(3) When the surface is entirely made up of parts which\nsatisfy either (1) or (2).\n(4) When $\\Psi$ is constant over each of the closed surfaces, and\n$$\\iint(l u+m v+n w) d s=0$$\nHence in these four cases the volume-integral\n$$M=\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0$$\n(31)\n100 b.] Now consider a field bounded by the external closed\nsurface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.\n",
+            "mathpix_markdown": "\n--- Page 173 ---\n\n\n\\section*{Thomson's Theorem.}\n\n\n\\section*{Lemma.}\n\n$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and\n continuous within the closed surface $s$, and which at certain\n closed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.\n constant for each surface.\n\n\nLet $u, v, w$ be functions of $x, y, z$, which we may consider as\n the components of a vector \u00a9 subject to the solenoidal condition\n\n$$\\begin{equation*}\n-S . \\nabla \\complement=\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}=0, \\tag{28}\n\\end{equation*}$$\n\nand let us put in Theorem III\n\n$$\\begin{equation*}\nX=\\Psi u, \\quad Y=\\Psi v, \\quad Z=\\Psi w ; \\tag{29}\n\\end{equation*}$$\n\nwe find as the result of these substitutions\n\n$$\\begin{align*}\n\\Sigma_{p} \\iint \\Psi_{p}\\left(l_{p} u\\right. & \\left.+m_{p} v+n_{p} w\\right) d s_{p}+\\iiint \\Psi\\left(\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}\\right) d x d y d z \\\\\n& +\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0 \\tag{30}\n\\end{align*}$$\n\nthe surface-integrals being extended over the different surfaces\n and the volume-integrals being taken throughout the whole\n field, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal\n to $s_{p}$ drawn from the surface into the field. Now the first\n volume-integral vanishes in virtue of the solenoidal condition\n for $u, v, w$, and the surface-integrals vanish in the following\n cases :-\n\n(1) When at every point of the surface $\\Psi=0$.\n\n(2) When at every point of the surface $l u+m v+n w=0$.\n\n(3) When the surface is entirely made up of parts which\n satisfy either (1) or (2).\n\n(4) When $\\Psi$ is constant over each of the closed surfaces, and\n\n$$\\iint(l u+m v+n w) d s=0$$\n\n\nHence in these four cases the volume-integral\n\n$$\\begin{equation*}\nM=\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0 \\tag{31}\n\\end{equation*}$$\n\n\n100 b.] Now consider a field bounded by the external closed\n surface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.\n",
+            "structured_lines": [
+              {
+                "page": 173,
+                "line_number": 5,
+                "type": "text",
+                "content": "Thomson's Theorem.",
+                "mathpix_content": "\n\n\\section*{Thomson's Theorem.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 7,
+                "type": "text",
+                "content": "Lemma.",
+                "mathpix_content": "\n\n\\section*{Lemma.}",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 173,
+                "line_number": 8,
+                "type": "text",
+                "content": "$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+                "mathpix_content": "\n$100 \\alpha$.] Let $\\Psi$ be any function of $x, y, z$ which is finite and",
+                "font_size": 27,
+                "confidence": 0.6848773956298828
+              },
+              {
+                "page": 173,
+                "line_number": 9,
+                "type": "text",
+                "content": "continuous within the closed surface $s$, and which at certain",
+                "mathpix_content": " continuous within the closed surface $s$, and which at certain",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 173,
+                "line_number": 10,
+                "type": "text",
+                "content": "closed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+                "mathpix_content": " closed surfaces, $s_{1}, s_{2}, \\ldots, s_{p}$, \\&c., has the values $\\Psi_{1}, \\Psi_{2}, \\ldots, \\Psi_{p}$, \\&c.",
+                "font_size": 27,
+                "confidence": 0.9237693808972836
+              },
+              {
+                "page": 173,
+                "line_number": 11,
+                "type": "text",
+                "content": "constant for each surface.",
+                "mathpix_content": " constant for each surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 12,
+                "type": "text",
+                "content": "Let $u, v, w$ be functions of $x, y, z$, which we may consider as",
+                "mathpix_content": "\n\nLet $u, v, w$ be functions of $x, y, z$, which we may consider as",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 13,
+                "type": "text",
+                "content": "the components of a vector \u00a9 subject to the solenoidal condition",
+                "mathpix_content": " the components of a vector \u00a9 subject to the solenoidal condition",
+                "font_size": 27,
+                "confidence": 0.9853515625
+              },
+              {
+                "page": 173,
+                "line_number": 17,
+                "type": "text",
+                "content": "and let us put in Theorem III",
+                "mathpix_content": "\nand let us put in Theorem III",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 21,
+                "type": "text",
+                "content": "we find as the result of these substitutions",
+                "mathpix_content": "\nwe find as the result of these substitutions",
+                "font_size": 27,
+                "confidence": 0.99560546875
+              },
+              {
+                "page": 173,
+                "line_number": 26,
+                "type": "text",
+                "content": "the surface-integrals being extended over the different surfaces",
+                "mathpix_content": "\nthe surface-integrals being extended over the different surfaces",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 27,
+                "type": "text",
+                "content": "and the volume-integrals being taken throughout the whole",
+                "mathpix_content": " and the volume-integrals being taken throughout the whole",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 28,
+                "type": "text",
+                "content": "field, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal",
+                "mathpix_content": " field, and where $l_{p}, m_{p}, n_{p}$ are the direction cosines of the normal",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 173,
+                "line_number": 29,
+                "type": "text",
+                "content": "to $s_{p}$ drawn from the surface into the field. Now the first",
+                "mathpix_content": " to $s_{p}$ drawn from the surface into the field. Now the first",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 173,
+                "line_number": 30,
+                "type": "text",
+                "content": "volume-integral vanishes in virtue of the solenoidal condition",
+                "mathpix_content": " volume-integral vanishes in virtue of the solenoidal condition",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 31,
+                "type": "text",
+                "content": "for $u, v, w$, and the surface-integrals vanish in the following",
+                "mathpix_content": " for $u, v, w$, and the surface-integrals vanish in the following",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 32,
+                "type": "text",
+                "content": "cases :-",
+                "mathpix_content": " cases :-",
+                "font_size": 27,
+                "confidence": 0.9833984375
+              },
+              {
+                "page": 173,
+                "line_number": 33,
+                "type": "text",
+                "content": "(1) When at every point of the surface $\\Psi=0$.",
+                "mathpix_content": "\n(1) When at every point of the surface $\\Psi=0$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 34,
+                "type": "text",
+                "content": "(2) When at every point of the surface $l u+m v+n w=0$.",
+                "mathpix_content": "\n(2) When at every point of the surface $l u+m v+n w=0$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 35,
+                "type": "text",
+                "content": "(3) When the surface is entirely made up of parts which",
+                "mathpix_content": "\n(3) When the surface is entirely made up of parts which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 36,
+                "type": "text",
+                "content": "satisfy either (1) or (2).",
+                "mathpix_content": " satisfy either (1) or (2).",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 37,
+                "type": "text",
+                "content": "(4) When $\\Psi$ is constant over each of the closed surfaces, and",
+                "mathpix_content": "\n(4) When $\\Psi$ is constant over each of the closed surfaces, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 40,
+                "type": "text",
+                "content": "Hence in these four cases the volume-integral",
+                "mathpix_content": "\n\nHence in these four cases the volume-integral",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 173,
+                "line_number": 44,
+                "type": "text",
+                "content": "100 b.] Now consider a field bounded by the external closed",
+                "mathpix_content": "\n\n100 b.] Now consider a field bounded by the external closed",
+                "font_size": 27,
+                "confidence": 0.9687936305999756
+              },
+              {
+                "page": 173,
+                "line_number": 45,
+                "type": "text",
+                "content": "surface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+                "mathpix_content": " surface 8 , and the internal closed surfaces $8_{1}, 8_{2}$, \\&c.",
+                "font_size": 27,
+                "confidence": 0.998535871389322
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 100,
+      "title": "c$.",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 139,
+      "title": "Let $\\Psi$ be a function of $x, y, z$, which within the field is finite",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 2,
+      "title": "} \\Psi=0$$",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 32,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 1,
+      "title": "}, \\Psi_{2}$, \\&c. at the",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 8,
+      "title": "_{1}, 8_{2}$, \\&c. respectively, and is zero at the external",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 8,
+      "title": "The charge of any of the conducting surfaces, as $s_{1}$, is given",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 1,
+      "title": "}=-\\frac{1}{4 \\pi} \\iint \\frac{d \\Psi}{d v_{1}} d s_{1}$$",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 33,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 1,
+      "title": "}$ being drawn from the surface $\\varepsilon_{1}$ into the electric",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 100,
+      "title": "c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 34,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 8,
+      "title": "_{1}$, the",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 1,
+      "title": "} f+m_{1} g+n_{1} h\\right) d s=e_{1}$$",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 35,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 1,
+      "title": "}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 1,
+      "title": "}$ into the electric field, and $e_{1}$ is the",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 33,
+      "title": "), being, in fact, the electric",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 1,
+      "title": "}$.",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 2,
+      "title": "\\pi \\iiint\\left(f^{2}+g^{2}+h^{2}\\right) d x d y d z$$",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 36,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 8,
+      "title": "and without",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 1,
+      "title": "}, s_{2}$, \\&c., and to compare it with",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 1,
+      "title": "}{8 \\pi} \\iiint\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] d x d y d z$$",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 37,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad v=g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad w=h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z} \\\\",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 2,
+      "title": "\\pi \\iiint\\left(u^{2}+v^{2}+w^{2}\\right) d x d y d z",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 38,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 39,
+      "title": ")",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 2,
+      "title": "} \\Psi=0 \\tag{32}",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 1,
+      "title": "}, \\Psi_{2}$, \\&c. at the",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 8,
+      "title": "_{1}, 8_{2}$, \\&c. respectively, and is zero at the external",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_67",
+      "chapter_number": 8,
+      "title": "The charge of any of the conducting surfaces, as $s_{1}$, is given",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_68",
+      "chapter_number": 1,
+      "title": "}=-\\frac{1}{4 \\pi} \\iint \\frac{d \\Psi}{d v_{1}} d s_{1} \\tag{33}",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_69",
+      "chapter_number": 1,
+      "title": "}$ being drawn from the surface $\\varepsilon_{1}$ into the electric",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_70",
+      "chapter_number": 100,
+      "title": "c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_71",
+      "chapter_number": 0,
+      "title": "\\tag{34}",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_72",
+      "chapter_number": 8,
+      "title": "_{1}$, the",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_73",
+      "chapter_number": 1,
+      "title": "} f+m_{1} g+n_{1} h\\right) d s=e_{1} \\tag{35}",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_74",
+      "chapter_number": 1,
+      "title": "}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_75",
+      "chapter_number": 1,
+      "title": "}$ into the electric field, and $e_{1}$ is the",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_76",
+      "chapter_number": 33,
+      "title": "), being, in fact, the electric",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_77",
+      "chapter_number": 1,
+      "title": "}$.",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_78",
+      "chapter_number": 2,
+      "title": "\\pi \\iiint\\left(f^{2}+g^{2}+h^{2}\\right) d x d y d z \\tag{36}",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_79",
+      "chapter_number": 8,
+      "title": "and without",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_80",
+      "chapter_number": 1,
+      "title": "}, s_{2}$, \\&c., and to compare it with",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_81",
+      "chapter_number": 1,
+      "title": "}{8 \\pi} \\iiint\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] d x d y d z \\tag{37}",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_82",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad v=g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad w=h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z}  \\tag{38}\\\\",
+      "page_start": 174,
+      "page_end": 173,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_83",
+      "chapter_number": 2,
+      "title": "\\pi \\iiint\\left(u^{2}+v^{2}+w^{2}\\right) d x d y d z \\tag{39}",
+      "page_start": 174,
+      "page_end": 174,
+      "articles": [
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "The charge of any of the conducting surfaces, as $s_{1}$, is given",
+          "title_safe": "The charge of any of the conducting surfaces as s1 is given",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "The charge of any of the conducting surfaces, as $s_{1}$, is given",
+          "title_safe": "The charge of any of the conducting surfaces as s1 is given",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "c$.",
+          "title_safe": "c",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_139",
+          "article_number": 139,
+          "title_original": "Let $\\Psi$ be a function of $x, y, z$, which within the field is finite",
+          "title_safe": "Let Psi be a function of x y z which within the field is fin",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\Psi=0$$",
+          "title_safe": "Psiequals0",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_32",
+          "article_number": 32,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\Psi_{2}$, \\&c. at the",
+          "title_safe": "Psi2 andc. at the",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "_{1}, 8_{2}$, \\&c. respectively, and is zero at the external",
+          "title_safe": "1 82 andc. respectively and is zero at the external",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, is given",
+          "title_safe": "is given",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=-\\frac{1}{4 \\pi} \\iint \\frac{d \\Psi}{d v_{1}} d s_{1}$$",
+          "title_safe": "equals-frac14 pi iint fracd Psid v1 d s1",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_33",
+          "article_number": 33,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ being drawn from the surface $\\varepsilon_{1}$ into the electric",
+          "title_safe": "being drawn from the surface varepsilon1 into the electric",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may",
+          "title_safe": "c. Now let f g h be functions of x y z which we may",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$$",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_34",
+          "article_number": 34,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "_{1}$, the",
+          "title_safe": "1 the",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} f+m_{1} g+n_{1} h\\right) d s=e_{1}$$",
+          "title_safe": "fplusm1 gplusn1 hright d sequalse1",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_35",
+          "article_number": 35,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn",
+          "title_safe": "m1 n1 are the direction cosines of the normal nu1 drawn",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ into the electric field, and $e_{1}$ is the",
+          "title_safe": "into the electric field and e1 is the",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_33",
+          "article_number": 33,
+          "title_original": "), being, in fact, the electric",
+          "title_safe": "being in fact the electric",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$.",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\iiint\\left(f^{2}+g^{2}+h^{2}\\right) d x d y d z$$",
+          "title_safe": "pi iiintleftf2plusg2plush2right d x d y d z",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_36",
+          "article_number": 36,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "and without",
+          "title_safe": "and without",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, s_{2}$, \\&c., and to compare it with",
+          "title_safe": "s2 andc. and to compare it with",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{8 \\pi} \\iiint\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] d x d y d z$$",
+          "title_safe": "8 pi iiintleftleftfracd Psid xright2plusleftfracd Psid yrigh",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_37",
+          "article_number": 37,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad v=g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad w=h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z} \\\\",
+          "title_safe": "4 pi fracd Psid x quad vequalsgplusfrac14 pi fracd Psid y qu",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\iiint\\left(u^{2}+v^{2}+w^{2}\\right) d x d y d z",
+          "title_safe": "pi iiintleftu2plusv2plusw2right d x d y d z",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_38",
+          "article_number": 38,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_39",
+          "article_number": 39,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\Psi=0 \\tag{32}",
+          "title_safe": "Psiequals0 tag32",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\Psi_{2}$, \\&c. at the",
+          "title_safe": "Psi2 andc. at the",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "_{1}, 8_{2}$, \\&c. respectively, and is zero at the external",
+          "title_safe": "1 82 andc. respectively and is zero at the external",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, is given",
+          "title_safe": "is given",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=-\\frac{1}{4 \\pi} \\iint \\frac{d \\Psi}{d v_{1}} d s_{1} \\tag{33}",
+          "title_safe": "equals-frac14 pi iint fracd Psid v1 d s1 tag33",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ being drawn from the surface $\\varepsilon_{1}$ into the electric",
+          "title_safe": "being drawn from the surface varepsilon1 into the electric",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_100",
+          "article_number": 100,
+          "title_original": "c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may",
+          "title_safe": "c. Now let f g h be functions of x y z which we may",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\tag{34}",
+          "title_safe": "tag34",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "_{1}$, the",
+          "title_safe": "1 the",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} f+m_{1} g+n_{1} h\\right) d s=e_{1} \\tag{35}",
+          "title_safe": "fplusm1 gplusn1 hright d sequalse1 tag35",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn",
+          "title_safe": "m1 n1 are the direction cosines of the normal nu1 drawn",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ into the electric field, and $e_{1}$ is the",
+          "title_safe": "into the electric field and e1 is the",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_33",
+          "article_number": 33,
+          "title_original": "), being, in fact, the electric",
+          "title_safe": "being in fact the electric",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$.",
+          "title_safe": "Article",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\iiint\\left(f^{2}+g^{2}+h^{2}\\right) d x d y d z \\tag{36}",
+          "title_safe": "pi iiintleftf2plusg2plush2right d x d y d z tag36",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "and without",
+          "title_safe": "and without",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, s_{2}$, \\&c., and to compare it with",
+          "title_safe": "s2 andc. and to compare it with",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{8 \\pi} \\iiint\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] d x d y d z \\tag{37}",
+          "title_safe": "8 pi iiintleftleftfracd Psid xright2plusleftfracd Psid yrigh",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad v=g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad w=h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z}  \\tag{38}\\\\",
+          "title_safe": "4 pi fracd Psid x quad vequalsgplusfrac14 pi fracd Psid y qu",
+          "page_start": 174,
+          "page_end": 173,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi \\iiint\\left(u^{2}+v^{2}+w^{2}\\right) d x d y d z \\tag{39}",
+          "title_safe": "pi iiintleftu2plusv2plusw2right d x d y d z tag39",
+          "page_start": 174,
+          "page_end": 174,
+          "content": {
+            "raw_text": "\n--- Page 174 ---\n$100 c$.\nTHOMSON'S THEOREM.\n139\nLet $\\Psi$ be a function of $x, y, z$, which within the field is finite\nand continuous and satisfies Laplace's Equation\n$$\\nabla^{2} \\Psi=0$$\n(32)\nand has the constant, but not given, values $\\Psi_{1}, \\Psi_{2}$, \\&c. at the\nsurfaces $8_{1}, 8_{2}$, \\&c. respectively, and is zero at the external\nsurface 8.\nThe charge of any of the conducting surfaces, as $s_{1}$, is given\nby the surface integral\n$$e_{1}=-\\frac{1}{4 \\pi} \\iint \\frac{d \\Psi}{d v_{1}} d s_{1}$$\n(33)\nthe normal $\\nu_{1}$ being drawn from the surface $\\varepsilon_{1}$ into the electric\nfield.\n$100 c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may\nconsider as the components of a vector $\\mathfrak{D}$, subject only to the\nconditions that at every point of the field they must satisfy the\nsolenoidal equation\n$$\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}=0$$\n(34)\nand that at any one of the internal closed surfaces, as $8_{1}$, the\nsurface-integral\n$$\\iint\\left(l_{1} f+m_{1} g+n_{1} h\\right) d s=e_{1}$$\n(35)\nwhere $l_{1}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn\noutwards from the surface $\\varepsilon_{1}$ into the electric field, and $e_{1}$ is the\nsame quantity as in equation (33), being, in fact, the electric\ncharge of the conductor whose surface is $s_{1}$.\nWe have to consider the value of the volume-integral\n$$W_{\\mathfrak{D}}=2 \\pi \\iiint\\left(f^{2}+g^{2}+h^{2}\\right) d x d y d z$$\n(36)\nextended throughout the whole of the field within 8 and without\n$s_{1}, s_{2}$, \\&c., and to compare it with\n$$W_{\\Psi}=\\frac{1}{8 \\pi} \\iiint\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] d x d y d z$$\n(37)\nthe limits of integration being the same.\nLet us write\n$$\\begin{gathered}\n\\dot{u}=f+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad v=g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad w=h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z} \\\\\n\\text { and } W_{\\sigma}=2 \\pi \\iiint\\left(u^{2}+v^{2}+w^{2}\\right) d x d y d z\n\\end{gathered}$$\n(38)\n(39)\n",
+            "mathpix_markdown": "\n--- Page 174 ---\n\n\nLet $\\Psi$ be a function of $x, y, z$, which within the field is finite\n and continuous and satisfies Laplace's Equation\n\n$$\\begin{equation*}\n\\nabla^{2} \\Psi=0 \\tag{32}\n\\end{equation*}$$\n\nand has the constant, but not given, values $\\Psi_{1}, \\Psi_{2}$, \\&c. at the\n surfaces $8_{1}, 8_{2}$, \\&c. respectively, and is zero at the external\n surface 8.\n\n\nThe charge of any of the conducting surfaces, as $s_{1}$, is given\n by the surface integral\n\n$$\\begin{equation*}\ne_{1}=-\\frac{1}{4 \\pi} \\iint \\frac{d \\Psi}{d v_{1}} d s_{1} \\tag{33}\n\\end{equation*}$$\n\nthe normal $\\nu_{1}$ being drawn from the surface $\\varepsilon_{1}$ into the electric\n field.\n\n$100 c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may\n consider as the components of a vector $\\mathfrak{D}$, subject only to the\n conditions that at every point of the field they must satisfy the\n solenoidal equation\n\n$$\\begin{equation*}\n\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}=0 \\tag{34}\n\\end{equation*}$$\n\nand that at any one of the internal closed surfaces, as $8_{1}$, the\n surface-integral\n\n$$\\begin{equation*}\n\\iint\\left(l_{1} f+m_{1} g+n_{1} h\\right) d s=e_{1} \\tag{35}\n\\end{equation*}$$\n\nwhere $l_{1}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn\n outwards from the surface $\\varepsilon_{1}$ into the electric field, and $e_{1}$ is the\n same quantity as in equation (33), being, in fact, the electric\n charge of the conductor whose surface is $s_{1}$.\n\n\nWe have to consider the value of the volume-integral\n\n$$\\begin{equation*}\nW_{\\mathfrak{D}}=2 \\pi \\iiint\\left(f^{2}+g^{2}+h^{2}\\right) d x d y d z \\tag{36}\n\\end{equation*}$$\n\nextended throughout the whole of the field within 8 and without\n $s_{1}, s_{2}$, \\&c., and to compare it with\n\n$$\\begin{equation*}\nW_{\\Psi}=\\frac{1}{8 \\pi} \\iiint\\left[\\left(\\frac{d \\Psi}{d x}\\right)^{2}+\\left(\\frac{d \\Psi}{d y}\\right)^{2}+\\left(\\frac{d \\Psi}{d z}\\right)^{2}\\right] d x d y d z \\tag{37}\n\\end{equation*}$$\n\nthe limits of integration being the same.\n\nLet us write\n\n$$\\begin{gather*}\n\\dot{u}=f+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad v=g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad w=h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z}  \\tag{38}\\\\\n\\text { and } W_{\\sigma}=2 \\pi \\iiint\\left(u^{2}+v^{2}+w^{2}\\right) d x d y d z \\tag{39}\n\\end{gather*}$$\n",
+            "structured_lines": [
+              {
+                "page": 174,
+                "line_number": 4,
+                "type": "text",
+                "content": "Let $\\Psi$ be a function of $x, y, z$, which within the field is finite",
+                "mathpix_content": "\n\nLet $\\Psi$ be a function of $x, y, z$, which within the field is finite",
+                "font_size": 27,
+                "confidence": 0.99609375
+              },
+              {
+                "page": 174,
+                "line_number": 5,
+                "type": "text",
+                "content": "and continuous and satisfies Laplace's Equation",
+                "mathpix_content": " and continuous and satisfies Laplace's Equation",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 9,
+                "type": "text",
+                "content": "and has the constant, but not given, values $\\Psi_{1}, \\Psi_{2}$, \\&c. at the",
+                "mathpix_content": "\nand has the constant, but not given, values $\\Psi_{1}, \\Psi_{2}$, \\&c. at the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 10,
+                "type": "text",
+                "content": "surfaces $8_{1}, 8_{2}$, \\&c. respectively, and is zero at the external",
+                "mathpix_content": " surfaces $8_{1}, 8_{2}$, \\&c. respectively, and is zero at the external",
+                "font_size": 27,
+                "confidence": 0.6083984375
+              },
+              {
+                "page": 174,
+                "line_number": 11,
+                "type": "text",
+                "content": "surface 8.",
+                "mathpix_content": " surface 8.",
+                "font_size": 27,
+                "confidence": 0.97119140625
+              },
+              {
+                "page": 174,
+                "line_number": 12,
+                "type": "text",
+                "content": "The charge of any of the conducting surfaces, as $s_{1}$, is given",
+                "mathpix_content": "\n\nThe charge of any of the conducting surfaces, as $s_{1}$, is given",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 174,
+                "line_number": 13,
+                "type": "text",
+                "content": "by the surface integral",
+                "mathpix_content": " by the surface integral",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 17,
+                "type": "text",
+                "content": "the normal $\\nu_{1}$ being drawn from the surface $\\varepsilon_{1}$ into the electric",
+                "mathpix_content": "\nthe normal $\\nu_{1}$ being drawn from the surface $\\varepsilon_{1}$ into the electric",
+                "font_size": 27,
+                "confidence": 0.4927206039428711
+              },
+              {
+                "page": 174,
+                "line_number": 18,
+                "type": "text",
+                "content": "field.",
+                "mathpix_content": " field.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 19,
+                "type": "text",
+                "content": "$100 c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may",
+                "mathpix_content": "\n$100 c$.] Now let $f, g, h$ be functions of $x, y, z$, which we may",
+                "font_size": 27,
+                "confidence": 0.98974609375
+              },
+              {
+                "page": 174,
+                "line_number": 20,
+                "type": "text",
+                "content": "consider as the components of a vector $\\mathfrak{D}$, subject only to the",
+                "mathpix_content": " consider as the components of a vector $\\mathfrak{D}$, subject only to the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 21,
+                "type": "text",
+                "content": "conditions that at every point of the field they must satisfy the",
+                "mathpix_content": " conditions that at every point of the field they must satisfy the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 22,
+                "type": "text",
+                "content": "solenoidal equation",
+                "mathpix_content": " solenoidal equation",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 26,
+                "type": "text",
+                "content": "and that at any one of the internal closed surfaces, as $8_{1}$, the",
+                "mathpix_content": "\nand that at any one of the internal closed surfaces, as $8_{1}$, the",
+                "font_size": 27,
+                "confidence": 0.9428987503051758
+              },
+              {
+                "page": 174,
+                "line_number": 27,
+                "type": "text",
+                "content": "surface-integral",
+                "mathpix_content": " surface-integral",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 31,
+                "type": "text",
+                "content": "where $l_{1}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn",
+                "mathpix_content": "\nwhere $l_{1}, m_{1}, n_{1}$ are the direction cosines of the normal $\\nu_{1}$ drawn",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 32,
+                "type": "text",
+                "content": "outwards from the surface $\\varepsilon_{1}$ into the electric field, and $e_{1}$ is the",
+                "mathpix_content": " outwards from the surface $\\varepsilon_{1}$ into the electric field, and $e_{1}$ is the",
+                "font_size": 27,
+                "confidence": 0.57470703125
+              },
+              {
+                "page": 174,
+                "line_number": 33,
+                "type": "text",
+                "content": "same quantity as in equation (33), being, in fact, the electric",
+                "mathpix_content": " same quantity as in equation (33), being, in fact, the electric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 34,
+                "type": "text",
+                "content": "charge of the conductor whose surface is $s_{1}$.",
+                "mathpix_content": " charge of the conductor whose surface is $s_{1}$.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 174,
+                "line_number": 35,
+                "type": "text",
+                "content": "We have to consider the value of the volume-integral",
+                "mathpix_content": "\n\nWe have to consider the value of the volume-integral",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 39,
+                "type": "text",
+                "content": "extended throughout the whole of the field within 8 and without",
+                "mathpix_content": "\nextended throughout the whole of the field within 8 and without",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 40,
+                "type": "text",
+                "content": "$s_{1}, s_{2}$, \\&c., and to compare it with",
+                "mathpix_content": " $s_{1}, s_{2}$, \\&c., and to compare it with",
+                "font_size": 27,
+                "confidence": 0.8823444647714496
+              },
+              {
+                "page": 174,
+                "line_number": 44,
+                "type": "text",
+                "content": "the limits of integration being the same.",
+                "mathpix_content": "\nthe limits of integration being the same.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 174,
+                "line_number": 45,
+                "type": "text",
+                "content": "Let us write",
+                "mathpix_content": "\nLet us write",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

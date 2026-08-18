@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}=\\frac{1}{2} \\frac{a}{a-b} V_{q}\\left[\\log \\frac{4 a^{2}}{a^{2}-b^{2}}-\\frac{a}{b} \\log \\frac{a+b}{a-b}\\right]  \\tag{21}\\\\",
+  "title_safe": "equalsfrac12 fracaa-b Vqleftlog frac4 a2a2-b2-fracab log fra",
+  "page_start": 120,
+  "page_end": 119,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

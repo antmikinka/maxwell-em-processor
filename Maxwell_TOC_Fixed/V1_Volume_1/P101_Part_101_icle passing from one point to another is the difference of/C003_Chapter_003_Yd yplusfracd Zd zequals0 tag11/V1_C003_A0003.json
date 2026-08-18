@@ -1,0 +1,237 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "} Y}{d y}+\\frac{d Z}{d z}=0 \\tag{11}",
+  "title_safe": "Yd yplusfracd Zd zequals0 tag11",
+  "page_start": 57,
+  "page_end": 57,
+  "content": {
+    "raw_text": "\n--- Page 57 ---\n22\nPRELIMINARY.\n[22.\nthe triple integration being extended over the whole space\nwithin $S$.\nLet us next suppose that $X, Y, Z$ are not continuous within\nthe closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the\nvalues of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative\nside of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.\nIf this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value\nof $X_{2}-X_{1}$ will be\n$$\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right)$$\n(6.)\nwhere in the expression under the integral sign only the finite\nvalues of the derivative of $X$ are to be considered.\nIn this case therefore the total surface-integral of $R$ over the\nclosed surface will be expressed by\n$$\\begin{array}{r}\n\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z+\\iint\\left(X^{\\prime}-X\\right) d y d z \\\\\n+\\iint\\left(Y^{\\prime}-Y\\right) d z d x+\\iint\\left(Z^{\\prime}-Z\\right) d x d y\n\\end{array}$$\n(7)\nor, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur-\nface of discontinuity, and $d s^{\\prime}$ an element of that surface,\n$$\\begin{aligned}\n\\iint R \\cos \\epsilon d S= & \\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) \\cdot l x d y d \\\\\n& +\\iint\\left\\{l^{\\prime}\\left(X^{\\prime}-X\\right)+m^{\\prime}\\left(Y^{\\prime}-Y\\right)+n^{\\prime}\\left(Z^{\\prime}-Z\\right)\\right\\} d S^{\\prime}\n\\end{aligned}$$\n(8)\nwhere the integration of the last term is to be extended over the\nsurface of discontinuity.\nIf at every point where $X, Y, Z$ are continuous\n$$\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=0$$\n(9)\nand at every surface where they are discontinuous\n$$l^{\\prime} X^{\\prime}+m^{\\prime} Y^{\\prime}+n^{\\prime} Z^{\\prime}=l^{\\prime} X+m^{\\prime} Y+n^{\\prime} Z,$$\n(10)\nthen the surface-integral over every closed surface is zero, and\nthe distribution of the vector quantity is said to be Solenoidal.\nWe shall refer to equation (9) as the General solenoidal con-\ndition, and to equation (10) as the Superficial solenoidal condition.\n22.] Let us now consider the case in which at every point\nwithin the surface $S$ the equation\n$$\\frac{d X}{d x}+\\frac{c^{3} Y}{d y}+\\frac{d Z}{d z}=0$$\n(11)\n",
+    "mathpix_markdown": "\n--- Page 57 ---\n\nthe triple integration being extended over the whole space\n within $S$.\n\n\nLet us next suppose that $X, Y, Z$ are not continuous within\n the closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the\n values of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative\n side of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.\n\n\nIf this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value\n of $X_{2}-X_{1}$ will be\n\n$$\\begin{equation*}\n\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right) \\tag{6.}\n\\end{equation*}$$\n\nwhere in the expression under the integral sign only the finite\n values of the derivative of $X$ are to be considered.\n\n\nIn this case therefore the total surface-integral of $R$ over the\n closed surface will be expressed by\n\n$$\\begin{array}{r}\n\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z+\\iint\\left(X^{\\prime}-X\\right) d y d z \\\\\n+\\iint\\left(Y^{\\prime}-Y\\right) d z d x+\\iint\\left(Z^{\\prime}-Z\\right) d x d y \\tag{7}\n\\end{array}$$\n\nor, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur\nface of discontinuity, and $d s^{\\prime}$ an element of that surface,\n\n$$\\begin{align*}\n\\iint R \\cos \\epsilon d S= & \\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) \\cdot l x d y d \\\\\n& +\\iint\\left\\{l^{\\prime}\\left(X^{\\prime}-X\\right)+m^{\\prime}\\left(Y^{\\prime}-Y\\right)+n^{\\prime}\\left(Z^{\\prime}-Z\\right)\\right\\} d S^{\\prime} \\tag{8}\n\\end{align*}$$\n\nwhere the integration of the last term is to be extended over the\n surface of discontinuity.\n\n\nIf at every point where $X, Y, Z$ are continuous\n\n$$\\begin{equation*}\n\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=0 \\tag{9}\n\\end{equation*}$$\n\nand at every surface where they are discontinuous\n\n$$\\begin{equation*}\nl^{\\prime} X^{\\prime}+m^{\\prime} Y^{\\prime}+n^{\\prime} Z^{\\prime}=l^{\\prime} X+m^{\\prime} Y+n^{\\prime} Z, \\tag{10}\n\\end{equation*}$$\n\nthen the surface-integral over every closed surface is zero, and\n the distribution of the vector quantity is said to be Solenoidal.\n\n\nWe shall refer to equation (9) as the General solenoidal con\ndition, and to equation (10) as the Superficial solenoidal condition.\n\n22.] Let us now consider the case in which at every point\n within the surface $S$ the equation\n\n$$\\begin{equation*}\n\\frac{d X}{d x}+\\frac{c^{3} Y}{d y}+\\frac{d Z}{d z}=0 \\tag{11}\n\\end{equation*}$$\n",
+    "structured_lines": [
+      {
+        "page": 57,
+        "line_number": 4,
+        "type": "text",
+        "content": "the triple integration being extended over the whole space",
+        "mathpix_content": "\nthe triple integration being extended over the whole space",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 5,
+        "type": "text",
+        "content": "within $S$.",
+        "mathpix_content": " within $S$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 6,
+        "type": "text",
+        "content": "Let us next suppose that $X, Y, Z$ are not continuous within",
+        "mathpix_content": "\n\nLet us next suppose that $X, Y, Z$ are not continuous within",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 7,
+        "type": "text",
+        "content": "the closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the",
+        "mathpix_content": " the closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the",
+        "font_size": 27,
+        "confidence": 0.5919959545135498
+      },
+      {
+        "page": 57,
+        "line_number": 8,
+        "type": "text",
+        "content": "values of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative",
+        "mathpix_content": " values of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 9,
+        "type": "text",
+        "content": "side of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.",
+        "mathpix_content": " side of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 10,
+        "type": "text",
+        "content": "If this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value",
+        "mathpix_content": "\n\nIf this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 57,
+        "line_number": 11,
+        "type": "text",
+        "content": "of $X_{2}-X_{1}$ will be",
+        "mathpix_content": " of $X_{2}-X_{1}$ will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 15,
+        "type": "text",
+        "content": "where in the expression under the integral sign only the finite",
+        "mathpix_content": "\nwhere in the expression under the integral sign only the finite",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 16,
+        "type": "text",
+        "content": "values of the derivative of $X$ are to be considered.",
+        "mathpix_content": " values of the derivative of $X$ are to be considered.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 17,
+        "type": "text",
+        "content": "In this case therefore the total surface-integral of $R$ over the",
+        "mathpix_content": "\n\nIn this case therefore the total surface-integral of $R$ over the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 18,
+        "type": "text",
+        "content": "closed surface will be expressed by",
+        "mathpix_content": " closed surface will be expressed by",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 57,
+        "line_number": 23,
+        "type": "text",
+        "content": "or, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur-",
+        "mathpix_content": "\nor, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 24,
+        "type": "text",
+        "content": "face of discontinuity, and $d s^{\\prime}$ an element of that surface,",
+        "mathpix_content": "face of discontinuity, and $d s^{\\prime}$ an element of that surface,",
+        "font_size": 27,
+        "confidence": 0.6150078412611037
+      },
+      {
+        "page": 57,
+        "line_number": 29,
+        "type": "text",
+        "content": "where the integration of the last term is to be extended over the",
+        "mathpix_content": "\nwhere the integration of the last term is to be extended over the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 30,
+        "type": "text",
+        "content": "surface of discontinuity.",
+        "mathpix_content": " surface of discontinuity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 31,
+        "type": "text",
+        "content": "If at every point where $X, Y, Z$ are continuous",
+        "mathpix_content": "\n\nIf at every point where $X, Y, Z$ are continuous",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 57,
+        "line_number": 35,
+        "type": "text",
+        "content": "and at every surface where they are discontinuous",
+        "mathpix_content": "\nand at every surface where they are discontinuous",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 39,
+        "type": "text",
+        "content": "then the surface-integral over every closed surface is zero, and",
+        "mathpix_content": "\nthen the surface-integral over every closed surface is zero, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 40,
+        "type": "text",
+        "content": "the distribution of the vector quantity is said to be Solenoidal.",
+        "mathpix_content": " the distribution of the vector quantity is said to be Solenoidal.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 41,
+        "type": "text",
+        "content": "We shall refer to equation (9) as the General solenoidal con-",
+        "mathpix_content": "\n\nWe shall refer to equation (9) as the General solenoidal con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 42,
+        "type": "text",
+        "content": "dition, and to equation (10) as the Superficial solenoidal condition.",
+        "mathpix_content": "dition, and to equation (10) as the Superficial solenoidal condition.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 57,
+        "line_number": 43,
+        "type": "text",
+        "content": "22.] Let us now consider the case in which at every point",
+        "mathpix_content": "\n22.] Let us now consider the case in which at every point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 57,
+        "line_number": 44,
+        "type": "text",
+        "content": "within the surface $S$ the equation",
+        "mathpix_content": " within the surface $S$ the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

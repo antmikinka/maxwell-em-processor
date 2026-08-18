@@ -1,0 +1,381 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{48}$ of",
+  "title_safe": "48 of",
+  "page_start": 117,
+  "page_end": 117,
+  "content": {
+    "raw_text": "\n--- Page 117 ---\n82\nELECTROSTATICS.\n[74 b.\nof the globe, they were left in their position, but discharged to\nearth. The effect of a given charge of the globe on the electro-\nmeter was not so great as if the hemispheres had been removed,\nbut this disadvantage was more than compensated by the perfect\nsecurity afforded by the conducting vessel against all external\nelectric disturbances.\nThe short wire which made the connexion between the shell\nand the globe was fastened to a small metal disk which acted\nas a lid to a small hole in the shell, so that when the wire\nand the lid were lifted up by a silk string, the electrode of the\nelectrometer could be made to dip into the hole and rest on the\nglobe within.\nThe electrometer was Thomson's Quadrant Electrometer de-\nscribed in Art. 219. The case of the electrometer and one of the\nelectrodes were always connected to earth, and the testing\nelectrode was connected to earth till the electricity of the shell\nhad been discharged.\nTo estimate the original charge of the shell, a small brass ball\nwas placed on an insulating support at a considerable distance\nfrom the shell.\nThe operations were conducted as follows:-\nThe shell was charged by communication with a leyden jar.\nThe small ball was connected to earth so as to give it a negative\ncharge by induction, and was then left insulated.\nThe communicating wire between the globe and the shell was\nremoved by a silk string.\nThe shell was then discharged, and kept connected to earth.\nThe testing electrode was disconnected from earth, and made\nto touch the globe, passing through the hole in the shell.\nNot the slightest effect on the electrometer could be observed.\nTo test the sensitiveness of the apparatus the shell was discon-\nnected from earth and the small ball was discharged to earth.\nThe electrometer the testing electrode remaining in contact with\nthe globe \\} then shewed a positive deflection, $D$.\nThe negative charge of the brass ball was about $\\frac{1}{8 T}$ of the ori-\nginal charge of the shell, and the positive charge induced by the\nball when the shell was put to earth was about $\\frac{1}{9}$ of that of\nthe ball. Hence when the ball was put to earth the potential\nof the shell, as indicated by the electrometer, was about $\\frac{1}{48}$ of\nits original potential.\n",
+    "mathpix_markdown": "\n--- Page 117 ---\n\nof the globe, they were left in their position, but discharged to\n earth. The effect of a given charge of the globe on the electro\nmeter was not so great as if the hemispheres had been removed,\n but this disadvantage was more than compensated by the perfect\n security afforded by the conducting vessel against all external\n electric disturbances.\n\n\nThe short wire which made the connexion between the shell\n and the globe was fastened to a small metal disk which acted\n as a lid to a small hole in the shell, so that when the wire\n and the lid were lifted up by a silk string, the electrode of the\n electrometer could be made to dip into the hole and rest on the\n globe within.\n\n\nThe electrometer was Thomson's Quadrant Electrometer de\nscribed in Art. 219. The case of the electrometer and one of the\n electrodes were always connected to earth, and the testing\n electrode was connected to earth till the electricity of the shell\n had been discharged.\n\n\nTo estimate the original charge of the shell, a small brass ball\n was placed on an insulating support at a considerable distance\n from the shell.\n\n\nThe operations were conducted as follows:-\n\nThe shell was charged by communication with a leyden jar.\n\nThe small ball was connected to earth so as to give it a negative\n charge by induction, and was then left insulated.\n\n\nThe communicating wire between the globe and the shell was\n removed by a silk string.\n\n\nThe shell was then discharged, and kept connected to earth.\n\nThe testing electrode was disconnected from earth, and made\n to touch the globe, passing through the hole in the shell.\n\n\nNot the slightest effect on the electrometer could be observed.\n\nTo test the sensitiveness of the apparatus the shell was discon\nnected from earth and the small ball was discharged to earth.\n The electrometer the testing electrode remaining in contact with\n the globe \\} then shewed a positive deflection, $D$.\n\n\nThe negative charge of the brass ball was about $\\frac{1}{8 T}$ of the ori\nginal charge of the shell, and the positive charge induced by the\n ball when the shell was put to earth was about $\\frac{1}{9}$ of that of\n the ball. Hence when the ball was put to earth the potential\n of the shell, as indicated by the electrometer, was about $\\frac{1}{48}$ of\n its original potential.\n",
+    "structured_lines": [
+      {
+        "page": 117,
+        "line_number": 4,
+        "type": "text",
+        "content": "of the globe, they were left in their position, but discharged to",
+        "mathpix_content": "\nof the globe, they were left in their position, but discharged to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 5,
+        "type": "text",
+        "content": "earth. The effect of a given charge of the globe on the electro-",
+        "mathpix_content": " earth. The effect of a given charge of the globe on the electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 6,
+        "type": "text",
+        "content": "meter was not so great as if the hemispheres had been removed,",
+        "mathpix_content": "meter was not so great as if the hemispheres had been removed,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 7,
+        "type": "text",
+        "content": "but this disadvantage was more than compensated by the perfect",
+        "mathpix_content": " but this disadvantage was more than compensated by the perfect",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 8,
+        "type": "text",
+        "content": "security afforded by the conducting vessel against all external",
+        "mathpix_content": " security afforded by the conducting vessel against all external",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 9,
+        "type": "text",
+        "content": "electric disturbances.",
+        "mathpix_content": " electric disturbances.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 10,
+        "type": "text",
+        "content": "The short wire which made the connexion between the shell",
+        "mathpix_content": "\n\nThe short wire which made the connexion between the shell",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 11,
+        "type": "text",
+        "content": "and the globe was fastened to a small metal disk which acted",
+        "mathpix_content": " and the globe was fastened to a small metal disk which acted",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 12,
+        "type": "text",
+        "content": "as a lid to a small hole in the shell, so that when the wire",
+        "mathpix_content": " as a lid to a small hole in the shell, so that when the wire",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 13,
+        "type": "text",
+        "content": "and the lid were lifted up by a silk string, the electrode of the",
+        "mathpix_content": " and the lid were lifted up by a silk string, the electrode of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 14,
+        "type": "text",
+        "content": "electrometer could be made to dip into the hole and rest on the",
+        "mathpix_content": " electrometer could be made to dip into the hole and rest on the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 15,
+        "type": "text",
+        "content": "globe within.",
+        "mathpix_content": " globe within.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 16,
+        "type": "text",
+        "content": "The electrometer was Thomson's Quadrant Electrometer de-",
+        "mathpix_content": "\n\nThe electrometer was Thomson's Quadrant Electrometer de",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 17,
+        "type": "text",
+        "content": "scribed in Art. 219. The case of the electrometer and one of the",
+        "mathpix_content": "scribed in Art. 219. The case of the electrometer and one of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 18,
+        "type": "text",
+        "content": "electrodes were always connected to earth, and the testing",
+        "mathpix_content": " electrodes were always connected to earth, and the testing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 19,
+        "type": "text",
+        "content": "electrode was connected to earth till the electricity of the shell",
+        "mathpix_content": " electrode was connected to earth till the electricity of the shell",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 20,
+        "type": "text",
+        "content": "had been discharged.",
+        "mathpix_content": " had been discharged.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 21,
+        "type": "text",
+        "content": "To estimate the original charge of the shell, a small brass ball",
+        "mathpix_content": "\n\nTo estimate the original charge of the shell, a small brass ball",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 22,
+        "type": "text",
+        "content": "was placed on an insulating support at a considerable distance",
+        "mathpix_content": " was placed on an insulating support at a considerable distance",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 23,
+        "type": "text",
+        "content": "from the shell.",
+        "mathpix_content": " from the shell.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 24,
+        "type": "text",
+        "content": "The operations were conducted as follows:-",
+        "mathpix_content": "\n\nThe operations were conducted as follows:-",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 25,
+        "type": "text",
+        "content": "The shell was charged by communication with a leyden jar.",
+        "mathpix_content": "\nThe shell was charged by communication with a leyden jar.",
+        "font_size": 27,
+        "confidence": 0.9921875
+      },
+      {
+        "page": 117,
+        "line_number": 26,
+        "type": "text",
+        "content": "The small ball was connected to earth so as to give it a negative",
+        "mathpix_content": "\nThe small ball was connected to earth so as to give it a negative",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 117,
+        "line_number": 27,
+        "type": "text",
+        "content": "charge by induction, and was then left insulated.",
+        "mathpix_content": " charge by induction, and was then left insulated.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 28,
+        "type": "text",
+        "content": "The communicating wire between the globe and the shell was",
+        "mathpix_content": "\n\nThe communicating wire between the globe and the shell was",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 29,
+        "type": "text",
+        "content": "removed by a silk string.",
+        "mathpix_content": " removed by a silk string.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 30,
+        "type": "text",
+        "content": "The shell was then discharged, and kept connected to earth.",
+        "mathpix_content": "\n\nThe shell was then discharged, and kept connected to earth.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 31,
+        "type": "text",
+        "content": "The testing electrode was disconnected from earth, and made",
+        "mathpix_content": "\nThe testing electrode was disconnected from earth, and made",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 32,
+        "type": "text",
+        "content": "to touch the globe, passing through the hole in the shell.",
+        "mathpix_content": " to touch the globe, passing through the hole in the shell.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 33,
+        "type": "text",
+        "content": "Not the slightest effect on the electrometer could be observed.",
+        "mathpix_content": "\n\nNot the slightest effect on the electrometer could be observed.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 34,
+        "type": "text",
+        "content": "To test the sensitiveness of the apparatus the shell was discon-",
+        "mathpix_content": "\nTo test the sensitiveness of the apparatus the shell was discon",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 35,
+        "type": "text",
+        "content": "nected from earth and the small ball was discharged to earth.",
+        "mathpix_content": "nected from earth and the small ball was discharged to earth.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 36,
+        "type": "text",
+        "content": "The electrometer the testing electrode remaining in contact with",
+        "mathpix_content": " The electrometer the testing electrode remaining in contact with",
+        "font_size": 27,
+        "confidence": 0.478515625
+      },
+      {
+        "page": 117,
+        "line_number": 37,
+        "type": "text",
+        "content": "the globe \\} then shewed a positive deflection, $D$.",
+        "mathpix_content": " the globe \\} then shewed a positive deflection, $D$.",
+        "font_size": 27,
+        "confidence": 0.9941470623016357
+      },
+      {
+        "page": 117,
+        "line_number": 38,
+        "type": "text",
+        "content": "The negative charge of the brass ball was about $\\frac{1}{8 T}$ of the ori-",
+        "mathpix_content": "\n\nThe negative charge of the brass ball was about $\\frac{1}{8 T}$ of the ori",
+        "font_size": 27,
+        "confidence": 0.8903380563715473
+      },
+      {
+        "page": 117,
+        "line_number": 39,
+        "type": "text",
+        "content": "ginal charge of the shell, and the positive charge induced by the",
+        "mathpix_content": "ginal charge of the shell, and the positive charge induced by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 40,
+        "type": "text",
+        "content": "ball when the shell was put to earth was about $\\frac{1}{9}$ of that of",
+        "mathpix_content": " ball when the shell was put to earth was about $\\frac{1}{9}$ of that of",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 117,
+        "line_number": 41,
+        "type": "text",
+        "content": "the ball. Hence when the ball was put to earth the potential",
+        "mathpix_content": " the ball. Hence when the ball was put to earth the potential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 117,
+        "line_number": 42,
+        "type": "text",
+        "content": "of the shell, as indicated by the electrometer, was about $\\frac{1}{48}$ of",
+        "mathpix_content": " of the shell, as indicated by the electrometer, was about $\\frac{1}{48}$ of",
+        "font_size": 27,
+        "confidence": 0.7510483898398039
+      },
+      {
+        "page": 117,
+        "line_number": 43,
+        "type": "text",
+        "content": "its original potential.",
+        "mathpix_content": " its original potential.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

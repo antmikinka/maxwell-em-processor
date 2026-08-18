@@ -1,0 +1,201 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "l$ be placed with its middle point",
+  "title_safe": "l be placed with its middle point",
+  "page_start": 226,
+  "page_end": 226,
+  "content": {
+    "raw_text": "\n--- Page 226 ---\n127.]\nCOAXAL CYLINDERS.\n191\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the inner and outer\nsurfaces,\n$$4 \\pi \\sigma_{1}=\\frac{A-B}{a \\log \\frac{b}{a}}, \\quad 4 \\pi \\sigma_{2}=\\frac{B-A}{b \\log _{a}^{b}} .$$\nIf $e_{1}$ and $e_{2}$ are the charges on the portions of the two cylinders\nbetween two sections transverse to the axis at a distance $l$ from\neach other,\n$$e_{1}=2 \\pi a l \\sigma_{1}=\\frac{1}{2} \\frac{A-B}{\\log \\frac{b}{a}} l=-e_{2} .$$\nThe capacity of a length $l$ of the interior cylinder is therefore\n$$\\frac{1}{2} \\frac{l}{\\log \\frac{b}{a}} .$$\nIf the space between the cylinders is occupied by a dielectric of\nspecific inductive capacity $K$ instead of air, then the capacity of\na length $l$ of the inner cylinder is\n$$\\frac{l}{2} \\frac{l K}{\\log \\frac{b}{a}} .$$\nThe energy of the electrical distribution on the part of the\ninfinite cylinder which we have considered is\n$$\\frac{1}{4} \\frac{l K(A-B)^{2}}{\\log \\frac{b}{a}}$$\n\nFig. 5.\n127.] Let there be two hollow cylindric conductors $A$ and $B$,\nFig. 5, of indefinite length, having the axis of $x$ for their common\naxis, one on the positive and the other on the negative side of\nthe origin, and separated by a short interval near the origin\nof coordinates.\nLet a cylinder $C$ of length $2 l$ be placed with its middle point\nat a distance $x$ on the positive side of the origin, so as to extend\ninto both the hollow cylinders.\nLet the potential of the hollow cylinder on the positive side be\n",
+    "mathpix_markdown": "\n--- Page 226 ---\n\n\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the inner and outer\n surfaces,\n\n$$4 \\pi \\sigma_{1}=\\frac{A-B}{a \\log \\frac{b}{a}}, \\quad 4 \\pi \\sigma_{2}=\\frac{B-A}{b \\log _{a}^{b}} .$$\n\n\nIf $e_{1}$ and $e_{2}$ are the charges on the portions of the two cylinders\n between two sections transverse to the axis at a distance $l$ from\n each other,\n\n$$e_{1}=2 \\pi a l \\sigma_{1}=\\frac{1}{2} \\frac{A-B}{\\log \\frac{b}{a}} l=-e_{2} .$$\n\n\nThe capacity of a length $l$ of the interior cylinder is therefore\n\n$$\\frac{1}{2} \\frac{l}{\\log \\frac{b}{a}} .$$\n\n\nIf the space between the cylinders is occupied by a dielectric of\n specific inductive capacity $K$ instead of air, then the capacity of\n a length $l$ of the inner cylinder is\n\n$$\\frac{l}{2} \\frac{l K}{\\log \\frac{b}{a}} .$$\n\n\nThe energy of the electrical distribution on the part of the\n infinite cylinder which we have considered is\n\n$$\\frac{1}{4} \\frac{l K(A-B)^{2}}{\\log \\frac{b}{a}}$$\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-226.jpg?height=203&width=961&top_left_y=1267&top_left_x=160}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 5.}\n\\end{figure}\n\n127.] Let there be two hollow cylindric conductors $A$ and $B$,\n Fig. 5, of indefinite length, having the axis of $x$ for their common\n axis, one on the positive and the other on the negative side of\n the origin, and separated by a short interval near the origin\n of coordinates.\n\n\nLet a cylinder $C$ of length $2 l$ be placed with its middle point\n at a distance $x$ on the positive side of the origin, so as to extend\n into both the hollow cylinders.\n\n\nLet the potential of the hollow cylinder on the positive side be\n",
+    "structured_lines": [
+      {
+        "page": 226,
+        "line_number": 4,
+        "type": "text",
+        "content": "If $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the inner and outer",
+        "mathpix_content": "\n\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the inner and outer",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 226,
+        "line_number": 5,
+        "type": "text",
+        "content": "surfaces,",
+        "mathpix_content": " surfaces,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 8,
+        "type": "text",
+        "content": "If $e_{1}$ and $e_{2}$ are the charges on the portions of the two cylinders",
+        "mathpix_content": "\n\nIf $e_{1}$ and $e_{2}$ are the charges on the portions of the two cylinders",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 9,
+        "type": "text",
+        "content": "between two sections transverse to the axis at a distance $l$ from",
+        "mathpix_content": " between two sections transverse to the axis at a distance $l$ from",
+        "font_size": 27,
+        "confidence": 0.9912109375
+      },
+      {
+        "page": 226,
+        "line_number": 10,
+        "type": "text",
+        "content": "each other,",
+        "mathpix_content": " each other,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 13,
+        "type": "text",
+        "content": "The capacity of a length $l$ of the interior cylinder is therefore",
+        "mathpix_content": "\n\nThe capacity of a length $l$ of the interior cylinder is therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 16,
+        "type": "text",
+        "content": "If the space between the cylinders is occupied by a dielectric of",
+        "mathpix_content": "\n\nIf the space between the cylinders is occupied by a dielectric of",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 226,
+        "line_number": 17,
+        "type": "text",
+        "content": "specific inductive capacity $K$ instead of air, then the capacity of",
+        "mathpix_content": " specific inductive capacity $K$ instead of air, then the capacity of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 18,
+        "type": "text",
+        "content": "a length $l$ of the inner cylinder is",
+        "mathpix_content": " a length $l$ of the inner cylinder is",
+        "font_size": 27,
+        "confidence": 0.98388671875
+      },
+      {
+        "page": 226,
+        "line_number": 21,
+        "type": "text",
+        "content": "The energy of the electrical distribution on the part of the",
+        "mathpix_content": "\n\nThe energy of the electrical distribution on the part of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 22,
+        "type": "text",
+        "content": "infinite cylinder which we have considered is",
+        "mathpix_content": " infinite cylinder which we have considered is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 27,
+        "type": "text",
+        "content": "127.] Let there be two hollow cylindric conductors $A$ and $B$,",
+        "mathpix_content": "\n127.] Let there be two hollow cylindric conductors $A$ and $B$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 28,
+        "type": "text",
+        "content": "Fig. 5, of indefinite length, having the axis of $x$ for their common",
+        "mathpix_content": " Fig. 5, of indefinite length, having the axis of $x$ for their common",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 29,
+        "type": "text",
+        "content": "axis, one on the positive and the other on the negative side of",
+        "mathpix_content": " axis, one on the positive and the other on the negative side of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 30,
+        "type": "text",
+        "content": "the origin, and separated by a short interval near the origin",
+        "mathpix_content": " the origin, and separated by a short interval near the origin",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 31,
+        "type": "text",
+        "content": "of coordinates.",
+        "mathpix_content": " of coordinates.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 32,
+        "type": "text",
+        "content": "Let a cylinder $C$ of length $2 l$ be placed with its middle point",
+        "mathpix_content": "\n\nLet a cylinder $C$ of length $2 l$ be placed with its middle point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 33,
+        "type": "text",
+        "content": "at a distance $x$ on the positive side of the origin, so as to extend",
+        "mathpix_content": " at a distance $x$ on the positive side of the origin, so as to extend",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 34,
+        "type": "text",
+        "content": "into both the hollow cylinders.",
+        "mathpix_content": " into both the hollow cylinders.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 226,
+        "line_number": 35,
+        "type": "text",
+        "content": "Let the potential of the hollow cylinder on the positive side be",
+        "mathpix_content": "\n\nLet the potential of the hollow cylinder on the positive side be",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "article_id": "article_286",
+  "article_number": 286,
+  "title_original": ". \\}",
+  "title_safe": "Article",
+  "page_start": 315,
+  "page_end": 315,
+  "content": {
+    "raw_text": "\n--- Page 315 ---\n280\nELECTRIC IMAGES.\n[181.\nThe result of this process is as follows:\nLet the figure represent a section through the centre, $O$, of the\nsphere, the pole, $C$, of the bowl, and the influencing point $Q$.\n$D$ is a point which corresponds in the inverted figure to the\nunoccupied pole of the rim of the\n\n\nFig. 16.\nbowl, and may be found by the\nfollowing construction.\nDraw through $Q$ the chords $E Q E^{\\prime}$\nand $F Q F^{\\prime}$, then if we suppose the\nradius of the sphere of inversion to\nbe a mean proportional between the\nsegments into which a chord is\ndivided at $Q, E^{\\prime} F^{\\prime}$ will be the image\nof $E F$. Bisect the $\\operatorname{arc} F^{\\prime} C E^{\\prime}$ in $D^{\\prime}$,\nso that $F^{\\prime} D^{\\prime}=D^{\\prime} E^{\\prime \\prime}$, and draw $D^{\\prime} Q D$\nto meet the sphere in $D . \\quad D$ is the\npoint required. Also through $O$, the centre of the sphere, and $Q$\ndraw $H O Q H^{\\prime}$ meeting the sphere in $H$ and $H^{\\prime}$. Then if $P^{\\prime}$ be\nany point in the bowl, the surface-density at $P$ on the side which\nis separated from $Q$ by the completed spherical surface, induced\nby a quantity $q$ of electricity at $Q$, will be\n$$\\sigma=\\frac{q}{2 \\pi^{2}} \\frac{Q H \\cdot Q H^{\\prime}}{H H^{\\prime} \\cdot \\overline{P Q^{3}}}\\left\\{\\frac{P Q}{D Q}\\left(\\frac{C D^{2}-a^{2}}{a^{2}-C P^{2}}\\right)^{\\frac{1}{2}}-\\tan ^{-1}\\left[\\frac{P Q}{D Q}\\left(\\frac{C D^{2}-a^{2}}{a^{2}-C P^{2}}\\right)^{\\frac{1}{2}}\\right]\\right\\},$$\nwhere $a$ denotes the chord drawn from $C$, the pole of the bowl,\nto the rim of the bowl*.\nOn the side next to $Q$ the surface-density is\n$$\\sigma+\\frac{q}{2 \\pi} \\frac{Q H \\cdot Q H^{\\prime}}{H H^{\\prime} \\cdot P Q^{3}} .$$\n\n* \\{For further investigations of the electrical distribution on a bowl, see Ferrer's\nQuarterly Journal of Math. 1882 ; Gallop., Quarterly Journal, 1886, p.229. In this\npaper it is shewn that the capacity of the bowl $=\\frac{a(a+\\sin \\alpha)}{\\pi}$ where $a$ is the radius of\nthe sphere of which the bowl forms a part and $\\alpha$ the semi-vertical angle of the cone\npassing through the edge of the bowl whose apex is the centre of the sphere.\nSee alno Kruseman 'On the Potential of the Electric Field in the neighbourhood of a\nSpherical Bowl,' Phil. Mag. xxiv. 38, 1887. Basset, Proc. Lond. Math. Soc. xvi.\np. 286. \\}\n",
+    "mathpix_markdown": "\n--- Page 315 ---\n\n\nThe result of this process is as follows:\n\nLet the figure represent a section through the centre, $O$, of the\n sphere, the pole, $C$, of the bowl, and the influencing point $Q$.\n $D$ is a point which corresponds in the inverted figure to the\n unoccupied pole of the rim of the\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-315.jpg?height=415&width=406&top_left_y=426&top_left_x=145}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 16.}\n\\end{figure}\n\nbowl, and may be found by the\n following construction.\n\n\nDraw through $Q$ the chords $E Q E^{\\prime}$\n and $F Q F^{\\prime}$, then if we suppose the\n radius of the sphere of inversion to\n be a mean proportional between the\n segments into which a chord is\n divided at $Q, E^{\\prime} F^{\\prime}$ will be the image\n of $E F$. Bisect the $\\operatorname{arc} F^{\\prime} C E^{\\prime}$ in $D^{\\prime}$,\n so that $F^{\\prime} D^{\\prime}=D^{\\prime} E^{\\prime \\prime}$, and draw $D^{\\prime} Q D$\n to meet the sphere in $D . \\quad D$ is the\n point required. Also through $O$, the centre of the sphere, and $Q$\n draw $H O Q H^{\\prime}$ meeting the sphere in $H$ and $H^{\\prime}$. Then if $P^{\\prime}$ be\n any point in the bowl, the surface-density at $P$ on the side which\n is separated from $Q$ by the completed spherical surface, induced\n by a quantity $q$ of electricity at $Q$, will be\n\n$$\\sigma=\\frac{q}{2 \\pi^{2}} \\frac{Q H \\cdot Q H^{\\prime}}{H H^{\\prime} \\cdot \\overline{P Q^{3}}}\\left\\{\\frac{P Q}{D Q}\\left(\\frac{C D^{2}-a^{2}}{a^{2}-C P^{2}}\\right)^{\\frac{1}{2}}-\\tan ^{-1}\\left[\\frac{P Q}{D Q}\\left(\\frac{C D^{2}-a^{2}}{a^{2}-C P^{2}}\\right)^{\\frac{1}{2}}\\right]\\right\\},$$\n\nwhere $a$ denotes the chord drawn from $C$, the pole of the bowl,\n to the rim of the bowl*.\n\n\nOn the side next to $Q$ the surface-density is\n\n$$\\sigma+\\frac{q}{2 \\pi} \\frac{Q H \\cdot Q H^{\\prime}}{H H^{\\prime} \\cdot P Q^{3}} .$$\n\n\n\\footnotetext{\n* \\{For further investigations of the electrical distribution on a bowl, see Ferrer's\n Quarterly Journal of Math. 1882 ; Gallop., Quarterly Journal, 1886, p.229. In this\n paper it is shewn that the capacity of the bowl $=\\frac{a(a+\\sin \\alpha)}{\\pi}$ where $a$ is the radius of\n the sphere of which the bowl forms a part and $\\alpha$ the semi-vertical angle of the cone\n passing through the edge of the bowl whose apex is the centre of the sphere.\n See alno Kruseman 'On the Potential of the Electric Field in the neighbourhood of a\n Spherical Bowl,' Phil. Mag. xxiv. 38, 1887. Basset, Proc. Lond. Math. Soc. xvi.\n p. 286. \\}\n}\n",
+    "structured_lines": [
+      {
+        "page": 315,
+        "line_number": 4,
+        "type": "text",
+        "content": "The result of this process is as follows:",
+        "mathpix_content": "\n\nThe result of this process is as follows:",
+        "font_size": 33,
+        "confidence": 0.841796875
+      },
+      {
+        "page": 315,
+        "line_number": 5,
+        "type": "text",
+        "content": "Let the figure represent a section through the centre, $O$, of the",
+        "mathpix_content": "\nLet the figure represent a section through the centre, $O$, of the",
+        "font_size": 33,
+        "confidence": 0.9277694225311279
+      },
+      {
+        "page": 315,
+        "line_number": 6,
+        "type": "text",
+        "content": "sphere, the pole, $C$, of the bowl, and the influencing point $Q$.",
+        "mathpix_content": " sphere, the pole, $C$, of the bowl, and the influencing point $Q$.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 7,
+        "type": "text",
+        "content": "$D$ is a point which corresponds in the inverted figure to the",
+        "mathpix_content": " $D$ is a point which corresponds in the inverted figure to the",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 8,
+        "type": "text",
+        "content": "unoccupied pole of the rim of the",
+        "mathpix_content": " unoccupied pole of the rim of the",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 12,
+        "type": "text",
+        "content": "bowl, and may be found by the",
+        "mathpix_content": "\nbowl, and may be found by the",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 13,
+        "type": "text",
+        "content": "following construction.",
+        "mathpix_content": " following construction.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 14,
+        "type": "text",
+        "content": "Draw through $Q$ the chords $E Q E^{\\prime}$",
+        "mathpix_content": "\n\nDraw through $Q$ the chords $E Q E^{\\prime}$",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 15,
+        "type": "text",
+        "content": "and $F Q F^{\\prime}$, then if we suppose the",
+        "mathpix_content": " and $F Q F^{\\prime}$, then if we suppose the",
+        "font_size": 33,
+        "confidence": 0.9794921875
+      },
+      {
+        "page": 315,
+        "line_number": 16,
+        "type": "text",
+        "content": "radius of the sphere of inversion to",
+        "mathpix_content": " radius of the sphere of inversion to",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 17,
+        "type": "text",
+        "content": "be a mean proportional between the",
+        "mathpix_content": " be a mean proportional between the",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 18,
+        "type": "text",
+        "content": "segments into which a chord is",
+        "mathpix_content": " segments into which a chord is",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 19,
+        "type": "text",
+        "content": "divided at $Q, E^{\\prime} F^{\\prime}$ will be the image",
+        "mathpix_content": " divided at $Q, E^{\\prime} F^{\\prime}$ will be the image",
+        "font_size": 33,
+        "confidence": 0.9931640625
+      },
+      {
+        "page": 315,
+        "line_number": 20,
+        "type": "text",
+        "content": "of $E F$. Bisect the $\\operatorname{arc} F^{\\prime} C E^{\\prime}$ in $D^{\\prime}$,",
+        "mathpix_content": " of $E F$. Bisect the $\\operatorname{arc} F^{\\prime} C E^{\\prime}$ in $D^{\\prime}$,",
+        "font_size": 33,
+        "confidence": 0.73388671875
+      },
+      {
+        "page": 315,
+        "line_number": 21,
+        "type": "text",
+        "content": "so that $F^{\\prime} D^{\\prime}=D^{\\prime} E^{\\prime \\prime}$, and draw $D^{\\prime} Q D$",
+        "mathpix_content": " so that $F^{\\prime} D^{\\prime}=D^{\\prime} E^{\\prime \\prime}$, and draw $D^{\\prime} Q D$",
+        "font_size": 33,
+        "confidence": 0.865234375
+      },
+      {
+        "page": 315,
+        "line_number": 22,
+        "type": "text",
+        "content": "to meet the sphere in $D . \\quad D$ is the",
+        "mathpix_content": " to meet the sphere in $D . \\quad D$ is the",
+        "font_size": 33,
+        "confidence": 0.9653487205505371
+      },
+      {
+        "page": 315,
+        "line_number": 23,
+        "type": "text",
+        "content": "point required. Also through $O$, the centre of the sphere, and $Q$",
+        "mathpix_content": " point required. Also through $O$, the centre of the sphere, and $Q$",
+        "font_size": 33,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 315,
+        "line_number": 24,
+        "type": "text",
+        "content": "draw $H O Q H^{\\prime}$ meeting the sphere in $H$ and $H^{\\prime}$. Then if $P^{\\prime}$ be",
+        "mathpix_content": " draw $H O Q H^{\\prime}$ meeting the sphere in $H$ and $H^{\\prime}$. Then if $P^{\\prime}$ be",
+        "font_size": 33,
+        "confidence": 0.9970729344058782
+      },
+      {
+        "page": 315,
+        "line_number": 25,
+        "type": "text",
+        "content": "any point in the bowl, the surface-density at $P$ on the side which",
+        "mathpix_content": " any point in the bowl, the surface-density at $P$ on the side which",
+        "font_size": 33,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 315,
+        "line_number": 26,
+        "type": "text",
+        "content": "is separated from $Q$ by the completed spherical surface, induced",
+        "mathpix_content": " is separated from $Q$ by the completed spherical surface, induced",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 27,
+        "type": "text",
+        "content": "by a quantity $q$ of electricity at $Q$, will be",
+        "mathpix_content": " by a quantity $q$ of electricity at $Q$, will be",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 315,
+        "line_number": 30,
+        "type": "text",
+        "content": "where $a$ denotes the chord drawn from $C$, the pole of the bowl,",
+        "mathpix_content": "\nwhere $a$ denotes the chord drawn from $C$, the pole of the bowl,",
+        "font_size": 26,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 315,
+        "line_number": 31,
+        "type": "text",
+        "content": "to the rim of the bowl*.",
+        "mathpix_content": " to the rim of the bowl*.",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 32,
+        "type": "text",
+        "content": "On the side next to $Q$ the surface-density is",
+        "mathpix_content": "\n\nOn the side next to $Q$ the surface-density is",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 315,
+        "line_number": 36,
+        "type": "text",
+        "content": "* \\{For further investigations of the electrical distribution on a bowl, see Ferrer's",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{For further investigations of the electrical distribution on a bowl, see Ferrer's",
+        "font_size": 26,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 315,
+        "line_number": 37,
+        "type": "text",
+        "content": "Quarterly Journal of Math. 1882 ; Gallop., Quarterly Journal, 1886, p.229. In this",
+        "mathpix_content": " Quarterly Journal of Math. 1882 ; Gallop., Quarterly Journal, 1886, p.229. In this",
+        "font_size": 26,
+        "confidence": 0.8837890625
+      },
+      {
+        "page": 315,
+        "line_number": 38,
+        "type": "text",
+        "content": "paper it is shewn that the capacity of the bowl $=\\frac{a(a+\\sin \\alpha)}{\\pi}$ where $a$ is the radius of",
+        "mathpix_content": " paper it is shewn that the capacity of the bowl $=\\frac{a(a+\\sin \\alpha)}{\\pi}$ where $a$ is the radius of",
+        "font_size": 26,
+        "confidence": 0.7109423348447308
+      },
+      {
+        "page": 315,
+        "line_number": 39,
+        "type": "text",
+        "content": "the sphere of which the bowl forms a part and $\\alpha$ the semi-vertical angle of the cone",
+        "mathpix_content": " the sphere of which the bowl forms a part and $\\alpha$ the semi-vertical angle of the cone",
+        "font_size": 26,
+        "confidence": 0.912109375
+      },
+      {
+        "page": 315,
+        "line_number": 40,
+        "type": "text",
+        "content": "passing through the edge of the bowl whose apex is the centre of the sphere.",
+        "mathpix_content": " passing through the edge of the bowl whose apex is the centre of the sphere.",
+        "font_size": 26,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 315,
+        "line_number": 41,
+        "type": "text",
+        "content": "See alno Kruseman 'On the Potential of the Electric Field in the neighbourhood of a",
+        "mathpix_content": " See alno Kruseman 'On the Potential of the Electric Field in the neighbourhood of a",
+        "font_size": 26,
+        "confidence": 0.37025348488264226
+      },
+      {
+        "page": 315,
+        "line_number": 42,
+        "type": "text",
+        "content": "Spherical Bowl,' Phil. Mag. xxiv. 38, 1887. Basset, Proc. Lond. Math. Soc. xvi.",
+        "mathpix_content": " Spherical Bowl,' Phil. Mag. xxiv. 38, 1887. Basset, Proc. Lond. Math. Soc. xvi.",
+        "font_size": 26,
+        "confidence": 0.9960982785560191
+      },
+      {
+        "page": 315,
+        "line_number": 43,
+        "type": "text",
+        "content": "p. 286. \\}",
+        "mathpix_content": " p. 286. \\}\n}",
+        "font_size": 26,
+        "confidence": 0.8380414713174105
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

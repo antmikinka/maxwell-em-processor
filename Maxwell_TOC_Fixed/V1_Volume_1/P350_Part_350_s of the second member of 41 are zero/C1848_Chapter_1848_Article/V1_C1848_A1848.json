@@ -1,0 +1,309 @@
+{
+  "article_id": "article_1848",
+  "article_number": 1848,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 176,
+  "page_end": 176,
+  "content": {
+    "raw_text": "\n--- Page 176 ---\n$100 e$.]\nINTENSITY AND DISPLACEMENT.\n141\nHence the problem of determining the displacement and\npotential, at every point of the field, when the charge on each\nconductor is given, has one and only one solution.\nThis theorem in one of its more general forms was first stated\nby Sir W. Thomson *. We shall afterwards show of what gene-\nralization it is capable.\n$100 d$.$] This theorem may be modified by supposing that the$\nvector $\\mathfrak{D}$, instead of satisfying the solenoidal condition at every\npoint of the field, satisfies the condition\n$$\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}=\\rho$$\n(47)\nwhere $\\rho$ is a finite quantity, whose value is given at every point\nin the field, and which may be positive or negative, continuous\nor discontinuous, its volume-integral within a finite region\nbeing, however, finite.\nWe may also suppose that at certain surfaces in the field\n$$l f+m g+n h+l^{\\prime} f^{\\prime}+m^{\\prime} g^{\\prime}+n^{\\prime} h^{\\prime}=\\sigma,$$\n(48)\nwhere $l, m, n$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction cosines of the normals\ndrawn from a point of the surface towards those regions in which\nthe components of the displacement are $f, g, h$ and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ re-\nspectively, and $\\sigma$ is a quantity given at all points of the surface,\nthe surface-integral of which, over a finite surface, is finite.\n$100 e$.] We may also alter the condition at the bounding sur-\nfaces by supposing that at every point of these surfaces\n$$l f+m g+n h=\\sigma,$$\n(49)\nwhere $\\sigma$ is given for every point.\n(In the original statement we supposed only the value of the\nintegral of $\\sigma$ over each of the surfaces to be given. Here we\nsuppose its value given for every element of surface, which\ncomes to the same thing as if, in the original statement, we had\nconsidered every element as a separate surface.)\nNone of these modifications will affect the truth of the theorem\nprovided we remember that $\\Psi$ must satisfy the corresponding\nconditions, namely, the general condition,\n$$\\frac{d^{2} \\Psi}{d x^{2}}+\\frac{d^{2} \\Psi}{d y^{2}}+\\frac{d^{2} \\Psi}{d z^{2}}+4 \\pi \\rho=0$$\n(50)\nand the surface condition\n$$\\frac{d \\Psi}{d \\nu}+\\frac{d \\Psi^{\\prime}}{d \\nu^{\\prime}}+4 \\pi \\sigma=0$$\n(51)\n\n* Cambridge and Dublin Mathematical Journal, February, 1848.\n",
+    "mathpix_markdown": "\n--- Page 176 ---\n\n\nHence the problem of determining the displacement and\n potential, at every point of the field, when the charge on each\n conductor is given, has one and only one solution.\n\n\nThis theorem in one of its more general forms was first stated\n by Sir W. Thomson *. We shall afterwards show of what gene\nralization it is capable.\n\n$100 d$.$] This theorem may be modified by supposing that the$\n vector $\\mathfrak{D}$, instead of satisfying the solenoidal condition at every\n point of the field, satisfies the condition\n\n$$\\begin{equation*}\n\\frac{d f}{d x}+\\frac{d g}{d y}+\\frac{d h}{d z}=\\rho \\tag{47}\n\\end{equation*}$$\n\nwhere $\\rho$ is a finite quantity, whose value is given at every point\n in the field, and which may be positive or negative, continuous\n or discontinuous, its volume-integral within a finite region\n being, however, finite.\n\n\nWe may also suppose that at certain surfaces in the field\n\n$$\\begin{equation*}\nl f+m g+n h+l^{\\prime} f^{\\prime}+m^{\\prime} g^{\\prime}+n^{\\prime} h^{\\prime}=\\sigma, \\tag{48}\n\\end{equation*}$$\n\nwhere $l, m, n$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction cosines of the normals\n drawn from a point of the surface towards those regions in which\n the components of the displacement are $f, g, h$ and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ re\nspectively, and $\\sigma$ is a quantity given at all points of the surface,\n the surface-integral of which, over a finite surface, is finite.\n\n$100 e$.] We may also alter the condition at the bounding sur\nfaces by supposing that at every point of these surfaces\n\n$$\\begin{equation*}\nl f+m g+n h=\\sigma, \\tag{49}\n\\end{equation*}$$\n\nwhere $\\sigma$ is given for every point.\n\n(In the original statement we supposed only the value of the\n integral of $\\sigma$ over each of the surfaces to be given. Here we\n suppose its value given for every element of surface, which\n comes to the same thing as if, in the original statement, we had\n considered every element as a separate surface.)\n\n\nNone of these modifications will affect the truth of the theorem\n provided we remember that $\\Psi$ must satisfy the corresponding\n conditions, namely, the general condition,\n\n$$\\begin{equation*}\n\\frac{d^{2} \\Psi}{d x^{2}}+\\frac{d^{2} \\Psi}{d y^{2}}+\\frac{d^{2} \\Psi}{d z^{2}}+4 \\pi \\rho=0 \\tag{50}\n\\end{equation*}$$\n\nand the surface condition\n\n$$\\begin{equation*}\n\\frac{d \\Psi}{d \\nu}+\\frac{d \\Psi^{\\prime}}{d \\nu^{\\prime}}+4 \\pi \\sigma=0 \\tag{51}\n\\end{equation*}$$\n\n\n\\footnotetext{\n* Cambridge and Dublin Mathematical Journal, February, 1848.\n}\n",
+    "structured_lines": [
+      {
+        "page": 176,
+        "line_number": 4,
+        "type": "text",
+        "content": "Hence the problem of determining the displacement and",
+        "mathpix_content": "\n\nHence the problem of determining the displacement and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 5,
+        "type": "text",
+        "content": "potential, at every point of the field, when the charge on each",
+        "mathpix_content": " potential, at every point of the field, when the charge on each",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 6,
+        "type": "text",
+        "content": "conductor is given, has one and only one solution.",
+        "mathpix_content": " conductor is given, has one and only one solution.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 7,
+        "type": "text",
+        "content": "This theorem in one of its more general forms was first stated",
+        "mathpix_content": "\n\nThis theorem in one of its more general forms was first stated",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 8,
+        "type": "text",
+        "content": "by Sir W. Thomson *. We shall afterwards show of what gene-",
+        "mathpix_content": " by Sir W. Thomson *. We shall afterwards show of what gene",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 9,
+        "type": "text",
+        "content": "ralization it is capable.",
+        "mathpix_content": "ralization it is capable.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 10,
+        "type": "text",
+        "content": "$100 d$.$] This theorem may be modified by supposing that the$",
+        "mathpix_content": "\n$100 d$.$] This theorem may be modified by supposing that the$",
+        "font_size": 27,
+        "confidence": 0.5233586717242815
+      },
+      {
+        "page": 176,
+        "line_number": 11,
+        "type": "text",
+        "content": "vector $\\mathfrak{D}$, instead of satisfying the solenoidal condition at every",
+        "mathpix_content": " vector $\\mathfrak{D}$, instead of satisfying the solenoidal condition at every",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 12,
+        "type": "text",
+        "content": "point of the field, satisfies the condition",
+        "mathpix_content": " point of the field, satisfies the condition",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 16,
+        "type": "text",
+        "content": "where $\\rho$ is a finite quantity, whose value is given at every point",
+        "mathpix_content": "\nwhere $\\rho$ is a finite quantity, whose value is given at every point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 17,
+        "type": "text",
+        "content": "in the field, and which may be positive or negative, continuous",
+        "mathpix_content": " in the field, and which may be positive or negative, continuous",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 18,
+        "type": "text",
+        "content": "or discontinuous, its volume-integral within a finite region",
+        "mathpix_content": " or discontinuous, its volume-integral within a finite region",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 19,
+        "type": "text",
+        "content": "being, however, finite.",
+        "mathpix_content": " being, however, finite.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 20,
+        "type": "text",
+        "content": "We may also suppose that at certain surfaces in the field",
+        "mathpix_content": "\n\nWe may also suppose that at certain surfaces in the field",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 24,
+        "type": "text",
+        "content": "where $l, m, n$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction cosines of the normals",
+        "mathpix_content": "\nwhere $l, m, n$ and $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction cosines of the normals",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 25,
+        "type": "text",
+        "content": "drawn from a point of the surface towards those regions in which",
+        "mathpix_content": " drawn from a point of the surface towards those regions in which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 26,
+        "type": "text",
+        "content": "the components of the displacement are $f, g, h$ and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ re-",
+        "mathpix_content": " the components of the displacement are $f, g, h$ and $f^{\\prime}, g^{\\prime}, h^{\\prime}$ re",
+        "font_size": 27,
+        "confidence": 0.60009765625
+      },
+      {
+        "page": 176,
+        "line_number": 27,
+        "type": "text",
+        "content": "spectively, and $\\sigma$ is a quantity given at all points of the surface,",
+        "mathpix_content": "spectively, and $\\sigma$ is a quantity given at all points of the surface,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 28,
+        "type": "text",
+        "content": "the surface-integral of which, over a finite surface, is finite.",
+        "mathpix_content": " the surface-integral of which, over a finite surface, is finite.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 176,
+        "line_number": 29,
+        "type": "text",
+        "content": "$100 e$.] We may also alter the condition at the bounding sur-",
+        "mathpix_content": "\n$100 e$.] We may also alter the condition at the bounding sur",
+        "font_size": 27,
+        "confidence": 0.998535871389322
+      },
+      {
+        "page": 176,
+        "line_number": 30,
+        "type": "text",
+        "content": "faces by supposing that at every point of these surfaces",
+        "mathpix_content": "faces by supposing that at every point of these surfaces",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 34,
+        "type": "text",
+        "content": "where $\\sigma$ is given for every point.",
+        "mathpix_content": "\nwhere $\\sigma$ is given for every point.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 35,
+        "type": "text",
+        "content": "(In the original statement we supposed only the value of the",
+        "mathpix_content": "\n(In the original statement we supposed only the value of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 36,
+        "type": "text",
+        "content": "integral of $\\sigma$ over each of the surfaces to be given. Here we",
+        "mathpix_content": " integral of $\\sigma$ over each of the surfaces to be given. Here we",
+        "font_size": 27,
+        "confidence": 0.9980475902557373
+      },
+      {
+        "page": 176,
+        "line_number": 37,
+        "type": "text",
+        "content": "suppose its value given for every element of surface, which",
+        "mathpix_content": " suppose its value given for every element of surface, which",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 176,
+        "line_number": 38,
+        "type": "text",
+        "content": "comes to the same thing as if, in the original statement, we had",
+        "mathpix_content": " comes to the same thing as if, in the original statement, we had",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 176,
+        "line_number": 39,
+        "type": "text",
+        "content": "considered every element as a separate surface.)",
+        "mathpix_content": " considered every element as a separate surface.)",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 40,
+        "type": "text",
+        "content": "None of these modifications will affect the truth of the theorem",
+        "mathpix_content": "\n\nNone of these modifications will affect the truth of the theorem",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 41,
+        "type": "text",
+        "content": "provided we remember that $\\Psi$ must satisfy the corresponding",
+        "mathpix_content": " provided we remember that $\\Psi$ must satisfy the corresponding",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 176,
+        "line_number": 42,
+        "type": "text",
+        "content": "conditions, namely, the general condition,",
+        "mathpix_content": " conditions, namely, the general condition,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 46,
+        "type": "text",
+        "content": "and the surface condition",
+        "mathpix_content": "\nand the surface condition",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 176,
+        "line_number": 51,
+        "type": "text",
+        "content": "* Cambridge and Dublin Mathematical Journal, February, 1848.",
+        "mathpix_content": "\n\n\\footnotetext{\n* Cambridge and Dublin Mathematical Journal, February, 1848.\n}",
+        "font_size": 21,
+        "confidence": 0.9747904859273149
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

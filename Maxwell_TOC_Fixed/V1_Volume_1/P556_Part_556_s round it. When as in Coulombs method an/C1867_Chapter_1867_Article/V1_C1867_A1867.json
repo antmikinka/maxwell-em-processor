@@ -1,0 +1,372 @@
+{
+  "article_id": "article_1867",
+  "article_number": 1867,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 365,
+  "page_end": 365,
+  "content": {
+    "raw_text": "\n--- Page 365 ---\n330\nELECTRONTATIC INSTRUMENTS.\n[216.\n\nElectrometers for the Measurement of Potentials.\n216.] In all electrometers the moveable part is a body charged\nwith electricity, and its potential is different from that of certain\nof the fixed parts round it. When, as in Coulomb's method, an\ninsulated body having a certain charge is used, it is the charge\nwhich is the direct object of measurement. We may, however,\nconnect the balls of Coulomb's electrometer, by means of fine\nwires, with different conductors. The charges of the balls will\nthen depend on the values of the potentials of these conductors\nand on the potential of the case of the instrument. The charge\non each ball will be approximately equal to its radius multiplied\nby the excess of its potential over that of the case of the instru-\nment, provided the radii of the balls are small compared with\ntheir distances from each other and from the sides or opening of\nthe case.\nCoulomb's form of apparatus, however, is not well adapted for\nmeasurements of this kind, owing to the smallness of the force\nbetween spheres at the proper distances when the difference of\npotentials is small. A more convenient form is that of the\nAttracted Disk Electrometer. The first electrometers on this\nprinciple were constructed by Sir W. Snow Harris *. They have\nsince been brought to great perfection, both in theory and con-\nstruction, by Sir W. Thomson \u2020 .\nWhen two disks at different potentials are brought face to\nface with a small interval between them there will be a nearly\nuniform electrification on the opposite faces and very little elec-\ntrification on the backs of the disks, provided there are no other\nconductors or electrified bodies in the neighbourhood. The\ncharge on the positive disk will be approximately proportional to\nits area, and to the difference of potentials of the disks, and\ninversely as the distance between them. Hence, by making the\nareas of the disks large and the distance between them small, a\nsmall difference of potential may give rise to a measurable force\nof attraction.\nThe mathematical theory of the distribution of electricity\nover two disks thus arranged is given at Art. 202, but since\n\n* Phil. Tran8. 1884.\n\u2020 See an excellent report on Electrometers by Sir W. Thomson. Report of the\nBritish Association, Dundee, 1867.\n",
+    "mathpix_markdown": "\n--- Page 365 ---\n\n\n\\section*{Electrometers for the Measurement of Potentials.}\n\n216.] In all electrometers the moveable part is a body charged\n with electricity, and its potential is different from that of certain\n of the fixed parts round it. When, as in Coulomb's method, an\n insulated body having a certain charge is used, it is the charge\n which is the direct object of measurement. We may, however,\n connect the balls of Coulomb's electrometer, by means of fine\n wires, with different conductors. The charges of the balls will\n then depend on the values of the potentials of these conductors\n and on the potential of the case of the instrument. The charge\n on each ball will be approximately equal to its radius multiplied\n by the excess of its potential over that of the case of the instru\nment, provided the radii of the balls are small compared with\n their distances from each other and from the sides or opening of\n the case.\n\n\nCoulomb's form of apparatus, however, is not well adapted for\n measurements of this kind, owing to the smallness of the force\n between spheres at the proper distances when the difference of\n potentials is small. A more convenient form is that of the\n Attracted Disk Electrometer. The first electrometers on this\n principle were constructed by Sir W. Snow Harris *. They have\n since been brought to great perfection, both in theory and con\nstruction, by Sir W. Thomson \u2020 .\n\n\nWhen two disks at different potentials are brought face to\n face with a small interval between them there will be a nearly\n uniform electrification on the opposite faces and very little elec\ntrification on the backs of the disks, provided there are no other\n conductors or electrified bodies in the neighbourhood. The\n charge on the positive disk will be approximately proportional to\n its area, and to the difference of potentials of the disks, and\n inversely as the distance between them. Hence, by making the\n areas of the disks large and the distance between them small, a\n small difference of potential may give rise to a measurable force\n of attraction.\n\n\nThe mathematical theory of the distribution of electricity\n over two disks thus arranged is given at Art. 202, but since\n\n\n\\footnotetext{\n* Phil. Tran8. 1884.\n\n\u2020 See an excellent report on Electrometers by Sir W. Thomson. Report of the\n British Association, Dundee, 1867.\n}\n",
+    "structured_lines": [
+      {
+        "page": 365,
+        "line_number": 5,
+        "type": "text",
+        "content": "Electrometers for the Measurement of Potentials.",
+        "mathpix_content": "\n\n\\section*{Electrometers for the Measurement of Potentials.}",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 365,
+        "line_number": 6,
+        "type": "text",
+        "content": "216.] In all electrometers the moveable part is a body charged",
+        "mathpix_content": "\n216.] In all electrometers the moveable part is a body charged",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 7,
+        "type": "text",
+        "content": "with electricity, and its potential is different from that of certain",
+        "mathpix_content": " with electricity, and its potential is different from that of certain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 8,
+        "type": "text",
+        "content": "of the fixed parts round it. When, as in Coulomb's method, an",
+        "mathpix_content": " of the fixed parts round it. When, as in Coulomb's method, an",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 9,
+        "type": "text",
+        "content": "insulated body having a certain charge is used, it is the charge",
+        "mathpix_content": " insulated body having a certain charge is used, it is the charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 10,
+        "type": "text",
+        "content": "which is the direct object of measurement. We may, however,",
+        "mathpix_content": " which is the direct object of measurement. We may, however,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 11,
+        "type": "text",
+        "content": "connect the balls of Coulomb's electrometer, by means of fine",
+        "mathpix_content": " connect the balls of Coulomb's electrometer, by means of fine",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 12,
+        "type": "text",
+        "content": "wires, with different conductors. The charges of the balls will",
+        "mathpix_content": " wires, with different conductors. The charges of the balls will",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 13,
+        "type": "text",
+        "content": "then depend on the values of the potentials of these conductors",
+        "mathpix_content": " then depend on the values of the potentials of these conductors",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 14,
+        "type": "text",
+        "content": "and on the potential of the case of the instrument. The charge",
+        "mathpix_content": " and on the potential of the case of the instrument. The charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 15,
+        "type": "text",
+        "content": "on each ball will be approximately equal to its radius multiplied",
+        "mathpix_content": " on each ball will be approximately equal to its radius multiplied",
+        "font_size": 27,
+        "confidence": 0.99169921875
+      },
+      {
+        "page": 365,
+        "line_number": 16,
+        "type": "text",
+        "content": "by the excess of its potential over that of the case of the instru-",
+        "mathpix_content": " by the excess of its potential over that of the case of the instru",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 17,
+        "type": "text",
+        "content": "ment, provided the radii of the balls are small compared with",
+        "mathpix_content": "ment, provided the radii of the balls are small compared with",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 18,
+        "type": "text",
+        "content": "their distances from each other and from the sides or opening of",
+        "mathpix_content": " their distances from each other and from the sides or opening of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 19,
+        "type": "text",
+        "content": "the case.",
+        "mathpix_content": " the case.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 20,
+        "type": "text",
+        "content": "Coulomb's form of apparatus, however, is not well adapted for",
+        "mathpix_content": "\n\nCoulomb's form of apparatus, however, is not well adapted for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 21,
+        "type": "text",
+        "content": "measurements of this kind, owing to the smallness of the force",
+        "mathpix_content": " measurements of this kind, owing to the smallness of the force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 22,
+        "type": "text",
+        "content": "between spheres at the proper distances when the difference of",
+        "mathpix_content": " between spheres at the proper distances when the difference of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 23,
+        "type": "text",
+        "content": "potentials is small. A more convenient form is that of the",
+        "mathpix_content": " potentials is small. A more convenient form is that of the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 365,
+        "line_number": 24,
+        "type": "text",
+        "content": "Attracted Disk Electrometer. The first electrometers on this",
+        "mathpix_content": " Attracted Disk Electrometer. The first electrometers on this",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 25,
+        "type": "text",
+        "content": "principle were constructed by Sir W. Snow Harris *. They have",
+        "mathpix_content": " principle were constructed by Sir W. Snow Harris *. They have",
+        "font_size": 27,
+        "confidence": 0.62255859375
+      },
+      {
+        "page": 365,
+        "line_number": 26,
+        "type": "text",
+        "content": "since been brought to great perfection, both in theory and con-",
+        "mathpix_content": " since been brought to great perfection, both in theory and con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 27,
+        "type": "text",
+        "content": "struction, by Sir W. Thomson \u2020 .",
+        "mathpix_content": "struction, by Sir W. Thomson \u2020 .",
+        "font_size": 27,
+        "confidence": 0.955078125
+      },
+      {
+        "page": 365,
+        "line_number": 28,
+        "type": "text",
+        "content": "When two disks at different potentials are brought face to",
+        "mathpix_content": "\n\nWhen two disks at different potentials are brought face to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 29,
+        "type": "text",
+        "content": "face with a small interval between them there will be a nearly",
+        "mathpix_content": " face with a small interval between them there will be a nearly",
+        "font_size": 27,
+        "confidence": 0.5275743007659912
+      },
+      {
+        "page": 365,
+        "line_number": 30,
+        "type": "text",
+        "content": "uniform electrification on the opposite faces and very little elec-",
+        "mathpix_content": " uniform electrification on the opposite faces and very little elec",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 31,
+        "type": "text",
+        "content": "trification on the backs of the disks, provided there are no other",
+        "mathpix_content": "trification on the backs of the disks, provided there are no other",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 32,
+        "type": "text",
+        "content": "conductors or electrified bodies in the neighbourhood. The",
+        "mathpix_content": " conductors or electrified bodies in the neighbourhood. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 33,
+        "type": "text",
+        "content": "charge on the positive disk will be approximately proportional to",
+        "mathpix_content": " charge on the positive disk will be approximately proportional to",
+        "font_size": 27,
+        "confidence": 0.99462890625
+      },
+      {
+        "page": 365,
+        "line_number": 34,
+        "type": "text",
+        "content": "its area, and to the difference of potentials of the disks, and",
+        "mathpix_content": " its area, and to the difference of potentials of the disks, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 35,
+        "type": "text",
+        "content": "inversely as the distance between them. Hence, by making the",
+        "mathpix_content": " inversely as the distance between them. Hence, by making the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 36,
+        "type": "text",
+        "content": "areas of the disks large and the distance between them small, a",
+        "mathpix_content": " areas of the disks large and the distance between them small, a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 37,
+        "type": "text",
+        "content": "small difference of potential may give rise to a measurable force",
+        "mathpix_content": " small difference of potential may give rise to a measurable force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 38,
+        "type": "text",
+        "content": "of attraction.",
+        "mathpix_content": " of attraction.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 39,
+        "type": "text",
+        "content": "The mathematical theory of the distribution of electricity",
+        "mathpix_content": "\n\nThe mathematical theory of the distribution of electricity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 40,
+        "type": "text",
+        "content": "over two disks thus arranged is given at Art. 202, but since",
+        "mathpix_content": " over two disks thus arranged is given at Art. 202, but since",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 365,
+        "line_number": 42,
+        "type": "text",
+        "content": "* Phil. Tran8. 1884.",
+        "mathpix_content": "\n\n\\footnotetext{\n* Phil. Tran8. 1884.",
+        "font_size": 21,
+        "confidence": 0.9441904453085499
+      },
+      {
+        "page": 365,
+        "line_number": 43,
+        "type": "text",
+        "content": "\u2020 See an excellent report on Electrometers by Sir W. Thomson. Report of the",
+        "mathpix_content": "\n\u2020 See an excellent report on Electrometers by Sir W. Thomson. Report of the",
+        "font_size": 21,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 365,
+        "line_number": 44,
+        "type": "text",
+        "content": "British Association, Dundee, 1867.",
+        "mathpix_content": " British Association, Dundee, 1867.\n}",
+        "font_size": 21,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

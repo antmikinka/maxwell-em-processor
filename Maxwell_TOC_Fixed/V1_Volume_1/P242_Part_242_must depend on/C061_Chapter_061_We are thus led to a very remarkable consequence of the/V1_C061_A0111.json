@@ -1,0 +1,20 @@
+{
+  "article_id": "article_111",
+  "article_number": 111,
+  "title_original": "It appears, therefore, that at the same time that a quantity",
+  "title_safe": "It appears therefore that at the same time that a quantity",
+  "page_start": 102,
+  "page_end": 101,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

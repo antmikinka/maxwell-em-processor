@@ -1,0 +1,165 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "}, \\Psi_{0}$. Let the charge of $\\varepsilon_{1}$ be $e_{1}$. That of $s_{0}$ will be $-e_{1}$.",
+  "title_safe": "Psi0. Let the charge of varepsilon1 be e1. That of s0 will b",
+  "page_start": 183,
+  "page_end": 183,
+  "content": {
+    "raw_text": "\n--- Page 183 ---\n148\nGENERAL THEOREMS.\n[102 $\\alpha$.\n$$\\begin{aligned}\n& =\\iiint\\left[K_{x x} \\frac{d \\Psi}{d x} \\frac{d \\Phi}{d x}+K_{y y} \\frac{d \\Psi}{d y} \\frac{d \\Phi}{d y}+K_{z x} \\frac{d \\Psi}{d z} \\frac{d \\Phi}{d z}\\right. \\\\\n& \\quad+K_{y z}\\left(\\frac{d \\Psi}{d y} \\frac{d \\Phi}{d z}+\\frac{d \\Psi}{d z} \\frac{d \\Phi}{d y}\\right)+K_{z x}\\left(\\frac{d \\Psi}{d z} \\frac{d \\Phi}{d x}+\\frac{d \\Psi}{d x} \\frac{d \\Phi}{d z}\\right) \\\\\n& \\left.\\quad+K_{x y}\\left(\\frac{d \\Psi}{d x} \\frac{d \\Phi}{d y}+\\frac{d \\Psi}{d y} \\frac{d \\Phi}{d x}\\right)\\right] d x d y d z \\\\\n& =\\iint \\Phi\\left[\\left(K_{x x} l+K_{y x} m+K_{z x} n\\right) \\frac{d \\Psi}{d x}+\\left(K_{x y} l+K_{y y} m+K_{z y} n\\right) \\frac{d \\Psi}{d y}\\right. \\\\\n& \\left.\\quad+\\left(K_{x z} l+K_{y z} m+K_{z z} n\\right) \\frac{d \\Psi}{d z}\\right] d z \\\\\n& -\\iiint \\Phi\\left[\\frac{d}{d x}\\left(K_{x x} \\frac{d \\Psi}{d x}+K_{x y} \\frac{d \\Psi}{d y}+K_{x z} \\frac{d \\Psi}{d z}\\right)\\right. \\\\\n& \\quad+\\frac{d}{d y}\\left(K_{y x} \\frac{d \\Psi}{d x}+K_{y y} \\frac{d \\Psi}{d y}+K_{y z} \\frac{d \\Psi}{d z}\\right) \\\\\n& \\left.\\quad+\\frac{d}{d z}\\left(K_{z x} \\frac{d \\Psi}{d x}+K_{z y} \\frac{d \\Psi}{d y}+K_{z z} \\frac{d \\Psi}{d z}\\right)\\right] d x d y d z .\n\\end{aligned}$$\nUsing quaternion notation, the result may be written more\nbriefly,\n$$\\begin{aligned}\n& \\iint \\Psi S . U_{\\nu} \\phi(\\nabla \\Phi) d s-\\iiint \\Psi S .\\{\\nabla \\phi(\\nabla \\Psi)\\} d \\varsigma \\\\\n= & -\\iiint S . \\nabla \\Psi \\phi(\\nabla \\Phi) d \\varsigma=-\\iiint S . \\nabla \\Phi \\phi(\\nabla \\Psi) d \\varsigma \\\\\n= & \\iint \\Phi S . U_{\\nu \\phi}(\\nabla \\Psi) d s-\\iiint \\Phi S .\\{\\nabla \\phi(\\nabla \\Psi)\\} d \\varsigma .\n\\end{aligned}$$\nLimits between which the electric capacity of a conductor\nmust lie.\n$102 a$.] The capacity of a conductor or system of conductors\nhas been already defined as the charge of that conductor or system\nof conductors when raised to potential unity, all the other con-\nductors in the field being at potential zero.\nThe following method of determining limiting values between\nwhich the capacity must lie, was suggested by a paper 'On the\nTheory of Resonance,' by the Hon. J. W. Strutt, Phil. Trans. 1871.\nSee Art. 306.\nLet $s_{1}$ denote the surface of the conductor, or system of con-\nductors, whose capacity is to be determined, and $s_{0}$ the surface of\nall other conductors. Let the potential of $s_{1}$ be $\\Psi_{1}$, and that of\n$\\varepsilon_{0}, \\Psi_{0}$. Let the charge of $\\varepsilon_{1}$ be $e_{1}$. That of $s_{0}$ will be $-e_{1}$.\n",
+    "mathpix_markdown": "\n--- Page 183 ---\n\n$$\\begin{aligned}\n& =\\iiint\\left[K_{x x} \\frac{d \\Psi}{d x} \\frac{d \\Phi}{d x}+K_{y y} \\frac{d \\Psi}{d y} \\frac{d \\Phi}{d y}+K_{z x} \\frac{d \\Psi}{d z} \\frac{d \\Phi}{d z}\\right. \\\\\n& \\quad+K_{y z}\\left(\\frac{d \\Psi}{d y} \\frac{d \\Phi}{d z}+\\frac{d \\Psi}{d z} \\frac{d \\Phi}{d y}\\right)+K_{z x}\\left(\\frac{d \\Psi}{d z} \\frac{d \\Phi}{d x}+\\frac{d \\Psi}{d x} \\frac{d \\Phi}{d z}\\right) \\\\\n& \\left.\\quad+K_{x y}\\left(\\frac{d \\Psi}{d x} \\frac{d \\Phi}{d y}+\\frac{d \\Psi}{d y} \\frac{d \\Phi}{d x}\\right)\\right] d x d y d z \\\\\n& =\\iint \\Phi\\left[\\left(K_{x x} l+K_{y x} m+K_{z x} n\\right) \\frac{d \\Psi}{d x}+\\left(K_{x y} l+K_{y y} m+K_{z y} n\\right) \\frac{d \\Psi}{d y}\\right. \\\\\n& \\left.\\quad+\\left(K_{x z} l+K_{y z} m+K_{z z} n\\right) \\frac{d \\Psi}{d z}\\right] d z \\\\\n& -\\iiint \\Phi\\left[\\frac{d}{d x}\\left(K_{x x} \\frac{d \\Psi}{d x}+K_{x y} \\frac{d \\Psi}{d y}+K_{x z} \\frac{d \\Psi}{d z}\\right)\\right. \\\\\n& \\quad+\\frac{d}{d y}\\left(K_{y x} \\frac{d \\Psi}{d x}+K_{y y} \\frac{d \\Psi}{d y}+K_{y z} \\frac{d \\Psi}{d z}\\right) \\\\\n& \\left.\\quad+\\frac{d}{d z}\\left(K_{z x} \\frac{d \\Psi}{d x}+K_{z y} \\frac{d \\Psi}{d y}+K_{z z} \\frac{d \\Psi}{d z}\\right)\\right] d x d y d z .\n\\end{aligned}$$\n\n\nUsing quaternion notation, the result may be written more\n briefly,\n\n$$\\begin{aligned}\n& \\iint \\Psi S . U_{\\nu} \\phi(\\nabla \\Phi) d s-\\iiint \\Psi S .\\{\\nabla \\phi(\\nabla \\Psi)\\} d \\varsigma \\\\\n= & -\\iiint S . \\nabla \\Psi \\phi(\\nabla \\Phi) d \\varsigma=-\\iiint S . \\nabla \\Phi \\phi(\\nabla \\Psi) d \\varsigma \\\\\n= & \\iint \\Phi S . U_{\\nu \\phi}(\\nabla \\Psi) d s-\\iiint \\Phi S .\\{\\nabla \\phi(\\nabla \\Psi)\\} d \\varsigma .\n\\end{aligned}$$\n\n\nLimits between which the electric capacity of a conductor\n must lie.\n\n$102 a$.] The capacity of a conductor or system of conductors\n has been already defined as the charge of that conductor or system\n of conductors when raised to potential unity, all the other con\nductors in the field being at potential zero.\n\n\nThe following method of determining limiting values between\n which the capacity must lie, was suggested by a paper 'On the\n Theory of Resonance,' by the Hon. J. W. Strutt, Phil. Trans. 1871.\n See Art. 306.\n\n\nLet $s_{1}$ denote the surface of the conductor, or system of con\nductors, whose capacity is to be determined, and $s_{0}$ the surface of\n all other conductors. Let the potential of $s_{1}$ be $\\Psi_{1}$, and that of\n $\\varepsilon_{0}, \\Psi_{0}$. Let the charge of $\\varepsilon_{1}$ be $e_{1}$. That of $s_{0}$ will be $-e_{1}$.\n",
+    "structured_lines": [
+      {
+        "page": 183,
+        "line_number": 13,
+        "type": "text",
+        "content": "Using quaternion notation, the result may be written more",
+        "mathpix_content": "\n\nUsing quaternion notation, the result may be written more",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 14,
+        "type": "text",
+        "content": "briefly,",
+        "mathpix_content": " briefly,",
+        "font_size": 27,
+        "confidence": 0.9902544021606445
+      },
+      {
+        "page": 183,
+        "line_number": 19,
+        "type": "text",
+        "content": "Limits between which the electric capacity of a conductor",
+        "mathpix_content": "\n\nLimits between which the electric capacity of a conductor",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 20,
+        "type": "text",
+        "content": "must lie.",
+        "mathpix_content": " must lie.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 21,
+        "type": "text",
+        "content": "$102 a$.] The capacity of a conductor or system of conductors",
+        "mathpix_content": "\n$102 a$.] The capacity of a conductor or system of conductors",
+        "font_size": 27,
+        "confidence": 0.9980478286743164
+      },
+      {
+        "page": 183,
+        "line_number": 22,
+        "type": "text",
+        "content": "has been already defined as the charge of that conductor or system",
+        "mathpix_content": " has been already defined as the charge of that conductor or system",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 183,
+        "line_number": 23,
+        "type": "text",
+        "content": "of conductors when raised to potential unity, all the other con-",
+        "mathpix_content": " of conductors when raised to potential unity, all the other con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 24,
+        "type": "text",
+        "content": "ductors in the field being at potential zero.",
+        "mathpix_content": "ductors in the field being at potential zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 25,
+        "type": "text",
+        "content": "The following method of determining limiting values between",
+        "mathpix_content": "\n\nThe following method of determining limiting values between",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 26,
+        "type": "text",
+        "content": "which the capacity must lie, was suggested by a paper 'On the",
+        "mathpix_content": " which the capacity must lie, was suggested by a paper 'On the",
+        "font_size": 27,
+        "confidence": 0.9931697845458984
+      },
+      {
+        "page": 183,
+        "line_number": 27,
+        "type": "text",
+        "content": "Theory of Resonance,' by the Hon. J. W. Strutt, Phil. Trans. 1871.",
+        "mathpix_content": " Theory of Resonance,' by the Hon. J. W. Strutt, Phil. Trans. 1871.",
+        "font_size": 27,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 183,
+        "line_number": 28,
+        "type": "text",
+        "content": "See Art. 306.",
+        "mathpix_content": " See Art. 306.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 29,
+        "type": "text",
+        "content": "Let $s_{1}$ denote the surface of the conductor, or system of con-",
+        "mathpix_content": "\n\nLet $s_{1}$ denote the surface of the conductor, or system of con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 30,
+        "type": "text",
+        "content": "ductors, whose capacity is to be determined, and $s_{0}$ the surface of",
+        "mathpix_content": "ductors, whose capacity is to be determined, and $s_{0}$ the surface of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 31,
+        "type": "text",
+        "content": "all other conductors. Let the potential of $s_{1}$ be $\\Psi_{1}$, and that of",
+        "mathpix_content": " all other conductors. Let the potential of $s_{1}$ be $\\Psi_{1}$, and that of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 183,
+        "line_number": 32,
+        "type": "text",
+        "content": "$\\varepsilon_{0}, \\Psi_{0}$. Let the charge of $\\varepsilon_{1}$ be $e_{1}$. That of $s_{0}$ will be $-e_{1}$.",
+        "mathpix_content": " $\\varepsilon_{0}, \\Psi_{0}$. Let the charge of $\\varepsilon_{1}$ be $e_{1}$. That of $s_{0}$ will be $-e_{1}$.",
+        "font_size": 27,
+        "confidence": 0.9118764661252499
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

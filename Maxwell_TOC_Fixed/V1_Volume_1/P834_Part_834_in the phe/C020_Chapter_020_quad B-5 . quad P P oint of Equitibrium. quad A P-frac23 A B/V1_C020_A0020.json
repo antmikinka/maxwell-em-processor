@@ -1,0 +1,57 @@
+{
+  "article_id": "article_20",
+  "article_number": 20,
+  "title_original": ". \\quad B-5 . \\quad P, P$ oint of Equitibrium. $\\quad A P-\\frac{2}{3} A B$",
+  "title_safe": "quad B-5 . quad P P oint of Equitibrium. quad A P-frac23 A",
+  "page_start": 546,
+  "page_end": 547,
+  "content": {
+    "raw_text": "\n--- Page 546 ---\nClerk Masowell's Electricity.Vol.I.\n\nFIG I.\nArt 118.\n\nLines of Force and Equipotential Surfaces.\n$A-20 . \\quad B-5 . \\quad P, P$ oint of Equitibrium. $\\quad A P-\\frac{2}{3} A B$\nOriversity Press, Oxford\n\n--- Page 547 ---\n\n",
+    "mathpix_markdown": "\n--- Page 546 ---\n\n\n\\begin{figure}\n\\captionsetup{labelformat=empty}\n\\caption{FIG I.\nArt 118.}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-546.jpg?height=964&width=903&top_left_y=538&top_left_x=258}\n\\end{figure}\n\n\nLines of Force and Equipotential Surfaces.\n\n$A-20 . \\quad B-5 . \\quad P, P$ oint of Equitibrium. $\\quad A P-\\frac{2}{3} A B$\n\n--- Page 547 ---\n\n",
+    "structured_lines": [
+      {
+        "page": 546,
+        "line_number": 3,
+        "type": "text",
+        "content": "FIG I.",
+        "mathpix_content": "",
+        "font_size": 21,
+        "confidence": 0.7984352111816406
+      },
+      {
+        "page": 546,
+        "line_number": 4,
+        "type": "text",
+        "content": "Art 118.",
+        "mathpix_content": "",
+        "font_size": 26,
+        "confidence": 0.9383969381451607
+      },
+      {
+        "page": 546,
+        "line_number": 6,
+        "type": "text",
+        "content": "Lines of Force and Equipotential Surfaces.",
+        "mathpix_content": "\n\nLines of Force and Equipotential Surfaces.",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 546,
+        "line_number": 7,
+        "type": "text",
+        "content": "$A-20 . \\quad B-5 . \\quad P, P$ oint of Equitibrium. $\\quad A P-\\frac{2}{3} A B$",
+        "mathpix_content": "\n$A-20 . \\quad B-5 . \\quad P, P$ oint of Equitibrium. $\\quad A P-\\frac{2}{3} A B$",
+        "font_size": 26,
+        "confidence": 0.23565542180245205
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

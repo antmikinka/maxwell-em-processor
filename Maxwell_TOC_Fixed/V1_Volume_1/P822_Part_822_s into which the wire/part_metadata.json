@@ -1,0 +1,3413 @@
+{
+  "part_id": "part_822",
+  "part_number": 822,
+  "title": "s into which the wire",
+  "page_start": 521,
+  "page_end": 524,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 486,
+      "title": "MEASUREMENT OF RESISTANCE.",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 352,
+      "title": "point of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 2,
+      "title": "}$ and $A_{2}$, and let",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 2,
+      "title": "}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 2,
+      "title": "}+P Q_{2}}{R} . \\\\",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 2,
+      "title": "}-A_{1}+Q_{1} Q_{2}}{R} .",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 3,
+      "title": "}+P Q_{3}}{R},$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 4,
+      "title": "}+P Q_{4}}{R} .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 4,
+      "title": "}-A_{3}+Q_{3} Q_{4}}{R} .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 2,
+      "title": "}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 1,
+      "title": "} Q_{2}}{Q_{3} Q_{4}} .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 2,
+      "title": "}$. Let the values of $C$ and $A$ be now",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 2,
+      "title": "}$ and $A_{2}$, and let",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 2,
+      "title": "}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 2,
+      "title": "}+P Q_{2}}{R} . \\\\",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 2,
+      "title": "}-A_{1}+Q_{1} Q_{2}}{R} .",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 3,
+      "title": "}+P Q_{3}}{R},$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 4,
+      "title": "}+P Q_{4}}{R} .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 4,
+      "title": "}-A_{3}+Q_{3} Q_{4}}{R} .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 2,
+      "title": "}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$",
+      "page_start": 521,
+      "page_end": 520,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": "} Q_{2}}{Q_{3} Q_{4}} .$$",
+      "page_start": 521,
+      "page_end": 521,
+      "articles": [
+        {
+          "article_id": "article_352",
+          "article_number": 352,
+          "title_original": "point of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now",
+          "title_safe": "point of the wire say Q2. Let the values of C and A be now",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_486",
+          "article_number": 486,
+          "title_original": "MEASUREMENT OF RESISTANCE.",
+          "title_safe": "MEASUREMENT OF RESISTANCE",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_352",
+          "article_number": 352,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$. Let the values of $C$ and $A$ be now",
+          "title_safe": "Let the values of C and A be now",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ and $A_{2}$, and let",
+          "title_safe": "and A2 and let",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$",
+          "title_safe": "plusC2plusP RequalsA1plusC1plusP RequalsR",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+P Q_{2}}{R} . \\\\",
+          "title_safe": "plusP Q2R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-A_{1}+Q_{1} Q_{2}}{R} .",
+          "title_safe": "A1plusQ1 Q2R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}+P Q_{3}}{R},$$",
+          "title_safe": "plusP Q3R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}+P Q_{4}}{R} .$$",
+          "title_safe": "plusP Q4R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}-A_{3}+Q_{3} Q_{4}}{R} .$$",
+          "title_safe": "A3plusQ3 Q4R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$",
+          "title_safe": "A1plusQ1 Q2A4-A3plusQ3 Q4",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} Q_{2}}{Q_{3} Q_{4}} .$$",
+          "title_safe": "Q2Q3 Q4",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$. Let the values of $C$ and $A$ be now",
+          "title_safe": "Let the values of C and A be now",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ and $A_{2}$, and let",
+          "title_safe": "and A2 and let",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$",
+          "title_safe": "plusC2plusP RequalsA1plusC1plusP RequalsR",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}+P Q_{2}}{R} . \\\\",
+          "title_safe": "plusP Q2R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-A_{1}+Q_{1} Q_{2}}{R} .",
+          "title_safe": "A1plusQ1 Q2R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}+P Q_{3}}{R},$$",
+          "title_safe": "plusP Q3R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}+P Q_{4}}{R} .$$",
+          "title_safe": "plusP Q4R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}-A_{3}+Q_{3} Q_{4}}{R} .$$",
+          "title_safe": "A3plusQ3 Q4R",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$",
+          "title_safe": "A1plusQ1 Q2A4-A3plusQ3 Q4",
+          "page_start": 521,
+          "page_end": 520,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} Q_{2}}{Q_{3} Q_{4}} .$$",
+          "title_safe": "Q2Q3 Q4",
+          "page_start": 521,
+          "page_end": 521,
+          "content": {
+            "raw_text": "\n--- Page 521 ---\n486\nMEASUREMENT OF RESISTANCE.\n[352.\npoint of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now\n$C_{2}$ and $A_{2}$, and let\n$$A_{2}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$\nThen we have, as before\nWhence\n$$\\begin{aligned}\n& \\frac{X S^{\\prime}}{X Y}=\\frac{A_{2}+P Q_{2}}{R} . \\\\\n& \\frac{S S^{\\prime}}{X Y}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{R} .\n\\end{aligned}$$\nIn the same way, placing the apparatus on the second\nconductor at $T T^{\\prime}$ and again transferring resistance, we get,\nwhen the electrode is in $T^{\\prime}$,\n$$\\frac{X T^{\\prime}}{X Y}=\\frac{A_{3}+P Q_{3}}{R},$$\nand when it is in $T$,\n$$\\frac{X T}{X Y}=\\frac{A_{4}+P Q_{4}}{R} .$$\nWhence\n$$\\frac{T^{\\prime} T}{X Y}=\\frac{A_{4}-A_{3}+Q_{3} Q_{4}}{R} .$$\nWe can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,\nfor\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$\nWhen great accuracy is not required we may dispense with\nthe resistance coils $A$ and $C$, and we then find\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{Q_{1} Q_{2}}{Q_{3} Q_{4}} .$$\nThe readings of the position of $Q$ on a wire of a metre in\nlength cannot be depended on to less than a tenth of a milli-\nmetre, and the resistance of the wire may vary considerably in\ndifferent parts owing to inequality of temperature, friction, \\&c.\nHence, when great accuracy is required, coils of considerable\nresistance are introduced at $A$ and $C$, and the ratios of the\nresistances of these coils can be determined more accurately\nthan the ratio of the resistances of the parts into which the wire\nis divided at $Q$.\nIt will be observed that in this method the accuracy of the\ndetermination depends in no degree on the perfection of the\ncontacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.\nThis method may be called the differential method of using\n",
+            "mathpix_markdown": "\n--- Page 521 ---\n\npoint of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now\n $C_{2}$ and $A_{2}$, and let\n\n$$A_{2}+C_{2}+P R=A_{1}+C_{1}+P R=R .$$\n\n\nThen we have, as before\n\n\nWhence\n\n$$\\begin{aligned}\n& \\frac{X S^{\\prime}}{X Y}=\\frac{A_{2}+P Q_{2}}{R} . \\\\\n& \\frac{S S^{\\prime}}{X Y}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{R} .\n\\end{aligned}$$\n\n\nIn the same way, placing the apparatus on the second\n conductor at $T T^{\\prime}$ and again transferring resistance, we get,\n when the electrode is in $T^{\\prime}$,\n\n$$\\frac{X T^{\\prime}}{X Y}=\\frac{A_{3}+P Q_{3}}{R},$$\n\nand when it is in $T$,\n\n$$\\frac{X T}{X Y}=\\frac{A_{4}+P Q_{4}}{R} .$$\n\n\nWhence\n\n$$\\frac{T^{\\prime} T}{X Y}=\\frac{A_{4}-A_{3}+Q_{3} Q_{4}}{R} .$$\n\n\nWe can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,\n for\n\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{A_{2}-A_{1}+Q_{1} Q_{2}}{A_{4}-A_{3}+Q_{3} Q_{4}} .$$\n\n\nWhen great accuracy is not required we may dispense with\n the resistance coils $A$ and $C$, and we then find\n\n$$\\frac{S S^{\\prime}}{T^{\\prime} T}=\\frac{Q_{1} Q_{2}}{Q_{3} Q_{4}} .$$\n\n\nThe readings of the position of $Q$ on a wire of a metre in\n length cannot be depended on to less than a tenth of a milli\nmetre, and the resistance of the wire may vary considerably in\n different parts owing to inequality of temperature, friction, \\&c.\n Hence, when great accuracy is required, coils of considerable\n resistance are introduced at $A$ and $C$, and the ratios of the\n resistances of these coils can be determined more accurately\n than the ratio of the resistances of the parts into which the wire\n is divided at $Q$.\n\n\nIt will be observed that in this method the accuracy of the\n determination depends in no degree on the perfection of the\n contacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.\n\n\nThis method may be called the differential method of using\n",
+            "structured_lines": [
+              {
+                "page": 521,
+                "line_number": 4,
+                "type": "text",
+                "content": "point of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now",
+                "mathpix_content": "\npoint of the wire, say $Q_{2}$. Let the values of $C$ and $A$ be now",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 5,
+                "type": "text",
+                "content": "$C_{2}$ and $A_{2}$, and let",
+                "mathpix_content": " $C_{2}$ and $A_{2}$, and let",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 8,
+                "type": "text",
+                "content": "Then we have, as before",
+                "mathpix_content": "\n\nThen we have, as before",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 9,
+                "type": "text",
+                "content": "Whence",
+                "mathpix_content": "\n\nWhence",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 13,
+                "type": "text",
+                "content": "In the same way, placing the apparatus on the second",
+                "mathpix_content": "\n\nIn the same way, placing the apparatus on the second",
+                "font_size": 34,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 521,
+                "line_number": 14,
+                "type": "text",
+                "content": "conductor at $T T^{\\prime}$ and again transferring resistance, we get,",
+                "mathpix_content": " conductor at $T T^{\\prime}$ and again transferring resistance, we get,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 15,
+                "type": "text",
+                "content": "when the electrode is in $T^{\\prime}$,",
+                "mathpix_content": " when the electrode is in $T^{\\prime}$,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 18,
+                "type": "text",
+                "content": "and when it is in $T$,",
+                "mathpix_content": "\nand when it is in $T$,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 21,
+                "type": "text",
+                "content": "Whence",
+                "mathpix_content": "\n\nWhence",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 24,
+                "type": "text",
+                "content": "We can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,",
+                "mathpix_content": "\n\nWe can now deduce the ratio of the resistances $S S^{\\prime}$ and $T^{\\prime} T$,",
+                "font_size": 34,
+                "confidence": 0.95947265625
+              },
+              {
+                "page": 521,
+                "line_number": 25,
+                "type": "text",
+                "content": "for",
+                "mathpix_content": " for",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 28,
+                "type": "text",
+                "content": "When great accuracy is not required we may dispense with",
+                "mathpix_content": "\n\nWhen great accuracy is not required we may dispense with",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 521,
+                "line_number": 29,
+                "type": "text",
+                "content": "the resistance coils $A$ and $C$, and we then find",
+                "mathpix_content": " the resistance coils $A$ and $C$, and we then find",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 32,
+                "type": "text",
+                "content": "The readings of the position of $Q$ on a wire of a metre in",
+                "mathpix_content": "\n\nThe readings of the position of $Q$ on a wire of a metre in",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 521,
+                "line_number": 33,
+                "type": "text",
+                "content": "length cannot be depended on to less than a tenth of a milli-",
+                "mathpix_content": " length cannot be depended on to less than a tenth of a milli",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 34,
+                "type": "text",
+                "content": "metre, and the resistance of the wire may vary considerably in",
+                "mathpix_content": "metre, and the resistance of the wire may vary considerably in",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 35,
+                "type": "text",
+                "content": "different parts owing to inequality of temperature, friction, \\&c.",
+                "mathpix_content": " different parts owing to inequality of temperature, friction, \\&c.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 36,
+                "type": "text",
+                "content": "Hence, when great accuracy is required, coils of considerable",
+                "mathpix_content": " Hence, when great accuracy is required, coils of considerable",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 37,
+                "type": "text",
+                "content": "resistance are introduced at $A$ and $C$, and the ratios of the",
+                "mathpix_content": " resistance are introduced at $A$ and $C$, and the ratios of the",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 521,
+                "line_number": 38,
+                "type": "text",
+                "content": "resistances of these coils can be determined more accurately",
+                "mathpix_content": " resistances of these coils can be determined more accurately",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 521,
+                "line_number": 39,
+                "type": "text",
+                "content": "than the ratio of the resistances of the parts into which the wire",
+                "mathpix_content": " than the ratio of the resistances of the parts into which the wire",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 40,
+                "type": "text",
+                "content": "is divided at $Q$.",
+                "mathpix_content": " is divided at $Q$.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 41,
+                "type": "text",
+                "content": "It will be observed that in this method the accuracy of the",
+                "mathpix_content": "\n\nIt will be observed that in this method the accuracy of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 42,
+                "type": "text",
+                "content": "determination depends in no degree on the perfection of the",
+                "mathpix_content": " determination depends in no degree on the perfection of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 521,
+                "line_number": 43,
+                "type": "text",
+                "content": "contacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.",
+                "mathpix_content": " contacts at $S, S^{\\prime}$ or $T, T^{\\prime}$.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 521,
+                "line_number": 44,
+                "type": "text",
+                "content": "This method may be called the differential method of using",
+                "mathpix_content": "\n\nThis method may be called the differential method of using",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 354,
+      "title": "]",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 487,
+      "title": "Wheatstone's Bridge, since it depends on the comparison of",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 353,
+      "title": "] When the resistances to be measured are very great,",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 219,
+      "title": "If the conductors whose resistances are to be measured are",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 354,
+      "title": "] When the resistance of a conductor is so great that the",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 50,
+      "title": "\\}",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 353,
+      "title": "] When the resistances to be measured are very great,",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 219,
+      "title": "If the conductors whose resistances are to be measured are",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 354,
+      "title": "] When the resistance of a conductor is so great that the",
+      "page_start": 522,
+      "page_end": 521,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 50,
+      "title": "\\}",
+      "page_start": 522,
+      "page_end": 522,
+      "articles": [
+        {
+          "article_id": "article_219",
+          "article_number": 219,
+          "title_original": "If the conductors whose resistances are to be measured are",
+          "title_safe": "If the conductors whose resistances are to be measured are",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_219",
+          "article_number": 219,
+          "title_original": "If the conductors whose resistances are to be measured are",
+          "title_safe": "If the conductors whose resistances are to be measured are",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_354",
+          "article_number": 354,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_353",
+          "article_number": 353,
+          "title_original": "] When the resistances to be measured are very great,",
+          "title_safe": "When the resistances to be measured are very great",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_219",
+          "article_number": 219,
+          "title_original": "If the conductors whose resistances are to be measured are",
+          "title_safe": "If the conductors whose resistances are to be measured are",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_354",
+          "article_number": 354,
+          "title_original": "] When the resistance of a conductor is so great that the",
+          "title_safe": "When the resistance of a conductor is so great that the",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_50",
+          "article_number": 50,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_353",
+          "article_number": 353,
+          "title_original": "] When the resistances to be measured are very great,",
+          "title_safe": "When the resistances to be measured are very great",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_219",
+          "article_number": 219,
+          "title_original": "If the conductors whose resistances are to be measured are",
+          "title_safe": "If the conductors whose resistances are to be measured are",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_354",
+          "article_number": 354,
+          "title_original": "] When the resistance of a conductor is so great that the",
+          "title_safe": "When the resistance of a conductor is so great that the",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_50",
+          "article_number": 50,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_354",
+          "article_number": 354,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_487",
+          "article_number": 487,
+          "title_original": "Wheatstone's Bridge, since it depends on the comparison of",
+          "title_safe": "Wheatstones Bridge since it depends on the comparison of",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_353",
+          "article_number": 353,
+          "title_original": ".] When the resistances to be measured are very great,",
+          "title_safe": "When the resistances to be measured are very great",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_219",
+          "article_number": 219,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_354",
+          "article_number": 354,
+          "title_original": ".] When the resistance of a conductor is so great that the",
+          "title_safe": "When the resistance of a conductor is so great that the",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_50",
+          "article_number": 50,
+          "title_original": ".\\}",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_353",
+          "article_number": 353,
+          "title_original": ".] When the resistances to be measured are very great,",
+          "title_safe": "When the resistances to be measured are very great",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_219",
+          "article_number": 219,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_354",
+          "article_number": 354,
+          "title_original": ".] When the resistance of a conductor is so great that the",
+          "title_safe": "When the resistance of a conductor is so great that the",
+          "page_start": 522,
+          "page_end": 521,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_50",
+          "article_number": 50,
+          "title_original": ".\\}",
+          "title_safe": "Article",
+          "page_start": 522,
+          "page_end": 522,
+          "content": {
+            "raw_text": "\n--- Page 522 ---\n354.]\nGREAT RESISTANCES.\n487\nWheatstone's Bridge, since it depends on the comparison of\nobservations separately made.\nAn essential condition of accuracy in this method is that the\nresistance of the connexions should continue the same during\nthe course of the four observations required to complete the\ndetermination. Hence the series of observations ought always\nto be repeated in order to detect any change in the resistances *.\n\nOn the Comparison of Great Resistances.\n353.] When the resistances to be measured are very great,\nthe comparison of the potentials at different points of the system\nmay be made by means of a delicate electrometer, such as the\nQuadrant Electrometer described in Art. 219.\nIf the conductors whose resistances are to be measured are\nplaced in series, and the same current passed through them by\nmeans of a battery of great electromotive force, the difference\nof the potentials at the extremities of each conductor will be\nproportional to the resistance of that conductor. Hence, by\nconnecting the electrodes of the electrometer with the extre-\nmities, first of one conductor and then of the other, the ratio of\ntheir resistances may be determined.\nThis is the most direct method of determining resistances. It\ninvolves the use of an electrometer whose readings may be\ndepended on, and we must also have some guarantee that the\ncurrent remains constant during the experiment.\nFour conductors of great resistance may also be arranged\nas in Wheatstone's Bridge, and the Bridge itself may consist of\nthe electrodes of an electrometer instead of those of a galvano-\nmeter. The advantage of this method is that no permanent\ncurrent is required to produce the deviation of the electrometer,\nwhereas the galvanometer cannot be deflected unless a current\npasses through the wire.\n354.] When the resistance of a conductor is so great that the\ncurrent which can be sent through it by any available electro-\nmotive force is too small to be directly measured by a galvano-\nmeter, a condenser may be used in order to accumulate the\nelectricity for a certain time, and then, by discharging the\ncondenser through a galvanometer, the quantity accumulated\n\n* \\{For another inethod of comparing small resistances, see Lord Rayleigh, Pro-\nceedings of the Cambridge Philosophical Society, vol. v. p. 50.\\}\n",
+            "mathpix_markdown": "\n--- Page 522 ---\n\n\nWheatstone's Bridge, since it depends on the comparison of\n observations separately made.\n\n\nAn essential condition of accuracy in this method is that the\n resistance of the connexions should continue the same during\n the course of the four observations required to complete the\n determination. Hence the series of observations ought always\n to be repeated in order to detect any change in the resistances *.\n\n\n\\section*{On the Comparison of Great Resistances.}\n\n353.] When the resistances to be measured are very great,\n the comparison of the potentials at different points of the system\n may be made by means of a delicate electrometer, such as the\n Quadrant Electrometer described in Art. 219.\n\n\nIf the conductors whose resistances are to be measured are\n placed in series, and the same current passed through them by\n means of a battery of great electromotive force, the difference\n of the potentials at the extremities of each conductor will be\n proportional to the resistance of that conductor. Hence, by\n connecting the electrodes of the electrometer with the extre\nmities, first of one conductor and then of the other, the ratio of\n their resistances may be determined.\n\n\nThis is the most direct method of determining resistances. It\n involves the use of an electrometer whose readings may be\n depended on, and we must also have some guarantee that the\n current remains constant during the experiment.\n\n\nFour conductors of great resistance may also be arranged\n as in Wheatstone's Bridge, and the Bridge itself may consist of\n the electrodes of an electrometer instead of those of a galvano\nmeter. The advantage of this method is that no permanent\n current is required to produce the deviation of the electrometer,\n whereas the galvanometer cannot be deflected unless a current\n passes through the wire.\n\n354.] When the resistance of a conductor is so great that the\n current which can be sent through it by any available electro\nmotive force is too small to be directly measured by a galvano\nmeter, a condenser may be used in order to accumulate the\n electricity for a certain time, and then, by discharging the\n condenser through a galvanometer, the quantity accumulated\n\n\n\\footnotetext{\n* \\{For another inethod of comparing small resistances, see Lord Rayleigh, Pro\nceedings of the Cambridge Philosophical Society, vol. v. p. 50.\\}\n}\n",
+            "structured_lines": [
+              {
+                "page": 522,
+                "line_number": 4,
+                "type": "text",
+                "content": "Wheatstone's Bridge, since it depends on the comparison of",
+                "mathpix_content": "\n\nWheatstone's Bridge, since it depends on the comparison of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 5,
+                "type": "text",
+                "content": "observations separately made.",
+                "mathpix_content": " observations separately made.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 6,
+                "type": "text",
+                "content": "An essential condition of accuracy in this method is that the",
+                "mathpix_content": "\n\nAn essential condition of accuracy in this method is that the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 7,
+                "type": "text",
+                "content": "resistance of the connexions should continue the same during",
+                "mathpix_content": " resistance of the connexions should continue the same during",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 8,
+                "type": "text",
+                "content": "the course of the four observations required to complete the",
+                "mathpix_content": " the course of the four observations required to complete the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 9,
+                "type": "text",
+                "content": "determination. Hence the series of observations ought always",
+                "mathpix_content": " determination. Hence the series of observations ought always",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 10,
+                "type": "text",
+                "content": "to be repeated in order to detect any change in the resistances *.",
+                "mathpix_content": " to be repeated in order to detect any change in the resistances *.",
+                "font_size": 34,
+                "confidence": 0.94677734375
+              },
+              {
+                "page": 522,
+                "line_number": 12,
+                "type": "text",
+                "content": "On the Comparison of Great Resistances.",
+                "mathpix_content": "\n\n\\section*{On the Comparison of Great Resistances.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 13,
+                "type": "text",
+                "content": "353.] When the resistances to be measured are very great,",
+                "mathpix_content": "\n353.] When the resistances to be measured are very great,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 14,
+                "type": "text",
+                "content": "the comparison of the potentials at different points of the system",
+                "mathpix_content": " the comparison of the potentials at different points of the system",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 15,
+                "type": "text",
+                "content": "may be made by means of a delicate electrometer, such as the",
+                "mathpix_content": " may be made by means of a delicate electrometer, such as the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 16,
+                "type": "text",
+                "content": "Quadrant Electrometer described in Art. 219.",
+                "mathpix_content": " Quadrant Electrometer described in Art. 219.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 522,
+                "line_number": 17,
+                "type": "text",
+                "content": "If the conductors whose resistances are to be measured are",
+                "mathpix_content": "\n\nIf the conductors whose resistances are to be measured are",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 18,
+                "type": "text",
+                "content": "placed in series, and the same current passed through them by",
+                "mathpix_content": " placed in series, and the same current passed through them by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 19,
+                "type": "text",
+                "content": "means of a battery of great electromotive force, the difference",
+                "mathpix_content": " means of a battery of great electromotive force, the difference",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 20,
+                "type": "text",
+                "content": "of the potentials at the extremities of each conductor will be",
+                "mathpix_content": " of the potentials at the extremities of each conductor will be",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 21,
+                "type": "text",
+                "content": "proportional to the resistance of that conductor. Hence, by",
+                "mathpix_content": " proportional to the resistance of that conductor. Hence, by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 22,
+                "type": "text",
+                "content": "connecting the electrodes of the electrometer with the extre-",
+                "mathpix_content": " connecting the electrodes of the electrometer with the extre",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 23,
+                "type": "text",
+                "content": "mities, first of one conductor and then of the other, the ratio of",
+                "mathpix_content": "mities, first of one conductor and then of the other, the ratio of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 24,
+                "type": "text",
+                "content": "their resistances may be determined.",
+                "mathpix_content": " their resistances may be determined.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 25,
+                "type": "text",
+                "content": "This is the most direct method of determining resistances. It",
+                "mathpix_content": "\n\nThis is the most direct method of determining resistances. It",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 26,
+                "type": "text",
+                "content": "involves the use of an electrometer whose readings may be",
+                "mathpix_content": " involves the use of an electrometer whose readings may be",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 27,
+                "type": "text",
+                "content": "depended on, and we must also have some guarantee that the",
+                "mathpix_content": " depended on, and we must also have some guarantee that the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 28,
+                "type": "text",
+                "content": "current remains constant during the experiment.",
+                "mathpix_content": " current remains constant during the experiment.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 29,
+                "type": "text",
+                "content": "Four conductors of great resistance may also be arranged",
+                "mathpix_content": "\n\nFour conductors of great resistance may also be arranged",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 30,
+                "type": "text",
+                "content": "as in Wheatstone's Bridge, and the Bridge itself may consist of",
+                "mathpix_content": " as in Wheatstone's Bridge, and the Bridge itself may consist of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 31,
+                "type": "text",
+                "content": "the electrodes of an electrometer instead of those of a galvano-",
+                "mathpix_content": " the electrodes of an electrometer instead of those of a galvano",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 32,
+                "type": "text",
+                "content": "meter. The advantage of this method is that no permanent",
+                "mathpix_content": "meter. The advantage of this method is that no permanent",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 33,
+                "type": "text",
+                "content": "current is required to produce the deviation of the electrometer,",
+                "mathpix_content": " current is required to produce the deviation of the electrometer,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 34,
+                "type": "text",
+                "content": "whereas the galvanometer cannot be deflected unless a current",
+                "mathpix_content": " whereas the galvanometer cannot be deflected unless a current",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 35,
+                "type": "text",
+                "content": "passes through the wire.",
+                "mathpix_content": " passes through the wire.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 36,
+                "type": "text",
+                "content": "354.] When the resistance of a conductor is so great that the",
+                "mathpix_content": "\n354.] When the resistance of a conductor is so great that the",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 522,
+                "line_number": 37,
+                "type": "text",
+                "content": "current which can be sent through it by any available electro-",
+                "mathpix_content": " current which can be sent through it by any available electro",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 38,
+                "type": "text",
+                "content": "motive force is too small to be directly measured by a galvano-",
+                "mathpix_content": "motive force is too small to be directly measured by a galvano",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 39,
+                "type": "text",
+                "content": "meter, a condenser may be used in order to accumulate the",
+                "mathpix_content": "meter, a condenser may be used in order to accumulate the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 40,
+                "type": "text",
+                "content": "electricity for a certain time, and then, by discharging the",
+                "mathpix_content": " electricity for a certain time, and then, by discharging the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 41,
+                "type": "text",
+                "content": "condenser through a galvanometer, the quantity accumulated",
+                "mathpix_content": " condenser through a galvanometer, the quantity accumulated",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 522,
+                "line_number": 43,
+                "type": "text",
+                "content": "* \\{For another inethod of comparing small resistances, see Lord Rayleigh, Pro-",
+                "mathpix_content": "\n\n\\footnotetext{\n* \\{For another inethod of comparing small resistances, see Lord Rayleigh, Pro",
+                "font_size": 21,
+                "confidence": 0.9538390673696995
+              },
+              {
+                "page": 522,
+                "line_number": 44,
+                "type": "text",
+                "content": "ceedings of the Cambridge Philosophical Society, vol. v. p. 50.\\}",
+                "mathpix_content": "ceedings of the Cambridge Philosophical Society, vol. v. p. 50.\\}\n}",
+                "font_size": 21,
+                "confidence": 0.47565408144146204
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 488,
+      "title": "MEASUREMENT OF RESISTANCE.",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 355,
+      "title": "may be estimated. This is Messrs. Bright and Clark's method",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 355,
+      "title": "] But the simplest method of measuring the resistance of",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 0,
+      "title": "} e^{-\\frac{t}{R S}}",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 0,
+      "title": "}$ is the charge at first when $t=0$.",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 0,
+      "title": "} e^{-\\frac{t}{R s}}$$",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 0,
+      "title": "}$ is the original reading of the electrometer, and $E$ the",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 0,
+      "title": "}-\\log _{e} E\\right\\}},$$",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 2,
+      "title": "}$",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 2,
+      "title": "}}{\\bar{L}}$, and $R$ is a velocity.",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 0,
+      "title": "}$, and in the second,",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 355,
+      "title": "] But the simplest method of measuring the resistance of",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 0,
+      "title": "} e^{-\\frac{t}{R S}}",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 0,
+      "title": "}$ is the charge at first when $t=0$.",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 0,
+      "title": "} e^{-\\frac{t}{R s}}$$",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 0,
+      "title": "}$ is the original reading of the electrometer, and $E$ the",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 0,
+      "title": "}-\\log _{e} E\\right\\}},$$",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 2,
+      "title": "}",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 2,
+      "title": "}}{\\bar{L}}$, and $R$ is a velocity.",
+      "page_start": 523,
+      "page_end": 522,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 0,
+      "title": "}$, and in the second,",
+      "page_start": 523,
+      "page_end": 523,
+      "articles": [
+        {
+          "article_id": "article_355",
+          "article_number": 355,
+          "title_original": "may be estimated. This is Messrs. Bright and Clark's method",
+          "title_safe": "may be estimated. This is Messrs. Bright and Clarks method",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_355",
+          "article_number": 355,
+          "title_original": "] But the simplest method of measuring the resistance of",
+          "title_safe": "But the simplest method of measuring the resistance of",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_355",
+          "article_number": 355,
+          "title_original": "] But the simplest method of measuring the resistance of",
+          "title_safe": "But the simplest method of measuring the resistance of",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_488",
+          "article_number": 488,
+          "title_original": "MEASUREMENT OF RESISTANCE.",
+          "title_safe": "MEASUREMENT OF RESISTANCE",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_355",
+          "article_number": 355,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_355",
+          "article_number": 355,
+          "title_original": ".] But the simplest method of measuring the resistance of",
+          "title_safe": "But the simplest method of measuring the resistance of",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} e^{-\\frac{t}{R S}}",
+          "title_safe": "e-fractR S",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the charge at first when $t=0$.",
+          "title_safe": "is the charge at first when tequals0",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} e^{-\\frac{t}{R s}}$$",
+          "title_safe": "e-fractR s",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the original reading of the electrometer, and $E$ the",
+          "title_safe": "is the original reading of the electrometer and E the",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}-\\log _{e} E\\right\\}},$$",
+          "title_safe": "log e Eright",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$",
+          "title_safe": "Article",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{\\bar{L}}$, and $R$ is a velocity.",
+          "title_safe": "barL and R is a velocity",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, and in the second,",
+          "title_safe": "and in the second",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_355",
+          "article_number": 355,
+          "title_original": ".] But the simplest method of measuring the resistance of",
+          "title_safe": "But the simplest method of measuring the resistance of",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} e^{-\\frac{t}{R S}}",
+          "title_safe": "e-fractR S",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the charge at first when $t=0$.",
+          "title_safe": "is the charge at first when tequals0",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} e^{-\\frac{t}{R s}}$$",
+          "title_safe": "e-fractR s",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the original reading of the electrometer, and $E$ the",
+          "title_safe": "is the original reading of the electrometer and E the",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}-\\log _{e} E\\right\\}},$$",
+          "title_safe": "log e Eright",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}}{\\bar{L}}$, and $R$ is a velocity.",
+          "title_safe": "barL and R is a velocity",
+          "page_start": 523,
+          "page_end": 522,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, and in the second,",
+          "title_safe": "and in the second",
+          "page_start": 523,
+          "page_end": 523,
+          "content": {
+            "raw_text": "\n--- Page 523 ---\n488\nMEASUREMENT OF RESISTANCE.\n[355.\nmay be estimated. This is Messrs. Bright and Clark's method\nof testing the joints of submarine cables.\n355.] But the simplest method of measuring the resistance of\nsuch a conductor is to charge a condenser of great capacity and\nto connect its two surfaces with the electrodes of an electrometer\nand also with the extremities of the conductor. If $E$ is the\ndifference of potentials as shewn by the electrometer, $S$ the\ncapacity of the condenser, and $Q$ the charge on either surface,\n$R$ the resistance of the conductor and $x$ the current in it, then,\nby the theory of condensers,\nBy Ohm's Law,\n$$\\begin{aligned}\n& Q=S E \\\\\n& E=R x\n\\end{aligned}$$\nand by the definition of a current,\nHence\nand\n$$\\begin{aligned}\nx & =-\\frac{d Q}{d t} \\\\\n-Q & =R S \\frac{d Q}{d t} \\\\\nQ & =Q_{0} e^{-\\frac{t}{R S}}\n\\end{aligned}$$\nwhere $Q_{0}$ is the charge at first when $t=0$.\nSimilarly\n$$E=E_{0} e^{-\\frac{t}{R s}}$$\nwhere $E_{0}$ is the original reading of the electrometer, and $E$ the\nsame after a time $t$. From this we find\n$$R=\\frac{t}{S\\left\\{\\log _{e} E_{0}-\\log _{e} E\\right\\}},$$\nwhich gives $R$ in absolute measure. In this expression a\nknowledge of the value of the unit of the electrometer scale is\nnot required.\nIf $S$, the capacity of the condenser, is given in electrostatic\nmeasure as a certain number of metres, then $R$ is also given in\nelectrostatic measure as the reciprocal of a velocity.\nIf $S$ is given in electromagnetic measure its dimensions are\n$T^{2}$\n$\\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.\nSince the condenser itself is not a perfect insulator it is\nnecessary to make two experiments. In the first we determine\nthe resistance of the condenser itself, $R_{0}$, and in the second,\nthat of the condenser when the conductor is made to connect its\n",
+            "mathpix_markdown": "\n--- Page 523 ---\n\nmay be estimated. This is Messrs. Bright and Clark's method\n of testing the joints of submarine cables.\n\n355.] But the simplest method of measuring the resistance of\n such a conductor is to charge a condenser of great capacity and\n to connect its two surfaces with the electrodes of an electrometer\n and also with the extremities of the conductor. If $E$ is the\n difference of potentials as shewn by the electrometer, $S$ the\n capacity of the condenser, and $Q$ the charge on either surface,\n $R$ the resistance of the conductor and $x$ the current in it, then,\n by the theory of condensers,\n\n\nBy Ohm's Law,\n\n$$\\begin{aligned}\n& Q=S E \\\\\n& E=R x\n\\end{aligned}$$\n\nand by the definition of a current,\n\n\nHence\n\nand\n\n$$\\begin{aligned}\nx & =-\\frac{d Q}{d t} \\\\\n-Q & =R S \\frac{d Q}{d t} \\\\\nQ & =Q_{0} e^{-\\frac{t}{R S}}\n\\end{aligned}$$\n\nwhere $Q_{0}$ is the charge at first when $t=0$.\n\nSimilarly\n\n$$E=E_{0} e^{-\\frac{t}{R s}}$$\n\nwhere $E_{0}$ is the original reading of the electrometer, and $E$ the\n same after a time $t$. From this we find\n\n$$R=\\frac{t}{S\\left\\{\\log _{e} E_{0}-\\log _{e} E\\right\\}},$$\n\nwhich gives $R$ in absolute measure. In this expression a\n knowledge of the value of the unit of the electrometer scale is\n not required.\n\n\nIf $S$, the capacity of the condenser, is given in electrostatic\n measure as a certain number of metres, then $R$ is also given in\n electrostatic measure as the reciprocal of a velocity.\n\n\nIf $S$ is given in electromagnetic measure its dimensions are\n $T^{2}\n \\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.\n\n\nSince the condenser itself is not a perfect insulator it is\n necessary to make two experiments. In the first we determine\n the resistance of the condenser itself, $R_{0}$, and in the second,\n that of the condenser when the conductor is made to connect its\n",
+            "structured_lines": [
+              {
+                "page": 523,
+                "line_number": 4,
+                "type": "text",
+                "content": "may be estimated. This is Messrs. Bright and Clark's method",
+                "mathpix_content": "\nmay be estimated. This is Messrs. Bright and Clark's method",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 5,
+                "type": "text",
+                "content": "of testing the joints of submarine cables.",
+                "mathpix_content": " of testing the joints of submarine cables.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 6,
+                "type": "text",
+                "content": "355.] But the simplest method of measuring the resistance of",
+                "mathpix_content": "\n355.] But the simplest method of measuring the resistance of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 7,
+                "type": "text",
+                "content": "such a conductor is to charge a condenser of great capacity and",
+                "mathpix_content": " such a conductor is to charge a condenser of great capacity and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 8,
+                "type": "text",
+                "content": "to connect its two surfaces with the electrodes of an electrometer",
+                "mathpix_content": " to connect its two surfaces with the electrodes of an electrometer",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 9,
+                "type": "text",
+                "content": "and also with the extremities of the conductor. If $E$ is the",
+                "mathpix_content": " and also with the extremities of the conductor. If $E$ is the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 10,
+                "type": "text",
+                "content": "difference of potentials as shewn by the electrometer, $S$ the",
+                "mathpix_content": " difference of potentials as shewn by the electrometer, $S$ the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 11,
+                "type": "text",
+                "content": "capacity of the condenser, and $Q$ the charge on either surface,",
+                "mathpix_content": " capacity of the condenser, and $Q$ the charge on either surface,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 12,
+                "type": "text",
+                "content": "$R$ the resistance of the conductor and $x$ the current in it, then,",
+                "mathpix_content": " $R$ the resistance of the conductor and $x$ the current in it, then,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 13,
+                "type": "text",
+                "content": "by the theory of condensers,",
+                "mathpix_content": " by the theory of condensers,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 14,
+                "type": "text",
+                "content": "By Ohm's Law,",
+                "mathpix_content": "\n\nBy Ohm's Law,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 18,
+                "type": "text",
+                "content": "and by the definition of a current,",
+                "mathpix_content": "\nand by the definition of a current,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 19,
+                "type": "text",
+                "content": "Hence",
+                "mathpix_content": "\n\nHence",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 20,
+                "type": "text",
+                "content": "and",
+                "mathpix_content": "\nand",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 25,
+                "type": "text",
+                "content": "where $Q_{0}$ is the charge at first when $t=0$.",
+                "mathpix_content": "\nwhere $Q_{0}$ is the charge at first when $t=0$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 26,
+                "type": "text",
+                "content": "Similarly",
+                "mathpix_content": "\nSimilarly",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 29,
+                "type": "text",
+                "content": "where $E_{0}$ is the original reading of the electrometer, and $E$ the",
+                "mathpix_content": "\nwhere $E_{0}$ is the original reading of the electrometer, and $E$ the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 30,
+                "type": "text",
+                "content": "same after a time $t$. From this we find",
+                "mathpix_content": " same after a time $t$. From this we find",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 33,
+                "type": "text",
+                "content": "which gives $R$ in absolute measure. In this expression a",
+                "mathpix_content": "\nwhich gives $R$ in absolute measure. In this expression a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 34,
+                "type": "text",
+                "content": "knowledge of the value of the unit of the electrometer scale is",
+                "mathpix_content": " knowledge of the value of the unit of the electrometer scale is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 35,
+                "type": "text",
+                "content": "not required.",
+                "mathpix_content": " not required.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 36,
+                "type": "text",
+                "content": "If $S$, the capacity of the condenser, is given in electrostatic",
+                "mathpix_content": "\n\nIf $S$, the capacity of the condenser, is given in electrostatic",
+                "font_size": 27,
+                "confidence": 0.9873046875
+              },
+              {
+                "page": 523,
+                "line_number": 37,
+                "type": "text",
+                "content": "measure as a certain number of metres, then $R$ is also given in",
+                "mathpix_content": " measure as a certain number of metres, then $R$ is also given in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 38,
+                "type": "text",
+                "content": "electrostatic measure as the reciprocal of a velocity.",
+                "mathpix_content": " electrostatic measure as the reciprocal of a velocity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 39,
+                "type": "text",
+                "content": "If $S$ is given in electromagnetic measure its dimensions are",
+                "mathpix_content": "\n\nIf $S$ is given in electromagnetic measure its dimensions are",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 40,
+                "type": "text",
+                "content": "$T^{2}$",
+                "mathpix_content": " $T^{2}",
+                "font_size": 27,
+                "confidence": 0.9951221942901611
+              },
+              {
+                "page": 523,
+                "line_number": 41,
+                "type": "text",
+                "content": "$\\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.",
+                "mathpix_content": " \\frac{T^{2}}{\\bar{L}}$, and $R$ is a velocity.",
+                "font_size": 27,
+                "confidence": 0.5480918884277344
+              },
+              {
+                "page": 523,
+                "line_number": 42,
+                "type": "text",
+                "content": "Since the condenser itself is not a perfect insulator it is",
+                "mathpix_content": "\n\nSince the condenser itself is not a perfect insulator it is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 43,
+                "type": "text",
+                "content": "necessary to make two experiments. In the first we determine",
+                "mathpix_content": " necessary to make two experiments. In the first we determine",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 44,
+                "type": "text",
+                "content": "the resistance of the condenser itself, $R_{0}$, and in the second,",
+                "mathpix_content": " the resistance of the condenser itself, $R_{0}$, and in the second,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 523,
+                "line_number": 45,
+                "type": "text",
+                "content": "that of the condenser when the conductor is made to connect its",
+                "mathpix_content": " that of the condenser when the conductor is made to connect its",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 356,
+      "title": "]",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 489,
+      "title": "surfaces. Let this be $R^{\\prime}$. Then the resistance, $R$, of the",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 1,
+      "title": "}{R}=\\frac{1}{R^{\\prime}}-\\frac{1}{R_{0}} .$$",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 356,
+      "title": "] An arrangement similar to Wheatstone's Bridge has",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 37,
+      "title": "use. It was suggested to Sir W. Thomson by Mance's Method.",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 357,
+      "title": "Let the battery be placed, as before, between $B$ and $C$ in the",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 347,
+      "title": ", but let the galvanometer be placed in $C A$",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 1,
+      "title": "}{R}=\\frac{1}{R^{\\prime}}-\\frac{1}{R_{0}} .$$",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 356,
+      "title": "] An arrangement similar to Wheatstone's Bridge has",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 2025,
+      "title": "_11_28_e96c2f916abc8f617e8eg-524.jpg?height=545&width=506&top_left_y=721&top_left_x=382}",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 37,
+      "title": "}",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 357,
+      "title": "Let the battery be placed, as before, between $B$ and $C$ in the",
+      "page_start": 524,
+      "page_end": 523,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 347,
+      "title": ", but let the galvanometer be placed in $C A$",
+      "page_start": 524,
+      "page_end": 524,
+      "articles": [
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ", but let the galvanometer be placed in $C A$",
+          "title_safe": "but let the galvanometer be placed in C A",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ", but let the galvanometer be placed in $C A$",
+          "title_safe": "but let the galvanometer be placed in C A",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_357",
+          "article_number": 357,
+          "title_original": "Let the battery be placed, as before, between $B$ and $C$ in the",
+          "title_safe": "Let the battery be placed as before between B and C in the",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_357",
+          "article_number": 357,
+          "title_original": "Let the battery be placed, as before, between $B$ and $C$ in the",
+          "title_safe": "Let the battery be placed as before between B and C in the",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_356",
+          "article_number": 356,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_356",
+          "article_number": 356,
+          "title_original": "] An arrangement similar to Wheatstone's Bridge has",
+          "title_safe": "An arrangement similar to Wheatstones Bridge has",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_37",
+          "article_number": 37,
+          "title_original": "use. It was suggested to Sir W. Thomson by Mance's Method.",
+          "title_safe": "use. It was suggested to Sir W. Thomson by Mances Method",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_357",
+          "article_number": 357,
+          "title_original": "Let the battery be placed, as before, between $B$ and $C$ in the",
+          "title_safe": "Let the battery be placed as before between B and C in the",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_356",
+          "article_number": 356,
+          "title_original": "] An arrangement similar to Wheatstone's Bridge has",
+          "title_safe": "An arrangement similar to Wheatstones Bridge has",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_524",
+          "article_number": 524,
+          "title_original": "jpg?height=545&width=506&top_left_y=721&top_left_x=382}",
+          "title_safe": "jpgheightequals545andwidthequals506andtopleftyequals721andto",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_37",
+          "article_number": 37,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_357",
+          "article_number": 357,
+          "title_original": "Let the battery be placed, as before, between $B$ and $C$ in the",
+          "title_safe": "Let the battery be placed as before between B and C in the",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_356",
+          "article_number": 356,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_489",
+          "article_number": 489,
+          "title_original": "surfaces. Let this be $R^{\\prime}$. Then the resistance, $R$, of the",
+          "title_safe": "surfaces. Let this be Rprime. Then the resistance R of the",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{R}=\\frac{1}{R^{\\prime}}-\\frac{1}{R_{0}} .$$",
+          "title_safe": "Requalsfrac1Rprime-frac1R0",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_356",
+          "article_number": 356,
+          "title_original": ".] An arrangement similar to Wheatstone's Bridge has",
+          "title_safe": "An arrangement similar to Wheatstones Bridge has",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_37",
+          "article_number": 37,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_357",
+          "article_number": 357,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ", but let the galvanometer be placed in $C A$",
+          "title_safe": "but let the galvanometer be placed in C A",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{R}=\\frac{1}{R^{\\prime}}-\\frac{1}{R_{0}} .$$",
+          "title_safe": "Requalsfrac1Rprime-frac1R0",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_356",
+          "article_number": 356,
+          "title_original": ".] An arrangement similar to Wheatstone's Bridge has",
+          "title_safe": "An arrangement similar to Wheatstones Bridge has",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2025",
+          "article_number": 2025,
+          "title_original": "_11_28_e96c2f916abc8f617e8eg-524.jpg?height=545&width=506&top_left_y=721&top_left_x=382}",
+          "title_safe": "1128e96c2f916abc8f617e8eg-524.jpgheightequals545andwidthequa",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_37",
+          "article_number": 37,
+          "title_original": ".}",
+          "title_safe": "Article",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_357",
+          "article_number": 357,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 524,
+          "page_end": 523,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ", but let the galvanometer be placed in $C A$",
+          "title_safe": "but let the galvanometer be placed in C A",
+          "page_start": 524,
+          "page_end": 524,
+          "content": {
+            "raw_text": "\n--- Page 524 ---\n356.]\nthomson's method.\n489\nsurfaces. Let this be $R^{\\prime}$. Then the resistance, $R$, of the\nconductor is given by the equation\n$$\\frac{1}{R}=\\frac{1}{R^{\\prime}}-\\frac{1}{R_{0}} .$$\nThis method has been employed by MM. Siemens.\nThomson's* Method for the Determination of the Resistance\nof a Galvanometer. .\n356.] An arrangement similar to Wheatstone's Bridge has\nbeen employed with advantage by Sir W. Thomson in de-\ntermining the resistance of the galvanometer when in actual\n\nFig. 37.\nuse. It was suggested to Sir W. Thomson by Mance's Method.\nSee Art. 357.\nLet the battery be placed, as before, between $B$ and $C$ in the\nfigure of Article 347, but let the galvanometer be placed in $C A$\ninstead of in $O A$. If $b \\beta-c \\gamma$ is zero, then the conductor $O A$ is\nconjugate to $B C$, and, as there is no current produced in $O A$ by\nthe battery in $B C$, the strength of the current in any other\nconductor is independent of the resistance in $O A$. Hence, if the\ngalvanometer is placed in $C A$ its deflexion will remain the\nsame whether the resistance of $O A$ is small or great. We\ntherefore observe whether the deflexion of the galvanometer\nremains the same when $O$ and $A$ are joined by a conductor\n\n",
+            "mathpix_markdown": "\n--- Page 524 ---\n\nsurfaces. Let this be $R^{\\prime}$. Then the resistance, $R$, of the\n conductor is given by the equation\n\n$$\\frac{1}{R}=\\frac{1}{R^{\\prime}}-\\frac{1}{R_{0}} .$$\n\n\nThis method has been employed by MM. Siemens.\n\nThomson's* Method for the Determination of the Resistance\n of a Galvanometer. .\n\n356.] An arrangement similar to Wheatstone's Bridge has\n been employed with advantage by Sir W. Thomson in de\ntermining the resistance of the galvanometer when in actual\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-524.jpg?height=545&width=506&top_left_y=721&top_left_x=382}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 37.}\n\\end{figure}\n\nuse. It was suggested to Sir W. Thomson by Mance's Method.\n See Art. 357.\n\n\nLet the battery be placed, as before, between $B$ and $C$ in the\n figure of Article 347, but let the galvanometer be placed in $C A$\n instead of in $O A$. If $b \\beta-c \\gamma$ is zero, then the conductor $O A$ is\n conjugate to $B C$, and, as there is no current produced in $O A$ by\n the battery in $B C$, the strength of the current in any other\n conductor is independent of the resistance in $O A$. Hence, if the\n galvanometer is placed in $C A$ its deflexion will remain the\n same whether the resistance of $O A$ is small or great. We\n therefore observe whether the deflexion of the galvanometer\n remains the same when $O$ and $A$ are joined by a conductor\n",
+            "structured_lines": [
+              {
+                "page": 524,
+                "line_number": 4,
+                "type": "text",
+                "content": "surfaces. Let this be $R^{\\prime}$. Then the resistance, $R$, of the",
+                "mathpix_content": "\nsurfaces. Let this be $R^{\\prime}$. Then the resistance, $R$, of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 5,
+                "type": "text",
+                "content": "conductor is given by the equation",
+                "mathpix_content": " conductor is given by the equation",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 8,
+                "type": "text",
+                "content": "This method has been employed by MM. Siemens.",
+                "mathpix_content": "\n\nThis method has been employed by MM. Siemens.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 9,
+                "type": "text",
+                "content": "Thomson's* Method for the Determination of the Resistance",
+                "mathpix_content": "\nThomson's* Method for the Determination of the Resistance",
+                "font_size": 34,
+                "confidence": 0.9946365323849022
+              },
+              {
+                "page": 524,
+                "line_number": 10,
+                "type": "text",
+                "content": "of a Galvanometer. .",
+                "mathpix_content": " of a Galvanometer. .",
+                "font_size": 34,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 524,
+                "line_number": 11,
+                "type": "text",
+                "content": "356.] An arrangement similar to Wheatstone's Bridge has",
+                "mathpix_content": "\n356.] An arrangement similar to Wheatstone's Bridge has",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 12,
+                "type": "text",
+                "content": "been employed with advantage by Sir W. Thomson in de-",
+                "mathpix_content": " been employed with advantage by Sir W. Thomson in de",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 13,
+                "type": "text",
+                "content": "termining the resistance of the galvanometer when in actual",
+                "mathpix_content": "termining the resistance of the galvanometer when in actual",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 16,
+                "type": "text",
+                "content": "use. It was suggested to Sir W. Thomson by Mance's Method.",
+                "mathpix_content": "\nuse. It was suggested to Sir W. Thomson by Mance's Method.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 17,
+                "type": "text",
+                "content": "See Art. 357.",
+                "mathpix_content": " See Art. 357.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 18,
+                "type": "text",
+                "content": "Let the battery be placed, as before, between $B$ and $C$ in the",
+                "mathpix_content": "\n\nLet the battery be placed, as before, between $B$ and $C$ in the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 19,
+                "type": "text",
+                "content": "figure of Article 347, but let the galvanometer be placed in $C A$",
+                "mathpix_content": " figure of Article 347, but let the galvanometer be placed in $C A$",
+                "font_size": 34,
+                "confidence": 0.98779296875
+              },
+              {
+                "page": 524,
+                "line_number": 20,
+                "type": "text",
+                "content": "instead of in $O A$. If $b \\beta-c \\gamma$ is zero, then the conductor $O A$ is",
+                "mathpix_content": " instead of in $O A$. If $b \\beta-c \\gamma$ is zero, then the conductor $O A$ is",
+                "font_size": 34,
+                "confidence": 0.9902389049530029
+              },
+              {
+                "page": 524,
+                "line_number": 21,
+                "type": "text",
+                "content": "conjugate to $B C$, and, as there is no current produced in $O A$ by",
+                "mathpix_content": " conjugate to $B C$, and, as there is no current produced in $O A$ by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 22,
+                "type": "text",
+                "content": "the battery in $B C$, the strength of the current in any other",
+                "mathpix_content": " the battery in $B C$, the strength of the current in any other",
+                "font_size": 34,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 524,
+                "line_number": 23,
+                "type": "text",
+                "content": "conductor is independent of the resistance in $O A$. Hence, if the",
+                "mathpix_content": " conductor is independent of the resistance in $O A$. Hence, if the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 24,
+                "type": "text",
+                "content": "galvanometer is placed in $C A$ its deflexion will remain the",
+                "mathpix_content": " galvanometer is placed in $C A$ its deflexion will remain the",
+                "font_size": 34,
+                "confidence": 0.98583984375
+              },
+              {
+                "page": 524,
+                "line_number": 25,
+                "type": "text",
+                "content": "same whether the resistance of $O A$ is small or great. We",
+                "mathpix_content": " same whether the resistance of $O A$ is small or great. We",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 26,
+                "type": "text",
+                "content": "therefore observe whether the deflexion of the galvanometer",
+                "mathpix_content": " therefore observe whether the deflexion of the galvanometer",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 524,
+                "line_number": 27,
+                "type": "text",
+                "content": "remains the same when $O$ and $A$ are joined by a conductor",
+                "mathpix_content": " remains the same when $O$ and $A$ are joined by a conductor",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

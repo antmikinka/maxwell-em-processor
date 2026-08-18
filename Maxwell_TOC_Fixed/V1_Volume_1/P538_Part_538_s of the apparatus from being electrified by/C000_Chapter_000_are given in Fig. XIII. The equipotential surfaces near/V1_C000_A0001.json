@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "2 e^{\\frac{2 \\pi y}{a}} \\cos \\frac{2 \\pi x}{a}+e^{\\frac{4 \\pi y}{a}}\\right)-2 \\lambda^{\\prime} \\log e^{\\frac{2 \\pi y}{a}}+C \\tag{5}",
+  "title_safe": "2 efrac2 pi ya cos frac2 pi xaplusefrac4 pi yaright-2 lambda",
+  "page_start": 346,
+  "page_end": 345,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

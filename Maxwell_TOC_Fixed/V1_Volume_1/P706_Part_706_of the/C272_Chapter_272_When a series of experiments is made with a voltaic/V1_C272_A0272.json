@@ -1,0 +1,372 @@
+{
+  "article_id": "article_272",
+  "article_number": 272,
+  "title_original": ".] When a series of experiments is made with a voltaic",
+  "title_safe": "When a series of experiments is made with a voltaic",
+  "page_start": 429,
+  "page_end": 429,
+  "content": {
+    "raw_text": "\n--- Page 429 ---\n394\nELECTROLYTIC POLARIZATION.\n[272.\nThis current is manifestly electrolytic, for if the electrodes are\ndisconnected from the battery, and connected with a galvano-\nmeter, a considerable reverse current passes, due to polarization\nof the surfaces of the glass.\nIf, while the battery is in action the apparatus is cooled, the\ncurrent is stopped by the cold glass as before, but the polari-\nzation of the surface remains. The mercury may be removed,\nthe surfaces may be washed with nitric acid and with water, and\nfresh mercury introduced. If the apparatus is then heated, the\ncurrent of polarization appears as soon as the glass is sufficiently\nwarm to conduct it.\nWe may therefore regard glass at $100^{\\circ} \\mathrm{C}$, though apparently a\nsolid body, as an electrolyte, and there is considerable reason\nto believe that in most instances in which a dielectric has a\nslight degree of conductivity the conduction is electrolytic. The\nexistence of polarization may be regarded as conclusive evidence\nof electrolysis, and if the conductivity of a substance increases as\nthe temperature rises, we have good grounds for suspecting that\nthe conduction is electrolytic.\n\nOn Constant Voltaic Elements.\n272.] When a series of experiments is made with a voltaic\nbattery in which polarization occurs, the polarization diminishes\nduring the time the current is not flowing, so that when it\nbegins to flow again the current is stronger than after it has\nflowed for some time. If, on the other hand, the resistance of\nthe circuit is diminished by allowing the current to flow through\na short shunt, then, when the current is again made to flow\nthrough the ordinary circuit, it is at first weaker than its normal\nstrength on account of the great polarization produced by the\nuse of the short circuit.\nTo get rid of these irregularities in the current, which are\nexceedingly troublesome in experiments involving exact mea-\nsurements, it is necessary to get rid of the polarization, or at\nleast to reduce it as much as possible.\nIt does not appear that there is much polarization at the\nsurface of the zinc plate when immersed in a solution of sulphate\nof zinc or in dilute sulphuric acid. The principal seat of polari-\nzation is at the surface of the negative metal. When the fluid\nin which the negative metal is immersed is dilute sulphuric acid,\n",
+    "mathpix_markdown": "\n--- Page 429 ---\n\n\nThis current is manifestly electrolytic, for if the electrodes are\n disconnected from the battery, and connected with a galvano\nmeter, a considerable reverse current passes, due to polarization\n of the surfaces of the glass.\n\n\nIf, while the battery is in action the apparatus is cooled, the\n current is stopped by the cold glass as before, but the polari\nzation of the surface remains. The mercury may be removed,\n the surfaces may be washed with nitric acid and with water, and\n fresh mercury introduced. If the apparatus is then heated, the\n current of polarization appears as soon as the glass is sufficiently\n warm to conduct it.\n\n\nWe may therefore regard glass at $100^{\\circ} \\mathrm{C}$, though apparently a\n solid body, as an electrolyte, and there is considerable reason\n to believe that in most instances in which a dielectric has a\n slight degree of conductivity the conduction is electrolytic. The\n existence of polarization may be regarded as conclusive evidence\n of electrolysis, and if the conductivity of a substance increases as\n the temperature rises, we have good grounds for suspecting that\n the conduction is electrolytic.\n\n\n\\section*{On Constant Voltaic Elements.}\n\n272.] When a series of experiments is made with a voltaic\n battery in which polarization occurs, the polarization diminishes\n during the time the current is not flowing, so that when it\n begins to flow again the current is stronger than after it has\n flowed for some time. If, on the other hand, the resistance of\n the circuit is diminished by allowing the current to flow through\n a short shunt, then, when the current is again made to flow\n through the ordinary circuit, it is at first weaker than its normal\n strength on account of the great polarization produced by the\n use of the short circuit.\n\n\nTo get rid of these irregularities in the current, which are\n exceedingly troublesome in experiments involving exact mea\nsurements, it is necessary to get rid of the polarization, or at\n least to reduce it as much as possible.\n\n\nIt does not appear that there is much polarization at the\n surface of the zinc plate when immersed in a solution of sulphate\n of zinc or in dilute sulphuric acid. The principal seat of polari\nzation is at the surface of the negative metal. When the fluid\n in which the negative metal is immersed is dilute sulphuric acid,\n",
+    "structured_lines": [
+      {
+        "page": 429,
+        "line_number": 4,
+        "type": "text",
+        "content": "This current is manifestly electrolytic, for if the electrodes are",
+        "mathpix_content": "\n\nThis current is manifestly electrolytic, for if the electrodes are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 5,
+        "type": "text",
+        "content": "disconnected from the battery, and connected with a galvano-",
+        "mathpix_content": " disconnected from the battery, and connected with a galvano",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 6,
+        "type": "text",
+        "content": "meter, a considerable reverse current passes, due to polarization",
+        "mathpix_content": "meter, a considerable reverse current passes, due to polarization",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 7,
+        "type": "text",
+        "content": "of the surfaces of the glass.",
+        "mathpix_content": " of the surfaces of the glass.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 8,
+        "type": "text",
+        "content": "If, while the battery is in action the apparatus is cooled, the",
+        "mathpix_content": "\n\nIf, while the battery is in action the apparatus is cooled, the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 429,
+        "line_number": 9,
+        "type": "text",
+        "content": "current is stopped by the cold glass as before, but the polari-",
+        "mathpix_content": " current is stopped by the cold glass as before, but the polari",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 10,
+        "type": "text",
+        "content": "zation of the surface remains. The mercury may be removed,",
+        "mathpix_content": "zation of the surface remains. The mercury may be removed,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 11,
+        "type": "text",
+        "content": "the surfaces may be washed with nitric acid and with water, and",
+        "mathpix_content": " the surfaces may be washed with nitric acid and with water, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 12,
+        "type": "text",
+        "content": "fresh mercury introduced. If the apparatus is then heated, the",
+        "mathpix_content": " fresh mercury introduced. If the apparatus is then heated, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 13,
+        "type": "text",
+        "content": "current of polarization appears as soon as the glass is sufficiently",
+        "mathpix_content": " current of polarization appears as soon as the glass is sufficiently",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 14,
+        "type": "text",
+        "content": "warm to conduct it.",
+        "mathpix_content": " warm to conduct it.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 15,
+        "type": "text",
+        "content": "We may therefore regard glass at $100^{\\circ} \\mathrm{C}$, though apparently a",
+        "mathpix_content": "\n\nWe may therefore regard glass at $100^{\\circ} \\mathrm{C}$, though apparently a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 16,
+        "type": "text",
+        "content": "solid body, as an electrolyte, and there is considerable reason",
+        "mathpix_content": " solid body, as an electrolyte, and there is considerable reason",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 17,
+        "type": "text",
+        "content": "to believe that in most instances in which a dielectric has a",
+        "mathpix_content": " to believe that in most instances in which a dielectric has a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 18,
+        "type": "text",
+        "content": "slight degree of conductivity the conduction is electrolytic. The",
+        "mathpix_content": " slight degree of conductivity the conduction is electrolytic. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 19,
+        "type": "text",
+        "content": "existence of polarization may be regarded as conclusive evidence",
+        "mathpix_content": " existence of polarization may be regarded as conclusive evidence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 20,
+        "type": "text",
+        "content": "of electrolysis, and if the conductivity of a substance increases as",
+        "mathpix_content": " of electrolysis, and if the conductivity of a substance increases as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 21,
+        "type": "text",
+        "content": "the temperature rises, we have good grounds for suspecting that",
+        "mathpix_content": " the temperature rises, we have good grounds for suspecting that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 22,
+        "type": "text",
+        "content": "the conduction is electrolytic.",
+        "mathpix_content": " the conduction is electrolytic.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 24,
+        "type": "text",
+        "content": "On Constant Voltaic Elements.",
+        "mathpix_content": "\n\n\\section*{On Constant Voltaic Elements.}",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 429,
+        "line_number": 25,
+        "type": "text",
+        "content": "272.] When a series of experiments is made with a voltaic",
+        "mathpix_content": "\n272.] When a series of experiments is made with a voltaic",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 26,
+        "type": "text",
+        "content": "battery in which polarization occurs, the polarization diminishes",
+        "mathpix_content": " battery in which polarization occurs, the polarization diminishes",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 429,
+        "line_number": 27,
+        "type": "text",
+        "content": "during the time the current is not flowing, so that when it",
+        "mathpix_content": " during the time the current is not flowing, so that when it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 28,
+        "type": "text",
+        "content": "begins to flow again the current is stronger than after it has",
+        "mathpix_content": " begins to flow again the current is stronger than after it has",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 29,
+        "type": "text",
+        "content": "flowed for some time. If, on the other hand, the resistance of",
+        "mathpix_content": " flowed for some time. If, on the other hand, the resistance of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 30,
+        "type": "text",
+        "content": "the circuit is diminished by allowing the current to flow through",
+        "mathpix_content": " the circuit is diminished by allowing the current to flow through",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 31,
+        "type": "text",
+        "content": "a short shunt, then, when the current is again made to flow",
+        "mathpix_content": " a short shunt, then, when the current is again made to flow",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 32,
+        "type": "text",
+        "content": "through the ordinary circuit, it is at first weaker than its normal",
+        "mathpix_content": " through the ordinary circuit, it is at first weaker than its normal",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 33,
+        "type": "text",
+        "content": "strength on account of the great polarization produced by the",
+        "mathpix_content": " strength on account of the great polarization produced by the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 429,
+        "line_number": 34,
+        "type": "text",
+        "content": "use of the short circuit.",
+        "mathpix_content": " use of the short circuit.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 35,
+        "type": "text",
+        "content": "To get rid of these irregularities in the current, which are",
+        "mathpix_content": "\n\nTo get rid of these irregularities in the current, which are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 36,
+        "type": "text",
+        "content": "exceedingly troublesome in experiments involving exact mea-",
+        "mathpix_content": " exceedingly troublesome in experiments involving exact mea",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 37,
+        "type": "text",
+        "content": "surements, it is necessary to get rid of the polarization, or at",
+        "mathpix_content": "surements, it is necessary to get rid of the polarization, or at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 38,
+        "type": "text",
+        "content": "least to reduce it as much as possible.",
+        "mathpix_content": " least to reduce it as much as possible.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 39,
+        "type": "text",
+        "content": "It does not appear that there is much polarization at the",
+        "mathpix_content": "\n\nIt does not appear that there is much polarization at the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 40,
+        "type": "text",
+        "content": "surface of the zinc plate when immersed in a solution of sulphate",
+        "mathpix_content": " surface of the zinc plate when immersed in a solution of sulphate",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 41,
+        "type": "text",
+        "content": "of zinc or in dilute sulphuric acid. The principal seat of polari-",
+        "mathpix_content": " of zinc or in dilute sulphuric acid. The principal seat of polari",
+        "font_size": 27,
+        "confidence": 0.94677734375
+      },
+      {
+        "page": 429,
+        "line_number": 42,
+        "type": "text",
+        "content": "zation is at the surface of the negative metal. When the fluid",
+        "mathpix_content": "zation is at the surface of the negative metal. When the fluid",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 429,
+        "line_number": 43,
+        "type": "text",
+        "content": "in which the negative metal is immersed is dilute sulphuric acid,",
+        "mathpix_content": " in which the negative metal is immersed is dilute sulphuric acid,",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

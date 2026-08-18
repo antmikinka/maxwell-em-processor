@@ -1,0 +1,790 @@
+{
+  "chapter_id": "chapter_109",
+  "chapter_number": 2,
+  "title": "}-(L+2 M+N)(l+2 m+n)}",
+  "page_start": 151,
+  "page_end": 151,
+  "articles": [
+    {
+      "article_id": "article_116",
+      "article_number": 116,
+      "title_original": "SYSTEM OF CONDUCTORS.",
+      "title_safe": "SYSTEM OF CONDUCTORS",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_9",
+      "article_number": 9,
+      "title_original": "\\circ b$.",
+      "title_safe": "circ b",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}, \\quad \\text { and } \\quad d=l n-m^{2} ;$$",
+      "title_safe": "quad text and quad dequalsl n-m2",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} N, & p_{a a}=d^{-1} n \\\\",
+      "title_safe": "N and pa aequalsd-1 n",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} M, & p_{a b}=-d^{-1} m \\\\",
+      "title_safe": "M and pa bequals-d-1 m",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} L, & p_{b b}=d^{-1} l",
+      "title_safe": "L and pb bequalsd-1 l",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, so that",
+      "title_safe": "so that",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$$",
+      "title_safe": "Article",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} N e_{A}-D^{-1} M e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\",
+      "title_safe": "N eA-D-1 M eBplusR-1 eaplusR-1 eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} M e_{A}+D^{-1} L e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\",
+      "title_safe": "M eAplusD-1 L eBplusR-1 eaplusR-1 eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} e_{A}+R^{-1} e_{B}+d^{-1} n e_{a}-d^{-1} m e_{b} \\\\",
+      "title_safe": "eAplusR-1 eBplusd-1 n ea-d-1 m eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} e_{A}+R^{-1} e_{B}-d^{-1} m e_{a}+d^{-1} l e_{b}",
+      "title_safe": "eAplusR-1 eB-d-1 m eaplusd-1 l eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}(l+2 m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\",
+      "title_safe": "lplus2 mplusnR2-Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\",
+      "title_safe": "mplusnR2-Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-(L+2 M+N)(l+2 m+n)} \\\\",
+      "title_safe": "Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-(L+2 M+N)(l+2 m+n)}",
+      "title_safe": "Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}, \\quad \\text { and } \\quad d=l n-m^{2} ;$$",
+      "title_safe": "quad text and quad dequalsl n-m2",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} N, & p_{a a}=d^{-1} n \\\\",
+      "title_safe": "N and pa aequalsd-1 n",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} M, & p_{a b}=-d^{-1} m \\\\",
+      "title_safe": "M and pa bequals-d-1 m",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} L, & p_{b b}=d^{-1} l",
+      "title_safe": "L and pb bequalsd-1 l",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, so that",
+      "title_safe": "so that",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$$",
+      "title_safe": "Article",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} N e_{A}-D^{-1} M e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\",
+      "title_safe": "N eA-D-1 M eBplusR-1 eaplusR-1 eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} M e_{A}+D^{-1} L e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\",
+      "title_safe": "M eAplusD-1 L eBplusR-1 eaplusR-1 eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} e_{A}+R^{-1} e_{B}+d^{-1} n e_{a}-d^{-1} m e_{b} \\\\",
+      "title_safe": "eAplusR-1 eBplusd-1 n ea-d-1 m eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} e_{A}+R^{-1} e_{B}-d^{-1} m e_{a}+d^{-1} l e_{b}",
+      "title_safe": "eAplusR-1 eB-d-1 m eaplusd-1 l eb",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}(l+2 m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\",
+      "title_safe": "lplus2 mplusnR2-Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\",
+      "title_safe": "mplusnR2-Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-(L+2 M+N)(l+2 m+n)} \\\\",
+      "title_safe": "Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 150,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-(L+2 M+N)(l+2 m+n)}",
+      "title_safe": "Lplus2 MplusNlplus2 mplusn",
+      "page_start": 151,
+      "page_end": 151,
+      "content": {
+        "raw_text": "\n--- Page 151 ---\n116\nSYSTEM OF CONDUCTORS.\n$[9 \\circ b$.\nLet $L$ be the capacity of $A, N$ that of $B$, and $M$ the coefficient\nof mutual induction. (We must remember that $M$ is essentially\nnegative, so that the numerical values of $L+M$ and $M+N$ are\nless than $L$ and $N$.)\nLet us suppose that $a$ and $b$ are the electrodes of another con-\ndenser at a distance $R$ from the first, $R$ being very great com-\npared with the dimensions of either condenser, and let the\ncoefficients of capacity and induction of the condenser $a b$ when\nalone be $l, n, m$. Let us calculate the effect of one of the\ncondensers on the coefficients of the other.\nLet\n$$D=L N-M^{2}, \\quad \\text { and } \\quad d=l n-m^{2} ;$$\nthen the coefficients of potential for each condenser by itself are\n$$\\begin{array}{ll}\np_{A A}=D^{-1} N, & p_{a a}=d^{-1} n \\\\\np_{A B}=-D^{-1} M, & p_{a b}=-d^{-1} m \\\\\np_{B B}=D^{-1} L, & p_{b b}=d^{-1} l\n\\end{array}$$\nThe values of these coefficients will not be sensibly altered\nwhen the two condensers are at a distance $R$.\nThe coefficient of potential of any two conductors at distance\n$R$ is $R^{-1}$, so that\n$$p_{A a}=p_{A b}=p_{B a}=p_{B b}=R^{-1}$$\nThe equations of potential are therefore\n$$\\begin{aligned}\n& V_{A}=D^{-1} N e_{A}-D^{-1} M e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\\n& V_{B}=-D^{-1} M e_{A}+D^{-1} L e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\\n& V_{a}=R^{-1} e_{A}+R^{-1} e_{B}+d^{-1} n e_{a}-d^{-1} m e_{b} \\\\\n& V_{b}=R^{-1} e_{A}+R^{-1} e_{B}-d^{-1} m e_{a}+d^{-1} l e_{b}\n\\end{aligned}$$\nSolving these equations for the charges, we find\n$$\\begin{aligned}\n& q_{A A}=L^{\\prime}=L+\\frac{(L+M)^{2}(l+2 m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\\n& q_{A B}=M^{\\prime}=M+\\frac{(L+M)(M+N)(l+2 m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\\n& q_{A a}=-\\frac{R(L+M)(l+m)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\\n& q_{A b}=-\\frac{R(L+M)(m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)}\n\\end{aligned}$$\nwhere $L^{\\prime}, M^{\\prime}, N^{\\prime}$ are what $L, M, N$ become when the second con-\ndenser is brought into the field.\n",
+        "mathpix_markdown": "\n--- Page 151 ---\n\n\nLet $L$ be the capacity of $A, N$ that of $B$, and $M$ the coefficient\n of mutual induction. (We must remember that $M$ is essentially\n negative, so that the numerical values of $L+M$ and $M+N$ are\n less than $L$ and $N$.)\n\n\nLet us suppose that $a$ and $b$ are the electrodes of another con\ndenser at a distance $R$ from the first, $R$ being very great com\npared with the dimensions of either condenser, and let the\n coefficients of capacity and induction of the condenser $a b$ when\n alone be $l, n, m$. Let us calculate the effect of one of the\n condensers on the coefficients of the other.\n\n\nLet\n\n$$D=L N-M^{2}, \\quad \\text { and } \\quad d=l n-m^{2} ;$$\n\nthen the coefficients of potential for each condenser by itself are\n\n$$\\begin{array}{ll}\np_{A A}=D^{-1} N, & p_{a a}=d^{-1} n \\\\\np_{A B}=-D^{-1} M, & p_{a b}=-d^{-1} m \\\\\np_{B B}=D^{-1} L, & p_{b b}=d^{-1} l\n\\end{array}$$\n\n\nThe values of these coefficients will not be sensibly altered\n when the two condensers are at a distance $R$.\n\n\nThe coefficient of potential of any two conductors at distance\n $R$ is $R^{-1}$, so that\n\n$$p_{A a}=p_{A b}=p_{B a}=p_{B b}=R^{-1}$$\n\n\nThe equations of potential are therefore\n\n$$\\begin{aligned}\n& V_{A}=D^{-1} N e_{A}-D^{-1} M e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\\n& V_{B}=-D^{-1} M e_{A}+D^{-1} L e_{B}+R^{-1} e_{a}+R^{-1} e_{b} \\\\\n& V_{a}=R^{-1} e_{A}+R^{-1} e_{B}+d^{-1} n e_{a}-d^{-1} m e_{b} \\\\\n& V_{b}=R^{-1} e_{A}+R^{-1} e_{B}-d^{-1} m e_{a}+d^{-1} l e_{b}\n\\end{aligned}$$\n\n\nSolving these equations for the charges, we find\n\n$$\\begin{aligned}\n& q_{A A}=L^{\\prime}=L+\\frac{(L+M)^{2}(l+2 m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\\n& q_{A B}=M^{\\prime}=M+\\frac{(L+M)(M+N)(l+2 m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\\n& q_{A a}=-\\frac{R(L+M)(l+m)}{R^{2}-(L+2 M+N)(l+2 m+n)} \\\\\n& q_{A b}=-\\frac{R(L+M)(m+n)}{R^{2}-(L+2 M+N)(l+2 m+n)}\n\\end{aligned}$$\n\nwhere $L^{\\prime}, M^{\\prime}, N^{\\prime}$ are what $L, M, N$ become when the second con\ndenser is brought into the field.\n",
+        "structured_lines": [
+          {
+            "page": 151,
+            "line_number": 4,
+            "type": "text",
+            "content": "Let $L$ be the capacity of $A, N$ that of $B$, and $M$ the coefficient",
+            "mathpix_content": "\n\nLet $L$ be the capacity of $A, N$ that of $B$, and $M$ the coefficient",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 151,
+            "line_number": 5,
+            "type": "text",
+            "content": "of mutual induction. (We must remember that $M$ is essentially",
+            "mathpix_content": " of mutual induction. (We must remember that $M$ is essentially",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 6,
+            "type": "text",
+            "content": "negative, so that the numerical values of $L+M$ and $M+N$ are",
+            "mathpix_content": " negative, so that the numerical values of $L+M$ and $M+N$ are",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 7,
+            "type": "text",
+            "content": "less than $L$ and $N$.)",
+            "mathpix_content": " less than $L$ and $N$.)",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 8,
+            "type": "text",
+            "content": "Let us suppose that $a$ and $b$ are the electrodes of another con-",
+            "mathpix_content": "\n\nLet us suppose that $a$ and $b$ are the electrodes of another con",
+            "font_size": 27,
+            "confidence": 0.98876953125
+          },
+          {
+            "page": 151,
+            "line_number": 9,
+            "type": "text",
+            "content": "denser at a distance $R$ from the first, $R$ being very great com-",
+            "mathpix_content": "denser at a distance $R$ from the first, $R$ being very great com",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 10,
+            "type": "text",
+            "content": "pared with the dimensions of either condenser, and let the",
+            "mathpix_content": "pared with the dimensions of either condenser, and let the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 11,
+            "type": "text",
+            "content": "coefficients of capacity and induction of the condenser $a b$ when",
+            "mathpix_content": " coefficients of capacity and induction of the condenser $a b$ when",
+            "font_size": 27,
+            "confidence": 0.88720703125
+          },
+          {
+            "page": 151,
+            "line_number": 12,
+            "type": "text",
+            "content": "alone be $l, n, m$. Let us calculate the effect of one of the",
+            "mathpix_content": " alone be $l, n, m$. Let us calculate the effect of one of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 13,
+            "type": "text",
+            "content": "condensers on the coefficients of the other.",
+            "mathpix_content": " condensers on the coefficients of the other.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 14,
+            "type": "text",
+            "content": "Let",
+            "mathpix_content": "\n\nLet",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 17,
+            "type": "text",
+            "content": "then the coefficients of potential for each condenser by itself are",
+            "mathpix_content": "\nthen the coefficients of potential for each condenser by itself are",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 22,
+            "type": "text",
+            "content": "The values of these coefficients will not be sensibly altered",
+            "mathpix_content": "\n\nThe values of these coefficients will not be sensibly altered",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 151,
+            "line_number": 23,
+            "type": "text",
+            "content": "when the two condensers are at a distance $R$.",
+            "mathpix_content": " when the two condensers are at a distance $R$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 24,
+            "type": "text",
+            "content": "The coefficient of potential of any two conductors at distance",
+            "mathpix_content": "\n\nThe coefficient of potential of any two conductors at distance",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 25,
+            "type": "text",
+            "content": "$R$ is $R^{-1}$, so that",
+            "mathpix_content": " $R$ is $R^{-1}$, so that",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 28,
+            "type": "text",
+            "content": "The equations of potential are therefore",
+            "mathpix_content": "\n\nThe equations of potential are therefore",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 34,
+            "type": "text",
+            "content": "Solving these equations for the charges, we find",
+            "mathpix_content": "\n\nSolving these equations for the charges, we find",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 40,
+            "type": "text",
+            "content": "where $L^{\\prime}, M^{\\prime}, N^{\\prime}$ are what $L, M, N$ become when the second con-",
+            "mathpix_content": "\nwhere $L^{\\prime}, M^{\\prime}, N^{\\prime}$ are what $L, M, N$ become when the second con",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 151,
+            "line_number": 41,
+            "type": "text",
+            "content": "denser is brought into the field.",
+            "mathpix_content": "denser is brought into the field.",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "chapter_id": "chapter_67",
+  "chapter_number": 2,
+  "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0$$",
+  "page_start": 127,
+  "page_end": 127,
+  "articles": [
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ", we find",
+      "title_safe": "we find",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ", we find",
+      "title_safe": "we find",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_92",
+      "article_number": 92,
+      "title_original": "ELECTROSTATIOS.",
+      "title_safe": "ELECTROSTATIOS",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_78",
+      "article_number": 78,
+      "title_original": "$c$.",
+      "title_safe": "c",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi e$, where $e$ is the quantity",
+      "title_safe": "pi e where e is the quantity",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ", we find",
+      "title_safe": "we find",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-X_{1}\\right)+m\\left(Y_{2}-Y_{1}\\right)+n\\left(Z_{2}-Z_{1}\\right)\\right\\} d S",
+      "title_safe": "X1rightplusmleftY2-Y1rightplusnleftZ2-Z1rightright d S",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_10",
+      "article_number": 10,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_7",
+      "article_number": 7,
+      "title_original": "), (8), (9),",
+      "title_safe": "8 9",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi e=\\iiint 4 \\pi \\rho d x d y d z-\\iint\\left(\\frac{d V_{1}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}\\right) d S$$",
+      "title_safe": "pi eequalsiiint 4 pi rho d x d y d z-iintleftfracd V1d nu1pl",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi e=4 \\pi \\iiint \\rho d x d y d z+4 \\pi \\iint \\sigma d S$$",
+      "title_safe": "pi eequals4 pi iiint rho d x d y d zplus4 pi iint sigma d S",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_12",
+      "article_number": 12,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}+4 \\pi \\sigma=0 .$$",
+      "title_safe": "d nu1plusfracd V2d nu2plus4 pi sigmaequals0",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_13",
+      "article_number": 13,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_78",
+      "article_number": 78,
+      "title_original": "c$.] If $V$ is a function of $x, y, z$ which, throughout a given",
+      "title_safe": "c. If V is a function of x y z which throughout a given",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2equals0",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi e$, where $e$ is the quantity",
+      "title_safe": "pi e where e is the quantity",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ", we find",
+      "title_safe": "we find",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-X_{1}\\right)+m\\left(Y_{2}-Y_{1}\\right)+n\\left(Z_{2}-Z_{1}\\right)\\right\\} d S \\tag{10}",
+      "title_safe": "X1rightplusmleftY2-Y1rightplusnleftZ2-Z1rightright d S tag1",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_7",
+      "article_number": 7,
+      "title_original": "), (8), (9),",
+      "title_safe": "8 9",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi e=\\iiint 4 \\pi \\rho d x d y d z-\\iint\\left(\\frac{d V_{1}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}\\right) d S \\tag{11}",
+      "title_safe": "pi eequalsiiint 4 pi rho d x d y d z-iintleftfracd V1d nu1pl",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi e=4 \\pi \\iiint \\rho d x d y d z+4 \\pi \\iint \\sigma d S \\tag{12}",
+      "title_safe": "pi eequals4 pi iiint rho d x d y d zplus4 pi iint sigma d S",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}+4 \\pi \\sigma=0 . \\tag{13}",
+      "title_safe": "d nu1plusfracd V2d nu2plus4 pi sigmaequals0 . tag13",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_78",
+      "article_number": 78,
+      "title_original": "c$.] If $V$ is a function of $x, y, z$ which, throughout a given",
+      "title_safe": "c. If V is a function of x y z which throughout a given",
+      "page_start": 127,
+      "page_end": 126,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0$$",
+      "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2equals0",
+      "page_start": 127,
+      "page_end": 127,
+      "content": {
+        "raw_text": "\n--- Page 127 ---\n92\nELECTROSTATIOS.\n[78 $c$.\nThe surface integral,\n$$\\iint R \\cos \\epsilon d S,$$\nextended over this surface, is equal to $4 \\pi e$, where $e$ is the quantity\nof electricity within the closed surface.\nProceeding as in Art. 21, we find\n$$\\begin{aligned}\n\\iint R \\cos \\epsilon d S & =\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z \\\\\n& +\\iint\\left\\{l\\left(X_{2}-X_{1}\\right)+m\\left(Y_{2}-Y_{1}\\right)+n\\left(Z_{2}-Z_{1}\\right)\\right\\} d S\n\\end{aligned}$$\n(10)\nwhere the triple integral is extended throughout the closed surface,\nand the double integral over the surface of discontinuity.\nSubstituting for the terms of this equation their values from\n(7), (8), (9),\n$$4 \\pi e=\\iiint 4 \\pi \\rho d x d y d z-\\iint\\left(\\frac{d V_{1}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}\\right) d S$$\n(11)\nBut by the definition of the volume-density, $\\rho$, and the surface-\ndensity, $\\sigma$,\n$$4 \\pi e=4 \\pi \\iiint \\rho d x d y d z+4 \\pi \\iint \\sigma d S$$\n(12)\nHence, comparing the last terms of these two equations,\n$$\\frac{d V_{1}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}+4 \\pi \\sigma=0 .$$\n(13)\nThis equation is called the characteristic equation of $V$ at an\nelectrified surface of which the surface-density is $\\sigma$.\n$78 c$.] If $V$ is a function of $x, y, z$ which, throughout a given\ncontinuous region of space, satisfies Laplace's equation\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0$$\nand if throughout a finite portion of this region $V$ is constant and\nequal to $C$, then $V$ must be constant and equal to $C$ throughout\nthe whole region in which Laplace's equation is satisfied *.\nIf $V$ is not equal to $C$ throughout the whole region, let $S$ be\nthe surface which bounds the finite portion within which $V=C$.\nAt the surface $S, V=C$.\nLet $\\nu$ be a normal drawn outwards from the surfaco $S$. Since\n$S$ is the boundary of the continuous region for which $V=C$, the\nvalue of $V$ as we travel from the surface along the normal begins\n\n* \\{It would perhaps be clearer to say that the potential is equal to $C$ at any point\nwhich can be reached from the region of constant potential without passing through\nelectricity.\\}\n",
+        "mathpix_markdown": "\n--- Page 127 ---\n\n\nThe surface integral,\n\n$$\\iint R \\cos \\epsilon d S,$$\n\nextended over this surface, is equal to $4 \\pi e$, where $e$ is the quantity\n of electricity within the closed surface.\n\n\nProceeding as in Art. 21, we find\n\n$$\\begin{align*}\n\\iint R \\cos \\epsilon d S & =\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z \\\\\n& +\\iint\\left\\{l\\left(X_{2}-X_{1}\\right)+m\\left(Y_{2}-Y_{1}\\right)+n\\left(Z_{2}-Z_{1}\\right)\\right\\} d S \\tag{10}\n\\end{align*}$$\n\nwhere the triple integral is extended throughout the closed surface,\n and the double integral over the surface of discontinuity.\n\n\nSubstituting for the terms of this equation their values from\n (7), (8), (9),\n\n$$\\begin{equation*}\n4 \\pi e=\\iiint 4 \\pi \\rho d x d y d z-\\iint\\left(\\frac{d V_{1}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}\\right) d S \\tag{11}\n\\end{equation*}$$\n\n\nBut by the definition of the volume-density, $\\rho$, and the surface\ndensity, $\\sigma$,\n\n$$\\begin{equation*}\n4 \\pi e=4 \\pi \\iiint \\rho d x d y d z+4 \\pi \\iint \\sigma d S \\tag{12}\n\\end{equation*}$$\n\n\nHence, comparing the last terms of these two equations,\n\n$$\\begin{equation*}\n\\frac{d V_{1}}{d \\nu_{1}}+\\frac{d V_{2}}{d \\nu_{2}}+4 \\pi \\sigma=0 . \\tag{13}\n\\end{equation*}$$\n\n\nThis equation is called the characteristic equation of $V$ at an\n electrified surface of which the surface-density is $\\sigma$.\n\n$78 c$.] If $V$ is a function of $x, y, z$ which, throughout a given\n continuous region of space, satisfies Laplace's equation\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0$$\n\nand if throughout a finite portion of this region $V$ is constant and\n equal to $C$, then $V$ must be constant and equal to $C$ throughout\n the whole region in which Laplace's equation is satisfied *.\n\n\nIf $V$ is not equal to $C$ throughout the whole region, let $S$ be\n the surface which bounds the finite portion within which $V=C$.\n\n\nAt the surface $S, V=C$.\n\nLet $\\nu$ be a normal drawn outwards from the surfaco $S$. Since\n $S$ is the boundary of the continuous region for which $V=C$, the\n value of $V$ as we travel from the surface along the normal begins\n\n\n\\footnotetext{\n* \\{It would perhaps be clearer to say that the potential is equal to $C$ at any point\n which can be reached from the region of constant potential without passing through\n electricity.\\}\n}\n",
+        "structured_lines": [
+          {
+            "page": 127,
+            "line_number": 4,
+            "type": "text",
+            "content": "The surface integral,",
+            "mathpix_content": "\n\nThe surface integral,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 7,
+            "type": "text",
+            "content": "extended over this surface, is equal to $4 \\pi e$, where $e$ is the quantity",
+            "mathpix_content": "\nextended over this surface, is equal to $4 \\pi e$, where $e$ is the quantity",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 8,
+            "type": "text",
+            "content": "of electricity within the closed surface.",
+            "mathpix_content": " of electricity within the closed surface.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 9,
+            "type": "text",
+            "content": "Proceeding as in Art. 21, we find",
+            "mathpix_content": "\n\nProceeding as in Art. 21, we find",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 14,
+            "type": "text",
+            "content": "where the triple integral is extended throughout the closed surface,",
+            "mathpix_content": "\nwhere the triple integral is extended throughout the closed surface,",
+            "font_size": 34,
+            "confidence": 0.7373046875
+          },
+          {
+            "page": 127,
+            "line_number": 15,
+            "type": "text",
+            "content": "and the double integral over the surface of discontinuity.",
+            "mathpix_content": " and the double integral over the surface of discontinuity.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 16,
+            "type": "text",
+            "content": "Substituting for the terms of this equation their values from",
+            "mathpix_content": "\n\nSubstituting for the terms of this equation their values from",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 17,
+            "type": "text",
+            "content": "(7), (8), (9),",
+            "mathpix_content": " (7), (8), (9),",
+            "font_size": 34,
+            "confidence": 0.99853515625
+          },
+          {
+            "page": 127,
+            "line_number": 21,
+            "type": "text",
+            "content": "But by the definition of the volume-density, $\\rho$, and the surface-",
+            "mathpix_content": "\n\nBut by the definition of the volume-density, $\\rho$, and the surface",
+            "font_size": 34,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 127,
+            "line_number": 22,
+            "type": "text",
+            "content": "density, $\\sigma$,",
+            "mathpix_content": "density, $\\sigma$,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 26,
+            "type": "text",
+            "content": "Hence, comparing the last terms of these two equations,",
+            "mathpix_content": "\n\nHence, comparing the last terms of these two equations,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 30,
+            "type": "text",
+            "content": "This equation is called the characteristic equation of $V$ at an",
+            "mathpix_content": "\n\nThis equation is called the characteristic equation of $V$ at an",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 31,
+            "type": "text",
+            "content": "electrified surface of which the surface-density is $\\sigma$.",
+            "mathpix_content": " electrified surface of which the surface-density is $\\sigma$.",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 127,
+            "line_number": 32,
+            "type": "text",
+            "content": "$78 c$.] If $V$ is a function of $x, y, z$ which, throughout a given",
+            "mathpix_content": "\n$78 c$.] If $V$ is a function of $x, y, z$ which, throughout a given",
+            "font_size": 34,
+            "confidence": 0.7216796875
+          },
+          {
+            "page": 127,
+            "line_number": 33,
+            "type": "text",
+            "content": "continuous region of space, satisfies Laplace's equation",
+            "mathpix_content": " continuous region of space, satisfies Laplace's equation",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 36,
+            "type": "text",
+            "content": "and if throughout a finite portion of this region $V$ is constant and",
+            "mathpix_content": "\nand if throughout a finite portion of this region $V$ is constant and",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 37,
+            "type": "text",
+            "content": "equal to $C$, then $V$ must be constant and equal to $C$ throughout",
+            "mathpix_content": " equal to $C$, then $V$ must be constant and equal to $C$ throughout",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 38,
+            "type": "text",
+            "content": "the whole region in which Laplace's equation is satisfied *.",
+            "mathpix_content": " the whole region in which Laplace's equation is satisfied *.",
+            "font_size": 34,
+            "confidence": 0.888671875
+          },
+          {
+            "page": 127,
+            "line_number": 39,
+            "type": "text",
+            "content": "If $V$ is not equal to $C$ throughout the whole region, let $S$ be",
+            "mathpix_content": "\n\nIf $V$ is not equal to $C$ throughout the whole region, let $S$ be",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 40,
+            "type": "text",
+            "content": "the surface which bounds the finite portion within which $V=C$.",
+            "mathpix_content": " the surface which bounds the finite portion within which $V=C$.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 41,
+            "type": "text",
+            "content": "At the surface $S, V=C$.",
+            "mathpix_content": "\n\nAt the surface $S, V=C$.",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 127,
+            "line_number": 42,
+            "type": "text",
+            "content": "Let $\\nu$ be a normal drawn outwards from the surfaco $S$. Since",
+            "mathpix_content": "\nLet $\\nu$ be a normal drawn outwards from the surfaco $S$. Since",
+            "font_size": 34,
+            "confidence": 0.7898712158203125
+          },
+          {
+            "page": 127,
+            "line_number": 43,
+            "type": "text",
+            "content": "$S$ is the boundary of the continuous region for which $V=C$, the",
+            "mathpix_content": " $S$ is the boundary of the continuous region for which $V=C$, the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 44,
+            "type": "text",
+            "content": "value of $V$ as we travel from the surface along the normal begins",
+            "mathpix_content": " value of $V$ as we travel from the surface along the normal begins",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 46,
+            "type": "text",
+            "content": "* \\{It would perhaps be clearer to say that the potential is equal to $C$ at any point",
+            "mathpix_content": "\n\n\\footnotetext{\n* \\{It would perhaps be clearer to say that the potential is equal to $C$ at any point",
+            "font_size": 21,
+            "confidence": 0.9394824504852295
+          },
+          {
+            "page": 127,
+            "line_number": 47,
+            "type": "text",
+            "content": "which can be reached from the region of constant potential without passing through",
+            "mathpix_content": " which can be reached from the region of constant potential without passing through",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 127,
+            "line_number": 48,
+            "type": "text",
+            "content": "electricity.\\}",
+            "mathpix_content": " electricity.\\}\n}",
+            "font_size": 21,
+            "confidence": 0.97216796875
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}-a^{2}}, \\quad b^{\\prime}=\\frac{b}{b^{2}-\\beta^{2}}, \\quad a^{\\prime}=\\frac{a}{a^{2}-a^{2}}, \\quad \\beta^{\\prime}=\\frac{\\beta}{b^{2}-\\beta^{2}} \\\\",
+  "title_safe": "a2 quad bprimeequalsfracbb2-beta2 quad aprimeequalsfracaa2",
+  "page_start": 297,
+  "page_end": 296,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

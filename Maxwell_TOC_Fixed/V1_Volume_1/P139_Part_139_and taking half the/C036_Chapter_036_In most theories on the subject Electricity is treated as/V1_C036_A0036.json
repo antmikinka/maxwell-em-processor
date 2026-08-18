@@ -1,0 +1,372 @@
+{
+  "article_id": "article_36",
+  "article_number": 36,
+  "title_original": ".] In most theories on the subject, Electricity is treated as",
+  "title_safe": "In most theories on the subject Electricity is treated as",
+  "page_start": 74,
+  "page_end": 74,
+  "content": {
+    "raw_text": "\n--- Page 74 ---\n36.]\nELECTRICITY AS A QUANTITY.\n39\nthe result of the action between the parts of an intervening\nmedium, it is conceivable that in all cases of the increase or\ndiminution of the energy within a closed surface we may be\nable, when the nature of this action of the parts of the medium\nis clearly understood, to trace the passage of the energy in or\nout through that surface.\nThere is, however, another reason which warrants us in\nasserting that electricity, as a physical quantity, synonymous\nwith the total electrification of a body, is not, like heat, a form\nof energy. An electrified system has a certain amount of\nenergy, and this energy can be calculated by multiplying the\nquantity of electricity in each of its parts by another physical\nquantity, called the Potential of that part, and taking half the\nsum of the products. The quantities 'Electricity' and 'Potential,'\nwhen multiplied together, produce the quantity 'Energy.' It is\nimpossible, therefore, that electricity and energy should be\nquantities of the same category, for electricity is only one of the\nfactors of energy, the other factor being 'Potential.' *\nEnergy, which is the product of these factors, may also be\nconsidered as the product of several other pairs of factors,\nsuch as\nA Force $\\quad \\times$ A distance through which the force is to act.\nA Mass \u00d7 Gravitation acting through a certain height.\nA Mass \u00d7 Half the square of its velocity.\nA Pressure $\\quad \\times \\mathrm{A}$ volume of fluid introduced into a vessel\nat that pressure.\nA Chemical Affinity $\\times$ A chemical change, measured by the num-\nber of electro-chemical equivalents which\nenter into combination.\nIf we ever should obtain distinct mechanical ideas of the nature\nof electric potential, we may combine these with the idea of\nenergy to determine the physical category in which 'Electricity'\nis to be placed.\n36.] In most theories on the subject, Electricity is treated as\na substance, but inasmuch as there are two kinds of electrifi-\ncation which, being combined, annul each other, and since\nwe cannot conceive of two substances annulling each other, a\ndistinction has been drawn between Free Electricity and Com-\nbined Electricity.\n\n",
+    "mathpix_markdown": "\n--- Page 74 ---\n\nthe result of the action between the parts of an intervening\n medium, it is conceivable that in all cases of the increase or\n diminution of the energy within a closed surface we may be\n able, when the nature of this action of the parts of the medium\n is clearly understood, to trace the passage of the energy in or\n out through that surface.\n\n\nThere is, however, another reason which warrants us in\n asserting that electricity, as a physical quantity, synonymous\n with the total electrification of a body, is not, like heat, a form\n of energy. An electrified system has a certain amount of\n energy, and this energy can be calculated by multiplying the\n quantity of electricity in each of its parts by another physical\n quantity, called the Potential of that part, and taking half the\n sum of the products. The quantities 'Electricity' and 'Potential,'\n when multiplied together, produce the quantity 'Energy.' It is\n impossible, therefore, that electricity and energy should be\n quantities of the same category, for electricity is only one of the\n factors of energy, the other factor being 'Potential.' *\n\n\nEnergy, which is the product of these factors, may also be\n considered as the product of several other pairs of factors,\n such as\n\nA Force $\\quad \\times$ A distance through which the force is to act.\n\nA Mass \u00d7 Gravitation acting through a certain height.\n\nA Mass \u00d7 Half the square of its velocity.\n\nA Pressure $\\quad \\times \\mathrm{A}$ volume of fluid introduced into a vessel\n at that pressure.\n\nA Chemical Affinity $\\times$ A chemical change, measured by the num\nber of electro-chemical equivalents which\n enter into combination.\n\nIf we ever should obtain distinct mechanical ideas of the nature\n of electric potential, we may combine these with the idea of\n energy to determine the physical category in which 'Electricity'\n is to be placed.\n\n36.] In most theories on the subject, Electricity is treated as\n a substance, but inasmuch as there are two kinds of electrifi\ncation which, being combined, annul each other, and since\n we cannot conceive of two substances annulling each other, a\n distinction has been drawn between Free Electricity and Com\nbined Electricity.\n",
+    "structured_lines": [
+      {
+        "page": 74,
+        "line_number": 4,
+        "type": "text",
+        "content": "the result of the action between the parts of an intervening",
+        "mathpix_content": "\nthe result of the action between the parts of an intervening",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 5,
+        "type": "text",
+        "content": "medium, it is conceivable that in all cases of the increase or",
+        "mathpix_content": " medium, it is conceivable that in all cases of the increase or",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 6,
+        "type": "text",
+        "content": "diminution of the energy within a closed surface we may be",
+        "mathpix_content": " diminution of the energy within a closed surface we may be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 7,
+        "type": "text",
+        "content": "able, when the nature of this action of the parts of the medium",
+        "mathpix_content": " able, when the nature of this action of the parts of the medium",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 74,
+        "line_number": 8,
+        "type": "text",
+        "content": "is clearly understood, to trace the passage of the energy in or",
+        "mathpix_content": " is clearly understood, to trace the passage of the energy in or",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 9,
+        "type": "text",
+        "content": "out through that surface.",
+        "mathpix_content": " out through that surface.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 10,
+        "type": "text",
+        "content": "There is, however, another reason which warrants us in",
+        "mathpix_content": "\n\nThere is, however, another reason which warrants us in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 11,
+        "type": "text",
+        "content": "asserting that electricity, as a physical quantity, synonymous",
+        "mathpix_content": " asserting that electricity, as a physical quantity, synonymous",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 12,
+        "type": "text",
+        "content": "with the total electrification of a body, is not, like heat, a form",
+        "mathpix_content": " with the total electrification of a body, is not, like heat, a form",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 13,
+        "type": "text",
+        "content": "of energy. An electrified system has a certain amount of",
+        "mathpix_content": " of energy. An electrified system has a certain amount of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 14,
+        "type": "text",
+        "content": "energy, and this energy can be calculated by multiplying the",
+        "mathpix_content": " energy, and this energy can be calculated by multiplying the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 15,
+        "type": "text",
+        "content": "quantity of electricity in each of its parts by another physical",
+        "mathpix_content": " quantity of electricity in each of its parts by another physical",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 16,
+        "type": "text",
+        "content": "quantity, called the Potential of that part, and taking half the",
+        "mathpix_content": " quantity, called the Potential of that part, and taking half the",
+        "font_size": 34,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 74,
+        "line_number": 17,
+        "type": "text",
+        "content": "sum of the products. The quantities 'Electricity' and 'Potential,'",
+        "mathpix_content": " sum of the products. The quantities 'Electricity' and 'Potential,'",
+        "font_size": 34,
+        "confidence": 0.9965848922729492
+      },
+      {
+        "page": 74,
+        "line_number": 18,
+        "type": "text",
+        "content": "when multiplied together, produce the quantity 'Energy.' It is",
+        "mathpix_content": " when multiplied together, produce the quantity 'Energy.' It is",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 74,
+        "line_number": 19,
+        "type": "text",
+        "content": "impossible, therefore, that electricity and energy should be",
+        "mathpix_content": " impossible, therefore, that electricity and energy should be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 20,
+        "type": "text",
+        "content": "quantities of the same category, for electricity is only one of the",
+        "mathpix_content": " quantities of the same category, for electricity is only one of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 21,
+        "type": "text",
+        "content": "factors of energy, the other factor being 'Potential.' *",
+        "mathpix_content": " factors of energy, the other factor being 'Potential.' *",
+        "font_size": 34,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 74,
+        "line_number": 22,
+        "type": "text",
+        "content": "Energy, which is the product of these factors, may also be",
+        "mathpix_content": "\n\nEnergy, which is the product of these factors, may also be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 23,
+        "type": "text",
+        "content": "considered as the product of several other pairs of factors,",
+        "mathpix_content": " considered as the product of several other pairs of factors,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 24,
+        "type": "text",
+        "content": "such as",
+        "mathpix_content": " such as",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 25,
+        "type": "text",
+        "content": "A Force $\\quad \\times$ A distance through which the force is to act.",
+        "mathpix_content": "\nA Force $\\quad \\times$ A distance through which the force is to act.",
+        "font_size": 34,
+        "confidence": 0.9931719303131104
+      },
+      {
+        "page": 74,
+        "line_number": 26,
+        "type": "text",
+        "content": "A Mass \u00d7 Gravitation acting through a certain height.",
+        "mathpix_content": "\nA Mass \u00d7 Gravitation acting through a certain height.",
+        "font_size": 34,
+        "confidence": 0.94970703125
+      },
+      {
+        "page": 74,
+        "line_number": 27,
+        "type": "text",
+        "content": "A Mass \u00d7 Half the square of its velocity.",
+        "mathpix_content": "\nA Mass \u00d7 Half the square of its velocity.",
+        "font_size": 34,
+        "confidence": 0.91845703125
+      },
+      {
+        "page": 74,
+        "line_number": 28,
+        "type": "text",
+        "content": "A Pressure $\\quad \\times \\mathrm{A}$ volume of fluid introduced into a vessel",
+        "mathpix_content": "\nA Pressure $\\quad \\times \\mathrm{A}$ volume of fluid introduced into a vessel",
+        "font_size": 34,
+        "confidence": 0.9814453125
+      },
+      {
+        "page": 74,
+        "line_number": 29,
+        "type": "text",
+        "content": "at that pressure.",
+        "mathpix_content": " at that pressure.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 30,
+        "type": "text",
+        "content": "A Chemical Affinity $\\times$ A chemical change, measured by the num-",
+        "mathpix_content": "\nA Chemical Affinity $\\times$ A chemical change, measured by the num",
+        "font_size": 34,
+        "confidence": 0.824557136184012
+      },
+      {
+        "page": 74,
+        "line_number": 31,
+        "type": "text",
+        "content": "ber of electro-chemical equivalents which",
+        "mathpix_content": "ber of electro-chemical equivalents which",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 32,
+        "type": "text",
+        "content": "enter into combination.",
+        "mathpix_content": " enter into combination.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 33,
+        "type": "text",
+        "content": "If we ever should obtain distinct mechanical ideas of the nature",
+        "mathpix_content": "\nIf we ever should obtain distinct mechanical ideas of the nature",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 34,
+        "type": "text",
+        "content": "of electric potential, we may combine these with the idea of",
+        "mathpix_content": " of electric potential, we may combine these with the idea of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 35,
+        "type": "text",
+        "content": "energy to determine the physical category in which 'Electricity'",
+        "mathpix_content": " energy to determine the physical category in which 'Electricity'",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 74,
+        "line_number": 36,
+        "type": "text",
+        "content": "is to be placed.",
+        "mathpix_content": " is to be placed.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 37,
+        "type": "text",
+        "content": "36.] In most theories on the subject, Electricity is treated as",
+        "mathpix_content": "\n36.] In most theories on the subject, Electricity is treated as",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 38,
+        "type": "text",
+        "content": "a substance, but inasmuch as there are two kinds of electrifi-",
+        "mathpix_content": " a substance, but inasmuch as there are two kinds of electrifi",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 39,
+        "type": "text",
+        "content": "cation which, being combined, annul each other, and since",
+        "mathpix_content": "cation which, being combined, annul each other, and since",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 40,
+        "type": "text",
+        "content": "we cannot conceive of two substances annulling each other, a",
+        "mathpix_content": " we cannot conceive of two substances annulling each other, a",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 74,
+        "line_number": 41,
+        "type": "text",
+        "content": "distinction has been drawn between Free Electricity and Com-",
+        "mathpix_content": " distinction has been drawn between Free Electricity and Com",
+        "font_size": 34,
+        "confidence": 0.50390625
+      },
+      {
+        "page": 74,
+        "line_number": 42,
+        "type": "text",
+        "content": "bined Electricity.",
+        "mathpix_content": "bined Electricity.",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

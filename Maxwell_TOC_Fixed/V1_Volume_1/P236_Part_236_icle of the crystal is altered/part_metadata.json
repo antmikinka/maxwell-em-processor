@@ -1,0 +1,534 @@
+{
+  "part_id": "part_236",
+  "part_number": 236,
+  "title": "icle of the crystal is altered,",
+  "page_start": 97,
+  "page_end": 97,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 62,
+      "title": "ELECTROSTATIC PHENOMENA.",
+      "page_start": 97,
+      "page_end": 96,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 59,
+      "title": "for all external points, the effect of the internal polarity. The",
+      "page_start": 97,
+      "page_end": 96,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 59,
+      "title": "] In the following treatise I propose first to explain the",
+      "page_start": 97,
+      "page_end": 96,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 59,
+      "title": "] In the following treatise I propose first to explain the",
+      "page_start": 97,
+      "page_end": 97,
+      "articles": [
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": "for all external points, the effect of the internal polarity. The",
+          "title_safe": "for all external points the effect of the internal polarity",
+          "page_start": 97,
+          "page_end": 96,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": "] In the following treatise I propose first to explain the",
+          "title_safe": "In the following treatise I propose first to explain the",
+          "page_start": 97,
+          "page_end": 96,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": "] In the following treatise I propose first to explain the",
+          "title_safe": "In the following treatise I propose first to explain the",
+          "page_start": 97,
+          "page_end": 96,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_62",
+          "article_number": 62,
+          "title_original": "ELECTROSTATIC PHENOMENA.",
+          "title_safe": "ELECTROSTATIC PHENOMENA",
+          "page_start": 97,
+          "page_end": 96,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 97,
+          "page_end": 96,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": ".] In the following treatise I propose first to explain the",
+          "title_safe": "In the following treatise I propose first to explain the",
+          "page_start": 97,
+          "page_end": 96,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": ".] In the following treatise I propose first to explain the",
+          "title_safe": "In the following treatise I propose first to explain the",
+          "page_start": 97,
+          "page_end": 97,
+          "content": {
+            "raw_text": "\n--- Page 97 ---\n62\nELECTROSTATIC PHENOMENA.\n[59.\nfor all external points, the effect of the internal polarity. The\ncrystal then has no external electrical action, nor any tendency\nto change its mode of electrification. But if it be heated or cooled\nthe interior polarization of each particle of the crystal is altered,\nand can no longer be balanced by the superficial electrification,\nso that there is a resultant external action.\n\nPlun of this Treatise.\n59.] In the following treatise I propose first to explain the\nordinary theory of electrical action, which considers it as de-\npending only on the electrified bodies and on their relative\nposition, without taking account of any phenomena which may\ntake place in the intervening media. In this way we shall\nestablish the law of the inverse square, the theory of the poten-\ntial, and the equations of Laplace and Poisson. We shall next\nconsider the charges and potentials of a system of electrified\nconductors as connected by a system of equations the coefficients\nof which may be supposed to be determined by experiment in\nthose cases in which our present mathematical methods are not\napplicable, and from these we shall determine the mechanical\nforces acting between the different electrified hodies.\nWe shall then investigate certain general theorems by which\nGreen, Gauss, and Thomson have indicated the conditions of so-\nlution of problems in the distribution of electricity. One result\nof these theorems is, that if Poisson's equation is satisfied by any\nfunction, and if at the surface of every conductor the function\nhas the value of the potential of that conductor, then the func-\ntion expresses the actual potential of the system at every point.\nWe also deduce a method of finding problems capable of exact\nsolution.\nIn Thomson's theorem, the total energy of the system is ex-\npressed in the form of the integral of a certain quantity extended\nover the whole space between the electrified bodies, and also in\nthe form of an integral extended over the electrified surfaces\nonly. The equality of these two expressions may be thus inter-\npreted physically. We may conceive the physical relation be-\ntween the electrified bodies, either as the result of the state of the\nintervening medium, or as the result of a direct action between\nthe electrified bodies at a distance. If we adopt the latter con-\nception, we may determine the law of the action, but we can go\n",
+            "mathpix_markdown": "\n--- Page 97 ---\n\nfor all external points, the effect of the internal polarity. The\n crystal then has no external electrical action, nor any tendency\n to change its mode of electrification. But if it be heated or cooled\n the interior polarization of each particle of the crystal is altered,\n and can no longer be balanced by the superficial electrification,\n so that there is a resultant external action.\n\n\n\\section*{Plun of this Treatise.}\n\n59.] In the following treatise I propose first to explain the\n ordinary theory of electrical action, which considers it as de\npending only on the electrified bodies and on their relative\n position, without taking account of any phenomena which may\n take place in the intervening media. In this way we shall\n establish the law of the inverse square, the theory of the poten\ntial, and the equations of Laplace and Poisson. We shall next\n consider the charges and potentials of a system of electrified\n conductors as connected by a system of equations the coefficients\n of which may be supposed to be determined by experiment in\n those cases in which our present mathematical methods are not\n applicable, and from these we shall determine the mechanical\n forces acting between the different electrified hodies.\n\n\nWe shall then investigate certain general theorems by which\n Green, Gauss, and Thomson have indicated the conditions of so\nlution of problems in the distribution of electricity. One result\n of these theorems is, that if Poisson's equation is satisfied by any\n function, and if at the surface of every conductor the function\n has the value of the potential of that conductor, then the func\ntion expresses the actual potential of the system at every point.\n We also deduce a method of finding problems capable of exact\n solution.\n\n\nIn Thomson's theorem, the total energy of the system is ex\npressed in the form of the integral of a certain quantity extended\n over the whole space between the electrified bodies, and also in\n the form of an integral extended over the electrified surfaces\n only. The equality of these two expressions may be thus inter\npreted physically. We may conceive the physical relation be\ntween the electrified bodies, either as the result of the state of the\n intervening medium, or as the result of a direct action between\n the electrified bodies at a distance. If we adopt the latter con\nception, we may determine the law of the action, but we can go\n",
+            "structured_lines": [
+              {
+                "page": 97,
+                "line_number": 4,
+                "type": "text",
+                "content": "for all external points, the effect of the internal polarity. The",
+                "mathpix_content": "\nfor all external points, the effect of the internal polarity. The",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 5,
+                "type": "text",
+                "content": "crystal then has no external electrical action, nor any tendency",
+                "mathpix_content": " crystal then has no external electrical action, nor any tendency",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 6,
+                "type": "text",
+                "content": "to change its mode of electrification. But if it be heated or cooled",
+                "mathpix_content": " to change its mode of electrification. But if it be heated or cooled",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 7,
+                "type": "text",
+                "content": "the interior polarization of each particle of the crystal is altered,",
+                "mathpix_content": " the interior polarization of each particle of the crystal is altered,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 8,
+                "type": "text",
+                "content": "and can no longer be balanced by the superficial electrification,",
+                "mathpix_content": " and can no longer be balanced by the superficial electrification,",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 97,
+                "line_number": 9,
+                "type": "text",
+                "content": "so that there is a resultant external action.",
+                "mathpix_content": " so that there is a resultant external action.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 11,
+                "type": "text",
+                "content": "Plun of this Treatise.",
+                "mathpix_content": "\n\n\\section*{Plun of this Treatise.}",
+                "font_size": 34,
+                "confidence": 0.9814910888671875
+              },
+              {
+                "page": 97,
+                "line_number": 12,
+                "type": "text",
+                "content": "59.] In the following treatise I propose first to explain the",
+                "mathpix_content": "\n59.] In the following treatise I propose first to explain the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 13,
+                "type": "text",
+                "content": "ordinary theory of electrical action, which considers it as de-",
+                "mathpix_content": " ordinary theory of electrical action, which considers it as de",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 14,
+                "type": "text",
+                "content": "pending only on the electrified bodies and on their relative",
+                "mathpix_content": "pending only on the electrified bodies and on their relative",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 15,
+                "type": "text",
+                "content": "position, without taking account of any phenomena which may",
+                "mathpix_content": " position, without taking account of any phenomena which may",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 16,
+                "type": "text",
+                "content": "take place in the intervening media. In this way we shall",
+                "mathpix_content": " take place in the intervening media. In this way we shall",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 17,
+                "type": "text",
+                "content": "establish the law of the inverse square, the theory of the poten-",
+                "mathpix_content": " establish the law of the inverse square, the theory of the poten",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 18,
+                "type": "text",
+                "content": "tial, and the equations of Laplace and Poisson. We shall next",
+                "mathpix_content": "tial, and the equations of Laplace and Poisson. We shall next",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 97,
+                "line_number": 19,
+                "type": "text",
+                "content": "consider the charges and potentials of a system of electrified",
+                "mathpix_content": " consider the charges and potentials of a system of electrified",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 20,
+                "type": "text",
+                "content": "conductors as connected by a system of equations the coefficients",
+                "mathpix_content": " conductors as connected by a system of equations the coefficients",
+                "font_size": 27,
+                "confidence": 0.87353515625
+              },
+              {
+                "page": 97,
+                "line_number": 21,
+                "type": "text",
+                "content": "of which may be supposed to be determined by experiment in",
+                "mathpix_content": " of which may be supposed to be determined by experiment in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 22,
+                "type": "text",
+                "content": "those cases in which our present mathematical methods are not",
+                "mathpix_content": " those cases in which our present mathematical methods are not",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 23,
+                "type": "text",
+                "content": "applicable, and from these we shall determine the mechanical",
+                "mathpix_content": " applicable, and from these we shall determine the mechanical",
+                "font_size": 27,
+                "confidence": 0.99658203125
+              },
+              {
+                "page": 97,
+                "line_number": 24,
+                "type": "text",
+                "content": "forces acting between the different electrified hodies.",
+                "mathpix_content": " forces acting between the different electrified hodies.",
+                "font_size": 27,
+                "confidence": 0.72509765625
+              },
+              {
+                "page": 97,
+                "line_number": 25,
+                "type": "text",
+                "content": "We shall then investigate certain general theorems by which",
+                "mathpix_content": "\n\nWe shall then investigate certain general theorems by which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 26,
+                "type": "text",
+                "content": "Green, Gauss, and Thomson have indicated the conditions of so-",
+                "mathpix_content": " Green, Gauss, and Thomson have indicated the conditions of so",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 27,
+                "type": "text",
+                "content": "lution of problems in the distribution of electricity. One result",
+                "mathpix_content": "lution of problems in the distribution of electricity. One result",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 28,
+                "type": "text",
+                "content": "of these theorems is, that if Poisson's equation is satisfied by any",
+                "mathpix_content": " of these theorems is, that if Poisson's equation is satisfied by any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 29,
+                "type": "text",
+                "content": "function, and if at the surface of every conductor the function",
+                "mathpix_content": " function, and if at the surface of every conductor the function",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 30,
+                "type": "text",
+                "content": "has the value of the potential of that conductor, then the func-",
+                "mathpix_content": " has the value of the potential of that conductor, then the func",
+                "font_size": 27,
+                "confidence": 0.99560546875
+              },
+              {
+                "page": 97,
+                "line_number": 31,
+                "type": "text",
+                "content": "tion expresses the actual potential of the system at every point.",
+                "mathpix_content": "tion expresses the actual potential of the system at every point.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 32,
+                "type": "text",
+                "content": "We also deduce a method of finding problems capable of exact",
+                "mathpix_content": " We also deduce a method of finding problems capable of exact",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 97,
+                "line_number": 33,
+                "type": "text",
+                "content": "solution.",
+                "mathpix_content": " solution.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 34,
+                "type": "text",
+                "content": "In Thomson's theorem, the total energy of the system is ex-",
+                "mathpix_content": "\n\nIn Thomson's theorem, the total energy of the system is ex",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 35,
+                "type": "text",
+                "content": "pressed in the form of the integral of a certain quantity extended",
+                "mathpix_content": "pressed in the form of the integral of a certain quantity extended",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 36,
+                "type": "text",
+                "content": "over the whole space between the electrified bodies, and also in",
+                "mathpix_content": " over the whole space between the electrified bodies, and also in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 37,
+                "type": "text",
+                "content": "the form of an integral extended over the electrified surfaces",
+                "mathpix_content": " the form of an integral extended over the electrified surfaces",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 38,
+                "type": "text",
+                "content": "only. The equality of these two expressions may be thus inter-",
+                "mathpix_content": " only. The equality of these two expressions may be thus inter",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 39,
+                "type": "text",
+                "content": "preted physically. We may conceive the physical relation be-",
+                "mathpix_content": "preted physically. We may conceive the physical relation be",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 97,
+                "line_number": 40,
+                "type": "text",
+                "content": "tween the electrified bodies, either as the result of the state of the",
+                "mathpix_content": "tween the electrified bodies, either as the result of the state of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 41,
+                "type": "text",
+                "content": "intervening medium, or as the result of a direct action between",
+                "mathpix_content": " intervening medium, or as the result of a direct action between",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 42,
+                "type": "text",
+                "content": "the electrified bodies at a distance. If we adopt the latter con-",
+                "mathpix_content": " the electrified bodies at a distance. If we adopt the latter con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 97,
+                "line_number": 43,
+                "type": "text",
+                "content": "ception, we may determine the law of the action, but we can go",
+                "mathpix_content": "ception, we may determine the law of the action, but we can go",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

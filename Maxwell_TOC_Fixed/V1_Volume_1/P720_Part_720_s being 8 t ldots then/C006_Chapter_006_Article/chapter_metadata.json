@@ -1,0 +1,875 @@
+{
+  "chapter_id": "chapter_175",
+  "chapter_number": 6,
+  "title": "}",
+  "page_start": 447,
+  "page_end": 447,
+  "articles": [
+    {
+      "article_id": "article_287",
+      "article_number": 287,
+      "title_original": "the current normal to its plane is $u$, so that the quantity which",
+      "title_safe": "the current normal to its plane is u so that the quantity wh",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_287",
+      "article_number": 287,
+      "title_original": "] To determine the condition that a given surface may be",
+      "title_safe": "To determine the condition that a given surface may be",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_287",
+      "article_number": 287,
+      "title_original": "] To determine the condition that a given surface may be",
+      "title_safe": "To determine the condition that a given surface may be",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_412",
+      "article_number": 412,
+      "title_original": "CONDUCTION IN THREE DIMENSIONS.",
+      "title_safe": "CONDUCTION IN THREE DIMENSIONS",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_287",
+      "article_number": 287,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} r^{2} \\frac{u}{m n}$.",
+      "title_safe": "2 r2 fracum n",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} r^{2} \\frac{v}{n l}, \\quad \\text { and } \\quad \\frac{1}{2} r^{2} \\frac{w}{l m} .$$",
+      "title_safe": "2 r2 fracvn l quad text and quad frac12 r2 fracwl m",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} r^{2} \\frac{\\gamma}{l m n} .$$",
+      "title_safe": "2 r2 fracgammal m n",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\frac{r^{2} \\gamma}{l m n}=\\frac{1}{2} r^{2}\\left\\{\\frac{u}{m n}+\\frac{v}{n l}+\\frac{w}{l m}\\right\\} ;$$",
+      "title_safe": "2 fracr2 gammal m nequalsfrac12 r2leftfracum nplusfracvn lpl",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "l m n}{r^{2}}$, we get",
+      "title_safe": "l m nr2 we get",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+v^{2}+w^{2}=\\Gamma^{2}$$",
+      "title_safe": "plusv2plusw2equalsGamma2",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_287",
+      "article_number": 287,
+      "title_original": ".] To determine the condition that a given surface may be",
+      "title_safe": "To determine the condition that a given surface may be",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+\\left.\\frac{\\overline{d \\lambda}}{d y}\\right|^{2}+\\left.\\frac{\\overline{d \\lambda}}{d z}\\right|^{2}=\\frac{1}{N^{2}}$$",
+      "title_safe": "plusleft.fracoverlined lambdad yrightPIPE2plusleft.fracoverl",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_5",
+      "article_number": 5,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} r^{2} \\frac{u}{m n}$.",
+      "title_safe": "2 r2 fracum n",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} r^{2} \\frac{v}{n l}, \\quad \\text { and } \\quad \\frac{1}{2} r^{2} \\frac{w}{l m} .$$",
+      "title_safe": "2 r2 fracvn l quad text and quad frac12 r2 fracwl m",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} r^{2} \\frac{\\gamma}{l m n} .$$",
+      "title_safe": "2 r2 fracgammal m n",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} \\frac{r^{2} \\gamma}{l m n}=\\frac{1}{2} r^{2}\\left\\{\\frac{u}{m n}+\\frac{v}{n l}+\\frac{w}{l m}\\right\\} ;$$",
+      "title_safe": "2 fracr2 gammal m nequalsfrac12 r2leftfracum nplusfracvn lpl",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "l m n}{r^{2}}$, we get",
+      "title_safe": "l m nr2 we get",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+v^{2}+w^{2}=\\Gamma^{2}$$",
+      "title_safe": "plusv2plusw2equalsGamma2",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_287",
+      "article_number": 287,
+      "title_original": ".] To determine the condition that a given surface may be",
+      "title_safe": "To determine the condition that a given surface may be",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}+\\left.\\frac{\\overline{d \\lambda}}{d y}\\right|^{2}+\\left.\\frac{\\overline{d \\lambda}}{d z}\\right|^{2}=\\frac{1}{N^{2}} \\tag{5}",
+      "title_safe": "plusleft.fracoverlined lambdad yrightPIPE2plusleft.fracoverl",
+      "page_start": 447,
+      "page_end": 446,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 447,
+      "page_end": 447,
+      "content": {
+        "raw_text": "\n--- Page 447 ---\n412\nCONDUCTION IN THREE DIMENSIONS.\n[287.\nthe current normal to its plane is $u$, so that the quantity which\nenters through this triangle in unit time is $\\frac{1}{2} r^{2} \\frac{u}{m n}$.\nThe quantities which enter through the triangles $O C A$ and\n$O A B$ respectively in unit time are\n$$\\frac{1}{2} r^{2} \\frac{v}{n l}, \\quad \\text { and } \\quad \\frac{1}{2} r^{2} \\frac{w}{l m} .$$\nIf $\\gamma$ is the component of the current in the direction $O R$, then\nthe quantity which leaves the tetrahedron in unit time through\n$A B C$ is\n$$\\frac{1}{2} r^{2} \\frac{\\gamma}{l m n} .$$\nSince this is equal to the quantity which enters through the\nthree other triangles,\n$$\\frac{1}{2} \\frac{r^{2} \\gamma}{l m n}=\\frac{1}{2} r^{2}\\left\\{\\frac{u}{m n}+\\frac{v}{n l}+\\frac{w}{l m}\\right\\} ;$$\nmultiplying by $\\frac{2 l m n}{r^{2}}$, we get\n$$\\gamma=l u+m v+n w .$$\n(1)\nIf we put\n$$u^{2}+v^{2}+w^{2}=\\Gamma^{2}$$\nand make $l^{\\prime}, m^{\\prime}, n^{\\prime}$ such that\n$$u=l^{\\prime} \\Gamma, \\quad v=m^{\\prime} \\Gamma, \\quad \\text { and } \\quad w=n^{\\prime} \\Gamma ;$$\nthen\n$$\\gamma=\\Gamma\\left(l l^{\\prime}+m m^{\\prime}+n n^{\\prime}\\right) .$$\n(2)\nHence, if we define the resultant current as a vector whose\nmagnitude is $\\Gamma$, and whose direction-cosines are $l^{\\prime}, m^{\\prime}, n^{\\prime}$, and if\n$\\gamma$ denotes the current resolved in a direction making an angle $\\theta$\nwith that of the resultant current, then\n$$\\gamma=\\Gamma \\cos \\theta ;$$\n(3)\nshewing that the law of resolution of currents is the same as\nthat of velocities, forces, and all other vectors.\n287.] To determine the condition that a given surface may be\na surface of flow, let\n$$F(x, y, z)=\\lambda$$\n(4)\nbe the equation of a family of surfaces any one of which is given\nby making $\\lambda$ constant; then, if we make\n$$\\left.\\frac{\\overline{d \\lambda}}{d x}\\right|^{2}+\\left.\\frac{\\overline{d \\lambda}}{d y}\\right|^{2}+\\left.\\frac{\\overline{d \\lambda}}{d z}\\right|^{2}=\\frac{1}{N^{2}}$$\n(5)\nthe direction-cosines of the normal, reckoned in the direction in\nwhich $\\lambda$ increases, are\n$$l=N \\frac{d \\lambda}{d x}, \\quad m=N \\frac{d \\lambda}{d y}, \\quad n=N \\frac{d \\lambda}{d z}$$\n(6)\n",
+        "mathpix_markdown": "\n--- Page 447 ---\n\nthe current normal to its plane is $u$, so that the quantity which\n enters through this triangle in unit time is $\\frac{1}{2} r^{2} \\frac{u}{m n}$.\n\n\nThe quantities which enter through the triangles $O C A$ and\n $O A B$ respectively in unit time are\n\n$$\\frac{1}{2} r^{2} \\frac{v}{n l}, \\quad \\text { and } \\quad \\frac{1}{2} r^{2} \\frac{w}{l m} .$$\n\n\nIf $\\gamma$ is the component of the current in the direction $O R$, then\n the quantity which leaves the tetrahedron in unit time through\n $A B C$ is\n\n$$\\frac{1}{2} r^{2} \\frac{\\gamma}{l m n} .$$\n\n\nSince this is equal to the quantity which enters through the\n three other triangles,\n\n$$\\frac{1}{2} \\frac{r^{2} \\gamma}{l m n}=\\frac{1}{2} r^{2}\\left\\{\\frac{u}{m n}+\\frac{v}{n l}+\\frac{w}{l m}\\right\\} ;$$\n\nmultiplying by $\\frac{2 l m n}{r^{2}}$, we get\n\n$$\\begin{equation*}\n\\gamma=l u+m v+n w . \\tag{1}\n\\end{equation*}$$\n\n\nIf we put\n\n$$u^{2}+v^{2}+w^{2}=\\Gamma^{2}$$\n\nand make $l^{\\prime}, m^{\\prime}, n^{\\prime}$ such that\n\n$$u=l^{\\prime} \\Gamma, \\quad v=m^{\\prime} \\Gamma, \\quad \\text { and } \\quad w=n^{\\prime} \\Gamma ;$$\n\nthen\n\n$$\\begin{equation*}\n\\gamma=\\Gamma\\left(l l^{\\prime}+m m^{\\prime}+n n^{\\prime}\\right) . \\tag{2}\n\\end{equation*}$$\n\n\nHence, if we define the resultant current as a vector whose\n magnitude is $\\Gamma$, and whose direction-cosines are $l^{\\prime}, m^{\\prime}, n^{\\prime}$, and if\n $\\gamma$ denotes the current resolved in a direction making an angle $\\theta$\n with that of the resultant current, then\n\n$$\\begin{equation*}\n\\gamma=\\Gamma \\cos \\theta ; \\tag{3}\n\\end{equation*}$$\n\nshewing that the law of resolution of currents is the same as\n that of velocities, forces, and all other vectors.\n\n287.] To determine the condition that a given surface may be\n a surface of flow, let\n\n$$\\begin{equation*}\nF(x, y, z)=\\lambda \\tag{4}\n\\end{equation*}$$\n\nbe the equation of a family of surfaces any one of which is given\n by making $\\lambda$ constant; then, if we make\n\n$$\\begin{equation*}\n\\left.\\frac{\\overline{d \\lambda}}{d x}\\right|^{2}+\\left.\\frac{\\overline{d \\lambda}}{d y}\\right|^{2}+\\left.\\frac{\\overline{d \\lambda}}{d z}\\right|^{2}=\\frac{1}{N^{2}} \\tag{5}\n\\end{equation*}$$\n\nthe direction-cosines of the normal, reckoned in the direction in\n which $\\lambda$ increases, are\n\n$$\\begin{equation*}\nl=N \\frac{d \\lambda}{d x}, \\quad m=N \\frac{d \\lambda}{d y}, \\quad n=N \\frac{d \\lambda}{d z} \\tag{6}\n\\end{equation*}$$\n",
+        "structured_lines": [
+          {
+            "page": 447,
+            "line_number": 4,
+            "type": "text",
+            "content": "the current normal to its plane is $u$, so that the quantity which",
+            "mathpix_content": "\nthe current normal to its plane is $u$, so that the quantity which",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 5,
+            "type": "text",
+            "content": "enters through this triangle in unit time is $\\frac{1}{2} r^{2} \\frac{u}{m n}$.",
+            "mathpix_content": " enters through this triangle in unit time is $\\frac{1}{2} r^{2} \\frac{u}{m n}$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 6,
+            "type": "text",
+            "content": "The quantities which enter through the triangles $O C A$ and",
+            "mathpix_content": "\n\nThe quantities which enter through the triangles $O C A$ and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 7,
+            "type": "text",
+            "content": "$O A B$ respectively in unit time are",
+            "mathpix_content": " $O A B$ respectively in unit time are",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 10,
+            "type": "text",
+            "content": "If $\\gamma$ is the component of the current in the direction $O R$, then",
+            "mathpix_content": "\n\nIf $\\gamma$ is the component of the current in the direction $O R$, then",
+            "font_size": 27,
+            "confidence": 0.994140625
+          },
+          {
+            "page": 447,
+            "line_number": 11,
+            "type": "text",
+            "content": "the quantity which leaves the tetrahedron in unit time through",
+            "mathpix_content": " the quantity which leaves the tetrahedron in unit time through",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 12,
+            "type": "text",
+            "content": "$A B C$ is",
+            "mathpix_content": " $A B C$ is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 15,
+            "type": "text",
+            "content": "Since this is equal to the quantity which enters through the",
+            "mathpix_content": "\n\nSince this is equal to the quantity which enters through the",
+            "font_size": 27,
+            "confidence": 0.94970703125
+          },
+          {
+            "page": 447,
+            "line_number": 16,
+            "type": "text",
+            "content": "three other triangles,",
+            "mathpix_content": " three other triangles,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 19,
+            "type": "text",
+            "content": "multiplying by $\\frac{2 l m n}{r^{2}}$, we get",
+            "mathpix_content": "\nmultiplying by $\\frac{2 l m n}{r^{2}}$, we get",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 23,
+            "type": "text",
+            "content": "If we put",
+            "mathpix_content": "\n\nIf we put",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 26,
+            "type": "text",
+            "content": "and make $l^{\\prime}, m^{\\prime}, n^{\\prime}$ such that",
+            "mathpix_content": "\nand make $l^{\\prime}, m^{\\prime}, n^{\\prime}$ such that",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 29,
+            "type": "text",
+            "content": "then",
+            "mathpix_content": "\nthen",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 33,
+            "type": "text",
+            "content": "Hence, if we define the resultant current as a vector whose",
+            "mathpix_content": "\n\nHence, if we define the resultant current as a vector whose",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 34,
+            "type": "text",
+            "content": "magnitude is $\\Gamma$, and whose direction-cosines are $l^{\\prime}, m^{\\prime}, n^{\\prime}$, and if",
+            "mathpix_content": " magnitude is $\\Gamma$, and whose direction-cosines are $l^{\\prime}, m^{\\prime}, n^{\\prime}$, and if",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 35,
+            "type": "text",
+            "content": "$\\gamma$ denotes the current resolved in a direction making an angle $\\theta$",
+            "mathpix_content": " $\\gamma$ denotes the current resolved in a direction making an angle $\\theta$",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 447,
+            "line_number": 36,
+            "type": "text",
+            "content": "with that of the resultant current, then",
+            "mathpix_content": " with that of the resultant current, then",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 40,
+            "type": "text",
+            "content": "shewing that the law of resolution of currents is the same as",
+            "mathpix_content": "\nshewing that the law of resolution of currents is the same as",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 41,
+            "type": "text",
+            "content": "that of velocities, forces, and all other vectors.",
+            "mathpix_content": " that of velocities, forces, and all other vectors.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 42,
+            "type": "text",
+            "content": "287.] To determine the condition that a given surface may be",
+            "mathpix_content": "\n287.] To determine the condition that a given surface may be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 43,
+            "type": "text",
+            "content": "a surface of flow, let",
+            "mathpix_content": " a surface of flow, let",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 47,
+            "type": "text",
+            "content": "be the equation of a family of surfaces any one of which is given",
+            "mathpix_content": "\nbe the equation of a family of surfaces any one of which is given",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 48,
+            "type": "text",
+            "content": "by making $\\lambda$ constant; then, if we make",
+            "mathpix_content": " by making $\\lambda$ constant; then, if we make",
+            "font_size": 27,
+            "confidence": 0.99365234375
+          },
+          {
+            "page": 447,
+            "line_number": 52,
+            "type": "text",
+            "content": "the direction-cosines of the normal, reckoned in the direction in",
+            "mathpix_content": "\nthe direction-cosines of the normal, reckoned in the direction in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 447,
+            "line_number": 53,
+            "type": "text",
+            "content": "which $\\lambda$ increases, are",
+            "mathpix_content": " which $\\lambda$ increases, are",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

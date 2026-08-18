@@ -1,0 +1,345 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{2} \\Sigma\\left[e\\left(V-V^{\\prime}\\right)\\right] .$$",
+  "title_safe": "2 SigmalefteleftV-Vprimerightright",
+  "page_start": 153,
+  "page_end": 153,
+  "content": {
+    "raw_text": "\n--- Page 153 ---\n118\nSYSTEM OF CONDUCTORS.\n[93 $a$.\nIf $A_{3}$ is of an elongated form it is easy to see that if it is placed\nwith its longest axis in the direction of the tangent to the circle\ndrawn through the points $A_{1}, A_{3}, A_{2}$ it may increase the\npotential of $A_{2}$, even when it is entirely outside the sphere, and\nthat if it is placed with its longest axis in the direction of the\nradius of the sphere, it may diminish the potential of $A_{2}$ even\nwhen entirely within the sphere. But this proposition is only\nintended for forming a rough estimate of the phenomena to be\nexpected in a given arrangement of apparatus.\n92.] If a new conductor, $A_{3}$, is introduced into the field, the\ncapacities of all the conductors already there are increased, and\nthe numerical values of the coefficients of induction between\nevery pair of them are diminished.\nLet us suppose that $A_{1}$ is at potential unity and all the rest at\npotential zero. Since the charge of the new conductor is negative\nit will induce a positive charge on every other conductor, and\nwill therefore increase the positive charge of $A_{1}$ and diminish\nthe negative charge of each of the other conductors.\n$93 a$.] Work done by the electric forces during the displacement\nof a system of insulated charged condutors.\nSince the conductors are insulated, their charges remain\nconstant during the displacement. Let their potentials be $V_{1}$,\n$V_{2}, \\ldots V_{n}$ before and $V_{1}^{\\prime}, V_{2}^{\\prime}, \\ldots V_{n}^{\\prime}$ after the displacement. The\nelectric energy is\n$$W=\\frac{1}{2} \\Sigma(e V)$$\nbefore the displacement, and\n$$W^{\\prime}=\\frac{1}{2} \\Sigma\\left(e V^{\\prime}\\right)$$\nafter the displacement.\nThe work done by the electric forces during the displacement is\nthe excess of the initial energy $W$ over the final energy $W^{\\prime}$, or\n$$W-W^{\\prime}=\\frac{1}{2} \\Sigma\\left[e\\left(V-V^{\\prime}\\right)\\right] .$$\nThis expression gives the work done during any displacement,\nsmall or large, of an insulated system.\nTo find the force tending to produce a particular kind of dis-\nplacement, let $\\phi$ be the variable whose variation corresponds to\nthe kind of displacement, and let $\\Phi$ be the corresponding force,\nreckoned positive when the electric force tends to increase $\\phi$,\nthen\n$$\\Phi d \\phi=-d W_{e},$$\nor\n$$\\Phi=-\\frac{d W_{e}}{d \\phi} ;$$\n",
+    "mathpix_markdown": "\n--- Page 153 ---\n\n\nIf $A_{3}$ is of an elongated form it is easy to see that if it is placed\n with its longest axis in the direction of the tangent to the circle\n drawn through the points $A_{1}, A_{3}, A_{2}$ it may increase the\n potential of $A_{2}$, even when it is entirely outside the sphere, and\n that if it is placed with its longest axis in the direction of the\n radius of the sphere, it may diminish the potential of $A_{2}$ even\n when entirely within the sphere. But this proposition is only\n intended for forming a rough estimate of the phenomena to be\n expected in a given arrangement of apparatus.\n\n92.] If a new conductor, $A_{3}$, is introduced into the field, the\n capacities of all the conductors already there are increased, and\n the numerical values of the coefficients of induction between\n every pair of them are diminished.\n\n\nLet us suppose that $A_{1}$ is at potential unity and all the rest at\n potential zero. Since the charge of the new conductor is negative\n it will induce a positive charge on every other conductor, and\n will therefore increase the positive charge of $A_{1}$ and diminish\n the negative charge of each of the other conductors.\n\n$93 a$.] Work done by the electric forces during the displacement\n of a system of insulated charged condutors.\n\nSince the conductors are insulated, their charges remain\n constant during the displacement. Let their potentials be $V_{1}$,\n $V_{2}, \\ldots V_{n}$ before and $V_{1}^{\\prime}, V_{2}^{\\prime}, \\ldots V_{n}^{\\prime}$ after the displacement. The\n electric energy is\n\n$$W=\\frac{1}{2} \\Sigma(e V)$$\n\nbefore the displacement, and\n\n$$W^{\\prime}=\\frac{1}{2} \\Sigma\\left(e V^{\\prime}\\right)$$\n\nafter the displacement.\n\nThe work done by the electric forces during the displacement is\n the excess of the initial energy $W$ over the final energy $W^{\\prime}$, or\n\n$$W-W^{\\prime}=\\frac{1}{2} \\Sigma\\left[e\\left(V-V^{\\prime}\\right)\\right] .$$\n\n\nThis expression gives the work done during any displacement,\n small or large, of an insulated system.\n\n\nTo find the force tending to produce a particular kind of dis\nplacement, let $\\phi$ be the variable whose variation corresponds to\n the kind of displacement, and let $\\Phi$ be the corresponding force,\n reckoned positive when the electric force tends to increase $\\phi$,\n then\n\n$$\\Phi d \\phi=-d W_{e},$$\n\nor\n\n$$\\Phi=-\\frac{d W_{e}}{d \\phi} ;$$\n",
+    "structured_lines": [
+      {
+        "page": 153,
+        "line_number": 4,
+        "type": "text",
+        "content": "If $A_{3}$ is of an elongated form it is easy to see that if it is placed",
+        "mathpix_content": "\n\nIf $A_{3}$ is of an elongated form it is easy to see that if it is placed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 5,
+        "type": "text",
+        "content": "with its longest axis in the direction of the tangent to the circle",
+        "mathpix_content": " with its longest axis in the direction of the tangent to the circle",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 6,
+        "type": "text",
+        "content": "drawn through the points $A_{1}, A_{3}, A_{2}$ it may increase the",
+        "mathpix_content": " drawn through the points $A_{1}, A_{3}, A_{2}$ it may increase the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 7,
+        "type": "text",
+        "content": "potential of $A_{2}$, even when it is entirely outside the sphere, and",
+        "mathpix_content": " potential of $A_{2}$, even when it is entirely outside the sphere, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 8,
+        "type": "text",
+        "content": "that if it is placed with its longest axis in the direction of the",
+        "mathpix_content": " that if it is placed with its longest axis in the direction of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 9,
+        "type": "text",
+        "content": "radius of the sphere, it may diminish the potential of $A_{2}$ even",
+        "mathpix_content": " radius of the sphere, it may diminish the potential of $A_{2}$ even",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 10,
+        "type": "text",
+        "content": "when entirely within the sphere. But this proposition is only",
+        "mathpix_content": " when entirely within the sphere. But this proposition is only",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 11,
+        "type": "text",
+        "content": "intended for forming a rough estimate of the phenomena to be",
+        "mathpix_content": " intended for forming a rough estimate of the phenomena to be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 12,
+        "type": "text",
+        "content": "expected in a given arrangement of apparatus.",
+        "mathpix_content": " expected in a given arrangement of apparatus.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 13,
+        "type": "text",
+        "content": "92.] If a new conductor, $A_{3}$, is introduced into the field, the",
+        "mathpix_content": "\n92.] If a new conductor, $A_{3}$, is introduced into the field, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 14,
+        "type": "text",
+        "content": "capacities of all the conductors already there are increased, and",
+        "mathpix_content": " capacities of all the conductors already there are increased, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 15,
+        "type": "text",
+        "content": "the numerical values of the coefficients of induction between",
+        "mathpix_content": " the numerical values of the coefficients of induction between",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 16,
+        "type": "text",
+        "content": "every pair of them are diminished.",
+        "mathpix_content": " every pair of them are diminished.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 17,
+        "type": "text",
+        "content": "Let us suppose that $A_{1}$ is at potential unity and all the rest at",
+        "mathpix_content": "\n\nLet us suppose that $A_{1}$ is at potential unity and all the rest at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 18,
+        "type": "text",
+        "content": "potential zero. Since the charge of the new conductor is negative",
+        "mathpix_content": " potential zero. Since the charge of the new conductor is negative",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 19,
+        "type": "text",
+        "content": "it will induce a positive charge on every other conductor, and",
+        "mathpix_content": " it will induce a positive charge on every other conductor, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 20,
+        "type": "text",
+        "content": "will therefore increase the positive charge of $A_{1}$ and diminish",
+        "mathpix_content": " will therefore increase the positive charge of $A_{1}$ and diminish",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 21,
+        "type": "text",
+        "content": "the negative charge of each of the other conductors.",
+        "mathpix_content": " the negative charge of each of the other conductors.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 22,
+        "type": "text",
+        "content": "$93 a$.] Work done by the electric forces during the displacement",
+        "mathpix_content": "\n$93 a$.] Work done by the electric forces during the displacement",
+        "font_size": 27,
+        "confidence": 0.6139578819274902
+      },
+      {
+        "page": 153,
+        "line_number": 23,
+        "type": "text",
+        "content": "of a system of insulated charged condutors.",
+        "mathpix_content": " of a system of insulated charged condutors.",
+        "font_size": 27,
+        "confidence": 0.36208438873291016
+      },
+      {
+        "page": 153,
+        "line_number": 24,
+        "type": "text",
+        "content": "Since the conductors are insulated, their charges remain",
+        "mathpix_content": "\nSince the conductors are insulated, their charges remain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 25,
+        "type": "text",
+        "content": "constant during the displacement. Let their potentials be $V_{1}$,",
+        "mathpix_content": " constant during the displacement. Let their potentials be $V_{1}$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 26,
+        "type": "text",
+        "content": "$V_{2}, \\ldots V_{n}$ before and $V_{1}^{\\prime}, V_{2}^{\\prime}, \\ldots V_{n}^{\\prime}$ after the displacement. The",
+        "mathpix_content": " $V_{2}, \\ldots V_{n}$ before and $V_{1}^{\\prime}, V_{2}^{\\prime}, \\ldots V_{n}^{\\prime}$ after the displacement. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 27,
+        "type": "text",
+        "content": "electric energy is",
+        "mathpix_content": " electric energy is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 30,
+        "type": "text",
+        "content": "before the displacement, and",
+        "mathpix_content": "\nbefore the displacement, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 33,
+        "type": "text",
+        "content": "after the displacement.",
+        "mathpix_content": "\nafter the displacement.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 34,
+        "type": "text",
+        "content": "The work done by the electric forces during the displacement is",
+        "mathpix_content": "\nThe work done by the electric forces during the displacement is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 35,
+        "type": "text",
+        "content": "the excess of the initial energy $W$ over the final energy $W^{\\prime}$, or",
+        "mathpix_content": " the excess of the initial energy $W$ over the final energy $W^{\\prime}$, or",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 153,
+        "line_number": 38,
+        "type": "text",
+        "content": "This expression gives the work done during any displacement,",
+        "mathpix_content": "\n\nThis expression gives the work done during any displacement,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 39,
+        "type": "text",
+        "content": "small or large, of an insulated system.",
+        "mathpix_content": " small or large, of an insulated system.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 40,
+        "type": "text",
+        "content": "To find the force tending to produce a particular kind of dis-",
+        "mathpix_content": "\n\nTo find the force tending to produce a particular kind of dis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 41,
+        "type": "text",
+        "content": "placement, let $\\phi$ be the variable whose variation corresponds to",
+        "mathpix_content": "placement, let $\\phi$ be the variable whose variation corresponds to",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 153,
+        "line_number": 42,
+        "type": "text",
+        "content": "the kind of displacement, and let $\\Phi$ be the corresponding force,",
+        "mathpix_content": " the kind of displacement, and let $\\Phi$ be the corresponding force,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 153,
+        "line_number": 43,
+        "type": "text",
+        "content": "reckoned positive when the electric force tends to increase $\\phi$,",
+        "mathpix_content": " reckoned positive when the electric force tends to increase $\\phi$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 44,
+        "type": "text",
+        "content": "then",
+        "mathpix_content": " then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 153,
+        "line_number": 47,
+        "type": "text",
+        "content": "or",
+        "mathpix_content": "\nor",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

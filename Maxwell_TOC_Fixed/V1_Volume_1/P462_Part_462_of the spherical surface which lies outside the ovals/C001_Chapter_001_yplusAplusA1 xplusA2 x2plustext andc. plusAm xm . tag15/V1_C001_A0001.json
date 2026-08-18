@@ -1,0 +1,138 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{y}+A+A_{1} x+A_{2} x^{2}+\\text { \\&c. }+A_{m} x^{m} . \\tag{15}",
+  "title_safe": "yplusAplusA1 xplusA2 x2plustext andc. plusAm xm . tag15",
+  "page_start": 261,
+  "page_end": 261,
+  "content": {
+    "raw_text": "\n--- Page 261 ---\n226\nSPHERICAL HARMONICS.\n[146.\nSimilarly, if the potential of the second sphere is $\\beta$, for points\nwithin that sphere,\n$$U+V^{\\prime}=\\beta .$$\n(8)\nFor points outside both spheres the potential is $\\Psi$, where\n$$U+V=\\Psi .$$\n(9)\nOn the axis, between the centres of the spheres,\n$$r+8=c .$$\n(10)\nHence, differentiating with respect to $r$, and after differentiation\nmaking $r=0$, and remembering that at the pole each of the\nzonal harmonics is unity, we find\n$$\\left.\\begin{array}{l}\nA_{1} \\frac{1}{a^{2}}-\\frac{d V}{d s}=0, \\\\\nA_{2} \\frac{2!}{a^{3}}+\\frac{d^{2} V}{d s^{2}}=0, \\\\\nA_{m} \\frac{m!}{a^{m+1}}+(-1)^{m} \\frac{d^{m} V}{d s^{m}}=0,\n\\end{array}\\right\\}$$\n(11)\nwhere, after differentiation, $s$ is to be made equal to $c$.\nIf we perform the differentiations, and write $\\alpha / c=x$ and\n$b / c=y$, these equations become\n$$\\left.\\begin{array}{r}\n0=A_{1}+B x^{2}+2 B_{1} x^{2} y+3 B_{2} x^{2} y^{2}+\\text { \\&c. }+(n+1) B_{n} x^{2} y^{n} \\\\\n0=A_{2}+B x^{3}+3 B_{1} x^{3} y+6 B_{2} x^{3} y^{2}+\\text { \\&c. }+\\frac{1}{2}(n+1)(n+2) B_{n} x^{3} y^{n} \\\\\n0=A_{m}+B x^{m+1}+(m+1) B_{1} x^{m+1} y+\\frac{1}{2}(m+1)(m+2) B_{2} x^{m+1} y^{2} \\\\\n+ \\text { \\&c. }+\\frac{(m+n)!}{m!n!} B_{n} x^{m+1} y^{n}\n\\end{array}\\right\\}$$\n(12)\nBy the corresponding operations for the second sphere we find,\n$$\\begin{array}{r}\n0=B_{1}+A y^{2}+2 A_{1} x y^{2}+3 A_{2} x^{2} y^{2}+\\text { \\&c. }+(m+1) A_{m} x^{m} y^{2}, \\\\\n0=B_{2}+A y^{3}+3 A_{1} x y^{3}+6 A_{2} x^{2} y^{3}+\\text { \\&c. }+\\frac{1}{2}(m+1)(m+2) A_{m} x^{m} y^{3}, \\\\\n\\left.\\begin{array}{r}\n0=B_{n}+A y^{n+1}+(n+1) A_{1} x y^{n+1}+\\frac{1}{2}(n+1)(n+2) A_{2} x^{2} y^{n+1}+\\text { \\&c. } \\\\\n+\\frac{(m+n)!}{m!n!} A_{m} x^{m} y^{n+1}\n\\end{array}\\right\\}\n\\end{array}$$\n(13)\nTo determine the potentials, $a$ and $\\beta$, of the two spheres we\nhave the equations (7) and (8), which we may now write\n$$\\begin{aligned}\n& c a=A \\frac{1}{x}+B+B_{1} y+B_{2} y^{2}+\\text { \\&c. }+B_{n} y^{n} \\\\\n& c \\beta=B \\frac{1}{y}+A+A_{1} x+A_{2} x^{2}+\\text { \\&c. }+A_{m} x^{m} .\n\\end{aligned}$$\n(14)\n(15)\n",
+    "mathpix_markdown": "\n--- Page 261 ---\n\n\nSimilarly, if the potential of the second sphere is $\\beta$, for points\n within that sphere,\n\n$$\\begin{equation*}\nU+V^{\\prime}=\\beta . \\tag{8}\n\\end{equation*}$$\n\n\nFor points outside both spheres the potential is $\\Psi$, where\n\n$$\\begin{equation*}\nU+V=\\Psi . \\tag{9}\n\\end{equation*}$$\n\n\nOn the axis, between the centres of the spheres,\n\n$$\\begin{equation*}\nr+8=c . \\tag{10}\n\\end{equation*}$$\n\n\nHence, differentiating with respect to $r$, and after differentiation\n making $r=0$, and remembering that at the pole each of the\n zonal harmonics is unity, we find\n\n$$\\left.\\begin{array}{l}\nA_{1} \\frac{1}{a^{2}}-\\frac{d V}{d s}=0,  \\tag{11}\\\\\nA_{2} \\frac{2!}{a^{3}}+\\frac{d^{2} V}{d s^{2}}=0, \\\\\nA_{m} \\frac{m!}{a^{m+1}}+(-1)^{m} \\frac{d^{m} V}{d s^{m}}=0,\n\\end{array}\\right\\}$$\n\nwhere, after differentiation, $s$ is to be made equal to $c$.\n\nIf we perform the differentiations, and write $\\alpha / c=x$ and\n $b / c=y$, these equations become\n\n$$\\left.\\begin{array}{r}\n0=A_{1}+B x^{2}+2 B_{1} x^{2} y+3 B_{2} x^{2} y^{2}+\\text { \\&c. }+(n+1) B_{n} x^{2} y^{n}  \\tag{12}\\\\\n0=A_{2}+B x^{3}+3 B_{1} x^{3} y+6 B_{2} x^{3} y^{2}+\\text { \\&c. }+\\frac{1}{2}(n+1)(n+2) B_{n} x^{3} y^{n} \\\\\n0=A_{m}+B x^{m+1}+(m+1) B_{1} x^{m+1} y+\\frac{1}{2}(m+1)(m+2) B_{2} x^{m+1} y^{2} \\\\\n+ \\text { \\&c. }+\\frac{(m+n)!}{m!n!} B_{n} x^{m+1} y^{n}\n\\end{array}\\right\\}$$\n\n\nBy the corresponding operations for the second sphere we find,\n\n$$\\begin{array}{r}\n0=B_{1}+A y^{2}+2 A_{1} x y^{2}+3 A_{2} x^{2} y^{2}+\\text { \\&c. }+(m+1) A_{m} x^{m} y^{2},  \\tag{13}\\\\\n0=B_{2}+A y^{3}+3 A_{1} x y^{3}+6 A_{2} x^{2} y^{3}+\\text { \\&c. }+\\frac{1}{2}(m+1)(m+2) A_{m} x^{m} y^{3}, \\\\\n\\left.\\begin{array}{r}\n0=B_{n}+A y^{n+1}+(n+1) A_{1} x y^{n+1}+\\frac{1}{2}(n+1)(n+2) A_{2} x^{2} y^{n+1}+\\text { \\&c. } \\\\\n+\\frac{(m+n)!}{m!n!} A_{m} x^{m} y^{n+1}\n\\end{array}\\right\\}\n\\end{array}$$\n\n\nTo determine the potentials, $a$ and $\\beta$, of the two spheres we\n have the equations (7) and (8), which we may now write\n\n$$\\begin{align*}\n& c a=A \\frac{1}{x}+B+B_{1} y+B_{2} y^{2}+\\text { \\&c. }+B_{n} y^{n}  \\tag{14}\\\\\n& c \\beta=B \\frac{1}{y}+A+A_{1} x+A_{2} x^{2}+\\text { \\&c. }+A_{m} x^{m} . \\tag{15}\n\\end{align*}$$\n",
+    "structured_lines": [
+      {
+        "page": 261,
+        "line_number": 4,
+        "type": "text",
+        "content": "Similarly, if the potential of the second sphere is $\\beta$, for points",
+        "mathpix_content": "\n\nSimilarly, if the potential of the second sphere is $\\beta$, for points",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 261,
+        "line_number": 5,
+        "type": "text",
+        "content": "within that sphere,",
+        "mathpix_content": " within that sphere,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 261,
+        "line_number": 9,
+        "type": "text",
+        "content": "For points outside both spheres the potential is $\\Psi$, where",
+        "mathpix_content": "\n\nFor points outside both spheres the potential is $\\Psi$, where",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 261,
+        "line_number": 13,
+        "type": "text",
+        "content": "On the axis, between the centres of the spheres,",
+        "mathpix_content": "\n\nOn the axis, between the centres of the spheres,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 261,
+        "line_number": 17,
+        "type": "text",
+        "content": "Hence, differentiating with respect to $r$, and after differentiation",
+        "mathpix_content": "\n\nHence, differentiating with respect to $r$, and after differentiation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 261,
+        "line_number": 18,
+        "type": "text",
+        "content": "making $r=0$, and remembering that at the pole each of the",
+        "mathpix_content": " making $r=0$, and remembering that at the pole each of the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 261,
+        "line_number": 19,
+        "type": "text",
+        "content": "zonal harmonics is unity, we find",
+        "mathpix_content": " zonal harmonics is unity, we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 261,
+        "line_number": 23,
+        "type": "text",
+        "content": "where, after differentiation, $s$ is to be made equal to $c$.",
+        "mathpix_content": "\nwhere, after differentiation, $s$ is to be made equal to $c$.",
+        "font_size": 27,
+        "confidence": 0.4304537773132324
+      },
+      {
+        "page": 261,
+        "line_number": 24,
+        "type": "text",
+        "content": "If we perform the differentiations, and write $\\alpha / c=x$ and",
+        "mathpix_content": "\nIf we perform the differentiations, and write $\\alpha / c=x$ and",
+        "font_size": 27,
+        "confidence": 0.5617372989654541
+      },
+      {
+        "page": 261,
+        "line_number": 25,
+        "type": "text",
+        "content": "$b / c=y$, these equations become",
+        "mathpix_content": " $b / c=y$, these equations become",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 261,
+        "line_number": 29,
+        "type": "text",
+        "content": "By the corresponding operations for the second sphere we find,",
+        "mathpix_content": "\n\nBy the corresponding operations for the second sphere we find,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 261,
+        "line_number": 33,
+        "type": "text",
+        "content": "To determine the potentials, $a$ and $\\beta$, of the two spheres we",
+        "mathpix_content": "\n\nTo determine the potentials, $a$ and $\\beta$, of the two spheres we",
+        "font_size": 27,
+        "confidence": 0.9912109375
+      },
+      {
+        "page": 261,
+        "line_number": 34,
+        "type": "text",
+        "content": "have the equations (7) and (8), which we may now write",
+        "mathpix_content": " have the equations (7) and (8), which we may now write",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

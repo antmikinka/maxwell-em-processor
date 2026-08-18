@@ -1,0 +1,273 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "\\pi \\sigma .$$",
+  "title_safe": "pi sigma",
+  "page_start": 177,
+  "page_end": 177,
+  "content": {
+    "raw_text": "\n--- Page 177 ---\n142\nGENERAL THEOREMS.\n[101 $a$.\nFor if, as before\n$$f+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d x}=u, \\quad g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}=v, \\quad h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z}=w$$\nthen $u, v, w$ will satisfy the general solenoidal condition\n$$\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}=0,$$\nand the surface condition\n$$l u+m v+n w+l^{\\prime} u^{\\prime}+m^{\\prime} v^{\\prime}+n^{\\prime} w^{\\prime}=0$$\nand at the bounding surface\n$$l u+m v+n w=0$$\nwhence we find as before that\nand that\n$$M=\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0$$\nHence as before it is shewn that $W_{\\mathfrak{D}}$ is a unique minimum\nwhen $W_{\\epsilon}=0$, which implies that $u^{2}+v^{2}+w^{2}$ is every where zero,\nand therefore\n$$f=-\\frac{1}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad g=-\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad h=-\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z}$$\n101a.] In our statement of these theorems we have hitherto\nconfined ourselves to that theory of electricity which assumes\nthat the properties of an electric system depend on the form and\nrelative position of the conductors, and on their charges, but\ntakes no account of the nature of the dielectric medium between\nthe conductors.\nAccording to that theory, for example, there is an invariable\nrelation between the surface density of a conductor and the\nelectromotive intensity just outside it, as expressed in the law\nof Coulomb\n$$R=4 \\pi \\sigma .$$\nBut this is true only in the standard medium, which we may\ntake to be air. In other media the relation is different, as was\nproved experimentally, though not published, by Cavendish, and\nafterwards rediscovered independently by Faraday.\nIn order to express the phenomenon completely, we find it\nnecessary to consider two vector quantities, the relation between\nwhich is different in different media. One of these is the electro-\nmotive intensity, the other is the electric displacement. The\nelectromotive intensity is connected by equations of invariable\n",
+    "mathpix_markdown": "\n--- Page 177 ---\n\n\nFor if, as before\n\n$$f+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d x}=u, \\quad g+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}=v, \\quad h+\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z}=w$$\n\nthen $u, v, w$ will satisfy the general solenoidal condition\n\n$$\\frac{d u}{d x}+\\frac{d v}{d y}+\\frac{d w}{d z}=0,$$\n\nand the surface condition\n\n$$l u+m v+n w+l^{\\prime} u^{\\prime}+m^{\\prime} v^{\\prime}+n^{\\prime} w^{\\prime}=0$$\n\nand at the bounding surface\n\n$$l u+m v+n w=0$$\n\nwhence we find as before that\n\nand that\n\n$$M=\\iiint\\left(u \\frac{d \\Psi}{d x}+v \\frac{d \\Psi}{d y}+w \\frac{d \\Psi}{d z}\\right) d x d y d z=0$$\n\n\nHence as before it is shewn that $W_{\\mathfrak{D}}$ is a unique minimum\n when $W_{\\epsilon}=0$, which implies that $u^{2}+v^{2}+w^{2}$ is every where zero,\n and therefore\n\n$$f=-\\frac{1}{4 \\pi} \\frac{d \\Psi}{d x}, \\quad g=-\\frac{1}{4 \\pi} \\frac{d \\Psi}{d y}, \\quad h=-\\frac{1}{4 \\pi} \\frac{d \\Psi}{d z}$$\n\n\n101a.] In our statement of these theorems we have hitherto\n confined ourselves to that theory of electricity which assumes\n that the properties of an electric system depend on the form and\n relative position of the conductors, and on their charges, but\n takes no account of the nature of the dielectric medium between\n the conductors.\n\n\nAccording to that theory, for example, there is an invariable\n relation between the surface density of a conductor and the\n electromotive intensity just outside it, as expressed in the law\n of Coulomb\n\n$$R=4 \\pi \\sigma .$$\n\n\nBut this is true only in the standard medium, which we may\n take to be air. In other media the relation is different, as was\n proved experimentally, though not published, by Cavendish, and\n afterwards rediscovered independently by Faraday.\n\n\nIn order to express the phenomenon completely, we find it\n necessary to consider two vector quantities, the relation between\n which is different in different media. One of these is the electro\nmotive intensity, the other is the electric displacement. The\n electromotive intensity is connected by equations of invariable\n",
+    "structured_lines": [
+      {
+        "page": 177,
+        "line_number": 4,
+        "type": "text",
+        "content": "For if, as before",
+        "mathpix_content": "\n\nFor if, as before",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 7,
+        "type": "text",
+        "content": "then $u, v, w$ will satisfy the general solenoidal condition",
+        "mathpix_content": "\nthen $u, v, w$ will satisfy the general solenoidal condition",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 10,
+        "type": "text",
+        "content": "and the surface condition",
+        "mathpix_content": "\nand the surface condition",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 13,
+        "type": "text",
+        "content": "and at the bounding surface",
+        "mathpix_content": "\nand at the bounding surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 16,
+        "type": "text",
+        "content": "whence we find as before that",
+        "mathpix_content": "\nwhence we find as before that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 17,
+        "type": "text",
+        "content": "and that",
+        "mathpix_content": "\nand that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 20,
+        "type": "text",
+        "content": "Hence as before it is shewn that $W_{\\mathfrak{D}}$ is a unique minimum",
+        "mathpix_content": "\n\nHence as before it is shewn that $W_{\\mathfrak{D}}$ is a unique minimum",
+        "font_size": 27,
+        "confidence": 0.86572265625
+      },
+      {
+        "page": 177,
+        "line_number": 21,
+        "type": "text",
+        "content": "when $W_{\\epsilon}=0$, which implies that $u^{2}+v^{2}+w^{2}$ is every where zero,",
+        "mathpix_content": " when $W_{\\epsilon}=0$, which implies that $u^{2}+v^{2}+w^{2}$ is every where zero,",
+        "font_size": 27,
+        "confidence": 0.5040039250161499
+      },
+      {
+        "page": 177,
+        "line_number": 22,
+        "type": "text",
+        "content": "and therefore",
+        "mathpix_content": " and therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 25,
+        "type": "text",
+        "content": "101a.] In our statement of these theorems we have hitherto",
+        "mathpix_content": "\n\n101a.] In our statement of these theorems we have hitherto",
+        "font_size": 27,
+        "confidence": 0.9629085063934326
+      },
+      {
+        "page": 177,
+        "line_number": 26,
+        "type": "text",
+        "content": "confined ourselves to that theory of electricity which assumes",
+        "mathpix_content": " confined ourselves to that theory of electricity which assumes",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 27,
+        "type": "text",
+        "content": "that the properties of an electric system depend on the form and",
+        "mathpix_content": " that the properties of an electric system depend on the form and",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 177,
+        "line_number": 28,
+        "type": "text",
+        "content": "relative position of the conductors, and on their charges, but",
+        "mathpix_content": " relative position of the conductors, and on their charges, but",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 29,
+        "type": "text",
+        "content": "takes no account of the nature of the dielectric medium between",
+        "mathpix_content": " takes no account of the nature of the dielectric medium between",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 30,
+        "type": "text",
+        "content": "the conductors.",
+        "mathpix_content": " the conductors.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 31,
+        "type": "text",
+        "content": "According to that theory, for example, there is an invariable",
+        "mathpix_content": "\n\nAccording to that theory, for example, there is an invariable",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 32,
+        "type": "text",
+        "content": "relation between the surface density of a conductor and the",
+        "mathpix_content": " relation between the surface density of a conductor and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 33,
+        "type": "text",
+        "content": "electromotive intensity just outside it, as expressed in the law",
+        "mathpix_content": " electromotive intensity just outside it, as expressed in the law",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 34,
+        "type": "text",
+        "content": "of Coulomb",
+        "mathpix_content": " of Coulomb",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 37,
+        "type": "text",
+        "content": "But this is true only in the standard medium, which we may",
+        "mathpix_content": "\n\nBut this is true only in the standard medium, which we may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 38,
+        "type": "text",
+        "content": "take to be air. In other media the relation is different, as was",
+        "mathpix_content": " take to be air. In other media the relation is different, as was",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 39,
+        "type": "text",
+        "content": "proved experimentally, though not published, by Cavendish, and",
+        "mathpix_content": " proved experimentally, though not published, by Cavendish, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 40,
+        "type": "text",
+        "content": "afterwards rediscovered independently by Faraday.",
+        "mathpix_content": " afterwards rediscovered independently by Faraday.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 41,
+        "type": "text",
+        "content": "In order to express the phenomenon completely, we find it",
+        "mathpix_content": "\n\nIn order to express the phenomenon completely, we find it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 42,
+        "type": "text",
+        "content": "necessary to consider two vector quantities, the relation between",
+        "mathpix_content": " necessary to consider two vector quantities, the relation between",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 43,
+        "type": "text",
+        "content": "which is different in different media. One of these is the electro-",
+        "mathpix_content": " which is different in different media. One of these is the electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 44,
+        "type": "text",
+        "content": "motive intensity, the other is the electric displacement. The",
+        "mathpix_content": "motive intensity, the other is the electric displacement. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 177,
+        "line_number": 45,
+        "type": "text",
+        "content": "electromotive intensity is connected by equations of invariable",
+        "mathpix_content": " electromotive intensity is connected by equations of invariable",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

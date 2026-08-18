@@ -1,0 +1,111 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "/ p$, and there",
+  "title_safe": "SLASH p and there",
+  "page_start": 278,
+  "page_end": 278,
+  "content": {
+    "raw_text": "\n--- Page 278 ---\n154.]\nCYLINDERS AND PARABOLOIDS.\n243\nWhen $b=c$, we may take\n$$\\begin{aligned}\n& \\alpha=-\\int_{0}^{\\lambda} \\frac{d \\lambda}{b-\\lambda} \\\\\n& \\gamma=\\int_{2 b}^{\\nu} \\frac{d \\nu}{\\nu-b} \\\\\n& \\lambda=\\left\\{b 1-e^{\\alpha}\\right\\} \\\\\n& \\nu=b\\left\\{1+e^{\\gamma}\\right\\}\n\\end{aligned}$$\nFrom (51)\n$$\\begin{aligned}\n& (\\mu-b)=\\frac{1}{2}(c-b)\\{1-\\cos \\beta\\}, \\\\\n& (c-\\mu)=\\frac{1}{2}(c-b)\\{1+\\cos \\beta\\} ;\n\\end{aligned}$$\nhence from (50),\n$$\\begin{aligned}\nx & =b+b\\left(e^{\\gamma}-e^{a}\\right), \\\\\ny^{2} & =4 b^{2} e^{\\gamma+a} \\sin ^{2} \\frac{\\beta}{2}, \\\\\nz^{2} & =4 b^{2} e^{\\gamma+a} \\cos ^{2} \\frac{\\beta}{2} .\n\\end{aligned}$$\nIf we take the origin at the focus $x=b$, and write $2 \\beta^{\\prime}$ for $\\beta, a e^{2 \\gamma^{\\prime}}$ for $b \\epsilon \\gamma, a \\epsilon^{2 \\beta}$\nfor $b \\epsilon^{a}$, we get\n$$\\begin{aligned}\n& x=e^{2 \\gamma^{\\prime}}-e 2^{a^{\\prime}}, \\\\\n& y=2 a e^{a^{\\prime}+\\gamma^{\\prime}} \\sin \\beta^{\\prime} \\\\\n& z=2 a \\epsilon^{a^{\\prime}+\\gamma^{\\prime}} \\cos \\beta^{\\prime} .\n\\end{aligned}$$\nFrom which equations of the form (54) may easily be deduced.\nSince from these equations the force along the radius varies as $1 / r$, the normal force,\nand therefore the surface-density, will vary as $\\frac{1}{r} \\cdot \\frac{r}{p}$ where $p$ is the perpendicular\nfrom the focus on the tangent plane, thus the surface-density varies as $1 / p$, and there-\nfore inversely as the square root of $r$. \\}\n",
+    "mathpix_markdown": "\n--- Page 278 ---\n\n\nWhen $b=c$, we may take\n\n$$\\begin{aligned}\n& \\alpha=-\\int_{0}^{\\lambda} \\frac{d \\lambda}{b-\\lambda} \\\\\n& \\gamma=\\int_{2 b}^{\\nu} \\frac{d \\nu}{\\nu-b} \\\\\n& \\lambda=\\left\\{b 1-e^{\\alpha}\\right\\} \\\\\n& \\nu=b\\left\\{1+e^{\\gamma}\\right\\}\n\\end{aligned}$$\n\n\nFrom (51)\n\n$$\\begin{aligned}\n& (\\mu-b)=\\frac{1}{2}(c-b)\\{1-\\cos \\beta\\}, \\\\\n& (c-\\mu)=\\frac{1}{2}(c-b)\\{1+\\cos \\beta\\} ;\n\\end{aligned}$$\n\nhence from (50),\n\n$$\\begin{aligned}\nx & =b+b\\left(e^{\\gamma}-e^{a}\\right), \\\\\ny^{2} & =4 b^{2} e^{\\gamma+a} \\sin ^{2} \\frac{\\beta}{2}, \\\\\nz^{2} & =4 b^{2} e^{\\gamma+a} \\cos ^{2} \\frac{\\beta}{2} .\n\\end{aligned}$$\n\n\nIf we take the origin at the focus $x=b$, and write $2 \\beta^{\\prime}$ for $\\beta, a e^{2 \\gamma^{\\prime}}$ for $b \\epsilon \\gamma, a \\epsilon^{2 \\beta}$\n for $b \\epsilon^{a}$, we get\n\n$$\\begin{aligned}\n& x=e^{2 \\gamma^{\\prime}}-e 2^{a^{\\prime}}, \\\\\n& y=2 a e^{a^{\\prime}+\\gamma^{\\prime}} \\sin \\beta^{\\prime} \\\\\n& z=2 a \\epsilon^{a^{\\prime}+\\gamma^{\\prime}} \\cos \\beta^{\\prime} .\n\\end{aligned}$$\n\n\nFrom which equations of the form (54) may easily be deduced.\n\nSince from these equations the force along the radius varies as $1 / r$, the normal force,\n and therefore the surface-density, will vary as $\\frac{1}{r} \\cdot \\frac{r}{p}$ where $p$ is the perpendicular\n from the focus on the tangent plane, thus the surface-density varies as $1 / p$, and there\nfore inversely as the square root of $r$. \\}\n",
+    "structured_lines": [
+      {
+        "page": 278,
+        "line_number": 4,
+        "type": "text",
+        "content": "When $b=c$, we may take",
+        "mathpix_content": "\n\nWhen $b=c$, we may take",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 278,
+        "line_number": 10,
+        "type": "text",
+        "content": "From (51)",
+        "mathpix_content": "\n\nFrom (51)",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 278,
+        "line_number": 14,
+        "type": "text",
+        "content": "hence from (50),",
+        "mathpix_content": "\nhence from (50),",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 278,
+        "line_number": 19,
+        "type": "text",
+        "content": "If we take the origin at the focus $x=b$, and write $2 \\beta^{\\prime}$ for $\\beta, a e^{2 \\gamma^{\\prime}}$ for $b \\epsilon \\gamma, a \\epsilon^{2 \\beta}$",
+        "mathpix_content": "\n\nIf we take the origin at the focus $x=b$, and write $2 \\beta^{\\prime}$ for $\\beta, a e^{2 \\gamma^{\\prime}}$ for $b \\epsilon \\gamma, a \\epsilon^{2 \\beta}$",
+        "font_size": 21,
+        "confidence": 0.7621587248252126
+      },
+      {
+        "page": 278,
+        "line_number": 20,
+        "type": "text",
+        "content": "for $b \\epsilon^{a}$, we get",
+        "mathpix_content": " for $b \\epsilon^{a}$, we get",
+        "font_size": 21,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 278,
+        "line_number": 25,
+        "type": "text",
+        "content": "From which equations of the form (54) may easily be deduced.",
+        "mathpix_content": "\n\nFrom which equations of the form (54) may easily be deduced.",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 278,
+        "line_number": 26,
+        "type": "text",
+        "content": "Since from these equations the force along the radius varies as $1 / r$, the normal force,",
+        "mathpix_content": "\nSince from these equations the force along the radius varies as $1 / r$, the normal force,",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 278,
+        "line_number": 27,
+        "type": "text",
+        "content": "and therefore the surface-density, will vary as $\\frac{1}{r} \\cdot \\frac{r}{p}$ where $p$ is the perpendicular",
+        "mathpix_content": " and therefore the surface-density, will vary as $\\frac{1}{r} \\cdot \\frac{r}{p}$ where $p$ is the perpendicular",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 278,
+        "line_number": 28,
+        "type": "text",
+        "content": "from the focus on the tangent plane, thus the surface-density varies as $1 / p$, and there-",
+        "mathpix_content": " from the focus on the tangent plane, thus the surface-density varies as $1 / p$, and there",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 278,
+        "line_number": 29,
+        "type": "text",
+        "content": "fore inversely as the square root of $r$. \\}",
+        "mathpix_content": "fore inversely as the square root of $r$. \\}",
+        "font_size": 21,
+        "confidence": 0.8473164673196152
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

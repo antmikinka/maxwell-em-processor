@@ -1,0 +1,20 @@
+{
+  "article_id": "article_7",
+  "article_number": 7,
+  "title_original": "from $x_{0}$ to $x_{1}, u$ passes continuously from $u_{0}$ to $u_{1}$, but when $x$",
+  "title_safe": "from x0 to x1 u passes continuously from u0 to u1 but when x",
+  "page_start": 42,
+  "page_end": 41,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "\\cosh \\theta=e^{\\theta}+e^{-\\theta}, \\quad 2 \\sinh \\theta=e^{\\theta}-e^{-\\theta},$$",
+  "title_safe": "cosh thetaequalsethetapluse-theta quad 2 sinh thetaequalseth",
+  "page_start": 304,
+  "page_end": 304,
+  "content": {
+    "raw_text": "\n--- Page 304 ---\n172.]\nTWO SPHERES NOT INTERSECTING.\n269\nThat of $\\mathrm{Q}_{0}$ in B is $\\mathrm{P}_{1}$ where\n$$\\theta\\left(\\mathrm{P}_{1}\\right)=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{P}_{1}}{\\mathrm{OP}_{1}}=\\theta+2 \\varpi .$$\nSimilarly\n$$\\theta\\left(P_{s}\\right)=\\theta+2 s \\text { \u0e52 }, \\quad \\theta\\left(Q_{s}\\right)=2 a-\\theta-2 s \\text { \u0ba8. }$$\nIn the same way if the successive images of P in $\\mathrm{B}, \\mathrm{A}, \\mathrm{B}$, \\&c.\nare $\\mathrm{Q}_{0}{ }^{\\prime}, \\mathrm{P}_{1}{ }^{\\prime}, \\mathrm{Q}_{1}{ }^{\\prime}$, \\&c.\n$$\\begin{aligned}\n\\theta\\left(\\mathrm{Q}_{0}{ }^{\\prime}\\right) & =2 \\beta-\\theta, & \\theta\\left(\\mathrm{P}_{1}{ }^{\\prime}\\right) & =\\theta-2 \\varpi ; \\\\\n\\theta\\left(\\mathrm{P}_{s}{ }^{\\prime}\\right) & =\\theta-2 s \\varpi, & \\theta\\left(\\mathrm{Q}_{s}{ }^{\\prime}\\right) & =2 \\beta-\\theta+2 s \\varpi .\n\\end{aligned}$$\nTo find the charge of any image $\\mathrm{P}_{8}$ we observe that in the\ninverted figure (14) its charge is\n$$P \\wedge \\sqrt{\\overline{O P}}$$\nIn the original figure (15) we must multiply this by $O P$. Hence\nthe charge of $\\mathrm{P}_{8}$ in the dipolar figure as $P=\\mathrm{P} / \\mathrm{OP}$, is\n$$P \\sqrt{\\frac{O P_{g} \\cdot O^{\\prime} P_{R}}{O P \\cdot O^{\\prime} P}}$$\nIf we make $\\xi=\\sqrt{O P} \\cdot O^{\\prime} P$, and call $\\xi$ the parameter of the\npoint $P$, then we may write\n$$P_{1}=\\frac{\\xi_{n}}{\\xi} P$$\nor the charge of any image is proportional to its parameter.\nIf we make use of the curvilinear coordinates $\\theta$ and $\\phi$, such\nthat\n$$e^{\\theta+\\sqrt{-1} \\phi}=\\frac{x+\\sqrt{-1} y-k}{x+\\sqrt{-1} y+k}$$\nwhere $2 k$ is the distance $O 0^{\\prime}$, then\n$$\\begin{gathered}\nx=-\\frac{k \\sinh \\theta}{\\cosh \\theta-\\cos \\phi}, \\quad y=\\frac{k \\sin \\phi}{\\cosh \\theta-\\cos \\phi} ; \\\\\nx^{2}+(y-k \\cot \\phi)^{2}=k^{2} \\operatorname{cosec}^{2} \\phi, \\\\\n(x+k \\operatorname{coth} \\theta)^{2}+y^{2}=k^{2} \\operatorname{cosech}^{2} \\theta, \\\\\n\\cot \\phi=\\frac{x^{2}+y^{2}-k^{2}}{2 k y}, \\quad \\operatorname{coth} \\theta=-\\frac{x^{2}+y^{2}+k^{2}}{2 k x} ; \\\\\n\\xi=\\frac{\\sqrt{2} k}{\\sqrt{\\cosh \\theta-\\cos \\phi}} \\dagger\n\\end{gathered}$$\n\n* \\{ Hence $\\phi$ is constant for all points on the arc along which the images are\nsituated. \\}\n\u2020 In these expressions we must remember that\n$$2 \\cosh \\theta=e^{\\theta}+e^{-\\theta}, \\quad 2 \\sinh \\theta=e^{\\theta}-e^{-\\theta},$$\n",
+    "mathpix_markdown": "\n--- Page 304 ---\n\n\nThat of $\\mathrm{Q}_{0}$ in B is $\\mathrm{P}_{1}$ where\n\n$$\\theta\\left(\\mathrm{P}_{1}\\right)=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{P}_{1}}{\\mathrm{OP}_{1}}=\\theta+2 \\varpi .$$\n\n\nSimilarly\n\n$$\\theta\\left(P_{s}\\right)=\\theta+2 s \\text { \u0e52 }, \\quad \\theta\\left(Q_{s}\\right)=2 a-\\theta-2 s \\text { \u0ba8. }$$\n\n\nIn the same way if the successive images of P in $\\mathrm{B}, \\mathrm{A}, \\mathrm{B}$, \\&c.\n are $\\mathrm{Q}_{0}{ }^{\\prime}, \\mathrm{P}_{1}{ }^{\\prime}, \\mathrm{Q}_{1}{ }^{\\prime}$, \\&c.\n\n$$\\begin{aligned}\n\\theta\\left(\\mathrm{Q}_{0}{ }^{\\prime}\\right) & =2 \\beta-\\theta, & \\theta\\left(\\mathrm{P}_{1}{ }^{\\prime}\\right) & =\\theta-2 \\varpi ; \\\\\n\\theta\\left(\\mathrm{P}_{s}{ }^{\\prime}\\right) & =\\theta-2 s \\varpi, & \\theta\\left(\\mathrm{Q}_{s}{ }^{\\prime}\\right) & =2 \\beta-\\theta+2 s \\varpi .\n\\end{aligned}$$\n\n\nTo find the charge of any image $\\mathrm{P}_{8}$ we observe that in the\n inverted figure (14) its charge is\n\n$$P \\wedge \\sqrt{\\overline{O P}}$$\n\n\nIn the original figure (15) we must multiply this by $O P$. Hence\n the charge of $\\mathrm{P}_{8}$ in the dipolar figure as $P=\\mathrm{P} / \\mathrm{OP}$, is\n\n$$P \\sqrt{\\frac{O P_{g} \\cdot O^{\\prime} P_{R}}{O P \\cdot O^{\\prime} P}}$$\n\n\nIf we make $\\xi=\\sqrt{O P} \\cdot O^{\\prime} P$, and call $\\xi$ the parameter of the\n point $P$, then we may write\n\n$$P_{1}=\\frac{\\xi_{n}}{\\xi} P$$\n\nor the charge of any image is proportional to its parameter.\n\nIf we make use of the curvilinear coordinates $\\theta$ and $\\phi$, such\n that\n\n$$e^{\\theta+\\sqrt{-1} \\phi}=\\frac{x+\\sqrt{-1} y-k}{x+\\sqrt{-1} y+k}$$\n\nwhere $2 k$ is the distance $O 0^{\\prime}$, then\n\n$$\\begin{gathered}\nx=-\\frac{k \\sinh \\theta}{\\cosh \\theta-\\cos \\phi}, \\quad y=\\frac{k \\sin \\phi}{\\cosh \\theta-\\cos \\phi} ; \\\\\nx^{2}+(y-k \\cot \\phi)^{2}=k^{2} \\operatorname{cosec}^{2} \\phi, \\\\\n(x+k \\operatorname{coth} \\theta)^{2}+y^{2}=k^{2} \\operatorname{cosech}^{2} \\theta, \\\\\n\\cot \\phi=\\frac{x^{2}+y^{2}-k^{2}}{2 k y}, \\quad \\operatorname{coth} \\theta=-\\frac{x^{2}+y^{2}+k^{2}}{2 k x} ; \\\\\n\\xi=\\frac{\\sqrt{2} k}{\\sqrt{\\cosh \\theta-\\cos \\phi}} \\dagger\n\\end{gathered}$$\n\n\n\\footnotetext{\n* \\{ Hence $\\phi$ is constant for all points on the arc along which the images are\n situated. \\}\n\n\u2020 In these expressions we must remember that\n\n$$2 \\cosh \\theta=e^{\\theta}+e^{-\\theta}, \\quad 2 \\sinh \\theta=e^{\\theta}-e^{-\\theta},$$\n}\n",
+    "structured_lines": [
+      {
+        "page": 304,
+        "line_number": 4,
+        "type": "text",
+        "content": "That of $\\mathrm{Q}_{0}$ in B is $\\mathrm{P}_{1}$ where",
+        "mathpix_content": "\n\nThat of $\\mathrm{Q}_{0}$ in B is $\\mathrm{P}_{1}$ where",
+        "font_size": 33,
+        "confidence": 0.615234375
+      },
+      {
+        "page": 304,
+        "line_number": 7,
+        "type": "text",
+        "content": "Similarly",
+        "mathpix_content": "\n\nSimilarly",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 304,
+        "line_number": 10,
+        "type": "text",
+        "content": "In the same way if the successive images of P in $\\mathrm{B}, \\mathrm{A}, \\mathrm{B}$, \\&c.",
+        "mathpix_content": "\n\nIn the same way if the successive images of P in $\\mathrm{B}, \\mathrm{A}, \\mathrm{B}$, \\&c.",
+        "font_size": 33,
+        "confidence": 0.9665812086313963
+      },
+      {
+        "page": 304,
+        "line_number": 11,
+        "type": "text",
+        "content": "are $\\mathrm{Q}_{0}{ }^{\\prime}, \\mathrm{P}_{1}{ }^{\\prime}, \\mathrm{Q}_{1}{ }^{\\prime}$, \\&c.",
+        "mathpix_content": " are $\\mathrm{Q}_{0}{ }^{\\prime}, \\mathrm{P}_{1}{ }^{\\prime}, \\mathrm{Q}_{1}{ }^{\\prime}$, \\&c.",
+        "font_size": 33,
+        "confidence": 0.3541981768476532
+      },
+      {
+        "page": 304,
+        "line_number": 15,
+        "type": "text",
+        "content": "To find the charge of any image $\\mathrm{P}_{8}$ we observe that in the",
+        "mathpix_content": "\n\nTo find the charge of any image $\\mathrm{P}_{8}$ we observe that in the",
+        "font_size": 33,
+        "confidence": 0.7236814498901367
+      },
+      {
+        "page": 304,
+        "line_number": 16,
+        "type": "text",
+        "content": "inverted figure (14) its charge is",
+        "mathpix_content": " inverted figure (14) its charge is",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 304,
+        "line_number": 19,
+        "type": "text",
+        "content": "In the original figure (15) we must multiply this by $O P$. Hence",
+        "mathpix_content": "\n\nIn the original figure (15) we must multiply this by $O P$. Hence",
+        "font_size": 33,
+        "confidence": 0.438133487155028
+      },
+      {
+        "page": 304,
+        "line_number": 20,
+        "type": "text",
+        "content": "the charge of $\\mathrm{P}_{8}$ in the dipolar figure as $P=\\mathrm{P} / \\mathrm{OP}$, is",
+        "mathpix_content": " the charge of $\\mathrm{P}_{8}$ in the dipolar figure as $P=\\mathrm{P} / \\mathrm{OP}$, is",
+        "font_size": 33,
+        "confidence": 0.7603707313537598
+      },
+      {
+        "page": 304,
+        "line_number": 23,
+        "type": "text",
+        "content": "If we make $\\xi=\\sqrt{O P} \\cdot O^{\\prime} P$, and call $\\xi$ the parameter of the",
+        "mathpix_content": "\n\nIf we make $\\xi=\\sqrt{O P} \\cdot O^{\\prime} P$, and call $\\xi$ the parameter of the",
+        "font_size": 33,
+        "confidence": 0.49460887908935547
+      },
+      {
+        "page": 304,
+        "line_number": 24,
+        "type": "text",
+        "content": "point $P$, then we may write",
+        "mathpix_content": " point $P$, then we may write",
+        "font_size": 33,
+        "confidence": 0.95654296875
+      },
+      {
+        "page": 304,
+        "line_number": 27,
+        "type": "text",
+        "content": "or the charge of any image is proportional to its parameter.",
+        "mathpix_content": "\nor the charge of any image is proportional to its parameter.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 304,
+        "line_number": 28,
+        "type": "text",
+        "content": "If we make use of the curvilinear coordinates $\\theta$ and $\\phi$, such",
+        "mathpix_content": "\nIf we make use of the curvilinear coordinates $\\theta$ and $\\phi$, such",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 304,
+        "line_number": 29,
+        "type": "text",
+        "content": "that",
+        "mathpix_content": " that",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 304,
+        "line_number": 32,
+        "type": "text",
+        "content": "where $2 k$ is the distance $O 0^{\\prime}$, then",
+        "mathpix_content": "\nwhere $2 k$ is the distance $O 0^{\\prime}$, then",
+        "font_size": 21,
+        "confidence": 0.60791015625
+      },
+      {
+        "page": 304,
+        "line_number": 40,
+        "type": "text",
+        "content": "* \\{ Hence $\\phi$ is constant for all points on the arc along which the images are",
+        "mathpix_content": "\n\n\\footnotetext{\n* \\{ Hence $\\phi$ is constant for all points on the arc along which the images are",
+        "font_size": 21,
+        "confidence": 0.8070457879762216
+      },
+      {
+        "page": 304,
+        "line_number": 41,
+        "type": "text",
+        "content": "situated. \\}",
+        "mathpix_content": " situated. \\}",
+        "font_size": 21,
+        "confidence": 0.5120673179626465
+      },
+      {
+        "page": 304,
+        "line_number": 42,
+        "type": "text",
+        "content": "\u2020 In these expressions we must remember that",
+        "mathpix_content": "\n\u2020 In these expressions we must remember that",
+        "font_size": 21,
+        "confidence": 0.99853515625
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

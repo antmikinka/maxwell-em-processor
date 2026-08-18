@@ -1,0 +1,20 @@
+{
+  "article_id": "article_8",
+  "article_number": 8,
+  "title_original": "a^{9} b^{3}+18 a^{7} b^{5}+16 a^{5} b^{7}\\right) c^{-12}$",
+  "title_safe": "a9 b3plus18 a7 b5plus16 a5 b7right c-12",
+  "page_start": 264,
+  "page_end": 263,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

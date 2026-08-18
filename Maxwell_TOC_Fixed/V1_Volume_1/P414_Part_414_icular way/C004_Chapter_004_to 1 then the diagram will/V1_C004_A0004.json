@@ -1,0 +1,381 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "to 1 , then the diagram will",
+  "title_safe": "to 1 then the diagram will",
+  "page_start": 213,
+  "page_end": 213,
+  "content": {
+    "raw_text": "\n--- Page 213 ---\n178\nEQUIPOTENTIAL SURFACES.\n[118.\nspond to cases of which we know the accurate solution. If, on\nthe other hand, we are required to estimate what will be the\nelectrification of bodies whose forms are given, we may begin\nwith some case in which one of the equipotential surfaces takes\na form somewhat resembling the given form, and then by a\ntentative method we may modify the problem till it more nearly\ncorresponds to the given case. This method is evidently very\nimperfect considered from a mathematical point of view, but it\nis the only one we have, and if we are not allowed to choose our\nconditions, we can make only an approximate calculation of the\nelectrification. It appears, therefore, that what we want is a\nknowledge of the forms of equipotential surfaces and lines of\ninduction in as many different cases as we can collect together\nand remember. In certain classes of cases, such as those relating\nto spheres, there are known mathematical methods by which we\nmay proceed. In other cases we cannot afford to despise the\nhumbler method of actually drawing tentative figures on paper,\nand selecting that which appears least unlike the figure we\nrequire.\nThis latter method I think may be of some use, even in cases\nin which the exact solution has been obtained, for I find that an\neye-knowledge of the forms of the equipotential surfaces often\nleads to a right selection of a mathematical method of solution.\nI have therefore drawn several diagrams of systems of equi-\npotential surfaces and lines of induction, so that the student may\nmake himself familiar with the forms of the lines. The methods\nby which such diagrams may be drawn will be explained in\nArt. 123.\n118.] In the first figure at the end of this volume we have the\nsections of the equipotential surfaces surrounding two points\ncharged with quantities of electricity of the same kind and in\nthe ratio of 20 to 5 .\nHere each point is surrounded by a system of equipotential\nsurfaces which become more nearly spheres as they become\nsmaller, though none of them are accurately spheres. If two of\nthese surfaces, one surrounding each point, be taken to represent\nthe surfaces of two conducting bodies, nearly but not quite\nspherical, and if these bodies be charged with the same kind of\nelectricity, the charges being as 4 to 1 , then the diagram will\nrepresent the equipotential surfaces, provided we expunge all\n",
+    "mathpix_markdown": "\n--- Page 213 ---\n\nspond to cases of which we know the accurate solution. If, on\n the other hand, we are required to estimate what will be the\n electrification of bodies whose forms are given, we may begin\n with some case in which one of the equipotential surfaces takes\n a form somewhat resembling the given form, and then by a\n tentative method we may modify the problem till it more nearly\n corresponds to the given case. This method is evidently very\n imperfect considered from a mathematical point of view, but it\n is the only one we have, and if we are not allowed to choose our\n conditions, we can make only an approximate calculation of the\n electrification. It appears, therefore, that what we want is a\n knowledge of the forms of equipotential surfaces and lines of\n induction in as many different cases as we can collect together\n and remember. In certain classes of cases, such as those relating\n to spheres, there are known mathematical methods by which we\n may proceed. In other cases we cannot afford to despise the\n humbler method of actually drawing tentative figures on paper,\n and selecting that which appears least unlike the figure we\n require.\n\n\nThis latter method I think may be of some use, even in cases\n in which the exact solution has been obtained, for I find that an\n eye-knowledge of the forms of the equipotential surfaces often\n leads to a right selection of a mathematical method of solution.\n\n\nI have therefore drawn several diagrams of systems of equi\npotential surfaces and lines of induction, so that the student may\n make himself familiar with the forms of the lines. The methods\n by which such diagrams may be drawn will be explained in\n Art. 123.\n\n118.] In the first figure at the end of this volume we have the\n sections of the equipotential surfaces surrounding two points\n charged with quantities of electricity of the same kind and in\n the ratio of 20 to 5 .\n\n\nHere each point is surrounded by a system of equipotential\n surfaces which become more nearly spheres as they become\n smaller, though none of them are accurately spheres. If two of\n these surfaces, one surrounding each point, be taken to represent\n the surfaces of two conducting bodies, nearly but not quite\n spherical, and if these bodies be charged with the same kind of\n electricity, the charges being as 4 to 1 , then the diagram will\n represent the equipotential surfaces, provided we expunge all\n",
+    "structured_lines": [
+      {
+        "page": 213,
+        "line_number": 4,
+        "type": "text",
+        "content": "spond to cases of which we know the accurate solution. If, on",
+        "mathpix_content": "\nspond to cases of which we know the accurate solution. If, on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 5,
+        "type": "text",
+        "content": "the other hand, we are required to estimate what will be the",
+        "mathpix_content": " the other hand, we are required to estimate what will be the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 6,
+        "type": "text",
+        "content": "electrification of bodies whose forms are given, we may begin",
+        "mathpix_content": " electrification of bodies whose forms are given, we may begin",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 7,
+        "type": "text",
+        "content": "with some case in which one of the equipotential surfaces takes",
+        "mathpix_content": " with some case in which one of the equipotential surfaces takes",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 213,
+        "line_number": 8,
+        "type": "text",
+        "content": "a form somewhat resembling the given form, and then by a",
+        "mathpix_content": " a form somewhat resembling the given form, and then by a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 9,
+        "type": "text",
+        "content": "tentative method we may modify the problem till it more nearly",
+        "mathpix_content": " tentative method we may modify the problem till it more nearly",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 10,
+        "type": "text",
+        "content": "corresponds to the given case. This method is evidently very",
+        "mathpix_content": " corresponds to the given case. This method is evidently very",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 11,
+        "type": "text",
+        "content": "imperfect considered from a mathematical point of view, but it",
+        "mathpix_content": " imperfect considered from a mathematical point of view, but it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 12,
+        "type": "text",
+        "content": "is the only one we have, and if we are not allowed to choose our",
+        "mathpix_content": " is the only one we have, and if we are not allowed to choose our",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 13,
+        "type": "text",
+        "content": "conditions, we can make only an approximate calculation of the",
+        "mathpix_content": " conditions, we can make only an approximate calculation of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 14,
+        "type": "text",
+        "content": "electrification. It appears, therefore, that what we want is a",
+        "mathpix_content": " electrification. It appears, therefore, that what we want is a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 15,
+        "type": "text",
+        "content": "knowledge of the forms of equipotential surfaces and lines of",
+        "mathpix_content": " knowledge of the forms of equipotential surfaces and lines of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 16,
+        "type": "text",
+        "content": "induction in as many different cases as we can collect together",
+        "mathpix_content": " induction in as many different cases as we can collect together",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 17,
+        "type": "text",
+        "content": "and remember. In certain classes of cases, such as those relating",
+        "mathpix_content": " and remember. In certain classes of cases, such as those relating",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 213,
+        "line_number": 18,
+        "type": "text",
+        "content": "to spheres, there are known mathematical methods by which we",
+        "mathpix_content": " to spheres, there are known mathematical methods by which we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 19,
+        "type": "text",
+        "content": "may proceed. In other cases we cannot afford to despise the",
+        "mathpix_content": " may proceed. In other cases we cannot afford to despise the",
+        "font_size": 27,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 213,
+        "line_number": 20,
+        "type": "text",
+        "content": "humbler method of actually drawing tentative figures on paper,",
+        "mathpix_content": " humbler method of actually drawing tentative figures on paper,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 21,
+        "type": "text",
+        "content": "and selecting that which appears least unlike the figure we",
+        "mathpix_content": " and selecting that which appears least unlike the figure we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 22,
+        "type": "text",
+        "content": "require.",
+        "mathpix_content": " require.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 23,
+        "type": "text",
+        "content": "This latter method I think may be of some use, even in cases",
+        "mathpix_content": "\n\nThis latter method I think may be of some use, even in cases",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 24,
+        "type": "text",
+        "content": "in which the exact solution has been obtained, for I find that an",
+        "mathpix_content": " in which the exact solution has been obtained, for I find that an",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 213,
+        "line_number": 25,
+        "type": "text",
+        "content": "eye-knowledge of the forms of the equipotential surfaces often",
+        "mathpix_content": " eye-knowledge of the forms of the equipotential surfaces often",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 26,
+        "type": "text",
+        "content": "leads to a right selection of a mathematical method of solution.",
+        "mathpix_content": " leads to a right selection of a mathematical method of solution.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 27,
+        "type": "text",
+        "content": "I have therefore drawn several diagrams of systems of equi-",
+        "mathpix_content": "\n\nI have therefore drawn several diagrams of systems of equi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 28,
+        "type": "text",
+        "content": "potential surfaces and lines of induction, so that the student may",
+        "mathpix_content": "potential surfaces and lines of induction, so that the student may",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 213,
+        "line_number": 29,
+        "type": "text",
+        "content": "make himself familiar with the forms of the lines. The methods",
+        "mathpix_content": " make himself familiar with the forms of the lines. The methods",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 30,
+        "type": "text",
+        "content": "by which such diagrams may be drawn will be explained in",
+        "mathpix_content": " by which such diagrams may be drawn will be explained in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 31,
+        "type": "text",
+        "content": "Art. 123.",
+        "mathpix_content": " Art. 123.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 32,
+        "type": "text",
+        "content": "118.] In the first figure at the end of this volume we have the",
+        "mathpix_content": "\n118.] In the first figure at the end of this volume we have the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 33,
+        "type": "text",
+        "content": "sections of the equipotential surfaces surrounding two points",
+        "mathpix_content": " sections of the equipotential surfaces surrounding two points",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 34,
+        "type": "text",
+        "content": "charged with quantities of electricity of the same kind and in",
+        "mathpix_content": " charged with quantities of electricity of the same kind and in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 35,
+        "type": "text",
+        "content": "the ratio of 20 to 5 .",
+        "mathpix_content": " the ratio of 20 to 5 .",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 36,
+        "type": "text",
+        "content": "Here each point is surrounded by a system of equipotential",
+        "mathpix_content": "\n\nHere each point is surrounded by a system of equipotential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 37,
+        "type": "text",
+        "content": "surfaces which become more nearly spheres as they become",
+        "mathpix_content": " surfaces which become more nearly spheres as they become",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 38,
+        "type": "text",
+        "content": "smaller, though none of them are accurately spheres. If two of",
+        "mathpix_content": " smaller, though none of them are accurately spheres. If two of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 39,
+        "type": "text",
+        "content": "these surfaces, one surrounding each point, be taken to represent",
+        "mathpix_content": " these surfaces, one surrounding each point, be taken to represent",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 40,
+        "type": "text",
+        "content": "the surfaces of two conducting bodies, nearly but not quite",
+        "mathpix_content": " the surfaces of two conducting bodies, nearly but not quite",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 41,
+        "type": "text",
+        "content": "spherical, and if these bodies be charged with the same kind of",
+        "mathpix_content": " spherical, and if these bodies be charged with the same kind of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 213,
+        "line_number": 42,
+        "type": "text",
+        "content": "electricity, the charges being as 4 to 1 , then the diagram will",
+        "mathpix_content": " electricity, the charges being as 4 to 1 , then the diagram will",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 213,
+        "line_number": 43,
+        "type": "text",
+        "content": "represent the equipotential surfaces, provided we expunge all",
+        "mathpix_content": " represent the equipotential surfaces, provided we expunge all",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

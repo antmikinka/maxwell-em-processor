@@ -1,0 +1,2055 @@
+{
+  "part_id": "part_718",
+  "part_number": 718,
+  "title": "of the potential at $A_{q}$ arising from the introduction of a",
+  "page_start": 440,
+  "page_end": 441,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 281,
+      "title": "]",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 405,
+      "title": "If we denote by $D$ the determinant",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 11,
+      "title": "}, & K_{12}, & \\ldots \\ldots K_{1(n-1)}, \\\\",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 21,
+      "title": "}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 1,
+      "title": ") 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 9,
+      "title": ")",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 12,
+      "title": "} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": "} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. }",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 10,
+      "title": ")",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 1,
+      "title": "), and",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 281,
+      "title": "] We shall now demonstrate a reciprocal property of any",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 86,
+      "title": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 2,
+      "title": "), these two",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 11,
+      "title": ")",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 11,
+      "title": "}, & K_{12}, & \\ldots \\ldots K_{1(n-1)},  \\tag{9}\\\\",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 21,
+      "title": "}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": ") 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 12,
+      "title": "} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": "} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. } \\tag{10}",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 1,
+      "title": "), and",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 281,
+      "title": "] We shall now demonstrate a reciprocal property of any",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 86,
+      "title": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+      "page_start": 440,
+      "page_end": 439,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 2,
+      "title": "), these two",
+      "page_start": 440,
+      "page_end": 440,
+      "articles": [
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+          "title_safe": "The coefficient of Qq in the expression for Pp is fracDp qD",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+          "title_safe": "The coefficient of Qq in the expression for Pp is fracDp qD",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_281",
+          "article_number": 281,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_281",
+          "article_number": 281,
+          "title_original": "] We shall now demonstrate a reciprocal property of any",
+          "title_safe": "We shall now demonstrate a reciprocal property of any",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+          "title_safe": "The coefficient of Qq in the expression for Pp is fracDp qD",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_281",
+          "article_number": 281,
+          "title_original": "] We shall now demonstrate a reciprocal property of any",
+          "title_safe": "We shall now demonstrate a reciprocal property of any",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+          "title_safe": "The coefficient of Qq in the expression for Pp is fracDp qD",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_281",
+          "article_number": 281,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_405",
+          "article_number": 405,
+          "title_original": "If we denote by $D$ the determinant",
+          "title_safe": "If we denote by D the determinant",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": "}, & K_{12}, & \\ldots \\ldots K_{1(n-1)}, \\\\",
+          "title_safe": "and K12 and ldots ldots K1n-1",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": "}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\",
+          "title_safe": "and K22 and ldots ldots K2n-1",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},",
+          "title_safe": "1 and Kn-1 2 ldots ldots Kn-1-1 n",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_9",
+          "article_number": 9,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": "} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\",
+          "title_safe": "E12plustext andc. -Q1right Dp 1plusleftK21 E21plustext andc",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. }",
+          "title_safe": "Eq 1plustext andc. plusKq n Eq n-Qqright Dp qplustext andc",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_10",
+          "article_number": 10,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "), and",
+          "title_safe": "and",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_281",
+          "article_number": 281,
+          "title_original": ".] We shall now demonstrate a reciprocal property of any",
+          "title_safe": "We shall now demonstrate a reciprocal property of any",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "), these two",
+          "title_safe": "these two",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": "}, & K_{12}, & \\ldots \\ldots K_{1(n-1)},  \\tag{9}\\\\",
+          "title_safe": "and K12 and ldots ldots K1n-1 tag9",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": "}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\",
+          "title_safe": "and K22 and ldots ldots K2n-1",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},",
+          "title_safe": "1 and Kn-1 2 ldots ldots Kn-1-1 n",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": "} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\",
+          "title_safe": "E12plustext andc. -Q1right Dp 1plusleftK21 E21plustext andc",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. } \\tag{10}",
+          "title_safe": "Eq 1plustext andc. plusKq n Eq n-Qqright Dp qplustext andc",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "), and",
+          "title_safe": "and",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_281",
+          "article_number": 281,
+          "title_original": ".] We shall now demonstrate a reciprocal property of any",
+          "title_safe": "We shall now demonstrate a reciprocal property of any",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 440,
+          "page_end": 439,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "), these two",
+          "title_safe": "these two",
+          "page_start": 440,
+          "page_end": 440,
+          "content": {
+            "raw_text": "\n--- Page 440 ---\n281.]\nSYSTEM OF LINEAR CONDUCTORS.\n405\nIf we denote by $D$ the determinant\n$$\\left|\\begin{array}{lll}\nK_{11}, & K_{12}, & \\ldots \\ldots K_{1(n-1)}, \\\\\nK_{21}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\\nK_{(n-1) 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},\n\\end{array}\\right|$$\n(9)\nand by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,\n$$\\begin{array}{r}\n\\left(P_{p}-P_{n}\\right) D=\\left(K_{12} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\\n+\\left(K_{q 1} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. }\n\\end{array}$$\n(10)\nIn the same way the excess of the potential of any other point,\nsay $A_{q}$, over that of $A_{n}$ may be determined. We may then de-\ntermine the current between $A_{p}$ and $A_{q}$ from equation (1), and\nso solve the problem completely.\n281.] We shall now demonstrate a reciprocal property of any\ntwo conductors of the system, answering to the reciprocal\nproperty we have already demonstrated for statical electricity\nin Art. 86.\nThe coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That\nof $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.\nNow $D_{p q}$ differs from $D_{q p}$ only by the substitution of the\nsymbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two\nsymbols are equal, since the conductivity of a conductor is the\nsame both ways. Hence $D_{p q}=D_{q p}$.\n(11)\nIt follows from this that the part of the potential at $A_{p}$ arising\nfrom the introduction of a unit current at $A_{q}$ is equal to the\npart of the potential at $A_{q}$ arising from the introduction of a\nunit current at $A_{p}$.\nWe may deduce from this a proposition of a more practical\nform.\nLet $A, B, C, D$ be any four points of the system, and let the\neffect of a current $Q$, made to enter the system at $A$ and leave\nit at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.\nThen, if an equal current $Q$ be made to enter the system at $C$\nand leave it at $D$, the potential at $A$ will exceed that at $B$ by\nthe same quantity $P$.\nIf an electromotive force $E$ be introduced, acting in the con-\nductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,\nthen the same electromotive force $E$ introduced into the con-\nductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.\n",
+            "mathpix_markdown": "\n--- Page 440 ---\n\n\nIf we denote by $D$ the determinant\n\n$$\\left|\\begin{array}{lll}\nK_{11}, & K_{12}, & \\ldots \\ldots K_{1(n-1)},  \\tag{9}\\\\\nK_{21}, & K_{22}, & \\ldots \\ldots K_{2(n-1)}, \\\\\nK_{(n-1) 1}, & K_{(n-1) 2}, \\ldots \\ldots K_{(n-1)(-1 n)},\n\\end{array}\\right|$$\n\nand by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,\n\n$$\\begin{array}{r}\n\\left(P_{p}-P_{n}\\right) D=\\left(K_{12} E_{12}+\\text { \\&c. }-Q_{1}\\right) D_{p 1}+\\left(K_{21} E_{21}+\\text { \\&c. }-Q_{2}\\right) D_{p 2}+\\text { \\&c. } \\\\\n+\\left(K_{q 1} E_{q 1}+\\text { \\&c. }+K_{q n} E_{q n}-Q_{q}\\right) D_{p q}+\\text { \\&c. } \\tag{10}\n\\end{array}$$\n\n\nIn the same way the excess of the potential of any other point,\n say $A_{q}$, over that of $A_{n}$ may be determined. We may then de\ntermine the current between $A_{p}$ and $A_{q}$ from equation (1), and\n so solve the problem completely.\n\n281.] We shall now demonstrate a reciprocal property of any\n two conductors of the system, answering to the reciprocal\n property we have already demonstrated for statical electricity\n in Art. 86.\n\n\nThe coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That\n of $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.\n\n\nNow $D_{p q}$ differs from $D_{q p}$ only by the substitution of the\n symbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two\n symbols are equal, since the conductivity of a conductor is the\n same both ways. Hence $D_{p q}=D_{q p}$.\n\n\nIt follows from this that the part of the potential at $A_{p}$ arising\n from the introduction of a unit current at $A_{q}$ is equal to the\n part of the potential at $A_{q}$ arising from the introduction of a\n unit current at $A_{p}$.\n\n\nWe may deduce from this a proposition of a more practical\n form.\n\n\nLet $A, B, C, D$ be any four points of the system, and let the\n effect of a current $Q$, made to enter the system at $A$ and leave\n it at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.\n Then, if an equal current $Q$ be made to enter the system at $C$\n and leave it at $D$, the potential at $A$ will exceed that at $B$ by\n the same quantity $P$.\n\n\nIf an electromotive force $E$ be introduced, acting in the con\nductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,\n then the same electromotive force $E$ introduced into the con\nductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.\n",
+            "structured_lines": [
+              {
+                "page": 440,
+                "line_number": 4,
+                "type": "text",
+                "content": "If we denote by $D$ the determinant",
+                "mathpix_content": "\n\nIf we denote by $D$ the determinant",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 8,
+                "type": "text",
+                "content": "and by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,",
+                "mathpix_content": "\nand by $D_{p_{q}}$, the minor of $K_{p q}$, we find for the value of $P_{p}-I_{n}$,",
+                "font_size": 27,
+                "confidence": 0.7843658525413275
+              },
+              {
+                "page": 440,
+                "line_number": 13,
+                "type": "text",
+                "content": "In the same way the excess of the potential of any other point,",
+                "mathpix_content": "\n\nIn the same way the excess of the potential of any other point,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 14,
+                "type": "text",
+                "content": "say $A_{q}$, over that of $A_{n}$ may be determined. We may then de-",
+                "mathpix_content": " say $A_{q}$, over that of $A_{n}$ may be determined. We may then de",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 15,
+                "type": "text",
+                "content": "termine the current between $A_{p}$ and $A_{q}$ from equation (1), and",
+                "mathpix_content": "termine the current between $A_{p}$ and $A_{q}$ from equation (1), and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 16,
+                "type": "text",
+                "content": "so solve the problem completely.",
+                "mathpix_content": " so solve the problem completely.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 17,
+                "type": "text",
+                "content": "281.] We shall now demonstrate a reciprocal property of any",
+                "mathpix_content": "\n281.] We shall now demonstrate a reciprocal property of any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 18,
+                "type": "text",
+                "content": "two conductors of the system, answering to the reciprocal",
+                "mathpix_content": " two conductors of the system, answering to the reciprocal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 19,
+                "type": "text",
+                "content": "property we have already demonstrated for statical electricity",
+                "mathpix_content": " property we have already demonstrated for statical electricity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 20,
+                "type": "text",
+                "content": "in Art. 86.",
+                "mathpix_content": " in Art. 86.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 21,
+                "type": "text",
+                "content": "The coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+                "mathpix_content": "\n\nThe coefficient of $Q_{q}$ in the expression for $P_{p}$ is $\\frac{D_{p q}}{D}$. That",
+                "font_size": 27,
+                "confidence": 0.9868583679199219
+              },
+              {
+                "page": 440,
+                "line_number": 22,
+                "type": "text",
+                "content": "of $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.",
+                "mathpix_content": " of $Q_{p}$ in the expression for $P_{q}$ is $-\\frac{D_{q p}}{D}$.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 440,
+                "line_number": 23,
+                "type": "text",
+                "content": "Now $D_{p q}$ differs from $D_{q p}$ only by the substitution of the",
+                "mathpix_content": "\n\nNow $D_{p q}$ differs from $D_{q p}$ only by the substitution of the",
+                "font_size": 27,
+                "confidence": 0.9689252376556396
+              },
+              {
+                "page": 440,
+                "line_number": 24,
+                "type": "text",
+                "content": "symbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two",
+                "mathpix_content": " symbols such as $K_{q p}$ for $K_{q q}$. But by equation (2), these two",
+                "font_size": 27,
+                "confidence": 0.9921875
+              },
+              {
+                "page": 440,
+                "line_number": 25,
+                "type": "text",
+                "content": "symbols are equal, since the conductivity of a conductor is the",
+                "mathpix_content": " symbols are equal, since the conductivity of a conductor is the",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 440,
+                "line_number": 26,
+                "type": "text",
+                "content": "same both ways. Hence $D_{p q}=D_{q p}$.",
+                "mathpix_content": " same both ways. Hence $D_{p q}=D_{q p}$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 28,
+                "type": "text",
+                "content": "It follows from this that the part of the potential at $A_{p}$ arising",
+                "mathpix_content": "\n\nIt follows from this that the part of the potential at $A_{p}$ arising",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 440,
+                "line_number": 29,
+                "type": "text",
+                "content": "from the introduction of a unit current at $A_{q}$ is equal to the",
+                "mathpix_content": " from the introduction of a unit current at $A_{q}$ is equal to the",
+                "font_size": 27,
+                "confidence": 0.8828125
+              },
+              {
+                "page": 440,
+                "line_number": 30,
+                "type": "text",
+                "content": "part of the potential at $A_{q}$ arising from the introduction of a",
+                "mathpix_content": " part of the potential at $A_{q}$ arising from the introduction of a",
+                "font_size": 27,
+                "confidence": 0.83349609375
+              },
+              {
+                "page": 440,
+                "line_number": 31,
+                "type": "text",
+                "content": "unit current at $A_{p}$.",
+                "mathpix_content": " unit current at $A_{p}$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 32,
+                "type": "text",
+                "content": "We may deduce from this a proposition of a more practical",
+                "mathpix_content": "\n\nWe may deduce from this a proposition of a more practical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 33,
+                "type": "text",
+                "content": "form.",
+                "mathpix_content": " form.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 34,
+                "type": "text",
+                "content": "Let $A, B, C, D$ be any four points of the system, and let the",
+                "mathpix_content": "\n\nLet $A, B, C, D$ be any four points of the system, and let the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 35,
+                "type": "text",
+                "content": "effect of a current $Q$, made to enter the system at $A$ and leave",
+                "mathpix_content": " effect of a current $Q$, made to enter the system at $A$ and leave",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 36,
+                "type": "text",
+                "content": "it at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.",
+                "mathpix_content": " it at $B$, be to make the potential at $C$ exceed that at $D$ by $P$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 37,
+                "type": "text",
+                "content": "Then, if an equal current $Q$ be made to enter the system at $C$",
+                "mathpix_content": " Then, if an equal current $Q$ be made to enter the system at $C$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 38,
+                "type": "text",
+                "content": "and leave it at $D$, the potential at $A$ will exceed that at $B$ by",
+                "mathpix_content": " and leave it at $D$, the potential at $A$ will exceed that at $B$ by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 39,
+                "type": "text",
+                "content": "the same quantity $P$.",
+                "mathpix_content": " the same quantity $P$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 40,
+                "type": "text",
+                "content": "If an electromotive force $E$ be introduced, acting in the con-",
+                "mathpix_content": "\n\nIf an electromotive force $E$ be introduced, acting in the con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 41,
+                "type": "text",
+                "content": "ductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,",
+                "mathpix_content": "ductor from $A$ to $B$, and if this causes a current $C$ from $X$ to $Y$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 42,
+                "type": "text",
+                "content": "then the same electromotive force $E$ introduced into the con-",
+                "mathpix_content": " then the same electromotive force $E$ introduced into the con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 440,
+                "line_number": 43,
+                "type": "text",
+                "content": "ductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.",
+                "mathpix_content": "ductor from $X$ to $Y$ will cause an equal current $C$ from $A$ to $B$.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 406,
+      "title": "LINEAR ELECTRIC CURRENTS.",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 282,
+      "title": "b.",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 282,
+      "title": "a$.] If an electromotive force $E_{p q}$ act along the conductor",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 12,
+      "title": ")",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 11,
+      "title": "), the same equation holds if, when the electromotive",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 1,
+      "title": ") (Condition of 'continuity.') At any point of the system",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": ") In any complete circuit formed by the conductors the sum",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 1,
+      "title": ") for",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 282,
+      "title": "b.] If the conducting wires form a simple network and if",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 221,
+      "title": ",",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 1885,
+      "title": "]",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 282,
+      "title": "a$.] If an electromotive force $E_{p q}$ act along the conductor",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 0,
+      "title": "\\tag{12}",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 11,
+      "title": "), the same equation holds if, when the electromotive",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 1,
+      "title": ") (Condition of 'continuity.') At any point of the system",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 2,
+      "title": ") In any complete circuit formed by the conductors the sum",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 1,
+      "title": ") for",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 282,
+      "title": "b.] If the conducting wires form a simple network and if",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 221,
+      "title": ",",
+      "page_start": 441,
+      "page_end": 440,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 1885,
+      "title": "]",
+      "page_start": 441,
+      "page_end": 441,
+      "articles": [
+        {
+          "article_id": "article_1885",
+          "article_number": 1885,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1885",
+          "article_number": 1885,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_406",
+          "article_number": 406,
+          "title_original": "LINEAR ELECTRIC CURRENTS.",
+          "title_safe": "LINEAR ELECTRIC CURRENTS",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_282",
+          "article_number": 282,
+          "title_original": "b.",
+          "title_safe": "b",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_282",
+          "article_number": 282,
+          "title_original": "a$.] If an electromotive force $E_{p q}$ act along the conductor",
+          "title_safe": "a. If an electromotive force Ep q act along the conductor",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ".$$",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_12",
+          "article_number": 12,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": "), the same equation holds if, when the electromotive",
+          "title_safe": "the same equation holds if when the electromotive",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") (Condition of 'continuity.') At any point of the system",
+          "title_safe": "Condition of continuity. At any point of the system",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ") In any complete circuit formed by the conductors the sum",
+          "title_safe": "In any complete circuit formed by the conductors the sum",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") for",
+          "title_safe": "for",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_282",
+          "article_number": 282,
+          "title_original": "b.] If the conducting wires form a simple network and if",
+          "title_safe": "b. If the conducting wires form a simple network and if",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_221",
+          "article_number": 221,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1885",
+          "article_number": 1885,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_282",
+          "article_number": 282,
+          "title_original": "a$.] If an electromotive force $E_{p q}$ act along the conductor",
+          "title_safe": "a. If an electromotive force Ep q act along the conductor",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ". \\tag{12}",
+          "title_safe": "tag12",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": "), the same equation holds if, when the electromotive",
+          "title_safe": "the same equation holds if when the electromotive",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") (Condition of 'continuity.') At any point of the system",
+          "title_safe": "Condition of continuity. At any point of the system",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ") In any complete circuit formed by the conductors the sum",
+          "title_safe": "In any complete circuit formed by the conductors the sum",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ") for",
+          "title_safe": "for",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_282",
+          "article_number": 282,
+          "title_original": "b.] If the conducting wires form a simple network and if",
+          "title_safe": "b. If the conducting wires form a simple network and if",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_221",
+          "article_number": 221,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 440,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1885",
+          "article_number": 1885,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 441,
+          "page_end": 441,
+          "content": {
+            "raw_text": "\n--- Page 441 ---\n406\nLINEAR ELECTRIC CURRENTS.\n[282b.\nThe electromotive force $E$ may be that of a voltaic battery\nintroduced between the points named, care being taken that the\nresistance of the conductor is the same before and after the\nintroduction of the battery.\n$282 a$.] If an electromotive force $E_{p q}$ act along the conductor\n$A_{p} A_{q}$, the current produced along another conductor of the\nsystem $A_{r} A_{s}$ is easily found to be\n$$K_{r q} K_{p q} E_{p q}\\left(D_{r p}+D_{r q}-D_{r q}-D_{s p}\\right)+D .$$\nThere will be no current if\n$$D_{r p}+D_{o q}-D_{r q}-D_{e p}=0 .$$\n(12)\nBut, by (11), the same equation holds if, when the electromotive\nforce acts along $A_{r} A_{g}$, there is no current in $A_{p} A_{q}$. On account\nof this reciprocal relation the two conductors referred to are said\nto be conjugate.\nThe theory of conjugate conductors has been investigated by\nKirchhoff, who has stated the conditions of a linear system in\nthe following manner, in which the consideration of the potential\nis avoided.\n(1) (Condition of 'continuity.') At any point of the system\nthe sum of all the currents which flow towards that point is\nzero.\n(2) In any complete circuit formed by the conductors the sum\nof the electromotive forces taken round the circuit is equal to\nthe sum of the products of the current in each conductor multi-\nplied by the resistance of that conductor.\nWe obtain this result by adding equations of the form (1) for\nthe complete circuit, when the potentials necessarily disappear.\n*282 b.] If the conducting wires form a simple network and if\nwe suppose that a current circulates round each mesh, then the\nactual current in the wire which forms a thread of each of two\nneighbouring meshes will be the difference between the two\ncurrents circulating in the two meshes, the currents being\nreckoned positive when they circulate in a direction opposite\nto the motion of the hands of a watch. It is easy to establish\nin this case the following proposition :-Let $x$ be the current, $E$\nthe electromotive force, and $R$ the total resistance in any mesh ;\nlet also $y, z, \\ldots$ be currents circulating in neighbouring meshes\n\n* [Extracted from notes of Professor Maxwell's lectures by Mr. J. A. Fleming, B.A.,\nSt. John's College. See also a paper by Mr. Fleming in the Phil. Mag., xx. p. 221,\n1885.]\n",
+            "mathpix_markdown": "\n--- Page 441 ---\n\n\nThe electromotive force $E$ may be that of a voltaic battery\n introduced between the points named, care being taken that the\n resistance of the conductor is the same before and after the\n introduction of the battery.\n\n$282 a$.] If an electromotive force $E_{p q}$ act along the conductor\n $A_{p} A_{q}$, the current produced along another conductor of the\n system $A_{r} A_{s}$ is easily found to be\n\n$$K_{r q} K_{p q} E_{p q}\\left(D_{r p}+D_{r q}-D_{r q}-D_{s p}\\right)+D .$$\n\n\nThere will be no current if\n\n$$\\begin{equation*}\nD_{r p}+D_{o q}-D_{r q}-D_{e p}=0 . \\tag{12}\n\\end{equation*}$$\n\n\nBut, by (11), the same equation holds if, when the electromotive\n force acts along $A_{r} A_{g}$, there is no current in $A_{p} A_{q}$. On account\n of this reciprocal relation the two conductors referred to are said\n to be conjugate.\n\n\nThe theory of conjugate conductors has been investigated by\n Kirchhoff, who has stated the conditions of a linear system in\n the following manner, in which the consideration of the potential\n is avoided.\n\n(1) (Condition of 'continuity.') At any point of the system\n the sum of all the currents which flow towards that point is\n zero.\n\n(2) In any complete circuit formed by the conductors the sum\n of the electromotive forces taken round the circuit is equal to\n the sum of the products of the current in each conductor multi\nplied by the resistance of that conductor.\n\n\nWe obtain this result by adding equations of the form (1) for\n the complete circuit, when the potentials necessarily disappear.\n\n*282 b.] If the conducting wires form a simple network and if\n we suppose that a current circulates round each mesh, then the\n actual current in the wire which forms a thread of each of two\n neighbouring meshes will be the difference between the two\n currents circulating in the two meshes, the currents being\n reckoned positive when they circulate in a direction opposite\n to the motion of the hands of a watch. It is easy to establish\n in this case the following proposition :-Let $x$ be the current, $E$\n the electromotive force, and $R$ the total resistance in any mesh ;\n let also $y, z, \\ldots$ be currents circulating in neighbouring meshes\n\n\n\\footnotetext{\n* [Extracted from notes of Professor Maxwell's lectures by Mr. J. A. Fleming, B.A.,\n St. John's College. See also a paper by Mr. Fleming in the Phil. Mag., xx. p. 221,\n 1885.]\n}\n",
+            "structured_lines": [
+              {
+                "page": 441,
+                "line_number": 4,
+                "type": "text",
+                "content": "The electromotive force $E$ may be that of a voltaic battery",
+                "mathpix_content": "\n\nThe electromotive force $E$ may be that of a voltaic battery",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 5,
+                "type": "text",
+                "content": "introduced between the points named, care being taken that the",
+                "mathpix_content": " introduced between the points named, care being taken that the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 6,
+                "type": "text",
+                "content": "resistance of the conductor is the same before and after the",
+                "mathpix_content": " resistance of the conductor is the same before and after the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 7,
+                "type": "text",
+                "content": "introduction of the battery.",
+                "mathpix_content": " introduction of the battery.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 8,
+                "type": "text",
+                "content": "$282 a$.] If an electromotive force $E_{p q}$ act along the conductor",
+                "mathpix_content": "\n$282 a$.] If an electromotive force $E_{p q}$ act along the conductor",
+                "font_size": 34,
+                "confidence": 0.9960954189300537
+              },
+              {
+                "page": 441,
+                "line_number": 9,
+                "type": "text",
+                "content": "$A_{p} A_{q}$, the current produced along another conductor of the",
+                "mathpix_content": " $A_{p} A_{q}$, the current produced along another conductor of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 10,
+                "type": "text",
+                "content": "system $A_{r} A_{s}$ is easily found to be",
+                "mathpix_content": " system $A_{r} A_{s}$ is easily found to be",
+                "font_size": 34,
+                "confidence": 0.40010299609275535
+              },
+              {
+                "page": 441,
+                "line_number": 13,
+                "type": "text",
+                "content": "There will be no current if",
+                "mathpix_content": "\n\nThere will be no current if",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 441,
+                "line_number": 17,
+                "type": "text",
+                "content": "But, by (11), the same equation holds if, when the electromotive",
+                "mathpix_content": "\n\nBut, by (11), the same equation holds if, when the electromotive",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 18,
+                "type": "text",
+                "content": "force acts along $A_{r} A_{g}$, there is no current in $A_{p} A_{q}$. On account",
+                "mathpix_content": " force acts along $A_{r} A_{g}$, there is no current in $A_{p} A_{q}$. On account",
+                "font_size": 34,
+                "confidence": 0.4673912760335952
+              },
+              {
+                "page": 441,
+                "line_number": 19,
+                "type": "text",
+                "content": "of this reciprocal relation the two conductors referred to are said",
+                "mathpix_content": " of this reciprocal relation the two conductors referred to are said",
+                "font_size": 34,
+                "confidence": 0.9443359375
+              },
+              {
+                "page": 441,
+                "line_number": 20,
+                "type": "text",
+                "content": "to be conjugate.",
+                "mathpix_content": " to be conjugate.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 21,
+                "type": "text",
+                "content": "The theory of conjugate conductors has been investigated by",
+                "mathpix_content": "\n\nThe theory of conjugate conductors has been investigated by",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 22,
+                "type": "text",
+                "content": "Kirchhoff, who has stated the conditions of a linear system in",
+                "mathpix_content": " Kirchhoff, who has stated the conditions of a linear system in",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 441,
+                "line_number": 23,
+                "type": "text",
+                "content": "the following manner, in which the consideration of the potential",
+                "mathpix_content": " the following manner, in which the consideration of the potential",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 24,
+                "type": "text",
+                "content": "is avoided.",
+                "mathpix_content": " is avoided.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 25,
+                "type": "text",
+                "content": "(1) (Condition of 'continuity.') At any point of the system",
+                "mathpix_content": "\n(1) (Condition of 'continuity.') At any point of the system",
+                "font_size": 34,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 441,
+                "line_number": 26,
+                "type": "text",
+                "content": "the sum of all the currents which flow towards that point is",
+                "mathpix_content": " the sum of all the currents which flow towards that point is",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 27,
+                "type": "text",
+                "content": "zero.",
+                "mathpix_content": " zero.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 28,
+                "type": "text",
+                "content": "(2) In any complete circuit formed by the conductors the sum",
+                "mathpix_content": "\n(2) In any complete circuit formed by the conductors the sum",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 29,
+                "type": "text",
+                "content": "of the electromotive forces taken round the circuit is equal to",
+                "mathpix_content": " of the electromotive forces taken round the circuit is equal to",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 30,
+                "type": "text",
+                "content": "the sum of the products of the current in each conductor multi-",
+                "mathpix_content": " the sum of the products of the current in each conductor multi",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 31,
+                "type": "text",
+                "content": "plied by the resistance of that conductor.",
+                "mathpix_content": "plied by the resistance of that conductor.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 32,
+                "type": "text",
+                "content": "We obtain this result by adding equations of the form (1) for",
+                "mathpix_content": "\n\nWe obtain this result by adding equations of the form (1) for",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 441,
+                "line_number": 33,
+                "type": "text",
+                "content": "the complete circuit, when the potentials necessarily disappear.",
+                "mathpix_content": " the complete circuit, when the potentials necessarily disappear.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 34,
+                "type": "text",
+                "content": "*282 b.] If the conducting wires form a simple network and if",
+                "mathpix_content": "\n*282 b.] If the conducting wires form a simple network and if",
+                "font_size": 34,
+                "confidence": 0.8283592593552156
+              },
+              {
+                "page": 441,
+                "line_number": 35,
+                "type": "text",
+                "content": "we suppose that a current circulates round each mesh, then the",
+                "mathpix_content": " we suppose that a current circulates round each mesh, then the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 36,
+                "type": "text",
+                "content": "actual current in the wire which forms a thread of each of two",
+                "mathpix_content": " actual current in the wire which forms a thread of each of two",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 37,
+                "type": "text",
+                "content": "neighbouring meshes will be the difference between the two",
+                "mathpix_content": " neighbouring meshes will be the difference between the two",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 38,
+                "type": "text",
+                "content": "currents circulating in the two meshes, the currents being",
+                "mathpix_content": " currents circulating in the two meshes, the currents being",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 39,
+                "type": "text",
+                "content": "reckoned positive when they circulate in a direction opposite",
+                "mathpix_content": " reckoned positive when they circulate in a direction opposite",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 40,
+                "type": "text",
+                "content": "to the motion of the hands of a watch. It is easy to establish",
+                "mathpix_content": " to the motion of the hands of a watch. It is easy to establish",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 441,
+                "line_number": 41,
+                "type": "text",
+                "content": "in this case the following proposition :-Let $x$ be the current, $E$",
+                "mathpix_content": " in this case the following proposition :-Let $x$ be the current, $E$",
+                "font_size": 34,
+                "confidence": 0.9829633015906438
+              },
+              {
+                "page": 441,
+                "line_number": 42,
+                "type": "text",
+                "content": "the electromotive force, and $R$ the total resistance in any mesh ;",
+                "mathpix_content": " the electromotive force, and $R$ the total resistance in any mesh ;",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 441,
+                "line_number": 43,
+                "type": "text",
+                "content": "let also $y, z, \\ldots$ be currents circulating in neighbouring meshes",
+                "mathpix_content": " let also $y, z, \\ldots$ be currents circulating in neighbouring meshes",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 441,
+                "line_number": 45,
+                "type": "text",
+                "content": "* [Extracted from notes of Professor Maxwell's lectures by Mr. J. A. Fleming, B.A.,",
+                "mathpix_content": "\n\n\\footnotetext{\n* [Extracted from notes of Professor Maxwell's lectures by Mr. J. A. Fleming, B.A.,",
+                "font_size": 21,
+                "confidence": 0.98779296875
+              },
+              {
+                "page": 441,
+                "line_number": 46,
+                "type": "text",
+                "content": "St. John's College. See also a paper by Mr. Fleming in the Phil. Mag., xx. p. 221,",
+                "mathpix_content": " St. John's College. See also a paper by Mr. Fleming in the Phil. Mag., xx. p. 221,",
+                "font_size": 21,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 441,
+                "line_number": 47,
+                "type": "text",
+                "content": "1885.]",
+                "mathpix_content": " 1885.]\n}",
+                "font_size": 21,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

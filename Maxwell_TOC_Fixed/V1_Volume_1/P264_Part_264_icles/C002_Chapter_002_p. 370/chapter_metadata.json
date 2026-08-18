@@ -1,0 +1,827 @@
+{
+  "chapter_id": "chapter_22",
+  "chapter_number": 2,
+  "title": ", p. 370. \\}",
+  "page_start": 121,
+  "page_end": 121,
+  "articles": [
+    {
+      "article_id": "article_28",
+      "article_number": 28,
+      "title_original": "\\}",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_370",
+      "article_number": 370,
+      "title_original": "\\}",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_28",
+      "article_number": 28,
+      "title_original": "\\}",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_370",
+      "article_number": 370,
+      "title_original": "\\}",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_86",
+      "article_number": 86,
+      "title_original": "ELECTROSTATICS.",
+      "title_safe": "ELECTROSTATICS",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_74",
+      "article_number": 74,
+      "title_original": "e.",
+      "title_safe": "e",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_15",
+      "article_number": 15,
+      "title_original": ") is always zero, we may",
+      "title_safe": "is always zero we may",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_15",
+      "article_number": 15,
+      "title_original": "),",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "a)-a f(a+b)+a f(a-b)=0 .$$",
+      "title_safe": "a-a faplusbplusa fa-bequals0",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}, \\text { a constant } .$$",
+      "title_safe": "text a constant",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "} r+C_{1} ;$$",
+      "title_safe": "rplusC1",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}+\\frac{C_{1}}{r}, \\\\",
+      "title_safe": "plusfracC1r",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}}{r^{2}} .",
+      "title_safe": "r2",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_27",
+      "article_number": 27,
+      "title_original": ", 28.\\}",
+      "title_safe": "28",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": ", p. 370. \\}",
+      "title_safe": "p. 370",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_15",
+      "article_number": 15,
+      "title_original": ") is always zero, we may",
+      "title_safe": "is always zero we may",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_15",
+      "article_number": 15,
+      "title_original": "),",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "a)-a f(a+b)+a f(a-b)=0 .$$",
+      "title_safe": "a-a faplusbplusa fa-bequals0",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}, \\text { a constant } .$$",
+      "title_safe": "text a constant",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "} r+C_{1} ;$$",
+      "title_safe": "rplusC1",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}+\\frac{C_{1}}{r}, \\\\",
+      "title_safe": "plusfracC1r",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}}{r^{2}} .",
+      "title_safe": "r2",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_27",
+      "article_number": 27,
+      "title_original": ", 28.\\}",
+      "title_safe": "28",
+      "page_start": 121,
+      "page_end": 120,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": ", p. 370. \\}",
+      "title_safe": "p. 370",
+      "page_start": 121,
+      "page_end": 121,
+      "content": {
+        "raw_text": "\n--- Page 121 ---\n86\nELECTROSTATICS.\n[74 e.\nIf we suppose that $\\beta$ in equation (15) is always zero, we may\napply the method of Laplace to determine the form of $f(r)$. We\nhave by (15),\n$$b f(2 a)-a f(a+b)+a f(a-b)=0 .$$\nDifferentiating twice with respect to $b$, and dividing by $a$, we\nfind\n$$f^{\\prime \\prime}(a+b)=f^{\\prime \\prime}(a-b) .$$\nIf this equation is generally true\n$$f^{\\prime \\prime}(r)=C_{0}, \\text { a constant } .$$\nHence,\n$$f^{\\prime}(r)=C_{0} r+C_{1} ;$$\nand by (1)\n$$\\begin{aligned}\n\\int_{r}^{\\infty} \\phi(r) d r & =\\frac{f^{\\prime}(r)}{r}=C_{0}+\\frac{C_{1}}{r}, \\\\\n\\phi(r) & =\\frac{C_{1}}{r^{2}} .\n\\end{aligned}$$\nWe may observe, however, that though the assumption of\nCavendish, that the force varies as some power of the distance,\nmay appear less general than that of Laplace, who supposes it\nto be any function of the distance, it is the only one consistent\nwith the fact that similar surfaces can be electrified so as to\nhave similar electrical properties, so that the lines of force are\nsimilar\\}.\nFor if the force were any function of the distance except a\npower of the distance, the ratio of the forces at two different\ndistances would not be a function of the ratio of the distances,\nbut would depend on the absolute value of the distances, and\nwould therefore involve the ratios of these distances to an\nabsolutely fixed length.\nIndeed Cavendish himself points out * that on his own hypo-\nthesis as to the constitution of the electric fluid, it is impossible for\nthe distribution of electricity to be accurately similar in two con-\nductors geometrically similar, unless the charges are proportional\nto the volumes. For he supposes the particles of the electric\nfluid to be closely pressed together near the surface of the body,\nand this is equivalent to supposing that the law of repulsion is\nno longer the inverse square \u2020 , but that as soon as the particles\ncome very close together, their repulsion begins to increase at a\nmuch greater rate with any further diminution of their distance.\n* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}\n\u2020 \\{Idem, Note 2, p. 370. \\}\n",
+        "mathpix_markdown": "\n--- Page 121 ---\n\n\nIf we suppose that $\\beta$ in equation (15) is always zero, we may\n apply the method of Laplace to determine the form of $f(r)$. We\n have by (15),\n\n$$b f(2 a)-a f(a+b)+a f(a-b)=0 .$$\n\n\nDifferentiating twice with respect to $b$, and dividing by $a$, we\n find\n\n$$f^{\\prime \\prime}(a+b)=f^{\\prime \\prime}(a-b) .$$\n\n\nIf this equation is generally true\n\n$$f^{\\prime \\prime}(r)=C_{0}, \\text { a constant } .$$\n\n\nHence,\n\n$$f^{\\prime}(r)=C_{0} r+C_{1} ;$$\n\nand by (1)\n\n$$\\begin{aligned}\n\\int_{r}^{\\infty} \\phi(r) d r & =\\frac{f^{\\prime}(r)}{r}=C_{0}+\\frac{C_{1}}{r}, \\\\\n\\phi(r) & =\\frac{C_{1}}{r^{2}} .\n\\end{aligned}$$\n\n\nWe may observe, however, that though the assumption of\n Cavendish, that the force varies as some power of the distance,\n may appear less general than that of Laplace, who supposes it\n to be any function of the distance, it is the only one consistent\n with the fact that similar surfaces can be electrified so as to\n have similar electrical properties, so that the lines of force are\n similar\\}.\n\n\nFor if the force were any function of the distance except a\n power of the distance, the ratio of the forces at two different\n distances would not be a function of the ratio of the distances,\n but would depend on the absolute value of the distances, and\n would therefore involve the ratios of these distances to an\n absolutely fixed length.\n\n\nIndeed Cavendish himself points out * that on his own hypo\nthesis as to the constitution of the electric fluid, it is impossible for\n the distribution of electricity to be accurately similar in two con\nductors geometrically similar, unless the charges are proportional\n to the volumes. For he supposes the particles of the electric\n fluid to be closely pressed together near the surface of the body,\n and this is equivalent to supposing that the law of repulsion is\n no longer the inverse square \u2020 , but that as soon as the particles\n come very close together, their repulsion begins to increase at a\n much greater rate with any further diminution of their distance.\n\n* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}\n\n\u2020 \\{Idem, Note 2, p. 370. \\}\n",
+        "structured_lines": [
+          {
+            "page": 121,
+            "line_number": 4,
+            "type": "text",
+            "content": "If we suppose that $\\beta$ in equation (15) is always zero, we may",
+            "mathpix_content": "\n\nIf we suppose that $\\beta$ in equation (15) is always zero, we may",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 5,
+            "type": "text",
+            "content": "apply the method of Laplace to determine the form of $f(r)$. We",
+            "mathpix_content": " apply the method of Laplace to determine the form of $f(r)$. We",
+            "font_size": 27,
+            "confidence": 0.998046875
+          },
+          {
+            "page": 121,
+            "line_number": 6,
+            "type": "text",
+            "content": "have by (15),",
+            "mathpix_content": " have by (15),",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 9,
+            "type": "text",
+            "content": "Differentiating twice with respect to $b$, and dividing by $a$, we",
+            "mathpix_content": "\n\nDifferentiating twice with respect to $b$, and dividing by $a$, we",
+            "font_size": 27,
+            "confidence": 0.8028304576873779
+          },
+          {
+            "page": 121,
+            "line_number": 10,
+            "type": "text",
+            "content": "find",
+            "mathpix_content": " find",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 13,
+            "type": "text",
+            "content": "If this equation is generally true",
+            "mathpix_content": "\n\nIf this equation is generally true",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 16,
+            "type": "text",
+            "content": "Hence,",
+            "mathpix_content": "\n\nHence,",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 121,
+            "line_number": 19,
+            "type": "text",
+            "content": "and by (1)",
+            "mathpix_content": "\nand by (1)",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 23,
+            "type": "text",
+            "content": "We may observe, however, that though the assumption of",
+            "mathpix_content": "\n\nWe may observe, however, that though the assumption of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 24,
+            "type": "text",
+            "content": "Cavendish, that the force varies as some power of the distance,",
+            "mathpix_content": " Cavendish, that the force varies as some power of the distance,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 25,
+            "type": "text",
+            "content": "may appear less general than that of Laplace, who supposes it",
+            "mathpix_content": " may appear less general than that of Laplace, who supposes it",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 26,
+            "type": "text",
+            "content": "to be any function of the distance, it is the only one consistent",
+            "mathpix_content": " to be any function of the distance, it is the only one consistent",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 27,
+            "type": "text",
+            "content": "with the fact that similar surfaces can be electrified so as to",
+            "mathpix_content": " with the fact that similar surfaces can be electrified so as to",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 28,
+            "type": "text",
+            "content": "have similar electrical properties, so that the lines of force are",
+            "mathpix_content": " have similar electrical properties, so that the lines of force are",
+            "font_size": 27,
+            "confidence": 0.9653959274291992
+          },
+          {
+            "page": 121,
+            "line_number": 29,
+            "type": "text",
+            "content": "similar\\}.",
+            "mathpix_content": " similar\\}.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 30,
+            "type": "text",
+            "content": "For if the force were any function of the distance except a",
+            "mathpix_content": "\n\nFor if the force were any function of the distance except a",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 31,
+            "type": "text",
+            "content": "power of the distance, the ratio of the forces at two different",
+            "mathpix_content": " power of the distance, the ratio of the forces at two different",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 32,
+            "type": "text",
+            "content": "distances would not be a function of the ratio of the distances,",
+            "mathpix_content": " distances would not be a function of the ratio of the distances,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 33,
+            "type": "text",
+            "content": "but would depend on the absolute value of the distances, and",
+            "mathpix_content": " but would depend on the absolute value of the distances, and",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 34,
+            "type": "text",
+            "content": "would therefore involve the ratios of these distances to an",
+            "mathpix_content": " would therefore involve the ratios of these distances to an",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 35,
+            "type": "text",
+            "content": "absolutely fixed length.",
+            "mathpix_content": " absolutely fixed length.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 36,
+            "type": "text",
+            "content": "Indeed Cavendish himself points out * that on his own hypo-",
+            "mathpix_content": "\n\nIndeed Cavendish himself points out * that on his own hypo",
+            "font_size": 27,
+            "confidence": 0.99560546875
+          },
+          {
+            "page": 121,
+            "line_number": 37,
+            "type": "text",
+            "content": "thesis as to the constitution of the electric fluid, it is impossible for",
+            "mathpix_content": "thesis as to the constitution of the electric fluid, it is impossible for",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 38,
+            "type": "text",
+            "content": "the distribution of electricity to be accurately similar in two con-",
+            "mathpix_content": " the distribution of electricity to be accurately similar in two con",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 39,
+            "type": "text",
+            "content": "ductors geometrically similar, unless the charges are proportional",
+            "mathpix_content": "ductors geometrically similar, unless the charges are proportional",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 40,
+            "type": "text",
+            "content": "to the volumes. For he supposes the particles of the electric",
+            "mathpix_content": " to the volumes. For he supposes the particles of the electric",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 121,
+            "line_number": 41,
+            "type": "text",
+            "content": "fluid to be closely pressed together near the surface of the body,",
+            "mathpix_content": " fluid to be closely pressed together near the surface of the body,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 42,
+            "type": "text",
+            "content": "and this is equivalent to supposing that the law of repulsion is",
+            "mathpix_content": " and this is equivalent to supposing that the law of repulsion is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 43,
+            "type": "text",
+            "content": "no longer the inverse square \u2020 , but that as soon as the particles",
+            "mathpix_content": " no longer the inverse square \u2020 , but that as soon as the particles",
+            "font_size": 27,
+            "confidence": 0.9375302791595459
+          },
+          {
+            "page": 121,
+            "line_number": 44,
+            "type": "text",
+            "content": "come very close together, their repulsion begins to increase at a",
+            "mathpix_content": " come very close together, their repulsion begins to increase at a",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 45,
+            "type": "text",
+            "content": "much greater rate with any further diminution of their distance.",
+            "mathpix_content": " much greater rate with any further diminution of their distance.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 121,
+            "line_number": 46,
+            "type": "text",
+            "content": "* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}",
+            "mathpix_content": "\n* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}",
+            "font_size": 21,
+            "confidence": 0.9648570857429672
+          },
+          {
+            "page": 121,
+            "line_number": 47,
+            "type": "text",
+            "content": "\u2020 \\{Idem, Note 2, p. 370. \\}",
+            "mathpix_content": "\n\u2020 \\{Idem, Note 2, p. 370. \\}",
+            "font_size": 21,
+            "confidence": 0.8654901412670739
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

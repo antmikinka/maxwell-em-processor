@@ -1,0 +1,20 @@
+{
+  "article_id": "article_100",
+  "article_number": 100,
+  "title_original": "^{\\circ} \\mathrm{C}$, though apparently a",
+  "title_safe": "circ mathrmC though apparently a",
+  "page_start": 429,
+  "page_end": 428,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

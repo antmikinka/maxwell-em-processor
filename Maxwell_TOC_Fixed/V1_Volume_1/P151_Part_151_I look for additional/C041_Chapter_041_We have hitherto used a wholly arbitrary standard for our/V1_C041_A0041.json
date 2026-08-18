@@ -1,0 +1,327 @@
+{
+  "article_id": "article_41",
+  "article_number": 41,
+  "title_original": ".] We have hitherto used a wholly arbitrary standard for our",
+  "title_safe": "We have hitherto used a wholly arbitrary standard for our",
+  "page_start": 80,
+  "page_end": 80,
+  "content": {
+    "raw_text": "\n--- Page 80 ---\n41.]\nMEASUREMENT OF ELECTRIC FORCES.\n45\nThen each of the $m$ positive units in $A$ will repel each of the\n$m^{\\prime}$ positive units in $B$ with a certain force, say $f$, making a total\neffect equal to $m m^{\\prime} f$.\nSince the effect of negative electricity is exactly equal and\nopposite to that of positive electricity, each of the $m$ positive units\nin $A$ will attract each of the $n^{\\prime}$ negative units in $B$ with the\nsame force $f$, making a total effect equal to $m n^{\\prime} f$.\nSimilarly the $n$ negative units in $A$ will attract the $m^{\\prime}$ positive\nunits in $B$ with a force $n m^{\\prime} f$, and will repel the $n^{\\prime}$ negative units\nin $B$ with a force $n n^{\\prime} f$.\nThe total repulsion will therefore be $\\left(m m^{\\prime}+n n^{\\prime}\\right) f$; and the\ntotal attraction will be $\\left(m n^{\\prime}+m^{\\prime} n\\right) f$.\nThe resultant repulsion will be\n$$\\left(m m^{\\prime}+n n^{\\prime}-m n^{\\prime}-n m^{\\prime}\\right) f \\quad \\text { or } \\quad(m-n)\\left(m^{\\prime}-n^{\\prime}\\right) f$$\nNow $m-n=e$ is the algebraical value of the charge on $A$, and\n$m^{\\prime}-n^{\\prime}=e^{\\prime}$ is that of the charge on $B$, so that the resultant re-\npulsion may be written $e e^{\\prime} f$, the quantities $e$ and $e^{\\prime}$ being always\nunderstood to be taken with their proper signs.\n\nVariation of the Force with the Distance.\n40.] Having established the law of force at a fixed distance,\nwe may measure the force between bodies charged in a constant\nmanner and placed at different distances. It is found by direct\nmeasurement that the force, whether of attraction or repulsion,\nvaries inversely as the square of the distance, so that if $f$ is the\nrepulsion between two units at unit distance, the repulsion at dis-\ntance $r$ will be $f r^{-2}$, and the general expression for the repulsion\nbetween $e$ units and $e^{\\prime}$ units at distance $r$ will be\n$$f e e^{\\prime} r^{-2}$$\n\nDefinition of the Electrostatic Unit of Electricity.\n41.] We have hitherto used a wholly arbitrary standard for our\nunit of electricity, namely, the electrification of a certain piece of\nglass as it happened to be electrified at the commencement of our\nexperiments. We are now able to select a unit on a definite\nprinciple, and in order that this unit may belong to a general\nsystem we define it so that $f$ may be unity, or in other words-\nThe electrostatic unit of electricity is that quantity of positive\n",
+    "mathpix_markdown": "\n--- Page 80 ---\n\n\nThen each of the $m$ positive units in $A$ will repel each of the\n $m^{\\prime}$ positive units in $B$ with a certain force, say $f$, making a total\n effect equal to $m m^{\\prime} f$.\n\n\nSince the effect of negative electricity is exactly equal and\n opposite to that of positive electricity, each of the $m$ positive units\n in $A$ will attract each of the $n^{\\prime}$ negative units in $B$ with the\n same force $f$, making a total effect equal to $m n^{\\prime} f$.\n\n\nSimilarly the $n$ negative units in $A$ will attract the $m^{\\prime}$ positive\n units in $B$ with a force $n m^{\\prime} f$, and will repel the $n^{\\prime}$ negative units\n in $B$ with a force $n n^{\\prime} f$.\n\n\nThe total repulsion will therefore be $\\left(m m^{\\prime}+n n^{\\prime}\\right) f$; and the\n total attraction will be $\\left(m n^{\\prime}+m^{\\prime} n\\right) f$.\n\n\nThe resultant repulsion will be\n\n$$\\left(m m^{\\prime}+n n^{\\prime}-m n^{\\prime}-n m^{\\prime}\\right) f \\quad \\text { or } \\quad(m-n)\\left(m^{\\prime}-n^{\\prime}\\right) f$$\n\n\nNow $m-n=e$ is the algebraical value of the charge on $A$, and\n $m^{\\prime}-n^{\\prime}=e^{\\prime}$ is that of the charge on $B$, so that the resultant re\npulsion may be written $e e^{\\prime} f$, the quantities $e$ and $e^{\\prime}$ being always\n understood to be taken with their proper signs.\n\n\n\\section*{Variation of the Force with the Distance.}\n\n40.] Having established the law of force at a fixed distance,\n we may measure the force between bodies charged in a constant\n manner and placed at different distances. It is found by direct\n measurement that the force, whether of attraction or repulsion,\n varies inversely as the square of the distance, so that if $f$ is the\n repulsion between two units at unit distance, the repulsion at dis\ntance $r$ will be $f r^{-2}$, and the general expression for the repulsion\n between $e$ units and $e^{\\prime}$ units at distance $r$ will be\n\n$$f e e^{\\prime} r^{-2}$$\n\n\n\\section*{Definition of the Electrostatic Unit of Electricity.}\n\n41.] We have hitherto used a wholly arbitrary standard for our\n unit of electricity, namely, the electrification of a certain piece of\n glass as it happened to be electrified at the commencement of our\n experiments. We are now able to select a unit on a definite\n principle, and in order that this unit may belong to a general\n system we define it so that $f$ may be unity, or in other words-\n\n\nThe electrostatic unit of electricity is that quantity of positive\n",
+    "structured_lines": [
+      {
+        "page": 80,
+        "line_number": 4,
+        "type": "text",
+        "content": "Then each of the $m$ positive units in $A$ will repel each of the",
+        "mathpix_content": "\n\nThen each of the $m$ positive units in $A$ will repel each of the",
+        "font_size": 27,
+        "confidence": 0.9975595474243164
+      },
+      {
+        "page": 80,
+        "line_number": 5,
+        "type": "text",
+        "content": "$m^{\\prime}$ positive units in $B$ with a certain force, say $f$, making a total",
+        "mathpix_content": " $m^{\\prime}$ positive units in $B$ with a certain force, say $f$, making a total",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 6,
+        "type": "text",
+        "content": "effect equal to $m m^{\\prime} f$.",
+        "mathpix_content": " effect equal to $m m^{\\prime} f$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 7,
+        "type": "text",
+        "content": "Since the effect of negative electricity is exactly equal and",
+        "mathpix_content": "\n\nSince the effect of negative electricity is exactly equal and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 8,
+        "type": "text",
+        "content": "opposite to that of positive electricity, each of the $m$ positive units",
+        "mathpix_content": " opposite to that of positive electricity, each of the $m$ positive units",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 9,
+        "type": "text",
+        "content": "in $A$ will attract each of the $n^{\\prime}$ negative units in $B$ with the",
+        "mathpix_content": " in $A$ will attract each of the $n^{\\prime}$ negative units in $B$ with the",
+        "font_size": 27,
+        "confidence": 0.9975595474243164
+      },
+      {
+        "page": 80,
+        "line_number": 10,
+        "type": "text",
+        "content": "same force $f$, making a total effect equal to $m n^{\\prime} f$.",
+        "mathpix_content": " same force $f$, making a total effect equal to $m n^{\\prime} f$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 11,
+        "type": "text",
+        "content": "Similarly the $n$ negative units in $A$ will attract the $m^{\\prime}$ positive",
+        "mathpix_content": "\n\nSimilarly the $n$ negative units in $A$ will attract the $m^{\\prime}$ positive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 12,
+        "type": "text",
+        "content": "units in $B$ with a force $n m^{\\prime} f$, and will repel the $n^{\\prime}$ negative units",
+        "mathpix_content": " units in $B$ with a force $n m^{\\prime} f$, and will repel the $n^{\\prime}$ negative units",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 13,
+        "type": "text",
+        "content": "in $B$ with a force $n n^{\\prime} f$.",
+        "mathpix_content": " in $B$ with a force $n n^{\\prime} f$.",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 80,
+        "line_number": 14,
+        "type": "text",
+        "content": "The total repulsion will therefore be $\\left(m m^{\\prime}+n n^{\\prime}\\right) f$; and the",
+        "mathpix_content": "\n\nThe total repulsion will therefore be $\\left(m m^{\\prime}+n n^{\\prime}\\right) f$; and the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 80,
+        "line_number": 15,
+        "type": "text",
+        "content": "total attraction will be $\\left(m n^{\\prime}+m^{\\prime} n\\right) f$.",
+        "mathpix_content": " total attraction will be $\\left(m n^{\\prime}+m^{\\prime} n\\right) f$.",
+        "font_size": 27,
+        "confidence": 0.9780979156494141
+      },
+      {
+        "page": 80,
+        "line_number": 16,
+        "type": "text",
+        "content": "The resultant repulsion will be",
+        "mathpix_content": "\n\nThe resultant repulsion will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 19,
+        "type": "text",
+        "content": "Now $m-n=e$ is the algebraical value of the charge on $A$, and",
+        "mathpix_content": "\n\nNow $m-n=e$ is the algebraical value of the charge on $A$, and",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 80,
+        "line_number": 20,
+        "type": "text",
+        "content": "$m^{\\prime}-n^{\\prime}=e^{\\prime}$ is that of the charge on $B$, so that the resultant re-",
+        "mathpix_content": " $m^{\\prime}-n^{\\prime}=e^{\\prime}$ is that of the charge on $B$, so that the resultant re",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 21,
+        "type": "text",
+        "content": "pulsion may be written $e e^{\\prime} f$, the quantities $e$ and $e^{\\prime}$ being always",
+        "mathpix_content": "pulsion may be written $e e^{\\prime} f$, the quantities $e$ and $e^{\\prime}$ being always",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 22,
+        "type": "text",
+        "content": "understood to be taken with their proper signs.",
+        "mathpix_content": " understood to be taken with their proper signs.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 24,
+        "type": "text",
+        "content": "Variation of the Force with the Distance.",
+        "mathpix_content": "\n\n\\section*{Variation of the Force with the Distance.}",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 80,
+        "line_number": 25,
+        "type": "text",
+        "content": "40.] Having established the law of force at a fixed distance,",
+        "mathpix_content": "\n40.] Having established the law of force at a fixed distance,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 26,
+        "type": "text",
+        "content": "we may measure the force between bodies charged in a constant",
+        "mathpix_content": " we may measure the force between bodies charged in a constant",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 27,
+        "type": "text",
+        "content": "manner and placed at different distances. It is found by direct",
+        "mathpix_content": " manner and placed at different distances. It is found by direct",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 28,
+        "type": "text",
+        "content": "measurement that the force, whether of attraction or repulsion,",
+        "mathpix_content": " measurement that the force, whether of attraction or repulsion,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 29,
+        "type": "text",
+        "content": "varies inversely as the square of the distance, so that if $f$ is the",
+        "mathpix_content": " varies inversely as the square of the distance, so that if $f$ is the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 80,
+        "line_number": 30,
+        "type": "text",
+        "content": "repulsion between two units at unit distance, the repulsion at dis-",
+        "mathpix_content": " repulsion between two units at unit distance, the repulsion at dis",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 80,
+        "line_number": 31,
+        "type": "text",
+        "content": "tance $r$ will be $f r^{-2}$, and the general expression for the repulsion",
+        "mathpix_content": "tance $r$ will be $f r^{-2}$, and the general expression for the repulsion",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 32,
+        "type": "text",
+        "content": "between $e$ units and $e^{\\prime}$ units at distance $r$ will be",
+        "mathpix_content": " between $e$ units and $e^{\\prime}$ units at distance $r$ will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 36,
+        "type": "text",
+        "content": "Definition of the Electrostatic Unit of Electricity.",
+        "mathpix_content": "\n\n\\section*{Definition of the Electrostatic Unit of Electricity.}",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 80,
+        "line_number": 37,
+        "type": "text",
+        "content": "41.] We have hitherto used a wholly arbitrary standard for our",
+        "mathpix_content": "\n41.] We have hitherto used a wholly arbitrary standard for our",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 38,
+        "type": "text",
+        "content": "unit of electricity, namely, the electrification of a certain piece of",
+        "mathpix_content": " unit of electricity, namely, the electrification of a certain piece of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 39,
+        "type": "text",
+        "content": "glass as it happened to be electrified at the commencement of our",
+        "mathpix_content": " glass as it happened to be electrified at the commencement of our",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 40,
+        "type": "text",
+        "content": "experiments. We are now able to select a unit on a definite",
+        "mathpix_content": " experiments. We are now able to select a unit on a definite",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 41,
+        "type": "text",
+        "content": "principle, and in order that this unit may belong to a general",
+        "mathpix_content": " principle, and in order that this unit may belong to a general",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 80,
+        "line_number": 42,
+        "type": "text",
+        "content": "system we define it so that $f$ may be unity, or in other words-",
+        "mathpix_content": " system we define it so that $f$ may be unity, or in other words-",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 80,
+        "line_number": 43,
+        "type": "text",
+        "content": "The electrostatic unit of electricity is that quantity of positive",
+        "mathpix_content": "\n\nThe electrostatic unit of electricity is that quantity of positive",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

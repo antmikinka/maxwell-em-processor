@@ -1,0 +1,228 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}+\\frac{1}{\\delta^{2}}}}$$",
+  "title_safe": "sqrtfrac1a2plusfrac1beta2plusfrac1gamma2plusfrac1delta2",
+  "page_start": 299,
+  "page_end": 299,
+  "content": {
+    "raw_text": "\n--- Page 299 ---\n264\nELECTRIC IMAGES.\n[169.\non the opposite sides of the triangle, and let $O$ be the inter-\nsection of perpendiculars.\n\n\nFig. 13.\nThen $P$ is the image of $B$\nin the sphere $\\gamma$, and also the\nimage of $C$ in the sphere $\\beta$.\nAlso $O$ is the image of $P$ in the\nsphere $a$.\nLet charges $a, \\beta$, and $\\gamma$ be\nplaced at $A, B$, and $C$.\nThen the charge to be placed\nat $P$ is\n$$-\\frac{\\beta \\gamma}{\\sqrt{\\beta^{2}+\\gamma^{2}}}=-\\frac{1}{\\sqrt{\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}}}$$\nAlso $A P=-\\frac{\\sqrt{\\beta^{2} \\gamma^{2}+\\gamma^{2} a^{2}+a^{2} \\beta^{2}}}{\\sqrt{\\beta^{2}+\\gamma^{2}}}$, so that the charge at $O$, con-\nsidered as the image of $P$, is\n$$\\frac{a \\beta \\gamma}{\\sqrt{\\beta^{2} \\gamma^{2}+\\gamma^{2} u^{2}+u^{2} \\beta^{2}}}=\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}}} .$$\nIn the same way we may find the system of images which are\nelectrically equivalent to four spherical surfaces at potential\nunity intersecting at right angles.\nIf the radius of the fourth sphere is $\\delta$, and if we make the\ncharge at the centre of this sphere $=\\delta$, then the charge at the\nintersection of the line of centres of any two spheres, say $a$ and\n$\\beta$, with their plane of intersection, is\n$$-\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}}} .$$\nThe charge at the intersection of the plane of any three centres\n$A B C$ with the perpendicular from the centre $D$ is\n$$+\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}}},$$\nand the charge at the intersection of the four perpendiculars is\n$$-\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}+\\frac{1}{\\delta^{2}}}}$$\n",
+    "mathpix_markdown": "\n--- Page 299 ---\n\non the opposite sides of the triangle, and let $O$ be the inter\nsection of perpendiculars.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-299.jpg?height=457&width=490&top_left_y=290&top_left_x=153}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 13.}\n\\end{figure}\n\n\nThen $P$ is the image of $B$\n in the sphere $\\gamma$, and also the\n image of $C$ in the sphere $\\beta$.\n Also $O$ is the image of $P$ in the\n sphere $a$.\n\n\nLet charges $a, \\beta$, and $\\gamma$ be\n placed at $A, B$, and $C$.\n\n\nThen the charge to be placed\n at $P$ is\n\n$$-\\frac{\\beta \\gamma}{\\sqrt{\\beta^{2}+\\gamma^{2}}}=-\\frac{1}{\\sqrt{\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}}}$$\n\n\nAlso $A P=-\\frac{\\sqrt{\\beta^{2} \\gamma^{2}+\\gamma^{2} a^{2}+a^{2} \\beta^{2}}}{\\sqrt{\\beta^{2}+\\gamma^{2}}}$, so that the charge at $O$, con\nsidered as the image of $P$, is\n\n$$\\frac{a \\beta \\gamma}{\\sqrt{\\beta^{2} \\gamma^{2}+\\gamma^{2} u^{2}+u^{2} \\beta^{2}}}=\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}}} .$$\n\n\nIn the same way we may find the system of images which are\n electrically equivalent to four spherical surfaces at potential\n unity intersecting at right angles.\n\n\nIf the radius of the fourth sphere is $\\delta$, and if we make the\n charge at the centre of this sphere $=\\delta$, then the charge at the\n intersection of the line of centres of any two spheres, say $a$ and\n $\\beta$, with their plane of intersection, is\n\n$$-\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}}} .$$\n\n\nThe charge at the intersection of the plane of any three centres\n $A B C$ with the perpendicular from the centre $D$ is\n\n$$+\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}}},$$\n\nand the charge at the intersection of the four perpendiculars is\n\n$$-\\frac{1}{\\sqrt{\\frac{1}{a^{2}}+\\frac{1}{\\beta^{2}}+\\frac{1}{\\gamma^{2}}+\\frac{1}{\\delta^{2}}}}$$\n",
+    "structured_lines": [
+      {
+        "page": 299,
+        "line_number": 4,
+        "type": "text",
+        "content": "on the opposite sides of the triangle, and let $O$ be the inter-",
+        "mathpix_content": "\non the opposite sides of the triangle, and let $O$ be the inter",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 5,
+        "type": "text",
+        "content": "section of perpendiculars.",
+        "mathpix_content": "section of perpendiculars.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 9,
+        "type": "text",
+        "content": "Then $P$ is the image of $B$",
+        "mathpix_content": "\n\nThen $P$ is the image of $B$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 10,
+        "type": "text",
+        "content": "in the sphere $\\gamma$, and also the",
+        "mathpix_content": " in the sphere $\\gamma$, and also the",
+        "font_size": 27,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 299,
+        "line_number": 11,
+        "type": "text",
+        "content": "image of $C$ in the sphere $\\beta$.",
+        "mathpix_content": " image of $C$ in the sphere $\\beta$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 12,
+        "type": "text",
+        "content": "Also $O$ is the image of $P$ in the",
+        "mathpix_content": " Also $O$ is the image of $P$ in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 13,
+        "type": "text",
+        "content": "sphere $a$.",
+        "mathpix_content": " sphere $a$.",
+        "font_size": 27,
+        "confidence": 0.9580478668212891
+      },
+      {
+        "page": 299,
+        "line_number": 14,
+        "type": "text",
+        "content": "Let charges $a, \\beta$, and $\\gamma$ be",
+        "mathpix_content": "\n\nLet charges $a, \\beta$, and $\\gamma$ be",
+        "font_size": 27,
+        "confidence": 0.6622802373021841
+      },
+      {
+        "page": 299,
+        "line_number": 15,
+        "type": "text",
+        "content": "placed at $A, B$, and $C$.",
+        "mathpix_content": " placed at $A, B$, and $C$.",
+        "font_size": 27,
+        "confidence": 0.9892628192901611
+      },
+      {
+        "page": 299,
+        "line_number": 16,
+        "type": "text",
+        "content": "Then the charge to be placed",
+        "mathpix_content": "\n\nThen the charge to be placed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 17,
+        "type": "text",
+        "content": "at $P$ is",
+        "mathpix_content": " at $P$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 20,
+        "type": "text",
+        "content": "Also $A P=-\\frac{\\sqrt{\\beta^{2} \\gamma^{2}+\\gamma^{2} a^{2}+a^{2} \\beta^{2}}}{\\sqrt{\\beta^{2}+\\gamma^{2}}}$, so that the charge at $O$, con-",
+        "mathpix_content": "\n\nAlso $A P=-\\frac{\\sqrt{\\beta^{2} \\gamma^{2}+\\gamma^{2} a^{2}+a^{2} \\beta^{2}}}{\\sqrt{\\beta^{2}+\\gamma^{2}}}$, so that the charge at $O$, con",
+        "font_size": 27,
+        "confidence": 0.923689448973164
+      },
+      {
+        "page": 299,
+        "line_number": 21,
+        "type": "text",
+        "content": "sidered as the image of $P$, is",
+        "mathpix_content": "sidered as the image of $P$, is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 24,
+        "type": "text",
+        "content": "In the same way we may find the system of images which are",
+        "mathpix_content": "\n\nIn the same way we may find the system of images which are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 25,
+        "type": "text",
+        "content": "electrically equivalent to four spherical surfaces at potential",
+        "mathpix_content": " electrically equivalent to four spherical surfaces at potential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 26,
+        "type": "text",
+        "content": "unity intersecting at right angles.",
+        "mathpix_content": " unity intersecting at right angles.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 27,
+        "type": "text",
+        "content": "If the radius of the fourth sphere is $\\delta$, and if we make the",
+        "mathpix_content": "\n\nIf the radius of the fourth sphere is $\\delta$, and if we make the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 28,
+        "type": "text",
+        "content": "charge at the centre of this sphere $=\\delta$, then the charge at the",
+        "mathpix_content": " charge at the centre of this sphere $=\\delta$, then the charge at the",
+        "font_size": 27,
+        "confidence": 0.96484375
+      },
+      {
+        "page": 299,
+        "line_number": 29,
+        "type": "text",
+        "content": "intersection of the line of centres of any two spheres, say $a$ and",
+        "mathpix_content": " intersection of the line of centres of any two spheres, say $a$ and",
+        "font_size": 27,
+        "confidence": 0.9970715045928955
+      },
+      {
+        "page": 299,
+        "line_number": 30,
+        "type": "text",
+        "content": "$\\beta$, with their plane of intersection, is",
+        "mathpix_content": " $\\beta$, with their plane of intersection, is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 33,
+        "type": "text",
+        "content": "The charge at the intersection of the plane of any three centres",
+        "mathpix_content": "\n\nThe charge at the intersection of the plane of any three centres",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 34,
+        "type": "text",
+        "content": "$A B C$ with the perpendicular from the centre $D$ is",
+        "mathpix_content": " $A B C$ with the perpendicular from the centre $D$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 299,
+        "line_number": 37,
+        "type": "text",
+        "content": "and the charge at the intersection of the four perpendiculars is",
+        "mathpix_content": "\nand the charge at the intersection of the four perpendiculars is",
+        "font_size": 27,
+        "confidence": 0.99658203125
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

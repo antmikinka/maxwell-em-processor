@@ -1,0 +1,495 @@
+{
+  "part_id": "part_79",
+  "part_number": 79,
+  "title": "icle of iron, are",
+  "page_start": 45,
+  "page_end": 45,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 10,
+      "title": "PRELIMINARY.",
+      "page_start": 45,
+      "page_end": 44,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 11,
+      "title": "] One of the most important features of Hamilton's method",
+      "page_start": 45,
+      "page_end": 44,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 11,
+      "title": "] One of the most important features of Hamilton's method",
+      "page_start": 45,
+      "page_end": 45,
+      "articles": [
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": "] One of the most important features of Hamilton's method",
+          "title_safe": "One of the most important features of Hamiltons method",
+          "page_start": 45,
+          "page_end": 44,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": "] One of the most important features of Hamilton's method",
+          "title_safe": "One of the most important features of Hamiltons method",
+          "page_start": 45,
+          "page_end": 44,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_10",
+          "article_number": 10,
+          "title_original": "PRELIMINARY.",
+          "title_safe": "PRELIMINARY",
+          "page_start": 45,
+          "page_end": 44,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": ".] One of the most important features of Hamilton's method",
+          "title_safe": "One of the most important features of Hamiltons method",
+          "page_start": 45,
+          "page_end": 44,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": ".] One of the most important features of Hamilton's method",
+          "title_safe": "One of the most important features of Hamiltons method",
+          "page_start": 45,
+          "page_end": 45,
+          "content": {
+            "raw_text": "\n--- Page 45 ---\n10\nPRELIMINARY.\n[II\n11.] One of the most important features of Hamilton's method\nis the division of quantities into Scalars and Vectors.\nA Scalar quantity is capable of being completely defined by a\nsingle numerical specification. Its numerical value does not in\nany way depend on the directions we assume for the coordinate\naxes.\nA Vector, or Directed quantity, requires for its definition three\nnumerical specifications, and these may most simply be under-\nstood as having reference to the directions of the coordinate axes.\nScalar quantities do not involve direction. The volume of a\ngeometrical figur, the mass and the energy of a material body,\nthe hydrostatical pressure at a point in a fluid, and the potential\nat a point in space, are examples of scalar quantities.\nA vector quantity has direction as well as magnitude, and is\nsuch that a reversal of its direction reverses its sign. The dis-\nplacement of a point, represented by a straight line drawn from\nits original to its final position, may be taken as the typical\nvecoor quantity, from which indeed the name of Vector is\nderived.\nThe velocity of a body, its momentum, the force acting on it,\nan electric current, the magnetization of a particle of iron, are\ninstances of vector quantities.\nThere are physical quantities of another kind which are related\nto directions in space, but which are not vectors. Stresses and\nstrains in solid bodies are examples of these, and so are some of\nthe properties of bodies considered in the theory of elasticity and\nin the theory of double refraction. Quantities of this class\nrequire for their definition nine numerical specifications. They\nare expressed in the language of quaternions by linear and\nvector functions of a vector.\nThe addition of one vector quantity to another of the same\nkind is performed according to the rule given in Statics for the\ncomposition of forces. In fact, the proof which Poisson gives of\nthe 'parallelogram of forces' is applicable to the composition of\nany quantities such that turning them end for end is equivalent\nto a reversal of their sign.\nWhen we wish to denote a vector quantity by a single symbol,\nand to call attention to the fact that it is a vector, so that we\nmust consider its direction as well as its magnitude, we shall\ndenote it by a German capital letter, as $\\mathfrak{A}, \\mathfrak{B}$, \\&c.\n",
+            "mathpix_markdown": "\n--- Page 45 ---\n\n11.] One of the most important features of Hamilton's method\n is the division of quantities into Scalars and Vectors.\n\n\nA Scalar quantity is capable of being completely defined by a\n single numerical specification. Its numerical value does not in\n any way depend on the directions we assume for the coordinate\n axes.\n\n\nA Vector, or Directed quantity, requires for its definition three\n numerical specifications, and these may most simply be under\nstood as having reference to the directions of the coordinate axes.\n\n\nScalar quantities do not involve direction. The volume of a\n geometrical figur, the mass and the energy of a material body,\n the hydrostatical pressure at a point in a fluid, and the potential\n at a point in space, are examples of scalar quantities.\n\n\nA vector quantity has direction as well as magnitude, and is\n such that a reversal of its direction reverses its sign. The dis\nplacement of a point, represented by a straight line drawn from\n its original to its final position, may be taken as the typical\n vecoor quantity, from which indeed the name of Vector is\n derived.\n\n\nThe velocity of a body, its momentum, the force acting on it,\n an electric current, the magnetization of a particle of iron, are\n instances of vector quantities.\n\n\nThere are physical quantities of another kind which are related\n to directions in space, but which are not vectors. Stresses and\n strains in solid bodies are examples of these, and so are some of\n the properties of bodies considered in the theory of elasticity and\n in the theory of double refraction. Quantities of this class\n require for their definition nine numerical specifications. They\n are expressed in the language of quaternions by linear and\n vector functions of a vector.\n\n\nThe addition of one vector quantity to another of the same\n kind is performed according to the rule given in Statics for the\n composition of forces. In fact, the proof which Poisson gives of\n the 'parallelogram of forces' is applicable to the composition of\n any quantities such that turning them end for end is equivalent\n to a reversal of their sign.\n\n\nWhen we wish to denote a vector quantity by a single symbol,\n and to call attention to the fact that it is a vector, so that we\n must consider its direction as well as its magnitude, we shall\n denote it by a German capital letter, as $\\mathfrak{A}, \\mathfrak{B}$, \\&c.\n",
+            "structured_lines": [
+              {
+                "page": 45,
+                "line_number": 4,
+                "type": "text",
+                "content": "11.] One of the most important features of Hamilton's method",
+                "mathpix_content": "\n11.] One of the most important features of Hamilton's method",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 45,
+                "line_number": 5,
+                "type": "text",
+                "content": "is the division of quantities into Scalars and Vectors.",
+                "mathpix_content": " is the division of quantities into Scalars and Vectors.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 6,
+                "type": "text",
+                "content": "A Scalar quantity is capable of being completely defined by a",
+                "mathpix_content": "\n\nA Scalar quantity is capable of being completely defined by a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 7,
+                "type": "text",
+                "content": "single numerical specification. Its numerical value does not in",
+                "mathpix_content": " single numerical specification. Its numerical value does not in",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 45,
+                "line_number": 8,
+                "type": "text",
+                "content": "any way depend on the directions we assume for the coordinate",
+                "mathpix_content": " any way depend on the directions we assume for the coordinate",
+                "font_size": 27,
+                "confidence": 0.9726693630218506
+              },
+              {
+                "page": 45,
+                "line_number": 9,
+                "type": "text",
+                "content": "axes.",
+                "mathpix_content": " axes.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 10,
+                "type": "text",
+                "content": "A Vector, or Directed quantity, requires for its definition three",
+                "mathpix_content": "\n\nA Vector, or Directed quantity, requires for its definition three",
+                "font_size": 27,
+                "confidence": 0.9990236759185791
+              },
+              {
+                "page": 45,
+                "line_number": 11,
+                "type": "text",
+                "content": "numerical specifications, and these may most simply be under-",
+                "mathpix_content": " numerical specifications, and these may most simply be under",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 12,
+                "type": "text",
+                "content": "stood as having reference to the directions of the coordinate axes.",
+                "mathpix_content": "stood as having reference to the directions of the coordinate axes.",
+                "font_size": 27,
+                "confidence": 0.86865234375
+              },
+              {
+                "page": 45,
+                "line_number": 13,
+                "type": "text",
+                "content": "Scalar quantities do not involve direction. The volume of a",
+                "mathpix_content": "\n\nScalar quantities do not involve direction. The volume of a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 14,
+                "type": "text",
+                "content": "geometrical figur, the mass and the energy of a material body,",
+                "mathpix_content": " geometrical figur, the mass and the energy of a material body,",
+                "font_size": 27,
+                "confidence": 0.982421875
+              },
+              {
+                "page": 45,
+                "line_number": 15,
+                "type": "text",
+                "content": "the hydrostatical pressure at a point in a fluid, and the potential",
+                "mathpix_content": " the hydrostatical pressure at a point in a fluid, and the potential",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 16,
+                "type": "text",
+                "content": "at a point in space, are examples of scalar quantities.",
+                "mathpix_content": " at a point in space, are examples of scalar quantities.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 45,
+                "line_number": 17,
+                "type": "text",
+                "content": "A vector quantity has direction as well as magnitude, and is",
+                "mathpix_content": "\n\nA vector quantity has direction as well as magnitude, and is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 18,
+                "type": "text",
+                "content": "such that a reversal of its direction reverses its sign. The dis-",
+                "mathpix_content": " such that a reversal of its direction reverses its sign. The dis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 19,
+                "type": "text",
+                "content": "placement of a point, represented by a straight line drawn from",
+                "mathpix_content": "placement of a point, represented by a straight line drawn from",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 20,
+                "type": "text",
+                "content": "its original to its final position, may be taken as the typical",
+                "mathpix_content": " its original to its final position, may be taken as the typical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 21,
+                "type": "text",
+                "content": "vecoor quantity, from which indeed the name of Vector is",
+                "mathpix_content": " vecoor quantity, from which indeed the name of Vector is",
+                "font_size": 27,
+                "confidence": 0.6819024085998535
+              },
+              {
+                "page": 45,
+                "line_number": 22,
+                "type": "text",
+                "content": "derived.",
+                "mathpix_content": " derived.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 23,
+                "type": "text",
+                "content": "The velocity of a body, its momentum, the force acting on it,",
+                "mathpix_content": "\n\nThe velocity of a body, its momentum, the force acting on it,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 24,
+                "type": "text",
+                "content": "an electric current, the magnetization of a particle of iron, are",
+                "mathpix_content": " an electric current, the magnetization of a particle of iron, are",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 25,
+                "type": "text",
+                "content": "instances of vector quantities.",
+                "mathpix_content": " instances of vector quantities.",
+                "font_size": 27,
+                "confidence": 0.958984375
+              },
+              {
+                "page": 45,
+                "line_number": 26,
+                "type": "text",
+                "content": "There are physical quantities of another kind which are related",
+                "mathpix_content": "\n\nThere are physical quantities of another kind which are related",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 27,
+                "type": "text",
+                "content": "to directions in space, but which are not vectors. Stresses and",
+                "mathpix_content": " to directions in space, but which are not vectors. Stresses and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 28,
+                "type": "text",
+                "content": "strains in solid bodies are examples of these, and so are some of",
+                "mathpix_content": " strains in solid bodies are examples of these, and so are some of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 29,
+                "type": "text",
+                "content": "the properties of bodies considered in the theory of elasticity and",
+                "mathpix_content": " the properties of bodies considered in the theory of elasticity and",
+                "font_size": 27,
+                "confidence": 0.95654296875
+              },
+              {
+                "page": 45,
+                "line_number": 30,
+                "type": "text",
+                "content": "in the theory of double refraction. Quantities of this class",
+                "mathpix_content": " in the theory of double refraction. Quantities of this class",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 31,
+                "type": "text",
+                "content": "require for their definition nine numerical specifications. They",
+                "mathpix_content": " require for their definition nine numerical specifications. They",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 32,
+                "type": "text",
+                "content": "are expressed in the language of quaternions by linear and",
+                "mathpix_content": " are expressed in the language of quaternions by linear and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 33,
+                "type": "text",
+                "content": "vector functions of a vector.",
+                "mathpix_content": " vector functions of a vector.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 34,
+                "type": "text",
+                "content": "The addition of one vector quantity to another of the same",
+                "mathpix_content": "\n\nThe addition of one vector quantity to another of the same",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 45,
+                "line_number": 35,
+                "type": "text",
+                "content": "kind is performed according to the rule given in Statics for the",
+                "mathpix_content": " kind is performed according to the rule given in Statics for the",
+                "font_size": 27,
+                "confidence": 0.984375
+              },
+              {
+                "page": 45,
+                "line_number": 36,
+                "type": "text",
+                "content": "composition of forces. In fact, the proof which Poisson gives of",
+                "mathpix_content": " composition of forces. In fact, the proof which Poisson gives of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 37,
+                "type": "text",
+                "content": "the 'parallelogram of forces' is applicable to the composition of",
+                "mathpix_content": " the 'parallelogram of forces' is applicable to the composition of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 38,
+                "type": "text",
+                "content": "any quantities such that turning them end for end is equivalent",
+                "mathpix_content": " any quantities such that turning them end for end is equivalent",
+                "font_size": 27,
+                "confidence": 0.85595703125
+              },
+              {
+                "page": 45,
+                "line_number": 39,
+                "type": "text",
+                "content": "to a reversal of their sign.",
+                "mathpix_content": " to a reversal of their sign.",
+                "font_size": 27,
+                "confidence": 0.984375
+              },
+              {
+                "page": 45,
+                "line_number": 40,
+                "type": "text",
+                "content": "When we wish to denote a vector quantity by a single symbol,",
+                "mathpix_content": "\n\nWhen we wish to denote a vector quantity by a single symbol,",
+                "font_size": 27,
+                "confidence": 0.9824888070579618
+              },
+              {
+                "page": 45,
+                "line_number": 41,
+                "type": "text",
+                "content": "and to call attention to the fact that it is a vector, so that we",
+                "mathpix_content": " and to call attention to the fact that it is a vector, so that we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 42,
+                "type": "text",
+                "content": "must consider its direction as well as its magnitude, we shall",
+                "mathpix_content": " must consider its direction as well as its magnitude, we shall",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 45,
+                "line_number": 43,
+                "type": "text",
+                "content": "denote it by a German capital letter, as $\\mathfrak{A}, \\mathfrak{B}$, \\&c.",
+                "mathpix_content": " denote it by a German capital letter, as $\\mathfrak{A}, \\mathfrak{B}$, \\&c.",
+                "font_size": 27,
+                "confidence": 0.47949187748307764
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

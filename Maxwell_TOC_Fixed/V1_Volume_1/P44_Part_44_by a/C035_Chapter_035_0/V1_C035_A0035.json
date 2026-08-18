@@ -1,0 +1,39 @@
+{
+  "article_id": "article_35",
+  "article_number": 35,
+  "title_original": "0",
+  "title_safe": "0",
+  "page_start": 29,
+  "page_end": 29,
+  "content": {
+    "raw_text": "\n--- Page 29 ---\nxxvi\nCONTENTS.\n\nCHAPTER XIII.\n\nELECTROSTATIC INSTHUMENTS.\n\n\nArt.\nPage\n\n207. The frictional electrical machine\n317\n\n208. The electrophorus of Volta\n319\n\n209. Production of electrification by mechanical work.-Nicholson's\nRevolving Doubler\n319\n\n210. Principle of Varley's and Thomson's electrical machines\n320\n\n211. Thomson's water-dropping machine\n322\n\n212. Holtz's electrical machine\n323\n\n213. Theory of regenerators applied to electrical machines\n323\n\n214. On electrometers and electroscopes. Indicating instruments\nand null methods. Difference between registration and mea-\nsurement\n326\n\n215. Coulomb's Torsion Balance for measuring charges\n327\n\n216. Electrometers for measuring potentials. Snow-Harris's and\nThomson's\n330\n\n217. Principle of the guard-ring. Thomson's Absolute Electro-\nmeter\n331\n\n218. Heterosiatic method\n334\n\n219. Self-acting electrometers.-Thomson's Quadrant Electrometer\n336\n\n220. Measurement of the electric potential of a small body\n339\n\n221. Measurement of the potential at a point in the air\n340\n\n222. Measurement of the potential of a conductor without touch-\ning it\n341\n\n223. Measurement of the superficial density of electrification. The\nproof plane\n342\n\n224. A hemisphere used as a test\n343\n\n225. A circular disk\n344\n\n226. On electric accumulators. The Leyden jar\n346\n\n227. Accumulators of measurable capacity\n347\n\n228. The guard-ring accumulator\n349\n\n229. Comparison of the capacities of accumulators\n350\n",
+    "mathpix_markdown": "\n--- Page 29 ---\n\n\n\\section*{CHAPTER XIII.}\n\n\n\\section*{ELECTROSTATIC INSTHUMENTS.}\n\nArt.\n Page\n\n207. The frictional electrical machine\n ..... 317\n\n208. The electrophorus of Volta\n ..... 319\n\n209. Production of electrification by mechanical work.-Nicholson's\n Revolving Doubler\n ..... 319\n\n210. Principle of Varley's and Thomson's electrical machines\n ..... 320\n\n211. Thomson's water-dropping machine\n ..... 322\n\n212. Holtz's electrical machine\n ..... 323\n\n213. Theory of regenerators applied to electrical machines\n ..... 323\n\n214. On electrometers and electroscopes. Indicating instruments\n and null methods. Difference between registration and mea-\n surement\n ..... 326\n\n215. Coulomb's Torsion Balance for measuring charges\n ..... 327\n\n216. Electrometers for measuring potentials. Snow-Harris's and\n Thomson's\n ..... 330\n\n217. Principle of the guard-ring. Thomson's Absolute Electro-\n meter\n ..... 331\n\n218. Heterosiatic method\n ..... 334\n\n219. Self-acting electrometers.-Thomson's Quadrant Electrometer\n ..... 336\n\n220. Measurement of the electric potential of a small body\n ..... 339\n\n221. Measurement of the potential at a point in the air\n ..... 340\n\n222. Measurement of the potential of a conductor without touch-\n ing it\n ..... 341\n\n223. Measurement of the superficial density of electrification. The\n proof plane\n ..... 342\n\n224. A hemisphere used as a test\n ..... 343\n\n225. A circular disk\n ..... 344\n\n226. On electric accumulators. The Leyden jar\n ..... 346\n\n227. Accumulators of measurable capacity\n ..... 347\n\n228. The guard-ring accumulator\n ..... 349\n\n229. Comparison of the capacities of accumulators\n ..... 350\n",
+    "structured_lines": [
+      {
+        "page": 29,
+        "line_number": 4,
+        "type": "text",
+        "content": "CHAPTER XIII.",
+        "mathpix_content": "\n\n\\section*{CHAPTER XIII.}",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 29,
+        "line_number": 6,
+        "type": "text",
+        "content": "ELECTROSTATIC INSTHUMENTS.",
+        "mathpix_content": "\n\n\\section*{ELECTROSTATIC INSTHUMENTS.}",
+        "font_size": 21,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

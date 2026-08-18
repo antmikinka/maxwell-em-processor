@@ -1,0 +1,354 @@
+{
+  "article_id": "article_6",
+  "article_number": 6,
+  "title_original": "represent the",
+  "title_safe": "represent the",
+  "page_start": 219,
+  "page_end": 219,
+  "content": {
+    "raw_text": "\n--- Page 219 ---\n184\nEQUIPOTENTIAL SURFACES\n[12j.\nthrough the centre of force. Any straight line radiating from\nthe centre and making an angle $\\theta$ with the axis will then trace\nout a cone, and the surface-integral of the induction through that\npart of any surface which is cut off by this cone on the side next\nthe positive direction of the axis is $2 \\pi e(1-\\cos \\theta)$.\nIf we further suppose this surface to be bounded by its inter-\nsection with two planes passing through the axis, and inclined\nat the angle whose arc is equal to half the radius, then the\ninduction through the surface so bounded is\n$$\\begin{gathered}\n\\frac{1}{2} e(1-\\cos \\theta)=\\Phi \\text {, say } \\\\\n\\text { and } \\theta=\\cos ^{-1}\\left(1-2 \\frac{\\Phi}{e}\\right)\n\\end{gathered}$$\nIf we now give to $\\Phi$ a series of values $1,2,3 \\ldots e$, we shall find\na corresponding series of values of $\\theta$, and if $\\theta$ be an integer, the\nnumber of corresponding lines of force, including the axis, will\nbe equal to $e$.\nWe have thus a method of drawing lines of force so that the\ncharge of any centre is indicated by the number of lines which\ndiverge from it, and the induction through any surface cut off in\nthe way described is measured by the number of lines of force\nwhich pass through it. The dotted straight lines on the left-\nhand side of Fig. 6 represent the lines of force due to each of\ntwo electrified points whose charges are 10 and -10 respect-\nively.\nIf there are two centres of force on the axis of the figure we\nmay draw the lines of force for each axis corresponding to values\nof $\\Phi_{1}$ and $\\Phi_{2}$, and then, by drawing lines through the consecutive\nintersections of these lines for which the value of $\\Phi_{1}+\\Phi_{2}$ is the\nsame, we may find the lines of force due to both centres, and in\nthe same way we may combine any two systems of lines of force\nwhich are symmetrically situated about the same axis. The\ncontinuous curves on the left-hand side of Fig. 6 represent the\nlines of force due to the two charged points acting at once.\nAfter the equipotential surfaces and lines of force have been\nconstructed by this method, the accuracy of the drawing may be\ntested by observing whether the two systems of lines are every-\nwhere orthogonal, and whether the distance between consecutive\nequipotential surfaces is to the distance between consecutive lines\nof force as half the mean distance from the axis is to the assumed\nunit of length.\n",
+    "mathpix_markdown": "\n--- Page 219 ---\n\nthrough the centre of force. Any straight line radiating from\n the centre and making an angle $\\theta$ with the axis will then trace\n out a cone, and the surface-integral of the induction through that\n part of any surface which is cut off by this cone on the side next\n the positive direction of the axis is $2 \\pi e(1-\\cos \\theta)$.\n\n\nIf we further suppose this surface to be bounded by its inter\nsection with two planes passing through the axis, and inclined\n at the angle whose arc is equal to half the radius, then the\n induction through the surface so bounded is\n\n$$\\begin{gathered}\n\\frac{1}{2} e(1-\\cos \\theta)=\\Phi \\text {, say } \\\\\n\\text { and } \\theta=\\cos ^{-1}\\left(1-2 \\frac{\\Phi}{e}\\right)\n\\end{gathered}$$\n\n\nIf we now give to $\\Phi$ a series of values $1,2,3 \\ldots e$, we shall find\n a corresponding series of values of $\\theta$, and if $\\theta$ be an integer, the\n number of corresponding lines of force, including the axis, will\n be equal to $e$.\n\n\nWe have thus a method of drawing lines of force so that the\n charge of any centre is indicated by the number of lines which\n diverge from it, and the induction through any surface cut off in\n the way described is measured by the number of lines of force\n which pass through it. The dotted straight lines on the left\nhand side of Fig. 6 represent the lines of force due to each of\n two electrified points whose charges are 10 and -10 respect\nively.\n\n\nIf there are two centres of force on the axis of the figure we\n may draw the lines of force for each axis corresponding to values\n of $\\Phi_{1}$ and $\\Phi_{2}$, and then, by drawing lines through the consecutive\n intersections of these lines for which the value of $\\Phi_{1}+\\Phi_{2}$ is the\n same, we may find the lines of force due to both centres, and in\n the same way we may combine any two systems of lines of force\n which are symmetrically situated about the same axis. The\n continuous curves on the left-hand side of Fig. 6 represent the\n lines of force due to the two charged points acting at once.\n\n\nAfter the equipotential surfaces and lines of force have been\n constructed by this method, the accuracy of the drawing may be\n tested by observing whether the two systems of lines are every\nwhere orthogonal, and whether the distance between consecutive\n equipotential surfaces is to the distance between consecutive lines\n of force as half the mean distance from the axis is to the assumed\n unit of length.\n",
+    "structured_lines": [
+      {
+        "page": 219,
+        "line_number": 4,
+        "type": "text",
+        "content": "through the centre of force. Any straight line radiating from",
+        "mathpix_content": "\nthrough the centre of force. Any straight line radiating from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 5,
+        "type": "text",
+        "content": "the centre and making an angle $\\theta$ with the axis will then trace",
+        "mathpix_content": " the centre and making an angle $\\theta$ with the axis will then trace",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 6,
+        "type": "text",
+        "content": "out a cone, and the surface-integral of the induction through that",
+        "mathpix_content": " out a cone, and the surface-integral of the induction through that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 7,
+        "type": "text",
+        "content": "part of any surface which is cut off by this cone on the side next",
+        "mathpix_content": " part of any surface which is cut off by this cone on the side next",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 8,
+        "type": "text",
+        "content": "the positive direction of the axis is $2 \\pi e(1-\\cos \\theta)$.",
+        "mathpix_content": " the positive direction of the axis is $2 \\pi e(1-\\cos \\theta)$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 9,
+        "type": "text",
+        "content": "If we further suppose this surface to be bounded by its inter-",
+        "mathpix_content": "\n\nIf we further suppose this surface to be bounded by its inter",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 10,
+        "type": "text",
+        "content": "section with two planes passing through the axis, and inclined",
+        "mathpix_content": "section with two planes passing through the axis, and inclined",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 11,
+        "type": "text",
+        "content": "at the angle whose arc is equal to half the radius, then the",
+        "mathpix_content": " at the angle whose arc is equal to half the radius, then the",
+        "font_size": 27,
+        "confidence": 0.7373046875
+      },
+      {
+        "page": 219,
+        "line_number": 12,
+        "type": "text",
+        "content": "induction through the surface so bounded is",
+        "mathpix_content": " induction through the surface so bounded is",
+        "font_size": 27,
+        "confidence": 0.83349609375
+      },
+      {
+        "page": 219,
+        "line_number": 16,
+        "type": "text",
+        "content": "If we now give to $\\Phi$ a series of values $1,2,3 \\ldots e$, we shall find",
+        "mathpix_content": "\n\nIf we now give to $\\Phi$ a series of values $1,2,3 \\ldots e$, we shall find",
+        "font_size": 27,
+        "confidence": 0.9897596772071893
+      },
+      {
+        "page": 219,
+        "line_number": 17,
+        "type": "text",
+        "content": "a corresponding series of values of $\\theta$, and if $\\theta$ be an integer, the",
+        "mathpix_content": " a corresponding series of values of $\\theta$, and if $\\theta$ be an integer, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 18,
+        "type": "text",
+        "content": "number of corresponding lines of force, including the axis, will",
+        "mathpix_content": " number of corresponding lines of force, including the axis, will",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 19,
+        "type": "text",
+        "content": "be equal to $e$.",
+        "mathpix_content": " be equal to $e$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 20,
+        "type": "text",
+        "content": "We have thus a method of drawing lines of force so that the",
+        "mathpix_content": "\n\nWe have thus a method of drawing lines of force so that the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 21,
+        "type": "text",
+        "content": "charge of any centre is indicated by the number of lines which",
+        "mathpix_content": " charge of any centre is indicated by the number of lines which",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 219,
+        "line_number": 22,
+        "type": "text",
+        "content": "diverge from it, and the induction through any surface cut off in",
+        "mathpix_content": " diverge from it, and the induction through any surface cut off in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 23,
+        "type": "text",
+        "content": "the way described is measured by the number of lines of force",
+        "mathpix_content": " the way described is measured by the number of lines of force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 24,
+        "type": "text",
+        "content": "which pass through it. The dotted straight lines on the left-",
+        "mathpix_content": " which pass through it. The dotted straight lines on the left",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 25,
+        "type": "text",
+        "content": "hand side of Fig. 6 represent the lines of force due to each of",
+        "mathpix_content": "hand side of Fig. 6 represent the lines of force due to each of",
+        "font_size": 27,
+        "confidence": 0.82177734375
+      },
+      {
+        "page": 219,
+        "line_number": 26,
+        "type": "text",
+        "content": "two electrified points whose charges are 10 and -10 respect-",
+        "mathpix_content": " two electrified points whose charges are 10 and -10 respect",
+        "font_size": 27,
+        "confidence": 0.9377813339233398
+      },
+      {
+        "page": 219,
+        "line_number": 27,
+        "type": "text",
+        "content": "ively.",
+        "mathpix_content": "ively.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 28,
+        "type": "text",
+        "content": "If there are two centres of force on the axis of the figure we",
+        "mathpix_content": "\n\nIf there are two centres of force on the axis of the figure we",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 219,
+        "line_number": 29,
+        "type": "text",
+        "content": "may draw the lines of force for each axis corresponding to values",
+        "mathpix_content": " may draw the lines of force for each axis corresponding to values",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 30,
+        "type": "text",
+        "content": "of $\\Phi_{1}$ and $\\Phi_{2}$, and then, by drawing lines through the consecutive",
+        "mathpix_content": " of $\\Phi_{1}$ and $\\Phi_{2}$, and then, by drawing lines through the consecutive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 31,
+        "type": "text",
+        "content": "intersections of these lines for which the value of $\\Phi_{1}+\\Phi_{2}$ is the",
+        "mathpix_content": " intersections of these lines for which the value of $\\Phi_{1}+\\Phi_{2}$ is the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 219,
+        "line_number": 32,
+        "type": "text",
+        "content": "same, we may find the lines of force due to both centres, and in",
+        "mathpix_content": " same, we may find the lines of force due to both centres, and in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 33,
+        "type": "text",
+        "content": "the same way we may combine any two systems of lines of force",
+        "mathpix_content": " the same way we may combine any two systems of lines of force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 34,
+        "type": "text",
+        "content": "which are symmetrically situated about the same axis. The",
+        "mathpix_content": " which are symmetrically situated about the same axis. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 35,
+        "type": "text",
+        "content": "continuous curves on the left-hand side of Fig. 6 represent the",
+        "mathpix_content": " continuous curves on the left-hand side of Fig. 6 represent the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 36,
+        "type": "text",
+        "content": "lines of force due to the two charged points acting at once.",
+        "mathpix_content": " lines of force due to the two charged points acting at once.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 37,
+        "type": "text",
+        "content": "After the equipotential surfaces and lines of force have been",
+        "mathpix_content": "\n\nAfter the equipotential surfaces and lines of force have been",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 38,
+        "type": "text",
+        "content": "constructed by this method, the accuracy of the drawing may be",
+        "mathpix_content": " constructed by this method, the accuracy of the drawing may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 39,
+        "type": "text",
+        "content": "tested by observing whether the two systems of lines are every-",
+        "mathpix_content": " tested by observing whether the two systems of lines are every",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 40,
+        "type": "text",
+        "content": "where orthogonal, and whether the distance between consecutive",
+        "mathpix_content": "where orthogonal, and whether the distance between consecutive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 41,
+        "type": "text",
+        "content": "equipotential surfaces is to the distance between consecutive lines",
+        "mathpix_content": " equipotential surfaces is to the distance between consecutive lines",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 42,
+        "type": "text",
+        "content": "of force as half the mean distance from the axis is to the assumed",
+        "mathpix_content": " of force as half the mean distance from the axis is to the assumed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 219,
+        "line_number": 43,
+        "type": "text",
+        "content": "unit of length.",
+        "mathpix_content": " unit of length.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,2352 @@
+{
+  "part_id": "part_448",
+  "part_number": 448,
+  "title": "s",
+  "page_start": 235,
+  "page_end": 236,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 200,
+      "title": "SPHERICAL HARMONICS.",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 131,
+      "title": "c.",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 0,
+      "title": "}$ is the charge of a singular point of order zero, then the",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 0,
+      "title": "}=A_{0} \\Psi .$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 21,
+      "title": ")",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 1,
+      "title": "}$, then the potential energy will be",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 0,
+      "title": "} \\Psi+A_{0}\\left(\\Psi+h_{1} \\frac{d \\Psi}{d h_{1}}+\\frac{1}{2} h_{1}^{2} \\frac{d^{2} \\Psi}{d h_{1}^{2}}+\\text { \\&c. }\\right)$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 0,
+      "title": "}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 0,
+      "title": "} h_{1}=A_{1}$, the value of the potential energy for a point of the",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 1,
+      "title": "}=A_{1} \\frac{d \\Psi}{d h_{1}}$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 22,
+      "title": ")",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 1,
+      "title": "}{1.2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} *$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 23,
+      "title": ")",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 131,
+      "title": "c.] If we suppose the charge of the external system to",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 1,
+      "title": "}{r} d E\\right)$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 24,
+      "title": ")",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": "}{r} d e\\right),$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 25,
+      "title": ")",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": "}{r} d E d e\\right)=\\Sigma\\left(V_{n} d E\\right),$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 26,
+      "title": ")",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": "2 .3 \\ldots n$ by $n!$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 0,
+      "title": "}$ is the charge of a singular point of order zero, then the",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 0,
+      "title": "}=A_{0} \\Psi . \\tag{21}",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 1,
+      "title": "}$, then the potential energy will be",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 0,
+      "title": "} \\Psi+A_{0}\\left(\\Psi+h_{1} \\frac{d \\Psi}{d h_{1}}+\\frac{1}{2} h_{1}^{2} \\frac{d^{2} \\Psi}{d h_{1}^{2}}+\\text { \\&c. }\\right)$$",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 0,
+      "title": "}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 0,
+      "title": "} h_{1}=A_{1}$, the value of the potential energy for a point of the",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 1,
+      "title": "}=A_{1} \\frac{d \\Psi}{d h_{1}} \\tag{22}",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 1,
+      "title": "}{1.2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} * \\tag{23}",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 131,
+      "title": "c.] If we suppose the charge of the external system to",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 1,
+      "title": "}{r} d E\\right) \\tag{24}",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 1,
+      "title": "}{r} d e\\right), \\tag{25}",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 1,
+      "title": "}{r} d E d e\\right)=\\Sigma\\left(V_{n} d E\\right), \\tag{26}",
+      "page_start": 235,
+      "page_end": 234,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 1,
+      "title": "2 .3 \\ldots n$ by $n!$",
+      "page_start": 235,
+      "page_end": 235,
+      "articles": [
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} *$$",
+          "title_safe": "2 ldots n An fracdn Psid h1 ldots d hn ASTERISK",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "2 .3 \\ldots n$ by $n!$",
+          "title_safe": "2 .3 ldots n by n",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} * \\tag{23}",
+          "title_safe": "2 ldots n An fracdn Psid h1 ldots d hn ASTERISK tag23",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "2 .3 \\ldots n$ by $n!$",
+          "title_safe": "2 .3 ldots n by n",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_200",
+          "article_number": 200,
+          "title_original": "SPHERICAL HARMONICS.",
+          "title_safe": "SPHERICAL HARMONICS",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_131",
+          "article_number": 131,
+          "title_original": "c.",
+          "title_safe": "c",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the charge of a singular point of order zero, then the",
+          "title_safe": "is the charge of a singular point of order zero then the",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}=A_{0} \\Psi .$$",
+          "title_safe": "equalsA0 Psi",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, then the potential energy will be",
+          "title_safe": "then the potential energy will be",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\Psi+A_{0}\\left(\\Psi+h_{1} \\frac{d \\Psi}{d h_{1}}+\\frac{1}{2} h_{1}^{2} \\frac{d^{2} \\Psi}{d h_{1}^{2}}+\\text { \\&c. }\\right)$$",
+          "title_safe": "PsiplusA0leftPsiplush1 fracd Psid h1plusfrac12 h12 fracd2 Ps",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that",
+          "title_safe": "increases and barh1 diminishes indefinitely but so that",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} h_{1}=A_{1}$, the value of the potential energy for a point of the",
+          "title_safe": "h1equalsA1 the value of the potential energy for a point of",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=A_{1} \\frac{d \\Psi}{d h_{1}}$$",
+          "title_safe": "equalsA1 fracd Psid h1",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{1.2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} *$$",
+          "title_safe": "1.2 ldots n An fracdn Psid h1 ldots d hn ASTERISK",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_23",
+          "article_number": 23,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_131",
+          "article_number": 131,
+          "title_original": "c.] If we suppose the charge of the external system to",
+          "title_safe": "c. If we suppose the charge of the external system to",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d E\\right)$$",
+          "title_safe": "r d Eright",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_24",
+          "article_number": 24,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d e\\right),$$",
+          "title_safe": "r d eright",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_25",
+          "article_number": 25,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d E d e\\right)=\\Sigma\\left(V_{n} d E\\right),$$",
+          "title_safe": "r d E d erightequalsSigmaleftVn d Eright",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ".2 .3 \\ldots n$ by $n!$",
+          "title_safe": "2 .3 ldots n by n",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the charge of a singular point of order zero, then the",
+          "title_safe": "is the charge of a singular point of order zero then the",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}=A_{0} \\Psi . \\tag{21}",
+          "title_safe": "equalsA0 Psi . tag21",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, then the potential energy will be",
+          "title_safe": "then the potential energy will be",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\Psi+A_{0}\\left(\\Psi+h_{1} \\frac{d \\Psi}{d h_{1}}+\\frac{1}{2} h_{1}^{2} \\frac{d^{2} \\Psi}{d h_{1}^{2}}+\\text { \\&c. }\\right)$$",
+          "title_safe": "PsiplusA0leftPsiplush1 fracd Psid h1plusfrac12 h12 fracd2 Ps",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that",
+          "title_safe": "increases and barh1 diminishes indefinitely but so that",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} h_{1}=A_{1}$, the value of the potential energy for a point of the",
+          "title_safe": "h1equalsA1 the value of the potential energy for a point of",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=A_{1} \\frac{d \\Psi}{d h_{1}} \\tag{22}",
+          "title_safe": "equalsA1 fracd Psid h1 tag22",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{1.2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} * \\tag{23}",
+          "title_safe": "1.2 ldots n An fracdn Psid h1 ldots d hn ASTERISK tag23",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_131",
+          "article_number": 131,
+          "title_original": "c.] If we suppose the charge of the external system to",
+          "title_safe": "c. If we suppose the charge of the external system to",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d E\\right) \\tag{24}",
+          "title_safe": "r d Eright tag24",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d e\\right), \\tag{25}",
+          "title_safe": "r d eright tag25",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d E d e\\right)=\\Sigma\\left(V_{n} d E\\right), \\tag{26}",
+          "title_safe": "r d E d erightequalsSigmaleftVn d Eright tag26",
+          "page_start": 235,
+          "page_end": 234,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ".2 .3 \\ldots n$ by $n!$",
+          "title_safe": "2 .3 ldots n by n",
+          "page_start": 235,
+          "page_end": 235,
+          "content": {
+            "raw_text": "\n--- Page 235 ---\n200\nSPHERICAL HARMONICS.\n[131c.\nis, at all points external to the sphere, identical with that due to\nthe corresponding singular point of order $n$.\nLet us now suppose that there is an electrical system which\nwe may call $E$, external to the sphere, and that $\\Psi$ is the potential\ndue to this system, and let us find the value of $\\Sigma(\\Psi e)$ for the\nsingular point. This is the part of the electric energy depending\non the action of the external system on the singular point.\nIf $A_{0}$ is the charge of a singular point of order zero, then the\npotential energy in question is\n$$W_{0}=A_{0} \\Psi .$$\n(21)\nIf there are two such points, a negative one at the origin\nand a positive one of equal numerical value at the extremity of\nthe axis $h_{1}$, then the potential energy will be\n$$-A_{0} \\Psi+A_{0}\\left(\\Psi+h_{1} \\frac{d \\Psi}{d h_{1}}+\\frac{1}{2} h_{1}^{2} \\frac{d^{2} \\Psi}{d h_{1}^{2}}+\\text { \\&c. }\\right)$$\nand when $A_{0}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that\n$A_{0} h_{1}=A_{1}$, the value of the potential energy for a point of the\nfirst order will be\n$$W_{1}=A_{1} \\frac{d \\Psi}{d h_{1}}$$\n(22)\nSimilarly for a point of order $n$ the potential energy will be\n$$W_{n}=\\frac{1}{1.2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} *$$\n(23)\n131 c.] If we suppose the charge of the external system to\nbe made up of parts, any one of which is denoted by $d E$, and\nthat of the singular point of order $n$ to be made up of parts\nany one of which is de, then\n$$\\Psi=\\Sigma\\left(\\frac{1}{r} d E\\right)$$\n(24)\nBut if $V_{n}$ is the potential due to the singular point,\n$$V_{n}=\\Sigma\\left(\\frac{1}{r} d e\\right),$$\n(25)\nand the potential energy due to the action of $E$ on $e$ is\n$$W_{n}=\\Sigma(\\Psi d e)=\\Sigma \\Sigma\\left(\\frac{1}{r} d E d e\\right)=\\Sigma\\left(V_{n} d E\\right),$$\n(26)\nthe last expression being the potential energy due to the action\nof $e$ on $E$.\n\n* We shall find it convenient, in what follows, to denote the product of the posi-\ntive integral numbers $1.2 .3 \\ldots n$ by $n!$\n",
+            "mathpix_markdown": "\n--- Page 235 ---\n\nis, at all points external to the sphere, identical with that due to\n the corresponding singular point of order $n$.\n\n\nLet us now suppose that there is an electrical system which\n we may call $E$, external to the sphere, and that $\\Psi$ is the potential\n due to this system, and let us find the value of $\\Sigma(\\Psi e)$ for the\n singular point. This is the part of the electric energy depending\n on the action of the external system on the singular point.\n\n\nIf $A_{0}$ is the charge of a singular point of order zero, then the\n potential energy in question is\n\n$$\\begin{equation*}\nW_{0}=A_{0} \\Psi . \\tag{21}\n\\end{equation*}$$\n\n\nIf there are two such points, a negative one at the origin\n and a positive one of equal numerical value at the extremity of\n the axis $h_{1}$, then the potential energy will be\n\n$$-A_{0} \\Psi+A_{0}\\left(\\Psi+h_{1} \\frac{d \\Psi}{d h_{1}}+\\frac{1}{2} h_{1}^{2} \\frac{d^{2} \\Psi}{d h_{1}^{2}}+\\text { \\&c. }\\right)$$\n\nand when $A_{0}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that\n $A_{0} h_{1}=A_{1}$, the value of the potential energy for a point of the\n first order will be\n\n$$\\begin{equation*}\nW_{1}=A_{1} \\frac{d \\Psi}{d h_{1}} \\tag{22}\n\\end{equation*}$$\n\n\nSimilarly for a point of order $n$ the potential energy will be\n\n$$\\begin{equation*}\nW_{n}=\\frac{1}{1.2 \\ldots n} A_{n} \\frac{d^{n} \\Psi}{d h_{1} \\ldots d h_{n}} * \\tag{23}\n\\end{equation*}$$\n\n\n131 c.] If we suppose the charge of the external system to\n be made up of parts, any one of which is denoted by $d E$, and\n that of the singular point of order $n$ to be made up of parts\n any one of which is de, then\n\n$$\\begin{equation*}\n\\Psi=\\Sigma\\left(\\frac{1}{r} d E\\right) \\tag{24}\n\\end{equation*}$$\n\n\nBut if $V_{n}$ is the potential due to the singular point,\n\n$$\\begin{equation*}\nV_{n}=\\Sigma\\left(\\frac{1}{r} d e\\right), \\tag{25}\n\\end{equation*}$$\n\nand the potential energy due to the action of $E$ on $e$ is\n\n$$\\begin{equation*}\nW_{n}=\\Sigma(\\Psi d e)=\\Sigma \\Sigma\\left(\\frac{1}{r} d E d e\\right)=\\Sigma\\left(V_{n} d E\\right), \\tag{26}\n\\end{equation*}$$\n\nthe last expression being the potential energy due to the action\n of $e$ on $E$.\n\n\n\\footnotetext{\n* We shall find it convenient, in what follows, to denote the product of the posi\ntive integral numbers $1.2 .3 \\ldots n$ by $n!$\n}\n",
+            "structured_lines": [
+              {
+                "page": 235,
+                "line_number": 4,
+                "type": "text",
+                "content": "is, at all points external to the sphere, identical with that due to",
+                "mathpix_content": "\nis, at all points external to the sphere, identical with that due to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 5,
+                "type": "text",
+                "content": "the corresponding singular point of order $n$.",
+                "mathpix_content": " the corresponding singular point of order $n$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 6,
+                "type": "text",
+                "content": "Let us now suppose that there is an electrical system which",
+                "mathpix_content": "\n\nLet us now suppose that there is an electrical system which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 7,
+                "type": "text",
+                "content": "we may call $E$, external to the sphere, and that $\\Psi$ is the potential",
+                "mathpix_content": " we may call $E$, external to the sphere, and that $\\Psi$ is the potential",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 8,
+                "type": "text",
+                "content": "due to this system, and let us find the value of $\\Sigma(\\Psi e)$ for the",
+                "mathpix_content": " due to this system, and let us find the value of $\\Sigma(\\Psi e)$ for the",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 235,
+                "line_number": 9,
+                "type": "text",
+                "content": "singular point. This is the part of the electric energy depending",
+                "mathpix_content": " singular point. This is the part of the electric energy depending",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 10,
+                "type": "text",
+                "content": "on the action of the external system on the singular point.",
+                "mathpix_content": " on the action of the external system on the singular point.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 11,
+                "type": "text",
+                "content": "If $A_{0}$ is the charge of a singular point of order zero, then the",
+                "mathpix_content": "\n\nIf $A_{0}$ is the charge of a singular point of order zero, then the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 12,
+                "type": "text",
+                "content": "potential energy in question is",
+                "mathpix_content": " potential energy in question is",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 235,
+                "line_number": 16,
+                "type": "text",
+                "content": "If there are two such points, a negative one at the origin",
+                "mathpix_content": "\n\nIf there are two such points, a negative one at the origin",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 17,
+                "type": "text",
+                "content": "and a positive one of equal numerical value at the extremity of",
+                "mathpix_content": " and a positive one of equal numerical value at the extremity of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 18,
+                "type": "text",
+                "content": "the axis $h_{1}$, then the potential energy will be",
+                "mathpix_content": " the axis $h_{1}$, then the potential energy will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 21,
+                "type": "text",
+                "content": "and when $A_{0}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that",
+                "mathpix_content": "\nand when $A_{0}$ increases and $\\bar{h}_{1}$ diminishes indefinitely, but so that",
+                "font_size": 27,
+                "confidence": 0.7658848762512207
+              },
+              {
+                "page": 235,
+                "line_number": 22,
+                "type": "text",
+                "content": "$A_{0} h_{1}=A_{1}$, the value of the potential energy for a point of the",
+                "mathpix_content": " $A_{0} h_{1}=A_{1}$, the value of the potential energy for a point of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 23,
+                "type": "text",
+                "content": "first order will be",
+                "mathpix_content": " first order will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 27,
+                "type": "text",
+                "content": "Similarly for a point of order $n$ the potential energy will be",
+                "mathpix_content": "\n\nSimilarly for a point of order $n$ the potential energy will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 31,
+                "type": "text",
+                "content": "131 c.] If we suppose the charge of the external system to",
+                "mathpix_content": "\n\n131 c.] If we suppose the charge of the external system to",
+                "font_size": 27,
+                "confidence": 0.496826171875
+              },
+              {
+                "page": 235,
+                "line_number": 32,
+                "type": "text",
+                "content": "be made up of parts, any one of which is denoted by $d E$, and",
+                "mathpix_content": " be made up of parts, any one of which is denoted by $d E$, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 33,
+                "type": "text",
+                "content": "that of the singular point of order $n$ to be made up of parts",
+                "mathpix_content": " that of the singular point of order $n$ to be made up of parts",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 235,
+                "line_number": 34,
+                "type": "text",
+                "content": "any one of which is de, then",
+                "mathpix_content": " any one of which is de, then",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 235,
+                "line_number": 38,
+                "type": "text",
+                "content": "But if $V_{n}$ is the potential due to the singular point,",
+                "mathpix_content": "\n\nBut if $V_{n}$ is the potential due to the singular point,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 42,
+                "type": "text",
+                "content": "and the potential energy due to the action of $E$ on $e$ is",
+                "mathpix_content": "\nand the potential energy due to the action of $E$ on $e$ is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 46,
+                "type": "text",
+                "content": "the last expression being the potential energy due to the action",
+                "mathpix_content": "\nthe last expression being the potential energy due to the action",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 47,
+                "type": "text",
+                "content": "of $e$ on $E$.",
+                "mathpix_content": " of $e$ on $E$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 235,
+                "line_number": 49,
+                "type": "text",
+                "content": "* We shall find it convenient, in what follows, to denote the product of the posi-",
+                "mathpix_content": "\n\n\\footnotetext{\n* We shall find it convenient, in what follows, to denote the product of the posi",
+                "font_size": 21,
+                "confidence": 0.98095703125
+              },
+              {
+                "page": 235,
+                "line_number": 50,
+                "type": "text",
+                "content": "tive integral numbers $1.2 .3 \\ldots n$ by $n!$",
+                "mathpix_content": "tive integral numbers $1.2 .3 \\ldots n$ by $n!$\n}",
+                "font_size": 21,
+                "confidence": 0.48917420607143103
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 132,
+      "title": "] SINGULAR POINT EQUIVALENT TO A CHARGED SHELL.",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 201,
+      "title": "Similarly, if $\\sigma d s$ is the charge on an element $d s$ of the shell,",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 1,
+      "title": "}{r} d E \\sigma d s\\right)=\\Sigma\\left(\\Psi_{\\sigma} d s\\right) .$$",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 27,
+      "title": ")",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 1,
+      "title": "}{n!} A_{n} d \\frac{d^{n} \\Psi}{h_{1} \\ldots d h_{n}} .",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 28,
+      "title": ")",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 4,
+      "title": "\\pi}{n!(2 n+1)} a^{n+2} d h_{1} \\ldots d h_{n}{ }^{n} \\Psi$$",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 29,
+      "title": ")",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 132,
+      "title": "] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 30,
+      "title": ")",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 29,
+      "title": ") becomes in this case",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 4,
+      "title": "\\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}},$$",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 31,
+      "title": ")",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 134,
+      "title": "If the differentiation is carried",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 1,
+      "title": "}{r} d E \\sigma d s\\right)=\\Sigma\\left(\\Psi_{\\sigma} d s\\right) . \\tag{27}",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 1,
+      "title": "}{n!} A_{n} d \\frac{d^{n} \\Psi}{h_{1} \\ldots d h_{n}} . \\tag{28}",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 4,
+      "title": "\\pi}{n!(2 n+1)} a^{n+2} d h_{1} \\ldots d h_{n}{ }^{n} \\Psi \\tag{29}",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 132,
+      "title": "] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 30,
+      "title": "}",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 29,
+      "title": ") becomes in this case",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 4,
+      "title": "\\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}}, \\tag{31}",
+      "page_start": 236,
+      "page_end": 235,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 134,
+      "title": "If the differentiation is carried",
+      "page_start": 236,
+      "page_end": 236,
+      "articles": [
+        {
+          "article_id": "article_134",
+          "article_number": 134,
+          "title_original": "If the differentiation is carried",
+          "title_safe": "If the differentiation is carried",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_134",
+          "article_number": 134,
+          "title_original": "If the differentiation is carried",
+          "title_safe": "If the differentiation is carried",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_132",
+          "article_number": 132,
+          "title_original": "] SINGULAR POINT EQUIVALENT TO A CHARGED SHELL.",
+          "title_safe": "SINGULAR POINT EQUIVALENT TO A CHARGED SHELL",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_132",
+          "article_number": 132,
+          "title_original": "] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+          "title_safe": "Let us now suppose that Psi is a solid harmonic of positive",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_134",
+          "article_number": 134,
+          "title_original": "If the differentiation is carried",
+          "title_safe": "If the differentiation is carried",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_132",
+          "article_number": 132,
+          "title_original": "] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+          "title_safe": "Let us now suppose that Psi is a solid harmonic of positive",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_134",
+          "article_number": 134,
+          "title_original": "If the differentiation is carried",
+          "title_safe": "If the differentiation is carried",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_132",
+          "article_number": 132,
+          "title_original": ".] SINGULAR POINT EQUIVALENT TO A CHARGED SHELL.",
+          "title_safe": "SINGULAR POINT EQUIVALENT TO A CHARGED SHELL",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_201",
+          "article_number": 201,
+          "title_original": "Similarly, if $\\sigma d s$ is the charge on an element $d s$ of the shell,",
+          "title_safe": "Similarly if sigma d s is the charge on an element d s of th",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d E \\sigma d s\\right)=\\Sigma\\left(\\Psi_{\\sigma} d s\\right) .$$",
+          "title_safe": "r d E sigma d srightequalsSigmaleftPsisigma d sright",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_27",
+          "article_number": 27,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{n!} A_{n} d \\frac{d^{n} \\Psi}{h_{1} \\ldots d h_{n}} .",
+          "title_safe": "n An d fracdn Psih1 ldots d hn",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this",
+          "title_safe": "pi sigma a2equals2 nplus1 Yn and that Anequalsan this",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi}{n!(2 n+1)} a^{n+2} d h_{1} \\ldots d h_{n}{ }^{n} \\Psi$$",
+          "title_safe": "pin2 nplus1 anplus2 d h1 ldots d hn n Psi",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_132",
+          "article_number": 132,
+          "title_original": ".] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+          "title_safe": "Let us now suppose that Psi is a solid harmonic of positiv",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_30",
+          "article_number": 30,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": ") becomes in this case",
+          "title_safe": "becomes in this case",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}},$$",
+          "title_safe": "pin2 nplus1 an-mplus2 fracdnleftYm rmrightd h1 ldots d hn",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_31",
+          "article_number": 31,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_134",
+          "article_number": 134,
+          "title_original": ". If the differentiation is carried",
+          "title_safe": "If the differentiation is carried",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{r} d E \\sigma d s\\right)=\\Sigma\\left(\\Psi_{\\sigma} d s\\right) . \\tag{27}",
+          "title_safe": "r d E sigma d srightequalsSigmaleftPsisigma d sright . tag27",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{n!} A_{n} d \\frac{d^{n} \\Psi}{h_{1} \\ldots d h_{n}} . \\tag{28}",
+          "title_safe": "n An d fracdn Psih1 ldots d hn . tag28",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this",
+          "title_safe": "pi sigma a2equals2 nplus1 Yn and that Anequalsan this",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi}{n!(2 n+1)} a^{n+2} d h_{1} \\ldots d h_{n}{ }^{n} \\Psi \\tag{29}",
+          "title_safe": "pin2 nplus1 anplus2 d h1 ldots d hn n Psi tag29",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_132",
+          "article_number": 132,
+          "title_original": ".] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+          "title_safe": "Let us now suppose that Psi is a solid harmonic of positiv",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_30",
+          "article_number": 30,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": ") becomes in this case",
+          "title_safe": "becomes in this case",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}}, \\tag{31}",
+          "title_safe": "pin2 nplus1 an-mplus2 fracdnleftYm rmrightd h1 ldots d hn ta",
+          "page_start": 236,
+          "page_end": 235,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_134",
+          "article_number": 134,
+          "title_original": ". If the differentiation is carried",
+          "title_safe": "If the differentiation is carried",
+          "page_start": 236,
+          "page_end": 236,
+          "content": {
+            "raw_text": "\n--- Page 236 ---\n132.] SINGULAR POINT EQUIVALENT TO A CHARGED SHELL.\n201\nSimilarly, if $\\sigma d s$ is the charge on an element $d s$ of the shell,\nsince the potential due to the shell at the external system $E$\nis $V_{n}$, we have\n$$W_{n}=\\Sigma\\left(V_{n} d E\\right)=\\Sigma \\Sigma\\left(\\frac{1}{r} d E \\sigma d s\\right)=\\Sigma\\left(\\Psi_{\\sigma} d s\\right) .$$\n(27)\nThe last term contains a summation to be extended over the\nsurface of the sphere. Equating it to the first expression for $W_{n}$,\nwe have\n$$\\begin{aligned}\n\\iint \\Psi_{\\sigma} d s & =\\Sigma(\\Psi d e) \\\\\n& =\\frac{1}{n!} A_{n} d \\frac{d^{n} \\Psi}{h_{1} \\ldots d h_{n}} .\n\\end{aligned}$$\n(28)\nIf we remember that $4 \\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this\nbecomes\n$$\\iint \\Psi Y_{n} d s=\\frac{4 \\pi}{n!(2 n+1)} a^{n+2} d h_{1} \\ldots d h_{n}{ }^{n} \\Psi$$\n(29)\nThis equation reduces the operation of taking the surface\nintegral of $\\Psi Y_{n} d s$ over every element of the surface of a sphere of\nradius $a$, to that of differentiating $\\Psi$ with respect to the $n$ axes\nof the harmonic and taking the value of the differential coeffi-\ncient at the centre of the sphere, provided that $\\Psi$ satisfies\nLaplace's equation at all points within the sphere, and $Y_{n}$ is a\nsurface harmonic of order $n$.\n132.] Let us now suppose that $\\Psi$ is a solid harmonic of positive\ndegree $m$ of the form\n$$\\Psi=a^{-m} Y_{m} r^{m} .$$\n(30)\nAt the spherical surface, $r=a$, and $\\Psi=Y_{m}$, so that equation\n(29) becomes in this case\n$$\\iint Y_{m} Y_{n} d s=\\frac{4 \\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}},$$\n(31)\nwhere the value of the differential coefficient is to be taken at\nthe centre of the sphere.\nWhen $n$ is less than $m$, the result of the differentiation is a\nhomogeneous function of $x, y$, and $z$ of degree $m-n$, the value of\nwhich at the centre of the sphere is zero. If $n$ is equal to $m$ the\nresult of the differentiation is a constant, the value of which we\nshall determine in Art. 134. If the differentiation is carried\nfurther, the result is zero. Hence the surface-integral $\\iint Y_{m} Y_{n} d s$\nvanishes whenever $m$ and $n$ are different.\nThe steps by which we have arrived at this result are all of\n",
+            "mathpix_markdown": "\n--- Page 236 ---\n\n\nSimilarly, if $\\sigma d s$ is the charge on an element $d s$ of the shell,\n since the potential due to the shell at the external system $E$\n is $V_{n}$, we have\n\n$$\\begin{equation*}\nW_{n}=\\Sigma\\left(V_{n} d E\\right)=\\Sigma \\Sigma\\left(\\frac{1}{r} d E \\sigma d s\\right)=\\Sigma\\left(\\Psi_{\\sigma} d s\\right) . \\tag{27}\n\\end{equation*}$$\n\n\nThe last term contains a summation to be extended over the\n surface of the sphere. Equating it to the first expression for $W_{n}$,\n we have\n\n$$\\begin{align*}\n\\iint \\Psi_{\\sigma} d s & =\\Sigma(\\Psi d e) \\\\\n& =\\frac{1}{n!} A_{n} d \\frac{d^{n} \\Psi}{h_{1} \\ldots d h_{n}} . \\tag{28}\n\\end{align*}$$\n\n\nIf we remember that $4 \\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this\n becomes\n\n$$\\begin{equation*}\n\\iint \\Psi Y_{n} d s=\\frac{4 \\pi}{n!(2 n+1)} a^{n+2} d h_{1} \\ldots d h_{n}{ }^{n} \\Psi \\tag{29}\n\\end{equation*}$$\n\n\nThis equation reduces the operation of taking the surface\n integral of $\\Psi Y_{n} d s$ over every element of the surface of a sphere of\n radius $a$, to that of differentiating $\\Psi$ with respect to the $n$ axes\n of the harmonic and taking the value of the differential coeffi\ncient at the centre of the sphere, provided that $\\Psi$ satisfies\n Laplace's equation at all points within the sphere, and $Y_{n}$ is a\n surface harmonic of order $n$.\n\n132.] Let us now suppose that $\\Psi$ is a solid harmonic of positive\n degree $m$ of the form\n\n$$\\begin{equation*}\n\\Psi=a^{-m} Y_{m} r^{m} . \\tag{30}\n\\end{equation*}$$\n\n\nAt the spherical surface, $r=a$, and $\\Psi=Y_{m}$, so that equation\n (29) becomes in this case\n\n$$\\begin{equation*}\n\\iint Y_{m} Y_{n} d s=\\frac{4 \\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}}, \\tag{31}\n\\end{equation*}$$\n\nwhere the value of the differential coefficient is to be taken at\n the centre of the sphere.\n\n\nWhen $n$ is less than $m$, the result of the differentiation is a\n homogeneous function of $x, y$, and $z$ of degree $m-n$, the value of\n which at the centre of the sphere is zero. If $n$ is equal to $m$ the\n result of the differentiation is a constant, the value of which we\n shall determine in Art. 134. If the differentiation is carried\n further, the result is zero. Hence the surface-integral $\\iint Y_{m} Y_{n} d s$\n vanishes whenever $m$ and $n$ are different.\n\n\nThe steps by which we have arrived at this result are all of\n",
+            "structured_lines": [
+              {
+                "page": 236,
+                "line_number": 3,
+                "type": "text",
+                "content": "Similarly, if $\\sigma d s$ is the charge on an element $d s$ of the shell,",
+                "mathpix_content": "\n\nSimilarly, if $\\sigma d s$ is the charge on an element $d s$ of the shell,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 4,
+                "type": "text",
+                "content": "since the potential due to the shell at the external system $E$",
+                "mathpix_content": " since the potential due to the shell at the external system $E$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 5,
+                "type": "text",
+                "content": "is $V_{n}$, we have",
+                "mathpix_content": " is $V_{n}$, we have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 9,
+                "type": "text",
+                "content": "The last term contains a summation to be extended over the",
+                "mathpix_content": "\n\nThe last term contains a summation to be extended over the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 10,
+                "type": "text",
+                "content": "surface of the sphere. Equating it to the first expression for $W_{n}$,",
+                "mathpix_content": " surface of the sphere. Equating it to the first expression for $W_{n}$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 11,
+                "type": "text",
+                "content": "we have",
+                "mathpix_content": " we have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 16,
+                "type": "text",
+                "content": "If we remember that $4 \\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this",
+                "mathpix_content": "\n\nIf we remember that $4 \\pi \\sigma a^{2}=(2 n+1) Y_{n}$, and that $A_{n}=a^{n}$, this",
+                "font_size": 27,
+                "confidence": 0.79296875
+              },
+              {
+                "page": 236,
+                "line_number": 17,
+                "type": "text",
+                "content": "becomes",
+                "mathpix_content": " becomes",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 21,
+                "type": "text",
+                "content": "This equation reduces the operation of taking the surface",
+                "mathpix_content": "\n\nThis equation reduces the operation of taking the surface",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 22,
+                "type": "text",
+                "content": "integral of $\\Psi Y_{n} d s$ over every element of the surface of a sphere of",
+                "mathpix_content": " integral of $\\Psi Y_{n} d s$ over every element of the surface of a sphere of",
+                "font_size": 27,
+                "confidence": 0.9980475902557373
+              },
+              {
+                "page": 236,
+                "line_number": 23,
+                "type": "text",
+                "content": "radius $a$, to that of differentiating $\\Psi$ with respect to the $n$ axes",
+                "mathpix_content": " radius $a$, to that of differentiating $\\Psi$ with respect to the $n$ axes",
+                "font_size": 27,
+                "confidence": 0.9951171875
+              },
+              {
+                "page": 236,
+                "line_number": 24,
+                "type": "text",
+                "content": "of the harmonic and taking the value of the differential coeffi-",
+                "mathpix_content": " of the harmonic and taking the value of the differential coeffi",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 25,
+                "type": "text",
+                "content": "cient at the centre of the sphere, provided that $\\Psi$ satisfies",
+                "mathpix_content": "cient at the centre of the sphere, provided that $\\Psi$ satisfies",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 26,
+                "type": "text",
+                "content": "Laplace's equation at all points within the sphere, and $Y_{n}$ is a",
+                "mathpix_content": " Laplace's equation at all points within the sphere, and $Y_{n}$ is a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 27,
+                "type": "text",
+                "content": "surface harmonic of order $n$.",
+                "mathpix_content": " surface harmonic of order $n$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 28,
+                "type": "text",
+                "content": "132.] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+                "mathpix_content": "\n132.] Let us now suppose that $\\Psi$ is a solid harmonic of positive",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 29,
+                "type": "text",
+                "content": "degree $m$ of the form",
+                "mathpix_content": " degree $m$ of the form",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 236,
+                "line_number": 33,
+                "type": "text",
+                "content": "At the spherical surface, $r=a$, and $\\Psi=Y_{m}$, so that equation",
+                "mathpix_content": "\n\nAt the spherical surface, $r=a$, and $\\Psi=Y_{m}$, so that equation",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 236,
+                "line_number": 34,
+                "type": "text",
+                "content": "(29) becomes in this case",
+                "mathpix_content": " (29) becomes in this case",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 38,
+                "type": "text",
+                "content": "where the value of the differential coefficient is to be taken at",
+                "mathpix_content": "\nwhere the value of the differential coefficient is to be taken at",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 39,
+                "type": "text",
+                "content": "the centre of the sphere.",
+                "mathpix_content": " the centre of the sphere.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 40,
+                "type": "text",
+                "content": "When $n$ is less than $m$, the result of the differentiation is a",
+                "mathpix_content": "\n\nWhen $n$ is less than $m$, the result of the differentiation is a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 41,
+                "type": "text",
+                "content": "homogeneous function of $x, y$, and $z$ of degree $m-n$, the value of",
+                "mathpix_content": " homogeneous function of $x, y$, and $z$ of degree $m-n$, the value of",
+                "font_size": 27,
+                "confidence": 0.9868340436369181
+              },
+              {
+                "page": 236,
+                "line_number": 42,
+                "type": "text",
+                "content": "which at the centre of the sphere is zero. If $n$ is equal to $m$ the",
+                "mathpix_content": " which at the centre of the sphere is zero. If $n$ is equal to $m$ the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 43,
+                "type": "text",
+                "content": "result of the differentiation is a constant, the value of which we",
+                "mathpix_content": " result of the differentiation is a constant, the value of which we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 44,
+                "type": "text",
+                "content": "shall determine in Art. 134. If the differentiation is carried",
+                "mathpix_content": " shall determine in Art. 134. If the differentiation is carried",
+                "font_size": 27,
+                "confidence": 0.90966796875
+              },
+              {
+                "page": 236,
+                "line_number": 45,
+                "type": "text",
+                "content": "further, the result is zero. Hence the surface-integral $\\iint Y_{m} Y_{n} d s$",
+                "mathpix_content": " further, the result is zero. Hence the surface-integral $\\iint Y_{m} Y_{n} d s$",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 236,
+                "line_number": 46,
+                "type": "text",
+                "content": "vanishes whenever $m$ and $n$ are different.",
+                "mathpix_content": " vanishes whenever $m$ and $n$ are different.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 236,
+                "line_number": 47,
+                "type": "text",
+                "content": "The steps by which we have arrived at this result are all of",
+                "mathpix_content": "\n\nThe steps by which we have arrived at this result are all of",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

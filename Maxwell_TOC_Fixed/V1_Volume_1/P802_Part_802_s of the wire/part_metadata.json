@@ -1,0 +1,4273 @@
+{
+  "part_id": "part_802",
+  "part_number": 802,
+  "title": "s of the wire.",
+  "page_start": 504,
+  "page_end": 508,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 342,
+      "title": "]",
+      "page_start": 504,
+      "page_end": 503,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 469,
+      "title": "To avoid the electromagnetic effects of the current in the coil",
+      "page_start": 504,
+      "page_end": 503,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 347,
+      "title": ").",
+      "page_start": 504,
+      "page_end": 503,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 342,
+      "title": "] For very great resistances, such as several millions of",
+      "page_start": 504,
+      "page_end": 503,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 1870,
+      "title": "To avoid the electromagnetic effects of the current in the coil",
+      "page_start": 504,
+      "page_end": 503,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 347,
+      "title": ").",
+      "page_start": 504,
+      "page_end": 503,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 342,
+      "title": "] For very great resistances, such as several millions of",
+      "page_start": 504,
+      "page_end": 503,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1870,
+      "title": "}",
+      "page_start": 504,
+      "page_end": 504,
+      "articles": [
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_342",
+          "article_number": 342,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_342",
+          "article_number": 342,
+          "title_original": "] For very great resistances, such as several millions of",
+          "title_safe": "For very great resistances such as several millions of",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1870",
+          "article_number": 1870,
+          "title_original": "To avoid the electromagnetic effects of the current in the coil",
+          "title_safe": "To avoid the electromagnetic effects of the current in the c",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_342",
+          "article_number": 342,
+          "title_original": "] For very great resistances, such as several millions of",
+          "title_safe": "For very great resistances such as several millions of",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1870",
+          "article_number": 1870,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_342",
+          "article_number": 342,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_469",
+          "article_number": 469,
+          "title_original": "To avoid the electromagnetic effects of the current in the coil",
+          "title_safe": "To avoid the electromagnetic effects of the current in the c",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_342",
+          "article_number": 342,
+          "title_original": ".] For very great resistances, such as several millions of",
+          "title_safe": "For very great resistances such as several millions of",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1870",
+          "article_number": 1870,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_347",
+          "article_number": 347,
+          "title_original": ").",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_342",
+          "article_number": 342,
+          "title_original": ".] For very great resistances, such as several millions of",
+          "title_safe": "For very great resistances such as several millions of",
+          "page_start": 504,
+          "page_end": 503,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1870",
+          "article_number": 1870,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 504,
+          "page_end": 504,
+          "content": {
+            "raw_text": "\n--- Page 504 ---\n342.]\nRESISTANCE COILS.\n469\nTo avoid the electromagnetic effects of the current in the coil\nthe wire is first doubled back on itself and then coiled on the\ntube, so that at every part of the coil there are equal and\nopposite currents in the adjacent parts of the wire.\nWhen it is desired to keep two coils at the same temperature\nthe wires are sometimes placed side by side and coiled up\ntogether. This method is especially useful when it is more\nimportant to secure equality of resistance than to know the\nabsolute value of the resistance, as in the case of the equal arms\nof Wheatstone's Bridge (Art. 347).\nWhen measurements of resistance were first attempted, a resist-\nance coil, consisting of an uncovered wire coile \\$ in a spiral\ngroove round a cylinder of insulating material, was much used.\nIt was called a Rheostat. The accuracy with which it was\nfound possible to compare resistances was soon found to be\ninconsistent with the use of any instrument in which the\ncontacts are not more perfect than can be obtained in the\nrheostat. The rheostat, however, is still used for adjusting\nthe resistance where accurate measurement is not required.\nResistance coils are generally made of those metals whose\nresistance is greatest and which vary least with temperature.\nGerman silver fulfils these conditions very well, but some\nspecimens are found to change their properties during the lapse\nof years. Hence, for standard coils, several pure metals, and\nalso an alloy of platinum and silver, have been emp\u0142oyed, and\nthe relative resistance of these during several years has been\nfound constant up to the limits of modern accuracy.\n342.] For very great resistances, such as several millions of\nOhms, the wire must be either very long or very thin, and the\nconstruction of the coil is expensive and difficult. Hence\ntellurium and selenium have been proposed as materials for\nconstructing standards of great resistance. A very ingenious\nand easy method of construction has been lately proposed by\nPhillips *. On a piece of ebonite or ground glass a fine pencil-\nline is drawn. The ends of this filament of plumbago are con-\nnected to metallic electrodes, and the whole is then covered with\ninsulating varnish. If it should be found that the resistance\nof such a pencil-line remains constant, this will be the best\nmethod of obtaining a resistance of several millions of Ohms.\n\n* Phil. Mag., July, 1870.\n",
+            "mathpix_markdown": "\n--- Page 504 ---\n\n\nTo avoid the electromagnetic effects of the current in the coil\n the wire is first doubled back on itself and then coiled on the\n tube, so that at every part of the coil there are equal and\n opposite currents in the adjacent parts of the wire.\n\n\nWhen it is desired to keep two coils at the same temperature\n the wires are sometimes placed side by side and coiled up\n together. This method is especially useful when it is more\n important to secure equality of resistance than to know the\n absolute value of the resistance, as in the case of the equal arms\n of Wheatstone's Bridge (Art. 347).\n\n\nWhen measurements of resistance were first attempted, a resist\nance coil, consisting of an uncovered wire coile \\$ in a spiral\n groove round a cylinder of insulating material, was much used.\n It was called a Rheostat. The accuracy with which it was\n found possible to compare resistances was soon found to be\n inconsistent with the use of any instrument in which the\n contacts are not more perfect than can be obtained in the\n rheostat. The rheostat, however, is still used for adjusting\n the resistance where accurate measurement is not required.\n\n\nResistance coils are generally made of those metals whose\n resistance is greatest and which vary least with temperature.\n German silver fulfils these conditions very well, but some\n specimens are found to change their properties during the lapse\n of years. Hence, for standard coils, several pure metals, and\n also an alloy of platinum and silver, have been emp\u0142oyed, and\n the relative resistance of these during several years has been\n found constant up to the limits of modern accuracy.\n\n342.] For very great resistances, such as several millions of\n Ohms, the wire must be either very long or very thin, and the\n construction of the coil is expensive and difficult. Hence\n tellurium and selenium have been proposed as materials for\n constructing standards of great resistance. A very ingenious\n and easy method of construction has been lately proposed by\n Phillips *. On a piece of ebonite or ground glass a fine pencil\nline is drawn. The ends of this filament of plumbago are con\nnected to metallic electrodes, and the whole is then covered with\n insulating varnish. If it should be found that the resistance\n of such a pencil-line remains constant, this will be the best\n method of obtaining a resistance of several millions of Ohms.\n\n\n\\footnotetext{\n* Phil. Mag., July, 1870.\n}\n",
+            "structured_lines": [
+              {
+                "page": 504,
+                "line_number": 4,
+                "type": "text",
+                "content": "To avoid the electromagnetic effects of the current in the coil",
+                "mathpix_content": "\n\nTo avoid the electromagnetic effects of the current in the coil",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 5,
+                "type": "text",
+                "content": "the wire is first doubled back on itself and then coiled on the",
+                "mathpix_content": " the wire is first doubled back on itself and then coiled on the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 6,
+                "type": "text",
+                "content": "tube, so that at every part of the coil there are equal and",
+                "mathpix_content": " tube, so that at every part of the coil there are equal and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 7,
+                "type": "text",
+                "content": "opposite currents in the adjacent parts of the wire.",
+                "mathpix_content": " opposite currents in the adjacent parts of the wire.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 8,
+                "type": "text",
+                "content": "When it is desired to keep two coils at the same temperature",
+                "mathpix_content": "\n\nWhen it is desired to keep two coils at the same temperature",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 9,
+                "type": "text",
+                "content": "the wires are sometimes placed side by side and coiled up",
+                "mathpix_content": " the wires are sometimes placed side by side and coiled up",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 10,
+                "type": "text",
+                "content": "together. This method is especially useful when it is more",
+                "mathpix_content": " together. This method is especially useful when it is more",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 11,
+                "type": "text",
+                "content": "important to secure equality of resistance than to know the",
+                "mathpix_content": " important to secure equality of resistance than to know the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 12,
+                "type": "text",
+                "content": "absolute value of the resistance, as in the case of the equal arms",
+                "mathpix_content": " absolute value of the resistance, as in the case of the equal arms",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 13,
+                "type": "text",
+                "content": "of Wheatstone's Bridge (Art. 347).",
+                "mathpix_content": " of Wheatstone's Bridge (Art. 347).",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 14,
+                "type": "text",
+                "content": "When measurements of resistance were first attempted, a resist-",
+                "mathpix_content": "\n\nWhen measurements of resistance were first attempted, a resist",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 15,
+                "type": "text",
+                "content": "ance coil, consisting of an uncovered wire coile \\$ in a spiral",
+                "mathpix_content": "ance coil, consisting of an uncovered wire coile \\$ in a spiral",
+                "font_size": 27,
+                "confidence": 0.35329997539520264
+              },
+              {
+                "page": 504,
+                "line_number": 16,
+                "type": "text",
+                "content": "groove round a cylinder of insulating material, was much used.",
+                "mathpix_content": " groove round a cylinder of insulating material, was much used.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 17,
+                "type": "text",
+                "content": "It was called a Rheostat. The accuracy with which it was",
+                "mathpix_content": " It was called a Rheostat. The accuracy with which it was",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 18,
+                "type": "text",
+                "content": "found possible to compare resistances was soon found to be",
+                "mathpix_content": " found possible to compare resistances was soon found to be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 19,
+                "type": "text",
+                "content": "inconsistent with the use of any instrument in which the",
+                "mathpix_content": " inconsistent with the use of any instrument in which the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 20,
+                "type": "text",
+                "content": "contacts are not more perfect than can be obtained in the",
+                "mathpix_content": " contacts are not more perfect than can be obtained in the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 21,
+                "type": "text",
+                "content": "rheostat. The rheostat, however, is still used for adjusting",
+                "mathpix_content": " rheostat. The rheostat, however, is still used for adjusting",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 22,
+                "type": "text",
+                "content": "the resistance where accurate measurement is not required.",
+                "mathpix_content": " the resistance where accurate measurement is not required.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 23,
+                "type": "text",
+                "content": "Resistance coils are generally made of those metals whose",
+                "mathpix_content": "\n\nResistance coils are generally made of those metals whose",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 24,
+                "type": "text",
+                "content": "resistance is greatest and which vary least with temperature.",
+                "mathpix_content": " resistance is greatest and which vary least with temperature.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 25,
+                "type": "text",
+                "content": "German silver fulfils these conditions very well, but some",
+                "mathpix_content": " German silver fulfils these conditions very well, but some",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 26,
+                "type": "text",
+                "content": "specimens are found to change their properties during the lapse",
+                "mathpix_content": " specimens are found to change their properties during the lapse",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 27,
+                "type": "text",
+                "content": "of years. Hence, for standard coils, several pure metals, and",
+                "mathpix_content": " of years. Hence, for standard coils, several pure metals, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 28,
+                "type": "text",
+                "content": "also an alloy of platinum and silver, have been emp\u0142oyed, and",
+                "mathpix_content": " also an alloy of platinum and silver, have been emp\u0142oyed, and",
+                "font_size": 27,
+                "confidence": 0.87890625
+              },
+              {
+                "page": 504,
+                "line_number": 29,
+                "type": "text",
+                "content": "the relative resistance of these during several years has been",
+                "mathpix_content": " the relative resistance of these during several years has been",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 30,
+                "type": "text",
+                "content": "found constant up to the limits of modern accuracy.",
+                "mathpix_content": " found constant up to the limits of modern accuracy.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 31,
+                "type": "text",
+                "content": "342.] For very great resistances, such as several millions of",
+                "mathpix_content": "\n342.] For very great resistances, such as several millions of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 32,
+                "type": "text",
+                "content": "Ohms, the wire must be either very long or very thin, and the",
+                "mathpix_content": " Ohms, the wire must be either very long or very thin, and the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 33,
+                "type": "text",
+                "content": "construction of the coil is expensive and difficult. Hence",
+                "mathpix_content": " construction of the coil is expensive and difficult. Hence",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 34,
+                "type": "text",
+                "content": "tellurium and selenium have been proposed as materials for",
+                "mathpix_content": " tellurium and selenium have been proposed as materials for",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 35,
+                "type": "text",
+                "content": "constructing standards of great resistance. A very ingenious",
+                "mathpix_content": " constructing standards of great resistance. A very ingenious",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 36,
+                "type": "text",
+                "content": "and easy method of construction has been lately proposed by",
+                "mathpix_content": " and easy method of construction has been lately proposed by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 37,
+                "type": "text",
+                "content": "Phillips *. On a piece of ebonite or ground glass a fine pencil-",
+                "mathpix_content": " Phillips *. On a piece of ebonite or ground glass a fine pencil",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 38,
+                "type": "text",
+                "content": "line is drawn. The ends of this filament of plumbago are con-",
+                "mathpix_content": "line is drawn. The ends of this filament of plumbago are con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 39,
+                "type": "text",
+                "content": "nected to metallic electrodes, and the whole is then covered with",
+                "mathpix_content": "nected to metallic electrodes, and the whole is then covered with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 40,
+                "type": "text",
+                "content": "insulating varnish. If it should be found that the resistance",
+                "mathpix_content": " insulating varnish. If it should be found that the resistance",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 41,
+                "type": "text",
+                "content": "of such a pencil-line remains constant, this will be the best",
+                "mathpix_content": " of such a pencil-line remains constant, this will be the best",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 504,
+                "line_number": 42,
+                "type": "text",
+                "content": "method of obtaining a resistance of several millions of Ohms.",
+                "mathpix_content": " method of obtaining a resistance of several millions of Ohms.",
+                "font_size": 27,
+                "confidence": 0.9980478286743164
+              },
+              {
+                "page": 504,
+                "line_number": 44,
+                "type": "text",
+                "content": "* Phil. Mag., July, 1870.",
+                "mathpix_content": "\n\n\\footnotetext{\n* Phil. Mag., July, 1870.\n}",
+                "font_size": 21,
+                "confidence": 0.9849460578252547
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 470,
+      "title": "MEASUREMENT OF RESISTANCE.",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 344,
+      "title": "343.] There are various arrangements by which resistance",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 1,
+      "title": ", 2,",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 4,
+      "title": ", 8, 16, \\&c., arranged according to the powers of 2, may be",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 29,
+      "title": "the resistance in the box equal to 107 we express 107 in the",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 64,
+      "title": "+32+8+2+1$ or 1101011 . We then take the",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 64,
+      "title": ",32,8,2$ and 1 , and",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 16,
+      "title": "and 4.",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": "we can test the quality of 1 and $1^{\\prime}$, then that of",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 344,
+      "title": "] A box of resistance coils may be arranged in a different",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 343,
+      "title": "] There are various arrangements by which resistance",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": ", 2,",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 4,
+      "title": ", 8, 16, \\&c., arranged according to the powers of 2, may be",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 2025,
+      "title": "_11_28_e96c2f916abc8f617e8eg-505.jpg?height=392&width=581&top_left_y=758&top_left_x=349}",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 29,
+      "title": "}",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 107,
+      "title": "we express 107 in the",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 64,
+      "title": "+32+8+2+1$ or 1101011 . We then take the",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 64,
+      "title": ",32,8,2$ and 1 , and",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 16,
+      "title": "and 4.",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 1,
+      "title": "we can test the quality of 1 and $1^{\\prime}$, then that of",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 1,
+      "title": "+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.",
+      "page_start": 505,
+      "page_end": 504,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 344,
+      "title": "] A box of resistance coils may be arranged in a different",
+      "page_start": 505,
+      "page_end": 505,
+      "articles": [
+        {
+          "article_id": "article_344",
+          "article_number": 344,
+          "title_original": "343.] There are various arrangements by which resistance",
+          "title_safe": "343. There are various arrangements by which resistance",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": "the resistance in the box equal to 107 we express 107 in the",
+          "title_safe": "the resistance in the box equal to 107 we express 107 in the",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "This method, founded on the binary scale, is that in which",
+          "title_safe": "This method founded on the binary scale is that in which",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_344",
+          "article_number": 344,
+          "title_original": "] A box of resistance coils may be arranged in a different",
+          "title_safe": "A box of resistance coils may be arranged in a different",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_343",
+          "article_number": 343,
+          "title_original": "] There are various arrangements by which resistance",
+          "title_safe": "There are various arrangements by which resistance",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_505",
+          "article_number": 505,
+          "title_original": "jpg?height=392&width=581&top_left_y=758&top_left_x=349}",
+          "title_safe": "jpgheightequals392andwidthequals581andtopleftyequals758andto",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "This method, founded on the binary scale, is that in which",
+          "title_safe": "This method founded on the binary scale is that in which",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_344",
+          "article_number": 344,
+          "title_original": "] A box of resistance coils may be arranged in a different",
+          "title_safe": "A box of resistance coils may be arranged in a different",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_470",
+          "article_number": 470,
+          "title_original": "MEASUREMENT OF RESISTANCE.",
+          "title_safe": "MEASUREMENT OF RESISTANCE",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_344",
+          "article_number": 344,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_343",
+          "article_number": 343,
+          "title_original": ".] There are various arrangements by which resistance",
+          "title_safe": "There are various arrangements by which resistance",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ", 2,",
+          "title_safe": "2",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ", 8, 16, \\&c., arranged according to the powers of 2, may be",
+          "title_safe": "8 16 andc. arranged according to the powers of 2 may be",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_107",
+          "article_number": 107,
+          "title_original": "we express 107 in the",
+          "title_safe": "we express 107 in the",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": "+32+8+2+1$ or 1101011 . We then take the",
+          "title_safe": "plus32plus8plus2plus1 or 1101011 . We then take the",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ",32,8,2$ and 1 , and",
+          "title_safe": "3282 and 1 and",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": "and 4.",
+          "title_safe": "and 4",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "we can test the quality of 1 and $1^{\\prime}$, then that of",
+          "title_safe": "we can test the quality of 1 and 1prime then that of",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.",
+          "title_safe": "plus1prime and 2 then that of 1plus1primeplus2 and 4 and so",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_344",
+          "article_number": 344,
+          "title_original": ".] A box of resistance coils may be arranged in a different",
+          "title_safe": "A box of resistance coils may be arranged in a different",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_343",
+          "article_number": 343,
+          "title_original": ".] There are various arrangements by which resistance",
+          "title_safe": "There are various arrangements by which resistance",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ", 2,",
+          "title_safe": "2",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ", 8, 16, \\&c., arranged according to the powers of 2, may be",
+          "title_safe": "8 16 andc. arranged according to the powers of 2 may be",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2025",
+          "article_number": 2025,
+          "title_original": "_11_28_e96c2f916abc8f617e8eg-505.jpg?height=392&width=581&top_left_y=758&top_left_x=349}",
+          "title_safe": "1128e96c2f916abc8f617e8eg-505.jpgheightequals392andwidthequa",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_29",
+          "article_number": 29,
+          "title_original": ".}",
+          "title_safe": "Article",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_107",
+          "article_number": 107,
+          "title_original": "we express 107 in the",
+          "title_safe": "we express 107 in the",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": "+32+8+2+1$ or 1101011 . We then take the",
+          "title_safe": "plus32plus8plus2plus1 or 1101011 . We then take the",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ",32,8,2$ and 1 , and",
+          "title_safe": "3282 and 1 and",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": "and 4.",
+          "title_safe": "and 4",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "we can test the quality of 1 and $1^{\\prime}$, then that of",
+          "title_safe": "we can test the quality of 1 and 1prime then that of",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.",
+          "title_safe": "plus1prime and 2 then that of 1plus1primeplus2 and 4 and so",
+          "page_start": 505,
+          "page_end": 504,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_344",
+          "article_number": 344,
+          "title_original": ".] A box of resistance coils may be arranged in a different",
+          "title_safe": "A box of resistance coils may be arranged in a different",
+          "page_start": 505,
+          "page_end": 505,
+          "content": {
+            "raw_text": "\n--- Page 505 ---\n470\nMEASUREMENT OF RESISTANCE.\n[344.\n343.] There are various arrangements by which resistance\ncoils may be easily introduced into a circuit.\nFor instance, a series of coils of which the resistances are 1, 2,\n4, 8, 16, \\&c., arranged according to the powers of 2, may be\nplaced in a box in series.\nThe electrodes consist of stout brass plates, so arranged on\nthe outside of the box that by inserting a brass plug or wedge\nbetween two of them as a shunt, the resistance of the corre-\nsponding coil may be put out of the circuit. This arrangement\nwas introduced by Siemens.\nEach interval between the electrodes is marked with the\nresistance of the corresponding coil, so that if we wish to make\n\nFig. 29.\nthe resistance in the box equal to 107 we express 107 in the\nbinary scale as $64+32+8+2+1$ or 1101011 . We then take the\nplugs out of the holes corresponding to $64,32,8,2$ and 1 , and\nleave the plugs in 16 and 4.\nThis method, founded on the binary scale, is that in which\nthe snallest number of separate coils is needed, and it is also\nthat which can be most readily tested. For if we have another\ncoil equal to 1 we can test the quality of 1 and $1^{\\prime}$, then that of\n$1+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.\nThe only disadvantage of the arrangement is that it requires\na familiarity with the binary scale of notation, which is not\ngenerally possessed by those accustomed to express every number\nin the decimal scale.\n344.] A box of resistance coils may be arranged in a different\nway for the purpose of measuring conductivities instead of\nresistances.\n",
+            "mathpix_markdown": "\n--- Page 505 ---\n\n343.] There are various arrangements by which resistance\n coils may be easily introduced into a circuit.\n\n\nFor instance, a series of coils of which the resistances are 1, 2,\n 4, 8, 16, \\&c., arranged according to the powers of 2, may be\n placed in a box in series.\n\n\nThe electrodes consist of stout brass plates, so arranged on\n the outside of the box that by inserting a brass plug or wedge\n between two of them as a shunt, the resistance of the corre\nsponding coil may be put out of the circuit. This arrangement\n was introduced by Siemens.\n\n\nEach interval between the electrodes is marked with the\n resistance of the corresponding coil, so that if we wish to make\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-505.jpg?height=392&width=581&top_left_y=758&top_left_x=349}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 29.}\n\\end{figure}\n\nthe resistance in the box equal to 107 we express 107 in the\n binary scale as $64+32+8+2+1$ or 1101011 . We then take the\n plugs out of the holes corresponding to $64,32,8,2$ and 1 , and\n leave the plugs in 16 and 4.\n\n\nThis method, founded on the binary scale, is that in which\n the snallest number of separate coils is needed, and it is also\n that which can be most readily tested. For if we have another\n coil equal to 1 we can test the quality of 1 and $1^{\\prime}$, then that of\n $1+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.\n\n\nThe only disadvantage of the arrangement is that it requires\n a familiarity with the binary scale of notation, which is not\n generally possessed by those accustomed to express every number\n in the decimal scale.\n\n344.] A box of resistance coils may be arranged in a different\n way for the purpose of measuring conductivities instead of\n resistances.\n",
+            "structured_lines": [
+              {
+                "page": 505,
+                "line_number": 4,
+                "type": "text",
+                "content": "343.] There are various arrangements by which resistance",
+                "mathpix_content": "\n343.] There are various arrangements by which resistance",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 5,
+                "type": "text",
+                "content": "coils may be easily introduced into a circuit.",
+                "mathpix_content": " coils may be easily introduced into a circuit.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 6,
+                "type": "text",
+                "content": "For instance, a series of coils of which the resistances are 1, 2,",
+                "mathpix_content": "\n\nFor instance, a series of coils of which the resistances are 1, 2,",
+                "font_size": 34,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 505,
+                "line_number": 7,
+                "type": "text",
+                "content": "4, 8, 16, \\&c., arranged according to the powers of 2, may be",
+                "mathpix_content": " 4, 8, 16, \\&c., arranged according to the powers of 2, may be",
+                "font_size": 34,
+                "confidence": 0.6212466154247522
+              },
+              {
+                "page": 505,
+                "line_number": 8,
+                "type": "text",
+                "content": "placed in a box in series.",
+                "mathpix_content": " placed in a box in series.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 9,
+                "type": "text",
+                "content": "The electrodes consist of stout brass plates, so arranged on",
+                "mathpix_content": "\n\nThe electrodes consist of stout brass plates, so arranged on",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 10,
+                "type": "text",
+                "content": "the outside of the box that by inserting a brass plug or wedge",
+                "mathpix_content": " the outside of the box that by inserting a brass plug or wedge",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 11,
+                "type": "text",
+                "content": "between two of them as a shunt, the resistance of the corre-",
+                "mathpix_content": " between two of them as a shunt, the resistance of the corre",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 12,
+                "type": "text",
+                "content": "sponding coil may be put out of the circuit. This arrangement",
+                "mathpix_content": "sponding coil may be put out of the circuit. This arrangement",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 505,
+                "line_number": 13,
+                "type": "text",
+                "content": "was introduced by Siemens.",
+                "mathpix_content": " was introduced by Siemens.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 14,
+                "type": "text",
+                "content": "Each interval between the electrodes is marked with the",
+                "mathpix_content": "\n\nEach interval between the electrodes is marked with the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 15,
+                "type": "text",
+                "content": "resistance of the corresponding coil, so that if we wish to make",
+                "mathpix_content": " resistance of the corresponding coil, so that if we wish to make",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 18,
+                "type": "text",
+                "content": "the resistance in the box equal to 107 we express 107 in the",
+                "mathpix_content": "\nthe resistance in the box equal to 107 we express 107 in the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 19,
+                "type": "text",
+                "content": "binary scale as $64+32+8+2+1$ or 1101011 . We then take the",
+                "mathpix_content": " binary scale as $64+32+8+2+1$ or 1101011 . We then take the",
+                "font_size": 34,
+                "confidence": 0.9965834617614746
+              },
+              {
+                "page": 505,
+                "line_number": 20,
+                "type": "text",
+                "content": "plugs out of the holes corresponding to $64,32,8,2$ and 1 , and",
+                "mathpix_content": " plugs out of the holes corresponding to $64,32,8,2$ and 1 , and",
+                "font_size": 34,
+                "confidence": 0.99365234375
+              },
+              {
+                "page": 505,
+                "line_number": 21,
+                "type": "text",
+                "content": "leave the plugs in 16 and 4.",
+                "mathpix_content": " leave the plugs in 16 and 4.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 22,
+                "type": "text",
+                "content": "This method, founded on the binary scale, is that in which",
+                "mathpix_content": "\n\nThis method, founded on the binary scale, is that in which",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 23,
+                "type": "text",
+                "content": "the snallest number of separate coils is needed, and it is also",
+                "mathpix_content": " the snallest number of separate coils is needed, and it is also",
+                "font_size": 34,
+                "confidence": 0.6328125
+              },
+              {
+                "page": 505,
+                "line_number": 24,
+                "type": "text",
+                "content": "that which can be most readily tested. For if we have another",
+                "mathpix_content": " that which can be most readily tested. For if we have another",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 25,
+                "type": "text",
+                "content": "coil equal to 1 we can test the quality of 1 and $1^{\\prime}$, then that of",
+                "mathpix_content": " coil equal to 1 we can test the quality of 1 and $1^{\\prime}$, then that of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 26,
+                "type": "text",
+                "content": "$1+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.",
+                "mathpix_content": " $1+1^{\\prime}$ and 2 , then that of $1+1^{\\prime}+2$ and 4 , and so on.",
+                "font_size": 34,
+                "confidence": 0.91748046875
+              },
+              {
+                "page": 505,
+                "line_number": 27,
+                "type": "text",
+                "content": "The only disadvantage of the arrangement is that it requires",
+                "mathpix_content": "\n\nThe only disadvantage of the arrangement is that it requires",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 28,
+                "type": "text",
+                "content": "a familiarity with the binary scale of notation, which is not",
+                "mathpix_content": " a familiarity with the binary scale of notation, which is not",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 29,
+                "type": "text",
+                "content": "generally possessed by those accustomed to express every number",
+                "mathpix_content": " generally possessed by those accustomed to express every number",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 30,
+                "type": "text",
+                "content": "in the decimal scale.",
+                "mathpix_content": " in the decimal scale.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 31,
+                "type": "text",
+                "content": "344.] A box of resistance coils may be arranged in a different",
+                "mathpix_content": "\n344.] A box of resistance coils may be arranged in a different",
+                "font_size": 34,
+                "confidence": 0.9892578125
+              },
+              {
+                "page": 505,
+                "line_number": 32,
+                "type": "text",
+                "content": "way for the purpose of measuring conductivities instead of",
+                "mathpix_content": " way for the purpose of measuring conductivities instead of",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 505,
+                "line_number": 33,
+                "type": "text",
+                "content": "resistances.",
+                "mathpix_content": " resistances.",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 345,
+      "title": "]",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 471,
+      "title": "The coils are placed so that one end of each is connected with",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 30,
+      "title": "$1,2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con-",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 1,
+      "title": "}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 8,
+      "title": "}{5}$ or 1.6 .",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 276,
+      "title": "On the Comparison of Resistances.",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 345,
+      "title": "] If $E$ is the electromotive force of a battery, and $R$ the",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 1,
+      "title": "}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 1,
+      "title": "}\\left(R+r_{1}\\right)=I_{2}\\left(R+r_{2}\\right) .$$",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 1,
+      "title": "}}{r_{2}}=\\frac{\\left(I-I_{1}\\right) I_{2}}{\\left(I-I_{2}\\right) I_{1}} .$$",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 1,
+      "title": "}$ and",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 2,
+      "title": "}$, and this implies a galvanometer graduated for absolute",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 1,
+      "title": "}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 2025,
+      "title": "_11_28_e96c2f916abc8f617e8eg-506.jpg?height=238&width=491&top_left_y=492&top_left_x=638}",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 30,
+      "title": "}",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 1,
+      "title": ",2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 1,
+      "title": "}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 8,
+      "title": "}{5}$ or 1.6 .",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 276,
+      "title": "\\section*{On the Comparison of Resistances.}",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 345,
+      "title": "] If $E$ is the electromotive force of a battery, and $R$ the",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 1,
+      "title": "}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 1,
+      "title": "}\\left(R+r_{1}\\right)=I_{2}\\left(R+r_{2}\\right) .$$",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 1,
+      "title": "}}{r_{2}}=\\frac{\\left(I-I_{1}\\right) I_{2}}{\\left(I-I_{2}\\right) I_{1}} .$$",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 1,
+      "title": "}$ and",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 2,
+      "title": "}$, and this implies a galvanometer graduated for absolute",
+      "page_start": 506,
+      "page_end": 505,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 1,
+      "title": "}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,",
+      "page_start": 506,
+      "page_end": 506,
+      "articles": [
+        {
+          "article_id": "article_276",
+          "article_number": 276,
+          "title_original": "On the Comparison of Resistances.",
+          "title_safe": "On the Comparison of Resistances",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_276",
+          "article_number": 276,
+          "title_original": "\\section*{On the Comparison of Resistances.}",
+          "title_safe": "sectionASTERISKOn the Comparison of Resistances",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_345",
+          "article_number": 345,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_30",
+          "article_number": 30,
+          "title_original": "$1,2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con-",
+          "title_safe": "124 and and. and the plugs are inserted at 2 and 8 the con",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "6 .",
+          "title_safe": "6",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_276",
+          "article_number": 276,
+          "title_original": "On the Comparison of Resistances.",
+          "title_safe": "On the Comparison of Resistances",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_345",
+          "article_number": 345,
+          "title_original": "] If $E$ is the electromotive force of a battery, and $R$ the",
+          "title_safe": "If E is the electromotive force of a battery and R the",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_506",
+          "article_number": 506,
+          "title_original": "jpg?height=238&width=491&top_left_y=492&top_left_x=638}",
+          "title_safe": "jpgheightequals238andwidthequals491andtopleftyequals492andto",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_30",
+          "article_number": 30,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "6 .",
+          "title_safe": "6",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_276",
+          "article_number": 276,
+          "title_original": "\\section*{On the Comparison of Resistances.}",
+          "title_safe": "sectionASTERISKOn the Comparison of Resistances",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_345",
+          "article_number": 345,
+          "title_original": "] If $E$ is the electromotive force of a battery, and $R$ the",
+          "title_safe": "If E is the electromotive force of a battery and R the",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_345",
+          "article_number": 345,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_471",
+          "article_number": 471,
+          "title_original": "The coils are placed so that one end of each is connected with",
+          "title_safe": "The coils are placed so that one end of each is connected wi",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_30",
+          "article_number": 30,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ",2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con-",
+          "title_safe": "24 and and. and the plugs are inserted at 2 and 8 the con",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is",
+          "title_safe": "2plusfrac18equalsfrac58 and the resistance of the box is",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "}{5}$ or 1.6 .",
+          "title_safe": "5 or 1.6",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_276",
+          "article_number": 276,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_345",
+          "article_number": 345,
+          "title_original": ".] If $E$ is the electromotive force of a battery, and $R$ the",
+          "title_safe": "If E is the electromotive force of a battery and R the",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the",
+          "title_safe": "I2 when additional resistances r1 r2 are introduced into the",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}\\left(R+r_{1}\\right)=I_{2}\\left(R+r_{2}\\right) .$$",
+          "title_safe": "leftRplusr1rightequalsI2leftRplusr2right",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{r_{2}}=\\frac{\\left(I-I_{1}\\right) I_{2}}{\\left(I-I_{2}\\right) I_{1}} .$$",
+          "title_safe": "r2equalsfracleftI-I1right I2leftI-I2right I1",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and",
+          "title_safe": "and",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$, and this implies a galvanometer graduated for absolute",
+          "title_safe": "and this implies a galvanometer graduated for absolute",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,",
+          "title_safe": "and r2 are equal then I1 and I2 are equal",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2025",
+          "article_number": 2025,
+          "title_original": "_11_28_e96c2f916abc8f617e8eg-506.jpg?height=238&width=491&top_left_y=492&top_left_x=638}",
+          "title_safe": "1128e96c2f916abc8f617e8eg-506.jpgheightequals238andwidthequa",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_30",
+          "article_number": 30,
+          "title_original": ".}",
+          "title_safe": "Article",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ",2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con",
+          "title_safe": "24 and and. and the plugs are inserted at 2 and 8 the con",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is",
+          "title_safe": "2plusfrac18equalsfrac58 and the resistance of the box is",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "}{5}$ or 1.6 .",
+          "title_safe": "5 or 1.6",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_276",
+          "article_number": 276,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_345",
+          "article_number": 345,
+          "title_original": ".] If $E$ is the electromotive force of a battery, and $R$ the",
+          "title_safe": "If E is the electromotive force of a battery and R the",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the",
+          "title_safe": "I2 when additional resistances r1 r2 are introduced into the",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}\\left(R+r_{1}\\right)=I_{2}\\left(R+r_{2}\\right) .$$",
+          "title_safe": "leftRplusr1rightequalsI2leftRplusr2right",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{r_{2}}=\\frac{\\left(I-I_{1}\\right) I_{2}}{\\left(I-I_{2}\\right) I_{1}} .$$",
+          "title_safe": "r2equalsfracleftI-I1right I2leftI-I2right I1",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and",
+          "title_safe": "and",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$, and this implies a galvanometer graduated for absolute",
+          "title_safe": "and this implies a galvanometer graduated for absolute",
+          "page_start": 506,
+          "page_end": 505,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,",
+          "title_safe": "and r2 are equal then I1 and I2 are equal",
+          "page_start": 506,
+          "page_end": 506,
+          "content": {
+            "raw_text": "\n--- Page 506 ---\n345.]\nCOMPARISON OF RESISTANCES.\n471\nThe coils are placed so that one end of each is connected with\na long thick piece of metal which forms one electrode of the box,\nand the other end is connected with a stout piece of brass plate\nas in the former case.\nThe other electrode of the box is a long brass plate, such that\nby inserting brass plugs between it and the electrodes of the\ncoils it may be connected\nto the first electrode through\nany given set of coils. The\nconductivity of the box is\nthen the sum of the conduc-\ntivities of the coils.\nIn the figure, in which the\nresistances of the coils are\n\n\nFig. 30.\n$1,2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con-\nductivity of the box is $\\frac{1}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is\ntherefore $\\frac{8}{5}$ or 1.6 .\nThis method of combining resistance coils for the measurement\nof fractional resistances was introduced by Sir W. Thomson\nunder the name of the method of multiple arcs. See Art. 276.\n\nOn the Comparison of Resistances.\n345.] If $E$ is the electromotive force of a battery, and $R$ the\nresistance of the battery and its connexions, including the gal-\nvanometer used in measuring the current, and if the strength of\nthe current is $I$ when the battery connexions are closed, and\n$I_{1}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the\ncircuit, then, by Ohm's Law,\n$$E=I R=I_{1}\\left(R+r_{1}\\right)=I_{2}\\left(R+r_{2}\\right) .$$\nEliminating $E$, the electromotive force of the battery, and $R$\nthe resistance of the battery and its connexions, we get Ohm's\nformula\n$$\\frac{r_{1}}{r_{2}}=\\frac{\\left(I-I_{1}\\right) I_{2}}{\\left(I-I_{2}\\right) I_{1}} .$$\nThis method requires a measurement of the ratios of $I, I_{1}$ and\n$I_{2}$, and this implies a galvanometer graduated for absolute\nmeasurements.\nIf the resistances $r_{1}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,\nand we can test the equality of currents by a galvanometer\nwhich is not capable of determining their ratios.\nBut this is rather to be taken as an example of a faulty\n",
+            "mathpix_markdown": "\n--- Page 506 ---\n\n\nThe coils are placed so that one end of each is connected with\n a long thick piece of metal which forms one electrode of the box,\n and the other end is connected with a stout piece of brass plate\n as in the former case.\n\n\nThe other electrode of the box is a long brass plate, such that\n by inserting brass plugs between it and the electrodes of the\n coils it may be connected\n to the first electrode through\n any given set of coils. The\n conductivity of the box is\n then the sum of the conduc\ntivities of the coils.\n\n\nIn the figure, in which the\n resistances of the coils are\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-506.jpg?height=238&width=491&top_left_y=492&top_left_x=638}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 30.}\n\\end{figure}\n\n$1,2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con\nductivity of the box is $\\frac{1}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is\n therefore $\\frac{8}{5}$ or 1.6 .\n\n\nThis method of combining resistance coils for the measurement\n of fractional resistances was introduced by Sir W. Thomson\n under the name of the method of multiple arcs. See Art. 276.\n\n\n\\section*{On the Comparison of Resistances.}\n\n345.] If $E$ is the electromotive force of a battery, and $R$ the\n resistance of the battery and its connexions, including the gal\nvanometer used in measuring the current, and if the strength of\n the current is $I$ when the battery connexions are closed, and\n $I_{1}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the\n circuit, then, by Ohm's Law,\n\n$$E=I R=I_{1}\\left(R+r_{1}\\right)=I_{2}\\left(R+r_{2}\\right) .$$\n\n\nEliminating $E$, the electromotive force of the battery, and $R$\n the resistance of the battery and its connexions, we get Ohm's\n formula\n\n$$\\frac{r_{1}}{r_{2}}=\\frac{\\left(I-I_{1}\\right) I_{2}}{\\left(I-I_{2}\\right) I_{1}} .$$\n\n\nThis method requires a measurement of the ratios of $I, I_{1}$ and\n $I_{2}$, and this implies a galvanometer graduated for absolute\n measurements.\n\n\nIf the resistances $r_{1}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,\n and we can test the equality of currents by a galvanometer\n which is not capable of determining their ratios.\n\n\nBut this is rather to be taken as an example of a faulty\n",
+            "structured_lines": [
+              {
+                "page": 506,
+                "line_number": 4,
+                "type": "text",
+                "content": "The coils are placed so that one end of each is connected with",
+                "mathpix_content": "\n\nThe coils are placed so that one end of each is connected with",
+                "font_size": 27,
+                "confidence": 0.9388087980914861
+              },
+              {
+                "page": 506,
+                "line_number": 5,
+                "type": "text",
+                "content": "a long thick piece of metal which forms one electrode of the box,",
+                "mathpix_content": " a long thick piece of metal which forms one electrode of the box,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 6,
+                "type": "text",
+                "content": "and the other end is connected with a stout piece of brass plate",
+                "mathpix_content": " and the other end is connected with a stout piece of brass plate",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 7,
+                "type": "text",
+                "content": "as in the former case.",
+                "mathpix_content": " as in the former case.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 8,
+                "type": "text",
+                "content": "The other electrode of the box is a long brass plate, such that",
+                "mathpix_content": "\n\nThe other electrode of the box is a long brass plate, such that",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 506,
+                "line_number": 9,
+                "type": "text",
+                "content": "by inserting brass plugs between it and the electrodes of the",
+                "mathpix_content": " by inserting brass plugs between it and the electrodes of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 10,
+                "type": "text",
+                "content": "coils it may be connected",
+                "mathpix_content": " coils it may be connected",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 11,
+                "type": "text",
+                "content": "to the first electrode through",
+                "mathpix_content": " to the first electrode through",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 12,
+                "type": "text",
+                "content": "any given set of coils. The",
+                "mathpix_content": " any given set of coils. The",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 13,
+                "type": "text",
+                "content": "conductivity of the box is",
+                "mathpix_content": " conductivity of the box is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 14,
+                "type": "text",
+                "content": "then the sum of the conduc-",
+                "mathpix_content": " then the sum of the conduc",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 15,
+                "type": "text",
+                "content": "tivities of the coils.",
+                "mathpix_content": "tivities of the coils.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 16,
+                "type": "text",
+                "content": "In the figure, in which the",
+                "mathpix_content": "\n\nIn the figure, in which the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 17,
+                "type": "text",
+                "content": "resistances of the coils are",
+                "mathpix_content": " resistances of the coils are",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 21,
+                "type": "text",
+                "content": "$1,2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con-",
+                "mathpix_content": "\n$1,2,4$ \\& \\&., and the plugs are inserted at 2 and 8 , the con",
+                "font_size": 27,
+                "confidence": 0.23148618566251544
+              },
+              {
+                "page": 506,
+                "line_number": 22,
+                "type": "text",
+                "content": "ductivity of the box is $\\frac{1}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is",
+                "mathpix_content": "ductivity of the box is $\\frac{1}{2}+\\frac{1}{8}=\\frac{5}{8}$, and the resistance of the box is",
+                "font_size": 27,
+                "confidence": 0.9921875
+              },
+              {
+                "page": 506,
+                "line_number": 23,
+                "type": "text",
+                "content": "therefore $\\frac{8}{5}$ or 1.6 .",
+                "mathpix_content": " therefore $\\frac{8}{5}$ or 1.6 .",
+                "font_size": 27,
+                "confidence": 0.927161302404329
+              },
+              {
+                "page": 506,
+                "line_number": 24,
+                "type": "text",
+                "content": "This method of combining resistance coils for the measurement",
+                "mathpix_content": "\n\nThis method of combining resistance coils for the measurement",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 25,
+                "type": "text",
+                "content": "of fractional resistances was introduced by Sir W. Thomson",
+                "mathpix_content": " of fractional resistances was introduced by Sir W. Thomson",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 26,
+                "type": "text",
+                "content": "under the name of the method of multiple arcs. See Art. 276.",
+                "mathpix_content": " under the name of the method of multiple arcs. See Art. 276.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 28,
+                "type": "text",
+                "content": "On the Comparison of Resistances.",
+                "mathpix_content": "\n\n\\section*{On the Comparison of Resistances.}",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 29,
+                "type": "text",
+                "content": "345.] If $E$ is the electromotive force of a battery, and $R$ the",
+                "mathpix_content": "\n345.] If $E$ is the electromotive force of a battery, and $R$ the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 506,
+                "line_number": 30,
+                "type": "text",
+                "content": "resistance of the battery and its connexions, including the gal-",
+                "mathpix_content": " resistance of the battery and its connexions, including the gal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 31,
+                "type": "text",
+                "content": "vanometer used in measuring the current, and if the strength of",
+                "mathpix_content": "vanometer used in measuring the current, and if the strength of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 32,
+                "type": "text",
+                "content": "the current is $I$ when the battery connexions are closed, and",
+                "mathpix_content": " the current is $I$ when the battery connexions are closed, and",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 506,
+                "line_number": 33,
+                "type": "text",
+                "content": "$I_{1}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the",
+                "mathpix_content": " $I_{1}, I_{2}$ when additional resistances $r_{1}, r_{2}$ are introduced into the",
+                "font_size": 27,
+                "confidence": 0.7372735324315727
+              },
+              {
+                "page": 506,
+                "line_number": 34,
+                "type": "text",
+                "content": "circuit, then, by Ohm's Law,",
+                "mathpix_content": " circuit, then, by Ohm's Law,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 37,
+                "type": "text",
+                "content": "Eliminating $E$, the electromotive force of the battery, and $R$",
+                "mathpix_content": "\n\nEliminating $E$, the electromotive force of the battery, and $R$",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 506,
+                "line_number": 38,
+                "type": "text",
+                "content": "the resistance of the battery and its connexions, we get Ohm's",
+                "mathpix_content": " the resistance of the battery and its connexions, we get Ohm's",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 39,
+                "type": "text",
+                "content": "formula",
+                "mathpix_content": " formula",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 42,
+                "type": "text",
+                "content": "This method requires a measurement of the ratios of $I, I_{1}$ and",
+                "mathpix_content": "\n\nThis method requires a measurement of the ratios of $I, I_{1}$ and",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 506,
+                "line_number": 43,
+                "type": "text",
+                "content": "$I_{2}$, and this implies a galvanometer graduated for absolute",
+                "mathpix_content": " $I_{2}$, and this implies a galvanometer graduated for absolute",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 44,
+                "type": "text",
+                "content": "measurements.",
+                "mathpix_content": " measurements.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 45,
+                "type": "text",
+                "content": "If the resistances $r_{1}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,",
+                "mathpix_content": "\n\nIf the resistances $r_{1}$ and $r_{2}$ are equal, then $I_{1}$ and $I_{2}$ are equal,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 46,
+                "type": "text",
+                "content": "and we can test the equality of currents by a galvanometer",
+                "mathpix_content": " and we can test the equality of currents by a galvanometer",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 47,
+                "type": "text",
+                "content": "which is not capable of determining their ratios.",
+                "mathpix_content": " which is not capable of determining their ratios.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 506,
+                "line_number": 48,
+                "type": "text",
+                "content": "But this is rather to be taken as an example of a faulty",
+                "mathpix_content": "\n\nBut this is rather to be taken as an example of a faulty",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 472,
+      "title": "MEASUREMENT OF RESISTANCE.",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 346,
+      "title": "method than as a practical method of determining resistance.",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 346,
+      "title": "] The comparison of resistances can be made with extreme",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 31,
+      "title": "The first of these methods depends on the use of the differ-",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 1,
+      "title": "}, I_{2}$ be the currents through the two coils of the gal-",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 1,
+      "title": "}-n I_{2} .$$",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 346,
+      "title": "] The comparison of resistances can be made with extreme",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 2025,
+      "title": "_11_28_e96c2f916abc8f617e8eg-507.jpg?height=481&width=531&top_left_y=640&top_left_x=376}",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 31,
+      "title": "}",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_67",
+      "chapter_number": 1,
+      "title": "}, I_{2}$ be the currents through the two coils of the gal",
+      "page_start": 507,
+      "page_end": 506,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_68",
+      "chapter_number": 1,
+      "title": "}-n I_{2} .$$",
+      "page_start": 507,
+      "page_end": 507,
+      "articles": [
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": "method than as a practical method of determining resistance.",
+          "title_safe": "method than as a practical method of determining resistance",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": "] The comparison of resistances can be made with extreme",
+          "title_safe": "The comparison of resistances can be made with extreme",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_31",
+          "article_number": 31,
+          "title_original": "The first of these methods depends on the use of the differ-",
+          "title_safe": "The first of these methods depends on the use of the differ",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": "] The comparison of resistances can be made with extreme",
+          "title_safe": "The comparison of resistances can be made with extreme",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_507",
+          "article_number": 507,
+          "title_original": "jpg?height=481&width=531&top_left_y=640&top_left_x=376}",
+          "title_safe": "jpgheightequals481andwidthequals531andtopleftyequals640andto",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_31",
+          "article_number": 31,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_472",
+          "article_number": 472,
+          "title_original": "MEASUREMENT OF RESISTANCE.",
+          "title_safe": "MEASUREMENT OF RESISTANCE",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": ".] The comparison of resistances can be made with extreme",
+          "title_safe": "The comparison of resistances can be made with extreme",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_31",
+          "article_number": 31,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, I_{2}$ be the currents through the two coils of the gal-",
+          "title_safe": "I2 be the currents through the two coils of the gal",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-n I_{2} .$$",
+          "title_safe": "n I2",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": ".] The comparison of resistances can be made with extreme",
+          "title_safe": "The comparison of resistances can be made with extreme",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2025",
+          "article_number": 2025,
+          "title_original": "_11_28_e96c2f916abc8f617e8eg-507.jpg?height=481&width=531&top_left_y=640&top_left_x=376}",
+          "title_safe": "1128e96c2f916abc8f617e8eg-507.jpgheightequals481andwidthequa",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_31",
+          "article_number": 31,
+          "title_original": ".}",
+          "title_safe": "Article",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, I_{2}$ be the currents through the two coils of the gal",
+          "title_safe": "I2 be the currents through the two coils of the gal",
+          "page_start": 507,
+          "page_end": 506,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-n I_{2} .$$",
+          "title_safe": "n I2",
+          "page_start": 507,
+          "page_end": 507,
+          "content": {
+            "raw_text": "\n--- Page 507 ---\n472\nMEASUREMENT OF RESISTANCE.\n[346.\nmethod than as a practical method of determining resistance.\nThe electromotive force $E$ cannot be maintained rigorously\nconstant, and the internal resistance of the battery is also\nexceedingly variable, so that any methods in which these are\nassumed to be even for a short time constant are not to be\ndepended on.\n346.] The comparison of resistances can be made with extreme\naccuracy by either of two methods, in which the result is in-\ndependent of variations of $R$ and $E$.\n\nFig. 31.\nThe first of these methods depends on the use of the differ-\nential galvanometer, an instrument in which there are two coils,\nthe currents in which are independent of each other, so that\nwhen the currents are made to flow in opposite directions they\nact in opposite directions on the needle, and when the ratio of\nthese currents is that of $m$ to $n$ they have no resultant effect on\nthe galvanometer needle.\nLet $I_{1}, I_{2}$ be the currents through the two coils of the gal-\nvanometer, then the deflexion of the needle may be written\n$$\\delta=m I_{1}-n I_{2} .$$\nNow let the battery current $I$ be divided between the coils of\nthe galvanometer, and let resistances $A$ and $B$ be introduced\ninto the first and second coils respectively. Let the remainder\nof the resistances of the coils and their connexions be $\\alpha$ and $\\beta$\nrespectively, and let the resistance of the battery and its con-\nnexions between $C$ and $D$ be $r$, and its electromotive force $E$.\n",
+            "mathpix_markdown": "\n--- Page 507 ---\n\nmethod than as a practical method of determining resistance.\n The electromotive force $E$ cannot be maintained rigorously\n constant, and the internal resistance of the battery is also\n exceedingly variable, so that any methods in which these are\n assumed to be even for a short time constant are not to be\n depended on.\n\n346.] The comparison of resistances can be made with extreme\n accuracy by either of two methods, in which the result is in\ndependent of variations of $R$ and $E$.\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-507.jpg?height=481&width=531&top_left_y=640&top_left_x=376}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 31.}\n\\end{figure}\n\n\nThe first of these methods depends on the use of the differ\nential galvanometer, an instrument in which there are two coils,\n the currents in which are independent of each other, so that\n when the currents are made to flow in opposite directions they\n act in opposite directions on the needle, and when the ratio of\n these currents is that of $m$ to $n$ they have no resultant effect on\n the galvanometer needle.\n\n\nLet $I_{1}, I_{2}$ be the currents through the two coils of the gal\nvanometer, then the deflexion of the needle may be written\n\n$$\\delta=m I_{1}-n I_{2} .$$\n\n\nNow let the battery current $I$ be divided between the coils of\n the galvanometer, and let resistances $A$ and $B$ be introduced\n into the first and second coils respectively. Let the remainder\n of the resistances of the coils and their connexions be $\\alpha$ and $\\beta$\n respectively, and let the resistance of the battery and its con\nnexions between $C$ and $D$ be $r$, and its electromotive force $E$.\n",
+            "structured_lines": [
+              {
+                "page": 507,
+                "line_number": 4,
+                "type": "text",
+                "content": "method than as a practical method of determining resistance.",
+                "mathpix_content": "\nmethod than as a practical method of determining resistance.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 5,
+                "type": "text",
+                "content": "The electromotive force $E$ cannot be maintained rigorously",
+                "mathpix_content": " The electromotive force $E$ cannot be maintained rigorously",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 6,
+                "type": "text",
+                "content": "constant, and the internal resistance of the battery is also",
+                "mathpix_content": " constant, and the internal resistance of the battery is also",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 7,
+                "type": "text",
+                "content": "exceedingly variable, so that any methods in which these are",
+                "mathpix_content": " exceedingly variable, so that any methods in which these are",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 8,
+                "type": "text",
+                "content": "assumed to be even for a short time constant are not to be",
+                "mathpix_content": " assumed to be even for a short time constant are not to be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 9,
+                "type": "text",
+                "content": "depended on.",
+                "mathpix_content": " depended on.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 10,
+                "type": "text",
+                "content": "346.] The comparison of resistances can be made with extreme",
+                "mathpix_content": "\n346.] The comparison of resistances can be made with extreme",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 11,
+                "type": "text",
+                "content": "accuracy by either of two methods, in which the result is in-",
+                "mathpix_content": " accuracy by either of two methods, in which the result is in",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 507,
+                "line_number": 12,
+                "type": "text",
+                "content": "dependent of variations of $R$ and $E$.",
+                "mathpix_content": "dependent of variations of $R$ and $E$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 15,
+                "type": "text",
+                "content": "The first of these methods depends on the use of the differ-",
+                "mathpix_content": "\n\nThe first of these methods depends on the use of the differ",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 16,
+                "type": "text",
+                "content": "ential galvanometer, an instrument in which there are two coils,",
+                "mathpix_content": "ential galvanometer, an instrument in which there are two coils,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 17,
+                "type": "text",
+                "content": "the currents in which are independent of each other, so that",
+                "mathpix_content": " the currents in which are independent of each other, so that",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 18,
+                "type": "text",
+                "content": "when the currents are made to flow in opposite directions they",
+                "mathpix_content": " when the currents are made to flow in opposite directions they",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 19,
+                "type": "text",
+                "content": "act in opposite directions on the needle, and when the ratio of",
+                "mathpix_content": " act in opposite directions on the needle, and when the ratio of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 20,
+                "type": "text",
+                "content": "these currents is that of $m$ to $n$ they have no resultant effect on",
+                "mathpix_content": " these currents is that of $m$ to $n$ they have no resultant effect on",
+                "font_size": 27,
+                "confidence": 0.9975595474243164
+              },
+              {
+                "page": 507,
+                "line_number": 21,
+                "type": "text",
+                "content": "the galvanometer needle.",
+                "mathpix_content": " the galvanometer needle.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 22,
+                "type": "text",
+                "content": "Let $I_{1}, I_{2}$ be the currents through the two coils of the gal-",
+                "mathpix_content": "\n\nLet $I_{1}, I_{2}$ be the currents through the two coils of the gal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 23,
+                "type": "text",
+                "content": "vanometer, then the deflexion of the needle may be written",
+                "mathpix_content": "vanometer, then the deflexion of the needle may be written",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 26,
+                "type": "text",
+                "content": "Now let the battery current $I$ be divided between the coils of",
+                "mathpix_content": "\n\nNow let the battery current $I$ be divided between the coils of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 27,
+                "type": "text",
+                "content": "the galvanometer, and let resistances $A$ and $B$ be introduced",
+                "mathpix_content": " the galvanometer, and let resistances $A$ and $B$ be introduced",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 507,
+                "line_number": 28,
+                "type": "text",
+                "content": "into the first and second coils respectively. Let the remainder",
+                "mathpix_content": " into the first and second coils respectively. Let the remainder",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 29,
+                "type": "text",
+                "content": "of the resistances of the coils and their connexions be $\\alpha$ and $\\beta$",
+                "mathpix_content": " of the resistances of the coils and their connexions be $\\alpha$ and $\\beta$",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 507,
+                "line_number": 30,
+                "type": "text",
+                "content": "respectively, and let the resistance of the battery and its con-",
+                "mathpix_content": " respectively, and let the resistance of the battery and its con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 507,
+                "line_number": 31,
+                "type": "text",
+                "content": "nexions between $C$ and $D$ be $r$, and its electromotive force $E$.",
+                "mathpix_content": "nexions between $C$ and $D$ be $r$, and its electromotive force $E$.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_69",
+      "chapter_number": 346,
+      "title": "]",
+      "page_start": 508,
+      "page_end": 507,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_70",
+      "chapter_number": 473,
+      "title": "Then we find, by Ohm's Law, for the difference of potentials",
+      "page_start": 508,
+      "page_end": 507,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_71",
+      "chapter_number": 1,
+      "title": "}(A+a)=I_{2}(B+\\beta)=E-I r$$",
+      "page_start": 508,
+      "page_end": 507,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_72",
+      "chapter_number": 1,
+      "title": "}=E \\frac{B+\\beta}{D}, \\quad I_{2}=E \\frac{A+a}{D}, \\quad I=E \\frac{A+a+B+\\beta}{D},$$",
+      "page_start": 508,
+      "page_end": 507,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_73",
+      "chapter_number": 1,
+      "title": "}(A+a)=I_{2}(B+\\beta)=E-I r$$",
+      "page_start": 508,
+      "page_end": 507,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_74",
+      "chapter_number": 1,
+      "title": "}=E \\frac{B+\\beta}{D}, \\quad I_{2}=E \\frac{A+a}{D}, \\quad I=E \\frac{A+a+B+\\beta}{D},$$",
+      "page_start": 508,
+      "page_end": 508,
+      "articles": [
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 508,
+          "page_end": 507,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 508,
+          "page_end": 507,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_473",
+          "article_number": 473,
+          "title_original": "Then we find, by Ohm's Law, for the difference of potentials",
+          "title_safe": "Then we find by Ohms Law for the difference of potentials",
+          "page_start": 508,
+          "page_end": 507,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}(A+a)=I_{2}(B+\\beta)=E-I r$$",
+          "title_safe": "AplusaequalsI2BplusbetaequalsE-I r",
+          "page_start": 508,
+          "page_end": 507,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=E \\frac{B+\\beta}{D}, \\quad I_{2}=E \\frac{A+a}{D}, \\quad I=E \\frac{A+a+B+\\beta}{D},$$",
+          "title_safe": "equalsE fracBplusbetaD quad I2equalsE fracAplusaD quad Iequa",
+          "page_start": 508,
+          "page_end": 507,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}(A+a)=I_{2}(B+\\beta)=E-I r$$",
+          "title_safe": "AplusaequalsI2BplusbetaequalsE-I r",
+          "page_start": 508,
+          "page_end": 507,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}=E \\frac{B+\\beta}{D}, \\quad I_{2}=E \\frac{A+a}{D}, \\quad I=E \\frac{A+a+B+\\beta}{D},$$",
+          "title_safe": "equalsE fracBplusbetaD quad I2equalsE fracAplusaD quad Iequa",
+          "page_start": 508,
+          "page_end": 508,
+          "content": {
+            "raw_text": "\n--- Page 508 ---\n346.]\nDIFFERENTIAL GALVANOMETER.\n473\nThen we find, by Ohm's Law, for the difference of potentials\nbetween $C$ and $D$,\nand since\n$$I_{1}(A+a)=I_{2}(B+\\beta)=E-I r$$\n$$I_{1}=E \\frac{B+\\beta}{D}, \\quad I_{2}=E \\frac{A+a}{D}, \\quad I=E \\frac{A+a+B+\\beta}{D},$$\nwhere\n$$D=(A+\\alpha)(B+\\beta)+r(A+\\alpha+B+\\beta) .$$\nThe deflexion of the galvanometer needle is therefore\n$$\\delta=\\frac{E}{D}\\{m(B+\\beta)-n(A+a)\\},$$\nand if there is no observable deflexion, then we know that the\nquantity enclosed in brackets cannot differ from zero by more\nthan a certain small quantity, depending on the power of the\nbattery, the suitableness of the arrangement, the delicacy of the\ngalvanometer, and the accuracy of the observer.\nSuppose that $B$ has been adjusted so that there is no apparent\ndeflexion.\nNow let another conductor $A^{\\prime}$ be substituted for $A$, and let\n$A^{\\prime}$ be adjusted till there is no apparent deflexion. Then evi-\ndently to a first approximation $A^{\\prime}=A$.\nTo ascertain the degree of accuracy of this estimate, let the\naltered quantities in the second observation be accented, then\nHence\n$$\\begin{aligned}\n& m(B+\\beta)-n(A+a)=\\frac{D}{E^{\\delta}} \\delta, \\\\\n& m(B+\\beta)-n\\left(A^{\\prime}+a\\right)=\\frac{D^{\\prime}}{E^{\\prime}} \\delta^{\\prime} . \\\\\n& n\\left(A^{\\prime}-A\\right)=\\frac{D}{E^{\\prime}} \\delta-\\frac{D^{\\prime}}{E^{\\prime}} \\delta^{\\prime} .\n\\end{aligned}$$\nIf $\\delta$ and $\\delta^{\\prime}$, instead of being both apparently zero, had been\nonly observed to be equal, then, unless we also could assert that\n$E=E^{\\prime}$, the right-hand side of the equation might not be zero.\nIn fact, the method would be a mere modification of that already\ndescribed.\nThe merit of the method consists in the fact that the thing\nobserved is the absence of any deflexion, or in other words, the\nmethod is a Null method, one in which the non-existence of a\nforce is asserted from an observation in which the force, if it\nhad been different from zero by more than a certain small\namount, would have produced an observable effect.\n",
+            "mathpix_markdown": "\n--- Page 508 ---\n\n\nThen we find, by Ohm's Law, for the difference of potentials\n between $C$ and $D$,\n\nand since\n\n$$I_{1}(A+a)=I_{2}(B+\\beta)=E-I r$$\n\n$$I_{1}=E \\frac{B+\\beta}{D}, \\quad I_{2}=E \\frac{A+a}{D}, \\quad I=E \\frac{A+a+B+\\beta}{D},$$\n\nwhere\n\n$$D=(A+\\alpha)(B+\\beta)+r(A+\\alpha+B+\\beta) .$$\n\n\nThe deflexion of the galvanometer needle is therefore\n\n$$\\delta=\\frac{E}{D}\\{m(B+\\beta)-n(A+a)\\},$$\n\nand if there is no observable deflexion, then we know that the\n quantity enclosed in brackets cannot differ from zero by more\n than a certain small quantity, depending on the power of the\n battery, the suitableness of the arrangement, the delicacy of the\n galvanometer, and the accuracy of the observer.\n\n\nSuppose that $B$ has been adjusted so that there is no apparent\n deflexion.\n\n\nNow let another conductor $A^{\\prime}$ be substituted for $A$, and let\n $A^{\\prime}$ be adjusted till there is no apparent deflexion. Then evi\ndently to a first approximation $A^{\\prime}=A$.\n\n\nTo ascertain the degree of accuracy of this estimate, let the\n altered quantities in the second observation be accented, then\n\n\nHence\n\n$$\\begin{aligned}\n& m(B+\\beta)-n(A+a)=\\frac{D}{E^{\\delta}} \\delta, \\\\\n& m(B+\\beta)-n\\left(A^{\\prime}+a\\right)=\\frac{D^{\\prime}}{E^{\\prime}} \\delta^{\\prime} . \\\\\n& n\\left(A^{\\prime}-A\\right)=\\frac{D}{E^{\\prime}} \\delta-\\frac{D^{\\prime}}{E^{\\prime}} \\delta^{\\prime} .\n\\end{aligned}$$\n\n\nIf $\\delta$ and $\\delta^{\\prime}$, instead of being both apparently zero, had been\n only observed to be equal, then, unless we also could assert that\n $E=E^{\\prime}$, the right-hand side of the equation might not be zero.\n In fact, the method would be a mere modification of that already\n described.\n\n\nThe merit of the method consists in the fact that the thing\n observed is the absence of any deflexion, or in other words, the\n method is a Null method, one in which the non-existence of a\n force is asserted from an observation in which the force, if it\n had been different from zero by more than a certain small\n amount, would have produced an observable effect.\n",
+            "structured_lines": [
+              {
+                "page": 508,
+                "line_number": 4,
+                "type": "text",
+                "content": "Then we find, by Ohm's Law, for the difference of potentials",
+                "mathpix_content": "\n\nThen we find, by Ohm's Law, for the difference of potentials",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 508,
+                "line_number": 5,
+                "type": "text",
+                "content": "between $C$ and $D$,",
+                "mathpix_content": " between $C$ and $D$,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 6,
+                "type": "text",
+                "content": "and since",
+                "mathpix_content": "\nand since",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 11,
+                "type": "text",
+                "content": "where",
+                "mathpix_content": "\nwhere",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 14,
+                "type": "text",
+                "content": "The deflexion of the galvanometer needle is therefore",
+                "mathpix_content": "\n\nThe deflexion of the galvanometer needle is therefore",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 17,
+                "type": "text",
+                "content": "and if there is no observable deflexion, then we know that the",
+                "mathpix_content": "\nand if there is no observable deflexion, then we know that the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 18,
+                "type": "text",
+                "content": "quantity enclosed in brackets cannot differ from zero by more",
+                "mathpix_content": " quantity enclosed in brackets cannot differ from zero by more",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 19,
+                "type": "text",
+                "content": "than a certain small quantity, depending on the power of the",
+                "mathpix_content": " than a certain small quantity, depending on the power of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 20,
+                "type": "text",
+                "content": "battery, the suitableness of the arrangement, the delicacy of the",
+                "mathpix_content": " battery, the suitableness of the arrangement, the delicacy of the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 21,
+                "type": "text",
+                "content": "galvanometer, and the accuracy of the observer.",
+                "mathpix_content": " galvanometer, and the accuracy of the observer.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 22,
+                "type": "text",
+                "content": "Suppose that $B$ has been adjusted so that there is no apparent",
+                "mathpix_content": "\n\nSuppose that $B$ has been adjusted so that there is no apparent",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 508,
+                "line_number": 23,
+                "type": "text",
+                "content": "deflexion.",
+                "mathpix_content": " deflexion.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 24,
+                "type": "text",
+                "content": "Now let another conductor $A^{\\prime}$ be substituted for $A$, and let",
+                "mathpix_content": "\n\nNow let another conductor $A^{\\prime}$ be substituted for $A$, and let",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 25,
+                "type": "text",
+                "content": "$A^{\\prime}$ be adjusted till there is no apparent deflexion. Then evi-",
+                "mathpix_content": " $A^{\\prime}$ be adjusted till there is no apparent deflexion. Then evi",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 26,
+                "type": "text",
+                "content": "dently to a first approximation $A^{\\prime}=A$.",
+                "mathpix_content": "dently to a first approximation $A^{\\prime}=A$.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 27,
+                "type": "text",
+                "content": "To ascertain the degree of accuracy of this estimate, let the",
+                "mathpix_content": "\n\nTo ascertain the degree of accuracy of this estimate, let the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 28,
+                "type": "text",
+                "content": "altered quantities in the second observation be accented, then",
+                "mathpix_content": " altered quantities in the second observation be accented, then",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 508,
+                "line_number": 29,
+                "type": "text",
+                "content": "Hence",
+                "mathpix_content": "\n\nHence",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 34,
+                "type": "text",
+                "content": "If $\\delta$ and $\\delta^{\\prime}$, instead of being both apparently zero, had been",
+                "mathpix_content": "\n\nIf $\\delta$ and $\\delta^{\\prime}$, instead of being both apparently zero, had been",
+                "font_size": 34,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 508,
+                "line_number": 35,
+                "type": "text",
+                "content": "only observed to be equal, then, unless we also could assert that",
+                "mathpix_content": " only observed to be equal, then, unless we also could assert that",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 36,
+                "type": "text",
+                "content": "$E=E^{\\prime}$, the right-hand side of the equation might not be zero.",
+                "mathpix_content": " $E=E^{\\prime}$, the right-hand side of the equation might not be zero.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 37,
+                "type": "text",
+                "content": "In fact, the method would be a mere modification of that already",
+                "mathpix_content": " In fact, the method would be a mere modification of that already",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 38,
+                "type": "text",
+                "content": "described.",
+                "mathpix_content": " described.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 39,
+                "type": "text",
+                "content": "The merit of the method consists in the fact that the thing",
+                "mathpix_content": "\n\nThe merit of the method consists in the fact that the thing",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 40,
+                "type": "text",
+                "content": "observed is the absence of any deflexion, or in other words, the",
+                "mathpix_content": " observed is the absence of any deflexion, or in other words, the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 41,
+                "type": "text",
+                "content": "method is a Null method, one in which the non-existence of a",
+                "mathpix_content": " method is a Null method, one in which the non-existence of a",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 42,
+                "type": "text",
+                "content": "force is asserted from an observation in which the force, if it",
+                "mathpix_content": " force is asserted from an observation in which the force, if it",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 43,
+                "type": "text",
+                "content": "had been different from zero by more than a certain small",
+                "mathpix_content": " had been different from zero by more than a certain small",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 508,
+                "line_number": 44,
+                "type": "text",
+                "content": "amount, would have produced an observable effect.",
+                "mathpix_content": " amount, would have produced an observable effect.",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

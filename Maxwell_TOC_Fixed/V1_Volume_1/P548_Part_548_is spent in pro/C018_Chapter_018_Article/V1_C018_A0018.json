@@ -1,0 +1,381 @@
+{
+  "article_id": "article_18",
+  "article_number": 18,
+  "title_original": ".}",
+  "title_safe": "Article",
+  "page_start": 359,
+  "page_end": 359,
+  "content": {
+    "raw_text": "\n--- Page 359 ---\n324\nELECTROSTATIC INSTRUMENTS.\n[213.\nNow we have shewn that whenever this occurs there is a loss\nof energy, and therefore the whole work employed in turning\nthe machine is not converted into electrification in an available\nform, but part is spent in pro-\n\n\nFig. 18.\nducing the heat and noise of\nelectric sparks.\nI have therefore thought it\ndesirable to shew how an elec-\ntrical machine may be con-\nstructed which is not subject\nto this loss of efficiency. I\ndo not propose it as a useful\nform of machine, but as an\nexample of the method by\nwhich the contrivance called\nin heat-engines a regenerator\nmay be applied to an electrical machine to prevent loss of work.\nIn the figure let $A, B, C^{\\prime}, A^{\\prime}, B^{\\prime}, C^{\\prime}$ represent hollow fixed\nconductors, so arranged that the carrier $P$ passes in succession\nwithin each of them. Of these $A, A^{\\prime}$ and $B, B^{\\prime}$ nearly surround\nthe carrier when it is at the middle point of its passage, but\n$C$ and $C^{\\prime}$ do not cover it so much.\nWe shall suppose $A, B, C$ to be connected with a Leyden jar\nof great capacity at potential $V^{\\prime}$, and $A^{\\prime}, B^{\\prime}, C^{\\prime}$ to be connected\nwith another jar at potential - $V^{\\prime \\prime}$.\n$P$ is one of the carriers moving in a circle from $A$ to $C^{\\prime}$, \\&c.,\nand touching in its course certain springs, of which $a$ and $a^{\\prime}$ are\nconnected with $A$ and $A^{\\prime}$ respectively, and $c, e^{\\prime}$ are connected\nwith the earth.\nLet us suppose that when the carrier $P$ is in the middle of $A$\nthe coefficient of induction between $P$ and $A$ is $-A$. The\ncapacity of $P$ in this position is greater than $A$, since it is not\ncompletely surrounded by the receiver $A$. Let it be $A+a$.\nThen if the potential of $P$ is $U$, and that of $A, V$, the charge\non $P$ will be $(A+a) U-A V$.\nNow let $P$ be in contact with the spring $a$ when in the middle\nof the receiver $A$, then the potential of $P$ is $V$, the same as that\nof $A$, and its charge is therefore $a V$.\nIf $P$ now leaves the spring $a$ it carries with it the charge $a V$.\nAs $P$ leaves $A$ its potential diminishes, and it diminishes still\n",
+    "mathpix_markdown": "\n--- Page 359 ---\n\n\nNow we have shewn that whenever this occurs there is a loss\n of energy, and therefore the whole work employed in turning\n the machine is not converted into electrification in an available\n form, but part is spent in pro-\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-359.jpg?height=452&width=498&top_left_y=365&top_left_x=141}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 18.}\n\\end{figure}\n\nducing the heat and noise of\n electric sparks.\n\n\nI have therefore thought it\n desirable to shew how an elec\ntrical machine may be con\nstructed which is not subject\n to this loss of efficiency. I\n do not propose it as a useful\n form of machine, but as an\n example of the method by\n which the contrivance called\n in heat-engines a regenerator\n may be applied to an electrical machine to prevent loss of work.\n\n\nIn the figure let $A, B, C^{\\prime}, A^{\\prime}, B^{\\prime}, C^{\\prime}$ represent hollow fixed\n conductors, so arranged that the carrier $P$ passes in succession\n within each of them. Of these $A, A^{\\prime}$ and $B, B^{\\prime}$ nearly surround\n the carrier when it is at the middle point of its passage, but\n $C$ and $C^{\\prime}$ do not cover it so much.\n\n\nWe shall suppose $A, B, C$ to be connected with a Leyden jar\n of great capacity at potential $V^{\\prime}$, and $A^{\\prime}, B^{\\prime}, C^{\\prime}$ to be connected\n with another jar at potential - $V^{\\prime \\prime}$.\n\n$P$ is one of the carriers moving in a circle from $A$ to $C^{\\prime}$, \\&c.,\n and touching in its course certain springs, of which $a$ and $a^{\\prime}$ are\n connected with $A$ and $A^{\\prime}$ respectively, and $c, e^{\\prime}$ are connected\n with the earth.\n\n\nLet us suppose that when the carrier $P$ is in the middle of $A$\n the coefficient of induction between $P$ and $A$ is $-A$. The\n capacity of $P$ in this position is greater than $A$, since it is not\n completely surrounded by the receiver $A$. Let it be $A+a$.\n\n\nThen if the potential of $P$ is $U$, and that of $A, V$, the charge\n on $P$ will be $(A+a) U-A V$.\n\n\nNow let $P$ be in contact with the spring $a$ when in the middle\n of the receiver $A$, then the potential of $P$ is $V$, the same as that\n of $A$, and its charge is therefore $a V$.\n\n\nIf $P$ now leaves the spring $a$ it carries with it the charge $a V$.\n As $P$ leaves $A$ its potential diminishes, and it diminishes still\n",
+    "structured_lines": [
+      {
+        "page": 359,
+        "line_number": 4,
+        "type": "text",
+        "content": "Now we have shewn that whenever this occurs there is a loss",
+        "mathpix_content": "\n\nNow we have shewn that whenever this occurs there is a loss",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 359,
+        "line_number": 5,
+        "type": "text",
+        "content": "of energy, and therefore the whole work employed in turning",
+        "mathpix_content": " of energy, and therefore the whole work employed in turning",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 6,
+        "type": "text",
+        "content": "the machine is not converted into electrification in an available",
+        "mathpix_content": " the machine is not converted into electrification in an available",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 7,
+        "type": "text",
+        "content": "form, but part is spent in pro-",
+        "mathpix_content": " form, but part is spent in pro-",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 359,
+        "line_number": 11,
+        "type": "text",
+        "content": "ducing the heat and noise of",
+        "mathpix_content": "\nducing the heat and noise of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 12,
+        "type": "text",
+        "content": "electric sparks.",
+        "mathpix_content": " electric sparks.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 13,
+        "type": "text",
+        "content": "I have therefore thought it",
+        "mathpix_content": "\n\nI have therefore thought it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 14,
+        "type": "text",
+        "content": "desirable to shew how an elec-",
+        "mathpix_content": " desirable to shew how an elec",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 15,
+        "type": "text",
+        "content": "trical machine may be con-",
+        "mathpix_content": "trical machine may be con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 16,
+        "type": "text",
+        "content": "structed which is not subject",
+        "mathpix_content": "structed which is not subject",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 359,
+        "line_number": 17,
+        "type": "text",
+        "content": "to this loss of efficiency. I",
+        "mathpix_content": " to this loss of efficiency. I",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 18,
+        "type": "text",
+        "content": "do not propose it as a useful",
+        "mathpix_content": " do not propose it as a useful",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 19,
+        "type": "text",
+        "content": "form of machine, but as an",
+        "mathpix_content": " form of machine, but as an",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 20,
+        "type": "text",
+        "content": "example of the method by",
+        "mathpix_content": " example of the method by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 21,
+        "type": "text",
+        "content": "which the contrivance called",
+        "mathpix_content": " which the contrivance called",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 22,
+        "type": "text",
+        "content": "in heat-engines a regenerator",
+        "mathpix_content": " in heat-engines a regenerator",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 23,
+        "type": "text",
+        "content": "may be applied to an electrical machine to prevent loss of work.",
+        "mathpix_content": " may be applied to an electrical machine to prevent loss of work.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 24,
+        "type": "text",
+        "content": "In the figure let $A, B, C^{\\prime}, A^{\\prime}, B^{\\prime}, C^{\\prime}$ represent hollow fixed",
+        "mathpix_content": "\n\nIn the figure let $A, B, C^{\\prime}, A^{\\prime}, B^{\\prime}, C^{\\prime}$ represent hollow fixed",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 359,
+        "line_number": 25,
+        "type": "text",
+        "content": "conductors, so arranged that the carrier $P$ passes in succession",
+        "mathpix_content": " conductors, so arranged that the carrier $P$ passes in succession",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 26,
+        "type": "text",
+        "content": "within each of them. Of these $A, A^{\\prime}$ and $B, B^{\\prime}$ nearly surround",
+        "mathpix_content": " within each of them. Of these $A, A^{\\prime}$ and $B, B^{\\prime}$ nearly surround",
+        "font_size": 27,
+        "confidence": 0.8016544365091249
+      },
+      {
+        "page": 359,
+        "line_number": 27,
+        "type": "text",
+        "content": "the carrier when it is at the middle point of its passage, but",
+        "mathpix_content": " the carrier when it is at the middle point of its passage, but",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 359,
+        "line_number": 28,
+        "type": "text",
+        "content": "$C$ and $C^{\\prime}$ do not cover it so much.",
+        "mathpix_content": " $C$ and $C^{\\prime}$ do not cover it so much.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 29,
+        "type": "text",
+        "content": "We shall suppose $A, B, C$ to be connected with a Leyden jar",
+        "mathpix_content": "\n\nWe shall suppose $A, B, C$ to be connected with a Leyden jar",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 30,
+        "type": "text",
+        "content": "of great capacity at potential $V^{\\prime}$, and $A^{\\prime}, B^{\\prime}, C^{\\prime}$ to be connected",
+        "mathpix_content": " of great capacity at potential $V^{\\prime}$, and $A^{\\prime}, B^{\\prime}, C^{\\prime}$ to be connected",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 359,
+        "line_number": 31,
+        "type": "text",
+        "content": "with another jar at potential - $V^{\\prime \\prime}$.",
+        "mathpix_content": " with another jar at potential - $V^{\\prime \\prime}$.",
+        "font_size": 27,
+        "confidence": 0.903559684753418
+      },
+      {
+        "page": 359,
+        "line_number": 32,
+        "type": "text",
+        "content": "$P$ is one of the carriers moving in a circle from $A$ to $C^{\\prime}$, \\&c.,",
+        "mathpix_content": "\n$P$ is one of the carriers moving in a circle from $A$ to $C^{\\prime}$, \\&c.,",
+        "font_size": 27,
+        "confidence": 0.9562502335757017
+      },
+      {
+        "page": 359,
+        "line_number": 33,
+        "type": "text",
+        "content": "and touching in its course certain springs, of which $a$ and $a^{\\prime}$ are",
+        "mathpix_content": " and touching in its course certain springs, of which $a$ and $a^{\\prime}$ are",
+        "font_size": 27,
+        "confidence": 0.9805638790130615
+      },
+      {
+        "page": 359,
+        "line_number": 34,
+        "type": "text",
+        "content": "connected with $A$ and $A^{\\prime}$ respectively, and $c, e^{\\prime}$ are connected",
+        "mathpix_content": " connected with $A$ and $A^{\\prime}$ respectively, and $c, e^{\\prime}$ are connected",
+        "font_size": 27,
+        "confidence": 0.955078125
+      },
+      {
+        "page": 359,
+        "line_number": 35,
+        "type": "text",
+        "content": "with the earth.",
+        "mathpix_content": " with the earth.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 36,
+        "type": "text",
+        "content": "Let us suppose that when the carrier $P$ is in the middle of $A$",
+        "mathpix_content": "\n\nLet us suppose that when the carrier $P$ is in the middle of $A$",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 359,
+        "line_number": 37,
+        "type": "text",
+        "content": "the coefficient of induction between $P$ and $A$ is $-A$. The",
+        "mathpix_content": " the coefficient of induction between $P$ and $A$ is $-A$. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 38,
+        "type": "text",
+        "content": "capacity of $P$ in this position is greater than $A$, since it is not",
+        "mathpix_content": " capacity of $P$ in this position is greater than $A$, since it is not",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 39,
+        "type": "text",
+        "content": "completely surrounded by the receiver $A$. Let it be $A+a$.",
+        "mathpix_content": " completely surrounded by the receiver $A$. Let it be $A+a$.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 359,
+        "line_number": 40,
+        "type": "text",
+        "content": "Then if the potential of $P$ is $U$, and that of $A, V$, the charge",
+        "mathpix_content": "\n\nThen if the potential of $P$ is $U$, and that of $A, V$, the charge",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 41,
+        "type": "text",
+        "content": "on $P$ will be $(A+a) U-A V$.",
+        "mathpix_content": " on $P$ will be $(A+a) U-A V$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 42,
+        "type": "text",
+        "content": "Now let $P$ be in contact with the spring $a$ when in the middle",
+        "mathpix_content": "\n\nNow let $P$ be in contact with the spring $a$ when in the middle",
+        "font_size": 27,
+        "confidence": 0.9403457641601562
+      },
+      {
+        "page": 359,
+        "line_number": 43,
+        "type": "text",
+        "content": "of the receiver $A$, then the potential of $P$ is $V$, the same as that",
+        "mathpix_content": " of the receiver $A$, then the potential of $P$ is $V$, the same as that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 359,
+        "line_number": 44,
+        "type": "text",
+        "content": "of $A$, and its charge is therefore $a V$.",
+        "mathpix_content": " of $A$, and its charge is therefore $a V$.",
+        "font_size": 27,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 359,
+        "line_number": 45,
+        "type": "text",
+        "content": "If $P$ now leaves the spring $a$ it carries with it the charge $a V$.",
+        "mathpix_content": "\n\nIf $P$ now leaves the spring $a$ it carries with it the charge $a V$.",
+        "font_size": 27,
+        "confidence": 0.84716796875
+      },
+      {
+        "page": 359,
+        "line_number": 46,
+        "type": "text",
+        "content": "As $P$ leaves $A$ its potential diminishes, and it diminishes still",
+        "mathpix_content": " As $P$ leaves $A$ its potential diminishes, and it diminishes still",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

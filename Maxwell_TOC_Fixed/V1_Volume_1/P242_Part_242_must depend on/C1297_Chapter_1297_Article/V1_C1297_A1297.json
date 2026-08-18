@@ -1,0 +1,381 @@
+{
+  "article_id": "article_1297",
+  "article_number": 1297,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 98,
+  "page_end": 98,
+  "content": {
+    "raw_text": "\n--- Page 98 ---\n59.]\nPLAN OF THIS TREATISE.\n63\nno further in speculating on its cause. If, on the other hand, we\nadopt the conception of action through a medium, we are led to\nenquire into the nature of that action in each part of the medium.\nIt appears from the theorem, that if we are to look for the seat\nof the electric energy in the different parts of the dielectric me-\ndium, the amount of energy in any small part must depend on\nthe square of the resultant electromotive intensity at that place\nmultiplied by a coefficient called the specific inductive capacity\nof the medium.\nIt is better, however, in considering the theory of dielectrics\nfrom the most general point of view, to distinguish between the\nelectromotive intensity at any point and the electric polarization\nof the medium at that point, since these directed quantities,\nthough related to one another, are not, in some solid substances,\nin the same direction. The most general expression for the electric\nenergy of the medium per unit of volume is half the product of\nthe electromotive intensity and the electric polarization multi-\nplied by the cosine of the angle between their directions. In\nall fluid dielectrics the electromotive intensity and the electric\npolarization are in the same direction and in a constant ratio.\nIf we calculate on this hypothesis the total energy residing\nin the medium, we shall find it equal to the energy due to the\nelectrification of the conductors on the hypothesis of direct action\nat a distance. Hence the two hypotheses are mathematically\nequivalent.\nIf we now proceed to investigate the mechanical state of the\nmedium on the hypothesis that the mechanical action observed\nbetween electrified bodies is exerted through and by means of\nthe medium, as in the familiar instances of the action of one\nbody on another by means of the tension of a rope or the\npressure of a rod, we find that the medium must be in a state of\nmechanical stress.\nThe nature of this stress is, as Faraday pointed out*, a tension\nalong the lines of force combined with an equal pressure in all\ndirections at right angles to these lines. The magnitude of these\nstresses is proportional to the energy of the electrification per\nunit of volume, or, in other words, to the square of the resultant\nelectromotive intensity multiplied by the specific inductive\ncapacity of the medium.\n\n* Exp. Res., series xi. 1297.\n",
+    "mathpix_markdown": "\n--- Page 98 ---\n\nno further in speculating on its cause. If, on the other hand, we\n adopt the conception of action through a medium, we are led to\n enquire into the nature of that action in each part of the medium.\n\n\nIt appears from the theorem, that if we are to look for the seat\n of the electric energy in the different parts of the dielectric me\ndium, the amount of energy in any small part must depend on\n the square of the resultant electromotive intensity at that place\n multiplied by a coefficient called the specific inductive capacity\n of the medium.\n\n\nIt is better, however, in considering the theory of dielectrics\n from the most general point of view, to distinguish between the\n electromotive intensity at any point and the electric polarization\n of the medium at that point, since these directed quantities,\n though related to one another, are not, in some solid substances,\n in the same direction. The most general expression for the electric\n energy of the medium per unit of volume is half the product of\n the electromotive intensity and the electric polarization multi\nplied by the cosine of the angle between their directions. In\n all fluid dielectrics the electromotive intensity and the electric\n polarization are in the same direction and in a constant ratio.\n\n\nIf we calculate on this hypothesis the total energy residing\n in the medium, we shall find it equal to the energy due to the\n electrification of the conductors on the hypothesis of direct action\n at a distance. Hence the two hypotheses are mathematically\n equivalent.\n\n\nIf we now proceed to investigate the mechanical state of the\n medium on the hypothesis that the mechanical action observed\n between electrified bodies is exerted through and by means of\n the medium, as in the familiar instances of the action of one\n body on another by means of the tension of a rope or the\n pressure of a rod, we find that the medium must be in a state of\n mechanical stress.\n\n\nThe nature of this stress is, as Faraday pointed out*, a tension\n along the lines of force combined with an equal pressure in all\n directions at right angles to these lines. The magnitude of these\n stresses is proportional to the energy of the electrification per\n unit of volume, or, in other words, to the square of the resultant\n electromotive intensity multiplied by the specific inductive\n capacity of the medium.\n\n\n\\footnotetext{\n* Exp. Res., series xi. 1297.\n}\n",
+    "structured_lines": [
+      {
+        "page": 98,
+        "line_number": 4,
+        "type": "text",
+        "content": "no further in speculating on its cause. If, on the other hand, we",
+        "mathpix_content": "\nno further in speculating on its cause. If, on the other hand, we",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 98,
+        "line_number": 5,
+        "type": "text",
+        "content": "adopt the conception of action through a medium, we are led to",
+        "mathpix_content": " adopt the conception of action through a medium, we are led to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 6,
+        "type": "text",
+        "content": "enquire into the nature of that action in each part of the medium.",
+        "mathpix_content": " enquire into the nature of that action in each part of the medium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 7,
+        "type": "text",
+        "content": "It appears from the theorem, that if we are to look for the seat",
+        "mathpix_content": "\n\nIt appears from the theorem, that if we are to look for the seat",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 8,
+        "type": "text",
+        "content": "of the electric energy in the different parts of the dielectric me-",
+        "mathpix_content": " of the electric energy in the different parts of the dielectric me",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 9,
+        "type": "text",
+        "content": "dium, the amount of energy in any small part must depend on",
+        "mathpix_content": "dium, the amount of energy in any small part must depend on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 10,
+        "type": "text",
+        "content": "the square of the resultant electromotive intensity at that place",
+        "mathpix_content": " the square of the resultant electromotive intensity at that place",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 11,
+        "type": "text",
+        "content": "multiplied by a coefficient called the specific inductive capacity",
+        "mathpix_content": " multiplied by a coefficient called the specific inductive capacity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 12,
+        "type": "text",
+        "content": "of the medium.",
+        "mathpix_content": " of the medium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 13,
+        "type": "text",
+        "content": "It is better, however, in considering the theory of dielectrics",
+        "mathpix_content": "\n\nIt is better, however, in considering the theory of dielectrics",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 14,
+        "type": "text",
+        "content": "from the most general point of view, to distinguish between the",
+        "mathpix_content": " from the most general point of view, to distinguish between the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 15,
+        "type": "text",
+        "content": "electromotive intensity at any point and the electric polarization",
+        "mathpix_content": " electromotive intensity at any point and the electric polarization",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 16,
+        "type": "text",
+        "content": "of the medium at that point, since these directed quantities,",
+        "mathpix_content": " of the medium at that point, since these directed quantities,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 17,
+        "type": "text",
+        "content": "though related to one another, are not, in some solid substances,",
+        "mathpix_content": " though related to one another, are not, in some solid substances,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 18,
+        "type": "text",
+        "content": "in the same direction. The most general expression for the electric",
+        "mathpix_content": " in the same direction. The most general expression for the electric",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 19,
+        "type": "text",
+        "content": "energy of the medium per unit of volume is half the product of",
+        "mathpix_content": " energy of the medium per unit of volume is half the product of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 20,
+        "type": "text",
+        "content": "the electromotive intensity and the electric polarization multi-",
+        "mathpix_content": " the electromotive intensity and the electric polarization multi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 21,
+        "type": "text",
+        "content": "plied by the cosine of the angle between their directions. In",
+        "mathpix_content": "plied by the cosine of the angle between their directions. In",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 22,
+        "type": "text",
+        "content": "all fluid dielectrics the electromotive intensity and the electric",
+        "mathpix_content": " all fluid dielectrics the electromotive intensity and the electric",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 23,
+        "type": "text",
+        "content": "polarization are in the same direction and in a constant ratio.",
+        "mathpix_content": " polarization are in the same direction and in a constant ratio.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 24,
+        "type": "text",
+        "content": "If we calculate on this hypothesis the total energy residing",
+        "mathpix_content": "\n\nIf we calculate on this hypothesis the total energy residing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 25,
+        "type": "text",
+        "content": "in the medium, we shall find it equal to the energy due to the",
+        "mathpix_content": " in the medium, we shall find it equal to the energy due to the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 98,
+        "line_number": 26,
+        "type": "text",
+        "content": "electrification of the conductors on the hypothesis of direct action",
+        "mathpix_content": " electrification of the conductors on the hypothesis of direct action",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 27,
+        "type": "text",
+        "content": "at a distance. Hence the two hypotheses are mathematically",
+        "mathpix_content": " at a distance. Hence the two hypotheses are mathematically",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 28,
+        "type": "text",
+        "content": "equivalent.",
+        "mathpix_content": " equivalent.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 29,
+        "type": "text",
+        "content": "If we now proceed to investigate the mechanical state of the",
+        "mathpix_content": "\n\nIf we now proceed to investigate the mechanical state of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 30,
+        "type": "text",
+        "content": "medium on the hypothesis that the mechanical action observed",
+        "mathpix_content": " medium on the hypothesis that the mechanical action observed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 31,
+        "type": "text",
+        "content": "between electrified bodies is exerted through and by means of",
+        "mathpix_content": " between electrified bodies is exerted through and by means of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 32,
+        "type": "text",
+        "content": "the medium, as in the familiar instances of the action of one",
+        "mathpix_content": " the medium, as in the familiar instances of the action of one",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 33,
+        "type": "text",
+        "content": "body on another by means of the tension of a rope or the",
+        "mathpix_content": " body on another by means of the tension of a rope or the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 34,
+        "type": "text",
+        "content": "pressure of a rod, we find that the medium must be in a state of",
+        "mathpix_content": " pressure of a rod, we find that the medium must be in a state of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 35,
+        "type": "text",
+        "content": "mechanical stress.",
+        "mathpix_content": " mechanical stress.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 36,
+        "type": "text",
+        "content": "The nature of this stress is, as Faraday pointed out*, a tension",
+        "mathpix_content": "\n\nThe nature of this stress is, as Faraday pointed out*, a tension",
+        "font_size": 27,
+        "confidence": 0.82861328125
+      },
+      {
+        "page": 98,
+        "line_number": 37,
+        "type": "text",
+        "content": "along the lines of force combined with an equal pressure in all",
+        "mathpix_content": " along the lines of force combined with an equal pressure in all",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 38,
+        "type": "text",
+        "content": "directions at right angles to these lines. The magnitude of these",
+        "mathpix_content": " directions at right angles to these lines. The magnitude of these",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 39,
+        "type": "text",
+        "content": "stresses is proportional to the energy of the electrification per",
+        "mathpix_content": " stresses is proportional to the energy of the electrification per",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 40,
+        "type": "text",
+        "content": "unit of volume, or, in other words, to the square of the resultant",
+        "mathpix_content": " unit of volume, or, in other words, to the square of the resultant",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 41,
+        "type": "text",
+        "content": "electromotive intensity multiplied by the specific inductive",
+        "mathpix_content": " electromotive intensity multiplied by the specific inductive",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 42,
+        "type": "text",
+        "content": "capacity of the medium.",
+        "mathpix_content": " capacity of the medium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 98,
+        "line_number": 44,
+        "type": "text",
+        "content": "* Exp. Res., series xi. 1297.",
+        "mathpix_content": "\n\n\\footnotetext{\n* Exp. Res., series xi. 1297.\n}",
+        "font_size": 21,
+        "confidence": 0.7056501214387367
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

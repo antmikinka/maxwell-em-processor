@@ -1,0 +1,777 @@
+{
+  "chapter_id": "chapter_68",
+  "chapter_number": 2,
+  "title": "k_{x x} h f+2 k_{x y} f g\\right] d x d y d z",
+  "page_start": 181,
+  "page_end": 181,
+  "articles": [
+    {
+      "article_id": "article_146",
+      "article_number": 146,
+      "title_original": "GENERAL THEOREMS.",
+      "title_safe": "GENERAL THEOREMS",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "g.",
+      "title_safe": "g",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi\\left(k_{x x} f+k_{y x} g+k_{x x} h\\right), \\\\",
+      "title_safe": "pileftkx x fplusky x gpluskx x hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi\\left(k_{x y} f+k_{y y} g+k_{x y} h\\right), \\\\",
+      "title_safe": "pileftkx y fplusky y gpluskx y hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi\\left(k_{x z} f+k_{y x} g+k_{x x} h\\right) .",
+      "title_safe": "pileftkx z fplusky x gpluskx x hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "f$.$] The work done by the electromotive intensity whose$",
+      "title_safe": "f. The work done by the electromotive intensity whose",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} W}{d g d f}=\\frac{d^{2} W}{d f d g}=\\frac{d Q}{d f} .",
+      "title_safe": "Wd g d fequalsfracd2 Wd f d gequalsfracd Qd f",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi k_{v x}$, the coefficient of $g$ in the expression for $P$,",
+      "title_safe": "pi kv x the coefficient of g in the expression for P",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi k_{x y}$, the coefficient of $f$ in the expression for $Q$.",
+      "title_safe": "pi kx y the coefficient of f in the expression for Q",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ is a self-conjugate function.",
+      "title_safe": "is a self-conjugate function",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "g$.] The expression for the energy may therefore be written",
+      "title_safe": "g. The expression for the energy may therefore be written",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{8 \\pi} \\iiint\\left[K_{x x} P^{2}+K_{y y} Q^{2}+K_{x x}\\right. R^{2}+2 K_{y x} Q R \\\\",
+      "title_safe": "8 pi iiintleftKx x P2plusKy y Q2plusKx xright. R2plus2 Ky x",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "K_{x x} R P+2 K_{x y} P Q\\right] d x d y d z \\\\",
+      "title_safe": "Kx x R Pplus2 Kx y P Qright d x d y d z",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi \\iiint\\left[k_{x x} f^{2}+k_{y y} g^{2}+k_{x x} h^{2}+2 k_{y z} g h\\right. \\\\",
+      "title_safe": "pi iiintleftkx x f2plusky y g2pluskx x h2plus2 ky z g hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "k_{x x} h f+2 k_{x y} f g\\right] d x d y d z",
+      "title_safe": "kx x h fplus2 kx y f gright d x d y d z",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi\\left(k_{x x} f+k_{y x} g+k_{x x} h\\right), \\\\",
+      "title_safe": "pileftkx x fplusky x gpluskx x hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi\\left(k_{x y} f+k_{y y} g+k_{x y} h\\right), \\\\",
+      "title_safe": "pileftkx y fplusky y gpluskx y hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi\\left(k_{x z} f+k_{y x} g+k_{x x} h\\right) .",
+      "title_safe": "pileftkx z fplusky x gpluskx x hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "f$.$] The work done by the electromotive intensity whose$",
+      "title_safe": "f. The work done by the electromotive intensity whose",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} W}{d g d f}=\\frac{d^{2} W}{d f d g}=\\frac{d Q}{d f} .",
+      "title_safe": "Wd g d fequalsfracd2 Wd f d gequalsfracd Qd f",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi k_{v x}$, the coefficient of $g$ in the expression for $P$,",
+      "title_safe": "pi kv x the coefficient of g in the expression for P",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi k_{x y}$, the coefficient of $f$ in the expression for $Q$.",
+      "title_safe": "pi kx y the coefficient of f in the expression for Q",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ is a self-conjugate function.",
+      "title_safe": "is a self-conjugate function",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_101",
+      "article_number": 101,
+      "title_original": "g$.] The expression for the energy may therefore be written",
+      "title_safe": "g. The expression for the energy may therefore be written",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{8 \\pi} \\iiint\\left[K_{x x} P^{2}+K_{y y} Q^{2}+K_{x x}\\right. R^{2}+2 K_{y x} Q R \\\\",
+      "title_safe": "8 pi iiintleftKx x P2plusKy y Q2plusKx xright. R2plus2 Ky x",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "K_{x x} R P+2 K_{x y} P Q\\right] d x d y d z \\\\",
+      "title_safe": "Kx x R Pplus2 Kx y P Qright d x d y d z",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi \\iiint\\left[k_{x x} f^{2}+k_{y y} g^{2}+k_{x x} h^{2}+2 k_{y z} g h\\right. \\\\",
+      "title_safe": "pi iiintleftkx x f2plusky y g2pluskx x h2plus2 ky z g hright",
+      "page_start": 181,
+      "page_end": 180,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "k_{x x} h f+2 k_{x y} f g\\right] d x d y d z",
+      "title_safe": "kx x h fplus2 kx y f gright d x d y d z",
+      "page_start": 181,
+      "page_end": 181,
+      "content": {
+        "raw_text": "\n--- Page 181 ---\n146\nGENERAL THEOREMS.\n[101g.\nnine independent coefficients. When the coefficients which have\nthe same pair of suffixes are equal, the function is said to be\nself-conjugate.\nIf we express $\\mathscr{C}$ in terms of $\\mathfrak{D}$ we shall have\nor\n$$\\begin{aligned}\n& P=4 \\pi\\left(k_{x x} f+k_{y x} g+k_{x x} h\\right), \\\\\n& Q=4 \\pi\\left(k_{x y} f+k_{y y} g+k_{x y} h\\right), \\\\\n& R=4 \\pi\\left(k_{x z} f+k_{y x} g+k_{x x} h\\right) .\n\\end{aligned}$$\n$101 f$.$] The work done by the electromotive intensity whose$\ncomponents are $P, Q, R$, in producing a displacement whose com-\nponents are $d f, d g$, and $d h$, in unit of volume of the medium, is\n$$d W=P d f+Q d g+R d h$$\nSince a dielectric \\{in a steady state\\} under electric displace-\nment is a conservative system, $W$ must be a function of $f, g, h$,\nand since $f, g, h$ may vary independently, we have\nHence\n$$\\begin{gathered}\nP=\\frac{d W}{d f}, \\quad Q=\\frac{d W}{d g}, \\quad R=\\frac{d W}{d h} . \\\\\n\\frac{d P}{d g}=\\frac{d^{2} W}{d g d f}=\\frac{d^{2} W}{d f d g}=\\frac{d Q}{d f} .\n\\end{gathered}$$\nBut $\\frac{d P}{d g}=4 \\pi k_{v x}$, the coefficient of $g$ in the expression for $P$,\nand $\\frac{d Q}{d f}=4 \\pi k_{x y}$, the coefficient of $f$ in the expression for $Q$.\nHence if a dielectric is a conservative system (and we know that\nit is so, because it can retain its energy for an indefinite time),\n$$k_{x y}=k_{y x}$$\nand $\\phi^{-1}$ is a self-conjugate function.\nHence it follows that $\\phi$ also is self-conjugate, and $K_{x y}=K_{y x}$.\n$101 g$.] The expression for the energy may therefore be written\nin either of the forms\n$$\\begin{aligned}\n& \\begin{aligned}\n& W_{G}=\\frac{1}{8 \\pi} \\iiint\\left[K_{x x} P^{2}+K_{y y} Q^{2}+K_{x x}\\right. R^{2}+2 K_{y x} Q R \\\\\n& \\text { or }\\left.+2 K_{x x} R P+2 K_{x y} P Q\\right] d x d y d z \\\\\n& \\begin{array}{r}\nW_{D}=2 \\pi \\iiint\\left[k_{x x} f^{2}+k_{y y} g^{2}+k_{x x} h^{2}+2 k_{y z} g h\\right. \\\\\n\\left.+2 k_{x x} h f+2 k_{x y} f g\\right] d x d y d z\n\\end{array}\n\\end{aligned}\n\\end{aligned}$$\nor\nwhere the suffix denotes the vector in terms of which $W$ is to be\nexpressed. When there is no suffix, the energy is understood to\nbe expressed in terms of both vectors.\n",
+        "mathpix_markdown": "\n--- Page 181 ---\n\nnine independent coefficients. When the coefficients which have\n the same pair of suffixes are equal, the function is said to be\n self-conjugate.\n\n\nIf we express $\\mathscr{C}$ in terms of $\\mathfrak{D}$ we shall have\n\nor\n\n$$\\begin{aligned}\n& P=4 \\pi\\left(k_{x x} f+k_{y x} g+k_{x x} h\\right), \\\\\n& Q=4 \\pi\\left(k_{x y} f+k_{y y} g+k_{x y} h\\right), \\\\\n& R=4 \\pi\\left(k_{x z} f+k_{y x} g+k_{x x} h\\right) .\n\\end{aligned}$$\n\n$101 f$.$] The work done by the electromotive intensity whose$\n components are $P, Q, R$, in producing a displacement whose com\nponents are $d f, d g$, and $d h$, in unit of volume of the medium, is\n\n$$d W=P d f+Q d g+R d h$$\n\n\nSince a dielectric \\{in a steady state\\} under electric displace\nment is a conservative system, $W$ must be a function of $f, g, h$,\n and since $f, g, h$ may vary independently, we have\n\n\nHence\n\n$$\\begin{gathered}\nP=\\frac{d W}{d f}, \\quad Q=\\frac{d W}{d g}, \\quad R=\\frac{d W}{d h} . \\\\\n\\frac{d P}{d g}=\\frac{d^{2} W}{d g d f}=\\frac{d^{2} W}{d f d g}=\\frac{d Q}{d f} .\n\\end{gathered}$$\n\n\nBut $\\frac{d P}{d g}=4 \\pi k_{v x}$, the coefficient of $g$ in the expression for $P$,\n and $\\frac{d Q}{d f}=4 \\pi k_{x y}$, the coefficient of $f$ in the expression for $Q$.\n\n\nHence if a dielectric is a conservative system (and we know that\n it is so, because it can retain its energy for an indefinite time),\n\n$$k_{x y}=k_{y x}$$\n\nand $\\phi^{-1}$ is a self-conjugate function.\n\nHence it follows that $\\phi$ also is self-conjugate, and $K_{x y}=K_{y x}$.\n $101 g$.] The expression for the energy may therefore be written\n in either of the forms\n\n$$\\begin{align*}\n& \\begin{aligned}\n& W_{G}=\\frac{1}{8 \\pi} \\iiint\\left[K_{x x} P^{2}+K_{y y} Q^{2}+K_{x x}\\right. R^{2}+2 K_{y x} Q R \\\\\n& \\text { or }\\left.+2 K_{x x} R P+2 K_{x y} P Q\\right] d x d y d z \\\\\n& \\begin{array}{r}\nW_{D}=2 \\pi \\iiint\\left[k_{x x} f^{2}+k_{y y} g^{2}+k_{x x} h^{2}+2 k_{y z} g h\\right. \\\\\n\\left.+2 k_{x x} h f+2 k_{x y} f g\\right] d x d y d z\n\\end{array}\n\\end{aligned}\n\\end{align*}$$\n\nwhere the suffix denotes the vector in terms of which $W$ is to be\n expressed. When there is no suffix, the energy is understood to\n be expressed in terms of both vectors.\n",
+        "structured_lines": [
+          {
+            "page": 181,
+            "line_number": 4,
+            "type": "text",
+            "content": "nine independent coefficients. When the coefficients which have",
+            "mathpix_content": "\nnine independent coefficients. When the coefficients which have",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 5,
+            "type": "text",
+            "content": "the same pair of suffixes are equal, the function is said to be",
+            "mathpix_content": " the same pair of suffixes are equal, the function is said to be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 6,
+            "type": "text",
+            "content": "self-conjugate.",
+            "mathpix_content": " self-conjugate.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 7,
+            "type": "text",
+            "content": "If we express $\\mathscr{C}$ in terms of $\\mathfrak{D}$ we shall have",
+            "mathpix_content": "\n\nIf we express $\\mathscr{C}$ in terms of $\\mathfrak{D}$ we shall have",
+            "font_size": 27,
+            "confidence": 0.9907407662831247
+          },
+          {
+            "page": 181,
+            "line_number": 8,
+            "type": "text",
+            "content": "or",
+            "mathpix_content": "\nor",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 13,
+            "type": "text",
+            "content": "$101 f$.$] The work done by the electromotive intensity whose$",
+            "mathpix_content": "\n$101 f$.$] The work done by the electromotive intensity whose$",
+            "font_size": 27,
+            "confidence": 0.3153936006128788
+          },
+          {
+            "page": 181,
+            "line_number": 14,
+            "type": "text",
+            "content": "components are $P, Q, R$, in producing a displacement whose com-",
+            "mathpix_content": " components are $P, Q, R$, in producing a displacement whose com",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 15,
+            "type": "text",
+            "content": "ponents are $d f, d g$, and $d h$, in unit of volume of the medium, is",
+            "mathpix_content": "ponents are $d f, d g$, and $d h$, in unit of volume of the medium, is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 18,
+            "type": "text",
+            "content": "Since a dielectric \\{in a steady state\\} under electric displace-",
+            "mathpix_content": "\n\nSince a dielectric \\{in a steady state\\} under electric displace",
+            "font_size": 27,
+            "confidence": 0.9322261810302734
+          },
+          {
+            "page": 181,
+            "line_number": 19,
+            "type": "text",
+            "content": "ment is a conservative system, $W$ must be a function of $f, g, h$,",
+            "mathpix_content": "ment is a conservative system, $W$ must be a function of $f, g, h$,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 20,
+            "type": "text",
+            "content": "and since $f, g, h$ may vary independently, we have",
+            "mathpix_content": " and since $f, g, h$ may vary independently, we have",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 21,
+            "type": "text",
+            "content": "Hence",
+            "mathpix_content": "\n\nHence",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 25,
+            "type": "text",
+            "content": "But $\\frac{d P}{d g}=4 \\pi k_{v x}$, the coefficient of $g$ in the expression for $P$,",
+            "mathpix_content": "\n\nBut $\\frac{d P}{d g}=4 \\pi k_{v x}$, the coefficient of $g$ in the expression for $P$,",
+            "font_size": 27,
+            "confidence": 0.55224609375
+          },
+          {
+            "page": 181,
+            "line_number": 26,
+            "type": "text",
+            "content": "and $\\frac{d Q}{d f}=4 \\pi k_{x y}$, the coefficient of $f$ in the expression for $Q$.",
+            "mathpix_content": " and $\\frac{d Q}{d f}=4 \\pi k_{x y}$, the coefficient of $f$ in the expression for $Q$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 27,
+            "type": "text",
+            "content": "Hence if a dielectric is a conservative system (and we know that",
+            "mathpix_content": "\n\nHence if a dielectric is a conservative system (and we know that",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 28,
+            "type": "text",
+            "content": "it is so, because it can retain its energy for an indefinite time),",
+            "mathpix_content": " it is so, because it can retain its energy for an indefinite time),",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 31,
+            "type": "text",
+            "content": "and $\\phi^{-1}$ is a self-conjugate function.",
+            "mathpix_content": "\nand $\\phi^{-1}$ is a self-conjugate function.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 32,
+            "type": "text",
+            "content": "Hence it follows that $\\phi$ also is self-conjugate, and $K_{x y}=K_{y x}$.",
+            "mathpix_content": "\nHence it follows that $\\phi$ also is self-conjugate, and $K_{x y}=K_{y x}$.",
+            "font_size": 27,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 181,
+            "line_number": 33,
+            "type": "text",
+            "content": "$101 g$.] The expression for the energy may therefore be written",
+            "mathpix_content": " $101 g$.] The expression for the energy may therefore be written",
+            "font_size": 27,
+            "confidence": 0.47135210037231445
+          },
+          {
+            "page": 181,
+            "line_number": 34,
+            "type": "text",
+            "content": "in either of the forms",
+            "mathpix_content": " in either of the forms",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 41,
+            "type": "text",
+            "content": "where the suffix denotes the vector in terms of which $W$ is to be",
+            "mathpix_content": "\nwhere the suffix denotes the vector in terms of which $W$ is to be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 42,
+            "type": "text",
+            "content": "expressed. When there is no suffix, the energy is understood to",
+            "mathpix_content": " expressed. When there is no suffix, the energy is understood to",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 181,
+            "line_number": 43,
+            "type": "text",
+            "content": "be expressed in terms of both vectors.",
+            "mathpix_content": " be expressed in terms of both vectors.",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

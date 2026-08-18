@@ -1,0 +1,381 @@
+{
+  "article_id": "article_237",
+  "article_number": 237,
+  "title_original": ".] Substances which are decomposed in this w $y$ are called",
+  "title_safe": "Substances which are decomposed in this w y are called",
+  "page_start": 393,
+  "page_end": 393,
+  "content": {
+    "raw_text": "\n--- Page 393 ---\n358\nTHE ELECTRIC CORRENT.\n[237.\nthe oxygen given off in the same time, and the weight of the\noxygen is exactly eight times the weight of the hydrogen.\nIn every cell of the circuit the weight of each substance\ndissolved, deposited, or decomposed is equal to a certain quantity\ncalled the electrochemical equivalent of that substance, multi-\nplied by the strength of the current and by the time during\nwhich it has been flowing.\nFor the experiments which established this principle, see the\nseventh and eighth series of Faraday's Experimental Researches ;\nand for an investigation of the apparent exceptions to the rule,\nsee Miller's Chemical Physics and Wiedemann's Galvanismus.\n237.] Substances which are decomposed in this w $y$ are called\nElectrolytes. The process is called Electrolysis. The places\nwhere the current enters and leaves the electrolyte are called\nElectrodes. Of these the electrode by which the current enters\nis called the Anode, and that by which it leaves the electrolyte\nis called the Cathode. The components into which the electrolyte\nis resolved are called Ions: that which appears at the anode is\ncalled the Anion, and that which appears at the cathode is called\nthe Cation.\nOf these terms, which were, I believe, invented by Faraday\nwith the help of Dr. Whewell, the first three, namely, electrode,\nelectrolysis, and electrolyte have been generally adopted, and\nthe mode of conduction of the current in which this kind of\ndecomposition and transfer of the components takes place is\ncalled Electrolytic Conduction.\nIf a homogeneous electrolyte is placed in a tube of variable\nsection, and if the electrodes are placed at the ends of this tube,\nit is found that when the current passes, the anion appears at\nthe anode and the cation at the cathode, the quantities of these\nions being electrochemically equivalent, and such as to be\ntogether equivalent to a certain quantity of the electrolyte. In\nthe other parts of the tube, whether the section be large or\nsmall, uniform or varying, the composition of the electrolyte\nremains unaltered. Hence the amount of electrolysis which\ntakes place across every section of the tube is the same. Where\nthe section is small the action must therefore be more intense\nthan where the section is large, but the total amount of each ion\nwhich crosses any complete section of the electrolyte in a given\ntime is the same for all sections.\n",
+    "mathpix_markdown": "\n--- Page 393 ---\n\nthe oxygen given off in the same time, and the weight of the\n oxygen is exactly eight times the weight of the hydrogen.\n\n\nIn every cell of the circuit the weight of each substance\n dissolved, deposited, or decomposed is equal to a certain quantity\n called the electrochemical equivalent of that substance, multi\nplied by the strength of the current and by the time during\n which it has been flowing.\n\n\nFor the experiments which established this principle, see the\n seventh and eighth series of Faraday's Experimental Researches ;\n and for an investigation of the apparent exceptions to the rule,\n see Miller's Chemical Physics and Wiedemann's Galvanismus.\n\n237.] Substances which are decomposed in this w $y$ are called\n Electrolytes. The process is called Electrolysis. The places\n where the current enters and leaves the electrolyte are called\n Electrodes. Of these the electrode by which the current enters\n is called the Anode, and that by which it leaves the electrolyte\n is called the Cathode. The components into which the electrolyte\n is resolved are called Ions: that which appears at the anode is\n called the Anion, and that which appears at the cathode is called\n the Cation.\n\n\nOf these terms, which were, I believe, invented by Faraday\n with the help of Dr. Whewell, the first three, namely, electrode,\n electrolysis, and electrolyte have been generally adopted, and\n the mode of conduction of the current in which this kind of\n decomposition and transfer of the components takes place is\n called Electrolytic Conduction.\n\n\nIf a homogeneous electrolyte is placed in a tube of variable\n section, and if the electrodes are placed at the ends of this tube,\n it is found that when the current passes, the anion appears at\n the anode and the cation at the cathode, the quantities of these\n ions being electrochemically equivalent, and such as to be\n together equivalent to a certain quantity of the electrolyte. In\n the other parts of the tube, whether the section be large or\n small, uniform or varying, the composition of the electrolyte\n remains unaltered. Hence the amount of electrolysis which\n takes place across every section of the tube is the same. Where\n the section is small the action must therefore be more intense\n than where the section is large, but the total amount of each ion\n which crosses any complete section of the electrolyte in a given\n time is the same for all sections.\n",
+    "structured_lines": [
+      {
+        "page": 393,
+        "line_number": 4,
+        "type": "text",
+        "content": "the oxygen given off in the same time, and the weight of the",
+        "mathpix_content": "\nthe oxygen given off in the same time, and the weight of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 5,
+        "type": "text",
+        "content": "oxygen is exactly eight times the weight of the hydrogen.",
+        "mathpix_content": " oxygen is exactly eight times the weight of the hydrogen.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 6,
+        "type": "text",
+        "content": "In every cell of the circuit the weight of each substance",
+        "mathpix_content": "\n\nIn every cell of the circuit the weight of each substance",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 7,
+        "type": "text",
+        "content": "dissolved, deposited, or decomposed is equal to a certain quantity",
+        "mathpix_content": " dissolved, deposited, or decomposed is equal to a certain quantity",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 8,
+        "type": "text",
+        "content": "called the electrochemical equivalent of that substance, multi-",
+        "mathpix_content": " called the electrochemical equivalent of that substance, multi",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 9,
+        "type": "text",
+        "content": "plied by the strength of the current and by the time during",
+        "mathpix_content": "plied by the strength of the current and by the time during",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 10,
+        "type": "text",
+        "content": "which it has been flowing.",
+        "mathpix_content": " which it has been flowing.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 11,
+        "type": "text",
+        "content": "For the experiments which established this principle, see the",
+        "mathpix_content": "\n\nFor the experiments which established this principle, see the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 12,
+        "type": "text",
+        "content": "seventh and eighth series of Faraday's Experimental Researches ;",
+        "mathpix_content": " seventh and eighth series of Faraday's Experimental Researches ;",
+        "font_size": 34,
+        "confidence": 0.7395114898681641
+      },
+      {
+        "page": 393,
+        "line_number": 13,
+        "type": "text",
+        "content": "and for an investigation of the apparent exceptions to the rule,",
+        "mathpix_content": " and for an investigation of the apparent exceptions to the rule,",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 393,
+        "line_number": 14,
+        "type": "text",
+        "content": "see Miller's Chemical Physics and Wiedemann's Galvanismus.",
+        "mathpix_content": " see Miller's Chemical Physics and Wiedemann's Galvanismus.",
+        "font_size": 34,
+        "confidence": 0.9568807897157967
+      },
+      {
+        "page": 393,
+        "line_number": 15,
+        "type": "text",
+        "content": "237.] Substances which are decomposed in this w $y$ are called",
+        "mathpix_content": "\n237.] Substances which are decomposed in this w $y$ are called",
+        "font_size": 34,
+        "confidence": 0.923998972970164
+      },
+      {
+        "page": 393,
+        "line_number": 16,
+        "type": "text",
+        "content": "Electrolytes. The process is called Electrolysis. The places",
+        "mathpix_content": " Electrolytes. The process is called Electrolysis. The places",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 17,
+        "type": "text",
+        "content": "where the current enters and leaves the electrolyte are called",
+        "mathpix_content": " where the current enters and leaves the electrolyte are called",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 18,
+        "type": "text",
+        "content": "Electrodes. Of these the electrode by which the current enters",
+        "mathpix_content": " Electrodes. Of these the electrode by which the current enters",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 19,
+        "type": "text",
+        "content": "is called the Anode, and that by which it leaves the electrolyte",
+        "mathpix_content": " is called the Anode, and that by which it leaves the electrolyte",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 393,
+        "line_number": 20,
+        "type": "text",
+        "content": "is called the Cathode. The components into which the electrolyte",
+        "mathpix_content": " is called the Cathode. The components into which the electrolyte",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 21,
+        "type": "text",
+        "content": "is resolved are called Ions: that which appears at the anode is",
+        "mathpix_content": " is resolved are called Ions: that which appears at the anode is",
+        "font_size": 34,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 393,
+        "line_number": 22,
+        "type": "text",
+        "content": "called the Anion, and that which appears at the cathode is called",
+        "mathpix_content": " called the Anion, and that which appears at the cathode is called",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 23,
+        "type": "text",
+        "content": "the Cation.",
+        "mathpix_content": " the Cation.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 24,
+        "type": "text",
+        "content": "Of these terms, which were, I believe, invented by Faraday",
+        "mathpix_content": "\n\nOf these terms, which were, I believe, invented by Faraday",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 25,
+        "type": "text",
+        "content": "with the help of Dr. Whewell, the first three, namely, electrode,",
+        "mathpix_content": " with the help of Dr. Whewell, the first three, namely, electrode,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 26,
+        "type": "text",
+        "content": "electrolysis, and electrolyte have been generally adopted, and",
+        "mathpix_content": " electrolysis, and electrolyte have been generally adopted, and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 27,
+        "type": "text",
+        "content": "the mode of conduction of the current in which this kind of",
+        "mathpix_content": " the mode of conduction of the current in which this kind of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 28,
+        "type": "text",
+        "content": "decomposition and transfer of the components takes place is",
+        "mathpix_content": " decomposition and transfer of the components takes place is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 29,
+        "type": "text",
+        "content": "called Electrolytic Conduction.",
+        "mathpix_content": " called Electrolytic Conduction.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 30,
+        "type": "text",
+        "content": "If a homogeneous electrolyte is placed in a tube of variable",
+        "mathpix_content": "\n\nIf a homogeneous electrolyte is placed in a tube of variable",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 31,
+        "type": "text",
+        "content": "section, and if the electrodes are placed at the ends of this tube,",
+        "mathpix_content": " section, and if the electrodes are placed at the ends of this tube,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 32,
+        "type": "text",
+        "content": "it is found that when the current passes, the anion appears at",
+        "mathpix_content": " it is found that when the current passes, the anion appears at",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 33,
+        "type": "text",
+        "content": "the anode and the cation at the cathode, the quantities of these",
+        "mathpix_content": " the anode and the cation at the cathode, the quantities of these",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 34,
+        "type": "text",
+        "content": "ions being electrochemically equivalent, and such as to be",
+        "mathpix_content": " ions being electrochemically equivalent, and such as to be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 35,
+        "type": "text",
+        "content": "together equivalent to a certain quantity of the electrolyte. In",
+        "mathpix_content": " together equivalent to a certain quantity of the electrolyte. In",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 36,
+        "type": "text",
+        "content": "the other parts of the tube, whether the section be large or",
+        "mathpix_content": " the other parts of the tube, whether the section be large or",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 37,
+        "type": "text",
+        "content": "small, uniform or varying, the composition of the electrolyte",
+        "mathpix_content": " small, uniform or varying, the composition of the electrolyte",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 38,
+        "type": "text",
+        "content": "remains unaltered. Hence the amount of electrolysis which",
+        "mathpix_content": " remains unaltered. Hence the amount of electrolysis which",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 39,
+        "type": "text",
+        "content": "takes place across every section of the tube is the same. Where",
+        "mathpix_content": " takes place across every section of the tube is the same. Where",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 40,
+        "type": "text",
+        "content": "the section is small the action must therefore be more intense",
+        "mathpix_content": " the section is small the action must therefore be more intense",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 41,
+        "type": "text",
+        "content": "than where the section is large, but the total amount of each ion",
+        "mathpix_content": " than where the section is large, but the total amount of each ion",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 42,
+        "type": "text",
+        "content": "which crosses any complete section of the electrolyte in a given",
+        "mathpix_content": " which crosses any complete section of the electrolyte in a given",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 393,
+        "line_number": 43,
+        "type": "text",
+        "content": "time is the same for all sections.",
+        "mathpix_content": " time is the same for all sections.",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

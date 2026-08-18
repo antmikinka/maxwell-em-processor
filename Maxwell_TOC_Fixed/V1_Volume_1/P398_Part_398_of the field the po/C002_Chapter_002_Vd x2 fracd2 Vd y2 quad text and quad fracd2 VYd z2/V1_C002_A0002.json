@@ -1,0 +1,273 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "} V}{d x^{2}}, \\frac{d^{2} V}{d y^{2}}, \\quad \\text { and } \\quad \\frac{d^{2} V^{Y}}{d z^{2}}$$",
+  "title_safe": "Vd x2 fracd2 Vd y2 quad text and quad fracd2 VYd z2",
+  "page_start": 204,
+  "page_end": 204,
+  "content": {
+    "raw_text": "\n--- Page 204 ---\n\nOHAPTER VI.\n\nON POINTS AND LINES OF EQUILIBRIUM.\n112.] If at any point of the electric field the resultant force is\nzero, the point is called a Point of equilibrium.\nIf every point on a certain line is a point of equilibrium, the\nline is called a Line of equilibrium.\nThe conditions that a point shall be a point of equilibrium are\nthat at that point\n$$\\frac{d V}{d x}=0, \\frac{d V}{d y}=0, \\frac{d V}{d z}=0 .$$\nAt such a point, therefore, the value of $V$ is a maximum, or\na minimum, or is stationary, with respect to variations of the\ncoordinates. The potential, however, can have a maximum or a\nminimum value only at a point charged with positive or with\nnegative electricity, or throughout a finite space bounded by a\nsurface charged positively or negatively. If, therefore, a point\nof equilibrium occurs in an uncharged part of the field the po-\ntential must be stationary, and not a maximum or a minimum.\nIn fact, a condition for a maximum or minimum is that\n$$\\frac{d^{2} V}{d x^{2}}, \\frac{d^{2} V}{d y^{2}}, \\quad \\text { and } \\quad \\frac{d^{2} V^{Y}}{d z^{2}}$$\nmust be all negative or all positive, if they have finite values.\nNow, by Laplace's equation, at a point where there is no\ncharge, the sum of these three quantities is zero, and therefore\nthis condition cannot be satisfied.\nInstead of investigating the analytical conditions for the cases\nin which the components of the force simultaneously vanish, we\nshall give a general proof by means of the equipotential surfaces.\nIf at any point, $P$, there is a true maximum value of $V$, then,\nat all other points in the immediate neighbourhood of $P$, the\nvalue of $V$ is less than at $P$. Hence $P$ will be surrounded by a\nseries of closed equipotential surfaces, each outside the one before\n",
+    "mathpix_markdown": "\n--- Page 204 ---\n\n\n\\section*{OHAPTER VI.}\n\n\n\\section*{ON POINTS AND LINES OF EQUILIBRIUM.}\n\n112.] If at any point of the electric field the resultant force is\n zero, the point is called a Point of equilibrium.\n\n\nIf every point on a certain line is a point of equilibrium, the\n line is called a Line of equilibrium.\n\n\nThe conditions that a point shall be a point of equilibrium are\n that at that point\n\n$$\\frac{d V}{d x}=0, \\frac{d V}{d y}=0, \\frac{d V}{d z}=0 .$$\n\n\nAt such a point, therefore, the value of $V$ is a maximum, or\n a minimum, or is stationary, with respect to variations of the\n coordinates. The potential, however, can have a maximum or a\n minimum value only at a point charged with positive or with\n negative electricity, or throughout a finite space bounded by a\n surface charged positively or negatively. If, therefore, a point\n of equilibrium occurs in an uncharged part of the field the po\ntential must be stationary, and not a maximum or a minimum.\n\n\nIn fact, a condition for a maximum or minimum is that\n\n$$\\frac{d^{2} V}{d x^{2}}, \\frac{d^{2} V}{d y^{2}}, \\quad \\text { and } \\quad \\frac{d^{2} V^{Y}}{d z^{2}}$$\n\nmust be all negative or all positive, if they have finite values.\n\nNow, by Laplace's equation, at a point where there is no\n charge, the sum of these three quantities is zero, and therefore\n this condition cannot be satisfied.\n\n\nInstead of investigating the analytical conditions for the cases\n in which the components of the force simultaneously vanish, we\n shall give a general proof by means of the equipotential surfaces.\n\n\nIf at any point, $P$, there is a true maximum value of $V$, then,\n at all other points in the immediate neighbourhood of $P$, the\n value of $V$ is less than at $P$. Hence $P$ will be surrounded by a\n series of closed equipotential surfaces, each outside the one before\n",
+    "structured_lines": [
+      {
+        "page": 204,
+        "line_number": 2,
+        "type": "text",
+        "content": "OHAPTER VI.",
+        "mathpix_content": "\n\n\\section*{OHAPTER VI.}",
+        "font_size": 34,
+        "confidence": 0.83349609375
+      },
+      {
+        "page": 204,
+        "line_number": 4,
+        "type": "text",
+        "content": "ON POINTS AND LINES OF EQUILIBRIUM.",
+        "mathpix_content": "\n\n\\section*{ON POINTS AND LINES OF EQUILIBRIUM.}",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 5,
+        "type": "text",
+        "content": "112.] If at any point of the electric field the resultant force is",
+        "mathpix_content": "\n112.] If at any point of the electric field the resultant force is",
+        "font_size": 27,
+        "confidence": 0.9931640625
+      },
+      {
+        "page": 204,
+        "line_number": 6,
+        "type": "text",
+        "content": "zero, the point is called a Point of equilibrium.",
+        "mathpix_content": " zero, the point is called a Point of equilibrium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 7,
+        "type": "text",
+        "content": "If every point on a certain line is a point of equilibrium, the",
+        "mathpix_content": "\n\nIf every point on a certain line is a point of equilibrium, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 8,
+        "type": "text",
+        "content": "line is called a Line of equilibrium.",
+        "mathpix_content": " line is called a Line of equilibrium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 9,
+        "type": "text",
+        "content": "The conditions that a point shall be a point of equilibrium are",
+        "mathpix_content": "\n\nThe conditions that a point shall be a point of equilibrium are",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 204,
+        "line_number": 10,
+        "type": "text",
+        "content": "that at that point",
+        "mathpix_content": " that at that point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 13,
+        "type": "text",
+        "content": "At such a point, therefore, the value of $V$ is a maximum, or",
+        "mathpix_content": "\n\nAt such a point, therefore, the value of $V$ is a maximum, or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 14,
+        "type": "text",
+        "content": "a minimum, or is stationary, with respect to variations of the",
+        "mathpix_content": " a minimum, or is stationary, with respect to variations of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 15,
+        "type": "text",
+        "content": "coordinates. The potential, however, can have a maximum or a",
+        "mathpix_content": " coordinates. The potential, however, can have a maximum or a",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 204,
+        "line_number": 16,
+        "type": "text",
+        "content": "minimum value only at a point charged with positive or with",
+        "mathpix_content": " minimum value only at a point charged with positive or with",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 17,
+        "type": "text",
+        "content": "negative electricity, or throughout a finite space bounded by a",
+        "mathpix_content": " negative electricity, or throughout a finite space bounded by a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 18,
+        "type": "text",
+        "content": "surface charged positively or negatively. If, therefore, a point",
+        "mathpix_content": " surface charged positively or negatively. If, therefore, a point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 19,
+        "type": "text",
+        "content": "of equilibrium occurs in an uncharged part of the field the po-",
+        "mathpix_content": " of equilibrium occurs in an uncharged part of the field the po",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 20,
+        "type": "text",
+        "content": "tential must be stationary, and not a maximum or a minimum.",
+        "mathpix_content": "tential must be stationary, and not a maximum or a minimum.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 21,
+        "type": "text",
+        "content": "In fact, a condition for a maximum or minimum is that",
+        "mathpix_content": "\n\nIn fact, a condition for a maximum or minimum is that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 24,
+        "type": "text",
+        "content": "must be all negative or all positive, if they have finite values.",
+        "mathpix_content": "\nmust be all negative or all positive, if they have finite values.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 25,
+        "type": "text",
+        "content": "Now, by Laplace's equation, at a point where there is no",
+        "mathpix_content": "\nNow, by Laplace's equation, at a point where there is no",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 26,
+        "type": "text",
+        "content": "charge, the sum of these three quantities is zero, and therefore",
+        "mathpix_content": " charge, the sum of these three quantities is zero, and therefore",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 204,
+        "line_number": 27,
+        "type": "text",
+        "content": "this condition cannot be satisfied.",
+        "mathpix_content": " this condition cannot be satisfied.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 28,
+        "type": "text",
+        "content": "Instead of investigating the analytical conditions for the cases",
+        "mathpix_content": "\n\nInstead of investigating the analytical conditions for the cases",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 29,
+        "type": "text",
+        "content": "in which the components of the force simultaneously vanish, we",
+        "mathpix_content": " in which the components of the force simultaneously vanish, we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 30,
+        "type": "text",
+        "content": "shall give a general proof by means of the equipotential surfaces.",
+        "mathpix_content": " shall give a general proof by means of the equipotential surfaces.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 31,
+        "type": "text",
+        "content": "If at any point, $P$, there is a true maximum value of $V$, then,",
+        "mathpix_content": "\n\nIf at any point, $P$, there is a true maximum value of $V$, then,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 32,
+        "type": "text",
+        "content": "at all other points in the immediate neighbourhood of $P$, the",
+        "mathpix_content": " at all other points in the immediate neighbourhood of $P$, the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 204,
+        "line_number": 33,
+        "type": "text",
+        "content": "value of $V$ is less than at $P$. Hence $P$ will be surrounded by a",
+        "mathpix_content": " value of $V$ is less than at $P$. Hence $P$ will be surrounded by a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 204,
+        "line_number": 34,
+        "type": "text",
+        "content": "series of closed equipotential surfaces, each outside the one before",
+        "mathpix_content": " series of closed equipotential surfaces, each outside the one before",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

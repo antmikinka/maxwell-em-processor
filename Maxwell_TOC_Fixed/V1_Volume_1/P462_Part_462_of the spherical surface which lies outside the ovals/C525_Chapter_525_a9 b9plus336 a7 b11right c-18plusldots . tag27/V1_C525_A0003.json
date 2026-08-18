@@ -1,0 +1,20 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "}=a^{4} c^{-4}+8 a^{7} b^{3} c^{-10}+\\left(12 a^{9} b^{3}+30 a^{7} b^{5}\\right) c^{-12}$$",
+  "title_safe": "equalsa4 c-4plus8 a7 b3 c-10plusleft12 a9 b3plus30 a7 b5righ",
+  "page_start": 264,
+  "page_end": 263,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

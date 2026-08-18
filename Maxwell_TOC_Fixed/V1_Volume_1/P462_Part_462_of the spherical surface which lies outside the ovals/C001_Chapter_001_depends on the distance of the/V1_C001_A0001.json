@@ -1,0 +1,291 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}$, depends on the distance of the",
+  "title_safe": "depends on the distance of the",
+  "page_start": 255,
+  "page_end": 255,
+  "content": {
+    "raw_text": "\n--- Page 255 ---\n220\nSPHERICAL HARMONICS.\n[145 a.\nwhich contains one of the coefficients which we wish to deter-\nmine. The first term of the second member contains $A_{0}$, the\ncharge of the sphere, and we may regard this as the principal\nterm.\nNeglecting, for the present, the other terms, we obtain as a\nfirst approximation\n$$A_{n_{1}}^{\\left(\\sigma_{1}\\right)}=-\\frac{1}{2} \\frac{2^{2 \\sigma_{1}} n_{1}!}{\\left(n_{1}+\\sigma_{1}\\right)!\\left(n_{1}-\\sigma_{1}\\right)!} A_{0} a^{n_{1}+1} D_{n_{1}}^{\\left(\\sigma_{1}\\right)} G .$$\n(9)\nIf the shortest distance from the centre of the sphere to the\nnearest of the surrounding conductors is denoted by $b$,\n$$a^{n_{1}+1} D_{n_{1}}^{\\left(\\sigma_{1}\\right)} G<n_{1}!\\left(\\frac{a}{b}\\right)^{n_{1}+1}$$\nIf, therefore, $b$ is large compared with $a$, the radius of the\nsphere, the coefficients of the other spherical harmonics are very\nsmall compared with $A_{0}$. The ratio of a term after the first on\nthe right-hand side of equation (8) to the first term will there-\nfore be of an order of magnitude similar to $\\left(\\frac{a}{b}\\right)^{2 n+n_{1}+1}$\nWe may therefore neglect them in a first approximation, and\nin a second approximation we may insert in these terms the\nvalues of the coefficients obtained by the first approximation,\nand so on till we arrive at the degree of approximation required.\nDistribution of electricity on a nearly spherical conductor.\n$145 a$.] Let the equation of the surface of the conductor be\n$$r=a(1+F),$$\n(1)\nwhere $F$ is a function of the direction of $\\gamma$, that is to say of $\\theta$\nand $\\phi$, and is a quantity the square of which may be neglected\nin this investigation.\nLet $F^{\\prime}$ be expanded in the form of a series of surface harmonics\n$$F=f_{0}+f_{1} Y_{1}+f_{2} Y_{2}+\\text { \\&c. }+f_{n} Y_{n}$$\n(2)\nOf these terms, the first depends on the excess of the mean\nradius above $a$. If therefore we assume that $a$ is the mean\nradius, that is to say approximately the radius of a sphere whose\nvolume is equal to that of the given conductor, the coefficient $f_{0}$\nwill disappear.\nThe second term, that in $f_{1}$, depends on the distance of the\ncentre of mass of the conductor, supposed of uniform density,\n",
+    "mathpix_markdown": "\n--- Page 255 ---\n\nwhich contains one of the coefficients which we wish to deter\nmine. The first term of the second member contains $A_{0}$, the\n charge of the sphere, and we may regard this as the principal\n term.\n\n\nNeglecting, for the present, the other terms, we obtain as a\n first approximation\n\n$$\\begin{equation*}\nA_{n_{1}}^{\\left(\\sigma_{1}\\right)}=-\\frac{1}{2} \\frac{2^{2 \\sigma_{1}} n_{1}!}{\\left(n_{1}+\\sigma_{1}\\right)!\\left(n_{1}-\\sigma_{1}\\right)!} A_{0} a^{n_{1}+1} D_{n_{1}}^{\\left(\\sigma_{1}\\right)} G . \\tag{9}\n\\end{equation*}$$\n\n\nIf the shortest distance from the centre of the sphere to the\n nearest of the surrounding conductors is denoted by $b$,\n\n$$a^{n_{1}+1} D_{n_{1}}^{\\left(\\sigma_{1}\\right)} G<n_{1}!\\left(\\frac{a}{b}\\right)^{n_{1}+1}$$\n\n\nIf, therefore, $b$ is large compared with $a$, the radius of the\n sphere, the coefficients of the other spherical harmonics are very\n small compared with $A_{0}$. The ratio of a term after the first on\n the right-hand side of equation (8) to the first term will there\nfore be of an order of magnitude similar to $\\left(\\frac{a}{b}\\right)^{2 n+n_{1}+1}$\n\n\nWe may therefore neglect them in a first approximation, and\n in a second approximation we may insert in these terms the\n values of the coefficients obtained by the first approximation,\n and so on till we arrive at the degree of approximation required.\n\n\nDistribution of electricity on a nearly spherical conductor.\n\n$145 a$.] Let the equation of the surface of the conductor be\n\n$$\\begin{equation*}\nr=a(1+F), \\tag{1}\n\\end{equation*}$$\n\nwhere $F$ is a function of the direction of $\\gamma$, that is to say of $\\theta$\n and $\\phi$, and is a quantity the square of which may be neglected\n in this investigation.\n\n\nLet $F^{\\prime}$ be expanded in the form of a series of surface harmonics\n\n$$\\begin{equation*}\nF=f_{0}+f_{1} Y_{1}+f_{2} Y_{2}+\\text { \\&c. }+f_{n} Y_{n} \\tag{2}\n\\end{equation*}$$\n\n\nOf these terms, the first depends on the excess of the mean\n radius above $a$. If therefore we assume that $a$ is the mean\n radius, that is to say approximately the radius of a sphere whose\n volume is equal to that of the given conductor, the coefficient $f_{0}$\n will disappear.\n\n\nThe second term, that in $f_{1}$, depends on the distance of the\n centre of mass of the conductor, supposed of uniform density,\n",
+    "structured_lines": [
+      {
+        "page": 255,
+        "line_number": 4,
+        "type": "text",
+        "content": "which contains one of the coefficients which we wish to deter-",
+        "mathpix_content": "\nwhich contains one of the coefficients which we wish to deter",
+        "font_size": 27,
+        "confidence": 0.8549133019987494
+      },
+      {
+        "page": 255,
+        "line_number": 5,
+        "type": "text",
+        "content": "mine. The first term of the second member contains $A_{0}$, the",
+        "mathpix_content": "mine. The first term of the second member contains $A_{0}$, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 6,
+        "type": "text",
+        "content": "charge of the sphere, and we may regard this as the principal",
+        "mathpix_content": " charge of the sphere, and we may regard this as the principal",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 7,
+        "type": "text",
+        "content": "term.",
+        "mathpix_content": " term.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 8,
+        "type": "text",
+        "content": "Neglecting, for the present, the other terms, we obtain as a",
+        "mathpix_content": "\n\nNeglecting, for the present, the other terms, we obtain as a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 9,
+        "type": "text",
+        "content": "first approximation",
+        "mathpix_content": " first approximation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 13,
+        "type": "text",
+        "content": "If the shortest distance from the centre of the sphere to the",
+        "mathpix_content": "\n\nIf the shortest distance from the centre of the sphere to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 14,
+        "type": "text",
+        "content": "nearest of the surrounding conductors is denoted by $b$,",
+        "mathpix_content": " nearest of the surrounding conductors is denoted by $b$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 17,
+        "type": "text",
+        "content": "If, therefore, $b$ is large compared with $a$, the radius of the",
+        "mathpix_content": "\n\nIf, therefore, $b$ is large compared with $a$, the radius of the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 255,
+        "line_number": 18,
+        "type": "text",
+        "content": "sphere, the coefficients of the other spherical harmonics are very",
+        "mathpix_content": " sphere, the coefficients of the other spherical harmonics are very",
+        "font_size": 27,
+        "confidence": 0.974609375
+      },
+      {
+        "page": 255,
+        "line_number": 19,
+        "type": "text",
+        "content": "small compared with $A_{0}$. The ratio of a term after the first on",
+        "mathpix_content": " small compared with $A_{0}$. The ratio of a term after the first on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 20,
+        "type": "text",
+        "content": "the right-hand side of equation (8) to the first term will there-",
+        "mathpix_content": " the right-hand side of equation (8) to the first term will there",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 21,
+        "type": "text",
+        "content": "fore be of an order of magnitude similar to $\\left(\\frac{a}{b}\\right)^{2 n+n_{1}+1}$",
+        "mathpix_content": "fore be of an order of magnitude similar to $\\left(\\frac{a}{b}\\right)^{2 n+n_{1}+1}$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 22,
+        "type": "text",
+        "content": "We may therefore neglect them in a first approximation, and",
+        "mathpix_content": "\n\nWe may therefore neglect them in a first approximation, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 23,
+        "type": "text",
+        "content": "in a second approximation we may insert in these terms the",
+        "mathpix_content": " in a second approximation we may insert in these terms the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 24,
+        "type": "text",
+        "content": "values of the coefficients obtained by the first approximation,",
+        "mathpix_content": " values of the coefficients obtained by the first approximation,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 25,
+        "type": "text",
+        "content": "and so on till we arrive at the degree of approximation required.",
+        "mathpix_content": " and so on till we arrive at the degree of approximation required.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 26,
+        "type": "text",
+        "content": "Distribution of electricity on a nearly spherical conductor.",
+        "mathpix_content": "\n\nDistribution of electricity on a nearly spherical conductor.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 255,
+        "line_number": 27,
+        "type": "text",
+        "content": "$145 a$.] Let the equation of the surface of the conductor be",
+        "mathpix_content": "\n$145 a$.] Let the equation of the surface of the conductor be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 31,
+        "type": "text",
+        "content": "where $F$ is a function of the direction of $\\gamma$, that is to say of $\\theta$",
+        "mathpix_content": "\nwhere $F$ is a function of the direction of $\\gamma$, that is to say of $\\theta$",
+        "font_size": 27,
+        "confidence": 0.50732421875
+      },
+      {
+        "page": 255,
+        "line_number": 32,
+        "type": "text",
+        "content": "and $\\phi$, and is a quantity the square of which may be neglected",
+        "mathpix_content": " and $\\phi$, and is a quantity the square of which may be neglected",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 255,
+        "line_number": 33,
+        "type": "text",
+        "content": "in this investigation.",
+        "mathpix_content": " in this investigation.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 34,
+        "type": "text",
+        "content": "Let $F^{\\prime}$ be expanded in the form of a series of surface harmonics",
+        "mathpix_content": "\n\nLet $F^{\\prime}$ be expanded in the form of a series of surface harmonics",
+        "font_size": 27,
+        "confidence": 0.615234375
+      },
+      {
+        "page": 255,
+        "line_number": 38,
+        "type": "text",
+        "content": "Of these terms, the first depends on the excess of the mean",
+        "mathpix_content": "\n\nOf these terms, the first depends on the excess of the mean",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 39,
+        "type": "text",
+        "content": "radius above $a$. If therefore we assume that $a$ is the mean",
+        "mathpix_content": " radius above $a$. If therefore we assume that $a$ is the mean",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 255,
+        "line_number": 40,
+        "type": "text",
+        "content": "radius, that is to say approximately the radius of a sphere whose",
+        "mathpix_content": " radius, that is to say approximately the radius of a sphere whose",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 41,
+        "type": "text",
+        "content": "volume is equal to that of the given conductor, the coefficient $f_{0}$",
+        "mathpix_content": " volume is equal to that of the given conductor, the coefficient $f_{0}$",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 255,
+        "line_number": 42,
+        "type": "text",
+        "content": "will disappear.",
+        "mathpix_content": " will disappear.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 43,
+        "type": "text",
+        "content": "The second term, that in $f_{1}$, depends on the distance of the",
+        "mathpix_content": "\n\nThe second term, that in $f_{1}$, depends on the distance of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 255,
+        "line_number": 44,
+        "type": "text",
+        "content": "centre of mass of the conductor, supposed of uniform density,",
+        "mathpix_content": " centre of mass of the conductor, supposed of uniform density,",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "article_id": "article_28",
+  "article_number": 28,
+  "title_original": "at a time, or $\\frac{n!}{(n-2 s)!}$; thus $N 2^{8} s^{\\prime}=\\frac{n!}{(n-2 s)!}$, or $\\left.N=\\frac{n!}{2^{8} s!(n-2 s)!}\\right\\}$.",
+  "title_safe": "at a time or fracnn-2 s thus N 28 sprimeequalsfracnn-2 s or",
+  "page_start": 240,
+  "page_end": 240,
+  "content": {
+    "raw_text": "\n--- Page 240 ---\n$135 \\alpha$.]\n$\\iint \\mathrm{Y}_{\\boldsymbol{m}} \\mathrm{Y}_{\\boldsymbol{n}} d \\boldsymbol{8}$.\n205\nwith respect to 8 of these axes we introduce 8 of the $p_{n}$ 's, and\nthe numerical factor\n$$28(28-2) \\ldots 2, \\text { or } 2^{3} 8!.$$\nIn continuing the differentiation with respect to the next 8 axes,\nthe $p_{n}$ 's become converted into $\\lambda_{n n}$ 's, but no numerical factor is\nintroduced, and in differentiating with respect to the remaining\n$n-28$ axes, the $p_{m}$ 's become converted into $\\lambda_{m n}$ 's, so that the\nresult is $2^{s} 8!\\lambda_{n n}^{s} \\lambda_{m n}^{s} \\lambda_{m n}^{m-2 s}$.\nWe have therefore, by equation (31),\n$$\\iint Y_{m} Y_{n} d s=\\frac{4 \\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}},$$\n(44)\nand by equation (43),\n$$Y_{m} r^{m}=S\\left[(-1)^{n} \\frac{(2 m-28)!}{2^{m-8} m!(m-8)!} \\Sigma\\left(r^{28} p_{m}^{m-28} \\lambda_{m m}^{s}\\right)\\right]$$\n(45)\nHence, performing the differentiations and remembering that\n$m=n$, we find\n$$\\iint Y_{m} Y_{n} d s=\\frac{4 \\pi a^{2}}{(2 n+1)(n!)^{2}} S\\left[(-1)^{*} \\frac{(2 n-2 s)!s!}{2^{n-2 s}(n-8)!} \\Sigma\\left(\\lambda_{m m}^{*} \\lambda_{n n}^{*} \\lambda_{m n}^{n-2 s}\\right)\\right] .$$\n$(46)$\n135 a.] The expression (46) for the surface-integral of the pro-\nduct of two surface-harmonics assumes a remarkable form if we\nsuppose all the axes of one of the harmonics, $Y_{m}$, to coincide with\neach other, so that $Y_{m}$ becomes what we shall afterwards define\nas the zonal harmonic of order $m$, denoted by the symbol $P_{m}$.\nIn this case all the cosines of the form $\\lambda_{n m}$ may be written $\\mu_{n}$,\nwhere $\\mu_{n}$ denotes the cosine of the angle between the common\naxis of $P_{m}$ and one of the axes of $Y_{n}$. The cosines of the form\n$\\lambda_{m m}$ will all become equal to unity, so that for $\\Sigma \\lambda_{m m}^{*}$ we must\nput the number of combinations of $s$ symbols, each of which is\ndistinguished by two suffixes out of $n$, no suffix being repeated.\nHence\n$$\\Sigma \\lambda_{m m}^{*}=\\frac{n!}{2^{n} s!(n-2 s)!} * .$$\n(47)\n* \\{We can see this if we consider how many permutations of the suffixes of one\nterm in the expression $\\Sigma \\lambda_{m m}^{\\prime}$ we can form. The suffixes consist of 8 groups of two\nnumbers each, by altering the order of the groups we can form $s!$ arrangements, and\nby interchanging the order of the numbers inside the groups we can form from any\none of these arrangements $2^{n}$ other arrangements, so that from each of the groups of\nsuffixes we can get $2^{\\circ} \\mathrm{s}!$ arrangements; thus, if $N$ be the number of terms in the series\n$\\Sigma \\lambda_{m m}^{\\prime}, N 2^{s} s!$ arrangements of the $n$ numbers taken $2 s$ at a time may be made, but the\nwhole number of arrangements thus made is evidently the number of permutations of\n$n$ things taken 28 at a time, or $\\frac{n!}{(n-2 s)!}$; thus $N 2^{8} s^{\\prime}=\\frac{n!}{(n-2 s)!}$, or $\\left.N=\\frac{n!}{2^{8} s!(n-2 s)!}\\right\\}$.\n",
+    "mathpix_markdown": "\n--- Page 240 ---\n\nwith respect to 8 of these axes we introduce 8 of the $p_{n}$ 's, and\n the numerical factor\n\n$$28(28-2) \\ldots 2, \\text { or } 2^{3} 8!.$$\n\n\nIn continuing the differentiation with respect to the next 8 axes,\n the $p_{n}$ 's become converted into $\\lambda_{n n}$ 's, but no numerical factor is\n introduced, and in differentiating with respect to the remaining\n $n-28$ axes, the $p_{m}$ 's become converted into $\\lambda_{m n}$ 's, so that the\n result is $2^{s} 8!\\lambda_{n n}^{s} \\lambda_{m n}^{s} \\lambda_{m n}^{m-2 s}$.\n\n\nWe have therefore, by equation (31),\n\n$$\\begin{equation*}\n\\iint Y_{m} Y_{n} d s=\\frac{4 \\pi}{n!(2 n+1)} a^{n-m+2} \\frac{d^{n}\\left(Y_{m} r^{m}\\right)}{d h_{1} \\ldots d h_{n}}, \\tag{44}\n\\end{equation*}$$\n\nand by equation (43),\n\n$$\\begin{equation*}\nY_{m} r^{m}=S\\left[(-1)^{n} \\frac{(2 m-28)!}{2^{m-8} m!(m-8)!} \\Sigma\\left(r^{28} p_{m}^{m-28} \\lambda_{m m}^{s}\\right)\\right] \\tag{45}\n\\end{equation*}$$\n\n\nHence, performing the differentiations and remembering that\n $m=n$, we find\n\n$$\\begin{equation*}\n\\iint Y_{m} Y_{n} d s=\\frac{4 \\pi a^{2}}{(2 n+1)(n!)^{2}} S\\left[(-1)^{*} \\frac{(2 n-2 s)!s!}{2^{n-2 s}(n-8)!} \\Sigma\\left(\\lambda_{m m}^{*} \\lambda_{n n}^{*} \\lambda_{m n}^{n-2 s}\\right)\\right] . \\tag{46}\n\\end{equation*}$$\n\n\n135 a.] The expression (46) for the surface-integral of the pro\nduct of two surface-harmonics assumes a remarkable form if we\n suppose all the axes of one of the harmonics, $Y_{m}$, to coincide with\n each other, so that $Y_{m}$ becomes what we shall afterwards define\n as the zonal harmonic of order $m$, denoted by the symbol $P_{m}$.\n\n\nIn this case all the cosines of the form $\\lambda_{n m}$ may be written $\\mu_{n}$,\n where $\\mu_{n}$ denotes the cosine of the angle between the common\n axis of $P_{m}$ and one of the axes of $Y_{n}$. The cosines of the form\n $\\lambda_{m m}$ will all become equal to unity, so that for $\\Sigma \\lambda_{m m}^{*}$ we must\n put the number of combinations of $s$ symbols, each of which is\n distinguished by two suffixes out of $n$, no suffix being repeated.\n Hence\n\n$$\\begin{equation*}\n\\Sigma \\lambda_{m m}^{*}=\\frac{n!}{2^{n} s!(n-2 s)!} * . \\tag{47}\n\\end{equation*}$$\n\n* \\{We can see this if we consider how many permutations of the suffixes of one\n term in the expression $\\Sigma \\lambda_{m m}^{\\prime}$ we can form. The suffixes consist of 8 groups of two\n numbers each, by altering the order of the groups we can form $s!$ arrangements, and\n by interchanging the order of the numbers inside the groups we can form from any\n one of these arrangements $2^{n}$ other arrangements, so that from each of the groups of\n suffixes we can get $2^{\\circ} \\mathrm{s}!$ arrangements; thus, if $N$ be the number of terms in the series\n $\\Sigma \\lambda_{m m}^{\\prime}, N 2^{s} s!$ arrangements of the $n$ numbers taken $2 s$ at a time may be made, but the\n whole number of arrangements thus made is evidently the number of permutations of\n $n$ things taken 28 at a time, or $\\frac{n!}{(n-2 s)!}$; thus $N 2^{8} s^{\\prime}=\\frac{n!}{(n-2 s)!}$, or $\\left.N=\\frac{n!}{2^{8} s!(n-2 s)!}\\right\\}$.\n",
+    "structured_lines": [
+      {
+        "page": 240,
+        "line_number": 4,
+        "type": "text",
+        "content": "with respect to 8 of these axes we introduce 8 of the $p_{n}$ 's, and",
+        "mathpix_content": "\nwith respect to 8 of these axes we introduce 8 of the $p_{n}$ 's, and",
+        "font_size": 27,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 240,
+        "line_number": 5,
+        "type": "text",
+        "content": "the numerical factor",
+        "mathpix_content": " the numerical factor",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 8,
+        "type": "text",
+        "content": "In continuing the differentiation with respect to the next 8 axes,",
+        "mathpix_content": "\n\nIn continuing the differentiation with respect to the next 8 axes,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 9,
+        "type": "text",
+        "content": "the $p_{n}$ 's become converted into $\\lambda_{n n}$ 's, but no numerical factor is",
+        "mathpix_content": " the $p_{n}$ 's become converted into $\\lambda_{n n}$ 's, but no numerical factor is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 10,
+        "type": "text",
+        "content": "introduced, and in differentiating with respect to the remaining",
+        "mathpix_content": " introduced, and in differentiating with respect to the remaining",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 11,
+        "type": "text",
+        "content": "$n-28$ axes, the $p_{m}$ 's become converted into $\\lambda_{m n}$ 's, so that the",
+        "mathpix_content": " $n-28$ axes, the $p_{m}$ 's become converted into $\\lambda_{m n}$ 's, so that the",
+        "font_size": 27,
+        "confidence": 0.8169708251953125
+      },
+      {
+        "page": 240,
+        "line_number": 12,
+        "type": "text",
+        "content": "result is $2^{s} 8!\\lambda_{n n}^{s} \\lambda_{m n}^{s} \\lambda_{m n}^{m-2 s}$.",
+        "mathpix_content": " result is $2^{s} 8!\\lambda_{n n}^{s} \\lambda_{m n}^{s} \\lambda_{m n}^{m-2 s}$.",
+        "font_size": 27,
+        "confidence": 0.5910375032108277
+      },
+      {
+        "page": 240,
+        "line_number": 13,
+        "type": "text",
+        "content": "We have therefore, by equation (31),",
+        "mathpix_content": "\n\nWe have therefore, by equation (31),",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 17,
+        "type": "text",
+        "content": "and by equation (43),",
+        "mathpix_content": "\nand by equation (43),",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 21,
+        "type": "text",
+        "content": "Hence, performing the differentiations and remembering that",
+        "mathpix_content": "\n\nHence, performing the differentiations and remembering that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 22,
+        "type": "text",
+        "content": "$m=n$, we find",
+        "mathpix_content": " $m=n$, we find",
+        "font_size": 27,
+        "confidence": 0.9980475902557373
+      },
+      {
+        "page": 240,
+        "line_number": 26,
+        "type": "text",
+        "content": "135 a.] The expression (46) for the surface-integral of the pro-",
+        "mathpix_content": "\n\n135 a.] The expression (46) for the surface-integral of the pro",
+        "font_size": 27,
+        "confidence": 0.8694749139249325
+      },
+      {
+        "page": 240,
+        "line_number": 27,
+        "type": "text",
+        "content": "duct of two surface-harmonics assumes a remarkable form if we",
+        "mathpix_content": "duct of two surface-harmonics assumes a remarkable form if we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 28,
+        "type": "text",
+        "content": "suppose all the axes of one of the harmonics, $Y_{m}$, to coincide with",
+        "mathpix_content": " suppose all the axes of one of the harmonics, $Y_{m}$, to coincide with",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 240,
+        "line_number": 29,
+        "type": "text",
+        "content": "each other, so that $Y_{m}$ becomes what we shall afterwards define",
+        "mathpix_content": " each other, so that $Y_{m}$ becomes what we shall afterwards define",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 30,
+        "type": "text",
+        "content": "as the zonal harmonic of order $m$, denoted by the symbol $P_{m}$.",
+        "mathpix_content": " as the zonal harmonic of order $m$, denoted by the symbol $P_{m}$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 240,
+        "line_number": 31,
+        "type": "text",
+        "content": "In this case all the cosines of the form $\\lambda_{n m}$ may be written $\\mu_{n}$,",
+        "mathpix_content": "\n\nIn this case all the cosines of the form $\\lambda_{n m}$ may be written $\\mu_{n}$,",
+        "font_size": 27,
+        "confidence": 0.76611328125
+      },
+      {
+        "page": 240,
+        "line_number": 32,
+        "type": "text",
+        "content": "where $\\mu_{n}$ denotes the cosine of the angle between the common",
+        "mathpix_content": " where $\\mu_{n}$ denotes the cosine of the angle between the common",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 240,
+        "line_number": 33,
+        "type": "text",
+        "content": "axis of $P_{m}$ and one of the axes of $Y_{n}$. The cosines of the form",
+        "mathpix_content": " axis of $P_{m}$ and one of the axes of $Y_{n}$. The cosines of the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 34,
+        "type": "text",
+        "content": "$\\lambda_{m m}$ will all become equal to unity, so that for $\\Sigma \\lambda_{m m}^{*}$ we must",
+        "mathpix_content": " $\\lambda_{m m}$ will all become equal to unity, so that for $\\Sigma \\lambda_{m m}^{*}$ we must",
+        "font_size": 27,
+        "confidence": 0.9917211346328259
+      },
+      {
+        "page": 240,
+        "line_number": 35,
+        "type": "text",
+        "content": "put the number of combinations of $s$ symbols, each of which is",
+        "mathpix_content": " put the number of combinations of $s$ symbols, each of which is",
+        "font_size": 27,
+        "confidence": 0.9658203125
+      },
+      {
+        "page": 240,
+        "line_number": 36,
+        "type": "text",
+        "content": "distinguished by two suffixes out of $n$, no suffix being repeated.",
+        "mathpix_content": " distinguished by two suffixes out of $n$, no suffix being repeated.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 37,
+        "type": "text",
+        "content": "Hence",
+        "mathpix_content": " Hence",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 41,
+        "type": "text",
+        "content": "* \\{We can see this if we consider how many permutations of the suffixes of one",
+        "mathpix_content": "\n* \\{We can see this if we consider how many permutations of the suffixes of one",
+        "font_size": 21,
+        "confidence": 0.88868478137897
+      },
+      {
+        "page": 240,
+        "line_number": 42,
+        "type": "text",
+        "content": "term in the expression $\\Sigma \\lambda_{m m}^{\\prime}$ we can form. The suffixes consist of 8 groups of two",
+        "mathpix_content": " term in the expression $\\Sigma \\lambda_{m m}^{\\prime}$ we can form. The suffixes consist of 8 groups of two",
+        "font_size": 21,
+        "confidence": 0.6634154319763184
+      },
+      {
+        "page": 240,
+        "line_number": 43,
+        "type": "text",
+        "content": "numbers each, by altering the order of the groups we can form $s!$ arrangements, and",
+        "mathpix_content": " numbers each, by altering the order of the groups we can form $s!$ arrangements, and",
+        "font_size": 21,
+        "confidence": 0.9965834617614746
+      },
+      {
+        "page": 240,
+        "line_number": 44,
+        "type": "text",
+        "content": "by interchanging the order of the numbers inside the groups we can form from any",
+        "mathpix_content": " by interchanging the order of the numbers inside the groups we can form from any",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 45,
+        "type": "text",
+        "content": "one of these arrangements $2^{n}$ other arrangements, so that from each of the groups of",
+        "mathpix_content": " one of these arrangements $2^{n}$ other arrangements, so that from each of the groups of",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 46,
+        "type": "text",
+        "content": "suffixes we can get $2^{\\circ} \\mathrm{s}!$ arrangements; thus, if $N$ be the number of terms in the series",
+        "mathpix_content": " suffixes we can get $2^{\\circ} \\mathrm{s}!$ arrangements; thus, if $N$ be the number of terms in the series",
+        "font_size": 21,
+        "confidence": 0.39821053950746965
+      },
+      {
+        "page": 240,
+        "line_number": 47,
+        "type": "text",
+        "content": "$\\Sigma \\lambda_{m m}^{\\prime}, N 2^{s} s!$ arrangements of the $n$ numbers taken $2 s$ at a time may be made, but the",
+        "mathpix_content": " $\\Sigma \\lambda_{m m}^{\\prime}, N 2^{s} s!$ arrangements of the $n$ numbers taken $2 s$ at a time may be made, but the",
+        "font_size": 21,
+        "confidence": 0.6400631591155429
+      },
+      {
+        "page": 240,
+        "line_number": 48,
+        "type": "text",
+        "content": "whole number of arrangements thus made is evidently the number of permutations of",
+        "mathpix_content": " whole number of arrangements thus made is evidently the number of permutations of",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 240,
+        "line_number": 49,
+        "type": "text",
+        "content": "$n$ things taken 28 at a time, or $\\frac{n!}{(n-2 s)!}$; thus $N 2^{8} s^{\\prime}=\\frac{n!}{(n-2 s)!}$, or $\\left.N=\\frac{n!}{2^{8} s!(n-2 s)!}\\right\\}$.",
+        "mathpix_content": " $n$ things taken 28 at a time, or $\\frac{n!}{(n-2 s)!}$; thus $N 2^{8} s^{\\prime}=\\frac{n!}{(n-2 s)!}$, or $\\left.N=\\frac{n!}{2^{8} s!(n-2 s)!}\\right\\}$.",
+        "font_size": 21,
+        "confidence": 0.3570284471058214
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

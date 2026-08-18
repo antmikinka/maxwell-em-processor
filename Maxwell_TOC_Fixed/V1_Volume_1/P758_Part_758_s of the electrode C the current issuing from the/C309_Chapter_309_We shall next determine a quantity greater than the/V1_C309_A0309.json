@@ -1,0 +1,300 @@
+{
+  "article_id": "article_309",
+  "article_number": 309,
+  "title_original": ".] We shall next determine a quantity greater than the",
+  "title_safe": "We shall next determine a quantity greater than the",
+  "page_start": 467,
+  "page_end": 467,
+  "content": {
+    "raw_text": "\n--- Page 467 ---\n432\nRESISTANCE AND CONDUCTIVITY.\n[309.\nthroughout. The potential within the cylinder will then be a\nfunction of its length only, and if we suppose the surface of the\nelectrode where the cylinder meets it to be approximately plane,\nand all its dimensions to be large compared with the diameter of\nthe cylinder, the distribution of potential will be that due to a\nconductor in the form of a disk placed in an infinite medium.\nSee Arts. 151, 177.\nIf $E$ is the difference of the potential of the disk from that of\nthe distant parts of the electrode, $C$ the current issuing from the\nsurface of the disk into the electrode, and $\\rho^{\\prime}$ the specific re-\nsistance of the electrode ; then if $Q$ is the amount of electricity\non the disk, which we assume distributed as in Art. 151, we see\nthat the integral over the disk of the electromotive intensity is\n$$\\begin{aligned}\n\\rho^{\\prime} C=\\frac{1}{2} \\cdot 4 \\pi Q & =2 \\pi \\frac{a E}{\\pi}, \\text { by Art. 151 } \\\\\n& =4 a E\n\\end{aligned}$$\n(18)\nHence, if the length of the wire from a given point to the\nelectrode is $L$, and its specific resistance $\\rho$, the resistance from\nthat point to any point of the electrode not near the junction is\n$$R=\\rho \\frac{L}{\\pi a^{2}}+\\frac{\\rho^{\\prime}}{4 a},$$\nand this may be written\n$$R=\\frac{\\rho}{\\pi a^{2}}\\left(L+\\frac{\\rho^{\\prime}}{\\rho} \\frac{\\pi a}{4}\\right),$$\n(19)\nwhere the second term within brackets is a quantity which\nmust be added to the length of the cylinder or wire in calcu-\nlating its resistance, and this is certainly too small a correction.\nTo understand the nature of the outstanding error we may\nobserve, that whereas we have supposed the flow in the wire up\nto the disk to be uniform throughout the section, the flow from\nthe disk to the electrode is not uniform, but is at any point in-\nversely proportional (Art. 151) to the minimum chord through\nthat point. In the actual case the flow through the disk will not\nbe uniform, but it will not vary so much from point to point\nas in this supposed case. The potential of the disk in the\nactual case will not be uniform, but will diminish from the\nmiddle to the edge.\n309.] We shall next determine a quantity greater than the\n",
+    "mathpix_markdown": "\n--- Page 467 ---\n\nthroughout. The potential within the cylinder will then be a\n function of its length only, and if we suppose the surface of the\n electrode where the cylinder meets it to be approximately plane,\n and all its dimensions to be large compared with the diameter of\n the cylinder, the distribution of potential will be that due to a\n conductor in the form of a disk placed in an infinite medium.\n See Arts. 151, 177.\n\n\nIf $E$ is the difference of the potential of the disk from that of\n the distant parts of the electrode, $C$ the current issuing from the\n surface of the disk into the electrode, and $\\rho^{\\prime}$ the specific re\nsistance of the electrode ; then if $Q$ is the amount of electricity\n on the disk, which we assume distributed as in Art. 151, we see\n that the integral over the disk of the electromotive intensity is\n\n$$\\begin{align*}\n\\rho^{\\prime} C=\\frac{1}{2} \\cdot 4 \\pi Q & =2 \\pi \\frac{a E}{\\pi}, \\text { by Art. 151 } \\\\\n& =4 a E \\tag{18}\n\\end{align*}$$\n\n\nHence, if the length of the wire from a given point to the\n electrode is $L$, and its specific resistance $\\rho$, the resistance from\n that point to any point of the electrode not near the junction is\n\n$$R=\\rho \\frac{L}{\\pi a^{2}}+\\frac{\\rho^{\\prime}}{4 a},$$\n\nand this may be written\n\n$$\\begin{equation*}\nR=\\frac{\\rho}{\\pi a^{2}}\\left(L+\\frac{\\rho^{\\prime}}{\\rho} \\frac{\\pi a}{4}\\right), \\tag{19}\n\\end{equation*}$$\n\nwhere the second term within brackets is a quantity which\n must be added to the length of the cylinder or wire in calcu\nlating its resistance, and this is certainly too small a correction.\n\n\nTo understand the nature of the outstanding error we may\n observe, that whereas we have supposed the flow in the wire up\n to the disk to be uniform throughout the section, the flow from\n the disk to the electrode is not uniform, but is at any point in\nversely proportional (Art. 151) to the minimum chord through\n that point. In the actual case the flow through the disk will not\n be uniform, but it will not vary so much from point to point\n as in this supposed case. The potential of the disk in the\n actual case will not be uniform, but will diminish from the\n middle to the edge.\n\n309.] We shall next determine a quantity greater than the\n",
+    "structured_lines": [
+      {
+        "page": 467,
+        "line_number": 4,
+        "type": "text",
+        "content": "throughout. The potential within the cylinder will then be a",
+        "mathpix_content": "\nthroughout. The potential within the cylinder will then be a",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 5,
+        "type": "text",
+        "content": "function of its length only, and if we suppose the surface of the",
+        "mathpix_content": " function of its length only, and if we suppose the surface of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 6,
+        "type": "text",
+        "content": "electrode where the cylinder meets it to be approximately plane,",
+        "mathpix_content": " electrode where the cylinder meets it to be approximately plane,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 7,
+        "type": "text",
+        "content": "and all its dimensions to be large compared with the diameter of",
+        "mathpix_content": " and all its dimensions to be large compared with the diameter of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 8,
+        "type": "text",
+        "content": "the cylinder, the distribution of potential will be that due to a",
+        "mathpix_content": " the cylinder, the distribution of potential will be that due to a",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 9,
+        "type": "text",
+        "content": "conductor in the form of a disk placed in an infinite medium.",
+        "mathpix_content": " conductor in the form of a disk placed in an infinite medium.",
+        "font_size": 34,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 467,
+        "line_number": 10,
+        "type": "text",
+        "content": "See Arts. 151, 177.",
+        "mathpix_content": " See Arts. 151, 177.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 11,
+        "type": "text",
+        "content": "If $E$ is the difference of the potential of the disk from that of",
+        "mathpix_content": "\n\nIf $E$ is the difference of the potential of the disk from that of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 12,
+        "type": "text",
+        "content": "the distant parts of the electrode, $C$ the current issuing from the",
+        "mathpix_content": " the distant parts of the electrode, $C$ the current issuing from the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 13,
+        "type": "text",
+        "content": "surface of the disk into the electrode, and $\\rho^{\\prime}$ the specific re-",
+        "mathpix_content": " surface of the disk into the electrode, and $\\rho^{\\prime}$ the specific re",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 14,
+        "type": "text",
+        "content": "sistance of the electrode ; then if $Q$ is the amount of electricity",
+        "mathpix_content": "sistance of the electrode ; then if $Q$ is the amount of electricity",
+        "font_size": 34,
+        "confidence": 0.5732421875
+      },
+      {
+        "page": 467,
+        "line_number": 15,
+        "type": "text",
+        "content": "on the disk, which we assume distributed as in Art. 151, we see",
+        "mathpix_content": " on the disk, which we assume distributed as in Art. 151, we see",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 16,
+        "type": "text",
+        "content": "that the integral over the disk of the electromotive intensity is",
+        "mathpix_content": " that the integral over the disk of the electromotive intensity is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 21,
+        "type": "text",
+        "content": "Hence, if the length of the wire from a given point to the",
+        "mathpix_content": "\n\nHence, if the length of the wire from a given point to the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 22,
+        "type": "text",
+        "content": "electrode is $L$, and its specific resistance $\\rho$, the resistance from",
+        "mathpix_content": " electrode is $L$, and its specific resistance $\\rho$, the resistance from",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 23,
+        "type": "text",
+        "content": "that point to any point of the electrode not near the junction is",
+        "mathpix_content": " that point to any point of the electrode not near the junction is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 26,
+        "type": "text",
+        "content": "and this may be written",
+        "mathpix_content": "\nand this may be written",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 30,
+        "type": "text",
+        "content": "where the second term within brackets is a quantity which",
+        "mathpix_content": "\nwhere the second term within brackets is a quantity which",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 31,
+        "type": "text",
+        "content": "must be added to the length of the cylinder or wire in calcu-",
+        "mathpix_content": " must be added to the length of the cylinder or wire in calcu",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 32,
+        "type": "text",
+        "content": "lating its resistance, and this is certainly too small a correction.",
+        "mathpix_content": "lating its resistance, and this is certainly too small a correction.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 33,
+        "type": "text",
+        "content": "To understand the nature of the outstanding error we may",
+        "mathpix_content": "\n\nTo understand the nature of the outstanding error we may",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 34,
+        "type": "text",
+        "content": "observe, that whereas we have supposed the flow in the wire up",
+        "mathpix_content": " observe, that whereas we have supposed the flow in the wire up",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 35,
+        "type": "text",
+        "content": "to the disk to be uniform throughout the section, the flow from",
+        "mathpix_content": " to the disk to be uniform throughout the section, the flow from",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 36,
+        "type": "text",
+        "content": "the disk to the electrode is not uniform, but is at any point in-",
+        "mathpix_content": " the disk to the electrode is not uniform, but is at any point in",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 37,
+        "type": "text",
+        "content": "versely proportional (Art. 151) to the minimum chord through",
+        "mathpix_content": "versely proportional (Art. 151) to the minimum chord through",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 38,
+        "type": "text",
+        "content": "that point. In the actual case the flow through the disk will not",
+        "mathpix_content": " that point. In the actual case the flow through the disk will not",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 39,
+        "type": "text",
+        "content": "be uniform, but it will not vary so much from point to point",
+        "mathpix_content": " be uniform, but it will not vary so much from point to point",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 40,
+        "type": "text",
+        "content": "as in this supposed case. The potential of the disk in the",
+        "mathpix_content": " as in this supposed case. The potential of the disk in the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 41,
+        "type": "text",
+        "content": "actual case will not be uniform, but will diminish from the",
+        "mathpix_content": " actual case will not be uniform, but will diminish from the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 42,
+        "type": "text",
+        "content": "middle to the edge.",
+        "mathpix_content": " middle to the edge.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 467,
+        "line_number": 43,
+        "type": "text",
+        "content": "309.] We shall next determine a quantity greater than the",
+        "mathpix_content": "\n309.] We shall next determine a quantity greater than the",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

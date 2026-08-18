@@ -1,0 +1,156 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}=\\frac{c r_{1}+c^{\\prime} r_{1}^{\\prime}}{c+c^{\\prime}}, \\quad \\bar{r}_{2}=\\frac{c r_{2}+c^{\\prime} r_{2}^{\\prime}}{c+c^{\\prime}}, \\quad \\bar{r}_{3}=\\frac{c+c^{\\prime}}{\\frac{c}{r_{3}}+\\frac{c^{\\prime}}{r_{3}^{\\prime}}} .$$",
+  "title_safe": "equalsfracc r1pluscprime r1primecpluscprime quad barr2equals",
+  "page_start": 481,
+  "page_end": 481,
+  "content": {
+    "raw_text": "\n--- Page 481 ---\n446\nCONDUCTION IN HETEROGENEOUS MEDIA.\n[321.\nof conductivity, Art. 298. If we put $D$ for the determinant of\nthe coefficients of resistance, we find\n$$\\begin{aligned}\n& u r_{3} D=R_{2} \\bar{X}-Q_{3} \\bar{Y}+\\bar{w} q_{2} D, \\\\\n& v r_{3} D=R_{1} \\bar{Y}-P_{3} \\bar{X}+\\bar{w} p_{1} D, \\\\\n& Z r_{3}=-p_{2} \\bar{X}-q_{1} \\bar{Y}+\\bar{w} .\n\\end{aligned}$$\nSimilar equations with the symbols accented give the values\nof $u^{\\prime}, v^{\\prime}$ and $Z^{\\prime}$. Having found $\\bar{u}, \\bar{v}$ and $\\bar{w}$ in terms of $\\bar{X}, \\bar{Y}$ and\n$\\bar{Z}$, we may write down the equations of conductivity of the\nstratified conductor. If we make $h=\\frac{c}{r_{3}}$ and $h^{\\prime}=\\frac{c^{\\prime}}{r_{3}^{\\prime}}$, we find\n$$\\begin{gathered}\n\\bar{p}_{1}=\\frac{h p_{1}+h^{\\prime} p_{1}^{\\prime}}{h+h^{\\prime}}, \\quad \\bar{q}_{1}=\\frac{h q_{1}+h^{\\prime} q_{1}^{\\prime}}{h+h^{\\prime}} \\\\\n\\bar{p}_{2}=\\frac{h p_{2}+h^{\\prime} p_{2}^{\\prime}}{h+h^{\\prime}}, \\quad \\bar{q}_{2}=\\frac{h q_{2}+h^{\\prime} q_{2}^{\\prime}}{h+h^{\\prime}} \\\\\n\\bar{p}_{3}=\\frac{c p_{3}+c^{\\prime} p_{3}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(q_{1}-q_{1}^{\\prime}\\right)\\left(q_{2}-q_{2}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{q}_{3}=\\frac{c q_{3}+c^{\\prime} q_{3}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(p_{1}-p_{1}^{\\prime}\\right)\\left(p_{2}-p_{2}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{r}_{1}=\\frac{c r_{1}+c^{\\prime} r_{1}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(p_{2}-p_{2}^{\\prime}\\right)\\left(q_{2}-q_{2}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{r}_{2}=\\frac{c r_{2}+c^{\\prime} r_{2}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(p_{1}-p_{1}^{\\prime}\\right)\\left(q_{1}-q_{1}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{r}_{3}=\\frac{c+c^{\\prime}}{h+h^{\\prime}} .\n\\end{gathered}$$\n320.] If neither of the two substances of which the strata are\nformed has the rotatory property of Art. 303, the value of any\n$P$ or $p$ will be equal to that of its corresponding $Q$ or $q$. From\nthis it follows that in the stratified conductor also\n$$\\bar{p}_{1}=\\bar{q}_{1}, \\quad \\bar{p}_{2}=\\bar{q}_{2}, \\quad \\bar{p}_{3}=\\bar{q}_{3},$$\nor there is no rotatory property developed by stratification,\nunless it exists in one or both of the separate materials.\n321.] If we now suppose that there is no rotatory property,\nand also that the axes of $x, y$ and $z$ are the principal axes, then\nthe $p$ and $q$ coefficients vanish, and\n$$\\bar{r}_{1}=\\frac{c r_{1}+c^{\\prime} r_{1}^{\\prime}}{c+c^{\\prime}}, \\quad \\bar{r}_{2}=\\frac{c r_{2}+c^{\\prime} r_{2}^{\\prime}}{c+c^{\\prime}}, \\quad \\bar{r}_{3}=\\frac{c+c^{\\prime}}{\\frac{c}{r_{3}}+\\frac{c^{\\prime}}{r_{3}^{\\prime}}} .$$\n",
+    "mathpix_markdown": "\n--- Page 481 ---\n\nof conductivity, Art. 298. If we put $D$ for the determinant of\n the coefficients of resistance, we find\n\n$$\\begin{aligned}\n& u r_{3} D=R_{2} \\bar{X}-Q_{3} \\bar{Y}+\\bar{w} q_{2} D, \\\\\n& v r_{3} D=R_{1} \\bar{Y}-P_{3} \\bar{X}+\\bar{w} p_{1} D, \\\\\n& Z r_{3}=-p_{2} \\bar{X}-q_{1} \\bar{Y}+\\bar{w} .\n\\end{aligned}$$\n\n\nSimilar equations with the symbols accented give the values\n of $u^{\\prime}, v^{\\prime}$ and $Z^{\\prime}$. Having found $\\bar{u}, \\bar{v}$ and $\\bar{w}$ in terms of $\\bar{X}, \\bar{Y}$ and\n $\\bar{Z}$, we may write down the equations of conductivity of the\n stratified conductor. If we make $h=\\frac{c}{r_{3}}$ and $h^{\\prime}=\\frac{c^{\\prime}}{r_{3}^{\\prime}}$, we find\n\n$$\\begin{gathered}\n\\bar{p}_{1}=\\frac{h p_{1}+h^{\\prime} p_{1}^{\\prime}}{h+h^{\\prime}}, \\quad \\bar{q}_{1}=\\frac{h q_{1}+h^{\\prime} q_{1}^{\\prime}}{h+h^{\\prime}} \\\\\n\\bar{p}_{2}=\\frac{h p_{2}+h^{\\prime} p_{2}^{\\prime}}{h+h^{\\prime}}, \\quad \\bar{q}_{2}=\\frac{h q_{2}+h^{\\prime} q_{2}^{\\prime}}{h+h^{\\prime}} \\\\\n\\bar{p}_{3}=\\frac{c p_{3}+c^{\\prime} p_{3}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(q_{1}-q_{1}^{\\prime}\\right)\\left(q_{2}-q_{2}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{q}_{3}=\\frac{c q_{3}+c^{\\prime} q_{3}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(p_{1}-p_{1}^{\\prime}\\right)\\left(p_{2}-p_{2}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{r}_{1}=\\frac{c r_{1}+c^{\\prime} r_{1}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(p_{2}-p_{2}^{\\prime}\\right)\\left(q_{2}-q_{2}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{r}_{2}=\\frac{c r_{2}+c^{\\prime} r_{2}^{\\prime}}{c+c^{\\prime}}-\\frac{h h^{\\prime}\\left(p_{1}-p_{1}^{\\prime}\\right)\\left(q_{1}-q_{1}^{\\prime}\\right)}{\\left(h+h^{\\prime}\\right)\\left(c+c^{\\prime}\\right)} \\\\\n\\bar{r}_{3}=\\frac{c+c^{\\prime}}{h+h^{\\prime}} .\n\\end{gathered}$$\n\n320.] If neither of the two substances of which the strata are\n formed has the rotatory property of Art. 303, the value of any\n $P$ or $p$ will be equal to that of its corresponding $Q$ or $q$. From\n this it follows that in the stratified conductor also\n\n$$\\bar{p}_{1}=\\bar{q}_{1}, \\quad \\bar{p}_{2}=\\bar{q}_{2}, \\quad \\bar{p}_{3}=\\bar{q}_{3},$$\n\nor there is no rotatory property developed by stratification,\n unless it exists in one or both of the separate materials.\n\n321.] If we now suppose that there is no rotatory property,\n and also that the axes of $x, y$ and $z$ are the principal axes, then\n the $p$ and $q$ coefficients vanish, and\n\n$$\\bar{r}_{1}=\\frac{c r_{1}+c^{\\prime} r_{1}^{\\prime}}{c+c^{\\prime}}, \\quad \\bar{r}_{2}=\\frac{c r_{2}+c^{\\prime} r_{2}^{\\prime}}{c+c^{\\prime}}, \\quad \\bar{r}_{3}=\\frac{c+c^{\\prime}}{\\frac{c}{r_{3}}+\\frac{c^{\\prime}}{r_{3}^{\\prime}}} .$$\n",
+    "structured_lines": [
+      {
+        "page": 481,
+        "line_number": 4,
+        "type": "text",
+        "content": "of conductivity, Art. 298. If we put $D$ for the determinant of",
+        "mathpix_content": "\nof conductivity, Art. 298. If we put $D$ for the determinant of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 5,
+        "type": "text",
+        "content": "the coefficients of resistance, we find",
+        "mathpix_content": " the coefficients of resistance, we find",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 10,
+        "type": "text",
+        "content": "Similar equations with the symbols accented give the values",
+        "mathpix_content": "\n\nSimilar equations with the symbols accented give the values",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 11,
+        "type": "text",
+        "content": "of $u^{\\prime}, v^{\\prime}$ and $Z^{\\prime}$. Having found $\\bar{u}, \\bar{v}$ and $\\bar{w}$ in terms of $\\bar{X}, \\bar{Y}$ and",
+        "mathpix_content": " of $u^{\\prime}, v^{\\prime}$ and $Z^{\\prime}$. Having found $\\bar{u}, \\bar{v}$ and $\\bar{w}$ in terms of $\\bar{X}, \\bar{Y}$ and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 12,
+        "type": "text",
+        "content": "$\\bar{Z}$, we may write down the equations of conductivity of the",
+        "mathpix_content": " $\\bar{Z}$, we may write down the equations of conductivity of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 13,
+        "type": "text",
+        "content": "stratified conductor. If we make $h=\\frac{c}{r_{3}}$ and $h^{\\prime}=\\frac{c^{\\prime}}{r_{3}^{\\prime}}$, we find",
+        "mathpix_content": " stratified conductor. If we make $h=\\frac{c}{r_{3}}$ and $h^{\\prime}=\\frac{c^{\\prime}}{r_{3}^{\\prime}}$, we find",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 481,
+        "line_number": 22,
+        "type": "text",
+        "content": "320.] If neither of the two substances of which the strata are",
+        "mathpix_content": "\n320.] If neither of the two substances of which the strata are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 23,
+        "type": "text",
+        "content": "formed has the rotatory property of Art. 303, the value of any",
+        "mathpix_content": " formed has the rotatory property of Art. 303, the value of any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 24,
+        "type": "text",
+        "content": "$P$ or $p$ will be equal to that of its corresponding $Q$ or $q$. From",
+        "mathpix_content": " $P$ or $p$ will be equal to that of its corresponding $Q$ or $q$. From",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 25,
+        "type": "text",
+        "content": "this it follows that in the stratified conductor also",
+        "mathpix_content": " this it follows that in the stratified conductor also",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 28,
+        "type": "text",
+        "content": "or there is no rotatory property developed by stratification,",
+        "mathpix_content": "\nor there is no rotatory property developed by stratification,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 29,
+        "type": "text",
+        "content": "unless it exists in one or both of the separate materials.",
+        "mathpix_content": " unless it exists in one or both of the separate materials.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 30,
+        "type": "text",
+        "content": "321.] If we now suppose that there is no rotatory property,",
+        "mathpix_content": "\n321.] If we now suppose that there is no rotatory property,",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 481,
+        "line_number": 31,
+        "type": "text",
+        "content": "and also that the axes of $x, y$ and $z$ are the principal axes, then",
+        "mathpix_content": " and also that the axes of $x, y$ and $z$ are the principal axes, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 481,
+        "line_number": 32,
+        "type": "text",
+        "content": "the $p$ and $q$ coefficients vanish, and",
+        "mathpix_content": " the $p$ and $q$ coefficients vanish, and",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

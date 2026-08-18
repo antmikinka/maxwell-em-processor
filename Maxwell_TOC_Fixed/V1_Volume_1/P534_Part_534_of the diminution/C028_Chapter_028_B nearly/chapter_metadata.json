@@ -1,0 +1,898 @@
+{
+  "chapter_id": "chapter_124",
+  "chapter_number": 28,
+  "title": "B$ nearly.]",
+  "page_start": 342,
+  "page_end": 342,
+  "articles": [
+    {
+      "article_id": "article_200",
+      "article_number": 200,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_200",
+      "article_number": 200,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_307",
+      "article_number": 307,
+      "title_original": "infinite parallel plates at a distance $B$, we find for the capacity",
+      "title_safe": "infinite parallel plates at a distance B we find for the cap",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{B}+2 \\log _{e} 2 / 2 \\text { r } \\frac{1}{2} B .$$",
+      "title_safe": "Bplus2 log e 2 SLASH 2 text r frac12 B",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_38",
+      "article_number": 38,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\int_{0}^{\\frac{B}{2}} \\int_{-\\infty}^{R} \\rho \\cdot 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} d y^{\\prime}$$",
+      "title_safe": "int0fracB2 int-inftyR rho cdot 2 pileftR-xprimeright d xprim",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\frac{B}{2}} \\int_{-\\infty}^{\\infty} \\frac{d \\psi}{d x^{\\prime}} d x^{\\prime} d y^{\\prime} ; \\text { that is, }-\\frac{1}{8} \\pi B \\text {. }$$",
+      "title_safe": "fracB2 int-inftyinfty fracd psid xprime d xprime d yprime te",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\int_{0}^{R}\\left(-\\frac{1}{4 \\pi} \\frac{d \\psi}{d y^{\\prime}}\\right)_{y^{\\prime}=0} 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} \\\\",
+      "title_safe": "int0Rleft-frac14 pi fracd psid yprimerightyprimeequals0 2 pi",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R}\\left(R-x^{\\prime}\\right)\\binom{d \\phi}{d x^{\\prime}}_{y^{\\prime}=0} d x^{\\prime} \\\\",
+      "title_safe": "RleftR-xprimerightbinomd phid xprimeyprimeequals0 d xprime",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R} \\phi y^{\\prime}=0 \\\\",
+      "title_safe": "R phi yprimeequals0",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R} \\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{e^{\\frac{2 x^{\\prime}}{b}}-1}\\right) d x^{\\prime} \\\\",
+      "title_safe": "R log leftefracxprimebplussqrtefrac2 xprimeb-1right d xprime",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R}\\left\\{\\frac{r^{\\prime}}{b}+\\log \\left(1+\\sqrt{1-e^{-\\frac{2 x^{\\prime}}{b}}}\\right)\\right\\} d x^{\\prime} \\\\",
+      "title_safe": "Rleftfracrprimebpluslog left1plussqrt1-e-frac2 xprimebrightr",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{2 b}-\\int_{0}^{\\frac{R}{b}} b \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi",
+      "title_safe": "2 b-int0fracRb b log left1plussqrt1-e-2 xiright d xi",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "e^{-2 \\xi}}=1-t$$",
+      "title_safe": "e-2 xiequals1-t",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\frac{R}{b}} \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi & =\\frac{1}{2} \\int_{1}^{\\frac{1}{2} e^{-\\frac{2 R}{b}}} \\log (2-t)\\left(\\frac{1}{2-t}-\\frac{1}{t}\\right) d t \\\\",
+      "title_safe": "fracRb log left1plussqrt1-e-2 xiright d xi and equalsfrac12",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4}(\\log 2\\}^{2}-\\frac{1}{2} \\log 2\\left(-\\log 2-\\frac{2 R}{b}\\right)-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{\\prime}} \\\\",
+      "title_safe": "4log 22-frac12 log 2left-log 2-frac2 Rbright-sumnequals1nequ",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "+\\frac{1}{4}\\{\\log 2\\}^{2}-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{2}}",
+      "title_safe": "plusfrac14log 22-sumnequals1nequalsinfty frac12nplus1 frac1n",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{2 b}-R \\log 2-\\frac{1}{8} \\pi B-\\frac{b}{4}\\{\\log 2\\}^{2}+\\sum_{n=1}^{n=\\infty} \\frac{b}{2^{n+1}} \\frac{1}{n^{2}} .$$",
+      "title_safe": "2 b-R log 2-frac18 pi B-fracb4log 22plussumnequals1nequalsin",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $B=\\pi b$, the capacity is",
+      "title_safe": "and Bequalspi b the capacity is",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{B}+\\frac{2}{\\pi} R \\log 2+\\frac{B}{4}+\\frac{B}{2 \\pi^{2}}(\\log 2)^{2}-\\frac{B}{\\pi^{2}} \\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n}} \\frac{1}{n^{2}}=\\frac{\\pi^{2}}{12}-\\frac{1}{2}(\\log 2)^{2},$$",
+      "title_safe": "Bplusfrac2pi R log 2plusfracB4plusfracB2 pi2log 22-fracBpi2",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_28",
+      "article_number": 28,
+      "title_original": "B$ nearly.]",
+      "title_safe": "B nearly",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "infinite parallel plates at a distance $B$, we find for the capacity",
+      "title_safe": "infinite parallel plates at a distance B we find for the cap",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{B}+2 \\log _{e} 2 / 2 \\text { r } \\frac{1}{2} B . \\tag{38}",
+      "title_safe": "Bplus2 log e 2 SLASH 2 text r frac12 B . tag38",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\int_{0}^{\\frac{B}{2}} \\int_{-\\infty}^{R} \\rho \\cdot 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} d y^{\\prime}$$",
+      "title_safe": "int0fracB2 int-inftyR rho cdot 2 pileftR-xprimeright d xprim",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\frac{B}{2}} \\int_{-\\infty}^{\\infty} \\frac{d \\psi}{d x^{\\prime}} d x^{\\prime} d y^{\\prime} ; \\text { that is, }-\\frac{1}{8} \\pi B \\text {. }$$",
+      "title_safe": "fracB2 int-inftyinfty fracd psid xprime d xprime d yprime te",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\int_{0}^{R}\\left(-\\frac{1}{4 \\pi} \\frac{d \\psi}{d y^{\\prime}}\\right)_{y^{\\prime}=0} 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} \\\\",
+      "title_safe": "int0Rleft-frac14 pi fracd psid yprimerightyprimeequals0 2 pi",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R}\\left(R-x^{\\prime}\\right)\\binom{d \\phi}{d x^{\\prime}}_{y^{\\prime}=0} d x^{\\prime} \\\\",
+      "title_safe": "RleftR-xprimerightbinomd phid xprimeyprimeequals0 d xprime",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R} \\phi y^{\\prime}=0 \\\\",
+      "title_safe": "R phi yprimeequals0",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R} \\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{e^{\\frac{2 x^{\\prime}}{b}}-1}\\right) d x^{\\prime} \\\\",
+      "title_safe": "R log leftefracxprimebplussqrtefrac2 xprimeb-1right d xprime",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{R}\\left\\{\\frac{r^{\\prime}}{b}+\\log \\left(1+\\sqrt{1-e^{-\\frac{2 x^{\\prime}}{b}}}\\right)\\right\\} d x^{\\prime} \\\\",
+      "title_safe": "Rleftfracrprimebpluslog left1plussqrt1-e-frac2 xprimebrightr",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{2 b}-\\int_{0}^{\\frac{R}{b}} b \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi",
+      "title_safe": "2 b-int0fracRb b log left1plussqrt1-e-2 xiright d xi",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "e^{-2 \\xi}}=1-t$$",
+      "title_safe": "e-2 xiequals1-t",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}^{\\frac{R}{b}} \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi & =\\frac{1}{2} \\int_{1}^{\\frac{1}{2} e^{-\\frac{2 R}{b}}} \\log (2-t)\\left(\\frac{1}{2-t}-\\frac{1}{t}\\right) d t \\\\",
+      "title_safe": "fracRb log left1plussqrt1-e-2 xiright d xi and equalsfrac12",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4}(\\log 2\\}^{2}-\\frac{1}{2} \\log 2\\left(-\\log 2-\\frac{2 R}{b}\\right)-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{\\prime}} \\\\",
+      "title_safe": "4log 22-frac12 log 2left-log 2-frac2 Rbright-sumnequals1nequ",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "+\\frac{1}{4}\\{\\log 2\\}^{2}-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{2}}",
+      "title_safe": "plusfrac14log 22-sumnequals1nequalsinfty frac12nplus1 frac1n",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{2 b}-R \\log 2-\\frac{1}{8} \\pi B-\\frac{b}{4}\\{\\log 2\\}^{2}+\\sum_{n=1}^{n=\\infty} \\frac{b}{2^{n+1}} \\frac{1}{n^{2}} .$$",
+      "title_safe": "2 b-R log 2-frac18 pi B-fracb4log 22plussumnequals1nequalsin",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $B=\\pi b$, the capacity is",
+      "title_safe": "and Bequalspi b the capacity is",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}}{B}+\\frac{2}{\\pi} R \\log 2+\\frac{B}{4}+\\frac{B}{2 \\pi^{2}}(\\log 2)^{2}-\\frac{B}{\\pi^{2}} \\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n}} \\frac{1}{n^{2}}=\\frac{\\pi^{2}}{12}-\\frac{1}{2}(\\log 2)^{2},$$",
+      "title_safe": "Bplusfrac2pi R log 2plusfracB4plusfracB2 pi2log 22-fracBpi2",
+      "page_start": 342,
+      "page_end": 341,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_28",
+      "article_number": 28,
+      "title_original": "B$ nearly.]",
+      "title_safe": "B nearly",
+      "page_start": 342,
+      "page_end": 342,
+      "content": {
+        "raw_text": "\n--- Page 342 ---\n200.]\nCIRCULAR GROOVES.\n307\ninfinite parallel plates at a distance $B$, we find for the capacity\nof a disk\n$$\\frac{R^{2}}{B}+2 \\log _{e} 2 / 2 \\text { r } \\frac{1}{2} B .$$\n(38)\nThe total amount is\n$$2 \\int_{0}^{\\frac{B}{2}} \\int_{-\\infty}^{R} \\rho \\cdot 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} d y^{\\prime}$$\nNow if $R$ is large in comparison with the distance between the plates this result\nwill be seen, on an examination of the potential lines in Fig. XI, to be sensibly the\nsame as\n$$\\int_{0}^{\\frac{B}{2}} \\int_{-\\infty}^{\\infty} \\frac{d \\psi}{d x^{\\prime}} d x^{\\prime} d y^{\\prime} ; \\text { that is, }-\\frac{1}{8} \\pi B \\text {. }$$\nThe total surface distribution if we include both sides of the disk is\n$$\\begin{aligned}\n& 2 \\int_{0}^{R}\\left(-\\frac{1}{4 \\pi} \\frac{d \\psi}{d y^{\\prime}}\\right)_{y^{\\prime}=0} 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R}\\left(R-x^{\\prime}\\right)\\binom{d \\phi}{d x^{\\prime}}_{y^{\\prime}=0} d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R} \\phi y^{\\prime}=0 \\\\\n& \\quad d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R} \\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{e^{\\frac{2 x^{\\prime}}{b}}-1}\\right) d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R}\\left\\{\\frac{r^{\\prime}}{b}+\\log \\left(1+\\sqrt{1-e^{-\\frac{2 x^{\\prime}}{b}}}\\right)\\right\\} d x^{\\prime} \\\\\n& \\quad=-\\frac{\\pi R^{2}}{2 b}-\\int_{0}^{\\frac{R}{b}} b \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi\n\\end{aligned}$$\nTo evaluate the latter integral put\n$$\\sqrt{1-e^{-2 \\xi}}=1-t$$\nwe get approximately if $R / b$ is large\n$$\\begin{aligned}\n\\int_{0}^{\\frac{R}{b}} \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi & =\\frac{1}{2} \\int_{1}^{\\frac{1}{2} e^{-\\frac{2 R}{b}}} \\log (2-t)\\left(\\frac{1}{2-t}-\\frac{1}{t}\\right) d t \\\\\n& =-\\frac{1}{4}(\\log 2\\}^{2}-\\frac{1}{2} \\log 2\\left(-\\log 2-\\frac{2 R}{b}\\right)-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{\\prime}} \\\\\n& =\\frac{R}{b} \\log 2+\\frac{1}{4}\\{\\log 2\\}^{2}-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{2}}\n\\end{aligned}$$\nso that the quantity of electricity on the plate\n$$=-\\frac{R^{2}}{2 b}-R \\log 2-\\frac{1}{8} \\pi B-\\frac{b}{4}\\{\\log 2\\}^{2}+\\sum_{n=1}^{n=\\infty} \\frac{b}{2^{n+1}} \\frac{1}{n^{2}} .$$\nSince the difference of potential of the plates $=\\frac{\\pi}{2}$ and $B=\\pi b$, the capacity is\n$$\\frac{k^{2}}{B}+\\frac{2}{\\pi} R \\log 2+\\frac{B}{4}+\\frac{B}{2 \\pi^{2}}(\\log 2)^{2}-\\frac{B}{\\pi^{2}} \\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n}} \\frac{1}{n^{2}}=\\frac{\\pi^{2}}{12}-\\frac{1}{2}(\\log 2)^{2},$$\na result which is less than that in the text by $28 B$ nearly.]\nX 2\n",
+        "mathpix_markdown": "\n--- Page 342 ---\n\ninfinite parallel plates at a distance $B$, we find for the capacity\n of a disk\n\n$$\\begin{equation*}\n\\frac{R^{2}}{B}+2 \\log _{e} 2 / 2 \\text { r } \\frac{1}{2} B . \\tag{38}\n\\end{equation*}$$\n\n\nThe total amount is\n\n$$2 \\int_{0}^{\\frac{B}{2}} \\int_{-\\infty}^{R} \\rho \\cdot 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} d y^{\\prime}$$\n\n\nNow if $R$ is large in comparison with the distance between the plates this result\n will be seen, on an examination of the potential lines in Fig. XI, to be sensibly the\n same as\n\n$$\\int_{0}^{\\frac{B}{2}} \\int_{-\\infty}^{\\infty} \\frac{d \\psi}{d x^{\\prime}} d x^{\\prime} d y^{\\prime} ; \\text { that is, }-\\frac{1}{8} \\pi B \\text {. }$$\n\n\nThe total surface distribution if we include both sides of the disk is\n\n$$\\begin{aligned}\n& 2 \\int_{0}^{R}\\left(-\\frac{1}{4 \\pi} \\frac{d \\psi}{d y^{\\prime}}\\right)_{y^{\\prime}=0} 2 \\pi\\left(R-x^{\\prime}\\right) d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R}\\left(R-x^{\\prime}\\right)\\binom{d \\phi}{d x^{\\prime}}_{y^{\\prime}=0} d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R} \\phi y^{\\prime}=0 \\\\\n& \\quad d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R} \\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{e^{\\frac{2 x^{\\prime}}{b}}-1}\\right) d x^{\\prime} \\\\\n& \\quad=-\\int_{0}^{R}\\left\\{\\frac{r^{\\prime}}{b}+\\log \\left(1+\\sqrt{1-e^{-\\frac{2 x^{\\prime}}{b}}}\\right)\\right\\} d x^{\\prime} \\\\\n& \\quad=-\\frac{\\pi R^{2}}{2 b}-\\int_{0}^{\\frac{R}{b}} b \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi\n\\end{aligned}$$\n\n\nTo evaluate the latter integral put\n\n$$\\sqrt{1-e^{-2 \\xi}}=1-t$$\n\nwe get approximately if $R / b$ is large\n\n$$\\begin{aligned}\n\\int_{0}^{\\frac{R}{b}} \\log \\left(1+\\sqrt{1-e^{-2 \\xi}}\\right) d \\xi & =\\frac{1}{2} \\int_{1}^{\\frac{1}{2} e^{-\\frac{2 R}{b}}} \\log (2-t)\\left(\\frac{1}{2-t}-\\frac{1}{t}\\right) d t \\\\\n& =-\\frac{1}{4}(\\log 2\\}^{2}-\\frac{1}{2} \\log 2\\left(-\\log 2-\\frac{2 R}{b}\\right)-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{\\prime}} \\\\\n& =\\frac{R}{b} \\log 2+\\frac{1}{4}\\{\\log 2\\}^{2}-\\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n+1}} \\frac{1}{n^{2}}\n\\end{aligned}$$\n\nso that the quantity of electricity on the plate\n\n$$=-\\frac{R^{2}}{2 b}-R \\log 2-\\frac{1}{8} \\pi B-\\frac{b}{4}\\{\\log 2\\}^{2}+\\sum_{n=1}^{n=\\infty} \\frac{b}{2^{n+1}} \\frac{1}{n^{2}} .$$\n\n\nSince the difference of potential of the plates $=\\frac{\\pi}{2}$ and $B=\\pi b$, the capacity is\n\n$$\\frac{k^{2}}{B}+\\frac{2}{\\pi} R \\log 2+\\frac{B}{4}+\\frac{B}{2 \\pi^{2}}(\\log 2)^{2}-\\frac{B}{\\pi^{2}} \\sum_{n=1}^{n=\\infty} \\frac{1}{2^{n}} \\frac{1}{n^{2}}=\\frac{\\pi^{2}}{12}-\\frac{1}{2}(\\log 2)^{2},$$\n\na result which is less than that in the text by $28 B$ nearly.]\n",
+        "structured_lines": [
+          {
+            "page": 342,
+            "line_number": 4,
+            "type": "text",
+            "content": "infinite parallel plates at a distance $B$, we find for the capacity",
+            "mathpix_content": "\ninfinite parallel plates at a distance $B$, we find for the capacity",
+            "font_size": 33,
+            "confidence": 0.9990236759185791
+          },
+          {
+            "page": 342,
+            "line_number": 5,
+            "type": "text",
+            "content": "of a disk",
+            "mathpix_content": " of a disk",
+            "font_size": 33,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 9,
+            "type": "text",
+            "content": "The total amount is",
+            "mathpix_content": "\n\nThe total amount is",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 12,
+            "type": "text",
+            "content": "Now if $R$ is large in comparison with the distance between the plates this result",
+            "mathpix_content": "\n\nNow if $R$ is large in comparison with the distance between the plates this result",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 13,
+            "type": "text",
+            "content": "will be seen, on an examination of the potential lines in Fig. XI, to be sensibly the",
+            "mathpix_content": " will be seen, on an examination of the potential lines in Fig. XI, to be sensibly the",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 14,
+            "type": "text",
+            "content": "same as",
+            "mathpix_content": " same as",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 17,
+            "type": "text",
+            "content": "The total surface distribution if we include both sides of the disk is",
+            "mathpix_content": "\n\nThe total surface distribution if we include both sides of the disk is",
+            "font_size": 21,
+            "confidence": 0.9013671875
+          },
+          {
+            "page": 342,
+            "line_number": 25,
+            "type": "text",
+            "content": "To evaluate the latter integral put",
+            "mathpix_content": "\n\nTo evaluate the latter integral put",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 28,
+            "type": "text",
+            "content": "we get approximately if $R / b$ is large",
+            "mathpix_content": "\nwe get approximately if $R / b$ is large",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 33,
+            "type": "text",
+            "content": "so that the quantity of electricity on the plate",
+            "mathpix_content": "\nso that the quantity of electricity on the plate",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 36,
+            "type": "text",
+            "content": "Since the difference of potential of the plates $=\\frac{\\pi}{2}$ and $B=\\pi b$, the capacity is",
+            "mathpix_content": "\n\nSince the difference of potential of the plates $=\\frac{\\pi}{2}$ and $B=\\pi b$, the capacity is",
+            "font_size": 21,
+            "confidence": 1.0
+          },
+          {
+            "page": 342,
+            "line_number": 39,
+            "type": "text",
+            "content": "a result which is less than that in the text by $28 B$ nearly.]",
+            "mathpix_content": "\na result which is less than that in the text by $28 B$ nearly.]",
+            "font_size": 21,
+            "confidence": 0.7235286616185022
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

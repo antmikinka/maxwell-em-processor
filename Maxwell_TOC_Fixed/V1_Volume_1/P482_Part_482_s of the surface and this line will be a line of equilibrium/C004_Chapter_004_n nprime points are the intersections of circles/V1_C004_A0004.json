@@ -1,0 +1,354 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "n n^{\\prime}$ points are the intersections of circles",
+  "title_safe": "n nprime points are the intersections of circles",
+  "page_start": 295,
+  "page_end": 295,
+  "content": {
+    "raw_text": "\n--- Page 295 ---\n260\nELECTRIC IMAGES.\n[167.\nIn order that such a system of spherical surfaces may exist,\nevery solid angle of the figure must be trihedral, and two of its\nangles must be right angles, and the third either a right angle\nor a submultiple of two right angles.\nHence the cases in which the number of images is finite\nare-\n(1) A single spherical surface or a plane.\n(2) Two planes, a sphere and a plane, or two spheres inter-\nsecting at an angle $\\frac{\\pi}{n}$.\n(3) These two surfaces with a third, which may be either plane\nor spherical, cutting both orthogonally.\n(4) These three surfaces with a fourth, plane or spherical,\ncutting the first two orthogonally and the third at an angle $\\frac{\\pi}{n^{\\prime}}$.\nOf these four surfaces one at least must be spherical.\nWe have already examined the first and second cases. In the\nfirst case we have a single image. In the second case we have\n$2 n-1$ images arranged in two series on a circle which passes\nthrough the influencing point and is orthogonal to both surfaces.\nIn the third case we have, besides these images and the in-\nfluencing point, their images with respect to the third surface,\nthat is, $4 n-1$ images in all besides the influencing point.\nIn the fourth case we first draw through the influencing point\na circle orthogonal to the first two surfaces, and determine on it\nthe positions and magnitudes of the $n$ negative images and the\n$n-1$ positive images. Then through each of these $2 n$ points,\nincluding the influencing point, we draw a circle orthogonal to\nthe third and fourth surfaces, and determine on it two series of\nimages, $n^{\\prime}$ in each series. We shall obtain in this way, besides\nthe influencing point, $2 n n^{\\prime}-1$ positive and $2 n n^{\\prime}$ negative\nimages. These $4 n n^{\\prime}$ points are the intersections of circles\nbelonging to the two systems of lines of curvature of a cyclide.\nIf each of these points is charged with the proper quantity of\nelectricity, the surface whose potential is zero will consist of\n$n+n^{\\prime}$ spheres, forming two series of which the successive spheres\nof the first set intersect at angles $\\frac{\\pi}{n}$, and those of the second set\nat angles $\\frac{\\pi}{n^{\\prime}}$, while every sphere of the first set is orthogonal to\nevery sphere of the second set.\n",
+    "mathpix_markdown": "\n--- Page 295 ---\n\n\nIn order that such a system of spherical surfaces may exist,\n every solid angle of the figure must be trihedral, and two of its\n angles must be right angles, and the third either a right angle\n or a submultiple of two right angles.\n\n\nHence the cases in which the number of images is finite\n are-\n\n(1) A single spherical surface or a plane.\n\n(2) Two planes, a sphere and a plane, or two spheres inter\nsecting at an angle $\\frac{\\pi}{n}$.\n\n(3) These two surfaces with a third, which may be either plane\n or spherical, cutting both orthogonally.\n\n(4) These three surfaces with a fourth, plane or spherical,\n cutting the first two orthogonally and the third at an angle $\\frac{\\pi}{n^{\\prime}}$.\n Of these four surfaces one at least must be spherical.\n\n\nWe have already examined the first and second cases. In the\n first case we have a single image. In the second case we have\n $2 n-1$ images arranged in two series on a circle which passes\n through the influencing point and is orthogonal to both surfaces.\n In the third case we have, besides these images and the in\nfluencing point, their images with respect to the third surface,\n that is, $4 n-1$ images in all besides the influencing point.\n\n\nIn the fourth case we first draw through the influencing point\n a circle orthogonal to the first two surfaces, and determine on it\n the positions and magnitudes of the $n$ negative images and the\n $n-1$ positive images. Then through each of these $2 n$ points,\n including the influencing point, we draw a circle orthogonal to\n the third and fourth surfaces, and determine on it two series of\n images, $n^{\\prime}$ in each series. We shall obtain in this way, besides\n the influencing point, $2 n n^{\\prime}-1$ positive and $2 n n^{\\prime}$ negative\n images. These $4 n n^{\\prime}$ points are the intersections of circles\n belonging to the two systems of lines of curvature of a cyclide.\n\n\nIf each of these points is charged with the proper quantity of\n electricity, the surface whose potential is zero will consist of\n $n+n^{\\prime}$ spheres, forming two series of which the successive spheres\n of the first set intersect at angles $\\frac{\\pi}{n}$, and those of the second set\n at angles $\\frac{\\pi}{n^{\\prime}}$, while every sphere of the first set is orthogonal to\n every sphere of the second set.\n",
+    "structured_lines": [
+      {
+        "page": 295,
+        "line_number": 4,
+        "type": "text",
+        "content": "In order that such a system of spherical surfaces may exist,",
+        "mathpix_content": "\n\nIn order that such a system of spherical surfaces may exist,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 5,
+        "type": "text",
+        "content": "every solid angle of the figure must be trihedral, and two of its",
+        "mathpix_content": " every solid angle of the figure must be trihedral, and two of its",
+        "font_size": 34,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 295,
+        "line_number": 6,
+        "type": "text",
+        "content": "angles must be right angles, and the third either a right angle",
+        "mathpix_content": " angles must be right angles, and the third either a right angle",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 7,
+        "type": "text",
+        "content": "or a submultiple of two right angles.",
+        "mathpix_content": " or a submultiple of two right angles.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 8,
+        "type": "text",
+        "content": "Hence the cases in which the number of images is finite",
+        "mathpix_content": "\n\nHence the cases in which the number of images is finite",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 9,
+        "type": "text",
+        "content": "are-",
+        "mathpix_content": " are-",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 10,
+        "type": "text",
+        "content": "(1) A single spherical surface or a plane.",
+        "mathpix_content": "\n(1) A single spherical surface or a plane.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 11,
+        "type": "text",
+        "content": "(2) Two planes, a sphere and a plane, or two spheres inter-",
+        "mathpix_content": "\n(2) Two planes, a sphere and a plane, or two spheres inter",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 12,
+        "type": "text",
+        "content": "secting at an angle $\\frac{\\pi}{n}$.",
+        "mathpix_content": "secting at an angle $\\frac{\\pi}{n}$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 13,
+        "type": "text",
+        "content": "(3) These two surfaces with a third, which may be either plane",
+        "mathpix_content": "\n(3) These two surfaces with a third, which may be either plane",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 14,
+        "type": "text",
+        "content": "or spherical, cutting both orthogonally.",
+        "mathpix_content": " or spherical, cutting both orthogonally.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 15,
+        "type": "text",
+        "content": "(4) These three surfaces with a fourth, plane or spherical,",
+        "mathpix_content": "\n(4) These three surfaces with a fourth, plane or spherical,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 16,
+        "type": "text",
+        "content": "cutting the first two orthogonally and the third at an angle $\\frac{\\pi}{n^{\\prime}}$.",
+        "mathpix_content": " cutting the first two orthogonally and the third at an angle $\\frac{\\pi}{n^{\\prime}}$.",
+        "font_size": 34,
+        "confidence": 0.9980475902557373
+      },
+      {
+        "page": 295,
+        "line_number": 17,
+        "type": "text",
+        "content": "Of these four surfaces one at least must be spherical.",
+        "mathpix_content": " Of these four surfaces one at least must be spherical.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 18,
+        "type": "text",
+        "content": "We have already examined the first and second cases. In the",
+        "mathpix_content": "\n\nWe have already examined the first and second cases. In the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 19,
+        "type": "text",
+        "content": "first case we have a single image. In the second case we have",
+        "mathpix_content": " first case we have a single image. In the second case we have",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 20,
+        "type": "text",
+        "content": "$2 n-1$ images arranged in two series on a circle which passes",
+        "mathpix_content": " $2 n-1$ images arranged in two series on a circle which passes",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 21,
+        "type": "text",
+        "content": "through the influencing point and is orthogonal to both surfaces.",
+        "mathpix_content": " through the influencing point and is orthogonal to both surfaces.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 22,
+        "type": "text",
+        "content": "In the third case we have, besides these images and the in-",
+        "mathpix_content": " In the third case we have, besides these images and the in",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 295,
+        "line_number": 23,
+        "type": "text",
+        "content": "fluencing point, their images with respect to the third surface,",
+        "mathpix_content": "fluencing point, their images with respect to the third surface,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 24,
+        "type": "text",
+        "content": "that is, $4 n-1$ images in all besides the influencing point.",
+        "mathpix_content": " that is, $4 n-1$ images in all besides the influencing point.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 25,
+        "type": "text",
+        "content": "In the fourth case we first draw through the influencing point",
+        "mathpix_content": "\n\nIn the fourth case we first draw through the influencing point",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 26,
+        "type": "text",
+        "content": "a circle orthogonal to the first two surfaces, and determine on it",
+        "mathpix_content": " a circle orthogonal to the first two surfaces, and determine on it",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 27,
+        "type": "text",
+        "content": "the positions and magnitudes of the $n$ negative images and the",
+        "mathpix_content": " the positions and magnitudes of the $n$ negative images and the",
+        "font_size": 34,
+        "confidence": 0.9755859375
+      },
+      {
+        "page": 295,
+        "line_number": 28,
+        "type": "text",
+        "content": "$n-1$ positive images. Then through each of these $2 n$ points,",
+        "mathpix_content": " $n-1$ positive images. Then through each of these $2 n$ points,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 29,
+        "type": "text",
+        "content": "including the influencing point, we draw a circle orthogonal to",
+        "mathpix_content": " including the influencing point, we draw a circle orthogonal to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 30,
+        "type": "text",
+        "content": "the third and fourth surfaces, and determine on it two series of",
+        "mathpix_content": " the third and fourth surfaces, and determine on it two series of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 31,
+        "type": "text",
+        "content": "images, $n^{\\prime}$ in each series. We shall obtain in this way, besides",
+        "mathpix_content": " images, $n^{\\prime}$ in each series. We shall obtain in this way, besides",
+        "font_size": 34,
+        "confidence": 0.9921875
+      },
+      {
+        "page": 295,
+        "line_number": 32,
+        "type": "text",
+        "content": "the influencing point, $2 n n^{\\prime}-1$ positive and $2 n n^{\\prime}$ negative",
+        "mathpix_content": " the influencing point, $2 n n^{\\prime}-1$ positive and $2 n n^{\\prime}$ negative",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 33,
+        "type": "text",
+        "content": "images. These $4 n n^{\\prime}$ points are the intersections of circles",
+        "mathpix_content": " images. These $4 n n^{\\prime}$ points are the intersections of circles",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 34,
+        "type": "text",
+        "content": "belonging to the two systems of lines of curvature of a cyclide.",
+        "mathpix_content": " belonging to the two systems of lines of curvature of a cyclide.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 35,
+        "type": "text",
+        "content": "If each of these points is charged with the proper quantity of",
+        "mathpix_content": "\n\nIf each of these points is charged with the proper quantity of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 36,
+        "type": "text",
+        "content": "electricity, the surface whose potential is zero will consist of",
+        "mathpix_content": " electricity, the surface whose potential is zero will consist of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 37,
+        "type": "text",
+        "content": "$n+n^{\\prime}$ spheres, forming two series of which the successive spheres",
+        "mathpix_content": " $n+n^{\\prime}$ spheres, forming two series of which the successive spheres",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 38,
+        "type": "text",
+        "content": "of the first set intersect at angles $\\frac{\\pi}{n}$, and those of the second set",
+        "mathpix_content": " of the first set intersect at angles $\\frac{\\pi}{n}$, and those of the second set",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 39,
+        "type": "text",
+        "content": "at angles $\\frac{\\pi}{n^{\\prime}}$, while every sphere of the first set is orthogonal to",
+        "mathpix_content": " at angles $\\frac{\\pi}{n^{\\prime}}$, while every sphere of the first set is orthogonal to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 295,
+        "line_number": 40,
+        "type": "text",
+        "content": "every sphere of the second set.",
+        "mathpix_content": " every sphere of the second set.",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

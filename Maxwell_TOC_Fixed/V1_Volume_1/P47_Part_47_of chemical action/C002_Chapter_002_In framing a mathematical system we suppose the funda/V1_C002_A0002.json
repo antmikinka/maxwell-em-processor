@@ -1,0 +1,282 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": ".] In framing a mathematical system we suppose the funda",
+  "title_safe": "In framing a mathematical system we suppose the funda",
+  "page_start": 36,
+  "page_end": 36,
+  "content": {
+    "raw_text": "\n--- Page 36 ---\n\nELECTRICITY AND MAGNETISM.\n\nPRELIMINARY.\n\nON THE MEASUREMENT OF QUANTITIES.\n1.] Every expression of a Quantity consists of two factors or\ncomponents. One of these is the name of a certain known quan-\ntity of the same kind as the quantity to be expressed, which is\ntaken as a standard of reference. The other component is the\nnumber of times the standard is to be taken in order to make up\nthe required quantity. The standard quantity is technically\ncalled the Unit, and the number is called the Numerical Value\nof the quantity.\nThere must be as many different units as there are different\nkinds of quantities to be measured, but in all dynamical sciences\nit is possible to define these units in terms of the three funda-\nmental units of Length, Time, and Mass. Thus the units of area\nand of volume are defined respectively as the square and the\ncube whose sides are the unit of length.\nSometimes, however, we find several units of the same kind\nfounded on independent considerations. Thus the gallon, or the\nvolume of ten pounds of water, is used as a unit of capacity as\nwell as the cubic foot. The gallon may be a convenient measure\nin some cases, but it is not a systematic one, since its numerical\nrelation to the cubic foot is not a round integral number.\n2.] In framing a mathematical system we suppose the funda-\nmental units of length, time, and mass to be given, and deduce\nall the derivative units from these by the simplest attainable\ndefinitions.\nThe formulae at which we arrive must be such that a person\nof any nation, by substituting for the different symbols the\nVOL. I.\nB\n",
+    "mathpix_markdown": "\n--- Page 36 ---\n\n\n\\section*{ELECTRICITY AND MAGNETISM.}\n\n\n\\section*{PRELIMINARY.}\n\n\n\\section*{ON THE MEASUREMENT OF QUANTITIES.}\n\n1.] Every expression of a Quantity consists of two factors or\n components. One of these is the name of a certain known quan\ntity of the same kind as the quantity to be expressed, which is\n taken as a standard of reference. The other component is the\n number of times the standard is to be taken in order to make up\n the required quantity. The standard quantity is technically\n called the Unit, and the number is called the Numerical Value\n of the quantity.\n\n\nThere must be as many different units as there are different\n kinds of quantities to be measured, but in all dynamical sciences\n it is possible to define these units in terms of the three funda\nmental units of Length, Time, and Mass. Thus the units of area\n and of volume are defined respectively as the square and the\n cube whose sides are the unit of length.\n\n\nSometimes, however, we find several units of the same kind\n founded on independent considerations. Thus the gallon, or the\n volume of ten pounds of water, is used as a unit of capacity as\n well as the cubic foot. The gallon may be a convenient measure\n in some cases, but it is not a systematic one, since its numerical\n relation to the cubic foot is not a round integral number.\n\n2.] In framing a mathematical system we suppose the funda\nmental units of length, time, and mass to be given, and deduce\n all the derivative units from these by the simplest attainable\n definitions.\n\n\nThe formulae at which we arrive must be such that a person\n of any nation, by substituting for the different symbols the\n",
+    "structured_lines": [
+      {
+        "page": 36,
+        "line_number": 2,
+        "type": "text",
+        "content": "ELECTRICITY AND MAGNETISM.",
+        "mathpix_content": "\n\n\\section*{ELECTRICITY AND MAGNETISM.}",
+        "font_size": 43,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 4,
+        "type": "text",
+        "content": "PRELIMINARY.",
+        "mathpix_content": "\n\n\\section*{PRELIMINARY.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 6,
+        "type": "text",
+        "content": "ON THE MEASUREMENT OF QUANTITIES.",
+        "mathpix_content": "\n\n\\section*{ON THE MEASUREMENT OF QUANTITIES.}",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 7,
+        "type": "text",
+        "content": "1.] Every expression of a Quantity consists of two factors or",
+        "mathpix_content": "\n1.] Every expression of a Quantity consists of two factors or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 8,
+        "type": "text",
+        "content": "components. One of these is the name of a certain known quan-",
+        "mathpix_content": " components. One of these is the name of a certain known quan",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 9,
+        "type": "text",
+        "content": "tity of the same kind as the quantity to be expressed, which is",
+        "mathpix_content": "tity of the same kind as the quantity to be expressed, which is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 10,
+        "type": "text",
+        "content": "taken as a standard of reference. The other component is the",
+        "mathpix_content": " taken as a standard of reference. The other component is the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 36,
+        "line_number": 11,
+        "type": "text",
+        "content": "number of times the standard is to be taken in order to make up",
+        "mathpix_content": " number of times the standard is to be taken in order to make up",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 12,
+        "type": "text",
+        "content": "the required quantity. The standard quantity is technically",
+        "mathpix_content": " the required quantity. The standard quantity is technically",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 13,
+        "type": "text",
+        "content": "called the Unit, and the number is called the Numerical Value",
+        "mathpix_content": " called the Unit, and the number is called the Numerical Value",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 14,
+        "type": "text",
+        "content": "of the quantity.",
+        "mathpix_content": " of the quantity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 15,
+        "type": "text",
+        "content": "There must be as many different units as there are different",
+        "mathpix_content": "\n\nThere must be as many different units as there are different",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 16,
+        "type": "text",
+        "content": "kinds of quantities to be measured, but in all dynamical sciences",
+        "mathpix_content": " kinds of quantities to be measured, but in all dynamical sciences",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 17,
+        "type": "text",
+        "content": "it is possible to define these units in terms of the three funda-",
+        "mathpix_content": " it is possible to define these units in terms of the three funda",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 18,
+        "type": "text",
+        "content": "mental units of Length, Time, and Mass. Thus the units of area",
+        "mathpix_content": "mental units of Length, Time, and Mass. Thus the units of area",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 36,
+        "line_number": 19,
+        "type": "text",
+        "content": "and of volume are defined respectively as the square and the",
+        "mathpix_content": " and of volume are defined respectively as the square and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 20,
+        "type": "text",
+        "content": "cube whose sides are the unit of length.",
+        "mathpix_content": " cube whose sides are the unit of length.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 21,
+        "type": "text",
+        "content": "Sometimes, however, we find several units of the same kind",
+        "mathpix_content": "\n\nSometimes, however, we find several units of the same kind",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 22,
+        "type": "text",
+        "content": "founded on independent considerations. Thus the gallon, or the",
+        "mathpix_content": " founded on independent considerations. Thus the gallon, or the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 23,
+        "type": "text",
+        "content": "volume of ten pounds of water, is used as a unit of capacity as",
+        "mathpix_content": " volume of ten pounds of water, is used as a unit of capacity as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 24,
+        "type": "text",
+        "content": "well as the cubic foot. The gallon may be a convenient measure",
+        "mathpix_content": " well as the cubic foot. The gallon may be a convenient measure",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 25,
+        "type": "text",
+        "content": "in some cases, but it is not a systematic one, since its numerical",
+        "mathpix_content": " in some cases, but it is not a systematic one, since its numerical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 26,
+        "type": "text",
+        "content": "relation to the cubic foot is not a round integral number.",
+        "mathpix_content": " relation to the cubic foot is not a round integral number.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 27,
+        "type": "text",
+        "content": "2.] In framing a mathematical system we suppose the funda-",
+        "mathpix_content": "\n2.] In framing a mathematical system we suppose the funda",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 36,
+        "line_number": 28,
+        "type": "text",
+        "content": "mental units of length, time, and mass to be given, and deduce",
+        "mathpix_content": "mental units of length, time, and mass to be given, and deduce",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 29,
+        "type": "text",
+        "content": "all the derivative units from these by the simplest attainable",
+        "mathpix_content": " all the derivative units from these by the simplest attainable",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 30,
+        "type": "text",
+        "content": "definitions.",
+        "mathpix_content": " definitions.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 36,
+        "line_number": 31,
+        "type": "text",
+        "content": "The formulae at which we arrive must be such that a person",
+        "mathpix_content": "\n\nThe formulae at which we arrive must be such that a person",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 36,
+        "line_number": 32,
+        "type": "text",
+        "content": "of any nation, by substituting for the different symbols the",
+        "mathpix_content": " of any nation, by substituting for the different symbols the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

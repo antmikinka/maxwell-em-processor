@@ -1,0 +1,228 @@
+{
+  "article_id": "article_1853",
+  "article_number": 1853,
+  "title_original": "4, p. 165.",
+  "title_safe": "4 p. 165",
+  "page_start": 455,
+  "page_end": 455,
+  "content": {
+    "raw_text": "\n--- Page 455 ---\n420\nRESISTANCE AND CONDUCTIVITY.\n[300.\nof the electromotive intensity. We thus obtain the following ex-\npressions for $W$, the quantity of work expended in unit of time:\n$$\\begin{aligned}\nW & =X u+Y v+Z w ; \\\\\n& =R_{1} u^{2}+R_{2} v^{2}+R_{3} w^{2}+\\left(P_{1}+Q_{1}\\right) v w+\\left(P_{2}+Q_{2}\\right) w u+\\left(P_{3}+Q_{3}\\right) u v ; \\\\\n& =r_{1} X^{2}+r_{2} Y^{2}+r_{3} Z^{2}+\\left(p_{1}+q_{1}\\right) Y Z+\\left(p_{2}+q_{2}\\right) Z X+\\left(p_{3}+q_{3}\\right) X Y .\n\\end{aligned}$$\n(8)\n(9)\n(10)\nBy a proper choice of axes, (9) may be deprived of the terms\ninvolving the products of $u, v, w$ or else (10) of those involving\nthe products of $X, Y, Z$. The system of axes, however, which\nreduces $W$ to the form\n$$R_{1} u^{2}+R_{2} v^{2}+R_{3} w^{2}$$\nis not in general the same as that which reduces it to the form\n$$r_{1} X^{2}+r_{2} Y^{2}+r_{3} Z^{2}$$\nIt is only when the coefficients $P_{1}, P_{2}, P_{3}$ are equal respectively\nto $Q_{1}, Q_{2}, Q_{3}$ that the two systems of axes coincide.\nIf with Thomson * we write\nand\n$$\\left.\\begin{array}{rlr}\nP=S+T, & Q=S-T ; \\\\\np=s+t, & q=s-t ;\n\\end{array}\\right\\}$$\n(11)\nthen we have\n$$\\left.\\begin{array}{l}\n{[P Q R]=R_{1} R_{2} R_{3}+2 S_{1} S_{2} S_{3}-S_{1}^{2} R_{1}-S_{2}^{2} R_{2}-S_{3}^{2} R_{3}} \\\\\n\\quad+2\\left(S_{1} T_{2} T_{3}+S_{2} T_{3} T_{1}+S_{3} T_{1} T_{2}\\right)+R_{1} T_{1}^{2}+R_{2} T_{2}^{2}+R_{3} T_{3}^{2}\n\\end{array}\\right\\}$$\n(12)\nand\n$$\\left.\\begin{array}{l}\n{[P Q R] r_{1}=R_{2} R_{3}-S_{1}^{2}+T_{1}^{2},} \\\\\n{[P Q R] s_{1}=T_{2} T_{3}+S_{2} S_{3}-R_{1} S_{1},} \\\\\n{[P Q R] t_{1}=R_{1} T_{1}+S_{2} T_{3}+S_{3} T_{2} .}\n\\end{array}\\right\\}$$\n(13)\nIf therefore we cause $S_{1}, S_{2}, S_{3}$ to disappear, the coefficients 8\nwill not also disappear unless the coefficients $T$ are zero.\n\nCondition of Stability.\n300.] Since the equilibrium of electricity is stable, the work\nspent in maintaining the current must always be positive. The\nconditions that $W$ must be positive are that the three coefficients\n$R_{1}, R_{2}, R_{3}$, and the three expressions\n$$\\left.\\begin{array}{l}\n4 R_{2} R_{3}-\\left(P_{1}+Q_{1}\\right)^{2}, \\\\\n4 R_{3} R_{1}-\\left(P_{2}+Q_{2}\\right)^{2}, \\\\\n4 R_{1} R_{2}-\\left(F_{3}+Q_{3}\\right)^{2},\n\\end{array}\\right\\}$$\n(14)\nmust all be positive.\nThere are similar conditions for the coefficients of conductivity.\n\n* Trans. R. S. Edin., 1853-4, p. 165.\n",
+    "mathpix_markdown": "\n--- Page 455 ---\n\nof the electromotive intensity. We thus obtain the following ex\npressions for $W$, the quantity of work expended in unit of time:\n\n$$\\begin{align*}\nW & =X u+Y v+Z w ;  \\tag{8}\\\\\n& =R_{1} u^{2}+R_{2} v^{2}+R_{3} w^{2}+\\left(P_{1}+Q_{1}\\right) v w+\\left(P_{2}+Q_{2}\\right) w u+\\left(P_{3}+Q_{3}\\right) u v ;  \\tag{9}\\\\\n& =r_{1} X^{2}+r_{2} Y^{2}+r_{3} Z^{2}+\\left(p_{1}+q_{1}\\right) Y Z+\\left(p_{2}+q_{2}\\right) Z X+\\left(p_{3}+q_{3}\\right) X Y . \\tag{10}\n\\end{align*}$$\n\n\nBy a proper choice of axes, (9) may be deprived of the terms\n involving the products of $u, v, w$ or else (10) of those involving\n the products of $X, Y, Z$. The system of axes, however, which\n reduces $W$ to the form\n\n$$R_{1} u^{2}+R_{2} v^{2}+R_{3} w^{2}$$\n\nis not in general the same as that which reduces it to the form\n\n$$r_{1} X^{2}+r_{2} Y^{2}+r_{3} Z^{2}$$\n\n\nIt is only when the coefficients $P_{1}, P_{2}, P_{3}$ are equal respectively\n to $Q_{1}, Q_{2}, Q_{3}$ that the two systems of axes coincide.\n\n\nIf with Thomson * we write\n\nand\n\n$$\\left.\\begin{array}{rlr}\nP=S+T, & Q=S-T ;  \\tag{11}\\\\\np=s+t, & q=s-t ;\n\\end{array}\\right\\}$$\n\nthen we have\n\n$$\\left.\\begin{array}{l}\n{[P Q R]=R_{1} R_{2} R_{3}+2 S_{1} S_{2} S_{3}-S_{1}^{2} R_{1}-S_{2}^{2} R_{2}-S_{3}^{2} R_{3}}  \\tag{12}\\\\\n\\quad+2\\left(S_{1} T_{2} T_{3}+S_{2} T_{3} T_{1}+S_{3} T_{1} T_{2}\\right)+R_{1} T_{1}^{2}+R_{2} T_{2}^{2}+R_{3} T_{3}^{2}\n\\end{array}\\right\\}$$\n\nand\n\n$$\\left.\\begin{array}{l}\n{[P Q R] r_{1}=R_{2} R_{3}-S_{1}^{2}+T_{1}^{2},}  \\tag{13}\\\\\n{[P Q R] s_{1}=T_{2} T_{3}+S_{2} S_{3}-R_{1} S_{1},} \\\\\n{[P Q R] t_{1}=R_{1} T_{1}+S_{2} T_{3}+S_{3} T_{2} .}\n\\end{array}\\right\\}$$\n\n\nIf therefore we cause $S_{1}, S_{2}, S_{3}$ to disappear, the coefficients 8\n will not also disappear unless the coefficients $T$ are zero.\n\n\n\\section*{Condition of Stability.}\n\n300.] Since the equilibrium of electricity is stable, the work\n spent in maintaining the current must always be positive. The\n conditions that $W$ must be positive are that the three coefficients\n $R_{1}, R_{2}, R_{3}$, and the three expressions\n\n$$\\left.\\begin{array}{l}\n4 R_{2} R_{3}-\\left(P_{1}+Q_{1}\\right)^{2},  \\tag{14}\\\\\n4 R_{3} R_{1}-\\left(P_{2}+Q_{2}\\right)^{2}, \\\\\n4 R_{1} R_{2}-\\left(F_{3}+Q_{3}\\right)^{2},\n\\end{array}\\right\\}$$\n\nmust all be positive.\n\nThere are similar conditions for the coefficients of conductivity.\n\n\n\\footnotetext{\n* Trans. R. S. Edin., 1853-4, p. 165.\n}\n",
+    "structured_lines": [
+      {
+        "page": 455,
+        "line_number": 4,
+        "type": "text",
+        "content": "of the electromotive intensity. We thus obtain the following ex-",
+        "mathpix_content": "\nof the electromotive intensity. We thus obtain the following ex",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 5,
+        "type": "text",
+        "content": "pressions for $W$, the quantity of work expended in unit of time:",
+        "mathpix_content": "pressions for $W$, the quantity of work expended in unit of time:",
+        "font_size": 27,
+        "confidence": 0.5234375
+      },
+      {
+        "page": 455,
+        "line_number": 13,
+        "type": "text",
+        "content": "By a proper choice of axes, (9) may be deprived of the terms",
+        "mathpix_content": "\n\nBy a proper choice of axes, (9) may be deprived of the terms",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 14,
+        "type": "text",
+        "content": "involving the products of $u, v, w$ or else (10) of those involving",
+        "mathpix_content": " involving the products of $u, v, w$ or else (10) of those involving",
+        "font_size": 27,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 455,
+        "line_number": 15,
+        "type": "text",
+        "content": "the products of $X, Y, Z$. The system of axes, however, which",
+        "mathpix_content": " the products of $X, Y, Z$. The system of axes, however, which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 16,
+        "type": "text",
+        "content": "reduces $W$ to the form",
+        "mathpix_content": " reduces $W$ to the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 19,
+        "type": "text",
+        "content": "is not in general the same as that which reduces it to the form",
+        "mathpix_content": "\nis not in general the same as that which reduces it to the form",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 22,
+        "type": "text",
+        "content": "It is only when the coefficients $P_{1}, P_{2}, P_{3}$ are equal respectively",
+        "mathpix_content": "\n\nIt is only when the coefficients $P_{1}, P_{2}, P_{3}$ are equal respectively",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 23,
+        "type": "text",
+        "content": "to $Q_{1}, Q_{2}, Q_{3}$ that the two systems of axes coincide.",
+        "mathpix_content": " to $Q_{1}, Q_{2}, Q_{3}$ that the two systems of axes coincide.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 24,
+        "type": "text",
+        "content": "If with Thomson * we write",
+        "mathpix_content": "\n\nIf with Thomson * we write",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 455,
+        "line_number": 25,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 30,
+        "type": "text",
+        "content": "then we have",
+        "mathpix_content": "\nthen we have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 34,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 38,
+        "type": "text",
+        "content": "If therefore we cause $S_{1}, S_{2}, S_{3}$ to disappear, the coefficients 8",
+        "mathpix_content": "\n\nIf therefore we cause $S_{1}, S_{2}, S_{3}$ to disappear, the coefficients 8",
+        "font_size": 27,
+        "confidence": 0.6783795356750488
+      },
+      {
+        "page": 455,
+        "line_number": 39,
+        "type": "text",
+        "content": "will not also disappear unless the coefficients $T$ are zero.",
+        "mathpix_content": " will not also disappear unless the coefficients $T$ are zero.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 41,
+        "type": "text",
+        "content": "Condition of Stability.",
+        "mathpix_content": "\n\n\\section*{Condition of Stability.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 42,
+        "type": "text",
+        "content": "300.] Since the equilibrium of electricity is stable, the work",
+        "mathpix_content": "\n300.] Since the equilibrium of electricity is stable, the work",
+        "font_size": 27,
+        "confidence": 0.97412109375
+      },
+      {
+        "page": 455,
+        "line_number": 43,
+        "type": "text",
+        "content": "spent in maintaining the current must always be positive. The",
+        "mathpix_content": " spent in maintaining the current must always be positive. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 44,
+        "type": "text",
+        "content": "conditions that $W$ must be positive are that the three coefficients",
+        "mathpix_content": " conditions that $W$ must be positive are that the three coefficients",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 45,
+        "type": "text",
+        "content": "$R_{1}, R_{2}, R_{3}$, and the three expressions",
+        "mathpix_content": " $R_{1}, R_{2}, R_{3}$, and the three expressions",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 49,
+        "type": "text",
+        "content": "must all be positive.",
+        "mathpix_content": "\nmust all be positive.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 50,
+        "type": "text",
+        "content": "There are similar conditions for the coefficients of conductivity.",
+        "mathpix_content": "\nThere are similar conditions for the coefficients of conductivity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 455,
+        "line_number": 52,
+        "type": "text",
+        "content": "* Trans. R. S. Edin., 1853-4, p. 165.",
+        "mathpix_content": "\n\n\\footnotetext{\n* Trans. R. S. Edin., 1853-4, p. 165.\n}",
+        "font_size": 21,
+        "confidence": 0.46197843002863115
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

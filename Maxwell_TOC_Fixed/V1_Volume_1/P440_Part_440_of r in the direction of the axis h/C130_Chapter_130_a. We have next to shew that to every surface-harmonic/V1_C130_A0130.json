@@ -1,0 +1,309 @@
+{
+  "article_id": "article_130",
+  "article_number": 130,
+  "title_original": "a$.] We have next to shew that to every surface-harmonic",
+  "title_safe": "a. We have next to shew that to every surface-harmonic",
+  "page_start": 232,
+  "page_end": 232,
+  "content": {
+    "raw_text": "\n--- Page 232 ---\n$130 a$.] SOLID HARMONIC OF POSITIVE DEGREE.\n197\nwhose moment is $A_{1}$, and then diminishing $h_{2}$ and increasing $A_{1}$,\nso that\n$$A_{1} h_{2}=\\frac{1}{2} A_{2},$$\n(11)\nwe obtain a point of the second order, whose potential is\n$$\\begin{aligned}\nV_{2} & =-h_{2} \\frac{d}{d l_{2}} V_{1} \\\\\n& =A_{2} \\frac{1}{2} \\frac{3 \\mu_{1} \\mu_{2}-\\lambda_{12}}{q^{3}}\n\\end{aligned}$$\n(12)\nWe may call a point of the second order a quadruple point\nbecause it is constructed by making four points of order zero\napproach each other. It has two axes $h_{1}$ and $h_{2}$ and a moment\n$A_{2}$. The directions of these axes and the magnitude of the\nmoment completely define the nature of the point.\nBy differentiating with respect to $n$ axes in succession we\nobtain the potential due to a point of the $n^{\\text {th }}$ order. It will be\nthe product of three factors, a constant, a certain combination of\ncosines, and $r^{-(n+1)}$. It is convenient, for reasons which will\nappear as we go on, to make the numerical value of the constant\nsuch that when all the axes coincide with the vector, the co-\nefficient of the moment is $r^{-(n+1)}$. We therefore divide by $n$\nwhen we differentiate with respect to $h_{n}$.\nIn this way we obtain a definite numerical value for a par-\nticular potential, to which we restrict the name of The Solid\nHarmonic of degree $-(n+1)$, namely\n$$V_{n}=(-1)^{n} \\frac{1}{1 \\cdot 2 \\cdot 3 \\ldots n} \\frac{d}{d h_{1}} \\cdot \\frac{d}{d h_{2}} \\cdots \\frac{d}{d h_{n}} \\cdot \\frac{1}{r} .$$\n(13)\nIf this quantity is multiplied by a constant it is still the\npotential due to a certain point of the $n^{\\text {th }}$ order.\n$129 d$.] The result of the operation (13) is of the form\n$$V_{n}=Y_{n} r^{-(n+1)},$$\n(14)\nwhere $Y_{n}$ is a function of the $n$ cosines $\\mu_{1} \\ldots \\mu_{n}$ of the angles\nbetween $r$ and the $n$ axes, and of the $\\frac{1}{2} n(n-1)$ cosines $\\lambda_{12}$, \\&c.\nof the angles between pairs of the axes.\nIf we consider the directions of $r$ and the $n$ axes as determined\nby points on a spherical surface, we may regard $Y_{n}$ as a quantity\nvarying from point to point on that surface, being a function of the\n$\\frac{1}{2} n(n+1)$ distances between the $n$ poles of the axes and the pole\nof the vector. We therefore call $Y_{n}$ The Surface Harmonic of\norder $n$.\n$130 a$.] We have next to shew that to every surface-harmonic\n",
+    "mathpix_markdown": "\n--- Page 232 ---\n\nwhose moment is $A_{1}$, and then diminishing $h_{2}$ and increasing $A_{1}$,\n so that\n\n$$\\begin{equation*}\nA_{1} h_{2}=\\frac{1}{2} A_{2}, \\tag{11}\n\\end{equation*}$$\n\nwe obtain a point of the second order, whose potential is\n\n$$\\begin{align*}\nV_{2} & =-h_{2} \\frac{d}{d l_{2}} V_{1} \\\\\n& =A_{2} \\frac{1}{2} \\frac{3 \\mu_{1} \\mu_{2}-\\lambda_{12}}{q^{3}} \\tag{12}\n\\end{align*}$$\n\n\nWe may call a point of the second order a quadruple point\n because it is constructed by making four points of order zero\n approach each other. It has two axes $h_{1}$ and $h_{2}$ and a moment\n $A_{2}$. The directions of these axes and the magnitude of the\n moment completely define the nature of the point.\n\n\nBy differentiating with respect to $n$ axes in succession we\n obtain the potential due to a point of the $n^{\\text {th }}$ order. It will be\n the product of three factors, a constant, a certain combination of\n cosines, and $r^{-(n+1)}$. It is convenient, for reasons which will\n appear as we go on, to make the numerical value of the constant\n such that when all the axes coincide with the vector, the co\nefficient of the moment is $r^{-(n+1)}$. We therefore divide by $n$\n when we differentiate with respect to $h_{n}$.\n\n\nIn this way we obtain a definite numerical value for a par\nticular potential, to which we restrict the name of The Solid\n Harmonic of degree $-(n+1)$, namely\n\n$$\\begin{equation*}\nV_{n}=(-1)^{n} \\frac{1}{1 \\cdot 2 \\cdot 3 \\ldots n} \\frac{d}{d h_{1}} \\cdot \\frac{d}{d h_{2}} \\cdots \\frac{d}{d h_{n}} \\cdot \\frac{1}{r} . \\tag{13}\n\\end{equation*}$$\n\n\nIf this quantity is multiplied by a constant it is still the\n potential due to a certain point of the $n^{\\text {th }}$ order.\n\n$129 d$.] The result of the operation (13) is of the form\n\n$$\\begin{equation*}\nV_{n}=Y_{n} r^{-(n+1)}, \\tag{14}\n\\end{equation*}$$\n\nwhere $Y_{n}$ is a function of the $n$ cosines $\\mu_{1} \\ldots \\mu_{n}$ of the angles\n between $r$ and the $n$ axes, and of the $\\frac{1}{2} n(n-1)$ cosines $\\lambda_{12}$, \\&c.\n of the angles between pairs of the axes.\n\n\nIf we consider the directions of $r$ and the $n$ axes as determined\n by points on a spherical surface, we may regard $Y_{n}$ as a quantity\n varying from point to point on that surface, being a function of the\n $\\frac{1}{2} n(n+1)$ distances between the $n$ poles of the axes and the pole\n of the vector. We therefore call $Y_{n}$ The Surface Harmonic of\n order $n$.\n\n$130 a$.] We have next to shew that to every surface-harmonic\n",
+    "structured_lines": [
+      {
+        "page": 232,
+        "line_number": 3,
+        "type": "text",
+        "content": "whose moment is $A_{1}$, and then diminishing $h_{2}$ and increasing $A_{1}$,",
+        "mathpix_content": "\nwhose moment is $A_{1}$, and then diminishing $h_{2}$ and increasing $A_{1}$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 4,
+        "type": "text",
+        "content": "so that",
+        "mathpix_content": " so that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 8,
+        "type": "text",
+        "content": "we obtain a point of the second order, whose potential is",
+        "mathpix_content": "\nwe obtain a point of the second order, whose potential is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 13,
+        "type": "text",
+        "content": "We may call a point of the second order a quadruple point",
+        "mathpix_content": "\n\nWe may call a point of the second order a quadruple point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 14,
+        "type": "text",
+        "content": "because it is constructed by making four points of order zero",
+        "mathpix_content": " because it is constructed by making four points of order zero",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 15,
+        "type": "text",
+        "content": "approach each other. It has two axes $h_{1}$ and $h_{2}$ and a moment",
+        "mathpix_content": " approach each other. It has two axes $h_{1}$ and $h_{2}$ and a moment",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 232,
+        "line_number": 16,
+        "type": "text",
+        "content": "$A_{2}$. The directions of these axes and the magnitude of the",
+        "mathpix_content": " $A_{2}$. The directions of these axes and the magnitude of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 17,
+        "type": "text",
+        "content": "moment completely define the nature of the point.",
+        "mathpix_content": " moment completely define the nature of the point.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 18,
+        "type": "text",
+        "content": "By differentiating with respect to $n$ axes in succession we",
+        "mathpix_content": "\n\nBy differentiating with respect to $n$ axes in succession we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 19,
+        "type": "text",
+        "content": "obtain the potential due to a point of the $n^{\\text {th }}$ order. It will be",
+        "mathpix_content": " obtain the potential due to a point of the $n^{\\text {th }}$ order. It will be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 20,
+        "type": "text",
+        "content": "the product of three factors, a constant, a certain combination of",
+        "mathpix_content": " the product of three factors, a constant, a certain combination of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 21,
+        "type": "text",
+        "content": "cosines, and $r^{-(n+1)}$. It is convenient, for reasons which will",
+        "mathpix_content": " cosines, and $r^{-(n+1)}$. It is convenient, for reasons which will",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 22,
+        "type": "text",
+        "content": "appear as we go on, to make the numerical value of the constant",
+        "mathpix_content": " appear as we go on, to make the numerical value of the constant",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 23,
+        "type": "text",
+        "content": "such that when all the axes coincide with the vector, the co-",
+        "mathpix_content": " such that when all the axes coincide with the vector, the co",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 24,
+        "type": "text",
+        "content": "efficient of the moment is $r^{-(n+1)}$. We therefore divide by $n$",
+        "mathpix_content": "efficient of the moment is $r^{-(n+1)}$. We therefore divide by $n$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 25,
+        "type": "text",
+        "content": "when we differentiate with respect to $h_{n}$.",
+        "mathpix_content": " when we differentiate with respect to $h_{n}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 26,
+        "type": "text",
+        "content": "In this way we obtain a definite numerical value for a par-",
+        "mathpix_content": "\n\nIn this way we obtain a definite numerical value for a par",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 27,
+        "type": "text",
+        "content": "ticular potential, to which we restrict the name of The Solid",
+        "mathpix_content": "ticular potential, to which we restrict the name of The Solid",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 28,
+        "type": "text",
+        "content": "Harmonic of degree $-(n+1)$, namely",
+        "mathpix_content": " Harmonic of degree $-(n+1)$, namely",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 232,
+        "line_number": 32,
+        "type": "text",
+        "content": "If this quantity is multiplied by a constant it is still the",
+        "mathpix_content": "\n\nIf this quantity is multiplied by a constant it is still the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 33,
+        "type": "text",
+        "content": "potential due to a certain point of the $n^{\\text {th }}$ order.",
+        "mathpix_content": " potential due to a certain point of the $n^{\\text {th }}$ order.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 34,
+        "type": "text",
+        "content": "$129 d$.] The result of the operation (13) is of the form",
+        "mathpix_content": "\n$129 d$.] The result of the operation (13) is of the form",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 232,
+        "line_number": 38,
+        "type": "text",
+        "content": "where $Y_{n}$ is a function of the $n$ cosines $\\mu_{1} \\ldots \\mu_{n}$ of the angles",
+        "mathpix_content": "\nwhere $Y_{n}$ is a function of the $n$ cosines $\\mu_{1} \\ldots \\mu_{n}$ of the angles",
+        "font_size": 27,
+        "confidence": 0.9975605006329715
+      },
+      {
+        "page": 232,
+        "line_number": 39,
+        "type": "text",
+        "content": "between $r$ and the $n$ axes, and of the $\\frac{1}{2} n(n-1)$ cosines $\\lambda_{12}$, \\&c.",
+        "mathpix_content": " between $r$ and the $n$ axes, and of the $\\frac{1}{2} n(n-1)$ cosines $\\lambda_{12}$, \\&c.",
+        "font_size": 27,
+        "confidence": 0.9677734375
+      },
+      {
+        "page": 232,
+        "line_number": 40,
+        "type": "text",
+        "content": "of the angles between pairs of the axes.",
+        "mathpix_content": " of the angles between pairs of the axes.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 41,
+        "type": "text",
+        "content": "If we consider the directions of $r$ and the $n$ axes as determined",
+        "mathpix_content": "\n\nIf we consider the directions of $r$ and the $n$ axes as determined",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 42,
+        "type": "text",
+        "content": "by points on a spherical surface, we may regard $Y_{n}$ as a quantity",
+        "mathpix_content": " by points on a spherical surface, we may regard $Y_{n}$ as a quantity",
+        "font_size": 27,
+        "confidence": 0.98388671875
+      },
+      {
+        "page": 232,
+        "line_number": 43,
+        "type": "text",
+        "content": "varying from point to point on that surface, being a function of the",
+        "mathpix_content": " varying from point to point on that surface, being a function of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 44,
+        "type": "text",
+        "content": "$\\frac{1}{2} n(n+1)$ distances between the $n$ poles of the axes and the pole",
+        "mathpix_content": " $\\frac{1}{2} n(n+1)$ distances between the $n$ poles of the axes and the pole",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 45,
+        "type": "text",
+        "content": "of the vector. We therefore call $Y_{n}$ The Surface Harmonic of",
+        "mathpix_content": " of the vector. We therefore call $Y_{n}$ The Surface Harmonic of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 46,
+        "type": "text",
+        "content": "order $n$.",
+        "mathpix_content": " order $n$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 232,
+        "line_number": 47,
+        "type": "text",
+        "content": "$130 a$.] We have next to shew that to every surface-harmonic",
+        "mathpix_content": "\n$130 a$.] We have next to shew that to every surface-harmonic",
+        "font_size": 27,
+        "confidence": 0.9199607372283936
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

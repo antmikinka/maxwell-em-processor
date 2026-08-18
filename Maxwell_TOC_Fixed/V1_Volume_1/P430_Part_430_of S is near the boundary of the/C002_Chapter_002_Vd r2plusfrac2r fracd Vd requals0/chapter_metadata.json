@@ -1,0 +1,682 @@
+{
+  "chapter_id": "chapter_43",
+  "chapter_number": 2,
+  "title": "} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$",
+  "page_start": 223,
+  "page_end": 223,
+  "articles": [
+    {
+      "article_id": "article_125",
+      "article_number": 125,
+      "title_original": "The fourth expression gives the energy in terms of the charge.",
+      "title_safe": "The fourth expression gives the energy in terms of the charg",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_125",
+      "article_number": 125,
+      "title_original": "] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+      "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_125",
+      "article_number": 125,
+      "title_original": "] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+      "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_188",
+      "article_number": 188,
+      "title_original": "SIMPLE CASES.",
+      "title_safe": "SIMPLE CASES",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_125",
+      "article_number": 125,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$",
+      "title_safe": "equalsfrac14 pi fracScA-BequalsqA-B",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=\\frac{K S}{4 \\pi c}(A-B) .$$",
+      "title_safe": "equalsfracK S4 pi cA-B",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "\\pi c}(A-B)^{2} \\\\",
+      "title_safe": "pi cA-B2",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi}{K S} e_{1}^{2} c .",
+      "title_safe": "piK S e12 c",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "\\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\",
+      "title_safe": "pi fracA-B2c2",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi}{K S} e_{1}^{2} .",
+      "title_safe": "piK S e12",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_125",
+      "article_number": 125,
+      "title_original": ".] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+      "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$",
+      "title_safe": "Vd r2plusfrac2r fracd Vd requals0",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$",
+      "title_safe": "equalsfrac14 pi fracScA-BequalsqA-B",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}=\\frac{K S}{4 \\pi c}(A-B) .$$",
+      "title_safe": "equalsfracK S4 pi cA-B",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "\\pi c}(A-B)^{2} \\\\",
+      "title_safe": "pi cA-B2",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi}{K S} e_{1}^{2} c .",
+      "title_safe": "piK S e12 c",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "\\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\",
+      "title_safe": "pi fracA-B2c2",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "\\pi}{K S} e_{1}^{2} .",
+      "title_safe": "piK S e12",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_125",
+      "article_number": 125,
+      "title_original": ".] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+      "title_safe": "Let two concentric spherical surfaces of radii a and b of",
+      "page_start": 223,
+      "page_end": 222,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$",
+      "title_safe": "Vd r2plusfrac2r fracd Vd requals0",
+      "page_start": 223,
+      "page_end": 223,
+      "content": {
+        "raw_text": "\n--- Page 223 ---\n188\nSIMPLE CASES.\n[125.\nThe fourth expression gives the energy in terms of the charge.\nThe fifth shews that the electrical energy is equal to the work\nwhich would be done by the electric force if the two surfaces\nwere to be brought together, moving parallel to themselves, with\ntheir electric charges constant.\nTo express the charge in terms of the difference of potentials,\nwe have\n$$e_{1}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$\nThe coefficient $q$ represents the charge due to a difference of\npotentials equal to unity. This coefficient is called the Capacity\nof the surface $S$, due to its position relatively to the opposite\nsurface.\nLet us now suppose that the medium between the two surfaces\nis no longer air but some other dielectric substance whose specific\ninductive capacity is $K$, then the charge due to a given difference\nof potentials will be $K$ times; as great as when the dielectric is\nair, or\n$$e_{1}=\\frac{K S}{4 \\pi c}(A-B) .$$\nThe total energy will be\n$$\\begin{aligned}\nW & =\\frac{K S}{8 \\pi c}(A-B)^{2} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} c .\n\\end{aligned}$$\nThe force between the surfaces will be\n$$\\begin{aligned}\nF=p S & =\\frac{K S}{8 \\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} .\n\\end{aligned}$$\nHence the force between two surfaces kept at given potentials\nvaries directly as $K$, the specific inductive capacity of the dielec-\ntric, but the force between two surfaces charged with given\nquantities of electricity varies inversely as $K$.\n\nTwo Concentric Spherical Surfuces.\n125.] Let two concentric spherical surfaces of radii $a$ and $b$, of\nwhich $b$ is the greater, be maintained at potentials $A$ and $B$\nrespectively, then it is manifest that the potential $V$ is a function\nof $r$ the distance from the centre. In this case, Laplace's equa-\ntion becomes\n$$\\frac{d^{2} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$\n",
+        "mathpix_markdown": "\n--- Page 223 ---\n\n\nThe fourth expression gives the energy in terms of the charge.\n\nThe fifth shews that the electrical energy is equal to the work\n which would be done by the electric force if the two surfaces\n were to be brought together, moving parallel to themselves, with\n their electric charges constant.\n\n\nTo express the charge in terms of the difference of potentials,\n we have\n\n$$e_{1}=\\frac{1}{4 \\pi} \\frac{S}{c}(A-B)=q(A-B) .$$\n\n\nThe coefficient $q$ represents the charge due to a difference of\n potentials equal to unity. This coefficient is called the Capacity\n of the surface $S$, due to its position relatively to the opposite\n surface.\n\n\nLet us now suppose that the medium between the two surfaces\n is no longer air but some other dielectric substance whose specific\n inductive capacity is $K$, then the charge due to a given difference\n of potentials will be $K$ times; as great as when the dielectric is\n air, or\n\n$$e_{1}=\\frac{K S}{4 \\pi c}(A-B) .$$\n\n\nThe total energy will be\n\n$$\\begin{aligned}\nW & =\\frac{K S}{8 \\pi c}(A-B)^{2} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} c .\n\\end{aligned}$$\n\n\nThe force between the surfaces will be\n\n$$\\begin{aligned}\nF=p S & =\\frac{K S}{8 \\pi} \\frac{(A-B)^{2}}{c^{2}} \\\\\n& =\\frac{2 \\pi}{K S} e_{1}^{2} .\n\\end{aligned}$$\n\n\nHence the force between two surfaces kept at given potentials\n varies directly as $K$, the specific inductive capacity of the dielec\ntric, but the force between two surfaces charged with given\n quantities of electricity varies inversely as $K$.\n\n\n\\section*{Two Concentric Spherical Surfuces.}\n\n125.] Let two concentric spherical surfaces of radii $a$ and $b$, of\n which $b$ is the greater, be maintained at potentials $A$ and $B$\n respectively, then it is manifest that the potential $V$ is a function\n of $r$ the distance from the centre. In this case, Laplace's equa\ntion becomes\n\n$$\\frac{d^{2} V}{d r^{2}}+\\frac{2}{r} \\frac{d V}{d r}=0 .$$\n",
+        "structured_lines": [
+          {
+            "page": 223,
+            "line_number": 4,
+            "type": "text",
+            "content": "The fourth expression gives the energy in terms of the charge.",
+            "mathpix_content": "\n\nThe fourth expression gives the energy in terms of the charge.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 5,
+            "type": "text",
+            "content": "The fifth shews that the electrical energy is equal to the work",
+            "mathpix_content": "\nThe fifth shews that the electrical energy is equal to the work",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 6,
+            "type": "text",
+            "content": "which would be done by the electric force if the two surfaces",
+            "mathpix_content": " which would be done by the electric force if the two surfaces",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 7,
+            "type": "text",
+            "content": "were to be brought together, moving parallel to themselves, with",
+            "mathpix_content": " were to be brought together, moving parallel to themselves, with",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 8,
+            "type": "text",
+            "content": "their electric charges constant.",
+            "mathpix_content": " their electric charges constant.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 9,
+            "type": "text",
+            "content": "To express the charge in terms of the difference of potentials,",
+            "mathpix_content": "\n\nTo express the charge in terms of the difference of potentials,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 10,
+            "type": "text",
+            "content": "we have",
+            "mathpix_content": " we have",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 13,
+            "type": "text",
+            "content": "The coefficient $q$ represents the charge due to a difference of",
+            "mathpix_content": "\n\nThe coefficient $q$ represents the charge due to a difference of",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 223,
+            "line_number": 14,
+            "type": "text",
+            "content": "potentials equal to unity. This coefficient is called the Capacity",
+            "mathpix_content": " potentials equal to unity. This coefficient is called the Capacity",
+            "font_size": 27,
+            "confidence": 0.955078125
+          },
+          {
+            "page": 223,
+            "line_number": 15,
+            "type": "text",
+            "content": "of the surface $S$, due to its position relatively to the opposite",
+            "mathpix_content": " of the surface $S$, due to its position relatively to the opposite",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 223,
+            "line_number": 16,
+            "type": "text",
+            "content": "surface.",
+            "mathpix_content": " surface.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 17,
+            "type": "text",
+            "content": "Let us now suppose that the medium between the two surfaces",
+            "mathpix_content": "\n\nLet us now suppose that the medium between the two surfaces",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 223,
+            "line_number": 18,
+            "type": "text",
+            "content": "is no longer air but some other dielectric substance whose specific",
+            "mathpix_content": " is no longer air but some other dielectric substance whose specific",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 19,
+            "type": "text",
+            "content": "inductive capacity is $K$, then the charge due to a given difference",
+            "mathpix_content": " inductive capacity is $K$, then the charge due to a given difference",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 20,
+            "type": "text",
+            "content": "of potentials will be $K$ times; as great as when the dielectric is",
+            "mathpix_content": " of potentials will be $K$ times; as great as when the dielectric is",
+            "font_size": 27,
+            "confidence": 0.6684532973449677
+          },
+          {
+            "page": 223,
+            "line_number": 21,
+            "type": "text",
+            "content": "air, or",
+            "mathpix_content": " air, or",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 24,
+            "type": "text",
+            "content": "The total energy will be",
+            "mathpix_content": "\n\nThe total energy will be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 28,
+            "type": "text",
+            "content": "The force between the surfaces will be",
+            "mathpix_content": "\n\nThe force between the surfaces will be",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 223,
+            "line_number": 32,
+            "type": "text",
+            "content": "Hence the force between two surfaces kept at given potentials",
+            "mathpix_content": "\n\nHence the force between two surfaces kept at given potentials",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 33,
+            "type": "text",
+            "content": "varies directly as $K$, the specific inductive capacity of the dielec-",
+            "mathpix_content": " varies directly as $K$, the specific inductive capacity of the dielec",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 34,
+            "type": "text",
+            "content": "tric, but the force between two surfaces charged with given",
+            "mathpix_content": "tric, but the force between two surfaces charged with given",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 35,
+            "type": "text",
+            "content": "quantities of electricity varies inversely as $K$.",
+            "mathpix_content": " quantities of electricity varies inversely as $K$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 37,
+            "type": "text",
+            "content": "Two Concentric Spherical Surfuces.",
+            "mathpix_content": "\n\n\\section*{Two Concentric Spherical Surfuces.}",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 223,
+            "line_number": 38,
+            "type": "text",
+            "content": "125.] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+            "mathpix_content": "\n125.] Let two concentric spherical surfaces of radii $a$ and $b$, of",
+            "font_size": 27,
+            "confidence": 0.9956109506310895
+          },
+          {
+            "page": 223,
+            "line_number": 39,
+            "type": "text",
+            "content": "which $b$ is the greater, be maintained at potentials $A$ and $B$",
+            "mathpix_content": " which $b$ is the greater, be maintained at potentials $A$ and $B$",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 40,
+            "type": "text",
+            "content": "respectively, then it is manifest that the potential $V$ is a function",
+            "mathpix_content": " respectively, then it is manifest that the potential $V$ is a function",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 41,
+            "type": "text",
+            "content": "of $r$ the distance from the centre. In this case, Laplace's equa-",
+            "mathpix_content": " of $r$ the distance from the centre. In this case, Laplace's equa",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 223,
+            "line_number": 42,
+            "type": "text",
+            "content": "tion becomes",
+            "mathpix_content": "tion becomes",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

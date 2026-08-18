@@ -1,0 +1,300 @@
+{
+  "article_id": "article_3",
+  "article_number": 3,
+  "title_original": "}",
+  "title_safe": "Article",
+  "page_start": 62,
+  "page_end": 62,
+  "content": {
+    "raw_text": "\n--- Page 62 ---\n24.]\nLINE-INTEGRAL AND SURFACE-INTEGRAL.\n27\nWe now proceed to prove a theorem which is useful as estab-\nlishing a connection between the surface-integral taken over a\nfinite surface and a line-integral taken round its boundary.\n24.] Theorem IV. A line-integral taken round a closed curve\nmay be expressed in terms of a surface-integral taken over\na surface bounded by the curve.\nLet $X, Y, Z$ be the components of a vector quantity $\\mathfrak{A}$ whose\nline-integral is to be taken round a closed curve $s$.\nLet $S$ be any continuous finite surface bounded entirely by the\nclosed curve 8 , and let $\\xi, \\eta, \\zeta$ be the components of another vector\nquantity $\\mathfrak{B}$, related to $X, Y, Z$ by the equations\n$$\\xi=\\frac{d Z}{d y}-\\frac{d Y}{d z}, \\quad \\eta=\\frac{d X}{d z}-\\frac{d Z}{d x}, \\quad \\zeta=\\frac{d Y}{d x}-\\frac{d X}{d y} .$$\n(1)\nThen the surface-integral of $\\mathfrak{B}$ taken over the surface $S$ is equal to\nthe line-integral of $\\mathfrak{A}$ taken round the curve 8 . It is manifest that\n$\\xi, \\eta, \\zeta$ satisfy of themselves the solenoidal condition.\n$$\\frac{d \\xi}{d x}+\\frac{d \\eta}{d y}+\\frac{d \\zeta}{d z}=0 .$$\nLet $l, m, n$ be the direction-cosines of the normal to an element\nof the surface $d S$, reckoned in the positive direction. Then the\nvalue of the surface-integral of $\\mathfrak{B}$ may be written\n$$\\iint(l \\xi+m \\eta+n \\zeta) d S .$$\n(2)\nIn order to form a definite idea of the meaning of the element\n$d S$, we shall suppose that the values of the coordinates $x, y, z$ for\nevery point of the surface are given as functions of two inde-\npendent variables $a$ and $\\beta$. If $\\beta$ is constant and $\\alpha$ varies, the point\n( $x, y, z$ ) will describe a curve on the surface, and if a series of values\nis given to $\\beta$, a series of such curves will be traced, all lying on\nthe surface $S$. In the same way, by giving a series of constant\nvalues to $\\alpha$, a second series of curves may be traced, cutting the\nfirst series, and dividing the whole surface into elementary\nportions, any one of which may be taken as the element $d S$.\nThe projection of this element on the plane of $y z$ is, by the\nordinary formula,\n$$l d S=\\left(\\frac{d y}{d a} \\frac{d z}{d \\beta}-\\frac{d y}{d \\beta} \\frac{d z}{d a}\\right) d \\beta d a$$\n(3)\nThe expressions for $m d S$ and $n d S$ are obtained from this by\nsubstituting $x, y, z$ in cyclic order.\n",
+    "mathpix_markdown": "\n--- Page 62 ---\n\n\nWe now proceed to prove a theorem which is useful as estab\nlishing a connection between the surface-integral taken over a\n finite surface and a line-integral taken round its boundary.\n\n24.] Theorem IV. A line-integral taken round a closed curve\n may be expressed in terms of a surface-integral taken over\n a surface bounded by the curve.\n\nLet $X, Y, Z$ be the components of a vector quantity $\\mathfrak{A}$ whose\n line-integral is to be taken round a closed curve $s$.\n\n\nLet $S$ be any continuous finite surface bounded entirely by the\n closed curve 8 , and let $\\xi, \\eta, \\zeta$ be the components of another vector\n quantity $\\mathfrak{B}$, related to $X, Y, Z$ by the equations\n\n$$\\begin{equation*}\n\\xi=\\frac{d Z}{d y}-\\frac{d Y}{d z}, \\quad \\eta=\\frac{d X}{d z}-\\frac{d Z}{d x}, \\quad \\zeta=\\frac{d Y}{d x}-\\frac{d X}{d y} . \\tag{1}\n\\end{equation*}$$\n\n\nThen the surface-integral of $\\mathfrak{B}$ taken over the surface $S$ is equal to\n the line-integral of $\\mathfrak{A}$ taken round the curve 8 . It is manifest that\n $\\xi, \\eta, \\zeta$ satisfy of themselves the solenoidal condition.\n\n$$\\frac{d \\xi}{d x}+\\frac{d \\eta}{d y}+\\frac{d \\zeta}{d z}=0 .$$\n\n\nLet $l, m, n$ be the direction-cosines of the normal to an element\n of the surface $d S$, reckoned in the positive direction. Then the\n value of the surface-integral of $\\mathfrak{B}$ may be written\n\n$$\\begin{equation*}\n\\iint(l \\xi+m \\eta+n \\zeta) d S . \\tag{2}\n\\end{equation*}$$\n\n\nIn order to form a definite idea of the meaning of the element\n $d S$, we shall suppose that the values of the coordinates $x, y, z$ for\n every point of the surface are given as functions of two inde\npendent variables $a$ and $\\beta$. If $\\beta$ is constant and $\\alpha$ varies, the point\n ( $x, y, z$ ) will describe a curve on the surface, and if a series of values\n is given to $\\beta$, a series of such curves will be traced, all lying on\n the surface $S$. In the same way, by giving a series of constant\n values to $\\alpha$, a second series of curves may be traced, cutting the\n first series, and dividing the whole surface into elementary\n portions, any one of which may be taken as the element $d S$.\n\n\nThe projection of this element on the plane of $y z$ is, by the\n ordinary formula,\n\n$$\\begin{equation*}\nl d S=\\left(\\frac{d y}{d a} \\frac{d z}{d \\beta}-\\frac{d y}{d \\beta} \\frac{d z}{d a}\\right) d \\beta d a \\tag{3}\n\\end{equation*}$$\n\n\nThe expressions for $m d S$ and $n d S$ are obtained from this by\n substituting $x, y, z$ in cyclic order.\n",
+    "structured_lines": [
+      {
+        "page": 62,
+        "line_number": 4,
+        "type": "text",
+        "content": "We now proceed to prove a theorem which is useful as estab-",
+        "mathpix_content": "\n\nWe now proceed to prove a theorem which is useful as estab",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 5,
+        "type": "text",
+        "content": "lishing a connection between the surface-integral taken over a",
+        "mathpix_content": "lishing a connection between the surface-integral taken over a",
+        "font_size": 27,
+        "confidence": 0.8905041217803955
+      },
+      {
+        "page": 62,
+        "line_number": 6,
+        "type": "text",
+        "content": "finite surface and a line-integral taken round its boundary.",
+        "mathpix_content": " finite surface and a line-integral taken round its boundary.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 7,
+        "type": "text",
+        "content": "24.] Theorem IV. A line-integral taken round a closed curve",
+        "mathpix_content": "\n24.] Theorem IV. A line-integral taken round a closed curve",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 8,
+        "type": "text",
+        "content": "may be expressed in terms of a surface-integral taken over",
+        "mathpix_content": " may be expressed in terms of a surface-integral taken over",
+        "font_size": 27,
+        "confidence": 0.96533203125
+      },
+      {
+        "page": 62,
+        "line_number": 9,
+        "type": "text",
+        "content": "a surface bounded by the curve.",
+        "mathpix_content": " a surface bounded by the curve.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 10,
+        "type": "text",
+        "content": "Let $X, Y, Z$ be the components of a vector quantity $\\mathfrak{A}$ whose",
+        "mathpix_content": "\nLet $X, Y, Z$ be the components of a vector quantity $\\mathfrak{A}$ whose",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 62,
+        "line_number": 11,
+        "type": "text",
+        "content": "line-integral is to be taken round a closed curve $s$.",
+        "mathpix_content": " line-integral is to be taken round a closed curve $s$.",
+        "font_size": 27,
+        "confidence": 0.8607974052429199
+      },
+      {
+        "page": 62,
+        "line_number": 12,
+        "type": "text",
+        "content": "Let $S$ be any continuous finite surface bounded entirely by the",
+        "mathpix_content": "\n\nLet $S$ be any continuous finite surface bounded entirely by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 13,
+        "type": "text",
+        "content": "closed curve 8 , and let $\\xi, \\eta, \\zeta$ be the components of another vector",
+        "mathpix_content": " closed curve 8 , and let $\\xi, \\eta, \\zeta$ be the components of another vector",
+        "font_size": 27,
+        "confidence": 0.9863760031294078
+      },
+      {
+        "page": 62,
+        "line_number": 14,
+        "type": "text",
+        "content": "quantity $\\mathfrak{B}$, related to $X, Y, Z$ by the equations",
+        "mathpix_content": " quantity $\\mathfrak{B}$, related to $X, Y, Z$ by the equations",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 62,
+        "line_number": 18,
+        "type": "text",
+        "content": "Then the surface-integral of $\\mathfrak{B}$ taken over the surface $S$ is equal to",
+        "mathpix_content": "\n\nThen the surface-integral of $\\mathfrak{B}$ taken over the surface $S$ is equal to",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 62,
+        "line_number": 19,
+        "type": "text",
+        "content": "the line-integral of $\\mathfrak{A}$ taken round the curve 8 . It is manifest that",
+        "mathpix_content": " the line-integral of $\\mathfrak{A}$ taken round the curve 8 . It is manifest that",
+        "font_size": 27,
+        "confidence": 0.48060522451921794
+      },
+      {
+        "page": 62,
+        "line_number": 20,
+        "type": "text",
+        "content": "$\\xi, \\eta, \\zeta$ satisfy of themselves the solenoidal condition.",
+        "mathpix_content": " $\\xi, \\eta, \\zeta$ satisfy of themselves the solenoidal condition.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 62,
+        "line_number": 23,
+        "type": "text",
+        "content": "Let $l, m, n$ be the direction-cosines of the normal to an element",
+        "mathpix_content": "\n\nLet $l, m, n$ be the direction-cosines of the normal to an element",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 62,
+        "line_number": 24,
+        "type": "text",
+        "content": "of the surface $d S$, reckoned in the positive direction. Then the",
+        "mathpix_content": " of the surface $d S$, reckoned in the positive direction. Then the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 25,
+        "type": "text",
+        "content": "value of the surface-integral of $\\mathfrak{B}$ may be written",
+        "mathpix_content": " value of the surface-integral of $\\mathfrak{B}$ may be written",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 62,
+        "line_number": 29,
+        "type": "text",
+        "content": "In order to form a definite idea of the meaning of the element",
+        "mathpix_content": "\n\nIn order to form a definite idea of the meaning of the element",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 30,
+        "type": "text",
+        "content": "$d S$, we shall suppose that the values of the coordinates $x, y, z$ for",
+        "mathpix_content": " $d S$, we shall suppose that the values of the coordinates $x, y, z$ for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 31,
+        "type": "text",
+        "content": "every point of the surface are given as functions of two inde-",
+        "mathpix_content": " every point of the surface are given as functions of two inde",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 32,
+        "type": "text",
+        "content": "pendent variables $a$ and $\\beta$. If $\\beta$ is constant and $\\alpha$ varies, the point",
+        "mathpix_content": "pendent variables $a$ and $\\beta$. If $\\beta$ is constant and $\\alpha$ varies, the point",
+        "font_size": 27,
+        "confidence": 0.7574664079584181
+      },
+      {
+        "page": 62,
+        "line_number": 33,
+        "type": "text",
+        "content": "( $x, y, z$ ) will describe a curve on the surface, and if a series of values",
+        "mathpix_content": " ( $x, y, z$ ) will describe a curve on the surface, and if a series of values",
+        "font_size": 27,
+        "confidence": 0.3882260322570801
+      },
+      {
+        "page": 62,
+        "line_number": 34,
+        "type": "text",
+        "content": "is given to $\\beta$, a series of such curves will be traced, all lying on",
+        "mathpix_content": " is given to $\\beta$, a series of such curves will be traced, all lying on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 35,
+        "type": "text",
+        "content": "the surface $S$. In the same way, by giving a series of constant",
+        "mathpix_content": " the surface $S$. In the same way, by giving a series of constant",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 62,
+        "line_number": 36,
+        "type": "text",
+        "content": "values to $\\alpha$, a second series of curves may be traced, cutting the",
+        "mathpix_content": " values to $\\alpha$, a second series of curves may be traced, cutting the",
+        "font_size": 27,
+        "confidence": 0.77734375
+      },
+      {
+        "page": 62,
+        "line_number": 37,
+        "type": "text",
+        "content": "first series, and dividing the whole surface into elementary",
+        "mathpix_content": " first series, and dividing the whole surface into elementary",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 38,
+        "type": "text",
+        "content": "portions, any one of which may be taken as the element $d S$.",
+        "mathpix_content": " portions, any one of which may be taken as the element $d S$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 39,
+        "type": "text",
+        "content": "The projection of this element on the plane of $y z$ is, by the",
+        "mathpix_content": "\n\nThe projection of this element on the plane of $y z$ is, by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 40,
+        "type": "text",
+        "content": "ordinary formula,",
+        "mathpix_content": " ordinary formula,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 44,
+        "type": "text",
+        "content": "The expressions for $m d S$ and $n d S$ are obtained from this by",
+        "mathpix_content": "\n\nThe expressions for $m d S$ and $n d S$ are obtained from this by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 62,
+        "line_number": 45,
+        "type": "text",
+        "content": "substituting $x, y, z$ in cyclic order.",
+        "mathpix_content": " substituting $x, y, z$ in cyclic order.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

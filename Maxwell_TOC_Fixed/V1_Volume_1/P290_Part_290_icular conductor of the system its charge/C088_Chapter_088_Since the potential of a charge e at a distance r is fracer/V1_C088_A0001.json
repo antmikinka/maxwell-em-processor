@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{2}[(A+B) \\cdot(A+B)]-\\frac{1}{2}[A \\cdot A]-\\frac{1}{2}[B \\cdot B]$$",
+  "title_safe": "2AplusB cdotAplusB-frac12A cdot A-frac12B cdot B",
+  "page_start": 145,
+  "page_end": 144,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

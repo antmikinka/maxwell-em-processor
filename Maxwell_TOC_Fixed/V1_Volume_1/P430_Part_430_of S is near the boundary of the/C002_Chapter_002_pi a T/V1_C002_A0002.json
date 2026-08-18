@@ -1,0 +1,210 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "\\pi a T .$$",
+  "title_safe": "pi a T",
+  "page_start": 224,
+  "page_end": 224,
+  "content": {
+    "raw_text": "\n--- Page 224 ---\n125.]\nCONCENTRIC SPHERICAL SURFACES.\n189\nThe solution of this is\n$$V=C_{1}+C_{2} r^{-1}$$\nand the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,\ngive for the space between the spherical surfaces,\n$$\\begin{aligned}\n& V=\\frac{A a-B b}{a-b}+\\frac{A-B}{a^{-1}-b^{-1}} r^{-1} \\\\\n& R=-\\frac{d V}{d r}=\\frac{A-B}{a^{-1}-b^{-1}} r^{-2}\n\\end{aligned}$$\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a\nsolid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then\n$$\\sigma_{1}=\\begin{array}{cc}\n1 & A-B \\\\\n4 \\pi a^{2} a^{-1}-b^{-1}\n\\end{array}, \\quad \\sigma_{2}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$\nIf $e_{1}$ and $e_{2}$ are the whole charges of electricity on these\nsurfaces,\n$$e_{1}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$\nThe capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.\nIf the outer surface of the shell is also spherical and of radius $c$,\nthen, if there are no other conductors in the neighbourhood, the\ncharge on the outer surface is\n$$e_{3}=B c .$$\nHence the whole charge on the inner sphere is\n$$e_{1}=\\frac{a b}{b-a}(A-B)$$\nand that on the outer shell\n$$e_{2}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$\nIf we put $b=\\infty$, we have the case of a sphere in an infinite\nspace. The electric capacity of such a sphere is $c$, or it is\nnumerically equal to its radius.\nThe electric tension on the inner sphere per unit of area is\n$$p=\\frac{1}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$\nThe resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$\nnormal to the base of the hemisphere, and if this is balanced by\na surface tension exerted across the circular boundary of the\nhemisphere, the tension on unit of length being $T$, we have\n$$F=2 \\pi a T .$$\n",
+    "mathpix_markdown": "\n--- Page 224 ---\n\n\nThe solution of this is\n\n$$V=C_{1}+C_{2} r^{-1}$$\n\nand the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,\n give for the space between the spherical surfaces,\n\n$$\\begin{aligned}\n& V=\\frac{A a-B b}{a-b}+\\frac{A-B}{a^{-1}-b^{-1}} r^{-1} \\\\\n& R=-\\frac{d V}{d r}=\\frac{A-B}{a^{-1}-b^{-1}} r^{-2}\n\\end{aligned}$$\n\n\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a\n solid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then\n\n$$\\sigma_{1}=\\begin{array}{cc}\n1 & A-B \\\\\n4 \\pi a^{2} a^{-1}-b^{-1}\n\\end{array}, \\quad \\sigma_{2}=\\frac{1}{4 \\pi b^{2}} \\frac{B-A}{a^{-1}-b^{-1}} .$$\n\n\nIf $e_{1}$ and $e_{2}$ are the whole charges of electricity on these\n surfaces,\n\n$$e_{1}=4 \\pi a^{2} \\sigma_{1}=\\frac{A-B}{a^{-1}-b^{-1}}=-e_{2}$$\n\n\nThe capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.\n\nIf the outer surface of the shell is also spherical and of radius $c$,\n then, if there are no other conductors in the neighbourhood, the\n charge on the outer surface is\n\n$$e_{3}=B c .$$\n\n\nHence the whole charge on the inner sphere is\n\n$$e_{1}=\\frac{a b}{b-a}(A-B)$$\n\nand that on the outer shell\n\n$$e_{2}+e_{3}=\\frac{a b}{b-a}(B-A)+B c .$$\n\n\nIf we put $b=\\infty$, we have the case of a sphere in an infinite\n space. The electric capacity of such a sphere is $c$, or it is\n numerically equal to its radius.\n\n\nThe electric tension on the inner sphere per unit of area is\n\n$$p=\\frac{1}{8 \\pi} \\frac{b^{2}}{a^{2}} \\frac{(A-B)^{2}}{(b-a)^{2}}$$\n\n\nThe resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$\n normal to the base of the hemisphere, and if this is balanced by\n a surface tension exerted across the circular boundary of the\n hemisphere, the tension on unit of length being $T$, we have\n\n$$F=2 \\pi a T .$$\n",
+    "structured_lines": [
+      {
+        "page": 224,
+        "line_number": 4,
+        "type": "text",
+        "content": "The solution of this is",
+        "mathpix_content": "\n\nThe solution of this is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 7,
+        "type": "text",
+        "content": "and the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,",
+        "mathpix_content": "\nand the conditions that $V=A$ when $r=a$, and $V=B$ when $r=b$,",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 224,
+        "line_number": 8,
+        "type": "text",
+        "content": "give for the space between the spherical surfaces,",
+        "mathpix_content": " give for the space between the spherical surfaces,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 12,
+        "type": "text",
+        "content": "If $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+        "mathpix_content": "\n\nIf $\\sigma_{1}, \\sigma_{2}$ are the surface-densities on the opposed surfaces of a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 13,
+        "type": "text",
+        "content": "solid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then",
+        "mathpix_content": " solid sphere of radius $\\alpha$, and a spherical hollow of radius $b$, then",
+        "font_size": 27,
+        "confidence": 0.9833984375
+      },
+      {
+        "page": 224,
+        "line_number": 16,
+        "type": "text",
+        "content": "If $e_{1}$ and $e_{2}$ are the whole charges of electricity on these",
+        "mathpix_content": "\n\nIf $e_{1}$ and $e_{2}$ are the whole charges of electricity on these",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 17,
+        "type": "text",
+        "content": "surfaces,",
+        "mathpix_content": " surfaces,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 20,
+        "type": "text",
+        "content": "The capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.",
+        "mathpix_content": "\n\nThe capacity of the enclosed sphere is therefore $\\frac{a b}{b-a}$.",
+        "font_size": 27,
+        "confidence": 0.92626953125
+      },
+      {
+        "page": 224,
+        "line_number": 21,
+        "type": "text",
+        "content": "If the outer surface of the shell is also spherical and of radius $c$,",
+        "mathpix_content": "\nIf the outer surface of the shell is also spherical and of radius $c$,",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 224,
+        "line_number": 22,
+        "type": "text",
+        "content": "then, if there are no other conductors in the neighbourhood, the",
+        "mathpix_content": " then, if there are no other conductors in the neighbourhood, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 23,
+        "type": "text",
+        "content": "charge on the outer surface is",
+        "mathpix_content": " charge on the outer surface is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 26,
+        "type": "text",
+        "content": "Hence the whole charge on the inner sphere is",
+        "mathpix_content": "\n\nHence the whole charge on the inner sphere is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 29,
+        "type": "text",
+        "content": "and that on the outer shell",
+        "mathpix_content": "\nand that on the outer shell",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 32,
+        "type": "text",
+        "content": "If we put $b=\\infty$, we have the case of a sphere in an infinite",
+        "mathpix_content": "\n\nIf we put $b=\\infty$, we have the case of a sphere in an infinite",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 224,
+        "line_number": 33,
+        "type": "text",
+        "content": "space. The electric capacity of such a sphere is $c$, or it is",
+        "mathpix_content": " space. The electric capacity of such a sphere is $c$, or it is",
+        "font_size": 27,
+        "confidence": 0.9863746166229248
+      },
+      {
+        "page": 224,
+        "line_number": 34,
+        "type": "text",
+        "content": "numerically equal to its radius.",
+        "mathpix_content": " numerically equal to its radius.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 35,
+        "type": "text",
+        "content": "The electric tension on the inner sphere per unit of area is",
+        "mathpix_content": "\n\nThe electric tension on the inner sphere per unit of area is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 38,
+        "type": "text",
+        "content": "The resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$",
+        "mathpix_content": "\n\nThe resultant of this tension over a hemisphere is $\\pi a^{2} p=F^{\\prime}$",
+        "font_size": 27,
+        "confidence": 0.8545629978179932
+      },
+      {
+        "page": 224,
+        "line_number": 39,
+        "type": "text",
+        "content": "normal to the base of the hemisphere, and if this is balanced by",
+        "mathpix_content": " normal to the base of the hemisphere, and if this is balanced by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 40,
+        "type": "text",
+        "content": "a surface tension exerted across the circular boundary of the",
+        "mathpix_content": " a surface tension exerted across the circular boundary of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 224,
+        "line_number": 41,
+        "type": "text",
+        "content": "hemisphere, the tension on unit of length being $T$, we have",
+        "mathpix_content": " hemisphere, the tension on unit of length being $T$, we have",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

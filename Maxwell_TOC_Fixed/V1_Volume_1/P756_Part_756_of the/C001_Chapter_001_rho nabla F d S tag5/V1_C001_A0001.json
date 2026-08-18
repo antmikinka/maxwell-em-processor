@@ -1,0 +1,282 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{\\rho} \\nabla F d S} \\tag{5}",
+  "title_safe": "rho nabla F d S tag5",
+  "page_start": 463,
+  "page_end": 463,
+  "content": {
+    "raw_text": "\n--- Page 463 ---\n428\nRESISTANCE AND CONDUCTIVITY.\n[306.\nbe produced by making it a perfect conductor, as it is already in\nelectrical equilibrium.\nIf therefore we draw within the conductor a series of surfaces,\nthe first of which coincides with the first electrode, and the last\nwith the second, while the intermediate surfaces are bounded by\nthe non-conducting surface and do not intersect each other, and\nif we suppose each of these surfaces to be an infinitely thin sheet\nof perfectly conducting matter, we shall have obtained a system\nthe resistance of which is certainly not greater than that of the\noriginal conductor, and is equal to it only when the surfaces we\nhave chosen are the natural equipotential surfaces.\nTo calculate the resistance of the artificial system is an opera-\ntion of much less difficulty than the original problem. For the\nresistance of the whole is the sum of the resistances of all\nthe strata contained between the consecutive surfaces, and the\nresistance of each stratum can be found thus :\nLet $d S$ be an element of the surface of the stratum, $\\nu$ the\nthickness of the stratum perpendicular to the element, $\\rho$ the\nspecific resistance, $E$ the difference of potential of the perfectly\nconducting surfaces, and $d C$ the current through $d S$, then\n$$d C=E \\frac{1}{\\rho \\nu} d S$$\n(1)\nand the whole current through the stratum is\n$$C=E \\iint \\frac{1}{\\rho v} d S$$\n(2)\nthe integration being extended over the whole stratum bounded\nby the non-conducting surface of the conductor.\nHence the conductivity of the stratum is\n$$\\frac{C}{E}=\\iint \\frac{1}{\\rho v} d S$$\n(3)\nand the resistance of the stratum is the reciprocal of this\nquantity.\nIf the stratum be that bounded by the two surfaces for which\nthe function $F$ has the values $F$ and $F+d F$ respectively, then\n$$\\frac{d F}{\\nu}=\\nabla F=\\left[\\left(\\frac{d F}{d x}\\right)^{2}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}},$$\n(4)\nand the resistance of the stratum is\n$$\\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S}$$\n(5)\n",
+    "mathpix_markdown": "\n--- Page 463 ---\n\nbe produced by making it a perfect conductor, as it is already in\n electrical equilibrium.\n\n\nIf therefore we draw within the conductor a series of surfaces,\n the first of which coincides with the first electrode, and the last\n with the second, while the intermediate surfaces are bounded by\n the non-conducting surface and do not intersect each other, and\n if we suppose each of these surfaces to be an infinitely thin sheet\n of perfectly conducting matter, we shall have obtained a system\n the resistance of which is certainly not greater than that of the\n original conductor, and is equal to it only when the surfaces we\n have chosen are the natural equipotential surfaces.\n\n\nTo calculate the resistance of the artificial system is an opera\ntion of much less difficulty than the original problem. For the\n resistance of the whole is the sum of the resistances of all\n the strata contained between the consecutive surfaces, and the\n resistance of each stratum can be found thus :\n\n\nLet $d S$ be an element of the surface of the stratum, $\\nu$ the\n thickness of the stratum perpendicular to the element, $\\rho$ the\n specific resistance, $E$ the difference of potential of the perfectly\n conducting surfaces, and $d C$ the current through $d S$, then\n\n$$\\begin{equation*}\nd C=E \\frac{1}{\\rho \\nu} d S \\tag{1}\n\\end{equation*}$$\n\nand the whole current through the stratum is\n\n$$\\begin{equation*}\nC=E \\iint \\frac{1}{\\rho v} d S \\tag{2}\n\\end{equation*}$$\n\nthe integration being extended over the whole stratum bounded\n by the non-conducting surface of the conductor.\n\n\nHence the conductivity of the stratum is\n\n$$\\begin{equation*}\n\\frac{C}{E}=\\iint \\frac{1}{\\rho v} d S \\tag{3}\n\\end{equation*}$$\n\nand the resistance of the stratum is the reciprocal of this\n quantity.\n\n\nIf the stratum be that bounded by the two surfaces for which\n the function $F$ has the values $F$ and $F+d F$ respectively, then\n\n$$\\begin{equation*}\n\\frac{d F}{\\nu}=\\nabla F=\\left[\\left(\\frac{d F}{d x}\\right)^{2}+\\left(\\frac{d F}{d y}\\right)^{2}+\\left(\\frac{d F}{d z}\\right)^{2}\\right]^{\\frac{d}{2}}, \\tag{4}\n\\end{equation*}$$\n\nand the resistance of the stratum is\n\n$$\\begin{equation*}\n\\frac{d F}{\\iint \\frac{1}{\\rho} \\nabla F d S} \\tag{5}\n\\end{equation*}$$\n",
+    "structured_lines": [
+      {
+        "page": 463,
+        "line_number": 4,
+        "type": "text",
+        "content": "be produced by making it a perfect conductor, as it is already in",
+        "mathpix_content": "\nbe produced by making it a perfect conductor, as it is already in",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 463,
+        "line_number": 5,
+        "type": "text",
+        "content": "electrical equilibrium.",
+        "mathpix_content": " electrical equilibrium.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 6,
+        "type": "text",
+        "content": "If therefore we draw within the conductor a series of surfaces,",
+        "mathpix_content": "\n\nIf therefore we draw within the conductor a series of surfaces,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 7,
+        "type": "text",
+        "content": "the first of which coincides with the first electrode, and the last",
+        "mathpix_content": " the first of which coincides with the first electrode, and the last",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 8,
+        "type": "text",
+        "content": "with the second, while the intermediate surfaces are bounded by",
+        "mathpix_content": " with the second, while the intermediate surfaces are bounded by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 9,
+        "type": "text",
+        "content": "the non-conducting surface and do not intersect each other, and",
+        "mathpix_content": " the non-conducting surface and do not intersect each other, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 10,
+        "type": "text",
+        "content": "if we suppose each of these surfaces to be an infinitely thin sheet",
+        "mathpix_content": " if we suppose each of these surfaces to be an infinitely thin sheet",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 463,
+        "line_number": 11,
+        "type": "text",
+        "content": "of perfectly conducting matter, we shall have obtained a system",
+        "mathpix_content": " of perfectly conducting matter, we shall have obtained a system",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 12,
+        "type": "text",
+        "content": "the resistance of which is certainly not greater than that of the",
+        "mathpix_content": " the resistance of which is certainly not greater than that of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 13,
+        "type": "text",
+        "content": "original conductor, and is equal to it only when the surfaces we",
+        "mathpix_content": " original conductor, and is equal to it only when the surfaces we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 14,
+        "type": "text",
+        "content": "have chosen are the natural equipotential surfaces.",
+        "mathpix_content": " have chosen are the natural equipotential surfaces.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 15,
+        "type": "text",
+        "content": "To calculate the resistance of the artificial system is an opera-",
+        "mathpix_content": "\n\nTo calculate the resistance of the artificial system is an opera",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 16,
+        "type": "text",
+        "content": "tion of much less difficulty than the original problem. For the",
+        "mathpix_content": "tion of much less difficulty than the original problem. For the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 17,
+        "type": "text",
+        "content": "resistance of the whole is the sum of the resistances of all",
+        "mathpix_content": " resistance of the whole is the sum of the resistances of all",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 18,
+        "type": "text",
+        "content": "the strata contained between the consecutive surfaces, and the",
+        "mathpix_content": " the strata contained between the consecutive surfaces, and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 19,
+        "type": "text",
+        "content": "resistance of each stratum can be found thus :",
+        "mathpix_content": " resistance of each stratum can be found thus :",
+        "font_size": 27,
+        "confidence": 0.9775390625
+      },
+      {
+        "page": 463,
+        "line_number": 20,
+        "type": "text",
+        "content": "Let $d S$ be an element of the surface of the stratum, $\\nu$ the",
+        "mathpix_content": "\n\nLet $d S$ be an element of the surface of the stratum, $\\nu$ the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 21,
+        "type": "text",
+        "content": "thickness of the stratum perpendicular to the element, $\\rho$ the",
+        "mathpix_content": " thickness of the stratum perpendicular to the element, $\\rho$ the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 22,
+        "type": "text",
+        "content": "specific resistance, $E$ the difference of potential of the perfectly",
+        "mathpix_content": " specific resistance, $E$ the difference of potential of the perfectly",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 463,
+        "line_number": 23,
+        "type": "text",
+        "content": "conducting surfaces, and $d C$ the current through $d S$, then",
+        "mathpix_content": " conducting surfaces, and $d C$ the current through $d S$, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 27,
+        "type": "text",
+        "content": "and the whole current through the stratum is",
+        "mathpix_content": "\nand the whole current through the stratum is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 31,
+        "type": "text",
+        "content": "the integration being extended over the whole stratum bounded",
+        "mathpix_content": "\nthe integration being extended over the whole stratum bounded",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 32,
+        "type": "text",
+        "content": "by the non-conducting surface of the conductor.",
+        "mathpix_content": " by the non-conducting surface of the conductor.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 33,
+        "type": "text",
+        "content": "Hence the conductivity of the stratum is",
+        "mathpix_content": "\n\nHence the conductivity of the stratum is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 37,
+        "type": "text",
+        "content": "and the resistance of the stratum is the reciprocal of this",
+        "mathpix_content": "\nand the resistance of the stratum is the reciprocal of this",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 38,
+        "type": "text",
+        "content": "quantity.",
+        "mathpix_content": " quantity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 39,
+        "type": "text",
+        "content": "If the stratum be that bounded by the two surfaces for which",
+        "mathpix_content": "\n\nIf the stratum be that bounded by the two surfaces for which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 40,
+        "type": "text",
+        "content": "the function $F$ has the values $F$ and $F+d F$ respectively, then",
+        "mathpix_content": " the function $F$ has the values $F$ and $F+d F$ respectively, then",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 463,
+        "line_number": 44,
+        "type": "text",
+        "content": "and the resistance of the stratum is",
+        "mathpix_content": "\nand the resistance of the stratum is",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

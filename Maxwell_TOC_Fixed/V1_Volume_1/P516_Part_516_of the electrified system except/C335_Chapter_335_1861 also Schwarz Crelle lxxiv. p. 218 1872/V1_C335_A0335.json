@@ -1,0 +1,318 @@
+{
+  "article_id": "article_335",
+  "article_number": 335,
+  "title_original": ", 1861, also Schwarz Crelle, lxxiv. p. 218, 1872.",
+  "title_safe": "1861 also Schwarz Crelle lxxiv. p. 218 1872",
+  "page_start": 327,
+  "page_end": 327,
+  "content": {
+    "raw_text": "\n--- Page 327 ---\n292\nCONJUGATE FUNCTIONS.\n[190.\nIf the point $P^{\\prime}$ is defined by its polar coordinates referred to\nthe centre of the circle, and if we put\nthen\n$$\\begin{gathered}\n\\rho=\\log r-\\log b, \\text { and } \\rho_{0}=\\log A A^{\\prime}-\\log b, \\\\\nA P^{\\prime}=b e^{\\rho}, \\quad A A^{\\prime}=b e^{\\rho_{0}}, \\quad A O=b e^{-\\rho_{0}} ;\n\\end{gathered}$$\n(10)\nand the potential at the point ( $\\rho, \\theta$ ) is\n$$\\begin{aligned}\n& \\phi=E \\log \\left(e^{-2 \\rho_{0}}-2 e^{-\\rho_{0}} e^{\\rho} \\cos \\theta+e^{2 \\rho}\\right) \\\\\n&-E \\log \\left(e^{2 \\rho_{0}}-2 e^{\\rho_{0}} e^{\\rho} \\cos \\theta+e^{2 \\rho}\\right)+2 E \\rho_{0} .\n\\end{aligned}$$\n(11)\nThis is the potential at the point $(\\rho, \\theta)$ due to a charge $E$,\nplaced at the point ( $\\rho_{0}, 0$ ), with the condition that when $\\rho=0$,\n$\\psi=0$.\nIn this case $\\rho$ and $\\theta$ are the conjugate functions in equations\n(5): $\\rho$ is the logarithm of the ratio of the radius vector of a\npoint to the radius of the circle, and $\\theta$ is an angle.\nThe centre is the only singular point in this system of coor-\ndinates, and the line-integral $\\int \\frac{d \\theta}{d s} d s$ round a closed curve is\nzero or $2 \\pi$, according as the closed curve excludes or includes\nthe centre.\n\nExample III.-Neumann's Transformation of this Case*.\n190.] Now let $a$ and $\\beta$ be any conjugate functions of $x$ and $y$,\nsuch that the curves (a) are equipotential curves, and the curves\n( $\\beta$ ) are lines of force due to a system consisting of a charge of\nhalf a unit per unit length at the origin, and an electrified system\ndisposed in any manner at a certain distance from the origin.\nLet us suppose that the curve for which the potential is $a_{0}$ is\na closed curve, such that no part of the electrified system except\nthe half-unit at the origin lies within this curve.\nThen all the curves (a) between this curve and the origin\nwill be closed curves surrounding the origin, and all the curves\n$(\\beta)$ will meet in the origin, and will cut the curves (a) ortho-\ngonally.\nThe coordinates of any point within the curve ( $a_{0}$ ) will be\ndetermined by the values of $a$ and $\\beta$ at that point, and if the\npoint travels round one of the curves ( $a$ ) in the positive direc-\ntion, the value of $\\beta$ will increase by $2 \\pi$ for each complete circuit.\nIf we now suppose the curve $\\left(a_{0}\\right)$ to be the section of the inner\n\n* See Crelle's Journul, lix. p. 335, 1861, also Schwarz Crelle, lxxiv. p. 218, 1872.\n",
+    "mathpix_markdown": "\n--- Page 327 ---\n\n\nIf the point $P^{\\prime}$ is defined by its polar coordinates referred to\n the centre of the circle, and if we put\n\nthen\n\n$$\\begin{gather*}\n\\rho=\\log r-\\log b, \\text { and } \\rho_{0}=\\log A A^{\\prime}-\\log b, \\\\\nA P^{\\prime}=b e^{\\rho}, \\quad A A^{\\prime}=b e^{\\rho_{0}}, \\quad A O=b e^{-\\rho_{0}} ; \\tag{10}\n\\end{gather*}$$\n\nand the potential at the point ( $\\rho, \\theta$ ) is\n\n$$\\begin{align*}\n& \\phi=E \\log \\left(e^{-2 \\rho_{0}}-2 e^{-\\rho_{0}} e^{\\rho} \\cos \\theta+e^{2 \\rho}\\right) \\\\\n&-E \\log \\left(e^{2 \\rho_{0}}-2 e^{\\rho_{0}} e^{\\rho} \\cos \\theta+e^{2 \\rho}\\right)+2 E \\rho_{0} . \\tag{11}\n\\end{align*}$$\n\n\nThis is the potential at the point $(\\rho, \\theta)$ due to a charge $E$,\n placed at the point ( $\\rho_{0}, 0$ ), with the condition that when $\\rho=0$,\n $\\psi=0$.\n\n\nIn this case $\\rho$ and $\\theta$ are the conjugate functions in equations\n (5): $\\rho$ is the logarithm of the ratio of the radius vector of a\n point to the radius of the circle, and $\\theta$ is an angle.\n\n\nThe centre is the only singular point in this system of coor\ndinates, and the line-integral $\\int \\frac{d \\theta}{d s} d s$ round a closed curve is\n zero or $2 \\pi$, according as the closed curve excludes or includes\n the centre.\n\n\n\\section*{Example III.-Neumann's Transformation of this Case*.}\n\n190.] Now let $a$ and $\\beta$ be any conjugate functions of $x$ and $y$,\n such that the curves (a) are equipotential curves, and the curves\n ( $\\beta$ ) are lines of force due to a system consisting of a charge of\n half a unit per unit length at the origin, and an electrified system\n disposed in any manner at a certain distance from the origin.\n\n\nLet us suppose that the curve for which the potential is $a_{0}$ is\n a closed curve, such that no part of the electrified system except\n the half-unit at the origin lies within this curve.\n\n\nThen all the curves (a) between this curve and the origin\n will be closed curves surrounding the origin, and all the curves\n $(\\beta)$ will meet in the origin, and will cut the curves (a) ortho\ngonally.\n\n\nThe coordinates of any point within the curve ( $a_{0}$ ) will be\n determined by the values of $a$ and $\\beta$ at that point, and if the\n point travels round one of the curves ( $a$ ) in the positive direc\ntion, the value of $\\beta$ will increase by $2 \\pi$ for each complete circuit.\n\n\nIf we now suppose the curve $\\left(a_{0}\\right)$ to be the section of the inner\n\n\n\\footnotetext{\n* See Crelle's Journul, lix. p. 335, 1861, also Schwarz Crelle, lxxiv. p. 218, 1872.\n}\n",
+    "structured_lines": [
+      {
+        "page": 327,
+        "line_number": 4,
+        "type": "text",
+        "content": "If the point $P^{\\prime}$ is defined by its polar coordinates referred to",
+        "mathpix_content": "\n\nIf the point $P^{\\prime}$ is defined by its polar coordinates referred to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 5,
+        "type": "text",
+        "content": "the centre of the circle, and if we put",
+        "mathpix_content": " the centre of the circle, and if we put",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 327,
+        "line_number": 6,
+        "type": "text",
+        "content": "then",
+        "mathpix_content": "\nthen",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 11,
+        "type": "text",
+        "content": "and the potential at the point ( $\\rho, \\theta$ ) is",
+        "mathpix_content": "\nand the potential at the point ( $\\rho, \\theta$ ) is",
+        "font_size": 34,
+        "confidence": 0.864811897277832
+      },
+      {
+        "page": 327,
+        "line_number": 16,
+        "type": "text",
+        "content": "This is the potential at the point $(\\rho, \\theta)$ due to a charge $E$,",
+        "mathpix_content": "\n\nThis is the potential at the point $(\\rho, \\theta)$ due to a charge $E$,",
+        "font_size": 34,
+        "confidence": 0.93603515625
+      },
+      {
+        "page": 327,
+        "line_number": 17,
+        "type": "text",
+        "content": "placed at the point ( $\\rho_{0}, 0$ ), with the condition that when $\\rho=0$,",
+        "mathpix_content": " placed at the point ( $\\rho_{0}, 0$ ), with the condition that when $\\rho=0$,",
+        "font_size": 34,
+        "confidence": 0.6259765625
+      },
+      {
+        "page": 327,
+        "line_number": 18,
+        "type": "text",
+        "content": "$\\psi=0$.",
+        "mathpix_content": " $\\psi=0$.",
+        "font_size": 34,
+        "confidence": 0.5771484375
+      },
+      {
+        "page": 327,
+        "line_number": 19,
+        "type": "text",
+        "content": "In this case $\\rho$ and $\\theta$ are the conjugate functions in equations",
+        "mathpix_content": "\n\nIn this case $\\rho$ and $\\theta$ are the conjugate functions in equations",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 327,
+        "line_number": 20,
+        "type": "text",
+        "content": "(5): $\\rho$ is the logarithm of the ratio of the radius vector of a",
+        "mathpix_content": " (5): $\\rho$ is the logarithm of the ratio of the radius vector of a",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 21,
+        "type": "text",
+        "content": "point to the radius of the circle, and $\\theta$ is an angle.",
+        "mathpix_content": " point to the radius of the circle, and $\\theta$ is an angle.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 22,
+        "type": "text",
+        "content": "The centre is the only singular point in this system of coor-",
+        "mathpix_content": "\n\nThe centre is the only singular point in this system of coor",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 23,
+        "type": "text",
+        "content": "dinates, and the line-integral $\\int \\frac{d \\theta}{d s} d s$ round a closed curve is",
+        "mathpix_content": "dinates, and the line-integral $\\int \\frac{d \\theta}{d s} d s$ round a closed curve is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 24,
+        "type": "text",
+        "content": "zero or $2 \\pi$, according as the closed curve excludes or includes",
+        "mathpix_content": " zero or $2 \\pi$, according as the closed curve excludes or includes",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 327,
+        "line_number": 25,
+        "type": "text",
+        "content": "the centre.",
+        "mathpix_content": " the centre.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 27,
+        "type": "text",
+        "content": "Example III.-Neumann's Transformation of this Case*.",
+        "mathpix_content": "\n\n\\section*{Example III.-Neumann's Transformation of this Case*.}",
+        "font_size": 34,
+        "confidence": 0.9590237045194954
+      },
+      {
+        "page": 327,
+        "line_number": 28,
+        "type": "text",
+        "content": "190.] Now let $a$ and $\\beta$ be any conjugate functions of $x$ and $y$,",
+        "mathpix_content": "\n190.] Now let $a$ and $\\beta$ be any conjugate functions of $x$ and $y$,",
+        "font_size": 34,
+        "confidence": 0.9580078125
+      },
+      {
+        "page": 327,
+        "line_number": 29,
+        "type": "text",
+        "content": "such that the curves (a) are equipotential curves, and the curves",
+        "mathpix_content": " such that the curves (a) are equipotential curves, and the curves",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 327,
+        "line_number": 30,
+        "type": "text",
+        "content": "( $\\beta$ ) are lines of force due to a system consisting of a charge of",
+        "mathpix_content": " ( $\\beta$ ) are lines of force due to a system consisting of a charge of",
+        "font_size": 34,
+        "confidence": 0.7452414035797119
+      },
+      {
+        "page": 327,
+        "line_number": 31,
+        "type": "text",
+        "content": "half a unit per unit length at the origin, and an electrified system",
+        "mathpix_content": " half a unit per unit length at the origin, and an electrified system",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 32,
+        "type": "text",
+        "content": "disposed in any manner at a certain distance from the origin.",
+        "mathpix_content": " disposed in any manner at a certain distance from the origin.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 33,
+        "type": "text",
+        "content": "Let us suppose that the curve for which the potential is $a_{0}$ is",
+        "mathpix_content": "\n\nLet us suppose that the curve for which the potential is $a_{0}$ is",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 327,
+        "line_number": 34,
+        "type": "text",
+        "content": "a closed curve, such that no part of the electrified system except",
+        "mathpix_content": " a closed curve, such that no part of the electrified system except",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 35,
+        "type": "text",
+        "content": "the half-unit at the origin lies within this curve.",
+        "mathpix_content": " the half-unit at the origin lies within this curve.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 36,
+        "type": "text",
+        "content": "Then all the curves (a) between this curve and the origin",
+        "mathpix_content": "\n\nThen all the curves (a) between this curve and the origin",
+        "font_size": 34,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 327,
+        "line_number": 37,
+        "type": "text",
+        "content": "will be closed curves surrounding the origin, and all the curves",
+        "mathpix_content": " will be closed curves surrounding the origin, and all the curves",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 38,
+        "type": "text",
+        "content": "$(\\beta)$ will meet in the origin, and will cut the curves (a) ortho-",
+        "mathpix_content": " $(\\beta)$ will meet in the origin, and will cut the curves (a) ortho",
+        "font_size": 34,
+        "confidence": 0.5421736445277929
+      },
+      {
+        "page": 327,
+        "line_number": 39,
+        "type": "text",
+        "content": "gonally.",
+        "mathpix_content": "gonally.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 40,
+        "type": "text",
+        "content": "The coordinates of any point within the curve ( $a_{0}$ ) will be",
+        "mathpix_content": "\n\nThe coordinates of any point within the curve ( $a_{0}$ ) will be",
+        "font_size": 34,
+        "confidence": 0.793759822845459
+      },
+      {
+        "page": 327,
+        "line_number": 41,
+        "type": "text",
+        "content": "determined by the values of $a$ and $\\beta$ at that point, and if the",
+        "mathpix_content": " determined by the values of $a$ and $\\beta$ at that point, and if the",
+        "font_size": 34,
+        "confidence": 0.99560546875
+      },
+      {
+        "page": 327,
+        "line_number": 42,
+        "type": "text",
+        "content": "point travels round one of the curves ( $a$ ) in the positive direc-",
+        "mathpix_content": " point travels round one of the curves ( $a$ ) in the positive direc",
+        "font_size": 34,
+        "confidence": 0.690346117131412
+      },
+      {
+        "page": 327,
+        "line_number": 43,
+        "type": "text",
+        "content": "tion, the value of $\\beta$ will increase by $2 \\pi$ for each complete circuit.",
+        "mathpix_content": "tion, the value of $\\beta$ will increase by $2 \\pi$ for each complete circuit.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 327,
+        "line_number": 44,
+        "type": "text",
+        "content": "If we now suppose the curve $\\left(a_{0}\\right)$ to be the section of the inner",
+        "mathpix_content": "\n\nIf we now suppose the curve $\\left(a_{0}\\right)$ to be the section of the inner",
+        "font_size": 34,
+        "confidence": 0.9097985797561705
+      },
+      {
+        "page": 327,
+        "line_number": 46,
+        "type": "text",
+        "content": "* See Crelle's Journul, lix. p. 335, 1861, also Schwarz Crelle, lxxiv. p. 218, 1872.",
+        "mathpix_content": "\n\n\\footnotetext{\n* See Crelle's Journul, lix. p. 335, 1861, also Schwarz Crelle, lxxiv. p. 218, 1872.\n}",
+        "font_size": 21,
+        "confidence": 0.9642874070426791
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

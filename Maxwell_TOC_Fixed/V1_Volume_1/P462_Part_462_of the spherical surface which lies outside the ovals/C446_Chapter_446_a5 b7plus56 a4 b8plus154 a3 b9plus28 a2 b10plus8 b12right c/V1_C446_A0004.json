@@ -1,0 +1,20 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "} & =a^{5} c^{-5}+10 a^{8} b^{3} c^{-11}+\\left(15 a^{10} b^{3}+45 a^{8} b^{5}\\right) c^{-13} \\\\",
+  "title_safe": "and equalsa5 c-5plus10 a8 b3 c-11plusleft15 a10 b3plus45 a8",
+  "page_start": 265,
+  "page_end": 264,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,1196 @@
+{
+  "chapter_id": "chapter_41",
+  "chapter_number": 2,
+  "title": "}(x, y, z, \\& c$.$) . When \\phi$ is",
+  "page_start": 42,
+  "page_end": 42,
+  "articles": [
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "] If we suppose the values of all the variables except $x$ to be",
+      "title_safe": "If we suppose the values of all the variables except x to be",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "] If we suppose the values of all the variables except $x$ to be",
+      "title_safe": "If we suppose the values of all the variables except x to be",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_7",
+      "article_number": 7,
+      "title_original": "from $x_{0}$ to $x_{1}, u$ passes continuously from $u_{0}$ to $u_{1}$, but when $x$",
+      "title_safe": "from x0 to x1 u passes continuously from u0 to u1 but when x",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ to $x_{2}, u$ passes from $u_{1}^{\\prime}$ to $u_{2}, u_{1}^{\\prime}$ being different",
+      "title_safe": "to x2 u passes from u1prime to u2 u1prime being different",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, then $u$ is said to have a discontinuity in its variation",
+      "title_safe": "then u is said to have a discontinuity in its variation",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, because it passes abruptly",
+      "title_safe": "because it passes abruptly",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ to $u_{1}^{\\prime}$ while $x$ passes continuously through $a_{1}$.",
+      "title_safe": "to u1prime while x passes continuously through a1",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ as the limit of the fraction",
+      "title_safe": "as the limit of the fraction",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-u_{0}}{x_{2}-u_{0}},$$",
+      "title_safe": "u0x2-u0",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $x_{0}$ are both made to approach $x_{1}$ without limit, then,",
+      "title_safe": "and x0 are both made to approach x1 without limit then",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ and $x_{2}$, are always on opposite sides of $x_{1}$, the ultimate value",
+      "title_safe": "and x2 are always on opposite sides of x1 the ultimate value",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "_{1}^{\\prime}-u_{1}$, and that of the denominator",
+      "title_safe": "1prime-u1 and that of the denominator",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$. If $u$ is not physically con-",
+      "title_safe": "If u is not physically con",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ is a very little less than $x_{1}$, and $x_{2}$ a very little",
+      "title_safe": "is a very little less than x1 and x2 a very little",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, then $u_{0}$ will be very nearly equal to $u_{1}$ and $u_{2}$",
+      "title_safe": "then u0 will be very nearly equal to u1 and u2",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{ }^{\\prime}$. We may now suppose $u$ to vary in any arbitrary but",
+      "title_safe": "prime. We may now suppose u to vary in any arbitrary but",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ to $u_{2}$ between the limits $x_{0}$ and $x_{2}$.",
+      "title_safe": "to u2 between the limits x0 and x2",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ and $x_{2}$ are made to approach that of $x_{1}$ and ultimately to reach",
+      "title_safe": "and x2 are made to approach that of x1 and ultimately to rea",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ".] If we suppose the values of all the variables except $x$ to be",
+      "title_safe": "If we suppose the values of all the variables except x to",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "$. When $\\phi$ is positive",
+      "title_safe": "When phi is positive",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}(x, y, z, \\& c$.$) . When \\phi$ is",
+      "title_safe": "x y z and c. . When phi is",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ to $x_{1}, u$ passes continuously from $u_{0}$ to $u_{1}$, but when $x$",
+      "title_safe": "to x1 u passes continuously from u0 to u1 but when x",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ to $x_{2}, u$ passes from $u_{1}^{\\prime}$ to $u_{2}, u_{1}^{\\prime}$ being different",
+      "title_safe": "to x2 u passes from u1prime to u2 u1prime being different",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, then $u$ is said to have a discontinuity in its variation",
+      "title_safe": "then u is said to have a discontinuity in its variation",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, because it passes abruptly",
+      "title_safe": "because it passes abruptly",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ to $u_{1}^{\\prime}$ while $x$ passes continuously through $a_{1}$.",
+      "title_safe": "to u1prime while x passes continuously through a1",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ as the limit of the fraction",
+      "title_safe": "as the limit of the fraction",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-u_{0}}{x_{2}-u_{0}},$$",
+      "title_safe": "u0x2-u0",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $x_{0}$ are both made to approach $x_{1}$ without limit, then,",
+      "title_safe": "and x0 are both made to approach x1 without limit then",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ and $x_{2}$, are always on opposite sides of $x_{1}$, the ultimate value",
+      "title_safe": "and x2 are always on opposite sides of x1 the ultimate value",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "_{1}^{\\prime}-u_{1}$, and that of the denominator",
+      "title_safe": "1prime-u1 and that of the denominator",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$. If $u$ is not physically con",
+      "title_safe": "If u is not physically con",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ is a very little less than $x_{1}$, and $x_{2}$ a very little",
+      "title_safe": "is a very little less than x1 and x2 a very little",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$, then $u_{0}$ will be very nearly equal to $u_{1}$ and $u_{2}$",
+      "title_safe": "then u0 will be very nearly equal to u1 and u2",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{ }^{\\prime}$. We may now suppose $u$ to vary in any arbitrary but",
+      "title_safe": "prime. We may now suppose u to vary in any arbitrary but",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ to $u_{2}$ between the limits $x_{0}$ and $x_{2}$.",
+      "title_safe": "to u2 between the limits x0 and x2",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "}$ and $x_{2}$ are made to approach that of $x_{1}$ and ultimately to reach",
+      "title_safe": "and x2 are made to approach that of x1 and ultimately to rea",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ".] If we suppose the values of all the variables except $x$ to be",
+      "title_safe": "If we suppose the values of all the variables except x to",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "$. When $\\phi$ is positive",
+      "title_safe": "When phi is positive",
+      "page_start": 42,
+      "page_end": 41,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}(x, y, z, \\& c$.$) . When \\phi$ is",
+      "title_safe": "x y z and c. . When phi is",
+      "page_start": 42,
+      "page_end": 42,
+      "content": {
+        "raw_text": "\n--- Page 42 ---\n8.]\nCONTINUITY AND DISCONTINUITY.\n7\nfrom $x_{0}$ to $x_{1}, u$ passes continuously from $u_{0}$ to $u_{1}$, but when $x$\npasses from $x_{1}$ to $x_{2}, u$ passes from $u_{1}^{\\prime}$ to $u_{2}, u_{1}^{\\prime}$ being different\nfrom $u_{1}$, then $u$ is said to have a discontinuity in its variation\nwith respect to $x$ for the value $x=x_{1}$, because it passes abruptly\nfrom $u_{1}$ to $u_{1}^{\\prime}$ while $x$ passes continuously through $a_{1}$.\nIf we consider the differential coefficient of $u$ with respect to $z$\nfor the value $x=x_{1}$ as the limit of the fraction\n$$\\frac{u_{2}-u_{0}}{x_{2}-u_{0}},$$\nwhen $x_{2}$ and $x_{0}$ are both made to approach $x_{1}$ without limit, then,\nif $x_{0}$ and $x_{2}$, are always on opposite sides of $x_{1}$, the ultimate value\nof the numerator will be \" $1_{1}^{\\prime}-u_{1}$, and that of the denominator\nwill be zero. If $u$ is a quantity physically continuous, the dis-\ncontinuity can exist only with respect to particular values of the\nvariable $u$. We must in this case admit that it has an infinite\ndifferential coefficient when $x=x_{1}$. If $u$ is not physically con-\ntinuous, it cannot be differentiated at all.\nIt is possible in physical questions to get rid of the idea of\ndiscontinuity without sensibly altering the conditions of the\ncase. If $x_{0}$ is a very little less than $x_{1}$, and $x_{2}$ a very little\ngreater than $x_{1}$, then $u_{0}$ will be very nearly equal to $u_{1}$ and $u_{2}$\nto $u_{1}{ }^{\\prime}$. We may now suppose $u$ to vary in any arbitrary but\ncontinuous manner from $u_{0}$ to $u_{2}$ between the limits $x_{0}$ and $x_{2}$.\nIn many physical questions we may begin with a hypothesis of\nthis kind, and then investigate the result when the values of\n$x_{0}$ and $x_{2}$ are made to approach that of $x_{1}$ and ultimately to reach\nit. If the result is independent of the arbitrary manner in\nwhich we have supposed $u$ to vary between the limits, we may\nassume that it is true when $u$ is discontinuous.\n\nDiscontinuity of a Function of more tlan One Vuriable.\n8.] If we suppose the values of all the variables except $x$ to be\nconstant, the discontinuity of the function will occur for particular\nvalues of $x$, and these will be connected with the values of the\nother variables by an equation which we may write\n$$\\phi=\\phi(x, y, z, \\& \\mathrm{c} .)=0 .$$\nThe discontinuity will occur when $\\phi=0$. When $\\phi$ is positive\nthe function will have the form $F_{2}(x, y, z, \\& c$.$) . When \\phi$ is\n",
+        "mathpix_markdown": "\n--- Page 42 ---\n\nfrom $x_{0}$ to $x_{1}, u$ passes continuously from $u_{0}$ to $u_{1}$, but when $x$\n passes from $x_{1}$ to $x_{2}, u$ passes from $u_{1}^{\\prime}$ to $u_{2}, u_{1}^{\\prime}$ being different\n from $u_{1}$, then $u$ is said to have a discontinuity in its variation\n with respect to $x$ for the value $x=x_{1}$, because it passes abruptly\n from $u_{1}$ to $u_{1}^{\\prime}$ while $x$ passes continuously through $a_{1}$.\n\n\nIf we consider the differential coefficient of $u$ with respect to $z$\n for the value $x=x_{1}$ as the limit of the fraction\n\n$$\\frac{u_{2}-u_{0}}{x_{2}-u_{0}},$$\n\nwhen $x_{2}$ and $x_{0}$ are both made to approach $x_{1}$ without limit, then,\n if $x_{0}$ and $x_{2}$, are always on opposite sides of $x_{1}$, the ultimate value\n of the numerator will be \" $1_{1}^{\\prime}-u_{1}$, and that of the denominator\n will be zero. If $u$ is a quantity physically continuous, the dis\ncontinuity can exist only with respect to particular values of the\n variable $u$. We must in this case admit that it has an infinite\n differential coefficient when $x=x_{1}$. If $u$ is not physically con\ntinuous, it cannot be differentiated at all.\n\n\nIt is possible in physical questions to get rid of the idea of\n discontinuity without sensibly altering the conditions of the\n case. If $x_{0}$ is a very little less than $x_{1}$, and $x_{2}$ a very little\n greater than $x_{1}$, then $u_{0}$ will be very nearly equal to $u_{1}$ and $u_{2}$\n to $u_{1}{ }^{\\prime}$. We may now suppose $u$ to vary in any arbitrary but\n continuous manner from $u_{0}$ to $u_{2}$ between the limits $x_{0}$ and $x_{2}$.\n In many physical questions we may begin with a hypothesis of\n this kind, and then investigate the result when the values of\n $x_{0}$ and $x_{2}$ are made to approach that of $x_{1}$ and ultimately to reach\n it. If the result is independent of the arbitrary manner in\n which we have supposed $u$ to vary between the limits, we may\n assume that it is true when $u$ is discontinuous.\n\n\n\\section*{Discontinuity of a Function of more tlan One Vuriable.}\n\n8.] If we suppose the values of all the variables except $x$ to be\n constant, the discontinuity of the function will occur for particular\n values of $x$, and these will be connected with the values of the\n other variables by an equation which we may write\n\n$$\\phi=\\phi(x, y, z, \\& \\mathrm{c} .)=0 .$$\n\n\nThe discontinuity will occur when $\\phi=0$. When $\\phi$ is positive\n the function will have the form $F_{2}(x, y, z, \\& c$.$) . When \\phi$ is\n",
+        "structured_lines": [
+          {
+            "page": 42,
+            "line_number": 4,
+            "type": "text",
+            "content": "from $x_{0}$ to $x_{1}, u$ passes continuously from $u_{0}$ to $u_{1}$, but when $x$",
+            "mathpix_content": "\nfrom $x_{0}$ to $x_{1}, u$ passes continuously from $u_{0}$ to $u_{1}$, but when $x$",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 42,
+            "line_number": 5,
+            "type": "text",
+            "content": "passes from $x_{1}$ to $x_{2}, u$ passes from $u_{1}^{\\prime}$ to $u_{2}, u_{1}^{\\prime}$ being different",
+            "mathpix_content": " passes from $x_{1}$ to $x_{2}, u$ passes from $u_{1}^{\\prime}$ to $u_{2}, u_{1}^{\\prime}$ being different",
+            "font_size": 27,
+            "confidence": 0.89599609375
+          },
+          {
+            "page": 42,
+            "line_number": 6,
+            "type": "text",
+            "content": "from $u_{1}$, then $u$ is said to have a discontinuity in its variation",
+            "mathpix_content": " from $u_{1}$, then $u$ is said to have a discontinuity in its variation",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 42,
+            "line_number": 7,
+            "type": "text",
+            "content": "with respect to $x$ for the value $x=x_{1}$, because it passes abruptly",
+            "mathpix_content": " with respect to $x$ for the value $x=x_{1}$, because it passes abruptly",
+            "font_size": 27,
+            "confidence": 0.99462890625
+          },
+          {
+            "page": 42,
+            "line_number": 8,
+            "type": "text",
+            "content": "from $u_{1}$ to $u_{1}^{\\prime}$ while $x$ passes continuously through $a_{1}$.",
+            "mathpix_content": " from $u_{1}$ to $u_{1}^{\\prime}$ while $x$ passes continuously through $a_{1}$.",
+            "font_size": 27,
+            "confidence": 0.7848358154296875
+          },
+          {
+            "page": 42,
+            "line_number": 9,
+            "type": "text",
+            "content": "If we consider the differential coefficient of $u$ with respect to $z$",
+            "mathpix_content": "\n\nIf we consider the differential coefficient of $u$ with respect to $z$",
+            "font_size": 27,
+            "confidence": 0.41943359375
+          },
+          {
+            "page": 42,
+            "line_number": 10,
+            "type": "text",
+            "content": "for the value $x=x_{1}$ as the limit of the fraction",
+            "mathpix_content": " for the value $x=x_{1}$ as the limit of the fraction",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 13,
+            "type": "text",
+            "content": "when $x_{2}$ and $x_{0}$ are both made to approach $x_{1}$ without limit, then,",
+            "mathpix_content": "\nwhen $x_{2}$ and $x_{0}$ are both made to approach $x_{1}$ without limit, then,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 14,
+            "type": "text",
+            "content": "if $x_{0}$ and $x_{2}$, are always on opposite sides of $x_{1}$, the ultimate value",
+            "mathpix_content": " if $x_{0}$ and $x_{2}$, are always on opposite sides of $x_{1}$, the ultimate value",
+            "font_size": 27,
+            "confidence": 0.94970703125
+          },
+          {
+            "page": 42,
+            "line_number": 15,
+            "type": "text",
+            "content": "of the numerator will be \" $1_{1}^{\\prime}-u_{1}$, and that of the denominator",
+            "mathpix_content": " of the numerator will be \" $1_{1}^{\\prime}-u_{1}$, and that of the denominator",
+            "font_size": 27,
+            "confidence": 0.5786644072714622
+          },
+          {
+            "page": 42,
+            "line_number": 16,
+            "type": "text",
+            "content": "will be zero. If $u$ is a quantity physically continuous, the dis-",
+            "mathpix_content": " will be zero. If $u$ is a quantity physically continuous, the dis",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 17,
+            "type": "text",
+            "content": "continuity can exist only with respect to particular values of the",
+            "mathpix_content": "continuity can exist only with respect to particular values of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 18,
+            "type": "text",
+            "content": "variable $u$. We must in this case admit that it has an infinite",
+            "mathpix_content": " variable $u$. We must in this case admit that it has an infinite",
+            "font_size": 27,
+            "confidence": 0.982445478439331
+          },
+          {
+            "page": 42,
+            "line_number": 19,
+            "type": "text",
+            "content": "differential coefficient when $x=x_{1}$. If $u$ is not physically con-",
+            "mathpix_content": " differential coefficient when $x=x_{1}$. If $u$ is not physically con",
+            "font_size": 27,
+            "confidence": 0.9751212539849803
+          },
+          {
+            "page": 42,
+            "line_number": 20,
+            "type": "text",
+            "content": "tinuous, it cannot be differentiated at all.",
+            "mathpix_content": "tinuous, it cannot be differentiated at all.",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 42,
+            "line_number": 21,
+            "type": "text",
+            "content": "It is possible in physical questions to get rid of the idea of",
+            "mathpix_content": "\n\nIt is possible in physical questions to get rid of the idea of",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 42,
+            "line_number": 22,
+            "type": "text",
+            "content": "discontinuity without sensibly altering the conditions of the",
+            "mathpix_content": " discontinuity without sensibly altering the conditions of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 23,
+            "type": "text",
+            "content": "case. If $x_{0}$ is a very little less than $x_{1}$, and $x_{2}$ a very little",
+            "mathpix_content": " case. If $x_{0}$ is a very little less than $x_{1}$, and $x_{2}$ a very little",
+            "font_size": 27,
+            "confidence": 0.8817794322967529
+          },
+          {
+            "page": 42,
+            "line_number": 24,
+            "type": "text",
+            "content": "greater than $x_{1}$, then $u_{0}$ will be very nearly equal to $u_{1}$ and $u_{2}$",
+            "mathpix_content": " greater than $x_{1}$, then $u_{0}$ will be very nearly equal to $u_{1}$ and $u_{2}$",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 42,
+            "line_number": 25,
+            "type": "text",
+            "content": "to $u_{1}{ }^{\\prime}$. We may now suppose $u$ to vary in any arbitrary but",
+            "mathpix_content": " to $u_{1}{ }^{\\prime}$. We may now suppose $u$ to vary in any arbitrary but",
+            "font_size": 27,
+            "confidence": 0.99267578125
+          },
+          {
+            "page": 42,
+            "line_number": 26,
+            "type": "text",
+            "content": "continuous manner from $u_{0}$ to $u_{2}$ between the limits $x_{0}$ and $x_{2}$.",
+            "mathpix_content": " continuous manner from $u_{0}$ to $u_{2}$ between the limits $x_{0}$ and $x_{2}$.",
+            "font_size": 27,
+            "confidence": 0.96875
+          },
+          {
+            "page": 42,
+            "line_number": 27,
+            "type": "text",
+            "content": "In many physical questions we may begin with a hypothesis of",
+            "mathpix_content": " In many physical questions we may begin with a hypothesis of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 28,
+            "type": "text",
+            "content": "this kind, and then investigate the result when the values of",
+            "mathpix_content": " this kind, and then investigate the result when the values of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 29,
+            "type": "text",
+            "content": "$x_{0}$ and $x_{2}$ are made to approach that of $x_{1}$ and ultimately to reach",
+            "mathpix_content": " $x_{0}$ and $x_{2}$ are made to approach that of $x_{1}$ and ultimately to reach",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 30,
+            "type": "text",
+            "content": "it. If the result is independent of the arbitrary manner in",
+            "mathpix_content": " it. If the result is independent of the arbitrary manner in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 31,
+            "type": "text",
+            "content": "which we have supposed $u$ to vary between the limits, we may",
+            "mathpix_content": " which we have supposed $u$ to vary between the limits, we may",
+            "font_size": 27,
+            "confidence": 0.80810546875
+          },
+          {
+            "page": 42,
+            "line_number": 32,
+            "type": "text",
+            "content": "assume that it is true when $u$ is discontinuous.",
+            "mathpix_content": " assume that it is true when $u$ is discontinuous.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 34,
+            "type": "text",
+            "content": "Discontinuity of a Function of more tlan One Vuriable.",
+            "mathpix_content": "\n\n\\section*{Discontinuity of a Function of more tlan One Vuriable.}",
+            "font_size": 34,
+            "confidence": 0.8740084581324229
+          },
+          {
+            "page": 42,
+            "line_number": 35,
+            "type": "text",
+            "content": "8.] If we suppose the values of all the variables except $x$ to be",
+            "mathpix_content": "\n8.] If we suppose the values of all the variables except $x$ to be",
+            "font_size": 27,
+            "confidence": 0.998046875
+          },
+          {
+            "page": 42,
+            "line_number": 36,
+            "type": "text",
+            "content": "constant, the discontinuity of the function will occur for particular",
+            "mathpix_content": " constant, the discontinuity of the function will occur for particular",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 37,
+            "type": "text",
+            "content": "values of $x$, and these will be connected with the values of the",
+            "mathpix_content": " values of $x$, and these will be connected with the values of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 38,
+            "type": "text",
+            "content": "other variables by an equation which we may write",
+            "mathpix_content": " other variables by an equation which we may write",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 42,
+            "line_number": 41,
+            "type": "text",
+            "content": "The discontinuity will occur when $\\phi=0$. When $\\phi$ is positive",
+            "mathpix_content": "\n\nThe discontinuity will occur when $\\phi=0$. When $\\phi$ is positive",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 42,
+            "line_number": 42,
+            "type": "text",
+            "content": "the function will have the form $F_{2}(x, y, z, \\& c$.$) . When \\phi$ is",
+            "mathpix_content": " the function will have the form $F_{2}(x, y, z, \\& c$.$) . When \\phi$ is",
+            "font_size": 27,
+            "confidence": 0.7533410072806641
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

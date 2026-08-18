@@ -1,0 +1,273 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "$ and $\\phi=2 \\pi$, and between",
+  "title_safe": "and phiequals2 pi and between",
+  "page_start": 465,
+  "page_end": 465,
+  "content": {
+    "raw_text": "\n--- Page 465 ---\n430\nRESISTANCE AND CONDUCTIVITY.\n[307.\nThe resistance of each of the tubes may be calculated by the\nmethod already given for a fine wire, and the resistance of the\nwhole conductor is the reciprocal of the sum of the reciprocals\nof the resistances of all the tubes. The resistance thus found is\ngreater than the natural resistance, except when the tubes follow\nthe natural lines of flow.\nIn the case already considered, where the conductor is in the\nform of an elongated solid of revolution, let us measure $x$ along\nthe axis, and let the radius of the section at any point be $b$.\nLet one set of impermeable surfaces be the planes through the\naxis for each of which $\\phi$ is constant, and let the other set be\nsurfaces of revolution for which\n$$y^{2}=\\psi b^{2}$$\n(9)\nwhere $\\psi$ is a numerical quantity between 0 and 1 .\nLet us consider a portion of one of the tubes bounded by the\nsurfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.\nThe section of the tube taken perpendicular to the axis is\n$$y d y d \\phi=\\frac{1}{2} b^{2} d \\psi d \\phi$$\n(10)\nIf $\\theta$ be the angle which the tube makes with the axis\n$$\\tan \\theta=\\psi^{\\frac{1}{2}} \\frac{d b}{d x}$$\n(11)\nThe true length of the element of the tube is $d x \\sec \\theta$, and its\ntrue section is\n$$\\frac{1}{2} b^{2} d \\psi d \\phi \\cos \\theta$$\nso that its resistance is\nLet\n$$2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) .$$\n(12)\nLet $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,\n(13)\nthe integration being extended over the whole length, $x$, of the\nconductor, then the resistance of the tube $d \\psi d \\phi$ is\n$$\\frac{2}{d \\psi d \\phi}(A+\\psi B),$$\nand its conductivity is\n$$\\frac{d \\psi d \\phi}{2(A+\\psi B)}$$\nTo find the conductivity of the whole conductor, which is the\nsum of the conductivities of the separate tubes, we must inte-\ngrate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between\n",
+    "mathpix_markdown": "\n--- Page 465 ---\n\n\nThe resistance of each of the tubes may be calculated by the\n method already given for a fine wire, and the resistance of the\n whole conductor is the reciprocal of the sum of the reciprocals\n of the resistances of all the tubes. The resistance thus found is\n greater than the natural resistance, except when the tubes follow\n the natural lines of flow.\n\n\nIn the case already considered, where the conductor is in the\n form of an elongated solid of revolution, let us measure $x$ along\n the axis, and let the radius of the section at any point be $b$.\n Let one set of impermeable surfaces be the planes through the\n axis for each of which $\\phi$ is constant, and let the other set be\n surfaces of revolution for which\n\n$$\\begin{equation*}\ny^{2}=\\psi b^{2} \\tag{9}\n\\end{equation*}$$\n\nwhere $\\psi$ is a numerical quantity between 0 and 1 .\n\nLet us consider a portion of one of the tubes bounded by the\n surfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.\n\n\nThe section of the tube taken perpendicular to the axis is\n\n$$\\begin{equation*}\ny d y d \\phi=\\frac{1}{2} b^{2} d \\psi d \\phi \\tag{10}\n\\end{equation*}$$\n\n\nIf $\\theta$ be the angle which the tube makes with the axis\n\n$$\\begin{equation*}\n\\tan \\theta=\\psi^{\\frac{1}{2}} \\frac{d b}{d x} \\tag{11}\n\\end{equation*}$$\n\n\nThe true length of the element of the tube is $d x \\sec \\theta$, and its\n true section is\n\n$$\\frac{1}{2} b^{2} d \\psi d \\phi \\cos \\theta$$\n\nso that its resistance is\n\n\nLet\n\n$$\\begin{equation*}\n2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi} \\sec ^{2} \\theta=2 \\rho \\frac{d x}{b^{2} d \\psi d \\phi}\\left(1+\\left.\\psi \\frac{\\overline{d b}}{d x}\\right|^{2}\\right) . \\tag{12}\n\\end{equation*}$$\n\n\nLet $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,\n\nthe integration being extended over the whole length, $x$, of the\n conductor, then the resistance of the tube $d \\psi d \\phi$ is\n\n$$\\frac{2}{d \\psi d \\phi}(A+\\psi B),$$\n\nand its conductivity is\n\n$$\\frac{d \\psi d \\phi}{2(A+\\psi B)}$$\n\n\nTo find the conductivity of the whole conductor, which is the\n sum of the conductivities of the separate tubes, we must inte\ngrate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between\n",
+    "structured_lines": [
+      {
+        "page": 465,
+        "line_number": 4,
+        "type": "text",
+        "content": "The resistance of each of the tubes may be calculated by the",
+        "mathpix_content": "\n\nThe resistance of each of the tubes may be calculated by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 5,
+        "type": "text",
+        "content": "method already given for a fine wire, and the resistance of the",
+        "mathpix_content": " method already given for a fine wire, and the resistance of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 6,
+        "type": "text",
+        "content": "whole conductor is the reciprocal of the sum of the reciprocals",
+        "mathpix_content": " whole conductor is the reciprocal of the sum of the reciprocals",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 7,
+        "type": "text",
+        "content": "of the resistances of all the tubes. The resistance thus found is",
+        "mathpix_content": " of the resistances of all the tubes. The resistance thus found is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 8,
+        "type": "text",
+        "content": "greater than the natural resistance, except when the tubes follow",
+        "mathpix_content": " greater than the natural resistance, except when the tubes follow",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 9,
+        "type": "text",
+        "content": "the natural lines of flow.",
+        "mathpix_content": " the natural lines of flow.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 10,
+        "type": "text",
+        "content": "In the case already considered, where the conductor is in the",
+        "mathpix_content": "\n\nIn the case already considered, where the conductor is in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 11,
+        "type": "text",
+        "content": "form of an elongated solid of revolution, let us measure $x$ along",
+        "mathpix_content": " form of an elongated solid of revolution, let us measure $x$ along",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 12,
+        "type": "text",
+        "content": "the axis, and let the radius of the section at any point be $b$.",
+        "mathpix_content": " the axis, and let the radius of the section at any point be $b$.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 465,
+        "line_number": 13,
+        "type": "text",
+        "content": "Let one set of impermeable surfaces be the planes through the",
+        "mathpix_content": " Let one set of impermeable surfaces be the planes through the",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 465,
+        "line_number": 14,
+        "type": "text",
+        "content": "axis for each of which $\\phi$ is constant, and let the other set be",
+        "mathpix_content": " axis for each of which $\\phi$ is constant, and let the other set be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 15,
+        "type": "text",
+        "content": "surfaces of revolution for which",
+        "mathpix_content": " surfaces of revolution for which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 19,
+        "type": "text",
+        "content": "where $\\psi$ is a numerical quantity between 0 and 1 .",
+        "mathpix_content": "\nwhere $\\psi$ is a numerical quantity between 0 and 1 .",
+        "font_size": 27,
+        "confidence": 0.93896484375
+      },
+      {
+        "page": 465,
+        "line_number": 20,
+        "type": "text",
+        "content": "Let us consider a portion of one of the tubes bounded by the",
+        "mathpix_content": "\nLet us consider a portion of one of the tubes bounded by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 21,
+        "type": "text",
+        "content": "surfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.",
+        "mathpix_content": " surfaces $\\phi$ and $\\phi+d \\phi, \\psi$ and $\\psi+d \\psi, x$ and $x+d x$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 465,
+        "line_number": 22,
+        "type": "text",
+        "content": "The section of the tube taken perpendicular to the axis is",
+        "mathpix_content": "\n\nThe section of the tube taken perpendicular to the axis is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 26,
+        "type": "text",
+        "content": "If $\\theta$ be the angle which the tube makes with the axis",
+        "mathpix_content": "\n\nIf $\\theta$ be the angle which the tube makes with the axis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 30,
+        "type": "text",
+        "content": "The true length of the element of the tube is $d x \\sec \\theta$, and its",
+        "mathpix_content": "\n\nThe true length of the element of the tube is $d x \\sec \\theta$, and its",
+        "font_size": 27,
+        "confidence": 0.9873046875
+      },
+      {
+        "page": 465,
+        "line_number": 31,
+        "type": "text",
+        "content": "true section is",
+        "mathpix_content": " true section is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 34,
+        "type": "text",
+        "content": "so that its resistance is",
+        "mathpix_content": "\nso that its resistance is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 35,
+        "type": "text",
+        "content": "Let",
+        "mathpix_content": "\n\nLet",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 39,
+        "type": "text",
+        "content": "Let $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+        "mathpix_content": "\n\nLet $\\quad A=\\int \\frac{\\rho}{b^{2}} d x$, and $B=\\int \\frac{\\rho}{b^{2}}\\left(\\frac{d b}{d x}\\right)^{2} d x$,",
+        "font_size": 27,
+        "confidence": 0.9105465412139893
+      },
+      {
+        "page": 465,
+        "line_number": 41,
+        "type": "text",
+        "content": "the integration being extended over the whole length, $x$, of the",
+        "mathpix_content": "\nthe integration being extended over the whole length, $x$, of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 42,
+        "type": "text",
+        "content": "conductor, then the resistance of the tube $d \\psi d \\phi$ is",
+        "mathpix_content": " conductor, then the resistance of the tube $d \\psi d \\phi$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 45,
+        "type": "text",
+        "content": "and its conductivity is",
+        "mathpix_content": "\nand its conductivity is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 48,
+        "type": "text",
+        "content": "To find the conductivity of the whole conductor, which is the",
+        "mathpix_content": "\n\nTo find the conductivity of the whole conductor, which is the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 49,
+        "type": "text",
+        "content": "sum of the conductivities of the separate tubes, we must inte-",
+        "mathpix_content": " sum of the conductivities of the separate tubes, we must inte",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 465,
+        "line_number": 50,
+        "type": "text",
+        "content": "grate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between",
+        "mathpix_content": "grate this expression between $\\phi=0$ and $\\phi=2 \\pi$, and between",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

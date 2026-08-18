@@ -1,0 +1,841 @@
+{
+  "part_id": "part_184",
+  "part_number": 184,
+  "title": "of the",
+  "page_start": 86,
+  "page_end": 86,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 49,
+      "title": "]",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 51,
+      "title": "A conductor placed inside the vessel and communicating with",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 47,
+      "title": "] The line described by a point moving always in the direc-",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 48,
+      "title": "] Since the surface of a conductor is an equipotential surface,",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 80,
+      "title": "that it is proportional to the superficial density of",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 49,
+      "title": "] When two conductors at different potentials are connected",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 2,
+      "title": "A conductor placed inside the vessel and communicating with",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 47,
+      "title": "] The line described by a point moving always in the direc",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 48,
+      "title": "] Since the surface of a conductor is an equipotential surface,",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 80,
+      "title": "that it is proportional to the superficial density of",
+      "page_start": 86,
+      "page_end": 85,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 49,
+      "title": "] When two conductors at different potentials are connected",
+      "page_start": 86,
+      "page_end": 86,
+      "articles": [
+        {
+          "article_id": "article_80",
+          "article_number": 80,
+          "title_original": "that it is proportional to the superficial density of",
+          "title_safe": "that it is proportional to the superficial density of",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_80",
+          "article_number": 80,
+          "title_original": "that it is proportional to the superficial density of",
+          "title_safe": "that it is proportional to the superficial density of",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_49",
+          "article_number": 49,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_47",
+          "article_number": 47,
+          "title_original": "] The line described by a point moving always in the direc-",
+          "title_safe": "The line described by a point moving always in the direc",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_48",
+          "article_number": 48,
+          "title_original": "] Since the surface of a conductor is an equipotential surface,",
+          "title_safe": "Since the surface of a conductor is an equipotential surface",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_49",
+          "article_number": 49,
+          "title_original": "] When two conductors at different potentials are connected",
+          "title_safe": "When two conductors at different potentials are connected",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_47",
+          "article_number": 47,
+          "title_original": "] The line described by a point moving always in the direc",
+          "title_safe": "The line described by a point moving always in the direc",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_48",
+          "article_number": 48,
+          "title_original": "] Since the surface of a conductor is an equipotential surface,",
+          "title_safe": "Since the surface of a conductor is an equipotential surface",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_49",
+          "article_number": 49,
+          "title_original": "] When two conductors at different potentials are connected",
+          "title_safe": "When two conductors at different potentials are connected",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_49",
+          "article_number": 49,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_51",
+          "article_number": 51,
+          "title_original": "A conductor placed inside the vessel and communicating with",
+          "title_safe": "A conductor placed inside the vessel and communicating with",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_47",
+          "article_number": 47,
+          "title_original": ".] The line described by a point moving always in the direc-",
+          "title_safe": "The line described by a point moving always in the direc",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_48",
+          "article_number": 48,
+          "title_original": ".] Since the surface of a conductor is an equipotential surface,",
+          "title_safe": "Since the surface of a conductor is an equipotential surfa",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_80",
+          "article_number": 80,
+          "title_original": "that it is proportional to the superficial density of",
+          "title_safe": "that it is proportional to the superficial density of",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_49",
+          "article_number": 49,
+          "title_original": ".] When two conductors at different potentials are connected",
+          "title_safe": "When two conductors at different potentials are connected",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "A conductor placed inside the vessel and communicating with",
+          "title_safe": "A conductor placed inside the vessel and communicating with",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_47",
+          "article_number": 47,
+          "title_original": ".] The line described by a point moving always in the direc",
+          "title_safe": "The line described by a point moving always in the direc",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_48",
+          "article_number": 48,
+          "title_original": ".] Since the surface of a conductor is an equipotential surface,",
+          "title_safe": "Since the surface of a conductor is an equipotential surfa",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_80",
+          "article_number": 80,
+          "title_original": "that it is proportional to the superficial density of",
+          "title_safe": "that it is proportional to the superficial density of",
+          "page_start": 86,
+          "page_end": 85,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_49",
+          "article_number": 49,
+          "title_original": ".] When two conductors at different potentials are connected",
+          "title_safe": "When two conductors at different potentials are connected",
+          "page_start": 86,
+          "page_end": 86,
+          "content": {
+            "raw_text": "\n--- Page 86 ---\n49.]\nELECTRIC TENSION.\n51\nA conductor placed inside the vessel and communicating with\nit, may be considered as bounded by the interior surface. Hence\nsuch a conductor has no charge.\n\nLines of Force.\n47.] The line described by a point moving always in the direc-\ntion of the resultant intensity is called a Line of Force. It cuts\nthe equipotential surfaces at right angles. The properties of\nlines of force will be more fully explained afterwards, because\nFaraday has expressed many of the laws of electrical action in\nterms of his conception of lines of force drawif in the electric\nfield, and indicating both the direction and the intensity at every\npoint.\n\nElectric Tension.\n48.] Since the surface of a conductor is an equipotential surface,\nthe resultant intensity is normal to the surface, and it will be\nshewn in Art. 80 that it is proportional to the superficial density of\nthe electrification. Hence the electricity on any small area of the\nsurface will be acted on by a force tending from the conductor\nand proportional to the product of the resultant intensity and\nthe density, that is, proportional to the square of the resultant\nintensity.\nThis force, which acts outwards as a tension on every part of the\nconductor, will be called electric Tension. It is measured like\nordinary mechanical tension, by the force exerted on unit of area.\nThe word Tension has been used by electricians in several vague\nsenses, and it has been attempted to adopt it in mathematical\nlanguage as a synonym for Potential; but on examining the cases\nin which the word has been used, I think it will be more con-\nsistent with usage and with mechanical analogy to understand by\ntension a pulling force of so many pounds weight per square inch\nexerted on the surface of a conductor or elsewhere. We shall\nfind that the conception of Faraday, that this electric tension\nexists not only at the electrified surface but all along the lines of\nforce, leads to a theory of electric action as a phenomenon of\nstress in a medium.\n\nElectromotive Force.\n49.] When two conductors at different potentials are connected\nby a thin conducting wire, the tendency of electricity to flow\nE 2\n",
+            "mathpix_markdown": "\n--- Page 86 ---\n\n\nA conductor placed inside the vessel and communicating with\n it, may be considered as bounded by the interior surface. Hence\n such a conductor has no charge.\n\n\n\\section*{Lines of Force.}\n\n47.] The line described by a point moving always in the direc\ntion of the resultant intensity is called a Line of Force. It cuts\n the equipotential surfaces at right angles. The properties of\n lines of force will be more fully explained afterwards, because\n Faraday has expressed many of the laws of electrical action in\n terms of his conception of lines of force drawif in the electric\n field, and indicating both the direction and the intensity at every\n point.\n\n\n\\section*{Electric Tension.}\n\n48.] Since the surface of a conductor is an equipotential surface,\n the resultant intensity is normal to the surface, and it will be\n shewn in Art. 80 that it is proportional to the superficial density of\n the electrification. Hence the electricity on any small area of the\n surface will be acted on by a force tending from the conductor\n and proportional to the product of the resultant intensity and\n the density, that is, proportional to the square of the resultant\n intensity.\n\n\nThis force, which acts outwards as a tension on every part of the\n conductor, will be called electric Tension. It is measured like\n ordinary mechanical tension, by the force exerted on unit of area.\n\n\nThe word Tension has been used by electricians in several vague\n senses, and it has been attempted to adopt it in mathematical\n language as a synonym for Potential; but on examining the cases\n in which the word has been used, I think it will be more con\nsistent with usage and with mechanical analogy to understand by\n tension a pulling force of so many pounds weight per square inch\n exerted on the surface of a conductor or elsewhere. We shall\n find that the conception of Faraday, that this electric tension\n exists not only at the electrified surface but all along the lines of\n force, leads to a theory of electric action as a phenomenon of\n stress in a medium.\n\n\n\\section*{Electromotive Force.}\n\n49.] When two conductors at different potentials are connected\n by a thin conducting wire, the tendency of electricity to flow\n",
+            "structured_lines": [
+              {
+                "page": 86,
+                "line_number": 4,
+                "type": "text",
+                "content": "A conductor placed inside the vessel and communicating with",
+                "mathpix_content": "\n\nA conductor placed inside the vessel and communicating with",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 5,
+                "type": "text",
+                "content": "it, may be considered as bounded by the interior surface. Hence",
+                "mathpix_content": " it, may be considered as bounded by the interior surface. Hence",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 6,
+                "type": "text",
+                "content": "such a conductor has no charge.",
+                "mathpix_content": " such a conductor has no charge.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 8,
+                "type": "text",
+                "content": "Lines of Force.",
+                "mathpix_content": "\n\n\\section*{Lines of Force.}",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 9,
+                "type": "text",
+                "content": "47.] The line described by a point moving always in the direc-",
+                "mathpix_content": "\n47.] The line described by a point moving always in the direc",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 10,
+                "type": "text",
+                "content": "tion of the resultant intensity is called a Line of Force. It cuts",
+                "mathpix_content": "tion of the resultant intensity is called a Line of Force. It cuts",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 11,
+                "type": "text",
+                "content": "the equipotential surfaces at right angles. The properties of",
+                "mathpix_content": " the equipotential surfaces at right angles. The properties of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 12,
+                "type": "text",
+                "content": "lines of force will be more fully explained afterwards, because",
+                "mathpix_content": " lines of force will be more fully explained afterwards, because",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 13,
+                "type": "text",
+                "content": "Faraday has expressed many of the laws of electrical action in",
+                "mathpix_content": " Faraday has expressed many of the laws of electrical action in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 14,
+                "type": "text",
+                "content": "terms of his conception of lines of force drawif in the electric",
+                "mathpix_content": " terms of his conception of lines of force drawif in the electric",
+                "font_size": 27,
+                "confidence": 0.8406735562020913
+              },
+              {
+                "page": 86,
+                "line_number": 15,
+                "type": "text",
+                "content": "field, and indicating both the direction and the intensity at every",
+                "mathpix_content": " field, and indicating both the direction and the intensity at every",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 16,
+                "type": "text",
+                "content": "point.",
+                "mathpix_content": " point.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 18,
+                "type": "text",
+                "content": "Electric Tension.",
+                "mathpix_content": "\n\n\\section*{Electric Tension.}",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 19,
+                "type": "text",
+                "content": "48.] Since the surface of a conductor is an equipotential surface,",
+                "mathpix_content": "\n48.] Since the surface of a conductor is an equipotential surface,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 20,
+                "type": "text",
+                "content": "the resultant intensity is normal to the surface, and it will be",
+                "mathpix_content": " the resultant intensity is normal to the surface, and it will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 21,
+                "type": "text",
+                "content": "shewn in Art. 80 that it is proportional to the superficial density of",
+                "mathpix_content": " shewn in Art. 80 that it is proportional to the superficial density of",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 86,
+                "line_number": 22,
+                "type": "text",
+                "content": "the electrification. Hence the electricity on any small area of the",
+                "mathpix_content": " the electrification. Hence the electricity on any small area of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 23,
+                "type": "text",
+                "content": "surface will be acted on by a force tending from the conductor",
+                "mathpix_content": " surface will be acted on by a force tending from the conductor",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 24,
+                "type": "text",
+                "content": "and proportional to the product of the resultant intensity and",
+                "mathpix_content": " and proportional to the product of the resultant intensity and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 25,
+                "type": "text",
+                "content": "the density, that is, proportional to the square of the resultant",
+                "mathpix_content": " the density, that is, proportional to the square of the resultant",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 26,
+                "type": "text",
+                "content": "intensity.",
+                "mathpix_content": " intensity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 27,
+                "type": "text",
+                "content": "This force, which acts outwards as a tension on every part of the",
+                "mathpix_content": "\n\nThis force, which acts outwards as a tension on every part of the",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 86,
+                "line_number": 28,
+                "type": "text",
+                "content": "conductor, will be called electric Tension. It is measured like",
+                "mathpix_content": " conductor, will be called electric Tension. It is measured like",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 29,
+                "type": "text",
+                "content": "ordinary mechanical tension, by the force exerted on unit of area.",
+                "mathpix_content": " ordinary mechanical tension, by the force exerted on unit of area.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 30,
+                "type": "text",
+                "content": "The word Tension has been used by electricians in several vague",
+                "mathpix_content": "\n\nThe word Tension has been used by electricians in several vague",
+                "font_size": 27,
+                "confidence": 0.9103696346282959
+              },
+              {
+                "page": 86,
+                "line_number": 31,
+                "type": "text",
+                "content": "senses, and it has been attempted to adopt it in mathematical",
+                "mathpix_content": " senses, and it has been attempted to adopt it in mathematical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 32,
+                "type": "text",
+                "content": "language as a synonym for Potential; but on examining the cases",
+                "mathpix_content": " language as a synonym for Potential; but on examining the cases",
+                "font_size": 27,
+                "confidence": 0.904296875
+              },
+              {
+                "page": 86,
+                "line_number": 33,
+                "type": "text",
+                "content": "in which the word has been used, I think it will be more con-",
+                "mathpix_content": " in which the word has been used, I think it will be more con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 34,
+                "type": "text",
+                "content": "sistent with usage and with mechanical analogy to understand by",
+                "mathpix_content": "sistent with usage and with mechanical analogy to understand by",
+                "font_size": 27,
+                "confidence": 0.833014726638794
+              },
+              {
+                "page": 86,
+                "line_number": 35,
+                "type": "text",
+                "content": "tension a pulling force of so many pounds weight per square inch",
+                "mathpix_content": " tension a pulling force of so many pounds weight per square inch",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 86,
+                "line_number": 36,
+                "type": "text",
+                "content": "exerted on the surface of a conductor or elsewhere. We shall",
+                "mathpix_content": " exerted on the surface of a conductor or elsewhere. We shall",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 37,
+                "type": "text",
+                "content": "find that the conception of Faraday, that this electric tension",
+                "mathpix_content": " find that the conception of Faraday, that this electric tension",
+                "font_size": 27,
+                "confidence": 0.99658203125
+              },
+              {
+                "page": 86,
+                "line_number": 38,
+                "type": "text",
+                "content": "exists not only at the electrified surface but all along the lines of",
+                "mathpix_content": " exists not only at the electrified surface but all along the lines of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 39,
+                "type": "text",
+                "content": "force, leads to a theory of electric action as a phenomenon of",
+                "mathpix_content": " force, leads to a theory of electric action as a phenomenon of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 40,
+                "type": "text",
+                "content": "stress in a medium.",
+                "mathpix_content": " stress in a medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 42,
+                "type": "text",
+                "content": "Electromotive Force.",
+                "mathpix_content": "\n\n\\section*{Electromotive Force.}",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 86,
+                "line_number": 43,
+                "type": "text",
+                "content": "49.] When two conductors at different potentials are connected",
+                "mathpix_content": "\n49.] When two conductors at different potentials are connected",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 86,
+                "line_number": 44,
+                "type": "text",
+                "content": "by a thin conducting wire, the tendency of electricity to flow",
+                "mathpix_content": " by a thin conducting wire, the tendency of electricity to flow",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

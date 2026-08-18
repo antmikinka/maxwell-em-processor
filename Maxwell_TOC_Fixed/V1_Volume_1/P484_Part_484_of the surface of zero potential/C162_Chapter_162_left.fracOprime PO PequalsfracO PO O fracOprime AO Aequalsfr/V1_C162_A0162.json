@@ -1,0 +1,336 @@
+{
+  "article_id": "article_162",
+  "article_number": 162,
+  "title_original": "$$\\left.\\frac{O^{\\prime} P}{O P}=\\frac{O P}{O O}, \\frac{O^{\\prime} A}{O A}=\\frac{O A}{O O}, \\text { so that } \\frac{O^{\\prime} P \\cdot O A}{O P \\cdot O^{\\prime} A}=\\frac{O P}{O A}=e^{u} \\cdot\\right\\}$$",
+  "title_safe": "left.fracOprime PO PequalsfracO PO O fracOprime AO Aequalsfr",
+  "page_start": 303,
+  "page_end": 303,
+  "content": {
+    "raw_text": "\n--- Page 303 ---\n268\nELECTRIC IMAGES.\n[172.\n172.] In order to pass from this case to that of any two spheres\nnot intersecting each other, we begin by finding the two common\ninverse points $\\mathrm{O}, \\mathrm{O}^{\\prime}$\n\n\nFig. 15.\nthrough which all cir-\ncles pass that are ortho-\ngonal to both spheres.\nThen, if we invert the\nsystem with respect to\neither of these points,\nthe spheres become\nconcentric, as in the\nfirst case.\nIf we take the point\n$O$ in Fig. 15 as centre\nof inversion this point\nwill be situated in Fig. 14 somewhere between the two spherical\nsurfaces.\nNow in Art. 171 we solved the case where an electrified point\nis placed between two concentric conductors at zero potential.\nBy inversion of that case with regard to the point $O$ we shall there-\nfore deduce the distributions induced on two spherical conductors\nat potential zero, exterior to one another, by an electrified\npoint in their neighbourhood. In Art. 173 it will be shewn how\nthe results thus obtained may be employed in finding the distri-\nbutions on two spherical charged conductors subject to their\nmutual influence only.\nThe radius $O A P B$ in Fig. 14 on which the successive images\nlie becomes in Fig. 15 an arc of a circle through $O$ and $O^{\\prime}$, and\nthe ratio of O'P to OP is equal to $C e^{n}$ where $C$ is a numerical\nquantity.\nIf we put $\\theta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{P}}{\\mathrm{OP}}, \\quad a=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{A}}{\\mathrm{OA}}, \\quad \\beta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{B}}{\\mathrm{OB}}$,\nthen\n$$\\beta-a=\\varpi, \\quad u+a=\\theta^{*} .$$\nAll the successive images of $P$ will lie on the arc O'APBO.\nThe position of the image of $P$ in $A$ is $Q_{0}$ where\n$$\\theta\\left(\\mathrm{Q}_{0}\\right)=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{Q}_{0}}{\\mathrm{OQ}_{0}}=2 a-\\theta .$$\n* \\{Since $O^{\\prime}$ inverts into $O$, the common centre of the spheres, we have by Art. 162\n$$\\left.\\frac{O^{\\prime} P}{O P}=\\frac{O P}{O O}, \\frac{O^{\\prime} A}{O A}=\\frac{O A}{O O}, \\text { so that } \\frac{O^{\\prime} P \\cdot O A}{O P \\cdot O^{\\prime} A}=\\frac{O P}{O A}=e^{u} \\cdot\\right\\}$$\n",
+    "mathpix_markdown": "\n--- Page 303 ---\n\n172.] In order to pass from this case to that of any two spheres\n not intersecting each other, we begin by finding the two common\n inverse points $\\mathrm{O}, \\mathrm{O}^{\\prime}$\n\n\n\\begin{figure}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-303.jpg?height=433&width=600&top_left_y=328&top_left_x=155}\n\\captionsetup{labelformat=empty}\n\\caption{Fig. 15.}\n\\end{figure}\n\nthrough which all cir\ncles pass that are ortho\ngonal to both spheres.\n Then, if we invert the\n system with respect to\n either of these points,\n the spheres become\n concentric, as in the\n first case.\n\n\nIf we take the point\n $O$ in Fig. 15 as centre\n of inversion this point\n will be situated in Fig. 14 somewhere between the two spherical\n surfaces.\n\n\nNow in Art. 171 we solved the case where an electrified point\n is placed between two concentric conductors at zero potential.\n By inversion of that case with regard to the point $O$ we shall there\nfore deduce the distributions induced on two spherical conductors\n at potential zero, exterior to one another, by an electrified\n point in their neighbourhood. In Art. 173 it will be shewn how\n the results thus obtained may be employed in finding the distri\nbutions on two spherical charged conductors subject to their\n mutual influence only.\n\n\nThe radius $O A P B$ in Fig. 14 on which the successive images\n lie becomes in Fig. 15 an arc of a circle through $O$ and $O^{\\prime}$, and\n the ratio of O'P to OP is equal to $C e^{n}$ where $C$ is a numerical\n quantity.\n\n\nIf we put $\\theta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{P}}{\\mathrm{OP}}, \\quad a=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{A}}{\\mathrm{OA}}, \\quad \\beta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{B}}{\\mathrm{OB}}$,\n\nthen\n\n$$\\beta-a=\\varpi, \\quad u+a=\\theta^{*} .$$\n\n\nAll the successive images of $P$ will lie on the arc O'APBO.\n\nThe position of the image of $P$ in $A$ is $Q_{0}$ where\n\n$$\\theta\\left(\\mathrm{Q}_{0}\\right)=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{Q}_{0}}{\\mathrm{OQ}_{0}}=2 a-\\theta .$$\n\n* \\{Since $O^{\\prime}$ inverts into $O$, the common centre of the spheres, we have by Art. 162\n\n$$\\left.\\frac{O^{\\prime} P}{O P}=\\frac{O P}{O O}, \\frac{O^{\\prime} A}{O A}=\\frac{O A}{O O}, \\text { so that } \\frac{O^{\\prime} P \\cdot O A}{O P \\cdot O^{\\prime} A}=\\frac{O P}{O A}=e^{u} \\cdot\\right\\}$$\n",
+    "structured_lines": [
+      {
+        "page": 303,
+        "line_number": 4,
+        "type": "text",
+        "content": "172.] In order to pass from this case to that of any two spheres",
+        "mathpix_content": "\n172.] In order to pass from this case to that of any two spheres",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 5,
+        "type": "text",
+        "content": "not intersecting each other, we begin by finding the two common",
+        "mathpix_content": " not intersecting each other, we begin by finding the two common",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 6,
+        "type": "text",
+        "content": "inverse points $\\mathrm{O}, \\mathrm{O}^{\\prime}$",
+        "mathpix_content": " inverse points $\\mathrm{O}, \\mathrm{O}^{\\prime}$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 10,
+        "type": "text",
+        "content": "through which all cir-",
+        "mathpix_content": "\nthrough which all cir",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 11,
+        "type": "text",
+        "content": "cles pass that are ortho-",
+        "mathpix_content": "cles pass that are ortho",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 12,
+        "type": "text",
+        "content": "gonal to both spheres.",
+        "mathpix_content": "gonal to both spheres.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 13,
+        "type": "text",
+        "content": "Then, if we invert the",
+        "mathpix_content": " Then, if we invert the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 14,
+        "type": "text",
+        "content": "system with respect to",
+        "mathpix_content": " system with respect to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 15,
+        "type": "text",
+        "content": "either of these points,",
+        "mathpix_content": " either of these points,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 16,
+        "type": "text",
+        "content": "the spheres become",
+        "mathpix_content": " the spheres become",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 17,
+        "type": "text",
+        "content": "concentric, as in the",
+        "mathpix_content": " concentric, as in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 18,
+        "type": "text",
+        "content": "first case.",
+        "mathpix_content": " first case.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 19,
+        "type": "text",
+        "content": "If we take the point",
+        "mathpix_content": "\n\nIf we take the point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 20,
+        "type": "text",
+        "content": "$O$ in Fig. 15 as centre",
+        "mathpix_content": " $O$ in Fig. 15 as centre",
+        "font_size": 27,
+        "confidence": 0.734375
+      },
+      {
+        "page": 303,
+        "line_number": 21,
+        "type": "text",
+        "content": "of inversion this point",
+        "mathpix_content": " of inversion this point",
+        "font_size": 27,
+        "confidence": 0.98486328125
+      },
+      {
+        "page": 303,
+        "line_number": 22,
+        "type": "text",
+        "content": "will be situated in Fig. 14 somewhere between the two spherical",
+        "mathpix_content": " will be situated in Fig. 14 somewhere between the two spherical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 23,
+        "type": "text",
+        "content": "surfaces.",
+        "mathpix_content": " surfaces.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 24,
+        "type": "text",
+        "content": "Now in Art. 171 we solved the case where an electrified point",
+        "mathpix_content": "\n\nNow in Art. 171 we solved the case where an electrified point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 25,
+        "type": "text",
+        "content": "is placed between two concentric conductors at zero potential.",
+        "mathpix_content": " is placed between two concentric conductors at zero potential.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 26,
+        "type": "text",
+        "content": "By inversion of that case with regard to the point $O$ we shall there-",
+        "mathpix_content": " By inversion of that case with regard to the point $O$ we shall there",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 303,
+        "line_number": 27,
+        "type": "text",
+        "content": "fore deduce the distributions induced on two spherical conductors",
+        "mathpix_content": "fore deduce the distributions induced on two spherical conductors",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 303,
+        "line_number": 28,
+        "type": "text",
+        "content": "at potential zero, exterior to one another, by an electrified",
+        "mathpix_content": " at potential zero, exterior to one another, by an electrified",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 29,
+        "type": "text",
+        "content": "point in their neighbourhood. In Art. 173 it will be shewn how",
+        "mathpix_content": " point in their neighbourhood. In Art. 173 it will be shewn how",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 303,
+        "line_number": 30,
+        "type": "text",
+        "content": "the results thus obtained may be employed in finding the distri-",
+        "mathpix_content": " the results thus obtained may be employed in finding the distri",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 31,
+        "type": "text",
+        "content": "butions on two spherical charged conductors subject to their",
+        "mathpix_content": "butions on two spherical charged conductors subject to their",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 32,
+        "type": "text",
+        "content": "mutual influence only.",
+        "mathpix_content": " mutual influence only.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 303,
+        "line_number": 33,
+        "type": "text",
+        "content": "The radius $O A P B$ in Fig. 14 on which the successive images",
+        "mathpix_content": "\n\nThe radius $O A P B$ in Fig. 14 on which the successive images",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 303,
+        "line_number": 34,
+        "type": "text",
+        "content": "lie becomes in Fig. 15 an arc of a circle through $O$ and $O^{\\prime}$, and",
+        "mathpix_content": " lie becomes in Fig. 15 an arc of a circle through $O$ and $O^{\\prime}$, and",
+        "font_size": 27,
+        "confidence": 0.8511466979980469
+      },
+      {
+        "page": 303,
+        "line_number": 35,
+        "type": "text",
+        "content": "the ratio of O'P to OP is equal to $C e^{n}$ where $C$ is a numerical",
+        "mathpix_content": " the ratio of O'P to OP is equal to $C e^{n}$ where $C$ is a numerical",
+        "font_size": 27,
+        "confidence": 0.87841796875
+      },
+      {
+        "page": 303,
+        "line_number": 36,
+        "type": "text",
+        "content": "quantity.",
+        "mathpix_content": " quantity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 37,
+        "type": "text",
+        "content": "If we put $\\theta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{P}}{\\mathrm{OP}}, \\quad a=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{A}}{\\mathrm{OA}}, \\quad \\beta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{B}}{\\mathrm{OB}}$,",
+        "mathpix_content": "\n\nIf we put $\\theta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{P}}{\\mathrm{OP}}, \\quad a=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{A}}{\\mathrm{OA}}, \\quad \\beta=\\log \\frac{\\mathrm{O}^{\\prime} \\mathrm{B}}{\\mathrm{OB}}$,",
+        "font_size": 27,
+        "confidence": 0.514420253480634
+      },
+      {
+        "page": 303,
+        "line_number": 38,
+        "type": "text",
+        "content": "then",
+        "mathpix_content": "\nthen",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 303,
+        "line_number": 41,
+        "type": "text",
+        "content": "All the successive images of $P$ will lie on the arc O'APBO.",
+        "mathpix_content": "\n\nAll the successive images of $P$ will lie on the arc O'APBO.",
+        "font_size": 27,
+        "confidence": 0.8703670501708984
+      },
+      {
+        "page": 303,
+        "line_number": 42,
+        "type": "text",
+        "content": "The position of the image of $P$ in $A$ is $Q_{0}$ where",
+        "mathpix_content": "\nThe position of the image of $P$ in $A$ is $Q_{0}$ where",
+        "font_size": 27,
+        "confidence": 0.99658203125
+      },
+      {
+        "page": 303,
+        "line_number": 45,
+        "type": "text",
+        "content": "* \\{Since $O^{\\prime}$ inverts into $O$, the common centre of the spheres, we have by Art. 162",
+        "mathpix_content": "\n* \\{Since $O^{\\prime}$ inverts into $O$, the common centre of the spheres, we have by Art. 162",
+        "font_size": 21,
+        "confidence": 0.9516326819243659
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

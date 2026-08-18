@@ -1,0 +1,909 @@
+{
+  "chapter_id": "chapter_177",
+  "chapter_number": 3,
+  "title": "rd edition, p. 407.",
+  "page_start": 146,
+  "page_end": 146,
+  "articles": [
+    {
+      "article_id": "article_407",
+      "article_number": 407,
+      "title_original": "On certain conditions which the coefficients must satisfy.",
+      "title_safe": "On certain conditions which the coefficients must satisfy",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_407",
+      "article_number": 407,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "b.] PROPERTIES OF THE COEFFICIENTS.",
+      "title_safe": "b. PROPERTIES OF THE COEFFICIENTS",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_111",
+      "article_number": 111,
+      "title_original": "On certain conditions which the coefficients must satisfy.",
+      "title_safe": "On certain conditions which the coefficients must satisfy",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "a$.] In the first place, since the electric energy of a system",
+      "title_safe": "a. In the first place since the electric energy of a system",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "}>0 \\\\",
+      "title_safe": "greater_than0",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "}, p_{12} \\\\",
+      "title_safe": "p12",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": "}, p_{22}",
+      "title_safe": "p22",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "\\\\",
+      "title_safe": "Article",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "} \\cdots p_{1 n} \\\\",
+      "title_safe": "cdots p1 n",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} \\cdots p_{n n}",
+      "title_safe": "cdots pn n",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "\\end{array} \\right\\rvert\\,$$",
+      "title_safe": "endarray rightrvert",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_22",
+      "article_number": 22,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_16",
+      "article_number": 16,
+      "title_original": ") we may arrange the conductors in",
+      "title_safe": "we may arrange the conductors in",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{n}-1$.",
+      "title_safe": "n-1",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "b.] The coefficients of potential are all positive, but none",
+      "title_safe": "b. The coefficients of potential are all positive but none",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": "}$ will also be $p_{r r}$.",
+      "title_safe": "will also be pr r",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": "rd edition, p. 407.",
+      "title_safe": "rd edition p. 407",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "a$.] In the first place, since the electric energy of a system",
+      "title_safe": "a. In the first place since the electric energy of a system",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "}>0  \\tag{22}\\\\",
+      "title_safe": "greater_than0 tag22",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "}, p_{12} \\\\",
+      "title_safe": "p12",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": "}, p_{22}",
+      "title_safe": "p22",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "\\\\",
+      "title_safe": "Article",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "} \\cdots p_{1 n} \\\\",
+      "title_safe": "cdots p1 n",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} \\cdots p_{n n}",
+      "title_safe": "cdots pn n",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": "\\end{array} \\right\\rvert\\,$$",
+      "title_safe": "endarray rightrvert",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_16",
+      "article_number": 16,
+      "title_original": ") we may arrange the conductors in",
+      "title_safe": "we may arrange the conductors in",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "^{n}-1$.",
+      "title_safe": "n-1",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_89",
+      "article_number": 89,
+      "title_original": "b.] The coefficients of potential are all positive, but none",
+      "title_safe": "b. The coefficients of potential are all positive but none",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_6",
+      "article_number": 6,
+      "title_original": "}$ will also be $p_{r r}$.",
+      "title_safe": "will also be pr r",
+      "page_start": 146,
+      "page_end": 145,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": "rd edition, p. 407.",
+      "title_safe": "rd edition p. 407",
+      "page_start": 146,
+      "page_end": 146,
+      "content": {
+        "raw_text": "\n--- Page 146 ---\n89 b.] PROPERTIES OF THE COEFFICIENTS.\n111\nOn certain conditions which the coefficients must satisfy.\n$89 a$.] In the first place, since the electric energy of a system\nis an essentially positive quantity, its expression as a quadratic\nfunction of the charges or of the potentials must be positive,\nwhatever values, positive or negative, are given to the charges\nor the potentials.\nNow the conditions that a homogeneous quadratic function\nof $n$ variables shall be always positive are $n$ in number, and\nmay be written\n$$\\left.\\begin{array}{r}\np_{11}>0 \\\\\n\\left|\\begin{array}{c}\np_{11}, p_{12} \\\\\np_{21}, p_{22}\n\\end{array}\\right|>0 \\\\\n\\left|\\begin{array}{c}\np_{11} \\cdots p_{1 n} \\\\\n\\cdots \\\\\np_{n 1} \\cdots p_{n n}\n\\end{array}\\right|>0\n\\end{array} \\right\\rvert\\,$$\n(22)\nThese $n$ conditions are necessary and sufficient to ensure that\n$W_{e}$ shall be essentially positive *.\nBut since in equation (16) we may arrange the conductors in\nany order, every determinant must be positive which is formed\nsymmetrically from the coefficients belonging to any combin-\nation of the $n$ conductors, and the number of these combinations\nis $2^{n}-1$.\nOnly $n$, however, of the conditions so found can be inde-\npendent.\nThe coefficients of capacity and induction are subject to con-\nditions of the same form.\n89 b.] The coefficients of potential are all positive, but none\nof the coefficients $p_{r s}$ is greater than $p_{r r}$ or $p_{s s}$.\nFor let a charge unity be communicated to $A_{r}$, the other con-\nductors being uncharged. A system of equipotential surfaces\nwill be formed. Of these one will be the surface of $A_{r}$, and its\npotential will be $p_{r r}$. If $A_{\\varepsilon}$ is placed in a hollow excavated in\n$A_{\\text {, so as to be completely enclosed by it, then the potential of }}$\n$A_{6}$ will also be $p_{r r}$.\nIf, however, $A_{s}$ is outside of $A_{r}$ its potential $p_{r}$, will lie between\n$p_{r r}$ and zero.\n\n* See Williamson's Differential Calculus, 3rd edition, p. 407.\n",
+        "mathpix_markdown": "\n--- Page 146 ---\n\n\nOn certain conditions which the coefficients must satisfy.\n\n$89 a$.] In the first place, since the electric energy of a system\n is an essentially positive quantity, its expression as a quadratic\n function of the charges or of the potentials must be positive,\n whatever values, positive or negative, are given to the charges\n or the potentials.\n\n\nNow the conditions that a homogeneous quadratic function\n of $n$ variables shall be always positive are $n$ in number, and\n may be written\n\n$$\\left.\\begin{array}{r}\np_{11}>0  \\tag{22}\\\\\n\\left|\\begin{array}{c}\np_{11}, p_{12} \\\\\np_{21}, p_{22}\n\\end{array}\\right|>0 \\\\\n\\left|\\begin{array}{c}\np_{11} \\cdots p_{1 n} \\\\\n\\cdots \\\\\np_{n 1} \\cdots p_{n n}\n\\end{array}\\right|>0\n\\end{array} \\right\\rvert\\,$$\n\n\nThese $n$ conditions are necessary and sufficient to ensure that\n $W_{e}$ shall be essentially positive *.\n\n\nBut since in equation (16) we may arrange the conductors in\n any order, every determinant must be positive which is formed\n symmetrically from the coefficients belonging to any combin\nation of the $n$ conductors, and the number of these combinations\n is $2^{n}-1$.\n\n\nOnly $n$, however, of the conditions so found can be inde\npendent.\n\n\nThe coefficients of capacity and induction are subject to con\nditions of the same form.\n\n\n89 b.] The coefficients of potential are all positive, but none\n of the coefficients $p_{r s}$ is greater than $p_{r r}$ or $p_{s s}$.\n\nFor let a charge unity be communicated to $A_{r}$, the other con\nductors being uncharged. A system of equipotential surfaces\n will be formed. Of these one will be the surface of $A_{r}$, and its\n potential will be $p_{r r}$. If $A_{\\varepsilon}$ is placed in a hollow excavated in\n $A_{\\text {, so as to be completely enclosed by it, then the potential of }}\n A_{6}$ will also be $p_{r r}$.\n\n\nIf, however, $A_{s}$ is outside of $A_{r}$ its potential $p_{r}$, will lie between\n $p_{r r}$ and zero.\n\n\n\\footnotetext{\n* See Williamson's Differential Calculus, 3rd edition, p. 407.\n}\n",
+        "structured_lines": [
+          {
+            "page": 146,
+            "line_number": 3,
+            "type": "text",
+            "content": "On certain conditions which the coefficients must satisfy.",
+            "mathpix_content": "\n\nOn certain conditions which the coefficients must satisfy.",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 146,
+            "line_number": 4,
+            "type": "text",
+            "content": "$89 a$.] In the first place, since the electric energy of a system",
+            "mathpix_content": "\n$89 a$.] In the first place, since the electric energy of a system",
+            "font_size": 27,
+            "confidence": 0.9559392929077148
+          },
+          {
+            "page": 146,
+            "line_number": 5,
+            "type": "text",
+            "content": "is an essentially positive quantity, its expression as a quadratic",
+            "mathpix_content": " is an essentially positive quantity, its expression as a quadratic",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 6,
+            "type": "text",
+            "content": "function of the charges or of the potentials must be positive,",
+            "mathpix_content": " function of the charges or of the potentials must be positive,",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 146,
+            "line_number": 7,
+            "type": "text",
+            "content": "whatever values, positive or negative, are given to the charges",
+            "mathpix_content": " whatever values, positive or negative, are given to the charges",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 8,
+            "type": "text",
+            "content": "or the potentials.",
+            "mathpix_content": " or the potentials.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 9,
+            "type": "text",
+            "content": "Now the conditions that a homogeneous quadratic function",
+            "mathpix_content": "\n\nNow the conditions that a homogeneous quadratic function",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 10,
+            "type": "text",
+            "content": "of $n$ variables shall be always positive are $n$ in number, and",
+            "mathpix_content": " of $n$ variables shall be always positive are $n$ in number, and",
+            "font_size": 27,
+            "confidence": 0.998046875
+          },
+          {
+            "page": 146,
+            "line_number": 11,
+            "type": "text",
+            "content": "may be written",
+            "mathpix_content": " may be written",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 15,
+            "type": "text",
+            "content": "These $n$ conditions are necessary and sufficient to ensure that",
+            "mathpix_content": "\n\nThese $n$ conditions are necessary and sufficient to ensure that",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 16,
+            "type": "text",
+            "content": "$W_{e}$ shall be essentially positive *.",
+            "mathpix_content": " $W_{e}$ shall be essentially positive *.",
+            "font_size": 27,
+            "confidence": 0.93994140625
+          },
+          {
+            "page": 146,
+            "line_number": 17,
+            "type": "text",
+            "content": "But since in equation (16) we may arrange the conductors in",
+            "mathpix_content": "\n\nBut since in equation (16) we may arrange the conductors in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 18,
+            "type": "text",
+            "content": "any order, every determinant must be positive which is formed",
+            "mathpix_content": " any order, every determinant must be positive which is formed",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 19,
+            "type": "text",
+            "content": "symmetrically from the coefficients belonging to any combin-",
+            "mathpix_content": " symmetrically from the coefficients belonging to any combin",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 20,
+            "type": "text",
+            "content": "ation of the $n$ conductors, and the number of these combinations",
+            "mathpix_content": "ation of the $n$ conductors, and the number of these combinations",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 21,
+            "type": "text",
+            "content": "is $2^{n}-1$.",
+            "mathpix_content": " is $2^{n}-1$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 22,
+            "type": "text",
+            "content": "Only $n$, however, of the conditions so found can be inde-",
+            "mathpix_content": "\n\nOnly $n$, however, of the conditions so found can be inde",
+            "font_size": 27,
+            "confidence": 0.998046875
+          },
+          {
+            "page": 146,
+            "line_number": 23,
+            "type": "text",
+            "content": "pendent.",
+            "mathpix_content": "pendent.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 24,
+            "type": "text",
+            "content": "The coefficients of capacity and induction are subject to con-",
+            "mathpix_content": "\n\nThe coefficients of capacity and induction are subject to con",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 25,
+            "type": "text",
+            "content": "ditions of the same form.",
+            "mathpix_content": "ditions of the same form.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 26,
+            "type": "text",
+            "content": "89 b.] The coefficients of potential are all positive, but none",
+            "mathpix_content": "\n\n89 b.] The coefficients of potential are all positive, but none",
+            "font_size": 27,
+            "confidence": 0.9922029913868755
+          },
+          {
+            "page": 146,
+            "line_number": 27,
+            "type": "text",
+            "content": "of the coefficients $p_{r s}$ is greater than $p_{r r}$ or $p_{s s}$.",
+            "mathpix_content": " of the coefficients $p_{r s}$ is greater than $p_{r r}$ or $p_{s s}$.",
+            "font_size": 27,
+            "confidence": 0.6266900633235614
+          },
+          {
+            "page": 146,
+            "line_number": 28,
+            "type": "text",
+            "content": "For let a charge unity be communicated to $A_{r}$, the other con-",
+            "mathpix_content": "\nFor let a charge unity be communicated to $A_{r}$, the other con",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 146,
+            "line_number": 29,
+            "type": "text",
+            "content": "ductors being uncharged. A system of equipotential surfaces",
+            "mathpix_content": "ductors being uncharged. A system of equipotential surfaces",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 30,
+            "type": "text",
+            "content": "will be formed. Of these one will be the surface of $A_{r}$, and its",
+            "mathpix_content": " will be formed. Of these one will be the surface of $A_{r}$, and its",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 146,
+            "line_number": 31,
+            "type": "text",
+            "content": "potential will be $p_{r r}$. If $A_{\\varepsilon}$ is placed in a hollow excavated in",
+            "mathpix_content": " potential will be $p_{r r}$. If $A_{\\varepsilon}$ is placed in a hollow excavated in",
+            "font_size": 27,
+            "confidence": 0.428955078125
+          },
+          {
+            "page": 146,
+            "line_number": 32,
+            "type": "text",
+            "content": "$A_{\\text {, so as to be completely enclosed by it, then the potential of }}$",
+            "mathpix_content": " $A_{\\text {, so as to be completely enclosed by it, then the potential of }}",
+            "font_size": 27,
+            "confidence": 0.6117382129001113
+          },
+          {
+            "page": 146,
+            "line_number": 33,
+            "type": "text",
+            "content": "$A_{6}$ will also be $p_{r r}$.",
+            "mathpix_content": " A_{6}$ will also be $p_{r r}$.",
+            "font_size": 27,
+            "confidence": 0.7890625
+          },
+          {
+            "page": 146,
+            "line_number": 34,
+            "type": "text",
+            "content": "If, however, $A_{s}$ is outside of $A_{r}$ its potential $p_{r}$, will lie between",
+            "mathpix_content": "\n\nIf, however, $A_{s}$ is outside of $A_{r}$ its potential $p_{r}$, will lie between",
+            "font_size": 27,
+            "confidence": 0.5463113222322136
+          },
+          {
+            "page": 146,
+            "line_number": 35,
+            "type": "text",
+            "content": "$p_{r r}$ and zero.",
+            "mathpix_content": " $p_{r r}$ and zero.",
+            "font_size": 27,
+            "confidence": 0.5458984375
+          },
+          {
+            "page": 146,
+            "line_number": 37,
+            "type": "text",
+            "content": "* See Williamson's Differential Calculus, 3rd edition, p. 407.",
+            "mathpix_content": "\n\n\\footnotetext{\n* See Williamson's Differential Calculus, 3rd edition, p. 407.\n}",
+            "font_size": 21,
+            "confidence": 0.9033203125
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

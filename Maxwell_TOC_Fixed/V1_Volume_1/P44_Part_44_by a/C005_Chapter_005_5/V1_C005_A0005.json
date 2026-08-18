@@ -1,0 +1,57 @@
+{
+  "article_id": "article_5",
+  "article_number": 5,
+  "title_original": "5",
+  "title_safe": "5",
+  "page_start": 21,
+  "page_end": 21,
+  "content": {
+    "raw_text": "\n--- Page 21 ---\nxviii\nCONTENTS.\n\nPART I.\n\nELECTROSTATICS.\n\nCHAPTER I.\n\nDESCRIPTION OF PHENOMENA.\n\n\nArt.\nPage\n\n27. Electrification by friction. Electrification is of two kinds, to\nwhich the names of Vitreous and Resinous, or Positive and\nNegative, have been given\n32\n\n28. Electrification by induction\n33\n\n29. Electrification by conduction. Conductors and insulators\n34\n\n30. In electrification by friction the quantity of the positive elec-\ntrification is equal to that of the negative electrification\n35\n\n31. To charge a vessel with a quantity of electricity equal and\nopposite to that of an excited body\n35\n\n32. To discharge a conductor completely into a metallic vessel\n36\n\n33. Test of electrification by gold-leaf electroscope\n37\n\n34. Electrification, considered as a measurable quantity, may be\ncalled Electricity\n37\n\n35. Electricity may be treated as a physical quantity\n38\n\n36. Theory of Two fluids\n39\n\n37. Theory of One fluid\n41\n\n38. Measurement of the force between electrified bodies\n43\n\n39. Relation between this force and the quantities of electricity\n44\n\n40. Variation of the force with the distance\n45\n\n41, 42. Definition of the electrostatic unit of electricity.-Its\ndimensions\n46\n\n43. Proof of the law of electric force\n46\n\n44. Electric field\n47\n\n45. Electromotive force and potential\n48\n\n46. Equipotential surfaces. Example of their use in reasoning\nabout electricity\n49\n\n47. Lines of force\n51\n\n48. Electric tension\n51\n\n49. Electromotive force\n51\n\n50. Capacity of a conductor. Electric Accumulators\n52\n\n51. Properties of bodies.-Resistance\n52\n\n52. Specific Inductive capacity of a dielectric\n54\n\n53. 'Absorption' of electricity\n55\n",
+    "mathpix_markdown": "\n--- Page 21 ---\n\n\n\\section*{PART I.}\n\n\n\\section*{ELECTROSTATICS.}\n\n\n\\section*{CHAPTER I.}\n\n\n\\section*{DESCRIPTION OF PHENOMENA.}\n\nArt.\n ..... Page\n\n27. Electrification by friction. Electrification is of two kinds, to\n which the names of Vitreous and Resinous, or Positive and\n Negative, have been given\n ..... 32\n\n28. Electrification by induction\n ..... 33\n\n29. Electrification by conduction. Conductors and insulators\n ..... 34\n\n30. In electrification by friction the quantity of the positive elec-\n trification is equal to that of the negative electrification\n ..... 35\n\n31. To charge a vessel with a quantity of electricity equal and\n opposite to that of an excited body\n ..... 35\n\n32. To discharge a conductor completely into a metallic vessel\n ..... 36\n\n33. Test of electrification by gold-leaf electroscope\n ..... 37\n\n34. Electrification, considered as a measurable quantity, may be\n called Electricity\n ..... 37\n\n35. Electricity may be treated as a physical quantity\n ..... 38\n\n36. Theory of Two fluids\n ..... 39\n\n37. Theory of One fluid\n ..... 41\n\n38. Measurement of the force between electrified bodies\n ..... 43\n\n39. Relation between this force and the quantities of electricity\n ..... 44\n\n40. Variation of the force with the distance\n ..... 45\n\n41, 42. Definition of the electrostatic unit of electricity.-Its\n dimensions\n ..... 46\n\n43. Proof of the law of electric force\n ..... 46\n\n44. Electric field\n ..... 47\n\n45. Electromotive force and potential\n ..... 48\n\n46. Equipotential surfaces. Example of their use in reasoning\n about electricity\n ..... 49\n\n47. Lines of force\n ..... 51\n\n48. Electric tension\n ..... 51\n\n49. Electromotive force\n ..... 51\n\n50. Capacity of a conductor. Electric Accumulators\n ..... 52\n\n51. Properties of bodies.-Resistance\n ..... 52\n\n52. Specific Inductive capacity of a dielectric\n ..... 54\n\n53. 'Absorption' of electricity\n ..... 55\n",
+    "structured_lines": [
+      {
+        "page": 21,
+        "line_number": 4,
+        "type": "text",
+        "content": "PART I.",
+        "mathpix_content": "\n\n\\section*{PART I.}",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 21,
+        "line_number": 6,
+        "type": "text",
+        "content": "ELECTROSTATICS.",
+        "mathpix_content": "\n\n\\section*{ELECTROSTATICS.}",
+        "font_size": 26,
+        "confidence": 0.7536845207214355
+      },
+      {
+        "page": 21,
+        "line_number": 8,
+        "type": "text",
+        "content": "CHAPTER I.",
+        "mathpix_content": "\n\n\\section*{CHAPTER I.}",
+        "font_size": 26,
+        "confidence": 0.994140625
+      },
+      {
+        "page": 21,
+        "line_number": 10,
+        "type": "text",
+        "content": "DESCRIPTION OF PHENOMENA.",
+        "mathpix_content": "\n\n\\section*{DESCRIPTION OF PHENOMENA.}",
+        "font_size": 16,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

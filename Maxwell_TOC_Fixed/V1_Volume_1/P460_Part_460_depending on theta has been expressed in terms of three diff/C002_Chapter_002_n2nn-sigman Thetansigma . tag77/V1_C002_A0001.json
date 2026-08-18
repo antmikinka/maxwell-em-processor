@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": ")}=\\varpi(\\sigma, n)=\\frac{(n-\\sigma)!}{(2 n)!} \\frac{d^{n+\\sigma}}{d \\mu^{n+\\sigma}} & \\left(\\mu^{2}-1\\right)^{n} \\\\",
+  "title_safe": "equalsvarpisigma nequalsfracn-sigma2 n fracdnplussigmad munp",
+  "page_start": 248,
+  "page_end": 247,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

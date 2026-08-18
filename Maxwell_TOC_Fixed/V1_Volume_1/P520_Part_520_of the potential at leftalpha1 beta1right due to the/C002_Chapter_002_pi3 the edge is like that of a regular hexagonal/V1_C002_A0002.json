@@ -1,0 +1,219 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "\\pi}{3}$ the edge is like that of a regular hexagonal",
+  "title_safe": "pi3 the edge is like that of a regular hexagonal",
+  "page_start": 330,
+  "page_end": 330,
+  "content": {
+    "raw_text": "\n--- Page 330 ---\n191.]\nDISTRIBUTION OF ELECTRICITY.\n295\nIf we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we\nmay also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have\n$$\\begin{aligned}\nV & =C-4 \\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\\nE & =\\sigma_{0} \\frac{r^{n}}{u^{n-1}}\n\\end{aligned}$$\n$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.\nLet the edge be a salient angle of the conductor, the inclination\nof the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so\nthat when $\\theta=2 \\pi-a$ the point is in the other face of the con-\nductor. We must therefore make\n$$n(2 \\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$\nThen\n$$\\begin{aligned}\n& V=C-4 \\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\\n& E=\\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}\n\\end{aligned}$$\nThe surface-density $\\sigma$ at any distance $r$ from the edge is\n$$\\sigma=\\frac{d E}{d r}=\\frac{\\pi}{2 \\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$\nWhen the angle is a salient one $\\alpha$ is less than $\\pi$, and the\nsurface-density varies according to some inverse power of the\ndistance from the edge, so that at the edge itself the density\nbecomes infinite, although the whole charge reckoned from the\nedge to any finite distance from it is always finite.\nThus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of\na mathematical plane. In this case the density varies inversely\nas the square root of the distance from the edge.\nWhen $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and\nthe density varies inversely as the $\\frac{2}{6}$ th power of the distance.\nWhen $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in-\nversely as the cube root of the distance.\nWhen $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal\n",
+    "mathpix_markdown": "\n--- Page 330 ---\n\n\nIf we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we\n may also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have\n\n$$\\begin{aligned}\nV & =C-4 \\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\\nE & =\\sigma_{0} \\frac{r^{n}}{u^{n-1}}\n\\end{aligned}$$\n\n$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.\n\nLet the edge be a salient angle of the conductor, the inclination\n of the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so\n that when $\\theta=2 \\pi-a$ the point is in the other face of the con\nductor. We must therefore make\n\n$$n(2 \\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$\n\n\nThen\n\n$$\\begin{aligned}\n& V=C-4 \\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\\n& E=\\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}\n\\end{aligned}$$\n\n\nThe surface-density $\\sigma$ at any distance $r$ from the edge is\n\n$$\\sigma=\\frac{d E}{d r}=\\frac{\\pi}{2 \\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$\n\n\nWhen the angle is a salient one $\\alpha$ is less than $\\pi$, and the\n surface-density varies according to some inverse power of the\n distance from the edge, so that at the edge itself the density\n becomes infinite, although the whole charge reckoned from the\n edge to any finite distance from it is always finite.\n\n\nThus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of\n a mathematical plane. In this case the density varies inversely\n as the square root of the distance from the edge.\n\n\nWhen $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and\n the density varies inversely as the $\\frac{2}{6}$ th power of the distance.\n\n\nWhen $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in\nversely as the cube root of the distance.\n\n\nWhen $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal\n",
+    "structured_lines": [
+      {
+        "page": 330,
+        "line_number": 4,
+        "type": "text",
+        "content": "If we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we",
+        "mathpix_content": "\n\nIf we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we",
+        "font_size": 27,
+        "confidence": 0.3619772481252767
+      },
+      {
+        "page": 330,
+        "line_number": 5,
+        "type": "text",
+        "content": "may also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have",
+        "mathpix_content": " may also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 9,
+        "type": "text",
+        "content": "$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.",
+        "mathpix_content": "\n$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 10,
+        "type": "text",
+        "content": "Let the edge be a salient angle of the conductor, the inclination",
+        "mathpix_content": "\nLet the edge be a salient angle of the conductor, the inclination",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 11,
+        "type": "text",
+        "content": "of the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so",
+        "mathpix_content": " of the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 330,
+        "line_number": 12,
+        "type": "text",
+        "content": "that when $\\theta=2 \\pi-a$ the point is in the other face of the con-",
+        "mathpix_content": " that when $\\theta=2 \\pi-a$ the point is in the other face of the con",
+        "font_size": 27,
+        "confidence": 0.947265625
+      },
+      {
+        "page": 330,
+        "line_number": 13,
+        "type": "text",
+        "content": "ductor. We must therefore make",
+        "mathpix_content": "ductor. We must therefore make",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 16,
+        "type": "text",
+        "content": "Then",
+        "mathpix_content": "\n\nThen",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 20,
+        "type": "text",
+        "content": "The surface-density $\\sigma$ at any distance $r$ from the edge is",
+        "mathpix_content": "\n\nThe surface-density $\\sigma$ at any distance $r$ from the edge is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 23,
+        "type": "text",
+        "content": "When the angle is a salient one $\\alpha$ is less than $\\pi$, and the",
+        "mathpix_content": "\n\nWhen the angle is a salient one $\\alpha$ is less than $\\pi$, and the",
+        "font_size": 27,
+        "confidence": 0.8310546875
+      },
+      {
+        "page": 330,
+        "line_number": 24,
+        "type": "text",
+        "content": "surface-density varies according to some inverse power of the",
+        "mathpix_content": " surface-density varies according to some inverse power of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 25,
+        "type": "text",
+        "content": "distance from the edge, so that at the edge itself the density",
+        "mathpix_content": " distance from the edge, so that at the edge itself the density",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 26,
+        "type": "text",
+        "content": "becomes infinite, although the whole charge reckoned from the",
+        "mathpix_content": " becomes infinite, although the whole charge reckoned from the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 27,
+        "type": "text",
+        "content": "edge to any finite distance from it is always finite.",
+        "mathpix_content": " edge to any finite distance from it is always finite.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 28,
+        "type": "text",
+        "content": "Thus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of",
+        "mathpix_content": "\n\nThus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of",
+        "font_size": 27,
+        "confidence": 0.6513671875
+      },
+      {
+        "page": 330,
+        "line_number": 29,
+        "type": "text",
+        "content": "a mathematical plane. In this case the density varies inversely",
+        "mathpix_content": " a mathematical plane. In this case the density varies inversely",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 30,
+        "type": "text",
+        "content": "as the square root of the distance from the edge.",
+        "mathpix_content": " as the square root of the distance from the edge.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 31,
+        "type": "text",
+        "content": "When $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and",
+        "mathpix_content": "\n\nWhen $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and",
+        "font_size": 27,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 330,
+        "line_number": 32,
+        "type": "text",
+        "content": "the density varies inversely as the $\\frac{2}{6}$ th power of the distance.",
+        "mathpix_content": " the density varies inversely as the $\\frac{2}{6}$ th power of the distance.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 330,
+        "line_number": 33,
+        "type": "text",
+        "content": "When $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in-",
+        "mathpix_content": "\n\nWhen $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 34,
+        "type": "text",
+        "content": "versely as the cube root of the distance.",
+        "mathpix_content": "versely as the cube root of the distance.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 330,
+        "line_number": 35,
+        "type": "text",
+        "content": "When $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal",
+        "mathpix_content": "\n\nWhen $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

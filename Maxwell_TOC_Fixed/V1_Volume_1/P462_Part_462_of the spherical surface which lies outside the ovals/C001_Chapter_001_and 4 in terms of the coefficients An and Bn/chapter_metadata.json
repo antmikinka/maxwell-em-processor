@@ -1,0 +1,964 @@
+{
+  "chapter_id": "chapter_596",
+  "chapter_number": 1,
+  "title": ") and (4) in terms of the coefficients $A_{n}$ and $B_{n}$.",
+  "page_start": 266,
+  "page_end": 266,
+  "articles": [
+    {
+      "article_id": "article_87",
+      "article_number": 87,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_87",
+      "article_number": 87,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_146",
+      "article_number": 146,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_146",
+      "article_number": 146,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_231",
+      "article_number": 231,
+      "title_original": "$$\\begin{gathered}",
+      "title_safe": "begingathered",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": "} b^{3}\\left[9 a^{14}+36 a^{12} b^{2}+280 a^{11} b^{3}+84 a^{10} b^{4}+1107 a^{9} b^{5}+318 a^{8} b^{6}\\right. \\\\",
+      "title_safe": "b3left9 a14plus36 a12 b2plus280 a11 b3plus84 a10 b4plus1107",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1668",
+      "article_number": 1668,
+      "title_original": "a^{7} b^{7}+318 a^{6} b^{8}+1107 a^{5} b^{9}+84 a^{4} b^{10}+280 a^{3} b^{11} \\\\",
+      "title_safe": "a7 b7plus318 a6 b8plus1107 a5 b9plus84 a4 b10plus280 a3 b11",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_36",
+      "article_number": 36,
+      "title_original": "a^{2} b^{12}+9 b^{14}\\right] c^{-21}+\\ldots \\\\",
+      "title_safe": "a2 b12plus9 b14right c-21plusldots",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}-a^{3} c^{-4}-a^{5} c^{-6}-a^{7} c^{-8}-\\left(a^{3}+4 b^{3}\\right) a^{6} c^{-10} \\\\",
+      "title_safe": "a3 c-4-a5 c-6-a7 c-8-lefta3plus4 b3right a6 c-10",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_5",
+      "article_number": 5,
+      "title_original": "}+12 a^{2} b^{3}+9 b^{5}\\right) a^{6} c^{-12}-\\left(a^{7}+25 a^{4} b^{3}+36 a^{2} b^{5}+16 b^{7}\\right) a^{6} c^{-14} \\\\",
+      "title_safe": "plus12 a2 b3plus9 b5right a6 c-12-lefta7plus25 a4 b3plus36 a",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_9",
+      "article_number": 9,
+      "title_original": "}+44 a^{6} b^{3}+96 a^{4} b^{5}+16 a^{3} b^{6}+80 a^{2} b^{7}+25 b^{9}\\right) a^{6} c^{-10} \\\\",
+      "title_safe": "plus44 a6 b3plus96 a4 b5plus16 a3 b6plus80 a2 b7plus25 b9rig",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "}+70 a^{8} b^{3}+210 a^{6} b^{5}+84 a^{5} b^{6}+260 a^{4} b^{7}\\right. \\\\",
+      "title_safe": "plus70 a8 b3plus210 a6 b5plus84 a5 b6plus260 a4 b7right",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_72",
+      "article_number": 72,
+      "title_original": "a^{3} b^{8}+150 a^{2} b^{9}+36 b^{11}\\right) a^{6} c^{-18} \\\\",
+      "title_safe": "a3 b8plus150 a2 b9plus36 b11right a6 c-18",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_13",
+      "article_number": 13,
+      "title_original": "}+104 a^{10} b^{3}+406 a^{8} b^{5}+272 a^{7} b^{6}+680 a^{6} b^{7}+468 a^{5} b^{8}\\right. \\\\",
+      "title_safe": "plus104 a10 b3plus406 a8 b5plus272 a7 b6plus680 a6 b7plus468",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_575",
+      "article_number": 575,
+      "title_original": "a^{4} b^{9}+209 a^{3} b^{10}+252 a^{2} b^{11}+49 b^{13}\\right) a^{6} c^{-20} \\\\",
+      "title_safe": "a4 b9plus209 a3 b10plus252 a2 b11plus49 b13right a6 c-20",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_15",
+      "article_number": 15,
+      "title_original": "}+147 a^{12} b^{3}+720 a^{10} b^{5}+693 a^{9} b^{6}+1548 a^{8} b^{7}+1836 a^{7} b^{8}\\right. \\\\",
+      "title_safe": "plus147 a12 b3plus720 a10 b5plus693 a9 b6plus1548 a8 b7plus1",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1814",
+      "article_number": 1814,
+      "title_original": "a^{6} b^{9}+1640 a^{5} b^{10}+1113 a^{4} b^{11}+488 a^{3} b^{12} \\\\",
+      "title_safe": "a6 b9plus1640 a5 b10plus1113 a4 b11plus488 a3 b12",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_392",
+      "article_number": 392,
+      "title_original": "a^{2} b^{13}+64 b^{15}\\right) a^{6} c^{-22}+\\ldots",
+      "title_safe": "a2 b13plus64 b15right a6 c-22plusldots",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_42",
+      "article_number": 42,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_43",
+      "article_number": 43,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_87",
+      "article_number": 87,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} l A^{2}+m A B+\\frac{1}{2} n B^{2},$$",
+      "title_safe": "2 l A2plusm A Bplusfrac12 n B2",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_44",
+      "article_number": 44,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_93",
+      "article_number": 93,
+      "title_original": "a$,",
+      "title_safe": "a",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} A^{2} \\frac{d l}{d c}+A B \\frac{d m}{d c}+\\frac{1}{2} B^{2} \\frac{d n}{d c} .$$",
+      "title_safe": "2 A2 fracd ld cplusA B fracd md cplusfrac12 B2 fracd nd c",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_45",
+      "article_number": 45,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ") and (4) in terms of the coefficients $A_{n}$ and $B_{n}$.",
+      "title_safe": "and 4 in terms of the coefficients An and Bn",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_3",
+      "article_number": 3,
+      "title_original": "} b^{3}\\left[9 a^{14}+36 a^{12} b^{2}+280 a^{11} b^{3}+84 a^{10} b^{4}+1107 a^{9} b^{5}+318 a^{8} b^{6}\\right. \\\\",
+      "title_safe": "b3left9 a14plus36 a12 b2plus280 a11 b3plus84 a10 b4plus1107",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1668",
+      "article_number": 1668,
+      "title_original": "a^{7} b^{7}+318 a^{6} b^{8}+1107 a^{5} b^{9}+84 a^{4} b^{10}+280 a^{3} b^{11} \\\\",
+      "title_safe": "a7 b7plus318 a6 b8plus1107 a5 b9plus84 a4 b10plus280 a3 b11",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_36",
+      "article_number": 36,
+      "title_original": "a^{2} b^{12}+9 b^{14}\\right] c^{-21}+\\ldots  \\tag{42}\\\\",
+      "title_safe": "a2 b12plus9 b14right c-21plusldots tag42",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}-a^{3} c^{-4}-a^{5} c^{-6}-a^{7} c^{-8}-\\left(a^{3}+4 b^{3}\\right) a^{6} c^{-10} \\\\",
+      "title_safe": "a3 c-4-a5 c-6-a7 c-8-lefta3plus4 b3right a6 c-10",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_5",
+      "article_number": 5,
+      "title_original": "}+12 a^{2} b^{3}+9 b^{5}\\right) a^{6} c^{-12}-\\left(a^{7}+25 a^{4} b^{3}+36 a^{2} b^{5}+16 b^{7}\\right) a^{6} c^{-14} \\\\",
+      "title_safe": "plus12 a2 b3plus9 b5right a6 c-12-lefta7plus25 a4 b3plus36 a",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_9",
+      "article_number": 9,
+      "title_original": "}+44 a^{6} b^{3}+96 a^{4} b^{5}+16 a^{3} b^{6}+80 a^{2} b^{7}+25 b^{9}\\right) a^{6} c^{-10} \\\\",
+      "title_safe": "plus44 a6 b3plus96 a4 b5plus16 a3 b6plus80 a2 b7plus25 b9rig",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_11",
+      "article_number": 11,
+      "title_original": "}+70 a^{8} b^{3}+210 a^{6} b^{5}+84 a^{5} b^{6}+260 a^{4} b^{7}\\right. \\\\",
+      "title_safe": "plus70 a8 b3plus210 a6 b5plus84 a5 b6plus260 a4 b7right",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_72",
+      "article_number": 72,
+      "title_original": "a^{3} b^{8}+150 a^{2} b^{9}+36 b^{11}\\right) a^{6} c^{-18} \\\\",
+      "title_safe": "a3 b8plus150 a2 b9plus36 b11right a6 c-18",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_13",
+      "article_number": 13,
+      "title_original": "}+104 a^{10} b^{3}+406 a^{8} b^{5}+272 a^{7} b^{6}+680 a^{6} b^{7}+468 a^{5} b^{8}\\right. \\\\",
+      "title_safe": "plus104 a10 b3plus406 a8 b5plus272 a7 b6plus680 a6 b7plus468",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_575",
+      "article_number": 575,
+      "title_original": "a^{4} b^{9}+209 a^{3} b^{10}+252 a^{2} b^{11}+49 b^{13}\\right) a^{6} c^{-20} \\\\",
+      "title_safe": "a4 b9plus209 a3 b10plus252 a2 b11plus49 b13right a6 c-20",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_15",
+      "article_number": 15,
+      "title_original": "}+147 a^{12} b^{3}+720 a^{10} b^{5}+693 a^{9} b^{6}+1548 a^{8} b^{7}+1836 a^{7} b^{8}\\right. \\\\",
+      "title_safe": "plus147 a12 b3plus720 a10 b5plus693 a9 b6plus1548 a8 b7plus1",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1814",
+      "article_number": 1814,
+      "title_original": "a^{6} b^{9}+1640 a^{5} b^{10}+1113 a^{4} b^{11}+488 a^{3} b^{12} \\\\",
+      "title_safe": "a6 b9plus1640 a5 b10plus1113 a4 b11plus488 a3 b12",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_392",
+      "article_number": 392,
+      "title_original": "a^{2} b^{13}+64 b^{15}\\right) a^{6} c^{-22}+\\ldots \\tag{43}",
+      "title_safe": "a2 b13plus64 b15right a6 c-22plusldots tag43",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_87",
+      "article_number": 87,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} l A^{2}+m A B+\\frac{1}{2} n B^{2}, \\tag{44}",
+      "title_safe": "2 l A2plusm A Bplusfrac12 n B2 tag44",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_93",
+      "article_number": 93,
+      "title_original": "a$,",
+      "title_safe": "a",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{2} A^{2} \\frac{d l}{d c}+A B \\frac{d m}{d c}+\\frac{1}{2} B^{2} \\frac{d n}{d c} . \\tag{45}",
+      "title_safe": "2 A2 fracd ld cplusA B fracd md cplusfrac12 B2 fracd nd c",
+      "page_start": 266,
+      "page_end": 265,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": ") and (4) in terms of the coefficients $A_{n}$ and $B_{n}$.",
+      "title_safe": "and 4 in terms of the coefficients An and Bn",
+      "page_start": 266,
+      "page_end": 266,
+      "content": {
+        "raw_text": "\n--- Page 266 ---\n146.]\nTWO SPHERICAL CONDUCTORS.\n231\n$$\\begin{gathered}\n+a^{3} b^{3}\\left[9 a^{14}+36 a^{12} b^{2}+280 a^{11} b^{3}+84 a^{10} b^{4}+1107 a^{9} b^{5}+318 a^{8} b^{6}\\right. \\\\\n+1668 a^{7} b^{7}+318 a^{6} b^{8}+1107 a^{5} b^{9}+84 a^{4} b^{10}+280 a^{3} b^{11} \\\\\n\\left.+36 a^{2} b^{12}+9 b^{14}\\right] c^{-21}+\\ldots \\\\\nn=b^{-1}-a^{3} c^{-4}-a^{5} c^{-6}-a^{7} c^{-8}-\\left(a^{3}+4 b^{3}\\right) a^{6} c^{-10} \\\\\n-\\left(a^{5}+12 a^{2} b^{3}+9 b^{5}\\right) a^{6} c^{-12}-\\left(a^{7}+25 a^{4} b^{3}+36 a^{2} b^{5}+16 b^{7}\\right) a^{6} c^{-14} \\\\\n-\\left(a^{9}+44 a^{6} b^{3}+96 a^{4} b^{5}+16 a^{3} b^{6}+80 a^{2} b^{7}+25 b^{9}\\right) a^{6} c^{-10} \\\\\n-\\left(a^{11}+70 a^{8} b^{3}+210 a^{6} b^{5}+84 a^{5} b^{6}+260 a^{4} b^{7}\\right. \\\\\n\\left.+72 a^{3} b^{8}+150 a^{2} b^{9}+36 b^{11}\\right) a^{6} c^{-18} \\\\\n-\\left(a^{13}+104 a^{10} b^{3}+406 a^{8} b^{5}+272 a^{7} b^{6}+680 a^{6} b^{7}+468 a^{5} b^{8}\\right. \\\\\n\\left.+575 a^{4} b^{9}+209 a^{3} b^{10}+252 a^{2} b^{11}+49 b^{13}\\right) a^{6} c^{-20} \\\\\n-\\left(a^{15}+147 a^{12} b^{3}+720 a^{10} b^{5}+693 a^{9} b^{6}+1548 a^{8} b^{7}+1836 a^{7} b^{8}\\right. \\\\\n+1814 a^{6} b^{9}+1640 a^{5} b^{10}+1113 a^{4} b^{11}+488 a^{3} b^{12} \\\\\n\\left.+392 a^{2} b^{13}+64 b^{15}\\right) a^{6} c^{-22}+\\ldots\n\\end{gathered}$$\n(42)\n(43)\nThe value of $l$ can be obtained from that of $n$ by interchanging\n$a$ and $b$.\nThe potential energy of the system is, by Art. 87,\n$$W=\\frac{1}{2} l A^{2}+m A B+\\frac{1}{2} n B^{2},$$\n(44)\nand the repulsion between the two spheres is, by Art. $93 a$,\n$$-\\frac{d W}{d c}=\\frac{1}{2} A^{2} \\frac{d l}{d c}+A B \\frac{d m}{d c}+\\frac{1}{2} B^{2} \\frac{d n}{d c} .$$\n(45)\nThe surface density at any point of either sphere is given by\nequations (1) and (4) in terms of the coefficients $A_{n}$ and $B_{n}$.\n",
+        "mathpix_markdown": "\n--- Page 266 ---\n\n$$\\begin{gather*}\n+a^{3} b^{3}\\left[9 a^{14}+36 a^{12} b^{2}+280 a^{11} b^{3}+84 a^{10} b^{4}+1107 a^{9} b^{5}+318 a^{8} b^{6}\\right. \\\\\n+1668 a^{7} b^{7}+318 a^{6} b^{8}+1107 a^{5} b^{9}+84 a^{4} b^{10}+280 a^{3} b^{11} \\\\\n\\left.+36 a^{2} b^{12}+9 b^{14}\\right] c^{-21}+\\ldots  \\tag{42}\\\\\nn=b^{-1}-a^{3} c^{-4}-a^{5} c^{-6}-a^{7} c^{-8}-\\left(a^{3}+4 b^{3}\\right) a^{6} c^{-10} \\\\\n-\\left(a^{5}+12 a^{2} b^{3}+9 b^{5}\\right) a^{6} c^{-12}-\\left(a^{7}+25 a^{4} b^{3}+36 a^{2} b^{5}+16 b^{7}\\right) a^{6} c^{-14} \\\\\n-\\left(a^{9}+44 a^{6} b^{3}+96 a^{4} b^{5}+16 a^{3} b^{6}+80 a^{2} b^{7}+25 b^{9}\\right) a^{6} c^{-10} \\\\\n-\\left(a^{11}+70 a^{8} b^{3}+210 a^{6} b^{5}+84 a^{5} b^{6}+260 a^{4} b^{7}\\right. \\\\\n\\left.+72 a^{3} b^{8}+150 a^{2} b^{9}+36 b^{11}\\right) a^{6} c^{-18} \\\\\n-\\left(a^{13}+104 a^{10} b^{3}+406 a^{8} b^{5}+272 a^{7} b^{6}+680 a^{6} b^{7}+468 a^{5} b^{8}\\right. \\\\\n\\left.+575 a^{4} b^{9}+209 a^{3} b^{10}+252 a^{2} b^{11}+49 b^{13}\\right) a^{6} c^{-20} \\\\\n-\\left(a^{15}+147 a^{12} b^{3}+720 a^{10} b^{5}+693 a^{9} b^{6}+1548 a^{8} b^{7}+1836 a^{7} b^{8}\\right. \\\\\n+1814 a^{6} b^{9}+1640 a^{5} b^{10}+1113 a^{4} b^{11}+488 a^{3} b^{12} \\\\\n\\left.+392 a^{2} b^{13}+64 b^{15}\\right) a^{6} c^{-22}+\\ldots \\tag{43}\n\\end{gather*}$$\n\n\nThe value of $l$ can be obtained from that of $n$ by interchanging\n $a$ and $b$.\n\n\nThe potential energy of the system is, by Art. 87,\n\n$$\\begin{equation*}\nW=\\frac{1}{2} l A^{2}+m A B+\\frac{1}{2} n B^{2}, \\tag{44}\n\\end{equation*}$$\n\nand the repulsion between the two spheres is, by Art. $93 a$,\n\n$$\\begin{equation*}\n-\\frac{d W}{d c}=\\frac{1}{2} A^{2} \\frac{d l}{d c}+A B \\frac{d m}{d c}+\\frac{1}{2} B^{2} \\frac{d n}{d c} . \\tag{45}\n\\end{equation*}$$\n\n\nThe surface density at any point of either sphere is given by\n equations (1) and (4) in terms of the coefficients $A_{n}$ and $B_{n}$.\n",
+        "structured_lines": [
+          {
+            "page": 266,
+            "line_number": 20,
+            "type": "text",
+            "content": "The value of $l$ can be obtained from that of $n$ by interchanging",
+            "mathpix_content": "\n\nThe value of $l$ can be obtained from that of $n$ by interchanging",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 266,
+            "line_number": 21,
+            "type": "text",
+            "content": "$a$ and $b$.",
+            "mathpix_content": " $a$ and $b$.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 266,
+            "line_number": 22,
+            "type": "text",
+            "content": "The potential energy of the system is, by Art. 87,",
+            "mathpix_content": "\n\nThe potential energy of the system is, by Art. 87,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 266,
+            "line_number": 26,
+            "type": "text",
+            "content": "and the repulsion between the two spheres is, by Art. $93 a$,",
+            "mathpix_content": "\nand the repulsion between the two spheres is, by Art. $93 a$,",
+            "font_size": 34,
+            "confidence": 0.9990236759185791
+          },
+          {
+            "page": 266,
+            "line_number": 30,
+            "type": "text",
+            "content": "The surface density at any point of either sphere is given by",
+            "mathpix_content": "\n\nThe surface density at any point of either sphere is given by",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 266,
+            "line_number": 31,
+            "type": "text",
+            "content": "equations (1) and (4) in terms of the coefficients $A_{n}$ and $B_{n}$.",
+            "mathpix_content": " equations (1) and (4) in terms of the coefficients $A_{n}$ and $B_{n}$.",
+            "font_size": 34,
+            "confidence": 0.9990236759185791
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

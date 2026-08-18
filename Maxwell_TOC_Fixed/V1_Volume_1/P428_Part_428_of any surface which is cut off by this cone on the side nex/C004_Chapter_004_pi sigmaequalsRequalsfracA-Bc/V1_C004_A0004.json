@@ -1,0 +1,210 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "\\pi \\sigma=R=\\frac{A-B}{c} .$$",
+  "title_safe": "pi sigmaequalsRequalsfracA-Bc",
+  "page_start": 221,
+  "page_end": 221,
+  "content": {
+    "raw_text": "\n--- Page 221 ---\n\nCHAPTER VIII.\n\nSIMPLE CASES OF ELECTRIFICATION.\n\nTwo Parallel Plunes.\n124.] We shall consider in the first place two parallel plane\nconducting surfaces of intinite extent, at a distance \" from each\nother, maintained respectively at potentials $A$ and $B$.\nIt is manifest that in ihis case the potential $V^{r}$ will be a\nfunction of the distance $z$ from the plane $A$, and will be the same\nfor all points of any parallel plane between $A$, and $B$, except\nnear the boundaries of the electrified surfaces, which by the\nsupposition are at an infinitely great distance from the point\nconsidered.\nHence, Laplace's equation becomes reduced to\n$$\\frac{d^{2} V}{d z^{2}}=0,$$\nthe integral of which is\n$$V=C_{1}+C_{2} z ;$$\nand since when $z=0, V=A$, and when $z=c, V=B$,\n$$V=A+(B-A) \\frac{z}{c} .$$\nFor all points between the planes, the resultant intensity is\nnormal to the planes, and its magnitude is\n$$R=\\frac{A-B}{c} .$$\nIn the substance of the conductors themselves, $R=0$. Hence\nthe distribution of electricity on the first plane has a surface-\ndensity $\\sigma$, where\n$$4 \\pi \\sigma=R=\\frac{A-B}{c} .$$\nOn the other surface, where the potential is $B$, the surface-\n",
+    "mathpix_markdown": "\n--- Page 221 ---\n\n\n\\section*{CHAPTER VIII.}\n\n\n\\section*{SIMPLE CASES OF ELECTRIFICATION.}\n\n\n\\section*{Two Parallel Plunes.}\n\n124.] We shall consider in the first place two parallel plane\n conducting surfaces of intinite extent, at a distance \" from each\n other, maintained respectively at potentials $A$ and $B$.\n\n\nIt is manifest that in ihis case the potential $V^{r}$ will be a\n function of the distance $z$ from the plane $A$, and will be the same\n for all points of any parallel plane between $A$, and $B$, except\n near the boundaries of the electrified surfaces, which by the\n supposition are at an infinitely great distance from the point\n considered.\n\n\nHence, Laplace's equation becomes reduced to\n\n$$\\frac{d^{2} V}{d z^{2}}=0,$$\n\nthe integral of which is\n\n$$V=C_{1}+C_{2} z ;$$\n\nand since when $z=0, V=A$, and when $z=c, V=B$,\n\n$$V=A+(B-A) \\frac{z}{c} .$$\n\n\nFor all points between the planes, the resultant intensity is\n normal to the planes, and its magnitude is\n\n$$R=\\frac{A-B}{c} .$$\n\n\nIn the substance of the conductors themselves, $R=0$. Hence\n the distribution of electricity on the first plane has a surface\ndensity $\\sigma$, where\n\n$$4 \\pi \\sigma=R=\\frac{A-B}{c} .$$\n\n\nOn the other surface, where the potential is $B$, the surface-\n",
+    "structured_lines": [
+      {
+        "page": 221,
+        "line_number": 2,
+        "type": "text",
+        "content": "CHAPTER VIII.",
+        "mathpix_content": "\n\n\\section*{CHAPTER VIII.}",
+        "font_size": 34,
+        "confidence": 0.9755859375
+      },
+      {
+        "page": 221,
+        "line_number": 4,
+        "type": "text",
+        "content": "SIMPLE CASES OF ELECTRIFICATION.",
+        "mathpix_content": "\n\n\\section*{SIMPLE CASES OF ELECTRIFICATION.}",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 221,
+        "line_number": 6,
+        "type": "text",
+        "content": "Two Parallel Plunes.",
+        "mathpix_content": "\n\n\\section*{Two Parallel Plunes.}",
+        "font_size": 34,
+        "confidence": 0.9951221942901611
+      },
+      {
+        "page": 221,
+        "line_number": 7,
+        "type": "text",
+        "content": "124.] We shall consider in the first place two parallel plane",
+        "mathpix_content": "\n124.] We shall consider in the first place two parallel plane",
+        "font_size": 27,
+        "confidence": 0.9951221942901611
+      },
+      {
+        "page": 221,
+        "line_number": 8,
+        "type": "text",
+        "content": "conducting surfaces of intinite extent, at a distance \" from each",
+        "mathpix_content": " conducting surfaces of intinite extent, at a distance \" from each",
+        "font_size": 27,
+        "confidence": 0.4441688897259155
+      },
+      {
+        "page": 221,
+        "line_number": 9,
+        "type": "text",
+        "content": "other, maintained respectively at potentials $A$ and $B$.",
+        "mathpix_content": " other, maintained respectively at potentials $A$ and $B$.",
+        "font_size": 27,
+        "confidence": 0.9921941757202148
+      },
+      {
+        "page": 221,
+        "line_number": 10,
+        "type": "text",
+        "content": "It is manifest that in ihis case the potential $V^{r}$ will be a",
+        "mathpix_content": "\n\nIt is manifest that in ihis case the potential $V^{r}$ will be a",
+        "font_size": 27,
+        "confidence": 0.2857649641641848
+      },
+      {
+        "page": 221,
+        "line_number": 11,
+        "type": "text",
+        "content": "function of the distance $z$ from the plane $A$, and will be the same",
+        "mathpix_content": " function of the distance $z$ from the plane $A$, and will be the same",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 221,
+        "line_number": 12,
+        "type": "text",
+        "content": "for all points of any parallel plane between $A$, and $B$, except",
+        "mathpix_content": " for all points of any parallel plane between $A$, and $B$, except",
+        "font_size": 27,
+        "confidence": 0.9892828464508057
+      },
+      {
+        "page": 221,
+        "line_number": 13,
+        "type": "text",
+        "content": "near the boundaries of the electrified surfaces, which by the",
+        "mathpix_content": " near the boundaries of the electrified surfaces, which by the",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 221,
+        "line_number": 14,
+        "type": "text",
+        "content": "supposition are at an infinitely great distance from the point",
+        "mathpix_content": " supposition are at an infinitely great distance from the point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 221,
+        "line_number": 15,
+        "type": "text",
+        "content": "considered.",
+        "mathpix_content": " considered.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 221,
+        "line_number": 16,
+        "type": "text",
+        "content": "Hence, Laplace's equation becomes reduced to",
+        "mathpix_content": "\n\nHence, Laplace's equation becomes reduced to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 221,
+        "line_number": 19,
+        "type": "text",
+        "content": "the integral of which is",
+        "mathpix_content": "\nthe integral of which is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 221,
+        "line_number": 22,
+        "type": "text",
+        "content": "and since when $z=0, V=A$, and when $z=c, V=B$,",
+        "mathpix_content": "\nand since when $z=0, V=A$, and when $z=c, V=B$,",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 221,
+        "line_number": 25,
+        "type": "text",
+        "content": "For all points between the planes, the resultant intensity is",
+        "mathpix_content": "\n\nFor all points between the planes, the resultant intensity is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 221,
+        "line_number": 26,
+        "type": "text",
+        "content": "normal to the planes, and its magnitude is",
+        "mathpix_content": " normal to the planes, and its magnitude is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 221,
+        "line_number": 29,
+        "type": "text",
+        "content": "In the substance of the conductors themselves, $R=0$. Hence",
+        "mathpix_content": "\n\nIn the substance of the conductors themselves, $R=0$. Hence",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 221,
+        "line_number": 30,
+        "type": "text",
+        "content": "the distribution of electricity on the first plane has a surface-",
+        "mathpix_content": " the distribution of electricity on the first plane has a surface",
+        "font_size": 27,
+        "confidence": 0.9751796722412109
+      },
+      {
+        "page": 221,
+        "line_number": 31,
+        "type": "text",
+        "content": "density $\\sigma$, where",
+        "mathpix_content": "density $\\sigma$, where",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 221,
+        "line_number": 34,
+        "type": "text",
+        "content": "On the other surface, where the potential is $B$, the surface-",
+        "mathpix_content": "\n\nOn the other surface, where the potential is $B$, the surface-",
+        "font_size": 27,
+        "confidence": 0.9766225814819336
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

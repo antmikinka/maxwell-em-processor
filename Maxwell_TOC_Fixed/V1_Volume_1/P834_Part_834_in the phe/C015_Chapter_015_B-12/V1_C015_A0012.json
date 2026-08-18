@@ -1,0 +1,66 @@
+{
+  "article_id": "article_12",
+  "article_number": 12,
+  "title_original": ".$$",
+  "title_safe": "Article",
+  "page_start": 552,
+  "page_end": 553,
+  "content": {
+    "raw_text": "\n--- Page 552 ---\nWerk Maxwett's Electoriciz. Vol.I.\n\nFIG. IV.\nArt 121.\n\nLines of Force and Equipotential Surfaces.\n$$c-20 .$$\nA-15.\n$$B-12 .$$\nUriversiy, Press Qutord\n\n--- Page 553 ---\n\"\n",
+    "mathpix_markdown": "\n--- Page 552 ---\n\n\n\\begin{figure}\n\\captionsetup{labelformat=empty}\n\\caption{FIG. IV. Art 121.}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-552.jpg?height=1132&width=888&top_left_y=393&top_left_x=187}\n\\end{figure}\n\n\nLines of Force and Equipotential Surfaces.\n\n$$c-20 .$$\n\n\nA-15.\n\n$$B-12 .$$\n\n--- Page 553 ---\n\n\"\n",
+    "structured_lines": [
+      {
+        "page": 552,
+        "line_number": 3,
+        "type": "text",
+        "content": "FIG. IV.",
+        "mathpix_content": "",
+        "font_size": 21,
+        "confidence": 0.7150140255689621
+      },
+      {
+        "page": 552,
+        "line_number": 4,
+        "type": "text",
+        "content": "Art 121.",
+        "mathpix_content": "",
+        "font_size": 21,
+        "confidence": 0.9931640625
+      },
+      {
+        "page": 552,
+        "line_number": 6,
+        "type": "text",
+        "content": "Lines of Force and Equipotential Surfaces.",
+        "mathpix_content": "\n\nLines of Force and Equipotential Surfaces.",
+        "font_size": 33,
+        "confidence": 0.9936649716709098
+      },
+      {
+        "page": 552,
+        "line_number": 9,
+        "type": "text",
+        "content": "A-15.",
+        "mathpix_content": "\n\nA-15.",
+        "font_size": 21,
+        "confidence": 0.98681640625
+      },
+      {
+        "page": 553,
+        "line_number": 1,
+        "type": "text",
+        "content": "\"",
+        "mathpix_content": "\n\"",
+        "font_size": 80,
+        "confidence": 0.5988504779525101
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "to $\\infty$. When $\\phi=0$ we have the",
+  "title_safe": "to infty. When phiequals0 we have the",
+  "page_start": 333,
+  "page_end": 333,
+  "content": {
+    "raw_text": "\n--- Page 333 ---\n298\nCONJUGATE FUNCTIONS.\n[193.\nThe value of $\\psi$ along these lines is $\\psi=\\pi\\left(n+\\frac{1}{2}\\right)$ for all points\nboth positive and negative, and\n$$\\phi=\\log \\left(y+\\sqrt{y^{2}+1}\\right)=\\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{e^{\\frac{2 x^{\\prime}}{b}}+1}\\right) .$$\n(10)\n[The curves for which $\\phi$ and $\\psi$ are constant may be traced\ndirectly from the equations\n$$\\begin{aligned}\n& x^{\\prime}=\\frac{1}{2} b \\log \\frac{1}{4}\\left(e^{2 \\phi}+e^{-2 \\phi}+2 \\cos 2 \\psi\\right), \\\\\n& y^{\\prime}=b \\tan ^{-1}\\left(\\frac{e^{\\phi}-e^{-\\phi}}{e^{\\phi}+e^{-\\phi}} \\tan \\psi\\right) .\n\\end{aligned}$$\nAs the figure repeats itself for intervals of $\\pi b$ in the values of\n$y^{\\prime}$ it will be sufficient to trace the lines for one such interval.\nNow there will be two cases, according as $\\phi$ or $\\psi$ changes sign\nwith $y^{\\prime}$. Let us suppose that $\\phi$ so changes sign. Then any\ncurve for which $\\psi$ is constant will be symmetrical about the\naxis of $x^{\\prime}$, cutting that axis orthogonally at some point on its\nnegative side. If we begin with this point for which $\\phi=0$, and\ngradually increase $\\phi$, the curve will bend round from being at\nfirst orthogonal to being, for large values of $\\phi$, at length parallel\nto the axis of $x^{\\prime}$. The positive side of the axis of $x^{\\prime}$ is one of the\nsystem, viz. $\\psi$ is there zero, and when $y^{\\prime}= \\pm \\frac{1}{2} \\pi b, \\psi=\\frac{1}{2} \\pi$.\nThe lines for which $\\psi$ has constant values ranging from 0 to $\\frac{1}{2} \\pi$\nform therefore a system of curves embracing the positive side of\nthe axis of $x^{\\prime}$.\nThe curves for which $\\phi$ has constant values cut the system $\\psi$\northogonally, the values of $\\phi$ ranging from $+\\infty$ to $-\\infty$. For\nany one of the curves $\\phi$ drawn above the axis of $x^{\\prime}$ the value of\n$\\phi$ is positive, along the negative side of the axis of $x^{\\prime}$ the value\nis zero, and for any curve below the axis of $x^{\\prime}$ the value is\nnegative.\nWe have seen that the system $\\psi$ is symmetrical about the axis\nof $x^{\\prime}$; let $P Q R$ be any curve cutting that system orthogonally\nand terminating in $P$ and $R$ in the lines $y^{\\prime}= \\pm \\frac{1}{2} \\pi b$, the point\n$Q$ being in the axis of $x^{\\prime}$. Then the curve $P Q R$ is symmetrical\nabout the axis of $x^{\\prime}$, but if $c$ be the value of $\\phi$ along $P Q$,\nthe value of $\\phi$ along $Q R$ will be - $c$. This discontinuity in the\nvalue of $\\phi$ will be accounted for by an electrical distribution in\nthe case which will be discussed in Art. 195.\nIf we next suppose that $\\psi$ and not $\\phi$ changes sign with $y^{\\prime}$, the\nvalues of $\\phi$ will range from 0 to $\\infty$. When $\\phi=0$ we have the\n",
+    "mathpix_markdown": "\n--- Page 333 ---\n\n\nThe value of $\\psi$ along these lines is $\\psi=\\pi\\left(n+\\frac{1}{2}\\right)$ for all points\n both positive and negative, and\n\n$$\\begin{equation*}\n\\phi=\\log \\left(y+\\sqrt{y^{2}+1}\\right)=\\log \\left(e^{\\frac{x^{\\prime}}{b}}+\\sqrt{e^{\\frac{2 x^{\\prime}}{b}}+1}\\right) . \\tag{10}\n\\end{equation*}$$\n\n[The curves for which $\\phi$ and $\\psi$ are constant may be traced\n directly from the equations\n\n$$\\begin{aligned}\n& x^{\\prime}=\\frac{1}{2} b \\log \\frac{1}{4}\\left(e^{2 \\phi}+e^{-2 \\phi}+2 \\cos 2 \\psi\\right), \\\\\n& y^{\\prime}=b \\tan ^{-1}\\left(\\frac{e^{\\phi}-e^{-\\phi}}{e^{\\phi}+e^{-\\phi}} \\tan \\psi\\right) .\n\\end{aligned}$$\n\n\nAs the figure repeats itself for intervals of $\\pi b$ in the values of\n $y^{\\prime}$ it will be sufficient to trace the lines for one such interval.\n\n\nNow there will be two cases, according as $\\phi$ or $\\psi$ changes sign\n with $y^{\\prime}$. Let us suppose that $\\phi$ so changes sign. Then any\n curve for which $\\psi$ is constant will be symmetrical about the\n axis of $x^{\\prime}$, cutting that axis orthogonally at some point on its\n negative side. If we begin with this point for which $\\phi=0$, and\n gradually increase $\\phi$, the curve will bend round from being at\n first orthogonal to being, for large values of $\\phi$, at length parallel\n to the axis of $x^{\\prime}$. The positive side of the axis of $x^{\\prime}$ is one of the\n system, viz. $\\psi$ is there zero, and when $y^{\\prime}= \\pm \\frac{1}{2} \\pi b, \\psi=\\frac{1}{2} \\pi$.\n The lines for which $\\psi$ has constant values ranging from 0 to $\\frac{1}{2} \\pi$\n form therefore a system of curves embracing the positive side of\n the axis of $x^{\\prime}$.\n\n\nThe curves for which $\\phi$ has constant values cut the system $\\psi$\n orthogonally, the values of $\\phi$ ranging from $+\\infty$ to $-\\infty$. For\n any one of the curves $\\phi$ drawn above the axis of $x^{\\prime}$ the value of\n $\\phi$ is positive, along the negative side of the axis of $x^{\\prime}$ the value\n is zero, and for any curve below the axis of $x^{\\prime}$ the value is\n negative.\n\n\nWe have seen that the system $\\psi$ is symmetrical about the axis\n of $x^{\\prime}$; let $P Q R$ be any curve cutting that system orthogonally\n and terminating in $P$ and $R$ in the lines $y^{\\prime}= \\pm \\frac{1}{2} \\pi b$, the point\n $Q$ being in the axis of $x^{\\prime}$. Then the curve $P Q R$ is symmetrical\n about the axis of $x^{\\prime}$, but if $c$ be the value of $\\phi$ along $P Q$,\n the value of $\\phi$ along $Q R$ will be - $c$. This discontinuity in the\n value of $\\phi$ will be accounted for by an electrical distribution in\n the case which will be discussed in Art. 195.\n\n\nIf we next suppose that $\\psi$ and not $\\phi$ changes sign with $y^{\\prime}$, the\n values of $\\phi$ will range from 0 to $\\infty$. When $\\phi=0$ we have the\n",
+    "structured_lines": [
+      {
+        "page": 333,
+        "line_number": 4,
+        "type": "text",
+        "content": "The value of $\\psi$ along these lines is $\\psi=\\pi\\left(n+\\frac{1}{2}\\right)$ for all points",
+        "mathpix_content": "\n\nThe value of $\\psi$ along these lines is $\\psi=\\pi\\left(n+\\frac{1}{2}\\right)$ for all points",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 333,
+        "line_number": 5,
+        "type": "text",
+        "content": "both positive and negative, and",
+        "mathpix_content": " both positive and negative, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 9,
+        "type": "text",
+        "content": "[The curves for which $\\phi$ and $\\psi$ are constant may be traced",
+        "mathpix_content": "\n[The curves for which $\\phi$ and $\\psi$ are constant may be traced",
+        "font_size": 27,
+        "confidence": 0.998046875
+      },
+      {
+        "page": 333,
+        "line_number": 10,
+        "type": "text",
+        "content": "directly from the equations",
+        "mathpix_content": " directly from the equations",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 14,
+        "type": "text",
+        "content": "As the figure repeats itself for intervals of $\\pi b$ in the values of",
+        "mathpix_content": "\n\nAs the figure repeats itself for intervals of $\\pi b$ in the values of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 15,
+        "type": "text",
+        "content": "$y^{\\prime}$ it will be sufficient to trace the lines for one such interval.",
+        "mathpix_content": " $y^{\\prime}$ it will be sufficient to trace the lines for one such interval.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 16,
+        "type": "text",
+        "content": "Now there will be two cases, according as $\\phi$ or $\\psi$ changes sign",
+        "mathpix_content": "\n\nNow there will be two cases, according as $\\phi$ or $\\psi$ changes sign",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 17,
+        "type": "text",
+        "content": "with $y^{\\prime}$. Let us suppose that $\\phi$ so changes sign. Then any",
+        "mathpix_content": " with $y^{\\prime}$. Let us suppose that $\\phi$ so changes sign. Then any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 18,
+        "type": "text",
+        "content": "curve for which $\\psi$ is constant will be symmetrical about the",
+        "mathpix_content": " curve for which $\\psi$ is constant will be symmetrical about the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 19,
+        "type": "text",
+        "content": "axis of $x^{\\prime}$, cutting that axis orthogonally at some point on its",
+        "mathpix_content": " axis of $x^{\\prime}$, cutting that axis orthogonally at some point on its",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 20,
+        "type": "text",
+        "content": "negative side. If we begin with this point for which $\\phi=0$, and",
+        "mathpix_content": " negative side. If we begin with this point for which $\\phi=0$, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 21,
+        "type": "text",
+        "content": "gradually increase $\\phi$, the curve will bend round from being at",
+        "mathpix_content": " gradually increase $\\phi$, the curve will bend round from being at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 22,
+        "type": "text",
+        "content": "first orthogonal to being, for large values of $\\phi$, at length parallel",
+        "mathpix_content": " first orthogonal to being, for large values of $\\phi$, at length parallel",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 23,
+        "type": "text",
+        "content": "to the axis of $x^{\\prime}$. The positive side of the axis of $x^{\\prime}$ is one of the",
+        "mathpix_content": " to the axis of $x^{\\prime}$. The positive side of the axis of $x^{\\prime}$ is one of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 24,
+        "type": "text",
+        "content": "system, viz. $\\psi$ is there zero, and when $y^{\\prime}= \\pm \\frac{1}{2} \\pi b, \\psi=\\frac{1}{2} \\pi$.",
+        "mathpix_content": " system, viz. $\\psi$ is there zero, and when $y^{\\prime}= \\pm \\frac{1}{2} \\pi b, \\psi=\\frac{1}{2} \\pi$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 333,
+        "line_number": 25,
+        "type": "text",
+        "content": "The lines for which $\\psi$ has constant values ranging from 0 to $\\frac{1}{2} \\pi$",
+        "mathpix_content": " The lines for which $\\psi$ has constant values ranging from 0 to $\\frac{1}{2} \\pi$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 26,
+        "type": "text",
+        "content": "form therefore a system of curves embracing the positive side of",
+        "mathpix_content": " form therefore a system of curves embracing the positive side of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 27,
+        "type": "text",
+        "content": "the axis of $x^{\\prime}$.",
+        "mathpix_content": " the axis of $x^{\\prime}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 28,
+        "type": "text",
+        "content": "The curves for which $\\phi$ has constant values cut the system $\\psi$",
+        "mathpix_content": "\n\nThe curves for which $\\phi$ has constant values cut the system $\\psi$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 29,
+        "type": "text",
+        "content": "orthogonally, the values of $\\phi$ ranging from $+\\infty$ to $-\\infty$. For",
+        "mathpix_content": " orthogonally, the values of $\\phi$ ranging from $+\\infty$ to $-\\infty$. For",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 30,
+        "type": "text",
+        "content": "any one of the curves $\\phi$ drawn above the axis of $x^{\\prime}$ the value of",
+        "mathpix_content": " any one of the curves $\\phi$ drawn above the axis of $x^{\\prime}$ the value of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 31,
+        "type": "text",
+        "content": "$\\phi$ is positive, along the negative side of the axis of $x^{\\prime}$ the value",
+        "mathpix_content": " $\\phi$ is positive, along the negative side of the axis of $x^{\\prime}$ the value",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 32,
+        "type": "text",
+        "content": "is zero, and for any curve below the axis of $x^{\\prime}$ the value is",
+        "mathpix_content": " is zero, and for any curve below the axis of $x^{\\prime}$ the value is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 33,
+        "type": "text",
+        "content": "negative.",
+        "mathpix_content": " negative.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 34,
+        "type": "text",
+        "content": "We have seen that the system $\\psi$ is symmetrical about the axis",
+        "mathpix_content": "\n\nWe have seen that the system $\\psi$ is symmetrical about the axis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 35,
+        "type": "text",
+        "content": "of $x^{\\prime}$; let $P Q R$ be any curve cutting that system orthogonally",
+        "mathpix_content": " of $x^{\\prime}$; let $P Q R$ be any curve cutting that system orthogonally",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 36,
+        "type": "text",
+        "content": "and terminating in $P$ and $R$ in the lines $y^{\\prime}= \\pm \\frac{1}{2} \\pi b$, the point",
+        "mathpix_content": " and terminating in $P$ and $R$ in the lines $y^{\\prime}= \\pm \\frac{1}{2} \\pi b$, the point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 37,
+        "type": "text",
+        "content": "$Q$ being in the axis of $x^{\\prime}$. Then the curve $P Q R$ is symmetrical",
+        "mathpix_content": " $Q$ being in the axis of $x^{\\prime}$. Then the curve $P Q R$ is symmetrical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 38,
+        "type": "text",
+        "content": "about the axis of $x^{\\prime}$, but if $c$ be the value of $\\phi$ along $P Q$,",
+        "mathpix_content": " about the axis of $x^{\\prime}$, but if $c$ be the value of $\\phi$ along $P Q$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 39,
+        "type": "text",
+        "content": "the value of $\\phi$ along $Q R$ will be - $c$. This discontinuity in the",
+        "mathpix_content": " the value of $\\phi$ along $Q R$ will be - $c$. This discontinuity in the",
+        "font_size": 27,
+        "confidence": 0.9456123211421072
+      },
+      {
+        "page": 333,
+        "line_number": 40,
+        "type": "text",
+        "content": "value of $\\phi$ will be accounted for by an electrical distribution in",
+        "mathpix_content": " value of $\\phi$ will be accounted for by an electrical distribution in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 41,
+        "type": "text",
+        "content": "the case which will be discussed in Art. 195.",
+        "mathpix_content": " the case which will be discussed in Art. 195.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 42,
+        "type": "text",
+        "content": "If we next suppose that $\\psi$ and not $\\phi$ changes sign with $y^{\\prime}$, the",
+        "mathpix_content": "\n\nIf we next suppose that $\\psi$ and not $\\phi$ changes sign with $y^{\\prime}$, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 333,
+        "line_number": 43,
+        "type": "text",
+        "content": "values of $\\phi$ will range from 0 to $\\infty$. When $\\phi=0$ we have the",
+        "mathpix_content": " values of $\\phi$ will range from 0 to $\\infty$. When $\\phi=0$ we have the",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

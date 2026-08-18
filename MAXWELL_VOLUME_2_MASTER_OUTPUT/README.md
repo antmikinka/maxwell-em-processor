@@ -22,10 +22,11 @@ the OCR, chapter JSON, or other mechanical extracts. See
 | `CHAPTER I. ELEMENTARY THEORY OF MAGNETISM.json` | Chapter I |
 | `CHAPTER II. MAGNETIC FORCE AND MAGNETIC INDUCTION.json` | Chapter II |
 | `CHAPTER III TO CHAPTER XXIII.json` | Later chapters bundle |
+| `RAW_OUTPUTS/` | Raw Mathpix exports (md, html, zip, docx, tex, …) |
 
 Figures in `volume_2_ocr.md` may point at Mathpix CDN URLs from the
 original OCR run. The source scan is
 `input/15774-A Treatise On Electricity And Magnetism Vol-ii.pdf`.
 
-Raw Mathpix dumps (`RAW_OUTPUTS/`) and the large direct API JSON are
-kept local and are not published.
+Processing logs stay local. Maxwell's text is public domain; no
+copyright is claimed in these extracts.

@@ -1,0 +1,291 @@
+{
+  "article_id": "article_32",
+  "article_number": 32,
+  "title_original": "(Exp. VII).",
+  "title_safe": "Exp. VII",
+  "page_start": 115,
+  "page_end": 115,
+  "content": {
+    "raw_text": "\n--- Page 115 ---\n80\nELECTROSTATICS.\n[74 $a$.\n\nPotential due to any Electrical System.\n73.] Let there be a single electrified point charged with a\nquantity $e$ of electricity, and let $r$ be the distance of the point\n$x^{\\prime}, y^{\\prime}, z^{\\prime}$ from it, then\n$$V=\\int_{r}^{\\infty} R d r=\\int_{r}^{\\infty} \\frac{e}{r^{2}} d r=\\frac{e}{r}$$\nLet there be any number of electrified points whose coordinates\nare $\\left(x_{1}, y_{1}, z_{1}\\right),\\left(x_{2}, y_{2}, z_{2}\\right)$, \\&c. and their charges $e_{1}, e_{2}$, \\&c., and\nlet their distances from the point $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ be $r_{1}, r_{2}$, \\&c., then\nthe potential of the system at $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ will be\n$$V=\\Sigma\\left(\\frac{e}{r}\\right) .$$\nLet the electric density at any point $(x, y, z)$ within an elec-\ntrified body be $\\rho$, then the potential due to the body is\nwhere\n$$V=\\iiint \\frac{\\rho}{r} d x d y d z$$\n$$r=\\left\\{\\left(x-x^{\\prime}\\right)^{2}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{\\frac{1}{2}},$$\nthe integration being extended throughout the body.\n\nOn the Proof of the Law of the Inverse Square.\n74a.] The fact that the force between electrified bodies is\ninversely as the square of the distance may be considered to be\nestablished by Coulomb's direct experiments with the torsion-\nbalance. The results, however, which we derive from such ex-\nperiments must be regarded as affected by an error depending on\nthe probable error of each experiment, and unless the skill of\nthe operator be very great, the probable error of an experiment\nwith the torsion-balance is considerable.\nA far more accurate verification of the law of force may be\ndeduced from an experiment similar to that described at Art. 32\n(Exp. VII).\nCavendish, in his hitherto unpublished work on electricity,\nmakes the evidence of the law of force depend on an experiment\nof this kind.\nHe fixed a globe on an insulating support, and fastened two\nhemispheres by glass rods to two wooden frames hinged to an\naxis so that the hemispheres, when the frames were brought\n",
+    "mathpix_markdown": "\n--- Page 115 ---\n\n\n\\section*{Potential due to any Electrical System.}\n\n73.] Let there be a single electrified point charged with a\n quantity $e$ of electricity, and let $r$ be the distance of the point\n $x^{\\prime}, y^{\\prime}, z^{\\prime}$ from it, then\n\n$$V=\\int_{r}^{\\infty} R d r=\\int_{r}^{\\infty} \\frac{e}{r^{2}} d r=\\frac{e}{r}$$\n\n\nLet there be any number of electrified points whose coordinates\n are $\\left(x_{1}, y_{1}, z_{1}\\right),\\left(x_{2}, y_{2}, z_{2}\\right)$, \\&c. and their charges $e_{1}, e_{2}$, \\&c., and\n let their distances from the point $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ be $r_{1}, r_{2}$, \\&c., then\n the potential of the system at $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ will be\n\n$$V=\\Sigma\\left(\\frac{e}{r}\\right) .$$\n\n\nLet the electric density at any point $(x, y, z)$ within an elec\ntrified body be $\\rho$, then the potential due to the body is\n\nwhere\n\n$$V=\\iiint \\frac{\\rho}{r} d x d y d z$$\n\n$$r=\\left\\{\\left(x-x^{\\prime}\\right)^{2}+\\left(y-y^{\\prime}\\right)^{2}+\\left(z-z^{\\prime}\\right)^{2}\\right\\}^{\\frac{1}{2}},$$\n\nthe integration being extended throughout the body.\n\n\n\\section*{On the Proof of the Law of the Inverse Square.}\n\n\n74a.] The fact that the force between electrified bodies is\n inversely as the square of the distance may be considered to be\n established by Coulomb's direct experiments with the torsion\nbalance. The results, however, which we derive from such ex\nperiments must be regarded as affected by an error depending on\n the probable error of each experiment, and unless the skill of\n the operator be very great, the probable error of an experiment\n with the torsion-balance is considerable.\n\n\nA far more accurate verification of the law of force may be\n deduced from an experiment similar to that described at Art. 32\n (Exp. VII).\n\n\nCavendish, in his hitherto unpublished work on electricity,\n makes the evidence of the law of force depend on an experiment\n of this kind.\n\n\nHe fixed a globe on an insulating support, and fastened two\n hemispheres by glass rods to two wooden frames hinged to an\n axis so that the hemispheres, when the frames were brought\n",
+    "structured_lines": [
+      {
+        "page": 115,
+        "line_number": 5,
+        "type": "text",
+        "content": "Potential due to any Electrical System.",
+        "mathpix_content": "\n\n\\section*{Potential due to any Electrical System.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 6,
+        "type": "text",
+        "content": "73.] Let there be a single electrified point charged with a",
+        "mathpix_content": "\n73.] Let there be a single electrified point charged with a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 7,
+        "type": "text",
+        "content": "quantity $e$ of electricity, and let $r$ be the distance of the point",
+        "mathpix_content": " quantity $e$ of electricity, and let $r$ be the distance of the point",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 8,
+        "type": "text",
+        "content": "$x^{\\prime}, y^{\\prime}, z^{\\prime}$ from it, then",
+        "mathpix_content": " $x^{\\prime}, y^{\\prime}, z^{\\prime}$ from it, then",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 115,
+        "line_number": 11,
+        "type": "text",
+        "content": "Let there be any number of electrified points whose coordinates",
+        "mathpix_content": "\n\nLet there be any number of electrified points whose coordinates",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 12,
+        "type": "text",
+        "content": "are $\\left(x_{1}, y_{1}, z_{1}\\right),\\left(x_{2}, y_{2}, z_{2}\\right)$, \\&c. and their charges $e_{1}, e_{2}$, \\&c., and",
+        "mathpix_content": " are $\\left(x_{1}, y_{1}, z_{1}\\right),\\left(x_{2}, y_{2}, z_{2}\\right)$, \\&c. and their charges $e_{1}, e_{2}$, \\&c., and",
+        "font_size": 27,
+        "confidence": 0.9515119437128305
+      },
+      {
+        "page": 115,
+        "line_number": 13,
+        "type": "text",
+        "content": "let their distances from the point $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ be $r_{1}, r_{2}$, \\&c., then",
+        "mathpix_content": " let their distances from the point $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ be $r_{1}, r_{2}$, \\&c., then",
+        "font_size": 27,
+        "confidence": 0.5181427001953125
+      },
+      {
+        "page": 115,
+        "line_number": 14,
+        "type": "text",
+        "content": "the potential of the system at $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ will be",
+        "mathpix_content": " the potential of the system at $\\left(x^{\\prime}, y^{\\prime}, z^{\\prime}\\right)$ will be",
+        "font_size": 27,
+        "confidence": 0.8759765625
+      },
+      {
+        "page": 115,
+        "line_number": 17,
+        "type": "text",
+        "content": "Let the electric density at any point $(x, y, z)$ within an elec-",
+        "mathpix_content": "\n\nLet the electric density at any point $(x, y, z)$ within an elec",
+        "font_size": 27,
+        "confidence": 0.53515625
+      },
+      {
+        "page": 115,
+        "line_number": 18,
+        "type": "text",
+        "content": "trified body be $\\rho$, then the potential due to the body is",
+        "mathpix_content": "trified body be $\\rho$, then the potential due to the body is",
+        "font_size": 27,
+        "confidence": 0.98974609375
+      },
+      {
+        "page": 115,
+        "line_number": 19,
+        "type": "text",
+        "content": "where",
+        "mathpix_content": "\nwhere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 24,
+        "type": "text",
+        "content": "the integration being extended throughout the body.",
+        "mathpix_content": "\nthe integration being extended throughout the body.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 26,
+        "type": "text",
+        "content": "On the Proof of the Law of the Inverse Square.",
+        "mathpix_content": "\n\n\\section*{On the Proof of the Law of the Inverse Square.}",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 115,
+        "line_number": 27,
+        "type": "text",
+        "content": "74a.] The fact that the force between electrified bodies is",
+        "mathpix_content": "\n\n74a.] The fact that the force between electrified bodies is",
+        "font_size": 27,
+        "confidence": 0.4859982909192695
+      },
+      {
+        "page": 115,
+        "line_number": 28,
+        "type": "text",
+        "content": "inversely as the square of the distance may be considered to be",
+        "mathpix_content": " inversely as the square of the distance may be considered to be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 29,
+        "type": "text",
+        "content": "established by Coulomb's direct experiments with the torsion-",
+        "mathpix_content": " established by Coulomb's direct experiments with the torsion",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 30,
+        "type": "text",
+        "content": "balance. The results, however, which we derive from such ex-",
+        "mathpix_content": "balance. The results, however, which we derive from such ex",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 31,
+        "type": "text",
+        "content": "periments must be regarded as affected by an error depending on",
+        "mathpix_content": "periments must be regarded as affected by an error depending on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 32,
+        "type": "text",
+        "content": "the probable error of each experiment, and unless the skill of",
+        "mathpix_content": " the probable error of each experiment, and unless the skill of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 33,
+        "type": "text",
+        "content": "the operator be very great, the probable error of an experiment",
+        "mathpix_content": " the operator be very great, the probable error of an experiment",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 34,
+        "type": "text",
+        "content": "with the torsion-balance is considerable.",
+        "mathpix_content": " with the torsion-balance is considerable.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 35,
+        "type": "text",
+        "content": "A far more accurate verification of the law of force may be",
+        "mathpix_content": "\n\nA far more accurate verification of the law of force may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 36,
+        "type": "text",
+        "content": "deduced from an experiment similar to that described at Art. 32",
+        "mathpix_content": " deduced from an experiment similar to that described at Art. 32",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 37,
+        "type": "text",
+        "content": "(Exp. VII).",
+        "mathpix_content": " (Exp. VII).",
+        "font_size": 27,
+        "confidence": 0.99609375
+      },
+      {
+        "page": 115,
+        "line_number": 38,
+        "type": "text",
+        "content": "Cavendish, in his hitherto unpublished work on electricity,",
+        "mathpix_content": "\n\nCavendish, in his hitherto unpublished work on electricity,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 39,
+        "type": "text",
+        "content": "makes the evidence of the law of force depend on an experiment",
+        "mathpix_content": " makes the evidence of the law of force depend on an experiment",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 40,
+        "type": "text",
+        "content": "of this kind.",
+        "mathpix_content": " of this kind.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 41,
+        "type": "text",
+        "content": "He fixed a globe on an insulating support, and fastened two",
+        "mathpix_content": "\n\nHe fixed a globe on an insulating support, and fastened two",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 115,
+        "line_number": 42,
+        "type": "text",
+        "content": "hemispheres by glass rods to two wooden frames hinged to an",
+        "mathpix_content": " hemispheres by glass rods to two wooden frames hinged to an",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 115,
+        "line_number": 43,
+        "type": "text",
+        "content": "axis so that the hemispheres, when the frames were brought",
+        "mathpix_content": " axis so that the hemispheres, when the frames were brought",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

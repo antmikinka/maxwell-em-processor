@@ -1,0 +1,381 @@
+{
+  "article_id": "article_269",
+  "article_number": 269,
+  "title_original": ".] (3) The third thing we must take into account is the",
+  "title_safe": "3 The third thing we must take into account is the",
+  "page_start": 425,
+  "page_end": 425,
+  "content": {
+    "raw_text": "\n--- Page 425 ---\n390\nELECTROLYTIC POLARIZATION.\n[269.\nelectricity transmitted by the current, we may consider $\\sigma$ as\nrepresenting either a surface-density of matter or a surface-\ndensity of electricity.\n(2) The electromotive force of polarization, which we may\ncall $p$. This quantity $p$ is the difference between the electric\npotentials of the two electrodes when the current through the\nelectrolyte is so feeble that the proper resistance of the electro-\nlyte makes no sensible difference between these potentials.\nThe electromotive force $p$ at any instant is numerically equal\nto the mechanical equivalent of the electrolytic process going\non at that instant which corresponds to one electrochemical\nequivalent of the electrolyte. This electrolytic process, it must\nbe remembered, consists in the deposit of the ions on the elec-\ntrodes, and the state in which they are deposited depends on\nthe actual state of the surfaces of the electrodes, which may be\nmodified by previous deposits.\nHence the electromotive force at any instant depends on the\nprevious history of the electrodes. It is, speaking very roughly,\na function of $\\sigma$, the density of the deposit, such that $p=0$ when\n$\\sigma=0$, but $p$ approaches a limiting value much sooner than $\\sigma$\ndoes. The statement, however, that $p$ is a function of $\\sigma$ cannot\nbe considered accurate. It would be more correct to say that $p$\nis a function of the chemical state of the superficial layer of the\ndeposit, and that this state depends on the density of the deposit\naccording to some law involving the time.\n269.] (3) The third thing we must take into account is the\ndissipation of the polarization. The polarization when left to\nitself diminishes at a rate depending partly on the intensity of\nthe polarization or the density of the deposit, and partly on the\nnature of the surrounding medium, and the chemical, mechanical,\nor thermal action to which the surface of the electrode is exposed.\nIf we determine a time $T$ such that at the rate at which the\ndeposit is dissipated, the whole deposit would be removed in the\ntime $T$, we may call $T$ the modulus of the time of dissipation.\nWhen the density of the deposit is very small, $T$ is very large,\nand may be reckoned by days or months. When the density of\nthe deposit approaches its limiting value $T$ diminishes very\nrapidly, and is probably a minute fraction of a second. In fact,\nthe rate of dissipation increases so rapidly that when the\nstrength of the current is maintained constant, the separated\n",
+    "mathpix_markdown": "\n--- Page 425 ---\n\nelectricity transmitted by the current, we may consider $\\sigma$ as\n representing either a surface-density of matter or a surface\ndensity of electricity.\n\n(2) The electromotive force of polarization, which we may\n call $p$. This quantity $p$ is the difference between the electric\n potentials of the two electrodes when the current through the\n electrolyte is so feeble that the proper resistance of the electro\nlyte makes no sensible difference between these potentials.\n\n\nThe electromotive force $p$ at any instant is numerically equal\n to the mechanical equivalent of the electrolytic process going\n on at that instant which corresponds to one electrochemical\n equivalent of the electrolyte. This electrolytic process, it must\n be remembered, consists in the deposit of the ions on the elec\ntrodes, and the state in which they are deposited depends on\n the actual state of the surfaces of the electrodes, which may be\n modified by previous deposits.\n\n\nHence the electromotive force at any instant depends on the\n previous history of the electrodes. It is, speaking very roughly,\n a function of $\\sigma$, the density of the deposit, such that $p=0$ when\n $\\sigma=0$, but $p$ approaches a limiting value much sooner than $\\sigma$\n does. The statement, however, that $p$ is a function of $\\sigma$ cannot\n be considered accurate. It would be more correct to say that $p$\n is a function of the chemical state of the superficial layer of the\n deposit, and that this state depends on the density of the deposit\n according to some law involving the time.\n\n269.] (3) The third thing we must take into account is the\n dissipation of the polarization. The polarization when left to\n itself diminishes at a rate depending partly on the intensity of\n the polarization or the density of the deposit, and partly on the\n nature of the surrounding medium, and the chemical, mechanical,\n or thermal action to which the surface of the electrode is exposed.\n\n\nIf we determine a time $T$ such that at the rate at which the\n deposit is dissipated, the whole deposit would be removed in the\n time $T$, we may call $T$ the modulus of the time of dissipation.\n When the density of the deposit is very small, $T$ is very large,\n and may be reckoned by days or months. When the density of\n the deposit approaches its limiting value $T$ diminishes very\n rapidly, and is probably a minute fraction of a second. In fact,\n the rate of dissipation increases so rapidly that when the\n strength of the current is maintained constant, the separated\n",
+    "structured_lines": [
+      {
+        "page": 425,
+        "line_number": 4,
+        "type": "text",
+        "content": "electricity transmitted by the current, we may consider $\\sigma$ as",
+        "mathpix_content": "\nelectricity transmitted by the current, we may consider $\\sigma$ as",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 5,
+        "type": "text",
+        "content": "representing either a surface-density of matter or a surface-",
+        "mathpix_content": " representing either a surface-density of matter or a surface",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 6,
+        "type": "text",
+        "content": "density of electricity.",
+        "mathpix_content": "density of electricity.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 7,
+        "type": "text",
+        "content": "(2) The electromotive force of polarization, which we may",
+        "mathpix_content": "\n(2) The electromotive force of polarization, which we may",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 8,
+        "type": "text",
+        "content": "call $p$. This quantity $p$ is the difference between the electric",
+        "mathpix_content": " call $p$. This quantity $p$ is the difference between the electric",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 425,
+        "line_number": 9,
+        "type": "text",
+        "content": "potentials of the two electrodes when the current through the",
+        "mathpix_content": " potentials of the two electrodes when the current through the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 10,
+        "type": "text",
+        "content": "electrolyte is so feeble that the proper resistance of the electro-",
+        "mathpix_content": " electrolyte is so feeble that the proper resistance of the electro",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 11,
+        "type": "text",
+        "content": "lyte makes no sensible difference between these potentials.",
+        "mathpix_content": "lyte makes no sensible difference between these potentials.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 12,
+        "type": "text",
+        "content": "The electromotive force $p$ at any instant is numerically equal",
+        "mathpix_content": "\n\nThe electromotive force $p$ at any instant is numerically equal",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 13,
+        "type": "text",
+        "content": "to the mechanical equivalent of the electrolytic process going",
+        "mathpix_content": " to the mechanical equivalent of the electrolytic process going",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 14,
+        "type": "text",
+        "content": "on at that instant which corresponds to one electrochemical",
+        "mathpix_content": " on at that instant which corresponds to one electrochemical",
+        "font_size": 34,
+        "confidence": 0.984375
+      },
+      {
+        "page": 425,
+        "line_number": 15,
+        "type": "text",
+        "content": "equivalent of the electrolyte. This electrolytic process, it must",
+        "mathpix_content": " equivalent of the electrolyte. This electrolytic process, it must",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 16,
+        "type": "text",
+        "content": "be remembered, consists in the deposit of the ions on the elec-",
+        "mathpix_content": " be remembered, consists in the deposit of the ions on the elec",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 17,
+        "type": "text",
+        "content": "trodes, and the state in which they are deposited depends on",
+        "mathpix_content": "trodes, and the state in which they are deposited depends on",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 18,
+        "type": "text",
+        "content": "the actual state of the surfaces of the electrodes, which may be",
+        "mathpix_content": " the actual state of the surfaces of the electrodes, which may be",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 19,
+        "type": "text",
+        "content": "modified by previous deposits.",
+        "mathpix_content": " modified by previous deposits.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 20,
+        "type": "text",
+        "content": "Hence the electromotive force at any instant depends on the",
+        "mathpix_content": "\n\nHence the electromotive force at any instant depends on the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 21,
+        "type": "text",
+        "content": "previous history of the electrodes. It is, speaking very roughly,",
+        "mathpix_content": " previous history of the electrodes. It is, speaking very roughly,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 22,
+        "type": "text",
+        "content": "a function of $\\sigma$, the density of the deposit, such that $p=0$ when",
+        "mathpix_content": " a function of $\\sigma$, the density of the deposit, such that $p=0$ when",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 23,
+        "type": "text",
+        "content": "$\\sigma=0$, but $p$ approaches a limiting value much sooner than $\\sigma$",
+        "mathpix_content": " $\\sigma=0$, but $p$ approaches a limiting value much sooner than $\\sigma$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 24,
+        "type": "text",
+        "content": "does. The statement, however, that $p$ is a function of $\\sigma$ cannot",
+        "mathpix_content": " does. The statement, however, that $p$ is a function of $\\sigma$ cannot",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 25,
+        "type": "text",
+        "content": "be considered accurate. It would be more correct to say that $p$",
+        "mathpix_content": " be considered accurate. It would be more correct to say that $p$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 26,
+        "type": "text",
+        "content": "is a function of the chemical state of the superficial layer of the",
+        "mathpix_content": " is a function of the chemical state of the superficial layer of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 27,
+        "type": "text",
+        "content": "deposit, and that this state depends on the density of the deposit",
+        "mathpix_content": " deposit, and that this state depends on the density of the deposit",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 28,
+        "type": "text",
+        "content": "according to some law involving the time.",
+        "mathpix_content": " according to some law involving the time.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 29,
+        "type": "text",
+        "content": "269.] (3) The third thing we must take into account is the",
+        "mathpix_content": "\n269.] (3) The third thing we must take into account is the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 30,
+        "type": "text",
+        "content": "dissipation of the polarization. The polarization when left to",
+        "mathpix_content": " dissipation of the polarization. The polarization when left to",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 31,
+        "type": "text",
+        "content": "itself diminishes at a rate depending partly on the intensity of",
+        "mathpix_content": " itself diminishes at a rate depending partly on the intensity of",
+        "font_size": 34,
+        "confidence": 0.96142578125
+      },
+      {
+        "page": 425,
+        "line_number": 32,
+        "type": "text",
+        "content": "the polarization or the density of the deposit, and partly on the",
+        "mathpix_content": " the polarization or the density of the deposit, and partly on the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 33,
+        "type": "text",
+        "content": "nature of the surrounding medium, and the chemical, mechanical,",
+        "mathpix_content": " nature of the surrounding medium, and the chemical, mechanical,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 34,
+        "type": "text",
+        "content": "or thermal action to which the surface of the electrode is exposed.",
+        "mathpix_content": " or thermal action to which the surface of the electrode is exposed.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 35,
+        "type": "text",
+        "content": "If we determine a time $T$ such that at the rate at which the",
+        "mathpix_content": "\n\nIf we determine a time $T$ such that at the rate at which the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 36,
+        "type": "text",
+        "content": "deposit is dissipated, the whole deposit would be removed in the",
+        "mathpix_content": " deposit is dissipated, the whole deposit would be removed in the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 37,
+        "type": "text",
+        "content": "time $T$, we may call $T$ the modulus of the time of dissipation.",
+        "mathpix_content": " time $T$, we may call $T$ the modulus of the time of dissipation.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 38,
+        "type": "text",
+        "content": "When the density of the deposit is very small, $T$ is very large,",
+        "mathpix_content": " When the density of the deposit is very small, $T$ is very large,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 39,
+        "type": "text",
+        "content": "and may be reckoned by days or months. When the density of",
+        "mathpix_content": " and may be reckoned by days or months. When the density of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 40,
+        "type": "text",
+        "content": "the deposit approaches its limiting value $T$ diminishes very",
+        "mathpix_content": " the deposit approaches its limiting value $T$ diminishes very",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 41,
+        "type": "text",
+        "content": "rapidly, and is probably a minute fraction of a second. In fact,",
+        "mathpix_content": " rapidly, and is probably a minute fraction of a second. In fact,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 42,
+        "type": "text",
+        "content": "the rate of dissipation increases so rapidly that when the",
+        "mathpix_content": " the rate of dissipation increases so rapidly that when the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 425,
+        "line_number": 43,
+        "type": "text",
+        "content": "strength of the current is maintained constant, the separated",
+        "mathpix_content": " strength of the current is maintained constant, the separated",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

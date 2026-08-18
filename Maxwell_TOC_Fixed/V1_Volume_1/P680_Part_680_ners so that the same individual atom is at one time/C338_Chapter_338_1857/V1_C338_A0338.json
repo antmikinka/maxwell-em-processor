@@ -1,0 +1,381 @@
+{
+  "article_id": "article_338",
+  "article_number": 338,
+  "title_original": "(1857).",
+  "title_safe": "1857",
+  "page_start": 412,
+  "page_end": 412,
+  "content": {
+    "raw_text": "\n--- Page 412 ---\n257.]\nTHEORY OF CLAUSIUS.\n377\nthat, in diffusion, the different substances are only mixed\ntogether and the mixture is not homogeneous, whereas in\nelectrolysis they are chemically combined and the electrolyte\nis homogeneous. In diffusion the determining cause of the\nmotion of a substance in a given direction is a diminution of\nthe quantity of that substance per unit of volume in that\ndirection, whereas in electrolysis the motion of each ion is due\nto the electromotive force acting on the charged molecules.\n256.] Clausius *, who has bestowed much study on the theory\nof the molecular agitation of bodies, supposes that the molecules\nof all bodies are in a state of constant agitation, but that in solid\nbodies each molecule never passes beyond a certain distance from\nits original position, whereas in fluids a molecule, after moving\na certain distance from its original position, is just as likely to\nmove still farther from it as to move back again. Hence the\nmolecules of a fluid apparently at rest are continually changing\ntheir positions, and passing irregularly from one part of the fluid\nto another. In a compound fluid he supposes that not only do\nthe compound molecules travel about in this way, but that, in\nthe collisions which occur between the compound molecules, the\nmolecules of which they are composed are often separated and\nchange partners, so that the same individual atom is at one time\nassociated with one atom of the opposite kind, and at another\ntime with another. This process Clausius supposes to go on in\nthe liquid at all times, but when an electromotive force acts on\nthe liquid the motions of the molecules, which before were\nindifferently in all directions, are now influenced by the electro-\nmotive force, so that the positively charged molecules have a\ngreater tendency towards the cathode than towards the anode,\nand the negatively charged molecules have a greater tendency\nto move in the opposite direction. Hence the molecules of the\ncation will during their intervals of freedom struggle towards\nthe cathode, but will continually be checked in their course by\npairing for a time with molecules of the anion, which are also\nstruggling through the crowd, but in the opposite direction.\n257.] This theory of Clausius enables us to understand how\nit is, that whereas the actual decomposition of an electrolyte\nrequires an electromotive force of finite magnitude, the con-\nduction of the current in the electrolyte obeys the law of Ohm,\n\n* Pogg. Ann. ol. p. 338 (1857).\n",
+    "mathpix_markdown": "\n--- Page 412 ---\n\nthat, in diffusion, the different substances are only mixed\n together and the mixture is not homogeneous, whereas in\n electrolysis they are chemically combined and the electrolyte\n is homogeneous. In diffusion the determining cause of the\n motion of a substance in a given direction is a diminution of\n the quantity of that substance per unit of volume in that\n direction, whereas in electrolysis the motion of each ion is due\n to the electromotive force acting on the charged molecules.\n\n256.] Clausius *, who has bestowed much study on the theory\n of the molecular agitation of bodies, supposes that the molecules\n of all bodies are in a state of constant agitation, but that in solid\n bodies each molecule never passes beyond a certain distance from\n its original position, whereas in fluids a molecule, after moving\n a certain distance from its original position, is just as likely to\n move still farther from it as to move back again. Hence the\n molecules of a fluid apparently at rest are continually changing\n their positions, and passing irregularly from one part of the fluid\n to another. In a compound fluid he supposes that not only do\n the compound molecules travel about in this way, but that, in\n the collisions which occur between the compound molecules, the\n molecules of which they are composed are often separated and\n change partners, so that the same individual atom is at one time\n associated with one atom of the opposite kind, and at another\n time with another. This process Clausius supposes to go on in\n the liquid at all times, but when an electromotive force acts on\n the liquid the motions of the molecules, which before were\n indifferently in all directions, are now influenced by the electro\nmotive force, so that the positively charged molecules have a\n greater tendency towards the cathode than towards the anode,\n and the negatively charged molecules have a greater tendency\n to move in the opposite direction. Hence the molecules of the\n cation will during their intervals of freedom struggle towards\n the cathode, but will continually be checked in their course by\n pairing for a time with molecules of the anion, which are also\n struggling through the crowd, but in the opposite direction.\n\n257.] This theory of Clausius enables us to understand how\n it is, that whereas the actual decomposition of an electrolyte\n requires an electromotive force of finite magnitude, the con\nduction of the current in the electrolyte obeys the law of Ohm,\n\n\n\\footnotetext{\n* Pogg. Ann. ol. p. 338 (1857).\n}\n",
+    "structured_lines": [
+      {
+        "page": 412,
+        "line_number": 4,
+        "type": "text",
+        "content": "that, in diffusion, the different substances are only mixed",
+        "mathpix_content": "\nthat, in diffusion, the different substances are only mixed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 5,
+        "type": "text",
+        "content": "together and the mixture is not homogeneous, whereas in",
+        "mathpix_content": " together and the mixture is not homogeneous, whereas in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 6,
+        "type": "text",
+        "content": "electrolysis they are chemically combined and the electrolyte",
+        "mathpix_content": " electrolysis they are chemically combined and the electrolyte",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 7,
+        "type": "text",
+        "content": "is homogeneous. In diffusion the determining cause of the",
+        "mathpix_content": " is homogeneous. In diffusion the determining cause of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 8,
+        "type": "text",
+        "content": "motion of a substance in a given direction is a diminution of",
+        "mathpix_content": " motion of a substance in a given direction is a diminution of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 9,
+        "type": "text",
+        "content": "the quantity of that substance per unit of volume in that",
+        "mathpix_content": " the quantity of that substance per unit of volume in that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 10,
+        "type": "text",
+        "content": "direction, whereas in electrolysis the motion of each ion is due",
+        "mathpix_content": " direction, whereas in electrolysis the motion of each ion is due",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 412,
+        "line_number": 11,
+        "type": "text",
+        "content": "to the electromotive force acting on the charged molecules.",
+        "mathpix_content": " to the electromotive force acting on the charged molecules.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 12,
+        "type": "text",
+        "content": "256.] Clausius *, who has bestowed much study on the theory",
+        "mathpix_content": "\n256.] Clausius *, who has bestowed much study on the theory",
+        "font_size": 27,
+        "confidence": 0.9956073760986328
+      },
+      {
+        "page": 412,
+        "line_number": 13,
+        "type": "text",
+        "content": "of the molecular agitation of bodies, supposes that the molecules",
+        "mathpix_content": " of the molecular agitation of bodies, supposes that the molecules",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 14,
+        "type": "text",
+        "content": "of all bodies are in a state of constant agitation, but that in solid",
+        "mathpix_content": " of all bodies are in a state of constant agitation, but that in solid",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 15,
+        "type": "text",
+        "content": "bodies each molecule never passes beyond a certain distance from",
+        "mathpix_content": " bodies each molecule never passes beyond a certain distance from",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 16,
+        "type": "text",
+        "content": "its original position, whereas in fluids a molecule, after moving",
+        "mathpix_content": " its original position, whereas in fluids a molecule, after moving",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 17,
+        "type": "text",
+        "content": "a certain distance from its original position, is just as likely to",
+        "mathpix_content": " a certain distance from its original position, is just as likely to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 18,
+        "type": "text",
+        "content": "move still farther from it as to move back again. Hence the",
+        "mathpix_content": " move still farther from it as to move back again. Hence the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 19,
+        "type": "text",
+        "content": "molecules of a fluid apparently at rest are continually changing",
+        "mathpix_content": " molecules of a fluid apparently at rest are continually changing",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 20,
+        "type": "text",
+        "content": "their positions, and passing irregularly from one part of the fluid",
+        "mathpix_content": " their positions, and passing irregularly from one part of the fluid",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 21,
+        "type": "text",
+        "content": "to another. In a compound fluid he supposes that not only do",
+        "mathpix_content": " to another. In a compound fluid he supposes that not only do",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 412,
+        "line_number": 22,
+        "type": "text",
+        "content": "the compound molecules travel about in this way, but that, in",
+        "mathpix_content": " the compound molecules travel about in this way, but that, in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 23,
+        "type": "text",
+        "content": "the collisions which occur between the compound molecules, the",
+        "mathpix_content": " the collisions which occur between the compound molecules, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 24,
+        "type": "text",
+        "content": "molecules of which they are composed are often separated and",
+        "mathpix_content": " molecules of which they are composed are often separated and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 25,
+        "type": "text",
+        "content": "change partners, so that the same individual atom is at one time",
+        "mathpix_content": " change partners, so that the same individual atom is at one time",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 26,
+        "type": "text",
+        "content": "associated with one atom of the opposite kind, and at another",
+        "mathpix_content": " associated with one atom of the opposite kind, and at another",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 27,
+        "type": "text",
+        "content": "time with another. This process Clausius supposes to go on in",
+        "mathpix_content": " time with another. This process Clausius supposes to go on in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 28,
+        "type": "text",
+        "content": "the liquid at all times, but when an electromotive force acts on",
+        "mathpix_content": " the liquid at all times, but when an electromotive force acts on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 29,
+        "type": "text",
+        "content": "the liquid the motions of the molecules, which before were",
+        "mathpix_content": " the liquid the motions of the molecules, which before were",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 30,
+        "type": "text",
+        "content": "indifferently in all directions, are now influenced by the electro-",
+        "mathpix_content": " indifferently in all directions, are now influenced by the electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 31,
+        "type": "text",
+        "content": "motive force, so that the positively charged molecules have a",
+        "mathpix_content": "motive force, so that the positively charged molecules have a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 32,
+        "type": "text",
+        "content": "greater tendency towards the cathode than towards the anode,",
+        "mathpix_content": " greater tendency towards the cathode than towards the anode,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 33,
+        "type": "text",
+        "content": "and the negatively charged molecules have a greater tendency",
+        "mathpix_content": " and the negatively charged molecules have a greater tendency",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 34,
+        "type": "text",
+        "content": "to move in the opposite direction. Hence the molecules of the",
+        "mathpix_content": " to move in the opposite direction. Hence the molecules of the",
+        "font_size": 27,
+        "confidence": 0.98388671875
+      },
+      {
+        "page": 412,
+        "line_number": 35,
+        "type": "text",
+        "content": "cation will during their intervals of freedom struggle towards",
+        "mathpix_content": " cation will during their intervals of freedom struggle towards",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 36,
+        "type": "text",
+        "content": "the cathode, but will continually be checked in their course by",
+        "mathpix_content": " the cathode, but will continually be checked in their course by",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 37,
+        "type": "text",
+        "content": "pairing for a time with molecules of the anion, which are also",
+        "mathpix_content": " pairing for a time with molecules of the anion, which are also",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 38,
+        "type": "text",
+        "content": "struggling through the crowd, but in the opposite direction.",
+        "mathpix_content": " struggling through the crowd, but in the opposite direction.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 39,
+        "type": "text",
+        "content": "257.] This theory of Clausius enables us to understand how",
+        "mathpix_content": "\n257.] This theory of Clausius enables us to understand how",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 40,
+        "type": "text",
+        "content": "it is, that whereas the actual decomposition of an electrolyte",
+        "mathpix_content": " it is, that whereas the actual decomposition of an electrolyte",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 412,
+        "line_number": 41,
+        "type": "text",
+        "content": "requires an electromotive force of finite magnitude, the con-",
+        "mathpix_content": " requires an electromotive force of finite magnitude, the con",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 412,
+        "line_number": 42,
+        "type": "text",
+        "content": "duction of the current in the electrolyte obeys the law of Ohm,",
+        "mathpix_content": "duction of the current in the electrolyte obeys the law of Ohm,",
+        "font_size": 27,
+        "confidence": 0.9248046875
+      },
+      {
+        "page": 412,
+        "line_number": 44,
+        "type": "text",
+        "content": "* Pogg. Ann. ol. p. 338 (1857).",
+        "mathpix_content": "\n\n\\footnotetext{\n* Pogg. Ann. ol. p. 338 (1857).\n}",
+        "font_size": 21,
+        "confidence": 0.7445669481751106
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_123",
+  "article_number": 123,
+  "title_original": ".] These diagrams are constructed in the following manner:-",
+  "title_safe": "These diagrams are constructed in the following mannerCOLO",
+  "page_start": 218,
+  "page_end": 217,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

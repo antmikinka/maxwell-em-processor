@@ -1,0 +1,22 @@
+{
+  "maxwell_toc_index": {
+    "created_at": "2025-11-29T21:24:19.779678",
+    "total_volumes": 1,
+    "volumes": {
+      "1": {
+        "title": "Volume 1",
+        "total_pages": 572,
+        "total_parts": 834,
+        "total_chapters": 10901,
+        "total_articles": 13819,
+        "path": "V1_Volume_1"
+      }
+    },
+    "navigation": {
+      "file_naming": "NUMBERED FORMAT: V1_C002_A0015.json (Volume 1, Chapter 002, Article 0015)",
+      "folder_structure": "V1_Volume_1/P01_Part_01/C001_Chapter_001/",
+      "metadata_files": "Each level has a metadata.json file with structural information",
+      "article_content": "Each article contains full content, equations, and figures with original mathematical titles preserved"
+    }
+  }
+}

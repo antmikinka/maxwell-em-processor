@@ -1,0 +1,291 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "} v}{d x^{2}} . \\tag{4}",
+  "title_safe": "vd x2 . tag4",
+  "page_start": 495,
+  "page_end": 495,
+  "content": {
+    "raw_text": "\n--- Page 495 ---\n460\nCONDUCTION IN DIELECTRICS.\n[332.\naffected by the current one after another, the interval between\nthe times of equal indications being greater as we proceed to the\nright.\n332.] In the case of a telegraph cable the conducting wire\nis separated from conductors outside by a cylindrical sheath\nof gutta-percha, or other insulating material. Each portion\nof the cable thus becomes a condenser, the outer surface of\nwhich is always at potential zero. Hence, in a given portion\nof the cable, the quantity of free electricity at the surface\nof the conducting wire is equal to the product of the potential\ninto the capacity of the portion of the cable considered as a\ncondenser.\nIf $a_{1}, a_{2}$ are the outer and inner radii of the insulating sheath,\nand if $K$ is its specific dielectric capacity, the capacity of unit of\nlength of the cable is, by Art. 126,\n$$c=\\frac{K}{2 \\log \\frac{a_{1}}{a_{2}}} .$$\n(1)\nLet $v$ be the potential at any point of the wire, which we may\nconsider as the same at every part of the same section.\nLet $Q$ be the total quantity of electricity which has passed\nthrough that section since the beginning of the current. Then\nthe quantity which at the time $t$ exists between sections at $x$\nand at $x+\\delta x$, is\n$$Q-\\left(Q+\\frac{d Q}{d x} \\delta x\\right), \\quad \\text { or } \\quad-\\frac{d Q}{d x} \\delta x,$$\nand this is, by what we have said, equal to $c v \\delta x$.\nHence\n$$c v=-\\frac{d Q}{d x} .$$\n(2)\nAgain, the electromotive force at any section is $-\\frac{d v}{d x}$, and by\nOhm's Law,\n$$-\\frac{d v}{d x}=k \\frac{d Q}{d t},$$\n(3)\nwhere $k$ is the resistance of unit of length of the conductor, and\n$\\frac{d Q}{d t}$ is the strength of the current. Eliminating $Q$ between (2)\nand (3), we find\n$$c k \\frac{d v}{d t}=\\frac{d^{2} v}{d x^{2}} .$$\n(4)\nThis is the partial differential equation which must be solved\nin order to obtain the potential at any instant at any point of\n",
+    "mathpix_markdown": "\n--- Page 495 ---\n\naffected by the current one after another, the interval between\n the times of equal indications being greater as we proceed to the\n right.\n\n332.] In the case of a telegraph cable the conducting wire\n is separated from conductors outside by a cylindrical sheath\n of gutta-percha, or other insulating material. Each portion\n of the cable thus becomes a condenser, the outer surface of\n which is always at potential zero. Hence, in a given portion\n of the cable, the quantity of free electricity at the surface\n of the conducting wire is equal to the product of the potential\n into the capacity of the portion of the cable considered as a\n condenser.\n\n\nIf $a_{1}, a_{2}$ are the outer and inner radii of the insulating sheath,\n and if $K$ is its specific dielectric capacity, the capacity of unit of\n length of the cable is, by Art. 126,\n\n$$\\begin{equation*}\nc=\\frac{K}{2 \\log \\frac{a_{1}}{a_{2}}} . \\tag{1}\n\\end{equation*}$$\n\n\nLet $v$ be the potential at any point of the wire, which we may\n consider as the same at every part of the same section.\n\n\nLet $Q$ be the total quantity of electricity which has passed\n through that section since the beginning of the current. Then\n the quantity which at the time $t$ exists between sections at $x$\n and at $x+\\delta x$, is\n\n$$Q-\\left(Q+\\frac{d Q}{d x} \\delta x\\right), \\quad \\text { or } \\quad-\\frac{d Q}{d x} \\delta x,$$\n\nand this is, by what we have said, equal to $c v \\delta x$.\n\nHence\n\n$$\\begin{equation*}\nc v=-\\frac{d Q}{d x} . \\tag{2}\n\\end{equation*}$$\n\n\nAgain, the electromotive force at any section is $-\\frac{d v}{d x}$, and by\n Ohm's Law,\n\n$$\\begin{equation*}\n-\\frac{d v}{d x}=k \\frac{d Q}{d t}, \\tag{3}\n\\end{equation*}$$\n\nwhere $k$ is the resistance of unit of length of the conductor, and\n $\\frac{d Q}{d t}$ is the strength of the current. Eliminating $Q$ between (2)\n and (3), we find\n\n$$\\begin{equation*}\nc k \\frac{d v}{d t}=\\frac{d^{2} v}{d x^{2}} . \\tag{4}\n\\end{equation*}$$\n\n\nThis is the partial differential equation which must be solved\n in order to obtain the potential at any instant at any point of\n",
+    "structured_lines": [
+      {
+        "page": 495,
+        "line_number": 4,
+        "type": "text",
+        "content": "affected by the current one after another, the interval between",
+        "mathpix_content": "\naffected by the current one after another, the interval between",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 5,
+        "type": "text",
+        "content": "the times of equal indications being greater as we proceed to the",
+        "mathpix_content": " the times of equal indications being greater as we proceed to the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 6,
+        "type": "text",
+        "content": "right.",
+        "mathpix_content": " right.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 7,
+        "type": "text",
+        "content": "332.] In the case of a telegraph cable the conducting wire",
+        "mathpix_content": "\n332.] In the case of a telegraph cable the conducting wire",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 8,
+        "type": "text",
+        "content": "is separated from conductors outside by a cylindrical sheath",
+        "mathpix_content": " is separated from conductors outside by a cylindrical sheath",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 9,
+        "type": "text",
+        "content": "of gutta-percha, or other insulating material. Each portion",
+        "mathpix_content": " of gutta-percha, or other insulating material. Each portion",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 10,
+        "type": "text",
+        "content": "of the cable thus becomes a condenser, the outer surface of",
+        "mathpix_content": " of the cable thus becomes a condenser, the outer surface of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 11,
+        "type": "text",
+        "content": "which is always at potential zero. Hence, in a given portion",
+        "mathpix_content": " which is always at potential zero. Hence, in a given portion",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 12,
+        "type": "text",
+        "content": "of the cable, the quantity of free electricity at the surface",
+        "mathpix_content": " of the cable, the quantity of free electricity at the surface",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 13,
+        "type": "text",
+        "content": "of the conducting wire is equal to the product of the potential",
+        "mathpix_content": " of the conducting wire is equal to the product of the potential",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 14,
+        "type": "text",
+        "content": "into the capacity of the portion of the cable considered as a",
+        "mathpix_content": " into the capacity of the portion of the cable considered as a",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 15,
+        "type": "text",
+        "content": "condenser.",
+        "mathpix_content": " condenser.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 16,
+        "type": "text",
+        "content": "If $a_{1}, a_{2}$ are the outer and inner radii of the insulating sheath,",
+        "mathpix_content": "\n\nIf $a_{1}, a_{2}$ are the outer and inner radii of the insulating sheath,",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 495,
+        "line_number": 17,
+        "type": "text",
+        "content": "and if $K$ is its specific dielectric capacity, the capacity of unit of",
+        "mathpix_content": " and if $K$ is its specific dielectric capacity, the capacity of unit of",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 18,
+        "type": "text",
+        "content": "length of the cable is, by Art. 126,",
+        "mathpix_content": " length of the cable is, by Art. 126,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 22,
+        "type": "text",
+        "content": "Let $v$ be the potential at any point of the wire, which we may",
+        "mathpix_content": "\n\nLet $v$ be the potential at any point of the wire, which we may",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 23,
+        "type": "text",
+        "content": "consider as the same at every part of the same section.",
+        "mathpix_content": " consider as the same at every part of the same section.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 24,
+        "type": "text",
+        "content": "Let $Q$ be the total quantity of electricity which has passed",
+        "mathpix_content": "\n\nLet $Q$ be the total quantity of electricity which has passed",
+        "font_size": 34,
+        "confidence": 0.996584415435791
+      },
+      {
+        "page": 495,
+        "line_number": 25,
+        "type": "text",
+        "content": "through that section since the beginning of the current. Then",
+        "mathpix_content": " through that section since the beginning of the current. Then",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 26,
+        "type": "text",
+        "content": "the quantity which at the time $t$ exists between sections at $x$",
+        "mathpix_content": " the quantity which at the time $t$ exists between sections at $x$",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 27,
+        "type": "text",
+        "content": "and at $x+\\delta x$, is",
+        "mathpix_content": " and at $x+\\delta x$, is",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 30,
+        "type": "text",
+        "content": "and this is, by what we have said, equal to $c v \\delta x$.",
+        "mathpix_content": "\nand this is, by what we have said, equal to $c v \\delta x$.",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 31,
+        "type": "text",
+        "content": "Hence",
+        "mathpix_content": "\nHence",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 35,
+        "type": "text",
+        "content": "Again, the electromotive force at any section is $-\\frac{d v}{d x}$, and by",
+        "mathpix_content": "\n\nAgain, the electromotive force at any section is $-\\frac{d v}{d x}$, and by",
+        "font_size": 34,
+        "confidence": 0.7174229621887207
+      },
+      {
+        "page": 495,
+        "line_number": 36,
+        "type": "text",
+        "content": "Ohm's Law,",
+        "mathpix_content": " Ohm's Law,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 40,
+        "type": "text",
+        "content": "where $k$ is the resistance of unit of length of the conductor, and",
+        "mathpix_content": "\nwhere $k$ is the resistance of unit of length of the conductor, and",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 41,
+        "type": "text",
+        "content": "$\\frac{d Q}{d t}$ is the strength of the current. Eliminating $Q$ between (2)",
+        "mathpix_content": " $\\frac{d Q}{d t}$ is the strength of the current. Eliminating $Q$ between (2)",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 42,
+        "type": "text",
+        "content": "and (3), we find",
+        "mathpix_content": " and (3), we find",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 46,
+        "type": "text",
+        "content": "This is the partial differential equation which must be solved",
+        "mathpix_content": "\n\nThis is the partial differential equation which must be solved",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 495,
+        "line_number": 47,
+        "type": "text",
+        "content": "in order to obtain the potential at any instant at any point of",
+        "mathpix_content": " in order to obtain the potential at any instant at any point of",
+        "font_size": 34,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

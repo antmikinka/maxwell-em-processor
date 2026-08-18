@@ -1,0 +1,237 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}=\\frac{\\left(k_{1}-k_{2}\\right) i A_{1} a^{2 i+1}+\\left\\{k_{1} i+k_{2}(i+1)\\right\\} B_{1}}{k_{1}(2 i+1)}",
+  "title_safe": "equalsfracleftk1-k2right i A1 a2 iplus1plusleftk1 iplusk2ipl",
+  "page_start": 472,
+  "page_end": 472,
+  "content": {
+    "raw_text": "\n--- Page 472 ---\n311.$]$\nSURFACE-CONDITIONS.\n437\nthen\n$$u=-\\frac{1}{k} \\frac{d V}{d x}, \\quad v=-\\frac{1}{k} \\frac{d V}{d y}, \\quad v=-\\frac{1}{k} \\frac{d V}{d z},$$\n(13)\nand if $\\nu$ is the normal drawn at any point of the surface of\nseparation from the first medium towards the second, the con-\ndition of continuity is\n$$\\frac{1}{k_{1}} \\frac{d V_{1}}{d \\nu}=\\frac{1}{k_{2}} \\frac{d V_{2}}{d \\nu}$$\n(14)\nIf $\\theta_{1}$ and $\\theta_{2}$ are the angles which the lines of flow in the first\nand second media respectively make with the normal to the\nsurface of separation, then the tangents to these lines of flow are\nin the same plane with the normal and on opposite sides of it,\nand\n$$k_{1} \\tan \\theta_{1}=k_{2} \\tan \\theta_{2} .$$\n(15)\nThis may be called the law of refraction of lines of flow.\n311.] As an example of the conditions which must be fulfilled\nwhen electricity crosses the surface of separation of two media,\nlet us suppose the surface spherical and of radius $a$, the specific\nresistance being $k_{1}$ within and $k_{2}$ without the surface.\nLet the potential, both within and without the surface, be ex-\npanded in solid harmonics, and let the part which depends\non the surface harmonic $S_{i}$ be\n$$\\begin{aligned}\n& V_{1}=\\left(A_{1} r^{i}+B_{1} r^{-(i+1)}\\right) S_{i}, \\\\\n& V_{2}=\\left(A_{2} r^{i}+B_{2} r^{-(i+1)}\\right) S_{i},\n\\end{aligned}$$\n(1)\n(2)\nwithin and without the sphere respectively.\nAt the surface of separation where $r=a$ we must have\n$$V_{1}=V_{2}, \\text { and } \\frac{1}{k_{1}} \\frac{d V_{1}}{d r}=\\frac{1}{k_{2}} \\frac{d V_{2}}{d r} .$$\n(3)\nFrom these conditions we get the equations\n$$\\left.\\begin{array}{c}\n\\left(A_{1}-A_{2}\\right) a^{2 i+1}+B_{1}-B_{2}=0, \\\\\n\\left(\\frac{1}{k_{1}} A_{1}-\\frac{1}{k_{2}} A_{2}\\right) i a^{2 i+1}-\\left(\\frac{1}{k_{1}} B_{1}-\\frac{1}{k_{2}} B_{2}\\right)(i+1)=0 .\n\\end{array}\\right\\}$$\n(4)\nThese equations are sufficient, when we know two of the four\nquantities $A_{1}, A_{2}, B_{1}, B_{2}$, to deduce the other two.\nLet us suppose $A_{1}$ and $B_{1}$ known, then we find the following\nexpressions for $A_{2}$ and $B_{2}$,\n$$\\left.\\begin{array}{l}\nA_{2}=\\frac{\\left\\{k_{1}(i+1)+k_{2} i\\right\\} A_{1}+\\left(k_{1}-k_{2}\\right)(i+1) B_{1} a^{-(2 i+1)}}{k_{1}(2 i+1)} \\\\\nB_{2}=\\frac{\\left(k_{1}-k_{2}\\right) i A_{1} a^{2 i+1}+\\left\\{k_{1} i+k_{2}(i+1)\\right\\} B_{1}}{k_{1}(2 i+1)}\n\\end{array}\\right\\}$$\n(5)\n",
+    "mathpix_markdown": "\n--- Page 472 ---\n\nthen\n\n$$\\begin{equation*}\nu=-\\frac{1}{k} \\frac{d V}{d x}, \\quad v=-\\frac{1}{k} \\frac{d V}{d y}, \\quad v=-\\frac{1}{k} \\frac{d V}{d z}, \\tag{13}\n\\end{equation*}$$\n\nand if $\\nu$ is the normal drawn at any point of the surface of\n separation from the first medium towards the second, the con\ndition of continuity is\n\n$$\\begin{equation*}\n\\frac{1}{k_{1}} \\frac{d V_{1}}{d \\nu}=\\frac{1}{k_{2}} \\frac{d V_{2}}{d \\nu} \\tag{14}\n\\end{equation*}$$\n\n\nIf $\\theta_{1}$ and $\\theta_{2}$ are the angles which the lines of flow in the first\n and second media respectively make with the normal to the\n surface of separation, then the tangents to these lines of flow are\n in the same plane with the normal and on opposite sides of it,\n and\n\n$$\\begin{equation*}\nk_{1} \\tan \\theta_{1}=k_{2} \\tan \\theta_{2} . \\tag{15}\n\\end{equation*}$$\n\n\nThis may be called the law of refraction of lines of flow.\n\n311.] As an example of the conditions which must be fulfilled\n when electricity crosses the surface of separation of two media,\n let us suppose the surface spherical and of radius $a$, the specific\n resistance being $k_{1}$ within and $k_{2}$ without the surface.\n\n\nLet the potential, both within and without the surface, be ex\npanded in solid harmonics, and let the part which depends\n on the surface harmonic $S_{i}$ be\n\n$$\\begin{align*}\n& V_{1}=\\left(A_{1} r^{i}+B_{1} r^{-(i+1)}\\right) S_{i},  \\tag{1}\\\\\n& V_{2}=\\left(A_{2} r^{i}+B_{2} r^{-(i+1)}\\right) S_{i}, \\tag{2}\n\\end{align*}$$\n\nwithin and without the sphere respectively.\n\nAt the surface of separation where $r=a$ we must have\n\n$$\\begin{equation*}\nV_{1}=V_{2}, \\text { and } \\frac{1}{k_{1}} \\frac{d V_{1}}{d r}=\\frac{1}{k_{2}} \\frac{d V_{2}}{d r} . \\tag{3}\n\\end{equation*}$$\n\n\nFrom these conditions we get the equations\n\n$$\\left.\\begin{array}{c}\n\\left(A_{1}-A_{2}\\right) a^{2 i+1}+B_{1}-B_{2}=0,  \\tag{4}\\\\\n\\left(\\frac{1}{k_{1}} A_{1}-\\frac{1}{k_{2}} A_{2}\\right) i a^{2 i+1}-\\left(\\frac{1}{k_{1}} B_{1}-\\frac{1}{k_{2}} B_{2}\\right)(i+1)=0 .\n\\end{array}\\right\\}$$\n\n\nThese equations are sufficient, when we know two of the four\n quantities $A_{1}, A_{2}, B_{1}, B_{2}$, to deduce the other two.\n\n\nLet us suppose $A_{1}$ and $B_{1}$ known, then we find the following\n expressions for $A_{2}$ and $B_{2}$,\n\n$$\\left.\\begin{array}{l}\nA_{2}=\\frac{\\left\\{k_{1}(i+1)+k_{2} i\\right\\} A_{1}+\\left(k_{1}-k_{2}\\right)(i+1) B_{1} a^{-(2 i+1)}}{k_{1}(2 i+1)}  \\tag{5}\\\\\nB_{2}=\\frac{\\left(k_{1}-k_{2}\\right) i A_{1} a^{2 i+1}+\\left\\{k_{1} i+k_{2}(i+1)\\right\\} B_{1}}{k_{1}(2 i+1)}\n\\end{array}\\right\\}$$\n",
+    "structured_lines": [
+      {
+        "page": 472,
+        "line_number": 4,
+        "type": "text",
+        "content": "then",
+        "mathpix_content": "\nthen",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 8,
+        "type": "text",
+        "content": "and if $\\nu$ is the normal drawn at any point of the surface of",
+        "mathpix_content": "\nand if $\\nu$ is the normal drawn at any point of the surface of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 9,
+        "type": "text",
+        "content": "separation from the first medium towards the second, the con-",
+        "mathpix_content": " separation from the first medium towards the second, the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 10,
+        "type": "text",
+        "content": "dition of continuity is",
+        "mathpix_content": "dition of continuity is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 14,
+        "type": "text",
+        "content": "If $\\theta_{1}$ and $\\theta_{2}$ are the angles which the lines of flow in the first",
+        "mathpix_content": "\n\nIf $\\theta_{1}$ and $\\theta_{2}$ are the angles which the lines of flow in the first",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 15,
+        "type": "text",
+        "content": "and second media respectively make with the normal to the",
+        "mathpix_content": " and second media respectively make with the normal to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 16,
+        "type": "text",
+        "content": "surface of separation, then the tangents to these lines of flow are",
+        "mathpix_content": " surface of separation, then the tangents to these lines of flow are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 17,
+        "type": "text",
+        "content": "in the same plane with the normal and on opposite sides of it,",
+        "mathpix_content": " in the same plane with the normal and on opposite sides of it,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 18,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": " and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 22,
+        "type": "text",
+        "content": "This may be called the law of refraction of lines of flow.",
+        "mathpix_content": "\n\nThis may be called the law of refraction of lines of flow.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 23,
+        "type": "text",
+        "content": "311.] As an example of the conditions which must be fulfilled",
+        "mathpix_content": "\n311.] As an example of the conditions which must be fulfilled",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 472,
+        "line_number": 24,
+        "type": "text",
+        "content": "when electricity crosses the surface of separation of two media,",
+        "mathpix_content": " when electricity crosses the surface of separation of two media,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 25,
+        "type": "text",
+        "content": "let us suppose the surface spherical and of radius $a$, the specific",
+        "mathpix_content": " let us suppose the surface spherical and of radius $a$, the specific",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 472,
+        "line_number": 26,
+        "type": "text",
+        "content": "resistance being $k_{1}$ within and $k_{2}$ without the surface.",
+        "mathpix_content": " resistance being $k_{1}$ within and $k_{2}$ without the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 27,
+        "type": "text",
+        "content": "Let the potential, both within and without the surface, be ex-",
+        "mathpix_content": "\n\nLet the potential, both within and without the surface, be ex",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 28,
+        "type": "text",
+        "content": "panded in solid harmonics, and let the part which depends",
+        "mathpix_content": "panded in solid harmonics, and let the part which depends",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 29,
+        "type": "text",
+        "content": "on the surface harmonic $S_{i}$ be",
+        "mathpix_content": " on the surface harmonic $S_{i}$ be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 35,
+        "type": "text",
+        "content": "within and without the sphere respectively.",
+        "mathpix_content": "\nwithin and without the sphere respectively.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 36,
+        "type": "text",
+        "content": "At the surface of separation where $r=a$ we must have",
+        "mathpix_content": "\nAt the surface of separation where $r=a$ we must have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 40,
+        "type": "text",
+        "content": "From these conditions we get the equations",
+        "mathpix_content": "\n\nFrom these conditions we get the equations",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 44,
+        "type": "text",
+        "content": "These equations are sufficient, when we know two of the four",
+        "mathpix_content": "\n\nThese equations are sufficient, when we know two of the four",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 45,
+        "type": "text",
+        "content": "quantities $A_{1}, A_{2}, B_{1}, B_{2}$, to deduce the other two.",
+        "mathpix_content": " quantities $A_{1}, A_{2}, B_{1}, B_{2}$, to deduce the other two.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 472,
+        "line_number": 46,
+        "type": "text",
+        "content": "Let us suppose $A_{1}$ and $B_{1}$ known, then we find the following",
+        "mathpix_content": "\n\nLet us suppose $A_{1}$ and $B_{1}$ known, then we find the following",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 472,
+        "line_number": 47,
+        "type": "text",
+        "content": "expressions for $A_{2}$ and $B_{2}$,",
+        "mathpix_content": " expressions for $A_{2}$ and $B_{2}$,",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

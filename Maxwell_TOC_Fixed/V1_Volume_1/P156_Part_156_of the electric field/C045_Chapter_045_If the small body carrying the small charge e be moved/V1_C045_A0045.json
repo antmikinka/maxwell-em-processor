@@ -1,0 +1,372 @@
+{
+  "article_id": "article_45",
+  "article_number": 45,
+  "title_original": ".] If the small body carrying the small charge $e$ be moved",
+  "title_safe": "If the small body carrying the small charge e be moved",
+  "page_start": 83,
+  "page_end": 83,
+  "content": {
+    "raw_text": "\n--- Page 83 ---\n48\nELECTROSTATIC PHENOMENA.\n[45.\nevery substance which we can act upon with the means at our\ndisposal.\nIf an electrified body be placed at any part of the electric field\nit will, in general, produce a sensible disturbance in the electri-\nfication of the other bodies.\nBut if the body is very small, and its charge also very small,\nthe electrification of the other bodies will not be sensibly dis-\nturbed, and we may consider the position of the body as deter-\nmined by its centre of mass. The force acting on the body will\nthen be proportional to its charge, and will be reversed when\nthe charge is reversed.\nLet $e$ be the charge of the body, and $F$ the force acting on the\nbody in a certain direction, then when $e$ is very small $F$ is propor-\ntional to $e$, or\n$$F^{\\prime}=R e,$$\nwhere $R$ depends on the distribution of electricity on the other\nbodies in the field. If the charge $e$ could be made equal to\nunity without disturbing the electrification of other bodies we\nshould have $F=R$.\nWe shall call $R$ the Resultant Electromotive Intensity at the\ngiven point of the field. When we wish to express the fact that\nthis quantity is a vector we shall denote it by the German letter E.\n\nTotal Electromotive Force and Potential.\n45.] If the small body carrying the small charge $e$ be moved\nfrom one given point, $A$, to another $B$, along a given path, it\nwill experience at each point of its course a force $R e$, where $R$\nvaries from point to point of the course. Let the whole work\ndone on the body by the electrical force be $E e$, then $E$ is called\nthe Total Electromotive Force along the path $A B$. If the path\nforms a complete circuit, and if the total electromotive force round\nthe circuit does not vanish, the electricity cannot be in equi-\nlibrium but a current will be produced. Hence in Electrostatics\nthe total electromotive force round any closed circuit must be\nzero, so that if $A$ and $B$ are two points on the circuit, the total\nelectromotive force from $A$ to $B$ is the same along either of the\ntwc paths into which the circuit is broken, and since either of\nthese can be altered independently of the other, the total electro-\nmotive force from $A$ to $B$ is the same for all paths from $A$ to $B$.\nIf $B$ is taken as a point of reference for all other points, then the\ntotal electromotive force from $A$ to $B$ is called the Potential of $A$.\n",
+    "mathpix_markdown": "\n--- Page 83 ---\n\nevery substance which we can act upon with the means at our\n disposal.\n\n\nIf an electrified body be placed at any part of the electric field\n it will, in general, produce a sensible disturbance in the electri\nfication of the other bodies.\n\n\nBut if the body is very small, and its charge also very small,\n the electrification of the other bodies will not be sensibly dis\nturbed, and we may consider the position of the body as deter\nmined by its centre of mass. The force acting on the body will\n then be proportional to its charge, and will be reversed when\n the charge is reversed.\n\n\nLet $e$ be the charge of the body, and $F$ the force acting on the\n body in a certain direction, then when $e$ is very small $F$ is propor\ntional to $e$, or\n\n$$F^{\\prime}=R e,$$\n\nwhere $R$ depends on the distribution of electricity on the other\n bodies in the field. If the charge $e$ could be made equal to\n unity without disturbing the electrification of other bodies we\n should have $F=R$.\n\n\nWe shall call $R$ the Resultant Electromotive Intensity at the\n given point of the field. When we wish to express the fact that\n this quantity is a vector we shall denote it by the German letter E.\n\n\n\\section*{Total Electromotive Force and Potential.}\n\n45.] If the small body carrying the small charge $e$ be moved\n from one given point, $A$, to another $B$, along a given path, it\n will experience at each point of its course a force $R e$, where $R$\n varies from point to point of the course. Let the whole work\n done on the body by the electrical force be $E e$, then $E$ is called\n the Total Electromotive Force along the path $A B$. If the path\n forms a complete circuit, and if the total electromotive force round\n the circuit does not vanish, the electricity cannot be in equi\nlibrium but a current will be produced. Hence in Electrostatics\n the total electromotive force round any closed circuit must be\n zero, so that if $A$ and $B$ are two points on the circuit, the total\n electromotive force from $A$ to $B$ is the same along either of the\n twc paths into which the circuit is broken, and since either of\n these can be altered independently of the other, the total electro\nmotive force from $A$ to $B$ is the same for all paths from $A$ to $B$.\n\n\nIf $B$ is taken as a point of reference for all other points, then the\n total electromotive force from $A$ to $B$ is called the Potential of $A$.\n",
+    "structured_lines": [
+      {
+        "page": 83,
+        "line_number": 4,
+        "type": "text",
+        "content": "every substance which we can act upon with the means at our",
+        "mathpix_content": "\nevery substance which we can act upon with the means at our",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 5,
+        "type": "text",
+        "content": "disposal.",
+        "mathpix_content": " disposal.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 6,
+        "type": "text",
+        "content": "If an electrified body be placed at any part of the electric field",
+        "mathpix_content": "\n\nIf an electrified body be placed at any part of the electric field",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 7,
+        "type": "text",
+        "content": "it will, in general, produce a sensible disturbance in the electri-",
+        "mathpix_content": " it will, in general, produce a sensible disturbance in the electri",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 8,
+        "type": "text",
+        "content": "fication of the other bodies.",
+        "mathpix_content": "fication of the other bodies.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 9,
+        "type": "text",
+        "content": "But if the body is very small, and its charge also very small,",
+        "mathpix_content": "\n\nBut if the body is very small, and its charge also very small,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 10,
+        "type": "text",
+        "content": "the electrification of the other bodies will not be sensibly dis-",
+        "mathpix_content": " the electrification of the other bodies will not be sensibly dis",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 11,
+        "type": "text",
+        "content": "turbed, and we may consider the position of the body as deter-",
+        "mathpix_content": "turbed, and we may consider the position of the body as deter",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 12,
+        "type": "text",
+        "content": "mined by its centre of mass. The force acting on the body will",
+        "mathpix_content": "mined by its centre of mass. The force acting on the body will",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 13,
+        "type": "text",
+        "content": "then be proportional to its charge, and will be reversed when",
+        "mathpix_content": " then be proportional to its charge, and will be reversed when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 14,
+        "type": "text",
+        "content": "the charge is reversed.",
+        "mathpix_content": " the charge is reversed.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 15,
+        "type": "text",
+        "content": "Let $e$ be the charge of the body, and $F$ the force acting on the",
+        "mathpix_content": "\n\nLet $e$ be the charge of the body, and $F$ the force acting on the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 16,
+        "type": "text",
+        "content": "body in a certain direction, then when $e$ is very small $F$ is propor-",
+        "mathpix_content": " body in a certain direction, then when $e$ is very small $F$ is propor",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 17,
+        "type": "text",
+        "content": "tional to $e$, or",
+        "mathpix_content": "tional to $e$, or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 20,
+        "type": "text",
+        "content": "where $R$ depends on the distribution of electricity on the other",
+        "mathpix_content": "\nwhere $R$ depends on the distribution of electricity on the other",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 21,
+        "type": "text",
+        "content": "bodies in the field. If the charge $e$ could be made equal to",
+        "mathpix_content": " bodies in the field. If the charge $e$ could be made equal to",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 83,
+        "line_number": 22,
+        "type": "text",
+        "content": "unity without disturbing the electrification of other bodies we",
+        "mathpix_content": " unity without disturbing the electrification of other bodies we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 23,
+        "type": "text",
+        "content": "should have $F=R$.",
+        "mathpix_content": " should have $F=R$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 24,
+        "type": "text",
+        "content": "We shall call $R$ the Resultant Electromotive Intensity at the",
+        "mathpix_content": "\n\nWe shall call $R$ the Resultant Electromotive Intensity at the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 25,
+        "type": "text",
+        "content": "given point of the field. When we wish to express the fact that",
+        "mathpix_content": " given point of the field. When we wish to express the fact that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 26,
+        "type": "text",
+        "content": "this quantity is a vector we shall denote it by the German letter E.",
+        "mathpix_content": " this quantity is a vector we shall denote it by the German letter E.",
+        "font_size": 27,
+        "confidence": 0.628954871557653
+      },
+      {
+        "page": 83,
+        "line_number": 28,
+        "type": "text",
+        "content": "Total Electromotive Force and Potential.",
+        "mathpix_content": "\n\n\\section*{Total Electromotive Force and Potential.}",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 83,
+        "line_number": 29,
+        "type": "text",
+        "content": "45.] If the small body carrying the small charge $e$ be moved",
+        "mathpix_content": "\n45.] If the small body carrying the small charge $e$ be moved",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 30,
+        "type": "text",
+        "content": "from one given point, $A$, to another $B$, along a given path, it",
+        "mathpix_content": " from one given point, $A$, to another $B$, along a given path, it",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 31,
+        "type": "text",
+        "content": "will experience at each point of its course a force $R e$, where $R$",
+        "mathpix_content": " will experience at each point of its course a force $R e$, where $R$",
+        "font_size": 27,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 83,
+        "line_number": 32,
+        "type": "text",
+        "content": "varies from point to point of the course. Let the whole work",
+        "mathpix_content": " varies from point to point of the course. Let the whole work",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 33,
+        "type": "text",
+        "content": "done on the body by the electrical force be $E e$, then $E$ is called",
+        "mathpix_content": " done on the body by the electrical force be $E e$, then $E$ is called",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 34,
+        "type": "text",
+        "content": "the Total Electromotive Force along the path $A B$. If the path",
+        "mathpix_content": " the Total Electromotive Force along the path $A B$. If the path",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 35,
+        "type": "text",
+        "content": "forms a complete circuit, and if the total electromotive force round",
+        "mathpix_content": " forms a complete circuit, and if the total electromotive force round",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 83,
+        "line_number": 36,
+        "type": "text",
+        "content": "the circuit does not vanish, the electricity cannot be in equi-",
+        "mathpix_content": " the circuit does not vanish, the electricity cannot be in equi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 37,
+        "type": "text",
+        "content": "librium but a current will be produced. Hence in Electrostatics",
+        "mathpix_content": "librium but a current will be produced. Hence in Electrostatics",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 38,
+        "type": "text",
+        "content": "the total electromotive force round any closed circuit must be",
+        "mathpix_content": " the total electromotive force round any closed circuit must be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 39,
+        "type": "text",
+        "content": "zero, so that if $A$ and $B$ are two points on the circuit, the total",
+        "mathpix_content": " zero, so that if $A$ and $B$ are two points on the circuit, the total",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 40,
+        "type": "text",
+        "content": "electromotive force from $A$ to $B$ is the same along either of the",
+        "mathpix_content": " electromotive force from $A$ to $B$ is the same along either of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 41,
+        "type": "text",
+        "content": "twc paths into which the circuit is broken, and since either of",
+        "mathpix_content": " twc paths into which the circuit is broken, and since either of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 42,
+        "type": "text",
+        "content": "these can be altered independently of the other, the total electro-",
+        "mathpix_content": " these can be altered independently of the other, the total electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 43,
+        "type": "text",
+        "content": "motive force from $A$ to $B$ is the same for all paths from $A$ to $B$.",
+        "mathpix_content": "motive force from $A$ to $B$ is the same for all paths from $A$ to $B$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 44,
+        "type": "text",
+        "content": "If $B$ is taken as a point of reference for all other points, then the",
+        "mathpix_content": "\n\nIf $B$ is taken as a point of reference for all other points, then the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 83,
+        "line_number": 45,
+        "type": "text",
+        "content": "total electromotive force from $A$ to $B$ is called the Potential of $A$.",
+        "mathpix_content": " total electromotive force from $A$ to $B$ is called the Potential of $A$.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "}$,",
+  "title_safe": "Article",
+  "page_start": 157,
+  "page_end": 157,
+  "content": {
+    "raw_text": "\n--- Page 157 ---\n122\nSYSTEM OF CONDUCTORS.\nof the charges and inversely to the squares of the distances, and\nalso inversely to the inductive capacities of the media.\nHence, if two conductors with given charges are placed in a\nliquid whose inductive capacity is greater than that of air, they\nwill attract each other less than if they had been surrounded by\nair and charged with the same quantities of electricity*.\n* It follows from the preceding investigation that the force between two electri-\nfied bodies surrounded by a medium whose specific inductive capacity is $K$ is $e e^{\\prime} / K r^{2}$,\nwhere $e$ and $e^{\\prime}$ are the charges on the bodies and $r$ is the distance between them. j\n",
+    "mathpix_markdown": "\n--- Page 157 ---\n\nof the charges and inversely to the squares of the distances, and\n also inversely to the inductive capacities of the media.\n\n\nHence, if two conductors with given charges are placed in a\n liquid whose inductive capacity is greater than that of air, they\n will attract each other less than if they had been surrounded by\n air and charged with the same quantities of electricity*.\n\n* It follows from the preceding investigation that the force between two electri\nfied bodies surrounded by a medium whose specific inductive capacity is $K$ is $e e^{\\prime} / K r^{2}$,\n where $e$ and $e^{\\prime}$ are the charges on the bodies and $r$ is the distance between them. j\n",
+    "structured_lines": [
+      {
+        "page": 157,
+        "line_number": 3,
+        "type": "text",
+        "content": "of the charges and inversely to the squares of the distances, and",
+        "mathpix_content": "\nof the charges and inversely to the squares of the distances, and",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 157,
+        "line_number": 4,
+        "type": "text",
+        "content": "also inversely to the inductive capacities of the media.",
+        "mathpix_content": " also inversely to the inductive capacities of the media.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 157,
+        "line_number": 5,
+        "type": "text",
+        "content": "Hence, if two conductors with given charges are placed in a",
+        "mathpix_content": "\n\nHence, if two conductors with given charges are placed in a",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 157,
+        "line_number": 6,
+        "type": "text",
+        "content": "liquid whose inductive capacity is greater than that of air, they",
+        "mathpix_content": " liquid whose inductive capacity is greater than that of air, they",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 157,
+        "line_number": 7,
+        "type": "text",
+        "content": "will attract each other less than if they had been surrounded by",
+        "mathpix_content": " will attract each other less than if they had been surrounded by",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 157,
+        "line_number": 8,
+        "type": "text",
+        "content": "air and charged with the same quantities of electricity*.",
+        "mathpix_content": " air and charged with the same quantities of electricity*.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 157,
+        "line_number": 9,
+        "type": "text",
+        "content": "* It follows from the preceding investigation that the force between two electri-",
+        "mathpix_content": "\n* It follows from the preceding investigation that the force between two electri",
+        "font_size": 26,
+        "confidence": 0.98974609375
+      },
+      {
+        "page": 157,
+        "line_number": 10,
+        "type": "text",
+        "content": "fied bodies surrounded by a medium whose specific inductive capacity is $K$ is $e e^{\\prime} / K r^{2}$,",
+        "mathpix_content": "fied bodies surrounded by a medium whose specific inductive capacity is $K$ is $e e^{\\prime} / K r^{2}$,",
+        "font_size": 26,
+        "confidence": 0.9882969781768338
+      },
+      {
+        "page": 157,
+        "line_number": 11,
+        "type": "text",
+        "content": "where $e$ and $e^{\\prime}$ are the charges on the bodies and $r$ is the distance between them. j",
+        "mathpix_content": " where $e$ and $e^{\\prime}$ are the charges on the bodies and $r$ is the distance between them. j",
+        "font_size": 26,
+        "confidence": 0.49883815774228424
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

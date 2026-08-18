@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}$ is the greatest value of $r$, which is always $a+b$, and $r_{2}$",
+  "title_safe": "is the greatest value of r which is always aplusb and r2",
+  "page_start": 119,
+  "page_end": 118,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

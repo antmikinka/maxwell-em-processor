@@ -1,0 +1,381 @@
+{
+  "article_id": "article_197",
+  "article_number": 197,
+  "title_original": ", 198.",
+  "title_safe": "198",
+  "page_start": 370,
+  "page_end": 370,
+  "content": {
+    "raw_text": "\n--- Page 370 ---\n218.]\nGAUGE ELECTROMETER.\n335\nabsolute distance makes a great change in the force, since the\nforce varies inversely as the square of the distance, so that any\nerror in the absolute distance introduces a large error in the\nresult unless the distance is large compared with the limits of\nerror of the micrometer screw.\nThe effects of small irregularities of form in the surfaces of the\ndisks and of the interval between them diminish according to\nthe inverse cube and higher inverse powers of the distance, and\nwhatever be the form of a corrugated surface, the eminences of\nwhich just reach a plane surface, the electrical effect at any\ndistance which is considerable compared to the breadth of the\ncorrugations, is the same as that of a plane at a certain small\ndistance behind the plane of the tops of the eminences. See\nArts. 197, 198.\nPy means of the auxiliary electrification, tested by the aux-\niliary electrometer, a proper interval between the disks is secured.\nThe auxiliary electrometer may be of a simpler construction,\nin which there is no provision for the determination of the force\nof attraction in absolute measure, since all that is wanted is to\nsecure a constant electrification. Such an electrometer may be\ncalled a gauge electrometer.\nThis method of using an auxiliary electrification besides the\nelectrification to be measured is called the Heterostatic method\nof electrometry, in opposition to the Idiostatic method in which\nthe whole effect is produced by the electrification to be measured.\nIn several forms of the attracted disk electrometer, the at-\ntracted disk is placed at one end of an arm which is supported\nby being attached to a platinum wire passing through its centre\nof gravity and kept stretched by means of a spring. The other\nend of the arm carries the hair which is brought to a sighted\nposition by altering the distance between the disks, and so ad-\njusting the force of the electric attraction to a constant value.\nIn these electrometers this force is not in general determined in\nabsolute measure, but is known to be constant, provided the\ntorsional elasticity of the platinum wire does not change.\nThe whole apparatus is placed in a Leyden jar, of which the\ninner surface is charged and connected with the attracted disk\nand guard-ring. The other disk is worked by a micrometer\nscrew, and is connected first with the earth and then with the\nconductor whose potential is to be measured. The difference of\n",
+    "mathpix_markdown": "\n--- Page 370 ---\n\nabsolute distance makes a great change in the force, since the\n force varies inversely as the square of the distance, so that any\n error in the absolute distance introduces a large error in the\n result unless the distance is large compared with the limits of\n error of the micrometer screw.\n\n\nThe effects of small irregularities of form in the surfaces of the\n disks and of the interval between them diminish according to\n the inverse cube and higher inverse powers of the distance, and\n whatever be the form of a corrugated surface, the eminences of\n which just reach a plane surface, the electrical effect at any\n distance which is considerable compared to the breadth of the\n corrugations, is the same as that of a plane at a certain small\n distance behind the plane of the tops of the eminences. See\n Arts. 197, 198.\n\n\nPy means of the auxiliary electrification, tested by the aux\niliary electrometer, a proper interval between the disks is secured.\n\n\nThe auxiliary electrometer may be of a simpler construction,\n in which there is no provision for the determination of the force\n of attraction in absolute measure, since all that is wanted is to\n secure a constant electrification. Such an electrometer may be\n called a gauge electrometer.\n\n\nThis method of using an auxiliary electrification besides the\n electrification to be measured is called the Heterostatic method\n of electrometry, in opposition to the Idiostatic method in which\n the whole effect is produced by the electrification to be measured.\n\n\nIn several forms of the attracted disk electrometer, the at\ntracted disk is placed at one end of an arm which is supported\n by being attached to a platinum wire passing through its centre\n of gravity and kept stretched by means of a spring. The other\n end of the arm carries the hair which is brought to a sighted\n position by altering the distance between the disks, and so ad\njusting the force of the electric attraction to a constant value.\n In these electrometers this force is not in general determined in\n absolute measure, but is known to be constant, provided the\n torsional elasticity of the platinum wire does not change.\n\n\nThe whole apparatus is placed in a Leyden jar, of which the\n inner surface is charged and connected with the attracted disk\n and guard-ring. The other disk is worked by a micrometer\n screw, and is connected first with the earth and then with the\n conductor whose potential is to be measured. The difference of\n",
+    "structured_lines": [
+      {
+        "page": 370,
+        "line_number": 4,
+        "type": "text",
+        "content": "absolute distance makes a great change in the force, since the",
+        "mathpix_content": "\nabsolute distance makes a great change in the force, since the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 5,
+        "type": "text",
+        "content": "force varies inversely as the square of the distance, so that any",
+        "mathpix_content": " force varies inversely as the square of the distance, so that any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 6,
+        "type": "text",
+        "content": "error in the absolute distance introduces a large error in the",
+        "mathpix_content": " error in the absolute distance introduces a large error in the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 7,
+        "type": "text",
+        "content": "result unless the distance is large compared with the limits of",
+        "mathpix_content": " result unless the distance is large compared with the limits of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 8,
+        "type": "text",
+        "content": "error of the micrometer screw.",
+        "mathpix_content": " error of the micrometer screw.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 9,
+        "type": "text",
+        "content": "The effects of small irregularities of form in the surfaces of the",
+        "mathpix_content": "\n\nThe effects of small irregularities of form in the surfaces of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 10,
+        "type": "text",
+        "content": "disks and of the interval between them diminish according to",
+        "mathpix_content": " disks and of the interval between them diminish according to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 11,
+        "type": "text",
+        "content": "the inverse cube and higher inverse powers of the distance, and",
+        "mathpix_content": " the inverse cube and higher inverse powers of the distance, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 12,
+        "type": "text",
+        "content": "whatever be the form of a corrugated surface, the eminences of",
+        "mathpix_content": " whatever be the form of a corrugated surface, the eminences of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 13,
+        "type": "text",
+        "content": "which just reach a plane surface, the electrical effect at any",
+        "mathpix_content": " which just reach a plane surface, the electrical effect at any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 14,
+        "type": "text",
+        "content": "distance which is considerable compared to the breadth of the",
+        "mathpix_content": " distance which is considerable compared to the breadth of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 15,
+        "type": "text",
+        "content": "corrugations, is the same as that of a plane at a certain small",
+        "mathpix_content": " corrugations, is the same as that of a plane at a certain small",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 16,
+        "type": "text",
+        "content": "distance behind the plane of the tops of the eminences. See",
+        "mathpix_content": " distance behind the plane of the tops of the eminences. See",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 17,
+        "type": "text",
+        "content": "Arts. 197, 198.",
+        "mathpix_content": " Arts. 197, 198.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 18,
+        "type": "text",
+        "content": "Py means of the auxiliary electrification, tested by the aux-",
+        "mathpix_content": "\n\nPy means of the auxiliary electrification, tested by the aux",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 370,
+        "line_number": 19,
+        "type": "text",
+        "content": "iliary electrometer, a proper interval between the disks is secured.",
+        "mathpix_content": "iliary electrometer, a proper interval between the disks is secured.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 20,
+        "type": "text",
+        "content": "The auxiliary electrometer may be of a simpler construction,",
+        "mathpix_content": "\n\nThe auxiliary electrometer may be of a simpler construction,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 21,
+        "type": "text",
+        "content": "in which there is no provision for the determination of the force",
+        "mathpix_content": " in which there is no provision for the determination of the force",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 22,
+        "type": "text",
+        "content": "of attraction in absolute measure, since all that is wanted is to",
+        "mathpix_content": " of attraction in absolute measure, since all that is wanted is to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 23,
+        "type": "text",
+        "content": "secure a constant electrification. Such an electrometer may be",
+        "mathpix_content": " secure a constant electrification. Such an electrometer may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 24,
+        "type": "text",
+        "content": "called a gauge electrometer.",
+        "mathpix_content": " called a gauge electrometer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 25,
+        "type": "text",
+        "content": "This method of using an auxiliary electrification besides the",
+        "mathpix_content": "\n\nThis method of using an auxiliary electrification besides the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 26,
+        "type": "text",
+        "content": "electrification to be measured is called the Heterostatic method",
+        "mathpix_content": " electrification to be measured is called the Heterostatic method",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 27,
+        "type": "text",
+        "content": "of electrometry, in opposition to the Idiostatic method in which",
+        "mathpix_content": " of electrometry, in opposition to the Idiostatic method in which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 28,
+        "type": "text",
+        "content": "the whole effect is produced by the electrification to be measured.",
+        "mathpix_content": " the whole effect is produced by the electrification to be measured.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 29,
+        "type": "text",
+        "content": "In several forms of the attracted disk electrometer, the at-",
+        "mathpix_content": "\n\nIn several forms of the attracted disk electrometer, the at",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 30,
+        "type": "text",
+        "content": "tracted disk is placed at one end of an arm which is supported",
+        "mathpix_content": "tracted disk is placed at one end of an arm which is supported",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 31,
+        "type": "text",
+        "content": "by being attached to a platinum wire passing through its centre",
+        "mathpix_content": " by being attached to a platinum wire passing through its centre",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 32,
+        "type": "text",
+        "content": "of gravity and kept stretched by means of a spring. The other",
+        "mathpix_content": " of gravity and kept stretched by means of a spring. The other",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 33,
+        "type": "text",
+        "content": "end of the arm carries the hair which is brought to a sighted",
+        "mathpix_content": " end of the arm carries the hair which is brought to a sighted",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 34,
+        "type": "text",
+        "content": "position by altering the distance between the disks, and so ad-",
+        "mathpix_content": " position by altering the distance between the disks, and so ad",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 35,
+        "type": "text",
+        "content": "justing the force of the electric attraction to a constant value.",
+        "mathpix_content": "justing the force of the electric attraction to a constant value.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 36,
+        "type": "text",
+        "content": "In these electrometers this force is not in general determined in",
+        "mathpix_content": " In these electrometers this force is not in general determined in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 37,
+        "type": "text",
+        "content": "absolute measure, but is known to be constant, provided the",
+        "mathpix_content": " absolute measure, but is known to be constant, provided the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 38,
+        "type": "text",
+        "content": "torsional elasticity of the platinum wire does not change.",
+        "mathpix_content": " torsional elasticity of the platinum wire does not change.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 39,
+        "type": "text",
+        "content": "The whole apparatus is placed in a Leyden jar, of which the",
+        "mathpix_content": "\n\nThe whole apparatus is placed in a Leyden jar, of which the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 40,
+        "type": "text",
+        "content": "inner surface is charged and connected with the attracted disk",
+        "mathpix_content": " inner surface is charged and connected with the attracted disk",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 370,
+        "line_number": 41,
+        "type": "text",
+        "content": "and guard-ring. The other disk is worked by a micrometer",
+        "mathpix_content": " and guard-ring. The other disk is worked by a micrometer",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 42,
+        "type": "text",
+        "content": "screw, and is connected first with the earth and then with the",
+        "mathpix_content": " screw, and is connected first with the earth and then with the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 370,
+        "line_number": 43,
+        "type": "text",
+        "content": "conductor whose potential is to be measured. The difference of",
+        "mathpix_content": " conductor whose potential is to be measured. The difference of",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

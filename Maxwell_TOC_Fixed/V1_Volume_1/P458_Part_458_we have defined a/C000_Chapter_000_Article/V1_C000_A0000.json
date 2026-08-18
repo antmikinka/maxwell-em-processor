@@ -1,0 +1,156 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "$.\\}",
+  "title_safe": "Article",
+  "page_start": 247,
+  "page_end": 247,
+  "content": {
+    "raw_text": "\n--- Page 247 ---\n212\nSPHERICAL HARMONICS.\n[140 a.\n$$D_{c}^{(\\sigma)} \\frac{1}{\\gamma^{\\prime}}=(-1)^{\\sigma} \\frac{(2 \\sigma)!}{2^{2 \\sigma} \\sigma!}\\left(\\xi^{\\sigma}+\\eta^{\\sigma}\\right) \\frac{1}{\\gamma^{2 \\sigma+1}},$$\n(66)\nin which we may write\n$$\\frac{i}{2}\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right)=\\rho^{\\sigma} \\sin \\sigma \\phi, \\quad \\frac{1}{2}\\left(\\xi^{\\sigma}+\\eta^{\\sigma}\\right)=\\rho^{\\sigma} \\cos \\sigma \\phi .$$\n(67)\nWe have now only to differentiate with respect to $z$, which we\nmay do so as to obtain the result either in terms of $p$ and $z$, or as\na homogeneous function of $z$ and $\\rho$ divided by a power of $r$,\n$$\\begin{aligned}\nd z^{n-\\sigma} \\frac{1}{r^{2 \\sigma+1}}=(-1)^{n-\\sigma} \\frac{(2 n)!}{2^{n} n!} \\frac{2^{\\sigma} \\sigma!}{(2 \\sigma)!} \\frac{1}{r^{2 n+1}} \\times & \\\\\n& {\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{2(2 n-1)} z^{n-\\sigma-2} r^{2}+\\& \\mathrm{c} .\\right] * }\n\\end{aligned}$$\n(68)\n$$\\text { or } \\begin{aligned}\n\\frac{d^{n-\\sigma}}{d z^{n-\\sigma}} \\frac{1}{r^{2 \\sigma+1}}= & (-1)^{n-\\sigma} \\frac{(n+\\sigma)!}{(2 \\sigma)!} 1 \\\\\n& {\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} z^{n-\\sigma-2} \\rho^{2}+\\& \\mathrm{c} .\\right] }\n\\end{aligned}$$\n(69)\nIf we write\n$$\\begin{aligned}\n\\Theta_{n}^{(\\sigma)} & =\\nu^{\\sigma}\\left[\\mu^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{2(2 n-1)} \\mu^{n-\\sigma-2}\\right. \\\\\n& \\left.+\\frac{(n-\\sigma)(n-\\sigma-1)(n-\\sigma-2)(n-\\sigma-3)}{2 \\cdot 4(2 n-1)(2 n-3)} \\mu^{n-\\sigma-4}-\\& \\mathrm{c} .\\right]\n\\end{aligned}$$\n$(70)$\nand\n$$\\begin{aligned}\n& \\mathcal{L}_{n}^{(\\sigma)}=\\nu^{\\sigma}\\left[\\mu^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} \\mu^{n-\\sigma-2} \\nu^{2}\\right. \\\\\n& \\left.\\quad+\\frac{(n-\\sigma)(n-\\sigma-1)(n-\\sigma-2)(n-\\sigma-3)}{4.8(\\sigma+1)(\\sigma+2)} \\mu^{n-\\sigma-4} \\nu^{4}-\\& \\mathrm{c} .\\right]\n\\end{aligned}$$\n(71)\nthen\n$$\\Theta_{n}^{(\\sigma)}=\\frac{2^{n-\\sigma} n!(n+\\sigma)!}{(2 n)!\\sigma!} L_{n}^{(\\sigma)},$$\n(72)\nso that these two functions differ only by a constant factor.\nWe may now write the expressions for the two tesseral har-\nmonics of order $n$ and type $\\sigma$ in terms either of $\\Theta$ or $\\mathscr{I}$,\n$$\\begin{aligned}\nY_{n}^{(\\sigma)} & =\\frac{(2 n)!}{2^{n+\\sigma} n!n!} \\Theta_{n}^{(\\sigma)} 2 \\sin \\sigma \\phi=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} \\Omega_{n}^{(\\sigma)} 2 \\sin \\sigma \\phi \\\\\nY_{n}^{(\\sigma)} & =\\frac{(2 n)!}{2^{n+\\sigma} n!n!} \\Theta_{n}^{(\\sigma)} 2 \\cos \\sigma \\phi=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} \\Omega_{n}^{(\\sigma)} 2 \\cos \\sigma \\phi \\dagger\n\\end{aligned}$$\n(73)\n(74)\n* \\{Equation (68) may easily be proved by noticing that the left-hand side is $(n-\\sigma)$ !\ntimes the coefficient of $\\mathrm{h}^{n-\\sigma}$ in $\\left\\{\\frac{1}{\\xi \\eta+(z+h)^{2}}\\right\\}^{\\frac{2 \\sigma+1}{2}}$, or $\\frac{1}{r^{2 \\sigma+1}}\\left\\{1+\\frac{2 h z+h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$; if\nwe write this as $\\frac{1}{r^{2 \\sigma}}\\left\\{\\left(1+\\mu \\frac{h}{r}\\right)^{2}+\\nu^{2} \\frac{h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$ and pick out the coefficient of $h^{n-\\sigma}$,\nwe get equation (69). \\}\n$\\dagger$ \\{This value must le halved when $\\sigma=0$.\\}\n",
+    "mathpix_markdown": "\n--- Page 247 ---\n\n$$\\begin{equation*}\nD_{c}^{(\\sigma)} \\frac{1}{\\gamma^{\\prime}}=(-1)^{\\sigma} \\frac{(2 \\sigma)!}{2^{2 \\sigma} \\sigma!}\\left(\\xi^{\\sigma}+\\eta^{\\sigma}\\right) \\frac{1}{\\gamma^{2 \\sigma+1}}, \\tag{66}\n\\end{equation*}$$\n\nin which we may write\n\n$$\\begin{equation*}\n\\frac{i}{2}\\left(\\eta^{\\sigma}-\\xi^{\\sigma}\\right)=\\rho^{\\sigma} \\sin \\sigma \\phi, \\quad \\frac{1}{2}\\left(\\xi^{\\sigma}+\\eta^{\\sigma}\\right)=\\rho^{\\sigma} \\cos \\sigma \\phi . \\tag{67}\n\\end{equation*}$$\n\n\nWe have now only to differentiate with respect to $z$, which we\n may do so as to obtain the result either in terms of $p$ and $z$, or as\n a homogeneous function of $z$ and $\\rho$ divided by a power of $r$,\n\n$$\\begin{align*}\nd z^{n-\\sigma} \\frac{1}{r^{2 \\sigma+1}}=(-1)^{n-\\sigma} \\frac{(2 n)!}{2^{n} n!} \\frac{2^{\\sigma} \\sigma!}{(2 \\sigma)!} \\frac{1}{r^{2 n+1}} \\times & \\\\\n& {\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{2(2 n-1)} z^{n-\\sigma-2} r^{2}+\\& \\mathrm{c} .\\right] * } \\tag{68}\n\\end{align*}$$\n\n$$\\text { or } \\begin{align*}\n\\frac{d^{n-\\sigma}}{d z^{n-\\sigma}} \\frac{1}{r^{2 \\sigma+1}}= & (-1)^{n-\\sigma} \\frac{(n+\\sigma)!}{(2 \\sigma)!} 1 \\\\\n& {\\left[z^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} z^{n-\\sigma-2} \\rho^{2}+\\& \\mathrm{c} .\\right] } \\tag{69}\n\\end{align*}$$\n\n\nIf we write\n\n$$\\begin{align*}\n\\Theta_{n}^{(\\sigma)} & =\\nu^{\\sigma}\\left[\\mu^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{2(2 n-1)} \\mu^{n-\\sigma-2}\\right. \\\\\n& \\left.+\\frac{(n-\\sigma)(n-\\sigma-1)(n-\\sigma-2)(n-\\sigma-3)}{2 \\cdot 4(2 n-1)(2 n-3)} \\mu^{n-\\sigma-4}-\\& \\mathrm{c} .\\right] \\tag{70}\n\\end{align*}$$\n\nand\n\n$$\\begin{align*}\n& \\mathcal{L}_{n}^{(\\sigma)}=\\nu^{\\sigma}\\left[\\mu^{n-\\sigma}-\\frac{(n-\\sigma)(n-\\sigma-1)}{4(\\sigma+1)} \\mu^{n-\\sigma-2} \\nu^{2}\\right. \\\\\n& \\left.\\quad+\\frac{(n-\\sigma)(n-\\sigma-1)(n-\\sigma-2)(n-\\sigma-3)}{4.8(\\sigma+1)(\\sigma+2)} \\mu^{n-\\sigma-4} \\nu^{4}-\\& \\mathrm{c} .\\right] \\tag{71}\n\\end{align*}$$\n\nthen\n\n$$\\begin{equation*}\n\\Theta_{n}^{(\\sigma)}=\\frac{2^{n-\\sigma} n!(n+\\sigma)!}{(2 n)!\\sigma!} L_{n}^{(\\sigma)}, \\tag{72}\n\\end{equation*}$$\n\nso that these two functions differ only by a constant factor.\n\nWe may now write the expressions for the two tesseral har\nmonics of order $n$ and type $\\sigma$ in terms either of $\\Theta$ or $\\mathscr{I}$,\n\n$$\\begin{align*}\nY_{n}^{(\\sigma)} & =\\frac{(2 n)!}{2^{n+\\sigma} n!n!} \\Theta_{n}^{(\\sigma)} 2 \\sin \\sigma \\phi=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} \\Omega_{n}^{(\\sigma)} 2 \\sin \\sigma \\phi  \\tag{73}\\\\\nY_{n}^{(\\sigma)} & =\\frac{(2 n)!}{2^{n+\\sigma} n!n!} \\Theta_{n}^{(\\sigma)} 2 \\cos \\sigma \\phi=\\frac{(n+\\sigma)!}{2^{2 \\sigma} n!\\sigma!} \\Omega_{n}^{(\\sigma)} 2 \\cos \\sigma \\phi \\dagger \\tag{74}\n\\end{align*}$$\n\n* \\{Equation (68) may easily be proved by noticing that the left-hand side is $(n-\\sigma)$ !\n times the coefficient of $\\mathrm{h}^{n-\\sigma}$ in $\\left\\{\\frac{1}{\\xi \\eta+(z+h)^{2}}\\right\\}^{\\frac{2 \\sigma+1}{2}}$, or $\\frac{1}{r^{2 \\sigma+1}}\\left\\{1+\\frac{2 h z+h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$; if\n we write this as $\\frac{1}{r^{2 \\sigma}}\\left\\{\\left(1+\\mu \\frac{h}{r}\\right)^{2}+\\nu^{2} \\frac{h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$ and pick out the coefficient of $h^{n-\\sigma}$,\n we get equation (69). \\}\n\n$\\dagger$ \\{This value must le halved when $\\sigma=0$.\\}\n",
+    "structured_lines": [
+      {
+        "page": 247,
+        "line_number": 7,
+        "type": "text",
+        "content": "in which we may write",
+        "mathpix_content": "\nin which we may write",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 11,
+        "type": "text",
+        "content": "We have now only to differentiate with respect to $z$, which we",
+        "mathpix_content": "\n\nWe have now only to differentiate with respect to $z$, which we",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 12,
+        "type": "text",
+        "content": "may do so as to obtain the result either in terms of $p$ and $z$, or as",
+        "mathpix_content": " may do so as to obtain the result either in terms of $p$ and $z$, or as",
+        "font_size": 33,
+        "confidence": 0.37451171875
+      },
+      {
+        "page": 247,
+        "line_number": 13,
+        "type": "text",
+        "content": "a homogeneous function of $z$ and $\\rho$ divided by a power of $r$,",
+        "mathpix_content": " a homogeneous function of $z$ and $\\rho$ divided by a power of $r$,",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 22,
+        "type": "text",
+        "content": "If we write",
+        "mathpix_content": "\n\nIf we write",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 27,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 32,
+        "type": "text",
+        "content": "then",
+        "mathpix_content": "\nthen",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 36,
+        "type": "text",
+        "content": "so that these two functions differ only by a constant factor.",
+        "mathpix_content": "\nso that these two functions differ only by a constant factor.",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 37,
+        "type": "text",
+        "content": "We may now write the expressions for the two tesseral har-",
+        "mathpix_content": "\nWe may now write the expressions for the two tesseral har",
+        "font_size": 26,
+        "confidence": 1.0
+      },
+      {
+        "page": 247,
+        "line_number": 38,
+        "type": "text",
+        "content": "monics of order $n$ and type $\\sigma$ in terms either of $\\Theta$ or $\\mathscr{I}$,",
+        "mathpix_content": "monics of order $n$ and type $\\sigma$ in terms either of $\\Theta$ or $\\mathscr{I}$,",
+        "font_size": 26,
+        "confidence": 0.8658035891130567
+      },
+      {
+        "page": 247,
+        "line_number": 44,
+        "type": "text",
+        "content": "* \\{Equation (68) may easily be proved by noticing that the left-hand side is $(n-\\sigma)$ !",
+        "mathpix_content": "\n* \\{Equation (68) may easily be proved by noticing that the left-hand side is $(n-\\sigma)$ !",
+        "font_size": 26,
+        "confidence": 0.5376421115533958
+      },
+      {
+        "page": 247,
+        "line_number": 45,
+        "type": "text",
+        "content": "times the coefficient of $\\mathrm{h}^{n-\\sigma}$ in $\\left\\{\\frac{1}{\\xi \\eta+(z+h)^{2}}\\right\\}^{\\frac{2 \\sigma+1}{2}}$, or $\\frac{1}{r^{2 \\sigma+1}}\\left\\{1+\\frac{2 h z+h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$; if",
+        "mathpix_content": " times the coefficient of $\\mathrm{h}^{n-\\sigma}$ in $\\left\\{\\frac{1}{\\xi \\eta+(z+h)^{2}}\\right\\}^{\\frac{2 \\sigma+1}{2}}$, or $\\frac{1}{r^{2 \\sigma+1}}\\left\\{1+\\frac{2 h z+h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$; if",
+        "font_size": 26,
+        "confidence": 0.7265058766643051
+      },
+      {
+        "page": 247,
+        "line_number": 46,
+        "type": "text",
+        "content": "we write this as $\\frac{1}{r^{2 \\sigma}}\\left\\{\\left(1+\\mu \\frac{h}{r}\\right)^{2}+\\nu^{2} \\frac{h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$ and pick out the coefficient of $h^{n-\\sigma}$,",
+        "mathpix_content": " we write this as $\\frac{1}{r^{2 \\sigma}}\\left\\{\\left(1+\\mu \\frac{h}{r}\\right)^{2}+\\nu^{2} \\frac{h^{2}}{r^{2}}\\right\\}^{-\\frac{(2 \\sigma+1)}{2}}$ and pick out the coefficient of $h^{n-\\sigma}$,",
+        "font_size": 26,
+        "confidence": 0.7043549411298365
+      },
+      {
+        "page": 247,
+        "line_number": 47,
+        "type": "text",
+        "content": "we get equation (69). \\}",
+        "mathpix_content": " we get equation (69). \\}",
+        "font_size": 26,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 247,
+        "line_number": 48,
+        "type": "text",
+        "content": "$\\dagger$ \\{This value must le halved when $\\sigma=0$.\\}",
+        "mathpix_content": "\n$\\dagger$ \\{This value must le halved when $\\sigma=0$.\\}",
+        "font_size": 26,
+        "confidence": 0.6515803671896601
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_30",
+  "article_number": 30,
+  "title_original": "a^{3} b^{5}+15 a^{2} b^{6}+6 b^{8}\\right] c^{-15} \\\\",
+  "title_safe": "a3 b5plus15 a2 b6plus6 b8right c-15",
+  "page_start": 265,
+  "page_end": 264,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

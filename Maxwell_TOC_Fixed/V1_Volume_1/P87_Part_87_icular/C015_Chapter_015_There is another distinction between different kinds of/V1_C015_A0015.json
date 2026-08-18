@@ -1,0 +1,381 @@
+{
+  "article_id": "article_15",
+  "article_number": 15,
+  "title_original": ".] There is another distinction between different kinds of",
+  "title_safe": "There is another distinction between different kinds of",
+  "page_start": 48,
+  "page_end": 48,
+  "content": {
+    "raw_text": "\n--- Page 48 ---\n15.]\nLINE-INTEGRALS.\n13\nintensity. In all cases, however, the product of the intensity\nand the flux resolved in its direction, gives a result of scientific\nimportance, and this is always a scalar quantity.\n14.] There are two mathematical operations of frequent occur-\nrence which are appropriate to these two classes of vectors, or\ndirected quantities.\nIn the case of intensity, we have to take the integral along a\nline of the product of an element of the line, and the resolved\npart of the intensity along that element. The result of this\noperation is called the Line-integral of the intensity. It repre-\nsents the work done on a body carried along the line. In certain\ncases in which the line-integral does not depend on the form of\nthe line, but only on the positions of its extremities, the line-\nintegral is called the Potential.\nIn the case of fluxes, we have to take the integral, over a\nsurface, of the flux through every element of the surface. The\nresult of this operation is called the Surface-integral of the flux.\nIt represents the quantity which passes through the surface.\nThere are certain surfaces across which there is no flux. If\ntwo of these surfaces intersect, their line of intersection is a line\nof flux. In those cases in which the flux is in the same direction\nas the force, lines of this kind are often called Lines of Force.\nIt would be more correct, however, to speak of them in electro-\nstatics and magnetics as Lines of Induction, and in electrokine-\nmatics as Lines of Flow.\n15.] There is another distinction between different kinds of\ndirected quantities, which, though very important from a physical\npoint of view, is not so necessary to be observed for the sake of\nthe mathematical methods. This is the distinction between\nlongitudinal and rotational properties.\nThe direction and magnitude of a quantity may depend upon\nsome action or effect which takes place entirely along a certain\nline, or it may depend upon something of the nature of rota-\ntion about that line as an axis. The laws of combination of\ndirected quantities are the same whether they are longitudinal or\nrotational, so that there is no difference in the mathematical\ntreatment of the two classes, but there may be physical circum-\nstances which indicate to which class we must refer a particular\nphenomenon. Thus, electrolysis consists of the transfer of cer-\ntain substances along a line in one direction, and of certain\n",
+    "mathpix_markdown": "\n--- Page 48 ---\n\nintensity. In all cases, however, the product of the intensity\n and the flux resolved in its direction, gives a result of scientific\n importance, and this is always a scalar quantity.\n\n14.] There are two mathematical operations of frequent occur\nrence which are appropriate to these two classes of vectors, or\n directed quantities.\n\n\nIn the case of intensity, we have to take the integral along a\n line of the product of an element of the line, and the resolved\n part of the intensity along that element. The result of this\n operation is called the Line-integral of the intensity. It repre\nsents the work done on a body carried along the line. In certain\n cases in which the line-integral does not depend on the form of\n the line, but only on the positions of its extremities, the line\nintegral is called the Potential.\n\n\nIn the case of fluxes, we have to take the integral, over a\n surface, of the flux through every element of the surface. The\n result of this operation is called the Surface-integral of the flux.\n It represents the quantity which passes through the surface.\n\n\nThere are certain surfaces across which there is no flux. If\n two of these surfaces intersect, their line of intersection is a line\n of flux. In those cases in which the flux is in the same direction\n as the force, lines of this kind are often called Lines of Force.\n It would be more correct, however, to speak of them in electro\nstatics and magnetics as Lines of Induction, and in electrokine\nmatics as Lines of Flow.\n\n15.] There is another distinction between different kinds of\n directed quantities, which, though very important from a physical\n point of view, is not so necessary to be observed for the sake of\n the mathematical methods. This is the distinction between\n longitudinal and rotational properties.\n\n\nThe direction and magnitude of a quantity may depend upon\n some action or effect which takes place entirely along a certain\n line, or it may depend upon something of the nature of rota\ntion about that line as an axis. The laws of combination of\n directed quantities are the same whether they are longitudinal or\n rotational, so that there is no difference in the mathematical\n treatment of the two classes, but there may be physical circum\nstances which indicate to which class we must refer a particular\n phenomenon. Thus, electrolysis consists of the transfer of cer\ntain substances along a line in one direction, and of certain\n",
+    "structured_lines": [
+      {
+        "page": 48,
+        "line_number": 4,
+        "type": "text",
+        "content": "intensity. In all cases, however, the product of the intensity",
+        "mathpix_content": "\nintensity. In all cases, however, the product of the intensity",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 5,
+        "type": "text",
+        "content": "and the flux resolved in its direction, gives a result of scientific",
+        "mathpix_content": " and the flux resolved in its direction, gives a result of scientific",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 6,
+        "type": "text",
+        "content": "importance, and this is always a scalar quantity.",
+        "mathpix_content": " importance, and this is always a scalar quantity.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 7,
+        "type": "text",
+        "content": "14.] There are two mathematical operations of frequent occur-",
+        "mathpix_content": "\n14.] There are two mathematical operations of frequent occur",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 48,
+        "line_number": 8,
+        "type": "text",
+        "content": "rence which are appropriate to these two classes of vectors, or",
+        "mathpix_content": "rence which are appropriate to these two classes of vectors, or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 9,
+        "type": "text",
+        "content": "directed quantities.",
+        "mathpix_content": " directed quantities.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 10,
+        "type": "text",
+        "content": "In the case of intensity, we have to take the integral along a",
+        "mathpix_content": "\n\nIn the case of intensity, we have to take the integral along a",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 11,
+        "type": "text",
+        "content": "line of the product of an element of the line, and the resolved",
+        "mathpix_content": " line of the product of an element of the line, and the resolved",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 12,
+        "type": "text",
+        "content": "part of the intensity along that element. The result of this",
+        "mathpix_content": " part of the intensity along that element. The result of this",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 13,
+        "type": "text",
+        "content": "operation is called the Line-integral of the intensity. It repre-",
+        "mathpix_content": " operation is called the Line-integral of the intensity. It repre",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 14,
+        "type": "text",
+        "content": "sents the work done on a body carried along the line. In certain",
+        "mathpix_content": "sents the work done on a body carried along the line. In certain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 15,
+        "type": "text",
+        "content": "cases in which the line-integral does not depend on the form of",
+        "mathpix_content": " cases in which the line-integral does not depend on the form of",
+        "font_size": 27,
+        "confidence": 0.9946331977844238
+      },
+      {
+        "page": 48,
+        "line_number": 16,
+        "type": "text",
+        "content": "the line, but only on the positions of its extremities, the line-",
+        "mathpix_content": " the line, but only on the positions of its extremities, the line",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 17,
+        "type": "text",
+        "content": "integral is called the Potential.",
+        "mathpix_content": "integral is called the Potential.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 18,
+        "type": "text",
+        "content": "In the case of fluxes, we have to take the integral, over a",
+        "mathpix_content": "\n\nIn the case of fluxes, we have to take the integral, over a",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 48,
+        "line_number": 19,
+        "type": "text",
+        "content": "surface, of the flux through every element of the surface. The",
+        "mathpix_content": " surface, of the flux through every element of the surface. The",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 20,
+        "type": "text",
+        "content": "result of this operation is called the Surface-integral of the flux.",
+        "mathpix_content": " result of this operation is called the Surface-integral of the flux.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 21,
+        "type": "text",
+        "content": "It represents the quantity which passes through the surface.",
+        "mathpix_content": " It represents the quantity which passes through the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 22,
+        "type": "text",
+        "content": "There are certain surfaces across which there is no flux. If",
+        "mathpix_content": "\n\nThere are certain surfaces across which there is no flux. If",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 23,
+        "type": "text",
+        "content": "two of these surfaces intersect, their line of intersection is a line",
+        "mathpix_content": " two of these surfaces intersect, their line of intersection is a line",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 24,
+        "type": "text",
+        "content": "of flux. In those cases in which the flux is in the same direction",
+        "mathpix_content": " of flux. In those cases in which the flux is in the same direction",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 25,
+        "type": "text",
+        "content": "as the force, lines of this kind are often called Lines of Force.",
+        "mathpix_content": " as the force, lines of this kind are often called Lines of Force.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 26,
+        "type": "text",
+        "content": "It would be more correct, however, to speak of them in electro-",
+        "mathpix_content": " It would be more correct, however, to speak of them in electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 27,
+        "type": "text",
+        "content": "statics and magnetics as Lines of Induction, and in electrokine-",
+        "mathpix_content": "statics and magnetics as Lines of Induction, and in electrokine",
+        "font_size": 27,
+        "confidence": 0.998535871389322
+      },
+      {
+        "page": 48,
+        "line_number": 28,
+        "type": "text",
+        "content": "matics as Lines of Flow.",
+        "mathpix_content": "matics as Lines of Flow.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 48,
+        "line_number": 29,
+        "type": "text",
+        "content": "15.] There is another distinction between different kinds of",
+        "mathpix_content": "\n15.] There is another distinction between different kinds of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 30,
+        "type": "text",
+        "content": "directed quantities, which, though very important from a physical",
+        "mathpix_content": " directed quantities, which, though very important from a physical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 31,
+        "type": "text",
+        "content": "point of view, is not so necessary to be observed for the sake of",
+        "mathpix_content": " point of view, is not so necessary to be observed for the sake of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 32,
+        "type": "text",
+        "content": "the mathematical methods. This is the distinction between",
+        "mathpix_content": " the mathematical methods. This is the distinction between",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 33,
+        "type": "text",
+        "content": "longitudinal and rotational properties.",
+        "mathpix_content": " longitudinal and rotational properties.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 34,
+        "type": "text",
+        "content": "The direction and magnitude of a quantity may depend upon",
+        "mathpix_content": "\n\nThe direction and magnitude of a quantity may depend upon",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 35,
+        "type": "text",
+        "content": "some action or effect which takes place entirely along a certain",
+        "mathpix_content": " some action or effect which takes place entirely along a certain",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 36,
+        "type": "text",
+        "content": "line, or it may depend upon something of the nature of rota-",
+        "mathpix_content": " line, or it may depend upon something of the nature of rota",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 37,
+        "type": "text",
+        "content": "tion about that line as an axis. The laws of combination of",
+        "mathpix_content": "tion about that line as an axis. The laws of combination of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 38,
+        "type": "text",
+        "content": "directed quantities are the same whether they are longitudinal or",
+        "mathpix_content": " directed quantities are the same whether they are longitudinal or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 39,
+        "type": "text",
+        "content": "rotational, so that there is no difference in the mathematical",
+        "mathpix_content": " rotational, so that there is no difference in the mathematical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 40,
+        "type": "text",
+        "content": "treatment of the two classes, but there may be physical circum-",
+        "mathpix_content": " treatment of the two classes, but there may be physical circum",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 41,
+        "type": "text",
+        "content": "stances which indicate to which class we must refer a particular",
+        "mathpix_content": "stances which indicate to which class we must refer a particular",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 42,
+        "type": "text",
+        "content": "phenomenon. Thus, electrolysis consists of the transfer of cer-",
+        "mathpix_content": " phenomenon. Thus, electrolysis consists of the transfer of cer",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 48,
+        "line_number": 43,
+        "type": "text",
+        "content": "tain substances along a line in one direction, and of certain",
+        "mathpix_content": "tain substances along a line in one direction, and of certain",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

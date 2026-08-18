@@ -1,0 +1,579 @@
+{
+  "chapter_id": "chapter_79",
+  "chapter_number": 1,
+  "title": "}{4 \\pi}\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\}=\\rho",
+  "page_start": 137,
+  "page_end": 137,
+  "articles": [
+    {
+      "article_id": "article_102",
+      "article_number": 102,
+      "title_original": "APPENDIX TO CHAPTER II.",
+      "title_safe": "APPENDIX TO CHAPTER II",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{8 \\pi} \\iiint K F^{2} d x d y d z \\\\",
+      "title_safe": "8 pi iiint K F2 d x d y d z",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{8 \\pi} \\iiint K\\left\\{\\left(\\frac{d V}{d x}\\right)^{2}+\\left(\\frac{d V}{d y}\\right)^{2}+\\left(\\frac{d V}{d z}\\right)^{2}\\right\\} d x d y d z",
+      "title_safe": "8 pi iiint Kleftleftfracd Vd xright2plusleftfracd Vd yright2",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\iint\\left(K \\left\\{\\begin{array}{l}",
+      "title_safe": "4 pi iintleftK leftbeginarrayl",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} & \\iint\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right) \\delta V d S \\\\",
+      "title_safe": "4 pi and iintleftK1 fracd Vd nu1plusK2 fracd Vd nu2right del",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\iint\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\} \\delta V d x d y d z,",
+      "title_safe": "4 pi iintleftfracdd xleftK fracd Vd xrightplusfracdd yleftK",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $d \\nu_{1}$ denote elements of the normal to the surface drawn from",
+      "title_safe": "and d nu1 denote elements of the normal to the surface drawn",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_85",
+      "article_number": 85,
+      "title_original": ", 86)",
+      "title_safe": "86",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right)=\\sigma \\\\",
+      "title_safe": "4 pileftK1 fracd Vd nu1plusK2 fracd Vd nu2rightequalssigma",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\}=\\rho",
+      "title_safe": "4 pileftfracdd xleftK fracd Vd xrightplusfracdd yleftK fracd",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{8 \\pi} \\iiint K F^{2} d x d y d z \\\\",
+      "title_safe": "8 pi iiint K F2 d x d y d z",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{8 \\pi} \\iiint K\\left\\{\\left(\\frac{d V}{d x}\\right)^{2}+\\left(\\frac{d V}{d y}\\right)^{2}+\\left(\\frac{d V}{d z}\\right)^{2}\\right\\} d x d y d z",
+      "title_safe": "8 pi iiint Kleftleftfracd Vd xright2plusleftfracd Vd yright2",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\iint\\left(K \\left\\{\\begin{array}{l}",
+      "title_safe": "4 pi iintleftK leftbeginarrayl",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} & \\iint\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right) \\delta V d S \\\\",
+      "title_safe": "4 pi and iintleftK1 fracd Vd nu1plusK2 fracd Vd nu2right del",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi} \\iint\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\} \\delta V d x d y d z,",
+      "title_safe": "4 pi iintleftfracdd xleftK fracd Vd xrightplusfracdd yleftK",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $d \\nu_{1}$ denote elements of the normal to the surface drawn from",
+      "title_safe": "and d nu1 denote elements of the normal to the surface drawn",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_85",
+      "article_number": 85,
+      "title_original": ", 86)",
+      "title_safe": "86",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right)=\\sigma \\\\",
+      "title_safe": "4 pileftK1 fracd Vd nu1plusK2 fracd Vd nu2rightequalssigma",
+      "page_start": 137,
+      "page_end": 136,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}{4 \\pi}\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\}=\\rho",
+      "title_safe": "4 pileftfracdd xleftK fracd Vd xrightplusfracdd yleftK fracd",
+      "page_start": 137,
+      "page_end": 137,
+      "content": {
+        "raw_text": "\n--- Page 137 ---\n102\nAPPENDIX TO CHAPTER II.\nuniform, so that if $Q$ denotes the energy in any electric field\n$$\\begin{aligned}\nQ & =\\frac{1}{8 \\pi} \\iiint K F^{2} d x d y d z \\\\\n& =\\frac{1}{8 \\pi} \\iiint K\\left\\{\\left(\\frac{d V}{d x}\\right)^{2}+\\left(\\frac{d V}{d y}\\right)^{2}+\\left(\\frac{d V}{d z}\\right)^{2}\\right\\} d x d y d z\n\\end{aligned}$$\nLet us suppose that the potential at any point of the field is increased\nby a small quantity $\\delta V$ when $\\delta V$ is an arbitrary function of $x, y, z$, then\n$\\delta Q$, the variation in the energy, is given by the equation\n$$\\delta Q=\\frac{1}{4 \\pi} \\iint\\left(K \\left\\{\\begin{array}{l}\n\\left.\\left.d V \\frac{d \\cdot \\delta V}{d x}+\\frac{d V}{d y} \\frac{d \\cdot \\delta V}{d y}+\\frac{d V d \\cdot \\delta V}{d z}\\right\\}\\right) d x d y d z ;\n\\end{array}\\right.\\right.$$\nthis, by Green's Theorem,\n$$\\begin{aligned}\n=-\\frac{1}{4 \\pi} & \\iint\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right) \\delta V d S \\\\\n& -\\frac{1}{4 \\pi} \\iint\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\} \\delta V d x d y d z,\n\\end{aligned}$$\nwhere $d \\nu_{2}$ and $d \\nu_{1}$ denote elements of the normal to the surface drawn from\nthe first to the second and from the second to the first medium respectively.\nBut by (Arts. 85, 86)\n$$\\delta Q=\\Sigma(e \\delta V)=\\iint \\sigma \\delta V d S+\\iiint \\rho \\delta V d x d y d z$$\nand since $\\delta V$ is arbitrary we must have\n$$\\begin{gathered}\n-\\frac{1}{4 \\pi}\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right)=\\sigma \\\\\n-\\frac{1}{4 \\pi}\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\}=\\rho\n\\end{gathered}$$\nwhich are the equations in the text.\nIn Faraday's experiment the flame may be regarded as a conductor in\nconnexion with the earth, the effect of the dielectric may be represented\nby an apparent electrification over its surface, this apparent electrifica-\ntion acting on the conducting flame will attract the electricity of the\nopposite sign, which will spread over the surface of the dielectric while\nit will drive the electricity of the same sign through the flame to\nearth. Thus over the surface of the dielectric there will be a real elec-\ntrification masking the effect of the apparent one; when the inducing force\nis removed the apparent electrification will disappear but the real electri-\nfication will remain and will no longer be masked by the apparent\nelectrification.\n",
+        "mathpix_markdown": "\n--- Page 137 ---\n\nuniform, so that if $Q$ denotes the energy in any electric field\n\n$$\\begin{aligned}\nQ & =\\frac{1}{8 \\pi} \\iiint K F^{2} d x d y d z \\\\\n& =\\frac{1}{8 \\pi} \\iiint K\\left\\{\\left(\\frac{d V}{d x}\\right)^{2}+\\left(\\frac{d V}{d y}\\right)^{2}+\\left(\\frac{d V}{d z}\\right)^{2}\\right\\} d x d y d z\n\\end{aligned}$$\n\n\nLet us suppose that the potential at any point of the field is increased\n by a small quantity $\\delta V$ when $\\delta V$ is an arbitrary function of $x, y, z$, then\n $\\delta Q$, the variation in the energy, is given by the equation\n\n$$\\delta Q=\\frac{1}{4 \\pi} \\iint\\left(K \\left\\{\\begin{array}{l}\n\\left.\\left.d V \\frac{d \\cdot \\delta V}{d x}+\\frac{d V}{d y} \\frac{d \\cdot \\delta V}{d y}+\\frac{d V d \\cdot \\delta V}{d z}\\right\\}\\right) d x d y d z ;\n\\end{array}\\right.\\right.$$\n\nthis, by Green's Theorem,\n\n$$\\begin{aligned}\n=-\\frac{1}{4 \\pi} & \\iint\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right) \\delta V d S \\\\\n& -\\frac{1}{4 \\pi} \\iint\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\} \\delta V d x d y d z,\n\\end{aligned}$$\n\nwhere $d \\nu_{2}$ and $d \\nu_{1}$ denote elements of the normal to the surface drawn from\n the first to the second and from the second to the first medium respectively.\n\n\nBut by (Arts. 85, 86)\n\n$$\\delta Q=\\Sigma(e \\delta V)=\\iint \\sigma \\delta V d S+\\iiint \\rho \\delta V d x d y d z$$\n\nand since $\\delta V$ is arbitrary we must have\n\n$$\\begin{gathered}\n-\\frac{1}{4 \\pi}\\left(K_{1} \\frac{d V}{d \\nu_{1}}+K_{2} \\frac{d V}{d \\nu_{2}}\\right)=\\sigma \\\\\n-\\frac{1}{4 \\pi}\\left\\{\\frac{d}{d x}\\left(K \\frac{d V}{d x}\\right)+\\frac{d}{d y}\\left(K \\frac{d V}{d y}\\right)+\\frac{d}{d z}\\left(K \\frac{d V}{d z}\\right)\\right\\}=\\rho\n\\end{gathered}$$\n\nwhich are the equations in the text.\n\nIn Faraday's experiment the flame may be regarded as a conductor in\n connexion with the earth, the effect of the dielectric may be represented\n by an apparent electrification over its surface, this apparent electrifica\ntion acting on the conducting flame will attract the electricity of the\n opposite sign, which will spread over the surface of the dielectric while\n it will drive the electricity of the same sign through the flame to\n earth. Thus over the surface of the dielectric there will be a real elec\ntrification masking the effect of the apparent one; when the inducing force\n is removed the apparent electrification will disappear but the real electri\nfication will remain and will no longer be masked by the apparent\n electrification.\n",
+        "structured_lines": [
+          {
+            "page": 137,
+            "line_number": 3,
+            "type": "text",
+            "content": "uniform, so that if $Q$ denotes the energy in any electric field",
+            "mathpix_content": "\nuniform, so that if $Q$ denotes the energy in any electric field",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 7,
+            "type": "text",
+            "content": "Let us suppose that the potential at any point of the field is increased",
+            "mathpix_content": "\n\nLet us suppose that the potential at any point of the field is increased",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 8,
+            "type": "text",
+            "content": "by a small quantity $\\delta V$ when $\\delta V$ is an arbitrary function of $x, y, z$, then",
+            "mathpix_content": " by a small quantity $\\delta V$ when $\\delta V$ is an arbitrary function of $x, y, z$, then",
+            "font_size": 27,
+            "confidence": 0.998046875
+          },
+          {
+            "page": 137,
+            "line_number": 9,
+            "type": "text",
+            "content": "$\\delta Q$, the variation in the energy, is given by the equation",
+            "mathpix_content": " $\\delta Q$, the variation in the energy, is given by the equation",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 12,
+            "type": "text",
+            "content": "this, by Green's Theorem,",
+            "mathpix_content": "\nthis, by Green's Theorem,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 16,
+            "type": "text",
+            "content": "where $d \\nu_{2}$ and $d \\nu_{1}$ denote elements of the normal to the surface drawn from",
+            "mathpix_content": "\nwhere $d \\nu_{2}$ and $d \\nu_{1}$ denote elements of the normal to the surface drawn from",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 17,
+            "type": "text",
+            "content": "the first to the second and from the second to the first medium respectively.",
+            "mathpix_content": " the first to the second and from the second to the first medium respectively.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 18,
+            "type": "text",
+            "content": "But by (Arts. 85, 86)",
+            "mathpix_content": "\n\nBut by (Arts. 85, 86)",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 21,
+            "type": "text",
+            "content": "and since $\\delta V$ is arbitrary we must have",
+            "mathpix_content": "\nand since $\\delta V$ is arbitrary we must have",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 25,
+            "type": "text",
+            "content": "which are the equations in the text.",
+            "mathpix_content": "\nwhich are the equations in the text.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 26,
+            "type": "text",
+            "content": "In Faraday's experiment the flame may be regarded as a conductor in",
+            "mathpix_content": "\nIn Faraday's experiment the flame may be regarded as a conductor in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 27,
+            "type": "text",
+            "content": "connexion with the earth, the effect of the dielectric may be represented",
+            "mathpix_content": " connexion with the earth, the effect of the dielectric may be represented",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 28,
+            "type": "text",
+            "content": "by an apparent electrification over its surface, this apparent electrifica-",
+            "mathpix_content": " by an apparent electrification over its surface, this apparent electrifica",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 29,
+            "type": "text",
+            "content": "tion acting on the conducting flame will attract the electricity of the",
+            "mathpix_content": "tion acting on the conducting flame will attract the electricity of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 30,
+            "type": "text",
+            "content": "opposite sign, which will spread over the surface of the dielectric while",
+            "mathpix_content": " opposite sign, which will spread over the surface of the dielectric while",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 31,
+            "type": "text",
+            "content": "it will drive the electricity of the same sign through the flame to",
+            "mathpix_content": " it will drive the electricity of the same sign through the flame to",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 32,
+            "type": "text",
+            "content": "earth. Thus over the surface of the dielectric there will be a real elec-",
+            "mathpix_content": " earth. Thus over the surface of the dielectric there will be a real elec",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 33,
+            "type": "text",
+            "content": "trification masking the effect of the apparent one; when the inducing force",
+            "mathpix_content": "trification masking the effect of the apparent one; when the inducing force",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 34,
+            "type": "text",
+            "content": "is removed the apparent electrification will disappear but the real electri-",
+            "mathpix_content": " is removed the apparent electrification will disappear but the real electri",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 35,
+            "type": "text",
+            "content": "fication will remain and will no longer be masked by the apparent",
+            "mathpix_content": "fication will remain and will no longer be masked by the apparent",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 137,
+            "line_number": 36,
+            "type": "text",
+            "content": "electrification.",
+            "mathpix_content": " electrification.",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

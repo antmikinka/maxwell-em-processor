@@ -1,0 +1,66 @@
+{
+  "article_id": "article_2025",
+  "article_number": 2025,
+  "title_original": "_11_28_e96c2f916abc8f617e8eg-554.jpg?height=1207&width=995&top_left_y=345&top_left_x=169)",
+  "title_safe": "1128e96c2f916abc8f617e8eg-554.jpgheightequals1207andwidthequ",
+  "page_start": 554,
+  "page_end": 555,
+  "content": {
+    "raw_text": "\n--- Page 554 ---\n1\nClerk Maxwells Electricity Vol.I\nFIG. V.\nArt 143.\n\nLunes of Force and Equipotential Surfaces in a diametral\nsection of a spherical Surface in which the superfi ial density\nis a harmonic of the first degree.\nUraversuty Press, Oxford\n\n--- Page 555 ---\n\n",
+    "mathpix_markdown": "\n--- Page 554 ---\n\n\nFIG. V.\n\nArt 143.\n\n![](https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-554.jpg?height=1207&width=995&top_left_y=345&top_left_x=169)\n\n\nLunes of Force and Equipotential Surfaces in a diametral\n section of a spherical Surface in which the superfi ial density\n is a harmonic of the first degree.\n\n--- Page 555 ---\n\n",
+    "structured_lines": [
+      {
+        "page": 554,
+        "line_number": 3,
+        "type": "text",
+        "content": "FIG. V.",
+        "mathpix_content": "\n\nFIG. V.",
+        "font_size": 21,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 554,
+        "line_number": 4,
+        "type": "text",
+        "content": "Art 143.",
+        "mathpix_content": "\nArt 143.",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 554,
+        "line_number": 6,
+        "type": "text",
+        "content": "Lunes of Force and Equipotential Surfaces in a diametral",
+        "mathpix_content": "\n\nLunes of Force and Equipotential Surfaces in a diametral",
+        "font_size": 21,
+        "confidence": 0.83642578125
+      },
+      {
+        "page": 554,
+        "line_number": 7,
+        "type": "text",
+        "content": "section of a spherical Surface in which the superfi ial density",
+        "mathpix_content": " section of a spherical Surface in which the superfi ial density",
+        "font_size": 21,
+        "confidence": 0.8387689315105717
+      },
+      {
+        "page": 554,
+        "line_number": 8,
+        "type": "text",
+        "content": "is a harmonic of the first degree.",
+        "mathpix_content": " is a harmonic of the first degree.",
+        "font_size": 21,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

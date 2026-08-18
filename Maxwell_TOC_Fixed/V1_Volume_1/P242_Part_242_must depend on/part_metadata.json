@@ -1,0 +1,3012 @@
+{
+  "part_id": "part_242",
+  "part_number": 242,
+  "title": "must depend on",
+  "page_start": 98,
+  "page_end": 102,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 59,
+      "title": "]",
+      "page_start": 98,
+      "page_end": 97,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 63,
+      "title": "no further in speculating on its cause. If, on the other hand, we",
+      "page_start": 98,
+      "page_end": 97,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 1297,
+      "title": "no further in speculating on its cause. If, on the other hand, we",
+      "page_start": 98,
+      "page_end": 97,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 1297,
+      "title": "}",
+      "page_start": 98,
+      "page_end": 98,
+      "articles": [
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 98,
+          "page_end": 97,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1297",
+          "article_number": 1297,
+          "title_original": "no further in speculating on its cause. If, on the other hand, we",
+          "title_safe": "no further in speculating on its cause. If on the other hand",
+          "page_start": 98,
+          "page_end": 97,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1297",
+          "article_number": 1297,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 98,
+          "page_end": 97,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_59",
+          "article_number": 59,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 98,
+          "page_end": 97,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_63",
+          "article_number": 63,
+          "title_original": "no further in speculating on its cause. If, on the other hand, we",
+          "title_safe": "no further in speculating on its cause. If on the other hand",
+          "page_start": 98,
+          "page_end": 97,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1297",
+          "article_number": 1297,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 98,
+          "page_end": 97,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1297",
+          "article_number": 1297,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 98,
+          "page_end": 98,
+          "content": {
+            "raw_text": "\n--- Page 98 ---\n59.]\nPLAN OF THIS TREATISE.\n63\nno further in speculating on its cause. If, on the other hand, we\nadopt the conception of action through a medium, we are led to\nenquire into the nature of that action in each part of the medium.\nIt appears from the theorem, that if we are to look for the seat\nof the electric energy in the different parts of the dielectric me-\ndium, the amount of energy in any small part must depend on\nthe square of the resultant electromotive intensity at that place\nmultiplied by a coefficient called the specific inductive capacity\nof the medium.\nIt is better, however, in considering the theory of dielectrics\nfrom the most general point of view, to distinguish between the\nelectromotive intensity at any point and the electric polarization\nof the medium at that point, since these directed quantities,\nthough related to one another, are not, in some solid substances,\nin the same direction. The most general expression for the electric\nenergy of the medium per unit of volume is half the product of\nthe electromotive intensity and the electric polarization multi-\nplied by the cosine of the angle between their directions. In\nall fluid dielectrics the electromotive intensity and the electric\npolarization are in the same direction and in a constant ratio.\nIf we calculate on this hypothesis the total energy residing\nin the medium, we shall find it equal to the energy due to the\nelectrification of the conductors on the hypothesis of direct action\nat a distance. Hence the two hypotheses are mathematically\nequivalent.\nIf we now proceed to investigate the mechanical state of the\nmedium on the hypothesis that the mechanical action observed\nbetween electrified bodies is exerted through and by means of\nthe medium, as in the familiar instances of the action of one\nbody on another by means of the tension of a rope or the\npressure of a rod, we find that the medium must be in a state of\nmechanical stress.\nThe nature of this stress is, as Faraday pointed out*, a tension\nalong the lines of force combined with an equal pressure in all\ndirections at right angles to these lines. The magnitude of these\nstresses is proportional to the energy of the electrification per\nunit of volume, or, in other words, to the square of the resultant\nelectromotive intensity multiplied by the specific inductive\ncapacity of the medium.\n\n* Exp. Res., series xi. 1297.\n",
+            "mathpix_markdown": "\n--- Page 98 ---\n\nno further in speculating on its cause. If, on the other hand, we\n adopt the conception of action through a medium, we are led to\n enquire into the nature of that action in each part of the medium.\n\n\nIt appears from the theorem, that if we are to look for the seat\n of the electric energy in the different parts of the dielectric me\ndium, the amount of energy in any small part must depend on\n the square of the resultant electromotive intensity at that place\n multiplied by a coefficient called the specific inductive capacity\n of the medium.\n\n\nIt is better, however, in considering the theory of dielectrics\n from the most general point of view, to distinguish between the\n electromotive intensity at any point and the electric polarization\n of the medium at that point, since these directed quantities,\n though related to one another, are not, in some solid substances,\n in the same direction. The most general expression for the electric\n energy of the medium per unit of volume is half the product of\n the electromotive intensity and the electric polarization multi\nplied by the cosine of the angle between their directions. In\n all fluid dielectrics the electromotive intensity and the electric\n polarization are in the same direction and in a constant ratio.\n\n\nIf we calculate on this hypothesis the total energy residing\n in the medium, we shall find it equal to the energy due to the\n electrification of the conductors on the hypothesis of direct action\n at a distance. Hence the two hypotheses are mathematically\n equivalent.\n\n\nIf we now proceed to investigate the mechanical state of the\n medium on the hypothesis that the mechanical action observed\n between electrified bodies is exerted through and by means of\n the medium, as in the familiar instances of the action of one\n body on another by means of the tension of a rope or the\n pressure of a rod, we find that the medium must be in a state of\n mechanical stress.\n\n\nThe nature of this stress is, as Faraday pointed out*, a tension\n along the lines of force combined with an equal pressure in all\n directions at right angles to these lines. The magnitude of these\n stresses is proportional to the energy of the electrification per\n unit of volume, or, in other words, to the square of the resultant\n electromotive intensity multiplied by the specific inductive\n capacity of the medium.\n\n\n\\footnotetext{\n* Exp. Res., series xi. 1297.\n}\n",
+            "structured_lines": [
+              {
+                "page": 98,
+                "line_number": 4,
+                "type": "text",
+                "content": "no further in speculating on its cause. If, on the other hand, we",
+                "mathpix_content": "\nno further in speculating on its cause. If, on the other hand, we",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 98,
+                "line_number": 5,
+                "type": "text",
+                "content": "adopt the conception of action through a medium, we are led to",
+                "mathpix_content": " adopt the conception of action through a medium, we are led to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 6,
+                "type": "text",
+                "content": "enquire into the nature of that action in each part of the medium.",
+                "mathpix_content": " enquire into the nature of that action in each part of the medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 7,
+                "type": "text",
+                "content": "It appears from the theorem, that if we are to look for the seat",
+                "mathpix_content": "\n\nIt appears from the theorem, that if we are to look for the seat",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 8,
+                "type": "text",
+                "content": "of the electric energy in the different parts of the dielectric me-",
+                "mathpix_content": " of the electric energy in the different parts of the dielectric me",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 9,
+                "type": "text",
+                "content": "dium, the amount of energy in any small part must depend on",
+                "mathpix_content": "dium, the amount of energy in any small part must depend on",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 10,
+                "type": "text",
+                "content": "the square of the resultant electromotive intensity at that place",
+                "mathpix_content": " the square of the resultant electromotive intensity at that place",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 11,
+                "type": "text",
+                "content": "multiplied by a coefficient called the specific inductive capacity",
+                "mathpix_content": " multiplied by a coefficient called the specific inductive capacity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 12,
+                "type": "text",
+                "content": "of the medium.",
+                "mathpix_content": " of the medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 13,
+                "type": "text",
+                "content": "It is better, however, in considering the theory of dielectrics",
+                "mathpix_content": "\n\nIt is better, however, in considering the theory of dielectrics",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 14,
+                "type": "text",
+                "content": "from the most general point of view, to distinguish between the",
+                "mathpix_content": " from the most general point of view, to distinguish between the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 15,
+                "type": "text",
+                "content": "electromotive intensity at any point and the electric polarization",
+                "mathpix_content": " electromotive intensity at any point and the electric polarization",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 16,
+                "type": "text",
+                "content": "of the medium at that point, since these directed quantities,",
+                "mathpix_content": " of the medium at that point, since these directed quantities,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 17,
+                "type": "text",
+                "content": "though related to one another, are not, in some solid substances,",
+                "mathpix_content": " though related to one another, are not, in some solid substances,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 18,
+                "type": "text",
+                "content": "in the same direction. The most general expression for the electric",
+                "mathpix_content": " in the same direction. The most general expression for the electric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 19,
+                "type": "text",
+                "content": "energy of the medium per unit of volume is half the product of",
+                "mathpix_content": " energy of the medium per unit of volume is half the product of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 20,
+                "type": "text",
+                "content": "the electromotive intensity and the electric polarization multi-",
+                "mathpix_content": " the electromotive intensity and the electric polarization multi",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 21,
+                "type": "text",
+                "content": "plied by the cosine of the angle between their directions. In",
+                "mathpix_content": "plied by the cosine of the angle between their directions. In",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 22,
+                "type": "text",
+                "content": "all fluid dielectrics the electromotive intensity and the electric",
+                "mathpix_content": " all fluid dielectrics the electromotive intensity and the electric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 23,
+                "type": "text",
+                "content": "polarization are in the same direction and in a constant ratio.",
+                "mathpix_content": " polarization are in the same direction and in a constant ratio.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 24,
+                "type": "text",
+                "content": "If we calculate on this hypothesis the total energy residing",
+                "mathpix_content": "\n\nIf we calculate on this hypothesis the total energy residing",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 25,
+                "type": "text",
+                "content": "in the medium, we shall find it equal to the energy due to the",
+                "mathpix_content": " in the medium, we shall find it equal to the energy due to the",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 98,
+                "line_number": 26,
+                "type": "text",
+                "content": "electrification of the conductors on the hypothesis of direct action",
+                "mathpix_content": " electrification of the conductors on the hypothesis of direct action",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 27,
+                "type": "text",
+                "content": "at a distance. Hence the two hypotheses are mathematically",
+                "mathpix_content": " at a distance. Hence the two hypotheses are mathematically",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 28,
+                "type": "text",
+                "content": "equivalent.",
+                "mathpix_content": " equivalent.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 29,
+                "type": "text",
+                "content": "If we now proceed to investigate the mechanical state of the",
+                "mathpix_content": "\n\nIf we now proceed to investigate the mechanical state of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 30,
+                "type": "text",
+                "content": "medium on the hypothesis that the mechanical action observed",
+                "mathpix_content": " medium on the hypothesis that the mechanical action observed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 31,
+                "type": "text",
+                "content": "between electrified bodies is exerted through and by means of",
+                "mathpix_content": " between electrified bodies is exerted through and by means of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 32,
+                "type": "text",
+                "content": "the medium, as in the familiar instances of the action of one",
+                "mathpix_content": " the medium, as in the familiar instances of the action of one",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 33,
+                "type": "text",
+                "content": "body on another by means of the tension of a rope or the",
+                "mathpix_content": " body on another by means of the tension of a rope or the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 34,
+                "type": "text",
+                "content": "pressure of a rod, we find that the medium must be in a state of",
+                "mathpix_content": " pressure of a rod, we find that the medium must be in a state of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 35,
+                "type": "text",
+                "content": "mechanical stress.",
+                "mathpix_content": " mechanical stress.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 36,
+                "type": "text",
+                "content": "The nature of this stress is, as Faraday pointed out*, a tension",
+                "mathpix_content": "\n\nThe nature of this stress is, as Faraday pointed out*, a tension",
+                "font_size": 27,
+                "confidence": 0.82861328125
+              },
+              {
+                "page": 98,
+                "line_number": 37,
+                "type": "text",
+                "content": "along the lines of force combined with an equal pressure in all",
+                "mathpix_content": " along the lines of force combined with an equal pressure in all",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 38,
+                "type": "text",
+                "content": "directions at right angles to these lines. The magnitude of these",
+                "mathpix_content": " directions at right angles to these lines. The magnitude of these",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 39,
+                "type": "text",
+                "content": "stresses is proportional to the energy of the electrification per",
+                "mathpix_content": " stresses is proportional to the energy of the electrification per",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 40,
+                "type": "text",
+                "content": "unit of volume, or, in other words, to the square of the resultant",
+                "mathpix_content": " unit of volume, or, in other words, to the square of the resultant",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 41,
+                "type": "text",
+                "content": "electromotive intensity multiplied by the specific inductive",
+                "mathpix_content": " electromotive intensity multiplied by the specific inductive",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 42,
+                "type": "text",
+                "content": "capacity of the medium.",
+                "mathpix_content": " capacity of the medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 98,
+                "line_number": 44,
+                "type": "text",
+                "content": "* Exp. Res., series xi. 1297.",
+                "mathpix_content": "\n\n\\footnotetext{\n* Exp. Res., series xi. 1297.\n}",
+                "font_size": 21,
+                "confidence": 0.7056501214387367
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 64,
+      "title": "ELECTROSTATIC PHENOMENA.",
+      "page_start": 99,
+      "page_end": 98,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 60,
+      "title": "This distribution of stress is the only one consistent * with the",
+      "page_start": 99,
+      "page_end": 98,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 9600,
+      "title": "grains weight per square",
+      "page_start": 99,
+      "page_end": 98,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 60,
+      "title": "] From the hypothesis that electric action is not a direct",
+      "page_start": 99,
+      "page_end": 98,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 9600,
+      "title": "grains weight per square",
+      "page_start": 99,
+      "page_end": 98,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 60,
+      "title": "] From the hypothesis that electric action is not a direct",
+      "page_start": 99,
+      "page_end": 99,
+      "articles": [
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": "This distribution of stress is the only one consistent * with the",
+          "title_safe": "This distribution of stress is the only one consistent ASTER",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": "] From the hypothesis that electric action is not a direct",
+          "title_safe": "From the hypothesis that electric action is not a direct",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": "] From the hypothesis that electric action is not a direct",
+          "title_safe": "From the hypothesis that electric action is not a direct",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": "ELECTROSTATIC PHENOMENA.",
+          "title_safe": "ELECTROSTATIC PHENOMENA",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_9600",
+          "article_number": 9600,
+          "title_original": "grains weight per square",
+          "title_safe": "grains weight per square",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": ".] From the hypothesis that electric action is not a direct",
+          "title_safe": "From the hypothesis that electric action is not a direct",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_9600",
+          "article_number": 9600,
+          "title_original": "grains weight per square",
+          "title_safe": "grains weight per square",
+          "page_start": 99,
+          "page_end": 98,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": ".] From the hypothesis that electric action is not a direct",
+          "title_safe": "From the hypothesis that electric action is not a direct",
+          "page_start": 99,
+          "page_end": 99,
+          "content": {
+            "raw_text": "\n--- Page 99 ---\n64\nELECTROSTATIC PHENOMENA.\n[60.\nThis distribution of stress is the only one consistent * with the\nobserved mechanical action on the electrified bodies, and also\nwith the observed equilibrium of the fluid dielectric which\nsurrounds them. I have therefore thought it a warrantable step\nin scientific procedure to assume the actual existence of this\nstate of stress, and to follow the assumption into its consequences.\nFinding the phrase electric tension used in several vague senses,\nI have attempted to confine it to what I conceive to have been\nin the minds of some of those who have used it, namely, the\nstate of stress in the dielectric medium which causes motion\nof the electrified bodies, and leads, when continually augmented,\nto disruptive discharge. Electric tension, in this sense, is a\ntension of exactly the same kind, and measured in the same way,\nas the tension of a rope, and the dielectric medium, which can\nsupport a certain tension and no more, may be said to have\na certain strength in exactly the same sense as the rope is said\nto have a certain strength. Thus, for example, Thomson has\nfound that air at the ordinary pressure and temperature can\nsupport an electric tension of 9600 grains weight per square\nfoot before a spark passes.\n60.] From the hypothesis that electric action is not a direct\naction between bodies at a distance, but is exerted by means of\nthe medium between the bodies, we have deduced that this\nmedium must be in a state of stress. We have also ascertained\nthe character of the stress, and compared it with the stresses\nwhich may occur in solid bodies. Along the lines of force there\nis tension, and perpendicular to them there is pressure, the\nnumerical magnitude of these forces being equal, and each pro-\nportional to the square of the resultant intensity at the point.\nHaving established these results, we are prepared to take another\nstep, and to form an idea of the nature of the electric polarization\nof the dielectric medium.\nAn elementary portion of a body may be said to be polarized\nwhen it acquires equal and opposite properties on two opposite\nsides. The idea of internal polarity may be studied to the\ngreatest advantage as exemplified in permanent magnets, and it\nwill be explained at greater length when we come to treat of\nmagnetism.\n\n* \\{This statement requires modification : the distribution of stress referred to is\nonly one among many such distributions which will all produce the required effect. \\}\n",
+            "mathpix_markdown": "\n--- Page 99 ---\n\n\nThis distribution of stress is the only one consistent * with the\n observed mechanical action on the electrified bodies, and also\n with the observed equilibrium of the fluid dielectric which\n surrounds them. I have therefore thought it a warrantable step\n in scientific procedure to assume the actual existence of this\n state of stress, and to follow the assumption into its consequences.\n Finding the phrase electric tension used in several vague senses,\n I have attempted to confine it to what I conceive to have been\n in the minds of some of those who have used it, namely, the\n state of stress in the dielectric medium which causes motion\n of the electrified bodies, and leads, when continually augmented,\n to disruptive discharge. Electric tension, in this sense, is a\n tension of exactly the same kind, and measured in the same way,\n as the tension of a rope, and the dielectric medium, which can\n support a certain tension and no more, may be said to have\n a certain strength in exactly the same sense as the rope is said\n to have a certain strength. Thus, for example, Thomson has\n found that air at the ordinary pressure and temperature can\n support an electric tension of 9600 grains weight per square\n foot before a spark passes.\n\n60.] From the hypothesis that electric action is not a direct\n action between bodies at a distance, but is exerted by means of\n the medium between the bodies, we have deduced that this\n medium must be in a state of stress. We have also ascertained\n the character of the stress, and compared it with the stresses\n which may occur in solid bodies. Along the lines of force there\n is tension, and perpendicular to them there is pressure, the\n numerical magnitude of these forces being equal, and each pro\nportional to the square of the resultant intensity at the point.\n Having established these results, we are prepared to take another\n step, and to form an idea of the nature of the electric polarization\n of the dielectric medium.\n\n\nAn elementary portion of a body may be said to be polarized\n when it acquires equal and opposite properties on two opposite\n sides. The idea of internal polarity may be studied to the\n greatest advantage as exemplified in permanent magnets, and it\n will be explained at greater length when we come to treat of\n magnetism.\n\n\n\\footnotetext{\n* \\{This statement requires modification : the distribution of stress referred to is\n only one among many such distributions which will all produce the required effect. \\}\n}\n",
+            "structured_lines": [
+              {
+                "page": 99,
+                "line_number": 4,
+                "type": "text",
+                "content": "This distribution of stress is the only one consistent * with the",
+                "mathpix_content": "\n\nThis distribution of stress is the only one consistent * with the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 5,
+                "type": "text",
+                "content": "observed mechanical action on the electrified bodies, and also",
+                "mathpix_content": " observed mechanical action on the electrified bodies, and also",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 6,
+                "type": "text",
+                "content": "with the observed equilibrium of the fluid dielectric which",
+                "mathpix_content": " with the observed equilibrium of the fluid dielectric which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 7,
+                "type": "text",
+                "content": "surrounds them. I have therefore thought it a warrantable step",
+                "mathpix_content": " surrounds them. I have therefore thought it a warrantable step",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 8,
+                "type": "text",
+                "content": "in scientific procedure to assume the actual existence of this",
+                "mathpix_content": " in scientific procedure to assume the actual existence of this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 9,
+                "type": "text",
+                "content": "state of stress, and to follow the assumption into its consequences.",
+                "mathpix_content": " state of stress, and to follow the assumption into its consequences.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 10,
+                "type": "text",
+                "content": "Finding the phrase electric tension used in several vague senses,",
+                "mathpix_content": " Finding the phrase electric tension used in several vague senses,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 99,
+                "line_number": 11,
+                "type": "text",
+                "content": "I have attempted to confine it to what I conceive to have been",
+                "mathpix_content": " I have attempted to confine it to what I conceive to have been",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 12,
+                "type": "text",
+                "content": "in the minds of some of those who have used it, namely, the",
+                "mathpix_content": " in the minds of some of those who have used it, namely, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 13,
+                "type": "text",
+                "content": "state of stress in the dielectric medium which causes motion",
+                "mathpix_content": " state of stress in the dielectric medium which causes motion",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 14,
+                "type": "text",
+                "content": "of the electrified bodies, and leads, when continually augmented,",
+                "mathpix_content": " of the electrified bodies, and leads, when continually augmented,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 15,
+                "type": "text",
+                "content": "to disruptive discharge. Electric tension, in this sense, is a",
+                "mathpix_content": " to disruptive discharge. Electric tension, in this sense, is a",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 99,
+                "line_number": 16,
+                "type": "text",
+                "content": "tension of exactly the same kind, and measured in the same way,",
+                "mathpix_content": " tension of exactly the same kind, and measured in the same way,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 17,
+                "type": "text",
+                "content": "as the tension of a rope, and the dielectric medium, which can",
+                "mathpix_content": " as the tension of a rope, and the dielectric medium, which can",
+                "font_size": 27,
+                "confidence": 0.9345703125
+              },
+              {
+                "page": 99,
+                "line_number": 18,
+                "type": "text",
+                "content": "support a certain tension and no more, may be said to have",
+                "mathpix_content": " support a certain tension and no more, may be said to have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 19,
+                "type": "text",
+                "content": "a certain strength in exactly the same sense as the rope is said",
+                "mathpix_content": " a certain strength in exactly the same sense as the rope is said",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 20,
+                "type": "text",
+                "content": "to have a certain strength. Thus, for example, Thomson has",
+                "mathpix_content": " to have a certain strength. Thus, for example, Thomson has",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 21,
+                "type": "text",
+                "content": "found that air at the ordinary pressure and temperature can",
+                "mathpix_content": " found that air at the ordinary pressure and temperature can",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 22,
+                "type": "text",
+                "content": "support an electric tension of 9600 grains weight per square",
+                "mathpix_content": " support an electric tension of 9600 grains weight per square",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 23,
+                "type": "text",
+                "content": "foot before a spark passes.",
+                "mathpix_content": " foot before a spark passes.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 24,
+                "type": "text",
+                "content": "60.] From the hypothesis that electric action is not a direct",
+                "mathpix_content": "\n60.] From the hypothesis that electric action is not a direct",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 25,
+                "type": "text",
+                "content": "action between bodies at a distance, but is exerted by means of",
+                "mathpix_content": " action between bodies at a distance, but is exerted by means of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 26,
+                "type": "text",
+                "content": "the medium between the bodies, we have deduced that this",
+                "mathpix_content": " the medium between the bodies, we have deduced that this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 27,
+                "type": "text",
+                "content": "medium must be in a state of stress. We have also ascertained",
+                "mathpix_content": " medium must be in a state of stress. We have also ascertained",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 28,
+                "type": "text",
+                "content": "the character of the stress, and compared it with the stresses",
+                "mathpix_content": " the character of the stress, and compared it with the stresses",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 29,
+                "type": "text",
+                "content": "which may occur in solid bodies. Along the lines of force there",
+                "mathpix_content": " which may occur in solid bodies. Along the lines of force there",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 30,
+                "type": "text",
+                "content": "is tension, and perpendicular to them there is pressure, the",
+                "mathpix_content": " is tension, and perpendicular to them there is pressure, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 31,
+                "type": "text",
+                "content": "numerical magnitude of these forces being equal, and each pro-",
+                "mathpix_content": " numerical magnitude of these forces being equal, and each pro",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 99,
+                "line_number": 32,
+                "type": "text",
+                "content": "portional to the square of the resultant intensity at the point.",
+                "mathpix_content": "portional to the square of the resultant intensity at the point.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 33,
+                "type": "text",
+                "content": "Having established these results, we are prepared to take another",
+                "mathpix_content": " Having established these results, we are prepared to take another",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 34,
+                "type": "text",
+                "content": "step, and to form an idea of the nature of the electric polarization",
+                "mathpix_content": " step, and to form an idea of the nature of the electric polarization",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 35,
+                "type": "text",
+                "content": "of the dielectric medium.",
+                "mathpix_content": " of the dielectric medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 36,
+                "type": "text",
+                "content": "An elementary portion of a body may be said to be polarized",
+                "mathpix_content": "\n\nAn elementary portion of a body may be said to be polarized",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 37,
+                "type": "text",
+                "content": "when it acquires equal and opposite properties on two opposite",
+                "mathpix_content": " when it acquires equal and opposite properties on two opposite",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 38,
+                "type": "text",
+                "content": "sides. The idea of internal polarity may be studied to the",
+                "mathpix_content": " sides. The idea of internal polarity may be studied to the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 39,
+                "type": "text",
+                "content": "greatest advantage as exemplified in permanent magnets, and it",
+                "mathpix_content": " greatest advantage as exemplified in permanent magnets, and it",
+                "font_size": 27,
+                "confidence": 0.9794921875
+              },
+              {
+                "page": 99,
+                "line_number": 40,
+                "type": "text",
+                "content": "will be explained at greater length when we come to treat of",
+                "mathpix_content": " will be explained at greater length when we come to treat of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 41,
+                "type": "text",
+                "content": "magnetism.",
+                "mathpix_content": " magnetism.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 99,
+                "line_number": 43,
+                "type": "text",
+                "content": "* \\{This statement requires modification : the distribution of stress referred to is",
+                "mathpix_content": "\n\n\\footnotetext{\n* \\{This statement requires modification : the distribution of stress referred to is",
+                "font_size": 21,
+                "confidence": 0.9692530632019043
+              },
+              {
+                "page": 99,
+                "line_number": 44,
+                "type": "text",
+                "content": "only one among many such distributions which will all produce the required effect. \\}",
+                "mathpix_content": " only one among many such distributions which will all produce the required effect. \\}\n}",
+                "font_size": 21,
+                "confidence": 0.99755859375
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 60,
+      "title": "]",
+      "page_start": 100,
+      "page_end": 99,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 65,
+      "title": "The electric polarization of an elementary portion of a dielectric",
+      "page_start": 100,
+      "page_end": 100,
+      "articles": [
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 100,
+          "page_end": 99,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 100,
+          "page_end": 99,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_65",
+          "article_number": 65,
+          "title_original": "The electric polarization of an elementary portion of a dielectric",
+          "title_safe": "The electric polarization of an elementary portion of a diel",
+          "page_start": 100,
+          "page_end": 100,
+          "content": {
+            "raw_text": "\n--- Page 100 ---\n60.]\nSTRESS IN DIELECTRICS.\n65\nThe electric polarization of an elementary portion of a dielectric\nis a forced state into which the medium is thrown by the action\nof electromotive force, and which disappears when that force is\nremoved. We may conceive it to consist in what we may call\nan electric displacement, produced by the electromotive intensity.\nWhen the electromotive force acts on a conducting medium it\nproduces a current through it, but if the medium is a non-con-\nductor or dielectric, the current cannot \\{continue to\\} flow through\nthe medium, but the electricity is displaced within the medium\nin the direction of the electromotive intensity, the extent of this\ndisplacement depending on the magnitude of the electromotive\nintensity, so that if the electromotive intensity increases or\ndiminishes, the electric displacement increases or diminishes in\nthe same ratio.\nThe amount of the displacement is measured by the quantity\nof electricity which crosses unit of area, while the displacement\nincreases from zero to its actual amount. This, therefore, is the\nmeasure of the electric polarization.\nThe analogy between the action of electromotive intensity in\nproducing electric displacement and of ordinary mechanical force\nin producing the displacement of an elastic body is so obvious that\nI have ventured to call the ratio of the electromotive intensity to\nthe corresponding electric displacement, the coefficient of electric\nelasticity of the medium. This coefficient is different in different\nmedia, and varies inversely as the specific inductive capacity of\neach medium.\nThe variations of electric displacement evidently constitute\nelectric currents *. These currents, bowever, can only exist\nduring the variation of the displacement, and therefore, since\nthe displacement cannot exceed a certain value without causing\ndisruptive discharge, they cannot be continued indefinitely in\nthe same direction, like the currents through conductors.\nIn tourmaline, and other pyro-electric crystals, it is probable\nthat a state of electric polarization exists, which depends upon\ntemperature, and does not require an external electromotive force\nto produce it. If the interior of a body were in a state of\npermanent electric polarization, the outside would gradually\nbecome charged in such a manner as to neutralize the action of\nthe internal polarization for all points outside the body. This\n* \\{If we assume the views enunciated in the preceding paragraph.\\}\nVOL. I.\nF\n",
+            "mathpix_markdown": "\n--- Page 100 ---\n\n\nThe electric polarization of an elementary portion of a dielectric\n is a forced state into which the medium is thrown by the action\n of electromotive force, and which disappears when that force is\n removed. We may conceive it to consist in what we may call\n an electric displacement, produced by the electromotive intensity.\n When the electromotive force acts on a conducting medium it\n produces a current through it, but if the medium is a non-con\nductor or dielectric, the current cannot \\{continue to\\} flow through\n the medium, but the electricity is displaced within the medium\n in the direction of the electromotive intensity, the extent of this\n displacement depending on the magnitude of the electromotive\n intensity, so that if the electromotive intensity increases or\n diminishes, the electric displacement increases or diminishes in\n the same ratio.\n\n\nThe amount of the displacement is measured by the quantity\n of electricity which crosses unit of area, while the displacement\n increases from zero to its actual amount. This, therefore, is the\n measure of the electric polarization.\n\n\nThe analogy between the action of electromotive intensity in\n producing electric displacement and of ordinary mechanical force\n in producing the displacement of an elastic body is so obvious that\n I have ventured to call the ratio of the electromotive intensity to\n the corresponding electric displacement, the coefficient of electric\n elasticity of the medium. This coefficient is different in different\n media, and varies inversely as the specific inductive capacity of\n each medium.\n\n\nThe variations of electric displacement evidently constitute\n electric currents *. These currents, bowever, can only exist\n during the variation of the displacement, and therefore, since\n the displacement cannot exceed a certain value without causing\n disruptive discharge, they cannot be continued indefinitely in\n the same direction, like the currents through conductors.\n\n\nIn tourmaline, and other pyro-electric crystals, it is probable\n that a state of electric polarization exists, which depends upon\n temperature, and does not require an external electromotive force\n to produce it. If the interior of a body were in a state of\n permanent electric polarization, the outside would gradually\n become charged in such a manner as to neutralize the action of\n the internal polarization for all points outside the body. This\n\n* \\{If we assume the views enunciated in the preceding paragraph.\\}\n\n\nVOL. I.\n",
+            "structured_lines": [
+              {
+                "page": 100,
+                "line_number": 4,
+                "type": "text",
+                "content": "The electric polarization of an elementary portion of a dielectric",
+                "mathpix_content": "\n\nThe electric polarization of an elementary portion of a dielectric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 5,
+                "type": "text",
+                "content": "is a forced state into which the medium is thrown by the action",
+                "mathpix_content": " is a forced state into which the medium is thrown by the action",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 6,
+                "type": "text",
+                "content": "of electromotive force, and which disappears when that force is",
+                "mathpix_content": " of electromotive force, and which disappears when that force is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 7,
+                "type": "text",
+                "content": "removed. We may conceive it to consist in what we may call",
+                "mathpix_content": " removed. We may conceive it to consist in what we may call",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 8,
+                "type": "text",
+                "content": "an electric displacement, produced by the electromotive intensity.",
+                "mathpix_content": " an electric displacement, produced by the electromotive intensity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 9,
+                "type": "text",
+                "content": "When the electromotive force acts on a conducting medium it",
+                "mathpix_content": " When the electromotive force acts on a conducting medium it",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 10,
+                "type": "text",
+                "content": "produces a current through it, but if the medium is a non-con-",
+                "mathpix_content": " produces a current through it, but if the medium is a non-con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 11,
+                "type": "text",
+                "content": "ductor or dielectric, the current cannot \\{continue to\\} flow through",
+                "mathpix_content": "ductor or dielectric, the current cannot \\{continue to\\} flow through",
+                "font_size": 27,
+                "confidence": 0.636533260345459
+              },
+              {
+                "page": 100,
+                "line_number": 12,
+                "type": "text",
+                "content": "the medium, but the electricity is displaced within the medium",
+                "mathpix_content": " the medium, but the electricity is displaced within the medium",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 13,
+                "type": "text",
+                "content": "in the direction of the electromotive intensity, the extent of this",
+                "mathpix_content": " in the direction of the electromotive intensity, the extent of this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 14,
+                "type": "text",
+                "content": "displacement depending on the magnitude of the electromotive",
+                "mathpix_content": " displacement depending on the magnitude of the electromotive",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 15,
+                "type": "text",
+                "content": "intensity, so that if the electromotive intensity increases or",
+                "mathpix_content": " intensity, so that if the electromotive intensity increases or",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 16,
+                "type": "text",
+                "content": "diminishes, the electric displacement increases or diminishes in",
+                "mathpix_content": " diminishes, the electric displacement increases or diminishes in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 17,
+                "type": "text",
+                "content": "the same ratio.",
+                "mathpix_content": " the same ratio.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 18,
+                "type": "text",
+                "content": "The amount of the displacement is measured by the quantity",
+                "mathpix_content": "\n\nThe amount of the displacement is measured by the quantity",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 100,
+                "line_number": 19,
+                "type": "text",
+                "content": "of electricity which crosses unit of area, while the displacement",
+                "mathpix_content": " of electricity which crosses unit of area, while the displacement",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 20,
+                "type": "text",
+                "content": "increases from zero to its actual amount. This, therefore, is the",
+                "mathpix_content": " increases from zero to its actual amount. This, therefore, is the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 21,
+                "type": "text",
+                "content": "measure of the electric polarization.",
+                "mathpix_content": " measure of the electric polarization.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 22,
+                "type": "text",
+                "content": "The analogy between the action of electromotive intensity in",
+                "mathpix_content": "\n\nThe analogy between the action of electromotive intensity in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 23,
+                "type": "text",
+                "content": "producing electric displacement and of ordinary mechanical force",
+                "mathpix_content": " producing electric displacement and of ordinary mechanical force",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 24,
+                "type": "text",
+                "content": "in producing the displacement of an elastic body is so obvious that",
+                "mathpix_content": " in producing the displacement of an elastic body is so obvious that",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 25,
+                "type": "text",
+                "content": "I have ventured to call the ratio of the electromotive intensity to",
+                "mathpix_content": " I have ventured to call the ratio of the electromotive intensity to",
+                "font_size": 27,
+                "confidence": 0.85986328125
+              },
+              {
+                "page": 100,
+                "line_number": 26,
+                "type": "text",
+                "content": "the corresponding electric displacement, the coefficient of electric",
+                "mathpix_content": " the corresponding electric displacement, the coefficient of electric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 27,
+                "type": "text",
+                "content": "elasticity of the medium. This coefficient is different in different",
+                "mathpix_content": " elasticity of the medium. This coefficient is different in different",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 28,
+                "type": "text",
+                "content": "media, and varies inversely as the specific inductive capacity of",
+                "mathpix_content": " media, and varies inversely as the specific inductive capacity of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 29,
+                "type": "text",
+                "content": "each medium.",
+                "mathpix_content": " each medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 30,
+                "type": "text",
+                "content": "The variations of electric displacement evidently constitute",
+                "mathpix_content": "\n\nThe variations of electric displacement evidently constitute",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 31,
+                "type": "text",
+                "content": "electric currents *. These currents, bowever, can only exist",
+                "mathpix_content": " electric currents *. These currents, bowever, can only exist",
+                "font_size": 27,
+                "confidence": 0.9795570373535156
+              },
+              {
+                "page": 100,
+                "line_number": 32,
+                "type": "text",
+                "content": "during the variation of the displacement, and therefore, since",
+                "mathpix_content": " during the variation of the displacement, and therefore, since",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 33,
+                "type": "text",
+                "content": "the displacement cannot exceed a certain value without causing",
+                "mathpix_content": " the displacement cannot exceed a certain value without causing",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 34,
+                "type": "text",
+                "content": "disruptive discharge, they cannot be continued indefinitely in",
+                "mathpix_content": " disruptive discharge, they cannot be continued indefinitely in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 35,
+                "type": "text",
+                "content": "the same direction, like the currents through conductors.",
+                "mathpix_content": " the same direction, like the currents through conductors.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 36,
+                "type": "text",
+                "content": "In tourmaline, and other pyro-electric crystals, it is probable",
+                "mathpix_content": "\n\nIn tourmaline, and other pyro-electric crystals, it is probable",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 37,
+                "type": "text",
+                "content": "that a state of electric polarization exists, which depends upon",
+                "mathpix_content": " that a state of electric polarization exists, which depends upon",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 38,
+                "type": "text",
+                "content": "temperature, and does not require an external electromotive force",
+                "mathpix_content": " temperature, and does not require an external electromotive force",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 39,
+                "type": "text",
+                "content": "to produce it. If the interior of a body were in a state of",
+                "mathpix_content": " to produce it. If the interior of a body were in a state of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 40,
+                "type": "text",
+                "content": "permanent electric polarization, the outside would gradually",
+                "mathpix_content": " permanent electric polarization, the outside would gradually",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 41,
+                "type": "text",
+                "content": "become charged in such a manner as to neutralize the action of",
+                "mathpix_content": " become charged in such a manner as to neutralize the action of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 42,
+                "type": "text",
+                "content": "the internal polarization for all points outside the body. This",
+                "mathpix_content": " the internal polarization for all points outside the body. This",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 100,
+                "line_number": 43,
+                "type": "text",
+                "content": "* \\{If we assume the views enunciated in the preceding paragraph.\\}",
+                "mathpix_content": "\n* \\{If we assume the views enunciated in the preceding paragraph.\\}",
+                "font_size": 21,
+                "confidence": 0.6572389602661133
+              },
+              {
+                "page": 100,
+                "line_number": 44,
+                "type": "text",
+                "content": "VOL. I.",
+                "mathpix_content": "\n\nVOL. I.",
+                "font_size": 21,
+                "confidence": 0.9990236759185791
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 66,
+      "title": "ELECTROSTATIC PHENOMENA.",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 60,
+      "title": "external superficial charge could not be detected by any of the",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 1,
+      "title": "}$",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 2,
+      "title": "}$ denote the potentials at the inner and the outer of these",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": "}-V_{2}$, so that the work",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "}-V_{2}\\right) \\delta E$.",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": "}$",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 2,
+      "title": "}$ becomes zero, so",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 1,
+      "title": "}$",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 2,
+      "title": "}$ denote the potentials at the inner and the outer of these",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 1,
+      "title": "}-V_{2}$, so that the work",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 1,
+      "title": "}-V_{2}\\right) \\delta E$.",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 1,
+      "title": "}$",
+      "page_start": 101,
+      "page_end": 100,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 2,
+      "title": "}$ becomes zero, so",
+      "page_start": 101,
+      "page_end": 101,
+      "articles": [
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": "external superficial charge could not be detected by any of the",
+          "title_safe": "external superficial charge could not be detected by any of",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_66",
+          "article_number": 66,
+          "title_original": "ELECTROSTATIC PHENOMENA.",
+          "title_safe": "ELECTROSTATIC PHENOMENA",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_60",
+          "article_number": 60,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$",
+          "title_safe": "Article",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ denote the potentials at the inner and the outer of these",
+          "title_safe": "denote the potentials at the inner and the outer of these",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-V_{2}$, so that the work",
+          "title_safe": "V2 so that the work",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-V_{2}\\right) \\delta E$.",
+          "title_safe": "V2right delta E",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$",
+          "title_safe": "Article",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ becomes zero, so",
+          "title_safe": "becomes zero so",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$",
+          "title_safe": "Article",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ denote the potentials at the inner and the outer of these",
+          "title_safe": "denote the potentials at the inner and the outer of these",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-V_{2}$, so that the work",
+          "title_safe": "V2 so that the work",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-V_{2}\\right) \\delta E$.",
+          "title_safe": "V2right delta E",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$",
+          "title_safe": "Article",
+          "page_start": 101,
+          "page_end": 100,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ becomes zero, so",
+          "title_safe": "becomes zero so",
+          "page_start": 101,
+          "page_end": 101,
+          "content": {
+            "raw_text": "\n--- Page 101 ---\n66\nELECTROSTATIC PHENOMENA.\n[60.\nexternal superficial charge could not be detected by any of the\nordinary tests, and could not be removed by any of the ordinary\nmethods for discharging superficial electrification. The internal\npolarization of the substance would therefore never be discovered\nunless by some means, such as change of temperature, the amount\nof the internal polarization could be increased or diminished.\nThe external electrification would then be no longer capable\nof neutralizing the external effect of the internal polarization,\nand an apparent electrification would be observed, as in the case\nof tourmaline.\nIf a charge $e$ is uniformly distributed over the surface of a\nsphere, the resultant intensity at any point of the medium sur-\nrounding the sphere is proportional to the charge e divided\nby the square of the distance from the centre of the sphere.\nThis resultant intensity, according to our theory, is accompanied\nby a displacement of electricity in a direction outwards from the\nsphere.\nIt we now draw a concentric spherical surface of radius $r$, the\nwhole displacement, $E$, through this surface will be proportional\nto the resultant intensity multiplied by the area of the spherical\nsurface. But the resultant intensity is directly as the charge $e$\nand inversely as the square of the radius, while the area of the\nsurface is directly as the square of the radius.\nHence the whole displacement, $E$, is proportional to the charge\n$e$, and is independent of the radius.\nTo determine the ratio between the charge $e$, and the quantity\nof electricity, $E$, displaced outwards through any one of the\nspherical surfaces, let us consider the work done upon the\nmedium in the region between two concentric spherical surfaces,\nwhile the displacement is increased from $E$ to $E+\\delta E$. If $V_{1}$\nand $V_{2}$ denote the potentials at the inner and the outer of these\nsurfaces respectively, the electromotive force by which the\nadditional displacement is produced is $V_{1}-V_{2}$, so that the work\nspent in augmenting the displacement is $\\left(V_{1}-V_{2}\\right) \\delta E$.\nIf we now make the inner surface coincide with that of the\nelectrified sphere, and make the radius of the outer infinite, $V_{1}$\nbecomes $V$, the potential of the sphere, and $V_{2}$ becomes zero, so\nthat the whole work done in the surrounding medium is $V \\delta E$.\nBut by the ordinary theory, the work done in augmenting the\ncharge is $V \\delta e$, and if this is spent, as we suppose, in augmenting\n",
+            "mathpix_markdown": "\n--- Page 101 ---\n\nexternal superficial charge could not be detected by any of the\n ordinary tests, and could not be removed by any of the ordinary\n methods for discharging superficial electrification. The internal\n polarization of the substance would therefore never be discovered\n unless by some means, such as change of temperature, the amount\n of the internal polarization could be increased or diminished.\n The external electrification would then be no longer capable\n of neutralizing the external effect of the internal polarization,\n and an apparent electrification would be observed, as in the case\n of tourmaline.\n\n\nIf a charge $e$ is uniformly distributed over the surface of a\n sphere, the resultant intensity at any point of the medium sur\nrounding the sphere is proportional to the charge e divided\n by the square of the distance from the centre of the sphere.\n This resultant intensity, according to our theory, is accompanied\n by a displacement of electricity in a direction outwards from the\n sphere.\n\n\nIt we now draw a concentric spherical surface of radius $r$, the\n whole displacement, $E$, through this surface will be proportional\n to the resultant intensity multiplied by the area of the spherical\n surface. But the resultant intensity is directly as the charge $e$\n and inversely as the square of the radius, while the area of the\n surface is directly as the square of the radius.\n\n\nHence the whole displacement, $E$, is proportional to the charge\n $e$, and is independent of the radius.\n\n\nTo determine the ratio between the charge $e$, and the quantity\n of electricity, $E$, displaced outwards through any one of the\n spherical surfaces, let us consider the work done upon the\n medium in the region between two concentric spherical surfaces,\n while the displacement is increased from $E$ to $E+\\delta E$. If $V_{1}$\n and $V_{2}$ denote the potentials at the inner and the outer of these\n surfaces respectively, the electromotive force by which the\n additional displacement is produced is $V_{1}-V_{2}$, so that the work\n spent in augmenting the displacement is $\\left(V_{1}-V_{2}\\right) \\delta E$.\n\n\nIf we now make the inner surface coincide with that of the\n electrified sphere, and make the radius of the outer infinite, $V_{1}$\n becomes $V$, the potential of the sphere, and $V_{2}$ becomes zero, so\n that the whole work done in the surrounding medium is $V \\delta E$.\n\n\nBut by the ordinary theory, the work done in augmenting the\n charge is $V \\delta e$, and if this is spent, as we suppose, in augmenting\n",
+            "structured_lines": [
+              {
+                "page": 101,
+                "line_number": 4,
+                "type": "text",
+                "content": "external superficial charge could not be detected by any of the",
+                "mathpix_content": "\nexternal superficial charge could not be detected by any of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 5,
+                "type": "text",
+                "content": "ordinary tests, and could not be removed by any of the ordinary",
+                "mathpix_content": " ordinary tests, and could not be removed by any of the ordinary",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 6,
+                "type": "text",
+                "content": "methods for discharging superficial electrification. The internal",
+                "mathpix_content": " methods for discharging superficial electrification. The internal",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 7,
+                "type": "text",
+                "content": "polarization of the substance would therefore never be discovered",
+                "mathpix_content": " polarization of the substance would therefore never be discovered",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 8,
+                "type": "text",
+                "content": "unless by some means, such as change of temperature, the amount",
+                "mathpix_content": " unless by some means, such as change of temperature, the amount",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 9,
+                "type": "text",
+                "content": "of the internal polarization could be increased or diminished.",
+                "mathpix_content": " of the internal polarization could be increased or diminished.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 10,
+                "type": "text",
+                "content": "The external electrification would then be no longer capable",
+                "mathpix_content": " The external electrification would then be no longer capable",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 11,
+                "type": "text",
+                "content": "of neutralizing the external effect of the internal polarization,",
+                "mathpix_content": " of neutralizing the external effect of the internal polarization,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 12,
+                "type": "text",
+                "content": "and an apparent electrification would be observed, as in the case",
+                "mathpix_content": " and an apparent electrification would be observed, as in the case",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 13,
+                "type": "text",
+                "content": "of tourmaline.",
+                "mathpix_content": " of tourmaline.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 14,
+                "type": "text",
+                "content": "If a charge $e$ is uniformly distributed over the surface of a",
+                "mathpix_content": "\n\nIf a charge $e$ is uniformly distributed over the surface of a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 15,
+                "type": "text",
+                "content": "sphere, the resultant intensity at any point of the medium sur-",
+                "mathpix_content": " sphere, the resultant intensity at any point of the medium sur",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 16,
+                "type": "text",
+                "content": "rounding the sphere is proportional to the charge e divided",
+                "mathpix_content": "rounding the sphere is proportional to the charge e divided",
+                "font_size": 27,
+                "confidence": 0.982421875
+              },
+              {
+                "page": 101,
+                "line_number": 17,
+                "type": "text",
+                "content": "by the square of the distance from the centre of the sphere.",
+                "mathpix_content": " by the square of the distance from the centre of the sphere.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 18,
+                "type": "text",
+                "content": "This resultant intensity, according to our theory, is accompanied",
+                "mathpix_content": " This resultant intensity, according to our theory, is accompanied",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 19,
+                "type": "text",
+                "content": "by a displacement of electricity in a direction outwards from the",
+                "mathpix_content": " by a displacement of electricity in a direction outwards from the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 20,
+                "type": "text",
+                "content": "sphere.",
+                "mathpix_content": " sphere.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 21,
+                "type": "text",
+                "content": "It we now draw a concentric spherical surface of radius $r$, the",
+                "mathpix_content": "\n\nIt we now draw a concentric spherical surface of radius $r$, the",
+                "font_size": 27,
+                "confidence": 0.9873256683349609
+              },
+              {
+                "page": 101,
+                "line_number": 22,
+                "type": "text",
+                "content": "whole displacement, $E$, through this surface will be proportional",
+                "mathpix_content": " whole displacement, $E$, through this surface will be proportional",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 23,
+                "type": "text",
+                "content": "to the resultant intensity multiplied by the area of the spherical",
+                "mathpix_content": " to the resultant intensity multiplied by the area of the spherical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 24,
+                "type": "text",
+                "content": "surface. But the resultant intensity is directly as the charge $e$",
+                "mathpix_content": " surface. But the resultant intensity is directly as the charge $e$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 25,
+                "type": "text",
+                "content": "and inversely as the square of the radius, while the area of the",
+                "mathpix_content": " and inversely as the square of the radius, while the area of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 26,
+                "type": "text",
+                "content": "surface is directly as the square of the radius.",
+                "mathpix_content": " surface is directly as the square of the radius.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 27,
+                "type": "text",
+                "content": "Hence the whole displacement, $E$, is proportional to the charge",
+                "mathpix_content": "\n\nHence the whole displacement, $E$, is proportional to the charge",
+                "font_size": 27,
+                "confidence": 0.984375
+              },
+              {
+                "page": 101,
+                "line_number": 28,
+                "type": "text",
+                "content": "$e$, and is independent of the radius.",
+                "mathpix_content": " $e$, and is independent of the radius.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 29,
+                "type": "text",
+                "content": "To determine the ratio between the charge $e$, and the quantity",
+                "mathpix_content": "\n\nTo determine the ratio between the charge $e$, and the quantity",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 101,
+                "line_number": 30,
+                "type": "text",
+                "content": "of electricity, $E$, displaced outwards through any one of the",
+                "mathpix_content": " of electricity, $E$, displaced outwards through any one of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 31,
+                "type": "text",
+                "content": "spherical surfaces, let us consider the work done upon the",
+                "mathpix_content": " spherical surfaces, let us consider the work done upon the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 32,
+                "type": "text",
+                "content": "medium in the region between two concentric spherical surfaces,",
+                "mathpix_content": " medium in the region between two concentric spherical surfaces,",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 101,
+                "line_number": 33,
+                "type": "text",
+                "content": "while the displacement is increased from $E$ to $E+\\delta E$. If $V_{1}$",
+                "mathpix_content": " while the displacement is increased from $E$ to $E+\\delta E$. If $V_{1}$",
+                "font_size": 27,
+                "confidence": 0.99609375
+              },
+              {
+                "page": 101,
+                "line_number": 34,
+                "type": "text",
+                "content": "and $V_{2}$ denote the potentials at the inner and the outer of these",
+                "mathpix_content": " and $V_{2}$ denote the potentials at the inner and the outer of these",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 35,
+                "type": "text",
+                "content": "surfaces respectively, the electromotive force by which the",
+                "mathpix_content": " surfaces respectively, the electromotive force by which the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 36,
+                "type": "text",
+                "content": "additional displacement is produced is $V_{1}-V_{2}$, so that the work",
+                "mathpix_content": " additional displacement is produced is $V_{1}-V_{2}$, so that the work",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 37,
+                "type": "text",
+                "content": "spent in augmenting the displacement is $\\left(V_{1}-V_{2}\\right) \\delta E$.",
+                "mathpix_content": " spent in augmenting the displacement is $\\left(V_{1}-V_{2}\\right) \\delta E$.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 101,
+                "line_number": 38,
+                "type": "text",
+                "content": "If we now make the inner surface coincide with that of the",
+                "mathpix_content": "\n\nIf we now make the inner surface coincide with that of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 39,
+                "type": "text",
+                "content": "electrified sphere, and make the radius of the outer infinite, $V_{1}$",
+                "mathpix_content": " electrified sphere, and make the radius of the outer infinite, $V_{1}$",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 101,
+                "line_number": 40,
+                "type": "text",
+                "content": "becomes $V$, the potential of the sphere, and $V_{2}$ becomes zero, so",
+                "mathpix_content": " becomes $V$, the potential of the sphere, and $V_{2}$ becomes zero, so",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 41,
+                "type": "text",
+                "content": "that the whole work done in the surrounding medium is $V \\delta E$.",
+                "mathpix_content": " that the whole work done in the surrounding medium is $V \\delta E$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 42,
+                "type": "text",
+                "content": "But by the ordinary theory, the work done in augmenting the",
+                "mathpix_content": "\n\nBut by the ordinary theory, the work done in augmenting the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 101,
+                "line_number": 43,
+                "type": "text",
+                "content": "charge is $V \\delta e$, and if this is spent, as we suppose, in augmenting",
+                "mathpix_content": " charge is $V \\delta e$, and if this is spent, as we suppose, in augmenting",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 61,
+      "title": "]",
+      "page_start": 102,
+      "page_end": 101,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 67,
+      "title": "the displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,",
+      "page_start": 102,
+      "page_end": 101,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 75,
+      "title": ", 76, 111.",
+      "page_start": 102,
+      "page_end": 101,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 61,
+      "title": "] We are thus led to a very remarkable consequence of the",
+      "page_start": 102,
+      "page_end": 101,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": "the displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,",
+      "page_start": 102,
+      "page_end": 101,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 75,
+      "title": ", 76, 111.",
+      "page_start": 102,
+      "page_end": 101,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 61,
+      "title": "] We are thus led to a very remarkable consequence of the",
+      "page_start": 102,
+      "page_end": 102,
+      "articles": [
+        {
+          "article_id": "article_61",
+          "article_number": 61,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_111",
+          "article_number": 111,
+          "title_original": "It appears, therefore, that at the same time that a quantity",
+          "title_safe": "It appears therefore that at the same time that a quantity",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_61",
+          "article_number": 61,
+          "title_original": "] We are thus led to a very remarkable consequence of the",
+          "title_safe": "We are thus led to a very remarkable consequence of the",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_111",
+          "article_number": 111,
+          "title_original": "It appears, therefore, that at the same time that a quantity",
+          "title_safe": "It appears therefore that at the same time that a quantity",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_61",
+          "article_number": 61,
+          "title_original": "] We are thus led to a very remarkable consequence of the",
+          "title_safe": "We are thus led to a very remarkable consequence of the",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_61",
+          "article_number": 61,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_67",
+          "article_number": 67,
+          "title_original": "the displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,",
+          "title_safe": "the displacement delta Eequalsdelta e and since E and e vani",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ", 76, 111.",
+          "title_safe": "76 111",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_61",
+          "article_number": 61,
+          "title_original": ".] We are thus led to a very remarkable consequence of the",
+          "title_safe": "We are thus led to a very remarkable consequence of the",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "the displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,",
+          "title_safe": "the displacement delta Eequalsdelta e and since E and e vani",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ", 76, 111.",
+          "title_safe": "76 111",
+          "page_start": 102,
+          "page_end": 101,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_61",
+          "article_number": 61,
+          "title_original": ".] We are thus led to a very remarkable consequence of the",
+          "title_safe": "We are thus led to a very remarkable consequence of the",
+          "page_start": 102,
+          "page_end": 102,
+          "content": {
+            "raw_text": "\n--- Page 102 ---\n61.]\nTHEORY PROPOSED.\n67\nthe displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,\n$E=e$, or-\nThe displacement outwards through any spherical surfuce\nconcentric with the sphere is equal to the charge on the sphere.\nTo fix our ideas of electric displacement, let us consider an\naccumulator formed of two conducting plates $A$ and $B$, separated\nby a stratum of a dielectric $C$. Let $W$ be a conducting wire\njoining $A$ and $B$, and let us suppose that by the action of an\nelectromotive force a quantity $Q$ of positive electricity is trans-\nferred along the wire from $B$ to $A$. The positive electrification\nof $A$ and the negative electrification of $B$ will produce a certain\nelectromotive force acting from $A$ towards $B$ in the dielectric\nstratum, and this will produce an electric displacement from\n$A$ towards $B$ within the dielectric. The amount of this dis-\nplacement, as measured by the quantity of electricity forced\nacross an imaginary section of the dielectric dividing it into\ntwo strata, will be, according to our theory, exactly $Q$. See Arts.\n75, 76, 111.\nIt appears, therefore, that at the same time that a quantity\n$Q$ of electricity is being transferred along the wire by the electro-\nmotive force from $B$ towards $A$, so as to cross every section of\nthe wire, the same quantity of electricity crosses every section\nof the dielectric from $A$ towards $B$ by reason of the electric dis-\nplacement.\nThe displacements of electricity during the discharge of the\naccumulator will be the reverse of these. In the wire the dis-\ncharge will be $Q$ from $A$ to $B$, and in the dielectric the displace-\nment will subside, and a quantity of electricity $Q$ will cross\nevery section from $B$ towards $A$.\nEvery case of charge or discharge may therefore be considered\nas a motion in a closed circuit, such that at every section of\nthe circuit the same quantity of electricity crosses in the same\ntime, and this is the case, not only in the voltaic circuit where\nit has always been recognized, but in those cases in which elec-\ntricity has been generally supposed to be accumulated in certain\nplaces.\n61.] We are thus led to a very remarkable consequence of the\ntheory which we are examining, namely, that the motions of\nelectricity are like those of an incompressible fluid, so that the\ntotal quantity within an imaginary fixed closed surface remains\nF 2\n",
+            "mathpix_markdown": "\n--- Page 102 ---\n\nthe displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,\n $E=e$, or-\n\n\nThe displacement outwards through any spherical surfuce\n concentric with the sphere is equal to the charge on the sphere.\n\n\nTo fix our ideas of electric displacement, let us consider an\n accumulator formed of two conducting plates $A$ and $B$, separated\n by a stratum of a dielectric $C$. Let $W$ be a conducting wire\n joining $A$ and $B$, and let us suppose that by the action of an\n electromotive force a quantity $Q$ of positive electricity is trans\nferred along the wire from $B$ to $A$. The positive electrification\n of $A$ and the negative electrification of $B$ will produce a certain\n electromotive force acting from $A$ towards $B$ in the dielectric\n stratum, and this will produce an electric displacement from\n $A$ towards $B$ within the dielectric. The amount of this dis\nplacement, as measured by the quantity of electricity forced\n across an imaginary section of the dielectric dividing it into\n two strata, will be, according to our theory, exactly $Q$. See Arts.\n 75, 76, 111.\n\n\nIt appears, therefore, that at the same time that a quantity\n $Q$ of electricity is being transferred along the wire by the electro\nmotive force from $B$ towards $A$, so as to cross every section of\n the wire, the same quantity of electricity crosses every section\n of the dielectric from $A$ towards $B$ by reason of the electric dis\nplacement.\n\n\nThe displacements of electricity during the discharge of the\n accumulator will be the reverse of these. In the wire the dis\ncharge will be $Q$ from $A$ to $B$, and in the dielectric the displace\nment will subside, and a quantity of electricity $Q$ will cross\n every section from $B$ towards $A$.\n\n\nEvery case of charge or discharge may therefore be considered\n as a motion in a closed circuit, such that at every section of\n the circuit the same quantity of electricity crosses in the same\n time, and this is the case, not only in the voltaic circuit where\n it has always been recognized, but in those cases in which elec\ntricity has been generally supposed to be accumulated in certain\n places.\n\n61.] We are thus led to a very remarkable consequence of the\n theory which we are examining, namely, that the motions of\n electricity are like those of an incompressible fluid, so that the\n total quantity within an imaginary fixed closed surface remains\n",
+            "structured_lines": [
+              {
+                "page": 102,
+                "line_number": 4,
+                "type": "text",
+                "content": "the displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,",
+                "mathpix_content": "\nthe displacement, $\\delta E=\\delta e$, and since $E$ and $e$ vanish together,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 5,
+                "type": "text",
+                "content": "$E=e$, or-",
+                "mathpix_content": " $E=e$, or-",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 6,
+                "type": "text",
+                "content": "The displacement outwards through any spherical surfuce",
+                "mathpix_content": "\n\nThe displacement outwards through any spherical surfuce",
+                "font_size": 27,
+                "confidence": 0.99267578125
+              },
+              {
+                "page": 102,
+                "line_number": 7,
+                "type": "text",
+                "content": "concentric with the sphere is equal to the charge on the sphere.",
+                "mathpix_content": " concentric with the sphere is equal to the charge on the sphere.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 8,
+                "type": "text",
+                "content": "To fix our ideas of electric displacement, let us consider an",
+                "mathpix_content": "\n\nTo fix our ideas of electric displacement, let us consider an",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 102,
+                "line_number": 9,
+                "type": "text",
+                "content": "accumulator formed of two conducting plates $A$ and $B$, separated",
+                "mathpix_content": " accumulator formed of two conducting plates $A$ and $B$, separated",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 10,
+                "type": "text",
+                "content": "by a stratum of a dielectric $C$. Let $W$ be a conducting wire",
+                "mathpix_content": " by a stratum of a dielectric $C$. Let $W$ be a conducting wire",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 11,
+                "type": "text",
+                "content": "joining $A$ and $B$, and let us suppose that by the action of an",
+                "mathpix_content": " joining $A$ and $B$, and let us suppose that by the action of an",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 12,
+                "type": "text",
+                "content": "electromotive force a quantity $Q$ of positive electricity is trans-",
+                "mathpix_content": " electromotive force a quantity $Q$ of positive electricity is trans",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 13,
+                "type": "text",
+                "content": "ferred along the wire from $B$ to $A$. The positive electrification",
+                "mathpix_content": "ferred along the wire from $B$ to $A$. The positive electrification",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 14,
+                "type": "text",
+                "content": "of $A$ and the negative electrification of $B$ will produce a certain",
+                "mathpix_content": " of $A$ and the negative electrification of $B$ will produce a certain",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 15,
+                "type": "text",
+                "content": "electromotive force acting from $A$ towards $B$ in the dielectric",
+                "mathpix_content": " electromotive force acting from $A$ towards $B$ in the dielectric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 16,
+                "type": "text",
+                "content": "stratum, and this will produce an electric displacement from",
+                "mathpix_content": " stratum, and this will produce an electric displacement from",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 17,
+                "type": "text",
+                "content": "$A$ towards $B$ within the dielectric. The amount of this dis-",
+                "mathpix_content": " $A$ towards $B$ within the dielectric. The amount of this dis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 18,
+                "type": "text",
+                "content": "placement, as measured by the quantity of electricity forced",
+                "mathpix_content": "placement, as measured by the quantity of electricity forced",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 19,
+                "type": "text",
+                "content": "across an imaginary section of the dielectric dividing it into",
+                "mathpix_content": " across an imaginary section of the dielectric dividing it into",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 20,
+                "type": "text",
+                "content": "two strata, will be, according to our theory, exactly $Q$. See Arts.",
+                "mathpix_content": " two strata, will be, according to our theory, exactly $Q$. See Arts.",
+                "font_size": 27,
+                "confidence": 0.8892676568357274
+              },
+              {
+                "page": 102,
+                "line_number": 21,
+                "type": "text",
+                "content": "75, 76, 111.",
+                "mathpix_content": " 75, 76, 111.",
+                "font_size": 27,
+                "confidence": 0.99658203125
+              },
+              {
+                "page": 102,
+                "line_number": 22,
+                "type": "text",
+                "content": "It appears, therefore, that at the same time that a quantity",
+                "mathpix_content": "\n\nIt appears, therefore, that at the same time that a quantity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 23,
+                "type": "text",
+                "content": "$Q$ of electricity is being transferred along the wire by the electro-",
+                "mathpix_content": " $Q$ of electricity is being transferred along the wire by the electro",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 102,
+                "line_number": 24,
+                "type": "text",
+                "content": "motive force from $B$ towards $A$, so as to cross every section of",
+                "mathpix_content": "motive force from $B$ towards $A$, so as to cross every section of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 25,
+                "type": "text",
+                "content": "the wire, the same quantity of electricity crosses every section",
+                "mathpix_content": " the wire, the same quantity of electricity crosses every section",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 26,
+                "type": "text",
+                "content": "of the dielectric from $A$ towards $B$ by reason of the electric dis-",
+                "mathpix_content": " of the dielectric from $A$ towards $B$ by reason of the electric dis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 27,
+                "type": "text",
+                "content": "placement.",
+                "mathpix_content": "placement.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 28,
+                "type": "text",
+                "content": "The displacements of electricity during the discharge of the",
+                "mathpix_content": "\n\nThe displacements of electricity during the discharge of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 29,
+                "type": "text",
+                "content": "accumulator will be the reverse of these. In the wire the dis-",
+                "mathpix_content": " accumulator will be the reverse of these. In the wire the dis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 30,
+                "type": "text",
+                "content": "charge will be $Q$ from $A$ to $B$, and in the dielectric the displace-",
+                "mathpix_content": "charge will be $Q$ from $A$ to $B$, and in the dielectric the displace",
+                "font_size": 27,
+                "confidence": 0.9975600242614746
+              },
+              {
+                "page": 102,
+                "line_number": 31,
+                "type": "text",
+                "content": "ment will subside, and a quantity of electricity $Q$ will cross",
+                "mathpix_content": "ment will subside, and a quantity of electricity $Q$ will cross",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 32,
+                "type": "text",
+                "content": "every section from $B$ towards $A$.",
+                "mathpix_content": " every section from $B$ towards $A$.",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 102,
+                "line_number": 33,
+                "type": "text",
+                "content": "Every case of charge or discharge may therefore be considered",
+                "mathpix_content": "\n\nEvery case of charge or discharge may therefore be considered",
+                "font_size": 27,
+                "confidence": 0.992196798324585
+              },
+              {
+                "page": 102,
+                "line_number": 34,
+                "type": "text",
+                "content": "as a motion in a closed circuit, such that at every section of",
+                "mathpix_content": " as a motion in a closed circuit, such that at every section of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 35,
+                "type": "text",
+                "content": "the circuit the same quantity of electricity crosses in the same",
+                "mathpix_content": " the circuit the same quantity of electricity crosses in the same",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 36,
+                "type": "text",
+                "content": "time, and this is the case, not only in the voltaic circuit where",
+                "mathpix_content": " time, and this is the case, not only in the voltaic circuit where",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 37,
+                "type": "text",
+                "content": "it has always been recognized, but in those cases in which elec-",
+                "mathpix_content": " it has always been recognized, but in those cases in which elec",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 38,
+                "type": "text",
+                "content": "tricity has been generally supposed to be accumulated in certain",
+                "mathpix_content": "tricity has been generally supposed to be accumulated in certain",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 39,
+                "type": "text",
+                "content": "places.",
+                "mathpix_content": " places.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 40,
+                "type": "text",
+                "content": "61.] We are thus led to a very remarkable consequence of the",
+                "mathpix_content": "\n61.] We are thus led to a very remarkable consequence of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 41,
+                "type": "text",
+                "content": "theory which we are examining, namely, that the motions of",
+                "mathpix_content": " theory which we are examining, namely, that the motions of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 102,
+                "line_number": 42,
+                "type": "text",
+                "content": "electricity are like those of an incompressible fluid, so that the",
+                "mathpix_content": " electricity are like those of an incompressible fluid, so that the",
+                "font_size": 27,
+                "confidence": 0.99462890625
+              },
+              {
+                "page": 102,
+                "line_number": 43,
+                "type": "text",
+                "content": "total quantity within an imaginary fixed closed surface remains",
+                "mathpix_content": " total quantity within an imaginary fixed closed surface remains",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

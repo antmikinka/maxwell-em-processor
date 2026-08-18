@@ -1,0 +1,20 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "& 1 & 1 & $X$ \\\\",
+  "title_safe": "and 1 and 1 and X",
+  "page_start": 484,
+  "page_end": 483,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

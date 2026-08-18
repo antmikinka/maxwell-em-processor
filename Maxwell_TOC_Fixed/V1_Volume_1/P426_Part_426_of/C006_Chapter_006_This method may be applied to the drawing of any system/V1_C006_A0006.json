@@ -1,0 +1,381 @@
+{
+  "article_id": "article_6",
+  "article_number": 6,
+  "title_original": ".",
+  "title_safe": "Article",
+  "page_start": 218,
+  "page_end": 218,
+  "content": {
+    "raw_text": "\n--- Page 218 ---\n123.]\nAND LINES OF INDUCTION.\n183\n123.] These diagrams are constructed in the following manner:-\nFirst, take the case of a single centre of force, a small electrified\nbody with a charge $e$. The potential at a distance $r$ is $V=e / r$;\nhence, if we make $r=e / V$, we shall find $r$, the radius of the sphere\nfor which the potential is $V$. If we now give to $V$ the values\n$1,2,3, \\& \\mathrm{c}$., and draw the corresponding spheres, we shall obtain\na series of equipotential surfaces, the potentials corresponding to\nwhich are measured by the natural numbers. The sections of\nthese spheres by a plane passing through their common centre\nwill be circles, cach of which we may mark with the number\ndenoting its potential. These are indicated by the dotted semi-\ncircles on the right hand of Fig. 6.\nIf there be another centre of force, we may in the same way\ndraw the equipotential surfaces belonging to it, and if we now\nwish to find the form of the equipotential surfaces due to both\ncentres together, we must remember that if $V_{1}$ be the potential due\nto one centre, and $V_{2}$ that due to the other, the potential due to\nloth will be $V_{1}+V_{2}=V$. Hence, since at every intersection of\nthe equipotential surfaces belonging to the two series we know\nboth $V_{1}$ and $V_{2}$, we also know the value of $V$. If therefore we\ndraw a surface which passes through all those intersections for\nwhich the value of $V$ is the same, this surface will coincide with\na true equipotential surface at all these intersections, and if the\noriginal systems of surfaces are drawn sufficiently close, the new\nsurface may be drawn with any required degree of accuracy.\nThe equipotential surfaces due to two points whose charges are\nequal and opposite are represented by the continuous lines on\nthe right hand side of Fig. 6.\nThis method may be applied to the drawing of any system\nof equipotential surfaces when the potential is the sum of two\npotentials, for which we have already drawn the equipotential\nsurfaces.\nThe lines of force due to a single centre of force are straight\nlines radiating from that centre. If we wish to indicate by these\nlines the intensity as well as the direction of the force at any\npoint, we must draw them so that they mark out on the equi-\npotential surfaces portions over which the surface-integral of\ninduction has definite values. The best way of doing this is to\nsuppose our plane figure to be the section of a figure in space\nformed by the revolution of the plane figure about an axis passing\n",
+    "mathpix_markdown": "\n--- Page 218 ---\n\n123.] These diagrams are constructed in the following manner:-\n\n\nFirst, take the case of a single centre of force, a small electrified\n body with a charge $e$. The potential at a distance $r$ is $V=e / r$;\n hence, if we make $r=e / V$, we shall find $r$, the radius of the sphere\n for which the potential is $V$. If we now give to $V$ the values\n $1,2,3, \\& \\mathrm{c}$., and draw the corresponding spheres, we shall obtain\n a series of equipotential surfaces, the potentials corresponding to\n which are measured by the natural numbers. The sections of\n these spheres by a plane passing through their common centre\n will be circles, cach of which we may mark with the number\n denoting its potential. These are indicated by the dotted semi\ncircles on the right hand of Fig. 6.\n\n\nIf there be another centre of force, we may in the same way\n draw the equipotential surfaces belonging to it, and if we now\n wish to find the form of the equipotential surfaces due to both\n centres together, we must remember that if $V_{1}$ be the potential due\n to one centre, and $V_{2}$ that due to the other, the potential due to\n loth will be $V_{1}+V_{2}=V$. Hence, since at every intersection of\n the equipotential surfaces belonging to the two series we know\n both $V_{1}$ and $V_{2}$, we also know the value of $V$. If therefore we\n draw a surface which passes through all those intersections for\n which the value of $V$ is the same, this surface will coincide with\n a true equipotential surface at all these intersections, and if the\n original systems of surfaces are drawn sufficiently close, the new\n surface may be drawn with any required degree of accuracy.\n The equipotential surfaces due to two points whose charges are\n equal and opposite are represented by the continuous lines on\n the right hand side of Fig. 6.\n\n\nThis method may be applied to the drawing of any system\n of equipotential surfaces when the potential is the sum of two\n potentials, for which we have already drawn the equipotential\n surfaces.\n\n\nThe lines of force due to a single centre of force are straight\n lines radiating from that centre. If we wish to indicate by these\n lines the intensity as well as the direction of the force at any\n point, we must draw them so that they mark out on the equi\npotential surfaces portions over which the surface-integral of\n induction has definite values. The best way of doing this is to\n suppose our plane figure to be the section of a figure in space\n formed by the revolution of the plane figure about an axis passing\n",
+    "structured_lines": [
+      {
+        "page": 218,
+        "line_number": 4,
+        "type": "text",
+        "content": "123.] These diagrams are constructed in the following manner:-",
+        "mathpix_content": "\n123.] These diagrams are constructed in the following manner:-",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 5,
+        "type": "text",
+        "content": "First, take the case of a single centre of force, a small electrified",
+        "mathpix_content": "\n\nFirst, take the case of a single centre of force, a small electrified",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 6,
+        "type": "text",
+        "content": "body with a charge $e$. The potential at a distance $r$ is $V=e / r$;",
+        "mathpix_content": " body with a charge $e$. The potential at a distance $r$ is $V=e / r$;",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 218,
+        "line_number": 7,
+        "type": "text",
+        "content": "hence, if we make $r=e / V$, we shall find $r$, the radius of the sphere",
+        "mathpix_content": " hence, if we make $r=e / V$, we shall find $r$, the radius of the sphere",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 8,
+        "type": "text",
+        "content": "for which the potential is $V$. If we now give to $V$ the values",
+        "mathpix_content": " for which the potential is $V$. If we now give to $V$ the values",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 9,
+        "type": "text",
+        "content": "$1,2,3, \\& \\mathrm{c}$., and draw the corresponding spheres, we shall obtain",
+        "mathpix_content": " $1,2,3, \\& \\mathrm{c}$., and draw the corresponding spheres, we shall obtain",
+        "font_size": 27,
+        "confidence": 0.8215631387496387
+      },
+      {
+        "page": 218,
+        "line_number": 10,
+        "type": "text",
+        "content": "a series of equipotential surfaces, the potentials corresponding to",
+        "mathpix_content": " a series of equipotential surfaces, the potentials corresponding to",
+        "font_size": 27,
+        "confidence": 0.93115234375
+      },
+      {
+        "page": 218,
+        "line_number": 11,
+        "type": "text",
+        "content": "which are measured by the natural numbers. The sections of",
+        "mathpix_content": " which are measured by the natural numbers. The sections of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 12,
+        "type": "text",
+        "content": "these spheres by a plane passing through their common centre",
+        "mathpix_content": " these spheres by a plane passing through their common centre",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 13,
+        "type": "text",
+        "content": "will be circles, cach of which we may mark with the number",
+        "mathpix_content": " will be circles, cach of which we may mark with the number",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 14,
+        "type": "text",
+        "content": "denoting its potential. These are indicated by the dotted semi-",
+        "mathpix_content": " denoting its potential. These are indicated by the dotted semi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 15,
+        "type": "text",
+        "content": "circles on the right hand of Fig. 6.",
+        "mathpix_content": "circles on the right hand of Fig. 6.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 16,
+        "type": "text",
+        "content": "If there be another centre of force, we may in the same way",
+        "mathpix_content": "\n\nIf there be another centre of force, we may in the same way",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 218,
+        "line_number": 17,
+        "type": "text",
+        "content": "draw the equipotential surfaces belonging to it, and if we now",
+        "mathpix_content": " draw the equipotential surfaces belonging to it, and if we now",
+        "font_size": 27,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 218,
+        "line_number": 18,
+        "type": "text",
+        "content": "wish to find the form of the equipotential surfaces due to both",
+        "mathpix_content": " wish to find the form of the equipotential surfaces due to both",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 19,
+        "type": "text",
+        "content": "centres together, we must remember that if $V_{1}$ be the potential due",
+        "mathpix_content": " centres together, we must remember that if $V_{1}$ be the potential due",
+        "font_size": 27,
+        "confidence": 0.8924469947814941
+      },
+      {
+        "page": 218,
+        "line_number": 20,
+        "type": "text",
+        "content": "to one centre, and $V_{2}$ that due to the other, the potential due to",
+        "mathpix_content": " to one centre, and $V_{2}$ that due to the other, the potential due to",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 218,
+        "line_number": 21,
+        "type": "text",
+        "content": "loth will be $V_{1}+V_{2}=V$. Hence, since at every intersection of",
+        "mathpix_content": " loth will be $V_{1}+V_{2}=V$. Hence, since at every intersection of",
+        "font_size": 27,
+        "confidence": 0.43399643898010254
+      },
+      {
+        "page": 218,
+        "line_number": 22,
+        "type": "text",
+        "content": "the equipotential surfaces belonging to the two series we know",
+        "mathpix_content": " the equipotential surfaces belonging to the two series we know",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 218,
+        "line_number": 23,
+        "type": "text",
+        "content": "both $V_{1}$ and $V_{2}$, we also know the value of $V$. If therefore we",
+        "mathpix_content": " both $V_{1}$ and $V_{2}$, we also know the value of $V$. If therefore we",
+        "font_size": 27,
+        "confidence": 0.95654296875
+      },
+      {
+        "page": 218,
+        "line_number": 24,
+        "type": "text",
+        "content": "draw a surface which passes through all those intersections for",
+        "mathpix_content": " draw a surface which passes through all those intersections for",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 218,
+        "line_number": 25,
+        "type": "text",
+        "content": "which the value of $V$ is the same, this surface will coincide with",
+        "mathpix_content": " which the value of $V$ is the same, this surface will coincide with",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 26,
+        "type": "text",
+        "content": "a true equipotential surface at all these intersections, and if the",
+        "mathpix_content": " a true equipotential surface at all these intersections, and if the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 27,
+        "type": "text",
+        "content": "original systems of surfaces are drawn sufficiently close, the new",
+        "mathpix_content": " original systems of surfaces are drawn sufficiently close, the new",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 28,
+        "type": "text",
+        "content": "surface may be drawn with any required degree of accuracy.",
+        "mathpix_content": " surface may be drawn with any required degree of accuracy.",
+        "font_size": 27,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 218,
+        "line_number": 29,
+        "type": "text",
+        "content": "The equipotential surfaces due to two points whose charges are",
+        "mathpix_content": " The equipotential surfaces due to two points whose charges are",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 30,
+        "type": "text",
+        "content": "equal and opposite are represented by the continuous lines on",
+        "mathpix_content": " equal and opposite are represented by the continuous lines on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 31,
+        "type": "text",
+        "content": "the right hand side of Fig. 6.",
+        "mathpix_content": " the right hand side of Fig. 6.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 32,
+        "type": "text",
+        "content": "This method may be applied to the drawing of any system",
+        "mathpix_content": "\n\nThis method may be applied to the drawing of any system",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 33,
+        "type": "text",
+        "content": "of equipotential surfaces when the potential is the sum of two",
+        "mathpix_content": " of equipotential surfaces when the potential is the sum of two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 34,
+        "type": "text",
+        "content": "potentials, for which we have already drawn the equipotential",
+        "mathpix_content": " potentials, for which we have already drawn the equipotential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 35,
+        "type": "text",
+        "content": "surfaces.",
+        "mathpix_content": " surfaces.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 36,
+        "type": "text",
+        "content": "The lines of force due to a single centre of force are straight",
+        "mathpix_content": "\n\nThe lines of force due to a single centre of force are straight",
+        "font_size": 27,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 218,
+        "line_number": 37,
+        "type": "text",
+        "content": "lines radiating from that centre. If we wish to indicate by these",
+        "mathpix_content": " lines radiating from that centre. If we wish to indicate by these",
+        "font_size": 27,
+        "confidence": 0.98974609375
+      },
+      {
+        "page": 218,
+        "line_number": 38,
+        "type": "text",
+        "content": "lines the intensity as well as the direction of the force at any",
+        "mathpix_content": " lines the intensity as well as the direction of the force at any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 39,
+        "type": "text",
+        "content": "point, we must draw them so that they mark out on the equi-",
+        "mathpix_content": " point, we must draw them so that they mark out on the equi",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 40,
+        "type": "text",
+        "content": "potential surfaces portions over which the surface-integral of",
+        "mathpix_content": "potential surfaces portions over which the surface-integral of",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 218,
+        "line_number": 41,
+        "type": "text",
+        "content": "induction has definite values. The best way of doing this is to",
+        "mathpix_content": " induction has definite values. The best way of doing this is to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 218,
+        "line_number": 42,
+        "type": "text",
+        "content": "suppose our plane figure to be the section of a figure in space",
+        "mathpix_content": " suppose our plane figure to be the section of a figure in space",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 218,
+        "line_number": 43,
+        "type": "text",
+        "content": "formed by the revolution of the plane figure about an axis passing",
+        "mathpix_content": " formed by the revolution of the plane figure about an axis passing",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{8 \\pi} \\iiint\\left[K_{x x} P^{2}+K_{y y} Q^{2}+K_{x x}\\right. R^{2}+2 K_{y x} Q R \\\\",
+  "title_safe": "8 pi iiintleftKx x P2plusKy y Q2plusKx xright. R2plus2 Ky x",
+  "page_start": 181,
+  "page_end": 180,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "chapter_id": "chapter_40",
+  "chapter_number": 4,
+  "title": "\\pi h=K_{x x} P+K_{x y} Q+K_{z z} R",
+  "page_start": 180,
+  "page_end": 180,
+  "articles": [
+    {
+      "article_id": "article_145",
+      "article_number": 145,
+      "title_original": "experiments conducted in air. We now know from the ex-",
+      "title_safe": "experiments conducted in air. We now know from the ex",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\mathfrak{D} & =\\mathfrak{G}, \\\\",
+      "title_safe": "pi mathfrakD and equalsmathfrakG",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=P, \\quad 4 \\pi g & =Q, \\quad 4 \\pi h=R .",
+      "title_safe": "pi fequalsP quad 4 pi g and equalsQ quad 4 pi hequalsR",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\mathfrak{D} & =K \\mathfrak{E}, \\\\",
+      "title_safe": "pi mathfrakD and equalsK mathfrakE",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=K P, & 4 \\pi g & =K Q, \\quad 4 \\pi h=K R .",
+      "title_safe": "pi fequalsK P and 4 pi g and equalsK Q quad 4 pi hequalsK R",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\mathfrak{D}=\\phi(\\mathscr{E}),$$",
+      "title_safe": "pi mathfrakDequalsphimathscrE",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=K_{x x} P+K_{x y} Q+K_{x z} R \\\\",
+      "title_safe": "pi fequalsKx x PplusKx y QplusKx z R",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi g=K_{y x} P+K_{y y} Q+K_{y z} R \\\\",
+      "title_safe": "pi gequalsKy x PplusKy y QplusKy z R",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi h=K_{x x} P+K_{x y} Q+K_{z z} R",
+      "title_safe": "pi hequalsKx x PplusKx y QplusKz z R",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\mathfrak{D} & =\\mathfrak{G}, \\\\",
+      "title_safe": "pi mathfrakD and equalsmathfrakG",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=P, \\quad 4 \\pi g & =Q, \\quad 4 \\pi h=R .",
+      "title_safe": "pi fequalsP quad 4 pi g and equalsQ quad 4 pi hequalsR",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\mathfrak{D} & =K \\mathfrak{E}, \\\\",
+      "title_safe": "pi mathfrakD and equalsK mathfrakE",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=K P, & 4 \\pi g & =K Q, \\quad 4 \\pi h=K R .",
+      "title_safe": "pi fequalsK P and 4 pi g and equalsK Q quad 4 pi hequalsK R",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_0",
+      "article_number": 0,
+      "title_original": ".$$",
+      "title_safe": "Article",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi \\mathfrak{D}=\\phi(\\mathscr{E}),$$",
+      "title_safe": "pi mathfrakDequalsphimathscrE",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi f=K_{x x} P+K_{x y} Q+K_{x z} R \\\\",
+      "title_safe": "pi fequalsKx x PplusKx y QplusKx z R",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi g=K_{y x} P+K_{y y} Q+K_{y z} R \\\\",
+      "title_safe": "pi gequalsKy x PplusKy y QplusKy z R",
+      "page_start": 180,
+      "page_end": 179,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi h=K_{x x} P+K_{x y} Q+K_{z z} R",
+      "title_safe": "pi hequalsKx x PplusKx y QplusKz z R",
+      "page_start": 180,
+      "page_end": 180,
+      "content": {
+        "raw_text": "\n--- Page 180 ---\nIOI E.]\nPROPERTIES OF A DIELECTRIC.\n145\nexperiments conducted in air. We now know from the ex-\nperiments of Boltzmann that the dielectric constant of air is\nsomewhat greater than that of a vacuum, and that it varies\nwith the density. Hence, strictly speaking, all measurements of\nelectric quantity require to be corrected to reduce them either\nto air of standard pressure and temperature, or, what would be\nmore scientific, to a vacuum, just as indices of refraction\nmeasured in air require a similar correction, the correction in\nboth cases being so small that it is sensible only in measure-\nments of extreme accuracy.\nIn the standard medium\n$$\\begin{aligned}\n4 \\pi \\mathfrak{D} & =\\mathfrak{G}, \\\\\n\\text { or } \\quad 4 \\pi f=P, \\quad 4 \\pi g & =Q, \\quad 4 \\pi h=R .\n\\end{aligned}$$\nIn an isotropic medium whose dielectric constant is $k$\n$$\\begin{array}{rlrl}\n4 \\pi \\mathfrak{D} & =K \\mathfrak{E}, \\\\\n4 \\pi f=K P, & 4 \\pi g & =K Q, \\quad 4 \\pi h=K R .\n\\end{array}$$\nThere are some media, however, of which glass has been the\nmost carefully investigated, in which the relation between and\n$\\mathcal{F}$ is more complicated, and involves the time variation of one\nor both of these quantities, so that the relation must be of the\nform\n$$F(\\mathfrak{D}, \\mathfrak{E}, \\dot{\\mathfrak{D}}, \\dot{\\mathfrak{C}}, \\ddot{\\mathfrak{D}}, \\ddot{\\mathfrak{E}}, \\& c .)=0 .$$\nWe shall not attempt to discuss relations of this more general\nkind at present, but shall confine ourselves to the case in which\n$\\mathfrak{D}$ is a linear and vector function of $\\mathscr{E}$.\nThe most general form of such a relation may be written\n$$4 \\pi \\mathfrak{D}=\\phi(\\mathscr{E}),$$\nwhere $\\phi$ during the present investigation always denotes a linear\nand vector function. The components of $\\mathfrak{D}$ are therefore homo-\ngeneous linear functions of those of $\\mathscr{E}$, and may be written in\nthe form\n$$\\begin{aligned}\n& 4 \\pi f=K_{x x} P+K_{x y} Q+K_{x z} R \\\\\n& 4 \\pi g=K_{y x} P+K_{y y} Q+K_{y z} R \\\\\n& 4 \\pi h=K_{x x} P+K_{x y} Q+K_{z z} R\n\\end{aligned}$$\nwhere the first suffix of each coefficient $K$ indicates the direction\nof the displacement, and the second that of the electromotive\nintensity.\nThe most general form of a linear and vector function involves\nVOL. I.\nL\n",
+        "mathpix_markdown": "\n--- Page 180 ---\n\nexperiments conducted in air. We now know from the ex\nperiments of Boltzmann that the dielectric constant of air is\n somewhat greater than that of a vacuum, and that it varies\n with the density. Hence, strictly speaking, all measurements of\n electric quantity require to be corrected to reduce them either\n to air of standard pressure and temperature, or, what would be\n more scientific, to a vacuum, just as indices of refraction\n measured in air require a similar correction, the correction in\n both cases being so small that it is sensible only in measure\nments of extreme accuracy.\n\n\nIn the standard medium\n\n$$\\begin{aligned}\n4 \\pi \\mathfrak{D} & =\\mathfrak{G}, \\\\\n\\text { or } \\quad 4 \\pi f=P, \\quad 4 \\pi g & =Q, \\quad 4 \\pi h=R .\n\\end{aligned}$$\n\n\nIn an isotropic medium whose dielectric constant is $k$\n\n$$\\begin{array}{rlrl}\n4 \\pi \\mathfrak{D} & =K \\mathfrak{E}, \\\\\n4 \\pi f=K P, & 4 \\pi g & =K Q, \\quad 4 \\pi h=K R .\n\\end{array}$$\n\n\nThere are some media, however, of which glass has been the\n most carefully investigated, in which the relation between and\n $\\mathcal{F}$ is more complicated, and involves the time variation of one\n or both of these quantities, so that the relation must be of the\n form\n\n$$F(\\mathfrak{D}, \\mathfrak{E}, \\dot{\\mathfrak{D}}, \\dot{\\mathfrak{C}}, \\ddot{\\mathfrak{D}}, \\ddot{\\mathfrak{E}}, \\& c .)=0 .$$\n\n\nWe shall not attempt to discuss relations of this more general\n kind at present, but shall confine ourselves to the case in which\n $\\mathfrak{D}$ is a linear and vector function of $\\mathscr{E}$.\n\n\nThe most general form of such a relation may be written\n\n$$4 \\pi \\mathfrak{D}=\\phi(\\mathscr{E}),$$\n\nwhere $\\phi$ during the present investigation always denotes a linear\n and vector function. The components of $\\mathfrak{D}$ are therefore homo\ngeneous linear functions of those of $\\mathscr{E}$, and may be written in\n the form\n\n$$\\begin{aligned}\n& 4 \\pi f=K_{x x} P+K_{x y} Q+K_{x z} R \\\\\n& 4 \\pi g=K_{y x} P+K_{y y} Q+K_{y z} R \\\\\n& 4 \\pi h=K_{x x} P+K_{x y} Q+K_{z z} R\n\\end{aligned}$$\n\nwhere the first suffix of each coefficient $K$ indicates the direction\n of the displacement, and the second that of the electromotive\n intensity.\n\n\nThe most general form of a linear and vector function involves\n VOL. I.\n",
+        "structured_lines": [
+          {
+            "page": 180,
+            "line_number": 4,
+            "type": "text",
+            "content": "experiments conducted in air. We now know from the ex-",
+            "mathpix_content": "\nexperiments conducted in air. We now know from the ex",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 5,
+            "type": "text",
+            "content": "periments of Boltzmann that the dielectric constant of air is",
+            "mathpix_content": "periments of Boltzmann that the dielectric constant of air is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 6,
+            "type": "text",
+            "content": "somewhat greater than that of a vacuum, and that it varies",
+            "mathpix_content": " somewhat greater than that of a vacuum, and that it varies",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 7,
+            "type": "text",
+            "content": "with the density. Hence, strictly speaking, all measurements of",
+            "mathpix_content": " with the density. Hence, strictly speaking, all measurements of",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 8,
+            "type": "text",
+            "content": "electric quantity require to be corrected to reduce them either",
+            "mathpix_content": " electric quantity require to be corrected to reduce them either",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 9,
+            "type": "text",
+            "content": "to air of standard pressure and temperature, or, what would be",
+            "mathpix_content": " to air of standard pressure and temperature, or, what would be",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 10,
+            "type": "text",
+            "content": "more scientific, to a vacuum, just as indices of refraction",
+            "mathpix_content": " more scientific, to a vacuum, just as indices of refraction",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 11,
+            "type": "text",
+            "content": "measured in air require a similar correction, the correction in",
+            "mathpix_content": " measured in air require a similar correction, the correction in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 12,
+            "type": "text",
+            "content": "both cases being so small that it is sensible only in measure-",
+            "mathpix_content": " both cases being so small that it is sensible only in measure",
+            "font_size": 27,
+            "confidence": 0.9771251678466797
+          },
+          {
+            "page": 180,
+            "line_number": 13,
+            "type": "text",
+            "content": "ments of extreme accuracy.",
+            "mathpix_content": "ments of extreme accuracy.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 14,
+            "type": "text",
+            "content": "In the standard medium",
+            "mathpix_content": "\n\nIn the standard medium",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 18,
+            "type": "text",
+            "content": "In an isotropic medium whose dielectric constant is $k$",
+            "mathpix_content": "\n\nIn an isotropic medium whose dielectric constant is $k$",
+            "font_size": 27,
+            "confidence": 0.82568359375
+          },
+          {
+            "page": 180,
+            "line_number": 22,
+            "type": "text",
+            "content": "There are some media, however, of which glass has been the",
+            "mathpix_content": "\n\nThere are some media, however, of which glass has been the",
+            "font_size": 27,
+            "confidence": 0.9892790238372982
+          },
+          {
+            "page": 180,
+            "line_number": 23,
+            "type": "text",
+            "content": "most carefully investigated, in which the relation between and",
+            "mathpix_content": " most carefully investigated, in which the relation between and",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 180,
+            "line_number": 24,
+            "type": "text",
+            "content": "$\\mathcal{F}$ is more complicated, and involves the time variation of one",
+            "mathpix_content": " $\\mathcal{F}$ is more complicated, and involves the time variation of one",
+            "font_size": 27,
+            "confidence": 0.5362710952758789
+          },
+          {
+            "page": 180,
+            "line_number": 25,
+            "type": "text",
+            "content": "or both of these quantities, so that the relation must be of the",
+            "mathpix_content": " or both of these quantities, so that the relation must be of the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 26,
+            "type": "text",
+            "content": "form",
+            "mathpix_content": " form",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 29,
+            "type": "text",
+            "content": "We shall not attempt to discuss relations of this more general",
+            "mathpix_content": "\n\nWe shall not attempt to discuss relations of this more general",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 30,
+            "type": "text",
+            "content": "kind at present, but shall confine ourselves to the case in which",
+            "mathpix_content": " kind at present, but shall confine ourselves to the case in which",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 31,
+            "type": "text",
+            "content": "$\\mathfrak{D}$ is a linear and vector function of $\\mathscr{E}$.",
+            "mathpix_content": " $\\mathfrak{D}$ is a linear and vector function of $\\mathscr{E}$.",
+            "font_size": 27,
+            "confidence": 0.71337890625
+          },
+          {
+            "page": 180,
+            "line_number": 32,
+            "type": "text",
+            "content": "The most general form of such a relation may be written",
+            "mathpix_content": "\n\nThe most general form of such a relation may be written",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 35,
+            "type": "text",
+            "content": "where $\\phi$ during the present investigation always denotes a linear",
+            "mathpix_content": "\nwhere $\\phi$ during the present investigation always denotes a linear",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 36,
+            "type": "text",
+            "content": "and vector function. The components of $\\mathfrak{D}$ are therefore homo-",
+            "mathpix_content": " and vector function. The components of $\\mathfrak{D}$ are therefore homo",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 37,
+            "type": "text",
+            "content": "geneous linear functions of those of $\\mathscr{E}$, and may be written in",
+            "mathpix_content": "geneous linear functions of those of $\\mathscr{E}$, and may be written in",
+            "font_size": 27,
+            "confidence": 0.7034371315967292
+          },
+          {
+            "page": 180,
+            "line_number": 38,
+            "type": "text",
+            "content": "the form",
+            "mathpix_content": " the form",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 43,
+            "type": "text",
+            "content": "where the first suffix of each coefficient $K$ indicates the direction",
+            "mathpix_content": "\nwhere the first suffix of each coefficient $K$ indicates the direction",
+            "font_size": 27,
+            "confidence": 0.9970703125
+          },
+          {
+            "page": 180,
+            "line_number": 44,
+            "type": "text",
+            "content": "of the displacement, and the second that of the electromotive",
+            "mathpix_content": " of the displacement, and the second that of the electromotive",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 45,
+            "type": "text",
+            "content": "intensity.",
+            "mathpix_content": " intensity.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 46,
+            "type": "text",
+            "content": "The most general form of a linear and vector function involves",
+            "mathpix_content": "\n\nThe most general form of a linear and vector function involves",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 180,
+            "line_number": 47,
+            "type": "text",
+            "content": "VOL. I.",
+            "mathpix_content": " VOL. I.",
+            "font_size": 21,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

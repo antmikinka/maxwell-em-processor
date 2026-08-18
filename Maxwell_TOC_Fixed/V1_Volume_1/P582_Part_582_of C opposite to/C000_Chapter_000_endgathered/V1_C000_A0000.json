@@ -1,0 +1,282 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": "\\end{gathered}$$",
+  "title_safe": "endgathered",
+  "page_start": 372,
+  "page_end": 372,
+  "content": {
+    "raw_text": "\n--- Page 372 ---\n219.]\nGAUGE ELECTROMETER.\n337\nWe may apply to this electrometer the general theory of\nsystems of conductors given in Arts. 93, 127.\nLet $A, B, C$ denote the potentials of the three conductors re-\nspectively. Let $a, b, c$ be their respective capacities, $p$ the co-\nefficient of induction between $B$ and $C, q$ that between $C$ and $A$,\nand $r$ that between $A$ and $B$. All these coefficients will in\ngeneral vary with the position of $C$, and if $C$ is so arranged that\nthe extremities of $A$ and $B$ are not near those of $C$ as long as\nthe motion of $C$ is confined within certain limits, we may\nascertain the form of these coefficients. If $\\theta$ represents the de-\nflexion of $C$ from $A$ towards $B$, then the part of the surface of $A$\nopposed to $C$ will diminish as $\\theta$ increases. Hence if $A$ is kept\nat potential 1 while $B$ and $C$ are kept at potential 0 , the charge\non $A$ will be $\\alpha=a_{0}-a \\theta$, where $a_{0}$ and $a$ are constants, and $\\alpha$ is\nthe capacity of $A$.\nIf $A$ and $B$ are symmetrical, the capacity of $B$ is $b=b_{0}+a \\theta$.\nThe capacity of $C$ is not altered by the motion, for the only\neffect of the motion is to bring a different part of $C$ opposite to\nthe interval between $A$ and $B$. Hence $c=r_{0}$.\nThe quantity of electricity induced on $C$ when $B$ is raised to\npotential unity is $p=p_{0}-\\boldsymbol{a} \\theta$.\nThe coefficient of induction between $A$ and $C$ is $q=q_{0}+\\alpha \\theta$.\nThe coefficient of induction between $A$ and $B$ is not altered\nby the motion of $C$, but remains $r=r_{0}$.\nHence the electrical energy of the system is\n$$W=\\frac{1}{2} A^{2} a+\\frac{1}{2} B^{2} b+\\frac{1}{2} C^{2} c+B C p+C A q+A B r$$\nand if $\\Theta$ is the moment of the force tending to increase $\\theta$,\n$$\\begin{aligned}\n\\Theta & =\\frac{d W}{d \\theta}, A, B, C \\text { being supposed constant, } \\\\\n& =\\frac{1}{2} A^{2} \\frac{d a}{d \\theta}+\\frac{1}{2} B^{2} \\frac{d b}{d \\theta}+\\frac{1}{2} C^{2} \\frac{d c}{d \\theta}+B C \\frac{d p}{d \\theta}+C A \\frac{d q}{d \\theta}+A B \\frac{d r}{d \\theta}, \\\\\n& =-\\frac{1}{2} A^{2} a+\\frac{1}{2} B^{2} a-B C a+C A a ; \\\\\n& \\quad \\text { or } \\quad \\Theta=a(A-B)\\left\\{C-\\frac{1}{2}(A+B)\\right\\}^{*} .\n\\end{aligned}$$\n\n* This can also be deduced as follows: If the needle is symmetrically placed\nwithin the quadrants there will be no couple when $A=B$. Since $d W / d \\theta$ vanishes\nin this case for all possible values of $C$, we must have\n$$\\begin{gathered}\n\\frac{d a}{d \\theta}+\\frac{1}{2} \\frac{d b}{d \\theta}+\\frac{d r}{d \\theta}=0 \\\\\n\\frac{d p}{d \\theta}+\\frac{d q}{d \\theta}=0 \\\\\n\\frac{d c}{d \\theta}=0\n\\end{gathered}$$\nVOL. I.\nZ\n",
+    "mathpix_markdown": "\n--- Page 372 ---\n\n\nWe may apply to this electrometer the general theory of\n systems of conductors given in Arts. 93, 127.\n\n\nLet $A, B, C$ denote the potentials of the three conductors re\nspectively. Let $a, b, c$ be their respective capacities, $p$ the co\nefficient of induction between $B$ and $C, q$ that between $C$ and $A$,\n and $r$ that between $A$ and $B$. All these coefficients will in\n general vary with the position of $C$, and if $C$ is so arranged that\n the extremities of $A$ and $B$ are not near those of $C$ as long as\n the motion of $C$ is confined within certain limits, we may\n ascertain the form of these coefficients. If $\\theta$ represents the de\nflexion of $C$ from $A$ towards $B$, then the part of the surface of $A$\n opposed to $C$ will diminish as $\\theta$ increases. Hence if $A$ is kept\n at potential 1 while $B$ and $C$ are kept at potential 0 , the charge\n on $A$ will be $\\alpha=a_{0}-a \\theta$, where $a_{0}$ and $a$ are constants, and $\\alpha$ is\n the capacity of $A$.\n\n\nIf $A$ and $B$ are symmetrical, the capacity of $B$ is $b=b_{0}+a \\theta$.\n\nThe capacity of $C$ is not altered by the motion, for the only\n effect of the motion is to bring a different part of $C$ opposite to\n the interval between $A$ and $B$. Hence $c=r_{0}$.\n\n\nThe quantity of electricity induced on $C$ when $B$ is raised to\n potential unity is $p=p_{0}-\\boldsymbol{a} \\theta$.\n\n\nThe coefficient of induction between $A$ and $C$ is $q=q_{0}+\\alpha \\theta$.\n\nThe coefficient of induction between $A$ and $B$ is not altered\n by the motion of $C$, but remains $r=r_{0}$.\n\n\nHence the electrical energy of the system is\n\n$$W=\\frac{1}{2} A^{2} a+\\frac{1}{2} B^{2} b+\\frac{1}{2} C^{2} c+B C p+C A q+A B r$$\n\nand if $\\Theta$ is the moment of the force tending to increase $\\theta$,\n\n$$\\begin{aligned}\n\\Theta & =\\frac{d W}{d \\theta}, A, B, C \\text { being supposed constant, } \\\\\n& =\\frac{1}{2} A^{2} \\frac{d a}{d \\theta}+\\frac{1}{2} B^{2} \\frac{d b}{d \\theta}+\\frac{1}{2} C^{2} \\frac{d c}{d \\theta}+B C \\frac{d p}{d \\theta}+C A \\frac{d q}{d \\theta}+A B \\frac{d r}{d \\theta}, \\\\\n& =-\\frac{1}{2} A^{2} a+\\frac{1}{2} B^{2} a-B C a+C A a ; \\\\\n& \\quad \\text { or } \\quad \\Theta=a(A-B)\\left\\{C-\\frac{1}{2}(A+B)\\right\\}^{*} .\n\\end{aligned}$$\n\n\n\\footnotetext{\n* This can also be deduced as follows: If the needle is symmetrically placed\n within the quadrants there will be no couple when $A=B$. Since $d W / d \\theta$ vanishes\n in this case for all possible values of $C$, we must have\n}\n\n$$\\begin{gathered}\n\\frac{d a}{d \\theta}+\\frac{1}{2} \\frac{d b}{d \\theta}+\\frac{d r}{d \\theta}=0 \\\\\n\\frac{d p}{d \\theta}+\\frac{d q}{d \\theta}=0 \\\\\n\\frac{d c}{d \\theta}=0\n\\end{gathered}$$\n",
+    "structured_lines": [
+      {
+        "page": 372,
+        "line_number": 4,
+        "type": "text",
+        "content": "We may apply to this electrometer the general theory of",
+        "mathpix_content": "\n\nWe may apply to this electrometer the general theory of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 5,
+        "type": "text",
+        "content": "systems of conductors given in Arts. 93, 127.",
+        "mathpix_content": " systems of conductors given in Arts. 93, 127.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 6,
+        "type": "text",
+        "content": "Let $A, B, C$ denote the potentials of the three conductors re-",
+        "mathpix_content": "\n\nLet $A, B, C$ denote the potentials of the three conductors re",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 7,
+        "type": "text",
+        "content": "spectively. Let $a, b, c$ be their respective capacities, $p$ the co-",
+        "mathpix_content": "spectively. Let $a, b, c$ be their respective capacities, $p$ the co",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 372,
+        "line_number": 8,
+        "type": "text",
+        "content": "efficient of induction between $B$ and $C, q$ that between $C$ and $A$,",
+        "mathpix_content": "efficient of induction between $B$ and $C, q$ that between $C$ and $A$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 9,
+        "type": "text",
+        "content": "and $r$ that between $A$ and $B$. All these coefficients will in",
+        "mathpix_content": " and $r$ that between $A$ and $B$. All these coefficients will in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 10,
+        "type": "text",
+        "content": "general vary with the position of $C$, and if $C$ is so arranged that",
+        "mathpix_content": " general vary with the position of $C$, and if $C$ is so arranged that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 11,
+        "type": "text",
+        "content": "the extremities of $A$ and $B$ are not near those of $C$ as long as",
+        "mathpix_content": " the extremities of $A$ and $B$ are not near those of $C$ as long as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 12,
+        "type": "text",
+        "content": "the motion of $C$ is confined within certain limits, we may",
+        "mathpix_content": " the motion of $C$ is confined within certain limits, we may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 13,
+        "type": "text",
+        "content": "ascertain the form of these coefficients. If $\\theta$ represents the de-",
+        "mathpix_content": " ascertain the form of these coefficients. If $\\theta$ represents the de",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 14,
+        "type": "text",
+        "content": "flexion of $C$ from $A$ towards $B$, then the part of the surface of $A$",
+        "mathpix_content": "flexion of $C$ from $A$ towards $B$, then the part of the surface of $A$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 15,
+        "type": "text",
+        "content": "opposed to $C$ will diminish as $\\theta$ increases. Hence if $A$ is kept",
+        "mathpix_content": " opposed to $C$ will diminish as $\\theta$ increases. Hence if $A$ is kept",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 16,
+        "type": "text",
+        "content": "at potential 1 while $B$ and $C$ are kept at potential 0 , the charge",
+        "mathpix_content": " at potential 1 while $B$ and $C$ are kept at potential 0 , the charge",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 372,
+        "line_number": 17,
+        "type": "text",
+        "content": "on $A$ will be $\\alpha=a_{0}-a \\theta$, where $a_{0}$ and $a$ are constants, and $\\alpha$ is",
+        "mathpix_content": " on $A$ will be $\\alpha=a_{0}-a \\theta$, where $a_{0}$ and $a$ are constants, and $\\alpha$ is",
+        "font_size": 27,
+        "confidence": 0.794269028522649
+      },
+      {
+        "page": 372,
+        "line_number": 18,
+        "type": "text",
+        "content": "the capacity of $A$.",
+        "mathpix_content": " the capacity of $A$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 19,
+        "type": "text",
+        "content": "If $A$ and $B$ are symmetrical, the capacity of $B$ is $b=b_{0}+a \\theta$.",
+        "mathpix_content": "\n\nIf $A$ and $B$ are symmetrical, the capacity of $B$ is $b=b_{0}+a \\theta$.",
+        "font_size": 27,
+        "confidence": 0.88720703125
+      },
+      {
+        "page": 372,
+        "line_number": 20,
+        "type": "text",
+        "content": "The capacity of $C$ is not altered by the motion, for the only",
+        "mathpix_content": "\nThe capacity of $C$ is not altered by the motion, for the only",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 21,
+        "type": "text",
+        "content": "effect of the motion is to bring a different part of $C$ opposite to",
+        "mathpix_content": " effect of the motion is to bring a different part of $C$ opposite to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 22,
+        "type": "text",
+        "content": "the interval between $A$ and $B$. Hence $c=r_{0}$.",
+        "mathpix_content": " the interval between $A$ and $B$. Hence $c=r_{0}$.",
+        "font_size": 27,
+        "confidence": 0.8731701073702425
+      },
+      {
+        "page": 372,
+        "line_number": 23,
+        "type": "text",
+        "content": "The quantity of electricity induced on $C$ when $B$ is raised to",
+        "mathpix_content": "\n\nThe quantity of electricity induced on $C$ when $B$ is raised to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 24,
+        "type": "text",
+        "content": "potential unity is $p=p_{0}-\\boldsymbol{a} \\theta$.",
+        "mathpix_content": " potential unity is $p=p_{0}-\\boldsymbol{a} \\theta$.",
+        "font_size": 27,
+        "confidence": 0.7619214057922363
+      },
+      {
+        "page": 372,
+        "line_number": 25,
+        "type": "text",
+        "content": "The coefficient of induction between $A$ and $C$ is $q=q_{0}+\\alpha \\theta$.",
+        "mathpix_content": "\n\nThe coefficient of induction between $A$ and $C$ is $q=q_{0}+\\alpha \\theta$.",
+        "font_size": 27,
+        "confidence": 0.77197265625
+      },
+      {
+        "page": 372,
+        "line_number": 26,
+        "type": "text",
+        "content": "The coefficient of induction between $A$ and $B$ is not altered",
+        "mathpix_content": "\nThe coefficient of induction between $A$ and $B$ is not altered",
+        "font_size": 27,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 372,
+        "line_number": 27,
+        "type": "text",
+        "content": "by the motion of $C$, but remains $r=r_{0}$.",
+        "mathpix_content": " by the motion of $C$, but remains $r=r_{0}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 28,
+        "type": "text",
+        "content": "Hence the electrical energy of the system is",
+        "mathpix_content": "\n\nHence the electrical energy of the system is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 31,
+        "type": "text",
+        "content": "and if $\\Theta$ is the moment of the force tending to increase $\\theta$,",
+        "mathpix_content": "\nand if $\\Theta$ is the moment of the force tending to increase $\\theta$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 372,
+        "line_number": 38,
+        "type": "text",
+        "content": "* This can also be deduced as follows: If the needle is symmetrically placed",
+        "mathpix_content": "\n\n\\footnotetext{\n* This can also be deduced as follows: If the needle is symmetrically placed",
+        "font_size": 21,
+        "confidence": 0.5795932800974697
+      },
+      {
+        "page": 372,
+        "line_number": 39,
+        "type": "text",
+        "content": "within the quadrants there will be no couple when $A=B$. Since $d W / d \\theta$ vanishes",
+        "mathpix_content": " within the quadrants there will be no couple when $A=B$. Since $d W / d \\theta$ vanishes",
+        "font_size": 21,
+        "confidence": 0.7939453125
+      },
+      {
+        "page": 372,
+        "line_number": 40,
+        "type": "text",
+        "content": "in this case for all possible values of $C$, we must have",
+        "mathpix_content": " in this case for all possible values of $C$, we must have\n}",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

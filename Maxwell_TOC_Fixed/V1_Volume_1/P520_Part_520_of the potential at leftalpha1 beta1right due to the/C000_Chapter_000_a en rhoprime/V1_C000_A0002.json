@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "\\pi} \\frac{1-e^{2\\left(a_{1}-a_{0}\\right)}}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{2\\left(\\alpha_{1}-\\alpha_{0}\\right)}} d \\beta \\tag{15}",
+  "title_safe": "pi frac1-e2lefta1-a0right1-2 eleftalpha1-alpha0right cos lef",
+  "page_start": 329,
+  "page_end": 328,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

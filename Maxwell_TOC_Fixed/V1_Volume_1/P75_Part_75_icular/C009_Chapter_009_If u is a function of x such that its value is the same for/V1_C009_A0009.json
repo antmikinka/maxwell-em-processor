@@ -1,0 +1,300 @@
+{
+  "article_id": "article_9",
+  "article_number": 9,
+  "title_original": ".] If $u$ is a function of $x$ such that its value is the same for",
+  "title_safe": "If u is a function of x such that its value is the same fo",
+  "page_start": 43,
+  "page_end": 43,
+  "content": {
+    "raw_text": "\n--- Page 43 ---\n8\nPRELIMINARY.\n[9.\nnegative it will have the form $F_{1}(x, y, z, \\& \\mathrm{c}$.$) . There need be no$\nnecessary relation between the forms $F_{1}$ and $F_{2}$.\nTo express this discontinuity in a mathematical form, let one\nof the variables, say $x$, be expressed as a function of $\\phi$ and the\nother variables, and let $F_{1}$ and $F_{2}$ be expressed as functions of\n$\\phi, y, z$, \\&c. We may now express the general form of the function\nby any formula which is sensibly equal to $F_{2}$ when $\\phi$ is positive,\nand to $F_{1}$ when $\\phi$ is negative. Such a formula is the following-\n$$F=\\frac{F_{1}+e^{n \\phi} F_{2}}{1+e^{n \\phi}} .$$\nAs long as $n$ is a finite quantity, however great, $F$ will be a\ncontinuous function, but if we make $n$ infinite $F$ will be equal to\n$F_{2}$ when $\\phi$ is positive, and equal to $F_{1}$ when $\\phi$ is negative.\n\nDiscontinuity of the Derivatives of a Continuous Function.\nThe first derivatives of a continuous function may be discon-\ntimuous. I.et the values of the variables for which the discon-\ntinuity of the derivatives occurs be connected by the equation\n$$\\phi=\\phi(x, y, z \\ldots)=0,$$\nand let $F_{1}$ and $F_{2}$ be expressed in terms of $\\phi$ and $n-1$ other\nvariables, say ( $y, z \\ldots$ ).\nThen, when $\\phi$ is negative, $F_{1}$ is to be taken, and when $\\phi$.is\npositive $F_{2}$ is to be taken, and, since $F$ is itself continuous, when\n$\\phi$ is zero, $F_{1}=F_{2}$.\nHence, when $\\phi$ is zero, the derivatives $\\frac{d F_{1}}{d \\phi}$ and $\\frac{d F_{2}}{d \\phi}$ may be\ndifferent, but the derivatives with respect to any of the other\nvariables, such as $\\frac{d F_{1}}{d y}$ and $\\frac{d F_{2}}{d y}$, must be the same. The discon-\ntinuity is therefore confined to the derivative with respect to $\\phi$,\nall the other derivatives being continuous.\n\nPeriodic and Multiple Functions.\n9.] If $u$ is a function of $x$ such that its value is the same for\n$x, x+a, x+n a$, and all values of $x$ differing by $a, u$ is called a\nperiodic function of $x$, and $a$ is called its period.\nIf $x$ is considered as a function of $u$, then, for a given value of\n$u$, there must be an infinite series of values of $x$ differing by\n",
+    "mathpix_markdown": "\n--- Page 43 ---\n\nnegative it will have the form $F_{1}(x, y, z, \\& \\mathrm{c}$.$) . There need be no$\n necessary relation between the forms $F_{1}$ and $F_{2}$.\n\n\nTo express this discontinuity in a mathematical form, let one\n of the variables, say $x$, be expressed as a function of $\\phi$ and the\n other variables, and let $F_{1}$ and $F_{2}$ be expressed as functions of\n $\\phi, y, z$, \\&c. We may now express the general form of the function\n by any formula which is sensibly equal to $F_{2}$ when $\\phi$ is positive,\n and to $F_{1}$ when $\\phi$ is negative. Such a formula is the following-\n\n$$F=\\frac{F_{1}+e^{n \\phi} F_{2}}{1+e^{n \\phi}} .$$\n\n\nAs long as $n$ is a finite quantity, however great, $F$ will be a\n continuous function, but if we make $n$ infinite $F$ will be equal to\n $F_{2}$ when $\\phi$ is positive, and equal to $F_{1}$ when $\\phi$ is negative.\n\n\n\\section*{Discontinuity of the Derivatives of a Continuous Function.}\n\n\nThe first derivatives of a continuous function may be discon\ntimuous. I.et the values of the variables for which the discon\ntinuity of the derivatives occurs be connected by the equation\n\n$$\\phi=\\phi(x, y, z \\ldots)=0,$$\n\nand let $F_{1}$ and $F_{2}$ be expressed in terms of $\\phi$ and $n-1$ other\n variables, say ( $y, z \\ldots$ ).\n\n\nThen, when $\\phi$ is negative, $F_{1}$ is to be taken, and when $\\phi$.is\n positive $F_{2}$ is to be taken, and, since $F$ is itself continuous, when\n $\\phi$ is zero, $F_{1}=F_{2}$.\n\n\nHence, when $\\phi$ is zero, the derivatives $\\frac{d F_{1}}{d \\phi}$ and $\\frac{d F_{2}}{d \\phi}$ may be\n different, but the derivatives with respect to any of the other\n variables, such as $\\frac{d F_{1}}{d y}$ and $\\frac{d F_{2}}{d y}$, must be the same. The discon\ntinuity is therefore confined to the derivative with respect to $\\phi$,\n all the other derivatives being continuous.\n\n\n\\section*{Periodic and Multiple Functions.}\n\n9.] If $u$ is a function of $x$ such that its value is the same for\n $x, x+a, x+n a$, and all values of $x$ differing by $a, u$ is called a\n periodic function of $x$, and $a$ is called its period.\n\n\nIf $x$ is considered as a function of $u$, then, for a given value of\n $u$, there must be an infinite series of values of $x$ differing by\n",
+    "structured_lines": [
+      {
+        "page": 43,
+        "line_number": 4,
+        "type": "text",
+        "content": "negative it will have the form $F_{1}(x, y, z, \\& \\mathrm{c}$.$) . There need be no$",
+        "mathpix_content": "\nnegative it will have the form $F_{1}(x, y, z, \\& \\mathrm{c}$.$) . There need be no$",
+        "font_size": 27,
+        "confidence": 0.5565383959850001
+      },
+      {
+        "page": 43,
+        "line_number": 5,
+        "type": "text",
+        "content": "necessary relation between the forms $F_{1}$ and $F_{2}$.",
+        "mathpix_content": " necessary relation between the forms $F_{1}$ and $F_{2}$.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 43,
+        "line_number": 6,
+        "type": "text",
+        "content": "To express this discontinuity in a mathematical form, let one",
+        "mathpix_content": "\n\nTo express this discontinuity in a mathematical form, let one",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 7,
+        "type": "text",
+        "content": "of the variables, say $x$, be expressed as a function of $\\phi$ and the",
+        "mathpix_content": " of the variables, say $x$, be expressed as a function of $\\phi$ and the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 8,
+        "type": "text",
+        "content": "other variables, and let $F_{1}$ and $F_{2}$ be expressed as functions of",
+        "mathpix_content": " other variables, and let $F_{1}$ and $F_{2}$ be expressed as functions of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 9,
+        "type": "text",
+        "content": "$\\phi, y, z$, \\&c. We may now express the general form of the function",
+        "mathpix_content": " $\\phi, y, z$, \\&c. We may now express the general form of the function",
+        "font_size": 27,
+        "confidence": 0.5915751128923148
+      },
+      {
+        "page": 43,
+        "line_number": 10,
+        "type": "text",
+        "content": "by any formula which is sensibly equal to $F_{2}$ when $\\phi$ is positive,",
+        "mathpix_content": " by any formula which is sensibly equal to $F_{2}$ when $\\phi$ is positive,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 11,
+        "type": "text",
+        "content": "and to $F_{1}$ when $\\phi$ is negative. Such a formula is the following-",
+        "mathpix_content": " and to $F_{1}$ when $\\phi$ is negative. Such a formula is the following-",
+        "font_size": 27,
+        "confidence": 0.97900390625
+      },
+      {
+        "page": 43,
+        "line_number": 14,
+        "type": "text",
+        "content": "As long as $n$ is a finite quantity, however great, $F$ will be a",
+        "mathpix_content": "\n\nAs long as $n$ is a finite quantity, however great, $F$ will be a",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 43,
+        "line_number": 15,
+        "type": "text",
+        "content": "continuous function, but if we make $n$ infinite $F$ will be equal to",
+        "mathpix_content": " continuous function, but if we make $n$ infinite $F$ will be equal to",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 16,
+        "type": "text",
+        "content": "$F_{2}$ when $\\phi$ is positive, and equal to $F_{1}$ when $\\phi$ is negative.",
+        "mathpix_content": " $F_{2}$ when $\\phi$ is positive, and equal to $F_{1}$ when $\\phi$ is negative.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 18,
+        "type": "text",
+        "content": "Discontinuity of the Derivatives of a Continuous Function.",
+        "mathpix_content": "\n\n\\section*{Discontinuity of the Derivatives of a Continuous Function.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 19,
+        "type": "text",
+        "content": "The first derivatives of a continuous function may be discon-",
+        "mathpix_content": "\n\nThe first derivatives of a continuous function may be discon",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 20,
+        "type": "text",
+        "content": "timuous. I.et the values of the variables for which the discon-",
+        "mathpix_content": "timuous. I.et the values of the variables for which the discon",
+        "font_size": 27,
+        "confidence": 0.7695252970106594
+      },
+      {
+        "page": 43,
+        "line_number": 21,
+        "type": "text",
+        "content": "tinuity of the derivatives occurs be connected by the equation",
+        "mathpix_content": "tinuity of the derivatives occurs be connected by the equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 24,
+        "type": "text",
+        "content": "and let $F_{1}$ and $F_{2}$ be expressed in terms of $\\phi$ and $n-1$ other",
+        "mathpix_content": "\nand let $F_{1}$ and $F_{2}$ be expressed in terms of $\\phi$ and $n-1$ other",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 43,
+        "line_number": 25,
+        "type": "text",
+        "content": "variables, say ( $y, z \\ldots$ ).",
+        "mathpix_content": " variables, say ( $y, z \\ldots$ ).",
+        "font_size": 27,
+        "confidence": 0.6886284351348877
+      },
+      {
+        "page": 43,
+        "line_number": 26,
+        "type": "text",
+        "content": "Then, when $\\phi$ is negative, $F_{1}$ is to be taken, and when $\\phi$.is",
+        "mathpix_content": "\n\nThen, when $\\phi$ is negative, $F_{1}$ is to be taken, and when $\\phi$.is",
+        "font_size": 27,
+        "confidence": 0.9762172698974609
+      },
+      {
+        "page": 43,
+        "line_number": 27,
+        "type": "text",
+        "content": "positive $F_{2}$ is to be taken, and, since $F$ is itself continuous, when",
+        "mathpix_content": " positive $F_{2}$ is to be taken, and, since $F$ is itself continuous, when",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 28,
+        "type": "text",
+        "content": "$\\phi$ is zero, $F_{1}=F_{2}$.",
+        "mathpix_content": " $\\phi$ is zero, $F_{1}=F_{2}$.",
+        "font_size": 27,
+        "confidence": 0.5513012409210205
+      },
+      {
+        "page": 43,
+        "line_number": 29,
+        "type": "text",
+        "content": "Hence, when $\\phi$ is zero, the derivatives $\\frac{d F_{1}}{d \\phi}$ and $\\frac{d F_{2}}{d \\phi}$ may be",
+        "mathpix_content": "\n\nHence, when $\\phi$ is zero, the derivatives $\\frac{d F_{1}}{d \\phi}$ and $\\frac{d F_{2}}{d \\phi}$ may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 30,
+        "type": "text",
+        "content": "different, but the derivatives with respect to any of the other",
+        "mathpix_content": " different, but the derivatives with respect to any of the other",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 31,
+        "type": "text",
+        "content": "variables, such as $\\frac{d F_{1}}{d y}$ and $\\frac{d F_{2}}{d y}$, must be the same. The discon-",
+        "mathpix_content": " variables, such as $\\frac{d F_{1}}{d y}$ and $\\frac{d F_{2}}{d y}$, must be the same. The discon",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 32,
+        "type": "text",
+        "content": "tinuity is therefore confined to the derivative with respect to $\\phi$,",
+        "mathpix_content": "tinuity is therefore confined to the derivative with respect to $\\phi$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 33,
+        "type": "text",
+        "content": "all the other derivatives being continuous.",
+        "mathpix_content": " all the other derivatives being continuous.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 35,
+        "type": "text",
+        "content": "Periodic and Multiple Functions.",
+        "mathpix_content": "\n\n\\section*{Periodic and Multiple Functions.}",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 36,
+        "type": "text",
+        "content": "9.] If $u$ is a function of $x$ such that its value is the same for",
+        "mathpix_content": "\n9.] If $u$ is a function of $x$ such that its value is the same for",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 37,
+        "type": "text",
+        "content": "$x, x+a, x+n a$, and all values of $x$ differing by $a, u$ is called a",
+        "mathpix_content": " $x, x+a, x+n a$, and all values of $x$ differing by $a, u$ is called a",
+        "font_size": 27,
+        "confidence": 0.9921941757202148
+      },
+      {
+        "page": 43,
+        "line_number": 38,
+        "type": "text",
+        "content": "periodic function of $x$, and $a$ is called its period.",
+        "mathpix_content": " periodic function of $x$, and $a$ is called its period.",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 43,
+        "line_number": 39,
+        "type": "text",
+        "content": "If $x$ is considered as a function of $u$, then, for a given value of",
+        "mathpix_content": "\n\nIf $x$ is considered as a function of $u$, then, for a given value of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 43,
+        "line_number": 40,
+        "type": "text",
+        "content": "$u$, there must be an infinite series of values of $x$ differing by",
+        "mathpix_content": " $u$, there must be an infinite series of values of $x$ differing by",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

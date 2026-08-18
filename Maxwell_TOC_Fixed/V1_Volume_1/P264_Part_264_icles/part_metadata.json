@@ -1,0 +1,5253 @@
+{
+  "part_id": "part_264",
+  "part_number": 264,
+  "title": "icles",
+  "page_start": 121,
+  "page_end": 125,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 86,
+      "title": "ELECTROSTATICS.",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 74,
+      "title": "e.",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 15,
+      "title": ") is always zero, we may",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 15,
+      "title": "),",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 2,
+      "title": "a)-a f(a+b)+a f(a-b)=0 .$$",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 0,
+      "title": "}, \\text { a constant } .$$",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 0,
+      "title": "} r+C_{1} ;$$",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": ")",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 0,
+      "title": "}+\\frac{C_{1}}{r}, \\\\",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 1,
+      "title": "}}{r^{2}} .",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 27,
+      "title": ", 28.\\}",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 2,
+      "title": ", p. 370. \\}",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 15,
+      "title": ") is always zero, we may",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 15,
+      "title": "),",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 2,
+      "title": "a)-a f(a+b)+a f(a-b)=0 .$$",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 0,
+      "title": "}, \\text { a constant } .$$",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 0,
+      "title": "} r+C_{1} ;$$",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": ")",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 0,
+      "title": "}+\\frac{C_{1}}{r}, \\\\",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 1,
+      "title": "}}{r^{2}} .",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 27,
+      "title": ", 28.\\}",
+      "page_start": 121,
+      "page_end": 120,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 2,
+      "title": ", p. 370. \\}",
+      "page_start": 121,
+      "page_end": 121,
+      "articles": [
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_370",
+          "article_number": 370,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_28",
+          "article_number": 28,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_370",
+          "article_number": 370,
+          "title_original": "\\}",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": "ELECTROSTATICS.",
+          "title_safe": "ELECTROSTATICS",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_74",
+          "article_number": 74,
+          "title_original": "e.",
+          "title_safe": "e",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_15",
+          "article_number": 15,
+          "title_original": ") is always zero, we may",
+          "title_safe": "is always zero we may",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_15",
+          "article_number": 15,
+          "title_original": "),",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a)-a f(a+b)+a f(a-b)=0 .$$",
+          "title_safe": "a-a faplusbplusa fa-bequals0",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}, \\text { a constant } .$$",
+          "title_safe": "text a constant",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} r+C_{1} ;$$",
+          "title_safe": "rplusC1",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}+\\frac{C_{1}}{r}, \\\\",
+          "title_safe": "plusfracC1r",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{r^{2}} .",
+          "title_safe": "r2",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_27",
+          "article_number": 27,
+          "title_original": ", 28.\\}",
+          "title_safe": "28",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ", p. 370. \\}",
+          "title_safe": "p. 370",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_15",
+          "article_number": 15,
+          "title_original": ") is always zero, we may",
+          "title_safe": "is always zero we may",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_15",
+          "article_number": 15,
+          "title_original": "),",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "a)-a f(a+b)+a f(a-b)=0 .$$",
+          "title_safe": "a-a faplusbplusa fa-bequals0",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}, \\text { a constant } .$$",
+          "title_safe": "text a constant",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} r+C_{1} ;$$",
+          "title_safe": "rplusC1",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}+\\frac{C_{1}}{r}, \\\\",
+          "title_safe": "plusfracC1r",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}{r^{2}} .",
+          "title_safe": "r2",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_27",
+          "article_number": 27,
+          "title_original": ", 28.\\}",
+          "title_safe": "28",
+          "page_start": 121,
+          "page_end": 120,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ", p. 370. \\}",
+          "title_safe": "p. 370",
+          "page_start": 121,
+          "page_end": 121,
+          "content": {
+            "raw_text": "\n--- Page 121 ---\n86\nELECTROSTATICS.\n[74 e.\nIf we suppose that $\\beta$ in equation (15) is always zero, we may\napply the method of Laplace to determine the form of $f(r)$. We\nhave by (15),\n$$b f(2 a)-a f(a+b)+a f(a-b)=0 .$$\nDifferentiating twice with respect to $b$, and dividing by $a$, we\nfind\n$$f^{\\prime \\prime}(a+b)=f^{\\prime \\prime}(a-b) .$$\nIf this equation is generally true\n$$f^{\\prime \\prime}(r)=C_{0}, \\text { a constant } .$$\nHence,\n$$f^{\\prime}(r)=C_{0} r+C_{1} ;$$\nand by (1)\n$$\\begin{aligned}\n\\int_{r}^{\\infty} \\phi(r) d r & =\\frac{f^{\\prime}(r)}{r}=C_{0}+\\frac{C_{1}}{r}, \\\\\n\\phi(r) & =\\frac{C_{1}}{r^{2}} .\n\\end{aligned}$$\nWe may observe, however, that though the assumption of\nCavendish, that the force varies as some power of the distance,\nmay appear less general than that of Laplace, who supposes it\nto be any function of the distance, it is the only one consistent\nwith the fact that similar surfaces can be electrified so as to\nhave similar electrical properties, so that the lines of force are\nsimilar\\}.\nFor if the force were any function of the distance except a\npower of the distance, the ratio of the forces at two different\ndistances would not be a function of the ratio of the distances,\nbut would depend on the absolute value of the distances, and\nwould therefore involve the ratios of these distances to an\nabsolutely fixed length.\nIndeed Cavendish himself points out * that on his own hypo-\nthesis as to the constitution of the electric fluid, it is impossible for\nthe distribution of electricity to be accurately similar in two con-\nductors geometrically similar, unless the charges are proportional\nto the volumes. For he supposes the particles of the electric\nfluid to be closely pressed together near the surface of the body,\nand this is equivalent to supposing that the law of repulsion is\nno longer the inverse square \u2020 , but that as soon as the particles\ncome very close together, their repulsion begins to increase at a\nmuch greater rate with any further diminution of their distance.\n* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}\n\u2020 \\{Idem, Note 2, p. 370. \\}\n",
+            "mathpix_markdown": "\n--- Page 121 ---\n\n\nIf we suppose that $\\beta$ in equation (15) is always zero, we may\n apply the method of Laplace to determine the form of $f(r)$. We\n have by (15),\n\n$$b f(2 a)-a f(a+b)+a f(a-b)=0 .$$\n\n\nDifferentiating twice with respect to $b$, and dividing by $a$, we\n find\n\n$$f^{\\prime \\prime}(a+b)=f^{\\prime \\prime}(a-b) .$$\n\n\nIf this equation is generally true\n\n$$f^{\\prime \\prime}(r)=C_{0}, \\text { a constant } .$$\n\n\nHence,\n\n$$f^{\\prime}(r)=C_{0} r+C_{1} ;$$\n\nand by (1)\n\n$$\\begin{aligned}\n\\int_{r}^{\\infty} \\phi(r) d r & =\\frac{f^{\\prime}(r)}{r}=C_{0}+\\frac{C_{1}}{r}, \\\\\n\\phi(r) & =\\frac{C_{1}}{r^{2}} .\n\\end{aligned}$$\n\n\nWe may observe, however, that though the assumption of\n Cavendish, that the force varies as some power of the distance,\n may appear less general than that of Laplace, who supposes it\n to be any function of the distance, it is the only one consistent\n with the fact that similar surfaces can be electrified so as to\n have similar electrical properties, so that the lines of force are\n similar\\}.\n\n\nFor if the force were any function of the distance except a\n power of the distance, the ratio of the forces at two different\n distances would not be a function of the ratio of the distances,\n but would depend on the absolute value of the distances, and\n would therefore involve the ratios of these distances to an\n absolutely fixed length.\n\n\nIndeed Cavendish himself points out * that on his own hypo\nthesis as to the constitution of the electric fluid, it is impossible for\n the distribution of electricity to be accurately similar in two con\nductors geometrically similar, unless the charges are proportional\n to the volumes. For he supposes the particles of the electric\n fluid to be closely pressed together near the surface of the body,\n and this is equivalent to supposing that the law of repulsion is\n no longer the inverse square \u2020 , but that as soon as the particles\n come very close together, their repulsion begins to increase at a\n much greater rate with any further diminution of their distance.\n\n* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}\n\n\u2020 \\{Idem, Note 2, p. 370. \\}\n",
+            "structured_lines": [
+              {
+                "page": 121,
+                "line_number": 4,
+                "type": "text",
+                "content": "If we suppose that $\\beta$ in equation (15) is always zero, we may",
+                "mathpix_content": "\n\nIf we suppose that $\\beta$ in equation (15) is always zero, we may",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 5,
+                "type": "text",
+                "content": "apply the method of Laplace to determine the form of $f(r)$. We",
+                "mathpix_content": " apply the method of Laplace to determine the form of $f(r)$. We",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 121,
+                "line_number": 6,
+                "type": "text",
+                "content": "have by (15),",
+                "mathpix_content": " have by (15),",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 9,
+                "type": "text",
+                "content": "Differentiating twice with respect to $b$, and dividing by $a$, we",
+                "mathpix_content": "\n\nDifferentiating twice with respect to $b$, and dividing by $a$, we",
+                "font_size": 27,
+                "confidence": 0.8028304576873779
+              },
+              {
+                "page": 121,
+                "line_number": 10,
+                "type": "text",
+                "content": "find",
+                "mathpix_content": " find",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 13,
+                "type": "text",
+                "content": "If this equation is generally true",
+                "mathpix_content": "\n\nIf this equation is generally true",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 16,
+                "type": "text",
+                "content": "Hence,",
+                "mathpix_content": "\n\nHence,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 121,
+                "line_number": 19,
+                "type": "text",
+                "content": "and by (1)",
+                "mathpix_content": "\nand by (1)",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 23,
+                "type": "text",
+                "content": "We may observe, however, that though the assumption of",
+                "mathpix_content": "\n\nWe may observe, however, that though the assumption of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 24,
+                "type": "text",
+                "content": "Cavendish, that the force varies as some power of the distance,",
+                "mathpix_content": " Cavendish, that the force varies as some power of the distance,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 25,
+                "type": "text",
+                "content": "may appear less general than that of Laplace, who supposes it",
+                "mathpix_content": " may appear less general than that of Laplace, who supposes it",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 26,
+                "type": "text",
+                "content": "to be any function of the distance, it is the only one consistent",
+                "mathpix_content": " to be any function of the distance, it is the only one consistent",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 27,
+                "type": "text",
+                "content": "with the fact that similar surfaces can be electrified so as to",
+                "mathpix_content": " with the fact that similar surfaces can be electrified so as to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 28,
+                "type": "text",
+                "content": "have similar electrical properties, so that the lines of force are",
+                "mathpix_content": " have similar electrical properties, so that the lines of force are",
+                "font_size": 27,
+                "confidence": 0.9653959274291992
+              },
+              {
+                "page": 121,
+                "line_number": 29,
+                "type": "text",
+                "content": "similar\\}.",
+                "mathpix_content": " similar\\}.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 30,
+                "type": "text",
+                "content": "For if the force were any function of the distance except a",
+                "mathpix_content": "\n\nFor if the force were any function of the distance except a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 31,
+                "type": "text",
+                "content": "power of the distance, the ratio of the forces at two different",
+                "mathpix_content": " power of the distance, the ratio of the forces at two different",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 32,
+                "type": "text",
+                "content": "distances would not be a function of the ratio of the distances,",
+                "mathpix_content": " distances would not be a function of the ratio of the distances,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 33,
+                "type": "text",
+                "content": "but would depend on the absolute value of the distances, and",
+                "mathpix_content": " but would depend on the absolute value of the distances, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 34,
+                "type": "text",
+                "content": "would therefore involve the ratios of these distances to an",
+                "mathpix_content": " would therefore involve the ratios of these distances to an",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 35,
+                "type": "text",
+                "content": "absolutely fixed length.",
+                "mathpix_content": " absolutely fixed length.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 36,
+                "type": "text",
+                "content": "Indeed Cavendish himself points out * that on his own hypo-",
+                "mathpix_content": "\n\nIndeed Cavendish himself points out * that on his own hypo",
+                "font_size": 27,
+                "confidence": 0.99560546875
+              },
+              {
+                "page": 121,
+                "line_number": 37,
+                "type": "text",
+                "content": "thesis as to the constitution of the electric fluid, it is impossible for",
+                "mathpix_content": "thesis as to the constitution of the electric fluid, it is impossible for",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 38,
+                "type": "text",
+                "content": "the distribution of electricity to be accurately similar in two con-",
+                "mathpix_content": " the distribution of electricity to be accurately similar in two con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 39,
+                "type": "text",
+                "content": "ductors geometrically similar, unless the charges are proportional",
+                "mathpix_content": "ductors geometrically similar, unless the charges are proportional",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 40,
+                "type": "text",
+                "content": "to the volumes. For he supposes the particles of the electric",
+                "mathpix_content": " to the volumes. For he supposes the particles of the electric",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 121,
+                "line_number": 41,
+                "type": "text",
+                "content": "fluid to be closely pressed together near the surface of the body,",
+                "mathpix_content": " fluid to be closely pressed together near the surface of the body,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 42,
+                "type": "text",
+                "content": "and this is equivalent to supposing that the law of repulsion is",
+                "mathpix_content": " and this is equivalent to supposing that the law of repulsion is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 43,
+                "type": "text",
+                "content": "no longer the inverse square \u2020 , but that as soon as the particles",
+                "mathpix_content": " no longer the inverse square \u2020 , but that as soon as the particles",
+                "font_size": 27,
+                "confidence": 0.9375302791595459
+              },
+              {
+                "page": 121,
+                "line_number": 44,
+                "type": "text",
+                "content": "come very close together, their repulsion begins to increase at a",
+                "mathpix_content": " come very close together, their repulsion begins to increase at a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 45,
+                "type": "text",
+                "content": "much greater rate with any further diminution of their distance.",
+                "mathpix_content": " much greater rate with any further diminution of their distance.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 121,
+                "line_number": 46,
+                "type": "text",
+                "content": "* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}",
+                "mathpix_content": "\n* \\{Electrical Researches of the Hon. H. Cavendish, pp. 27, 28.\\}",
+                "font_size": 21,
+                "confidence": 0.9648570857429672
+              },
+              {
+                "page": 121,
+                "line_number": 47,
+                "type": "text",
+                "content": "\u2020 \\{Idem, Note 2, p. 370. \\}",
+                "mathpix_content": "\n\u2020 \\{Idem, Note 2, p. 370. \\}",
+                "font_size": 21,
+                "confidence": 0.8654901412670739
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 76,
+      "title": "]",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 87,
+      "title": "Surface-Integral of Electric Induction, and Electric",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 75,
+      "title": "] Let $R$ be the resultant intensity at any point of the",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 68,
+      "title": ",",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} K R \\cos \\epsilon d S .$$",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 1,
+      "title": "$.",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 21,
+      "title": ", that if $X, Y, Z$ are the components",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 76,
+      "title": "] Let a quantity $e$ of electricity be supposed to be placed at",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 2,
+      "title": "}$ in the direction $O P$.",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 75,
+      "title": "] Let $R$ be the resultant intensity at any point of the",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 68,
+      "title": ",",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} K R \\cos \\epsilon d S .$$",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 1,
+      "title": "$.",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 21,
+      "title": ", that if $X, Y, Z$ are the components",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 76,
+      "title": "] Let a quantity $e$ of electricity be supposed to be placed at",
+      "page_start": 122,
+      "page_end": 121,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 2,
+      "title": "}$ in the direction $O P$.",
+      "page_start": 122,
+      "page_end": 122,
+      "articles": [
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ", that if $X, Y, Z$ are the components",
+          "title_safe": "that if X Y Z are the components",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ", that if $X, Y, Z$ are the components",
+          "title_safe": "that if X Y Z are the components",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": "] Let $R$ be the resultant intensity at any point of the",
+          "title_safe": "Let R be the resultant intensity at any point of the",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": "] Let a quantity $e$ of electricity be supposed to be placed at",
+          "title_safe": "Let a quantity e of electricity be supposed to be placed at",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": "] Let $R$ be the resultant intensity at any point of the",
+          "title_safe": "Let R be the resultant intensity at any point of the",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": "] Let a quantity $e$ of electricity be supposed to be placed at",
+          "title_safe": "Let a quantity e of electricity be supposed to be placed at",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_87",
+          "article_number": 87,
+          "title_original": "Surface-Integral of Electric Induction, and Electric",
+          "title_safe": "Surface-Integral of Electric Induction and Electric",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ".] Let $R$ be the resultant intensity at any point of the",
+          "title_safe": "Let R be the resultant intensity at any point of the",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} K R \\cos \\epsilon d S .$$",
+          "title_safe": "4 pi K R cos epsilon d S",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "$.",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ", that if $X, Y, Z$ are the components",
+          "title_safe": "that if X Y Z are the components",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": ".] Let a quantity $e$ of electricity be supposed to be placed at",
+          "title_safe": "Let a quantity e of electricity be supposed to be placed a",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ in the direction $O P$.",
+          "title_safe": "in the direction O P",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ".] Let $R$ be the resultant intensity at any point of the",
+          "title_safe": "Let R be the resultant intensity at any point of the",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_68",
+          "article_number": 68,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} K R \\cos \\epsilon d S .$$",
+          "title_safe": "4 pi K R cos epsilon d S",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "$.",
+          "title_safe": "Article",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ", that if $X, Y, Z$ are the components",
+          "title_safe": "that if X Y Z are the components",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": ".] Let a quantity $e$ of electricity be supposed to be placed at",
+          "title_safe": "Let a quantity e of electricity be supposed to be placed a",
+          "page_start": 122,
+          "page_end": 121,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ in the direction $O P$.",
+          "title_safe": "in the direction O P",
+          "page_start": 122,
+          "page_end": 122,
+          "content": {
+            "raw_text": "\n--- Page 122 ---\n76.]\nELECTRIC INDUCTION.\n87\n\nSurface-Integral of Electric Induction, and Electric\nDisplacement through a surface.\n75.] Let $R$ be the resultant intensity at any point of the\nsurface, and $\\epsilon$ the angle which $R$ makes with the normal drawn\ntowards the positive side of the surface, then $R \\cos \\epsilon$ is the\ncomponent of the intensity normal to the surface, and if $d S$ is the\nelement of the surface, the electric displacement through $d S$ will\nbe, by Art. 68,\n$$\\frac{1}{4 \\pi} K R \\cos \\epsilon d S .$$\nSince we do not at present consider any dielectric except air,\n$K=1$.\nWe may, however, avoid introducing at this stage the theory\nof electric displacement, by calling $R \\cos \\in d S$ the Induction\nthrough the element $d S$. This quantity is well known in\nmathematical physics, but the name of induction is borrowed\nfrom Faraday. The surface-integral of induction is\n$$\\iint R \\cos \\epsilon d S$$\nand it appears by Art. 21, that if $X, Y, Z$ are the components\nof $R$, and if these quantities are continuous within a region\nbounded by a closed surface $S$, the induction reckoned from\nwithin outwards is\n$$\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z$$\nthe integration being extended through the whole space within\nthe surface.\n\nInduction through a Closed Surface due to a single\nCentre of Force.\n76.] Let a quantity $e$ of electricity be supposed to be placed at\na point $O$, and let $r$ be the distance of any point $P$ from $O$, the\nintensity at that point is $R=e r^{-2}$ in the direction $O P$.\nLet a line be drawn from $O$ in any direction to an infinite dis-\ntance. If $O$ is without the closed surface this line will either\nnot cut the surface at all, or it will issue from the surface as\nmany times as it enters. If $O$ is within the surface the line\nmust first issue from the surface, and then it may enter and\nissue any number of times alternately, ending by issuing from it.\nLet $\\epsilon$ be the angle between $O P$ and the normal to the surface\ndrawn outwards where $O P$ cuts it, then where the line issues\n",
+            "mathpix_markdown": "\n--- Page 122 ---\n\n\n\\section*{Surface-Integral of Electric Induction, and Electric\n Displacement through a surface.}\n\n75.] Let $R$ be the resultant intensity at any point of the\n surface, and $\\epsilon$ the angle which $R$ makes with the normal drawn\n towards the positive side of the surface, then $R \\cos \\epsilon$ is the\n component of the intensity normal to the surface, and if $d S$ is the\n element of the surface, the electric displacement through $d S$ will\n be, by Art. 68,\n\n$$\\frac{1}{4 \\pi} K R \\cos \\epsilon d S .$$\n\n\nSince we do not at present consider any dielectric except air,\n $K=1$.\n\n\nWe may, however, avoid introducing at this stage the theory\n of electric displacement, by calling $R \\cos \\in d S$ the Induction\n through the element $d S$. This quantity is well known in\n mathematical physics, but the name of induction is borrowed\n from Faraday. The surface-integral of induction is\n\n$$\\iint R \\cos \\epsilon d S$$\n\nand it appears by Art. 21, that if $X, Y, Z$ are the components\n of $R$, and if these quantities are continuous within a region\n bounded by a closed surface $S$, the induction reckoned from\n within outwards is\n\n$$\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z$$\n\nthe integration being extended through the whole space within\n the surface.\n\n\n\\section*{Induction through a Closed Surface due to a single\n Centre of Force.}\n\n76.] Let a quantity $e$ of electricity be supposed to be placed at\n a point $O$, and let $r$ be the distance of any point $P$ from $O$, the\n intensity at that point is $R=e r^{-2}$ in the direction $O P$.\n\n\nLet a line be drawn from $O$ in any direction to an infinite dis\ntance. If $O$ is without the closed surface this line will either\n not cut the surface at all, or it will issue from the surface as\n many times as it enters. If $O$ is within the surface the line\n must first issue from the surface, and then it may enter and\n issue any number of times alternately, ending by issuing from it.\n\n\nLet $\\epsilon$ be the angle between $O P$ and the normal to the surface\n drawn outwards where $O P$ cuts it, then where the line issues\n",
+            "structured_lines": [
+              {
+                "page": 122,
+                "line_number": 5,
+                "type": "text",
+                "content": "Surface-Integral of Electric Induction, and Electric",
+                "mathpix_content": "\n\n\\section*{Surface-Integral of Electric Induction, and Electric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 6,
+                "type": "text",
+                "content": "Displacement through a surface.",
+                "mathpix_content": " Displacement through a surface.}",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 7,
+                "type": "text",
+                "content": "75.] Let $R$ be the resultant intensity at any point of the",
+                "mathpix_content": "\n75.] Let $R$ be the resultant intensity at any point of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 8,
+                "type": "text",
+                "content": "surface, and $\\epsilon$ the angle which $R$ makes with the normal drawn",
+                "mathpix_content": " surface, and $\\epsilon$ the angle which $R$ makes with the normal drawn",
+                "font_size": 27,
+                "confidence": 0.99169921875
+              },
+              {
+                "page": 122,
+                "line_number": 9,
+                "type": "text",
+                "content": "towards the positive side of the surface, then $R \\cos \\epsilon$ is the",
+                "mathpix_content": " towards the positive side of the surface, then $R \\cos \\epsilon$ is the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 122,
+                "line_number": 10,
+                "type": "text",
+                "content": "component of the intensity normal to the surface, and if $d S$ is the",
+                "mathpix_content": " component of the intensity normal to the surface, and if $d S$ is the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 11,
+                "type": "text",
+                "content": "element of the surface, the electric displacement through $d S$ will",
+                "mathpix_content": " element of the surface, the electric displacement through $d S$ will",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 122,
+                "line_number": 12,
+                "type": "text",
+                "content": "be, by Art. 68,",
+                "mathpix_content": " be, by Art. 68,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 15,
+                "type": "text",
+                "content": "Since we do not at present consider any dielectric except air,",
+                "mathpix_content": "\n\nSince we do not at present consider any dielectric except air,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 16,
+                "type": "text",
+                "content": "$K=1$.",
+                "mathpix_content": " $K=1$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 17,
+                "type": "text",
+                "content": "We may, however, avoid introducing at this stage the theory",
+                "mathpix_content": "\n\nWe may, however, avoid introducing at this stage the theory",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 18,
+                "type": "text",
+                "content": "of electric displacement, by calling $R \\cos \\in d S$ the Induction",
+                "mathpix_content": " of electric displacement, by calling $R \\cos \\in d S$ the Induction",
+                "font_size": 27,
+                "confidence": 0.85205078125
+              },
+              {
+                "page": 122,
+                "line_number": 19,
+                "type": "text",
+                "content": "through the element $d S$. This quantity is well known in",
+                "mathpix_content": " through the element $d S$. This quantity is well known in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 20,
+                "type": "text",
+                "content": "mathematical physics, but the name of induction is borrowed",
+                "mathpix_content": " mathematical physics, but the name of induction is borrowed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 21,
+                "type": "text",
+                "content": "from Faraday. The surface-integral of induction is",
+                "mathpix_content": " from Faraday. The surface-integral of induction is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 24,
+                "type": "text",
+                "content": "and it appears by Art. 21, that if $X, Y, Z$ are the components",
+                "mathpix_content": "\nand it appears by Art. 21, that if $X, Y, Z$ are the components",
+                "font_size": 27,
+                "confidence": 0.9970722198486328
+              },
+              {
+                "page": 122,
+                "line_number": 25,
+                "type": "text",
+                "content": "of $R$, and if these quantities are continuous within a region",
+                "mathpix_content": " of $R$, and if these quantities are continuous within a region",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 26,
+                "type": "text",
+                "content": "bounded by a closed surface $S$, the induction reckoned from",
+                "mathpix_content": " bounded by a closed surface $S$, the induction reckoned from",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 27,
+                "type": "text",
+                "content": "within outwards is",
+                "mathpix_content": " within outwards is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 30,
+                "type": "text",
+                "content": "the integration being extended through the whole space within",
+                "mathpix_content": "\nthe integration being extended through the whole space within",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 31,
+                "type": "text",
+                "content": "the surface.",
+                "mathpix_content": " the surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 33,
+                "type": "text",
+                "content": "Induction through a Closed Surface due to a single",
+                "mathpix_content": "\n\n\\section*{Induction through a Closed Surface due to a single",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 34,
+                "type": "text",
+                "content": "Centre of Force.",
+                "mathpix_content": " Centre of Force.}",
+                "font_size": 27,
+                "confidence": 0.884765625
+              },
+              {
+                "page": 122,
+                "line_number": 35,
+                "type": "text",
+                "content": "76.] Let a quantity $e$ of electricity be supposed to be placed at",
+                "mathpix_content": "\n76.] Let a quantity $e$ of electricity be supposed to be placed at",
+                "font_size": 27,
+                "confidence": 0.99658203125
+              },
+              {
+                "page": 122,
+                "line_number": 36,
+                "type": "text",
+                "content": "a point $O$, and let $r$ be the distance of any point $P$ from $O$, the",
+                "mathpix_content": " a point $O$, and let $r$ be the distance of any point $P$ from $O$, the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 37,
+                "type": "text",
+                "content": "intensity at that point is $R=e r^{-2}$ in the direction $O P$.",
+                "mathpix_content": " intensity at that point is $R=e r^{-2}$ in the direction $O P$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 38,
+                "type": "text",
+                "content": "Let a line be drawn from $O$ in any direction to an infinite dis-",
+                "mathpix_content": "\n\nLet a line be drawn from $O$ in any direction to an infinite dis",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 39,
+                "type": "text",
+                "content": "tance. If $O$ is without the closed surface this line will either",
+                "mathpix_content": "tance. If $O$ is without the closed surface this line will either",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 40,
+                "type": "text",
+                "content": "not cut the surface at all, or it will issue from the surface as",
+                "mathpix_content": " not cut the surface at all, or it will issue from the surface as",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 41,
+                "type": "text",
+                "content": "many times as it enters. If $O$ is within the surface the line",
+                "mathpix_content": " many times as it enters. If $O$ is within the surface the line",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 42,
+                "type": "text",
+                "content": "must first issue from the surface, and then it may enter and",
+                "mathpix_content": " must first issue from the surface, and then it may enter and",
+                "font_size": 27,
+                "confidence": 0.943359375
+              },
+              {
+                "page": 122,
+                "line_number": 43,
+                "type": "text",
+                "content": "issue any number of times alternately, ending by issuing from it.",
+                "mathpix_content": " issue any number of times alternately, ending by issuing from it.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 44,
+                "type": "text",
+                "content": "Let $\\epsilon$ be the angle between $O P$ and the normal to the surface",
+                "mathpix_content": "\n\nLet $\\epsilon$ be the angle between $O P$ and the normal to the surface",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 122,
+                "line_number": 45,
+                "type": "text",
+                "content": "drawn outwards where $O P$ cuts it, then where the line issues",
+                "mathpix_content": " drawn outwards where $O P$ cuts it, then where the line issues",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 88,
+      "title": "ELECTROSTATICS.",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 76,
+      "title": "from the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 1,
+      "title": "}, d S_{2}$, \\&c. from the closed",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 2,
+      "title": "} \\sec \\epsilon d \\omega ;$$",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 2,
+      "title": "}$, we shall have",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 0,
+      "title": "\\\\",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 0,
+      "title": "\\end{aligned}$$",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 4,
+      "title": "\\pi$, so that",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 4,
+      "title": "\\pi e$$",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 4,
+      "title": "\\pi e$ when $O$ is within",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 4,
+      "title": "\\pi$, the displacement through a closed surface, reckoned out-",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 1,
+      "title": "}, d S_{2}$, \\&c. from the closed",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 2,
+      "title": "} \\sec \\epsilon d \\omega ;$$",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 2,
+      "title": "}$, we shall have",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 0,
+      "title": "\\\\",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 0,
+      "title": "\\end{aligned}$$",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 4,
+      "title": "\\pi$, so that",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 4,
+      "title": "\\pi e$$",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 4,
+      "title": "\\pi e$ when $O$ is within",
+      "page_start": 123,
+      "page_end": 122,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 4,
+      "title": "\\pi$, the displacement through a closed surface, reckoned out",
+      "page_start": 123,
+      "page_end": 123,
+      "articles": [
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": "from the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$",
+          "title_safe": "from the surface cos epsilon will be positive and where it e",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_88",
+          "article_number": 88,
+          "title_original": "ELECTROSTATICS.",
+          "title_safe": "ELECTROSTATICS",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_76",
+          "article_number": 76,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, d S_{2}$, \\&c. from the closed",
+          "title_safe": "d S2 andc. from the closed",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\sec \\epsilon d \\omega ;$$",
+          "title_safe": "sec epsilon d omega",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$, we shall have",
+          "title_safe": "we shall have",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\\\",
+          "title_safe": "Article",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\end{aligned}$$",
+          "title_safe": "endaligned",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi$, so that",
+          "title_safe": "pi so that",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e$$",
+          "title_safe": "pi e",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e$ when $O$ is within",
+          "title_safe": "pi e when O is within",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi$, the displacement through a closed surface, reckoned out-",
+          "title_safe": "pi the displacement through a closed surface reckoned out",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, d S_{2}$, \\&c. from the closed",
+          "title_safe": "d S2 andc. from the closed",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} \\sec \\epsilon d \\omega ;$$",
+          "title_safe": "sec epsilon d omega",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$, we shall have",
+          "title_safe": "we shall have",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\\\",
+          "title_safe": "Article",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\end{aligned}$$",
+          "title_safe": "endaligned",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi$, so that",
+          "title_safe": "pi so that",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e$$",
+          "title_safe": "pi e",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e$ when $O$ is within",
+          "title_safe": "pi e when O is within",
+          "page_start": 123,
+          "page_end": 122,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi$, the displacement through a closed surface, reckoned out",
+          "title_safe": "pi the displacement through a closed surface reckoned out",
+          "page_start": 123,
+          "page_end": 123,
+          "content": {
+            "raw_text": "\n--- Page 123 ---\n88\nELECTROSTATICS.\n[76.\nfrom the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$\nwill be negative.\nNow let a sphere be described with centre $O$ and radius unity,\nand let the line $O P$ describe a conical surface of small angular\naperture about $O$ as vertex.\nThis cone will cut off a small element $d \\omega$ from the surface of\nthe sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed\nsurface at the different places where the line $O P$ intersects it.\nThen, since any one of these elements $d S$ intersects the cone\nat a distance $r$ from the vertex and at an obliquity $\\epsilon$,\n$$d S= \\pm r^{2} \\sec \\epsilon d \\omega ;$$\nand, since $R=e r^{-2}$, we shall have\n$$R \\cos \\epsilon d S= \\pm e d \\omega$$\nthe positive sign being taken when $r$ issues from the surface, and\nthe negative when it enters it.\nIf the point $O$ is without the closed surface, the positive values\nare equal in number to the negative ones, so that for any\ndirection of $r$,\nand therefore\n$$\\begin{aligned}\n\\Sigma R \\cos \\epsilon d S & =0 \\\\\n\\iint R \\cos \\epsilon d S & =0\n\\end{aligned}$$\nthe integration being extended over the whole closed surface.\nIf the point $O$ is within the closed surface the radius vector $O P$\nfirst issues from the closed surface, giving a positive value of $e d \\omega$,\nand then has an equal number of entrances and issues, so that in\nthis case\n$$\\Sigma R \\cos \\epsilon d S=e d \\omega .$$\nExtending the integration over the whole closed surface, we\nshall include the whole of the spherical surface, the area of which\nis $4 \\pi$, so that\n$$\\iint R \\cos \\epsilon d S=e \\iint d \\omega=4 \\pi e$$\nHence we conclude that the total induction outwards through\na closed surface due to a centre of force $e$ placed at a point $O$ is\nzero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within\nthe surface.\nSince in air the displacement is equal to the induction divided\nby $4 \\pi$, the displacement through a closed surface, reckoned out-\nwards, is equal to the electricity within the surface.\nCorollary. It also follows that if the surface is not closed but\nis bounded by a given closed curve, the total induction through\nit is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve\n",
+            "mathpix_markdown": "\n--- Page 123 ---\n\nfrom the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$\n will be negative.\n\n\nNow let a sphere be described with centre $O$ and radius unity,\n and let the line $O P$ describe a conical surface of small angular\n aperture about $O$ as vertex.\n\n\nThis cone will cut off a small element $d \\omega$ from the surface of\n the sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed\n surface at the different places where the line $O P$ intersects it.\n\n\nThen, since any one of these elements $d S$ intersects the cone\n at a distance $r$ from the vertex and at an obliquity $\\epsilon$,\n\n$$d S= \\pm r^{2} \\sec \\epsilon d \\omega ;$$\n\nand, since $R=e r^{-2}$, we shall have\n\n$$R \\cos \\epsilon d S= \\pm e d \\omega$$\n\nthe positive sign being taken when $r$ issues from the surface, and\n the negative when it enters it.\n\n\nIf the point $O$ is without the closed surface, the positive values\n are equal in number to the negative ones, so that for any\n direction of $r$,\n\nand therefore\n\n$$\\begin{aligned}\n\\Sigma R \\cos \\epsilon d S & =0 \\\\\n\\iint R \\cos \\epsilon d S & =0\n\\end{aligned}$$\n\nthe integration being extended over the whole closed surface.\n\nIf the point $O$ is within the closed surface the radius vector $O P$\n first issues from the closed surface, giving a positive value of $e d \\omega$,\n and then has an equal number of entrances and issues, so that in\n this case\n\n$$\\Sigma R \\cos \\epsilon d S=e d \\omega .$$\n\n\nExtending the integration over the whole closed surface, we\n shall include the whole of the spherical surface, the area of which\n is $4 \\pi$, so that\n\n$$\\iint R \\cos \\epsilon d S=e \\iint d \\omega=4 \\pi e$$\n\n\nHence we conclude that the total induction outwards through\n a closed surface due to a centre of force $e$ placed at a point $O$ is\n zero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within\n the surface.\n\n\nSince in air the displacement is equal to the induction divided\n by $4 \\pi$, the displacement through a closed surface, reckoned out\nwards, is equal to the electricity within the surface.\n\n\nCorollary. It also follows that if the surface is not closed but\n is bounded by a given closed curve, the total induction through\n it is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve\n",
+            "structured_lines": [
+              {
+                "page": 123,
+                "line_number": 4,
+                "type": "text",
+                "content": "from the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$",
+                "mathpix_content": "\nfrom the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$",
+                "font_size": 27,
+                "confidence": 0.6370118485697578
+              },
+              {
+                "page": 123,
+                "line_number": 5,
+                "type": "text",
+                "content": "will be negative.",
+                "mathpix_content": " will be negative.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 6,
+                "type": "text",
+                "content": "Now let a sphere be described with centre $O$ and radius unity,",
+                "mathpix_content": "\n\nNow let a sphere be described with centre $O$ and radius unity,",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 123,
+                "line_number": 7,
+                "type": "text",
+                "content": "and let the line $O P$ describe a conical surface of small angular",
+                "mathpix_content": " and let the line $O P$ describe a conical surface of small angular",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 8,
+                "type": "text",
+                "content": "aperture about $O$ as vertex.",
+                "mathpix_content": " aperture about $O$ as vertex.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 9,
+                "type": "text",
+                "content": "This cone will cut off a small element $d \\omega$ from the surface of",
+                "mathpix_content": "\n\nThis cone will cut off a small element $d \\omega$ from the surface of",
+                "font_size": 27,
+                "confidence": 0.9980475902557373
+              },
+              {
+                "page": 123,
+                "line_number": 10,
+                "type": "text",
+                "content": "the sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed",
+                "mathpix_content": " the sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 11,
+                "type": "text",
+                "content": "surface at the different places where the line $O P$ intersects it.",
+                "mathpix_content": " surface at the different places where the line $O P$ intersects it.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 12,
+                "type": "text",
+                "content": "Then, since any one of these elements $d S$ intersects the cone",
+                "mathpix_content": "\n\nThen, since any one of these elements $d S$ intersects the cone",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 13,
+                "type": "text",
+                "content": "at a distance $r$ from the vertex and at an obliquity $\\epsilon$,",
+                "mathpix_content": " at a distance $r$ from the vertex and at an obliquity $\\epsilon$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 16,
+                "type": "text",
+                "content": "and, since $R=e r^{-2}$, we shall have",
+                "mathpix_content": "\nand, since $R=e r^{-2}$, we shall have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 19,
+                "type": "text",
+                "content": "the positive sign being taken when $r$ issues from the surface, and",
+                "mathpix_content": "\nthe positive sign being taken when $r$ issues from the surface, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 20,
+                "type": "text",
+                "content": "the negative when it enters it.",
+                "mathpix_content": " the negative when it enters it.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 21,
+                "type": "text",
+                "content": "If the point $O$ is without the closed surface, the positive values",
+                "mathpix_content": "\n\nIf the point $O$ is without the closed surface, the positive values",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 22,
+                "type": "text",
+                "content": "are equal in number to the negative ones, so that for any",
+                "mathpix_content": " are equal in number to the negative ones, so that for any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 23,
+                "type": "text",
+                "content": "direction of $r$,",
+                "mathpix_content": " direction of $r$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 24,
+                "type": "text",
+                "content": "and therefore",
+                "mathpix_content": "\nand therefore",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 28,
+                "type": "text",
+                "content": "the integration being extended over the whole closed surface.",
+                "mathpix_content": "\nthe integration being extended over the whole closed surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 29,
+                "type": "text",
+                "content": "If the point $O$ is within the closed surface the radius vector $O P$",
+                "mathpix_content": "\nIf the point $O$ is within the closed surface the radius vector $O P$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 30,
+                "type": "text",
+                "content": "first issues from the closed surface, giving a positive value of $e d \\omega$,",
+                "mathpix_content": " first issues from the closed surface, giving a positive value of $e d \\omega$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 31,
+                "type": "text",
+                "content": "and then has an equal number of entrances and issues, so that in",
+                "mathpix_content": " and then has an equal number of entrances and issues, so that in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 32,
+                "type": "text",
+                "content": "this case",
+                "mathpix_content": " this case",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 35,
+                "type": "text",
+                "content": "Extending the integration over the whole closed surface, we",
+                "mathpix_content": "\n\nExtending the integration over the whole closed surface, we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 36,
+                "type": "text",
+                "content": "shall include the whole of the spherical surface, the area of which",
+                "mathpix_content": " shall include the whole of the spherical surface, the area of which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 37,
+                "type": "text",
+                "content": "is $4 \\pi$, so that",
+                "mathpix_content": " is $4 \\pi$, so that",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 40,
+                "type": "text",
+                "content": "Hence we conclude that the total induction outwards through",
+                "mathpix_content": "\n\nHence we conclude that the total induction outwards through",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 41,
+                "type": "text",
+                "content": "a closed surface due to a centre of force $e$ placed at a point $O$ is",
+                "mathpix_content": " a closed surface due to a centre of force $e$ placed at a point $O$ is",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 123,
+                "line_number": 42,
+                "type": "text",
+                "content": "zero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within",
+                "mathpix_content": " zero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 43,
+                "type": "text",
+                "content": "the surface.",
+                "mathpix_content": " the surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 44,
+                "type": "text",
+                "content": "Since in air the displacement is equal to the induction divided",
+                "mathpix_content": "\n\nSince in air the displacement is equal to the induction divided",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 45,
+                "type": "text",
+                "content": "by $4 \\pi$, the displacement through a closed surface, reckoned out-",
+                "mathpix_content": " by $4 \\pi$, the displacement through a closed surface, reckoned out",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 46,
+                "type": "text",
+                "content": "wards, is equal to the electricity within the surface.",
+                "mathpix_content": "wards, is equal to the electricity within the surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 47,
+                "type": "text",
+                "content": "Corollary. It also follows that if the surface is not closed but",
+                "mathpix_content": "\n\nCorollary. It also follows that if the surface is not closed but",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 48,
+                "type": "text",
+                "content": "is bounded by a given closed curve, the total induction through",
+                "mathpix_content": " is bounded by a given closed curve, the total induction through",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 123,
+                "line_number": 49,
+                "type": "text",
+                "content": "it is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve",
+                "mathpix_content": " it is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve",
+                "font_size": 27,
+                "confidence": 0.998046875
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 77,
+      "title": "]",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 89,
+      "title": "at $O$. This quantity, therefore, depends only on the closed curve,",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 77,
+      "title": "] Since the value of the total induction of a single centre",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 1,
+      "title": "}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 4,
+      "title": "\\pi e$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 64,
+      "title": ",",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 4,
+      "title": "\\pi e=4 \\pi \\iiint \\rho d x d y d z$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 75,
+      "title": ",",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_67",
+      "chapter_number": 4,
+      "title": "\\pi \\rho ;$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_68",
+      "chapter_number": 71,
+      "title": ",",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_69",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_70",
+      "chapter_number": 26,
+      "title": ", the quantity",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_71",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}} \\text { by }-\\nabla^{2} V,$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_72",
+      "chapter_number": 77,
+      "title": "] Since the value of the total induction of a single centre",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_73",
+      "chapter_number": 1,
+      "title": "}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_74",
+      "chapter_number": 4,
+      "title": "\\pi e$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_75",
+      "chapter_number": 64,
+      "title": ",",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_76",
+      "chapter_number": 4,
+      "title": "\\pi e=4 \\pi \\iiint \\rho d x d y d z$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_77",
+      "chapter_number": 75,
+      "title": ",",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_78",
+      "chapter_number": 4,
+      "title": "\\pi \\rho ;$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_79",
+      "chapter_number": 71,
+      "title": ",",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_80",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_81",
+      "chapter_number": 26,
+      "title": ", the quantity",
+      "page_start": 124,
+      "page_end": 123,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_82",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}} \\text { by }-\\nabla^{2} V,$$",
+      "page_start": 124,
+      "page_end": 124,
+      "articles": [
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_71",
+          "article_number": 71,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ", the quantity",
+          "title_safe": "the quantity",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_71",
+          "article_number": 71,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ", the quantity",
+          "title_safe": "the quantity",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": "] Since the value of the total induction of a single centre",
+          "title_safe": "Since the value of the total induction of a single centre",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": "] Since the value of the total induction of a single centre",
+          "title_safe": "Since the value of the total induction of a single centre",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_89",
+          "article_number": 89,
+          "title_original": "at $O$. This quantity, therefore, depends only on the closed curve,",
+          "title_safe": "at O. This quantity therefore depends only on the closed cur",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": ".] Since the value of the total induction of a single centre",
+          "title_safe": "Since the value of the total induction of a single centre",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,",
+          "title_safe": "e2 andc. within the surface and e1 prime e2 prime andc. with",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e$$",
+          "title_safe": "pi e",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e=4 \\pi \\iiint \\rho d x d y d z$$",
+          "title_safe": "pi eequals4 pi iiint rho d x d y d z",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\rho ;$$",
+          "title_safe": "pi rho",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_71",
+          "article_number": 71,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2plus4 pi rhoequals0",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ", the quantity",
+          "title_safe": "the quantity",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}} \\text { by }-\\nabla^{2} V,$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2 text by -nabla2 V",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_77",
+          "article_number": 77,
+          "title_original": ".] Since the value of the total induction of a single centre",
+          "title_safe": "Since the value of the total induction of a single centre",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,",
+          "title_safe": "e2 andc. within the surface and e1 prime e2 prime andc. with",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e$$",
+          "title_safe": "pi e",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_64",
+          "article_number": 64,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi e=4 \\pi \\iiint \\rho d x d y d z$$",
+          "title_safe": "pi eequals4 pi iiint rho d x d y d z",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_75",
+          "article_number": 75,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\rho ;$$",
+          "title_safe": "pi rho",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_71",
+          "article_number": 71,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2plus4 pi rhoequals0",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_26",
+          "article_number": 26,
+          "title_original": ", the quantity",
+          "title_safe": "the quantity",
+          "page_start": 124,
+          "page_end": 123,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}} \\text { by }-\\nabla^{2} V,$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2 text by -nabla2 V",
+          "page_start": 124,
+          "page_end": 124,
+          "content": {
+            "raw_text": "\n--- Page 124 ---\n77.]\nEQUATIONS OF LAPLACE AND POISSON.\n89\nat $O$. This quantity, therefore, depends only on the closed curve,\nand the form of the surface of which it is the boundary may be\nchanged in any way, provided it does not pass from one side to\nthe other of the centre of force.\n\nOn the Equations of Laplace and Poisson.\n77.] Since the value of the total induction of a single centre\nof force through a closed surface depends only on whether the\ncentre is within the surface or not, and does not depend on its\nposition in any other way, if there are a number of such centres\n$e_{1}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,\nwe shall have\n$$\\iint R \\cos \\epsilon d S=4 \\pi e$$\nwhere $e$ denotes the algebraical sum of the quantities of elec-\ntricity at all the centres of force within the closed surface, that\nis, the total electricity within the surface, resinous electricity\nbeing reckoned negative.\nIf the electricity is so distributed within the surface that the\ndensity is nowhere infinite, we shall have by Art. 64,\n$$4 \\pi e=4 \\pi \\iiint \\rho d x d y d z$$\nand by Art. 75,\n$$\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z$$\nIf we take as the closed surface that of the element of volume\n$d x d y d z$, we shall have, by equating these expressions,\n$$\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=4 \\pi \\rho ;$$\nand if a potential $V$ exists, we find by Art. 71,\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$\nThis equation, in the case in which the density is zero, is called\nLaplace's Equation. In its more general form it was first given\nby Poisson. It enables us, when we know the potential at every\npoint, to determine the distribution of electricity.\nWe shall denote, as in Art. 26, the quantity\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}} \\text { by }-\\nabla^{2} V,$$\nand we may express Poisson's equation in words by saying that\n",
+            "mathpix_markdown": "\n--- Page 124 ---\n\nat $O$. This quantity, therefore, depends only on the closed curve,\n and the form of the surface of which it is the boundary may be\n changed in any way, provided it does not pass from one side to\n the other of the centre of force.\n\n\n\\section*{On the Equations of Laplace and Poisson.}\n\n77.] Since the value of the total induction of a single centre\n of force through a closed surface depends only on whether the\n centre is within the surface or not, and does not depend on its\n position in any other way, if there are a number of such centres\n $e_{1}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,\n we shall have\n\n$$\\iint R \\cos \\epsilon d S=4 \\pi e$$\n\nwhere $e$ denotes the algebraical sum of the quantities of elec\ntricity at all the centres of force within the closed surface, that\n is, the total electricity within the surface, resinous electricity\n being reckoned negative.\n\n\nIf the electricity is so distributed within the surface that the\n density is nowhere infinite, we shall have by Art. 64,\n\n$$4 \\pi e=4 \\pi \\iiint \\rho d x d y d z$$\n\nand by Art. 75,\n\n$$\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z$$\n\n\nIf we take as the closed surface that of the element of volume\n $d x d y d z$, we shall have, by equating these expressions,\n\n$$\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=4 \\pi \\rho ;$$\n\nand if a potential $V$ exists, we find by Art. 71,\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}+4 \\pi \\rho=0 .$$\n\n\nThis equation, in the case in which the density is zero, is called\n Laplace's Equation. In its more general form it was first given\n by Poisson. It enables us, when we know the potential at every\n point, to determine the distribution of electricity.\n\n\nWe shall denote, as in Art. 26, the quantity\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}} \\text { by }-\\nabla^{2} V,$$\n\nand we may express Poisson's equation in words by saying that\n",
+            "structured_lines": [
+              {
+                "page": 124,
+                "line_number": 4,
+                "type": "text",
+                "content": "at $O$. This quantity, therefore, depends only on the closed curve,",
+                "mathpix_content": "\nat $O$. This quantity, therefore, depends only on the closed curve,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 5,
+                "type": "text",
+                "content": "and the form of the surface of which it is the boundary may be",
+                "mathpix_content": " and the form of the surface of which it is the boundary may be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 6,
+                "type": "text",
+                "content": "changed in any way, provided it does not pass from one side to",
+                "mathpix_content": " changed in any way, provided it does not pass from one side to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 7,
+                "type": "text",
+                "content": "the other of the centre of force.",
+                "mathpix_content": " the other of the centre of force.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 9,
+                "type": "text",
+                "content": "On the Equations of Laplace and Poisson.",
+                "mathpix_content": "\n\n\\section*{On the Equations of Laplace and Poisson.}",
+                "font_size": 27,
+                "confidence": 0.9677734375
+              },
+              {
+                "page": 124,
+                "line_number": 10,
+                "type": "text",
+                "content": "77.] Since the value of the total induction of a single centre",
+                "mathpix_content": "\n77.] Since the value of the total induction of a single centre",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 11,
+                "type": "text",
+                "content": "of force through a closed surface depends only on whether the",
+                "mathpix_content": " of force through a closed surface depends only on whether the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 12,
+                "type": "text",
+                "content": "centre is within the surface or not, and does not depend on its",
+                "mathpix_content": " centre is within the surface or not, and does not depend on its",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 124,
+                "line_number": 13,
+                "type": "text",
+                "content": "position in any other way, if there are a number of such centres",
+                "mathpix_content": " position in any other way, if there are a number of such centres",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 14,
+                "type": "text",
+                "content": "$e_{1}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,",
+                "mathpix_content": " $e_{1}, e_{2}$, \\&c. within the surface, and $e_{1}{ }^{\\prime}, e_{2}{ }^{\\prime}$, \\&c. without the surface,",
+                "font_size": 27,
+                "confidence": 0.8298242124728858
+              },
+              {
+                "page": 124,
+                "line_number": 15,
+                "type": "text",
+                "content": "we shall have",
+                "mathpix_content": " we shall have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 18,
+                "type": "text",
+                "content": "where $e$ denotes the algebraical sum of the quantities of elec-",
+                "mathpix_content": "\nwhere $e$ denotes the algebraical sum of the quantities of elec",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 124,
+                "line_number": 19,
+                "type": "text",
+                "content": "tricity at all the centres of force within the closed surface, that",
+                "mathpix_content": "tricity at all the centres of force within the closed surface, that",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 20,
+                "type": "text",
+                "content": "is, the total electricity within the surface, resinous electricity",
+                "mathpix_content": " is, the total electricity within the surface, resinous electricity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 21,
+                "type": "text",
+                "content": "being reckoned negative.",
+                "mathpix_content": " being reckoned negative.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 22,
+                "type": "text",
+                "content": "If the electricity is so distributed within the surface that the",
+                "mathpix_content": "\n\nIf the electricity is so distributed within the surface that the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 23,
+                "type": "text",
+                "content": "density is nowhere infinite, we shall have by Art. 64,",
+                "mathpix_content": " density is nowhere infinite, we shall have by Art. 64,",
+                "font_size": 27,
+                "confidence": 0.9873046875
+              },
+              {
+                "page": 124,
+                "line_number": 26,
+                "type": "text",
+                "content": "and by Art. 75,",
+                "mathpix_content": "\nand by Art. 75,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 29,
+                "type": "text",
+                "content": "If we take as the closed surface that of the element of volume",
+                "mathpix_content": "\n\nIf we take as the closed surface that of the element of volume",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 30,
+                "type": "text",
+                "content": "$d x d y d z$, we shall have, by equating these expressions,",
+                "mathpix_content": " $d x d y d z$, we shall have, by equating these expressions,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 124,
+                "line_number": 33,
+                "type": "text",
+                "content": "and if a potential $V$ exists, we find by Art. 71,",
+                "mathpix_content": "\nand if a potential $V$ exists, we find by Art. 71,",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 124,
+                "line_number": 36,
+                "type": "text",
+                "content": "This equation, in the case in which the density is zero, is called",
+                "mathpix_content": "\n\nThis equation, in the case in which the density is zero, is called",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 37,
+                "type": "text",
+                "content": "Laplace's Equation. In its more general form it was first given",
+                "mathpix_content": " Laplace's Equation. In its more general form it was first given",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 38,
+                "type": "text",
+                "content": "by Poisson. It enables us, when we know the potential at every",
+                "mathpix_content": " by Poisson. It enables us, when we know the potential at every",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 39,
+                "type": "text",
+                "content": "point, to determine the distribution of electricity.",
+                "mathpix_content": " point, to determine the distribution of electricity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 40,
+                "type": "text",
+                "content": "We shall denote, as in Art. 26, the quantity",
+                "mathpix_content": "\n\nWe shall denote, as in Art. 26, the quantity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 124,
+                "line_number": 43,
+                "type": "text",
+                "content": "and we may express Poisson's equation in words by saying that",
+                "mathpix_content": "\nand we may express Poisson's equation in words by saying that",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_83",
+      "chapter_number": 90,
+      "title": "ELECTROSTATICS.",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_84",
+      "chapter_number": 78,
+      "title": "$a$.",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_85",
+      "chapter_number": 4,
+      "title": "\\pi$ is the concentration of the",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_86",
+      "chapter_number": 72,
+      "title": ", $V$ is constant within a conductor. Hence within",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_87",
+      "chapter_number": 78,
+      "title": "a$.] The potential function, $V$, must be physically continuous",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_88",
+      "chapter_number": 7,
+      "title": ", except at the bounding surface of",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_89",
+      "chapter_number": 246,
+      "title": ",",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_90",
+      "chapter_number": 8,
+      "title": ", the points at which this discon-",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_91",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_92",
+      "chapter_number": 1,
+      "title": ")",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_93",
+      "chapter_number": 1,
+      "title": "}$ denote the potential at any given point in the negative",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_94",
+      "chapter_number": 2,
+      "title": "}$ that at any given point in the positive region,",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_95",
+      "chapter_number": 0,
+      "title": "$, and which may",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_96",
+      "chapter_number": 1,
+      "title": "}+C=V_{2},$$",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_97",
+      "chapter_number": 2,
+      "title": ")",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_98",
+      "chapter_number": 2,
+      "title": "}$ drawn",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_99",
+      "chapter_number": 4,
+      "title": "\\pi$ is the concentration of the",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_100",
+      "chapter_number": 72,
+      "title": ", $V$ is constant within a conductor. Hence within",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_101",
+      "chapter_number": 78,
+      "title": "a$.] The potential function, $V$, must be physically continuous",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_102",
+      "chapter_number": 7,
+      "title": ", except at the bounding surface of",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_103",
+      "chapter_number": 246,
+      "title": ",",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_104",
+      "chapter_number": 8,
+      "title": ", the points at which this discon",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_105",
+      "chapter_number": 0,
+      "title": "\\tag{1}",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_106",
+      "chapter_number": 1,
+      "title": "}$ denote the potential at any given point in the negative",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_107",
+      "chapter_number": 2,
+      "title": "}$ that at any given point in the positive region,",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_108",
+      "chapter_number": 0,
+      "title": "$, and which may",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_109",
+      "chapter_number": 1,
+      "title": "}+C=V_{2}, \\tag{2}",
+      "page_start": 125,
+      "page_end": 124,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_110",
+      "chapter_number": 2,
+      "title": "}$ drawn",
+      "page_start": 125,
+      "page_end": 125,
+      "articles": [
+        {
+          "article_id": "article_72",
+          "article_number": 72,
+          "title_original": ", $V$ is constant within a conductor. Hence within",
+          "title_safe": "V is constant within a conductor. Hence within",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ", except at the bounding surface of",
+          "title_safe": "except at the bounding surface of",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_246",
+          "article_number": 246,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ", the points at which this discon-",
+          "title_safe": "the points at which this discon",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_72",
+          "article_number": 72,
+          "title_original": ", $V$ is constant within a conductor. Hence within",
+          "title_safe": "V is constant within a conductor. Hence within",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ", except at the bounding surface of",
+          "title_safe": "except at the bounding surface of",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_246",
+          "article_number": 246,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ", the points at which this discon",
+          "title_safe": "the points at which this discon",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_90",
+          "article_number": 90,
+          "title_original": "ELECTROSTATICS.",
+          "title_safe": "ELECTROSTATICS",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_78",
+          "article_number": 78,
+          "title_original": "$a$.",
+          "title_safe": "a",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi$ is the concentration of the",
+          "title_safe": "pi is the concentration of the",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_72",
+          "article_number": 72,
+          "title_original": ", $V$ is constant within a conductor. Hence within",
+          "title_safe": "V is constant within a conductor. Hence within",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_78",
+          "article_number": 78,
+          "title_original": "a$.] The potential function, $V$, must be physically continuous",
+          "title_safe": "a. The potential function V must be physically continuous",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ", except at the bounding surface of",
+          "title_safe": "except at the bounding surface of",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_246",
+          "article_number": 246,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ", the points at which this discon-",
+          "title_safe": "the points at which this discon",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ".$$",
+          "title_safe": "Article",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ denote the potential at any given point in the negative",
+          "title_safe": "denote the potential at any given point in the negative",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ that at any given point in the positive region,",
+          "title_safe": "that at any given point in the positive region",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$, and which may",
+          "title_safe": "and which may",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+C=V_{2},$$",
+          "title_safe": "plusCequalsV2",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ drawn",
+          "title_safe": "drawn",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi$ is the concentration of the",
+          "title_safe": "pi is the concentration of the",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_72",
+          "article_number": 72,
+          "title_original": ", $V$ is constant within a conductor. Hence within",
+          "title_safe": "V is constant within a conductor. Hence within",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_78",
+          "article_number": 78,
+          "title_original": "a$.] The potential function, $V$, must be physically continuous",
+          "title_safe": "a. The potential function V must be physically continuous",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ", except at the bounding surface of",
+          "title_safe": "except at the bounding surface of",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_246",
+          "article_number": 246,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ", the points at which this discon",
+          "title_safe": "the points at which this discon",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ". \\tag{1}",
+          "title_safe": "tag1",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ denote the potential at any given point in the negative",
+          "title_safe": "denote the potential at any given point in the negative",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ that at any given point in the positive region,",
+          "title_safe": "that at any given point in the positive region",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$, and which may",
+          "title_safe": "and which may",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}+C=V_{2}, \\tag{2}",
+          "title_safe": "plusCequalsV2 tag2",
+          "page_start": 125,
+          "page_end": 124,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ drawn",
+          "title_safe": "drawn",
+          "page_start": 125,
+          "page_end": 125,
+          "content": {
+            "raw_text": "\n--- Page 125 ---\n90\nELECTROSTATICS.\n[78 $a$.\nthe electric density multiplied by $4 \\pi$ is the concentration of the\npotential. Where there is no electrification, the potential has no\nconcentration, and this is the interpretation of Laplace's equation.\nBy Art. 72, $V$ is constant within a conductor. Hence within\na conductor the volume-density is zero, and the whole charge\nmust be on the surface.\nIf we suppose that in the superficial and linear distributions\nof electricity the volume-density $\\rho$ remains finite, and that the\nelectricity exists in the form of a thin stratum or a narrow fibre,\nthen, by increasing $\\rho$ and diminishing the depth of the stratum\nor the section of the fibre, we may approach the limit of true\nsuperficial or linear distribution, and the equation being true\nthroughout the process will remain true at the limit, if inter-\npreted in accordance with the actual circumstances.\n\nVariation of the Potential at a Charged Surface.\n$78 a$.] The potential function, $V$, must be physically continuous\nin the sense defined in Art. 7, except at the bounding surface of\ntwo different media, in which case, as we shall see in Art. 246,\nthere may be a difference of potential between the substances,\nso that when the electricity is in equilibrium, the potential at\na point in one substance is higher than the potential at the\ncontiguous point in the other substance by a constant quantity,\n$C$, depending on the natures of the two substances and on their\ntemperatures.\nBut the first derivatives of $V$ with respect to $x, y$, or $z$ may be\ndiscontinuous, and, by Art. 8, the points at which this discon-\ntinuity occurs must lie on a surface, the equation of which may\nbe expressed in the form\n$$\\phi=\\phi(x, y, z)=0 .$$\n(1)\nThis surface separates the region in which $\\phi$ is negative from the\nregion in which $\\phi$ is positive.\nLet $V_{1}$ denote the potential at any given point in the negative\nregion, and $V_{2}$ that at any given point in the positive region,\nthen at any point in the surface at which $\\phi=0$, and which may\nbe said to belong to both regions,\n$$V_{1}+C=V_{2},$$\n(2)\nwhere $C$ is the constant excess of potential, if any, in the sub-\nstance on the positive side of the surface.\nLet $l, m, n$ be the direction-cosines of the normal $r_{2}$ drawn\n",
+            "mathpix_markdown": "\n--- Page 125 ---\n\nthe electric density multiplied by $4 \\pi$ is the concentration of the\n potential. Where there is no electrification, the potential has no\n concentration, and this is the interpretation of Laplace's equation.\n\n\nBy Art. 72, $V$ is constant within a conductor. Hence within\n a conductor the volume-density is zero, and the whole charge\n must be on the surface.\n\n\nIf we suppose that in the superficial and linear distributions\n of electricity the volume-density $\\rho$ remains finite, and that the\n electricity exists in the form of a thin stratum or a narrow fibre,\n then, by increasing $\\rho$ and diminishing the depth of the stratum\n or the section of the fibre, we may approach the limit of true\n superficial or linear distribution, and the equation being true\n throughout the process will remain true at the limit, if inter\npreted in accordance with the actual circumstances.\n\n\n\\section*{Variation of the Potential at a Charged Surface.}\n\n$78 a$.] The potential function, $V$, must be physically continuous\n in the sense defined in Art. 7, except at the bounding surface of\n two different media, in which case, as we shall see in Art. 246,\n there may be a difference of potential between the substances,\n so that when the electricity is in equilibrium, the potential at\n a point in one substance is higher than the potential at the\n contiguous point in the other substance by a constant quantity,\n $C$, depending on the natures of the two substances and on their\n temperatures.\n\n\nBut the first derivatives of $V$ with respect to $x, y$, or $z$ may be\n discontinuous, and, by Art. 8, the points at which this discon\ntinuity occurs must lie on a surface, the equation of which may\n be expressed in the form\n\n$$\\begin{equation*}\n\\phi=\\phi(x, y, z)=0 . \\tag{1}\n\\end{equation*}$$\n\n\nThis surface separates the region in which $\\phi$ is negative from the\n region in which $\\phi$ is positive.\n\n\nLet $V_{1}$ denote the potential at any given point in the negative\n region, and $V_{2}$ that at any given point in the positive region,\n then at any point in the surface at which $\\phi=0$, and which may\n be said to belong to both regions,\n\n$$\\begin{equation*}\nV_{1}+C=V_{2}, \\tag{2}\n\\end{equation*}$$\n\nwhere $C$ is the constant excess of potential, if any, in the sub\nstance on the positive side of the surface.\n\n\nLet $l, m, n$ be the direction-cosines of the normal $r_{2}$ drawn\n",
+            "structured_lines": [
+              {
+                "page": 125,
+                "line_number": 4,
+                "type": "text",
+                "content": "the electric density multiplied by $4 \\pi$ is the concentration of the",
+                "mathpix_content": "\nthe electric density multiplied by $4 \\pi$ is the concentration of the",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 125,
+                "line_number": 5,
+                "type": "text",
+                "content": "potential. Where there is no electrification, the potential has no",
+                "mathpix_content": " potential. Where there is no electrification, the potential has no",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 6,
+                "type": "text",
+                "content": "concentration, and this is the interpretation of Laplace's equation.",
+                "mathpix_content": " concentration, and this is the interpretation of Laplace's equation.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 7,
+                "type": "text",
+                "content": "By Art. 72, $V$ is constant within a conductor. Hence within",
+                "mathpix_content": "\n\nBy Art. 72, $V$ is constant within a conductor. Hence within",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 8,
+                "type": "text",
+                "content": "a conductor the volume-density is zero, and the whole charge",
+                "mathpix_content": " a conductor the volume-density is zero, and the whole charge",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 9,
+                "type": "text",
+                "content": "must be on the surface.",
+                "mathpix_content": " must be on the surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 10,
+                "type": "text",
+                "content": "If we suppose that in the superficial and linear distributions",
+                "mathpix_content": "\n\nIf we suppose that in the superficial and linear distributions",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 11,
+                "type": "text",
+                "content": "of electricity the volume-density $\\rho$ remains finite, and that the",
+                "mathpix_content": " of electricity the volume-density $\\rho$ remains finite, and that the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 12,
+                "type": "text",
+                "content": "electricity exists in the form of a thin stratum or a narrow fibre,",
+                "mathpix_content": " electricity exists in the form of a thin stratum or a narrow fibre,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 13,
+                "type": "text",
+                "content": "then, by increasing $\\rho$ and diminishing the depth of the stratum",
+                "mathpix_content": " then, by increasing $\\rho$ and diminishing the depth of the stratum",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 14,
+                "type": "text",
+                "content": "or the section of the fibre, we may approach the limit of true",
+                "mathpix_content": " or the section of the fibre, we may approach the limit of true",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 15,
+                "type": "text",
+                "content": "superficial or linear distribution, and the equation being true",
+                "mathpix_content": " superficial or linear distribution, and the equation being true",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 16,
+                "type": "text",
+                "content": "throughout the process will remain true at the limit, if inter-",
+                "mathpix_content": " throughout the process will remain true at the limit, if inter",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 17,
+                "type": "text",
+                "content": "preted in accordance with the actual circumstances.",
+                "mathpix_content": "preted in accordance with the actual circumstances.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 19,
+                "type": "text",
+                "content": "Variation of the Potential at a Charged Surface.",
+                "mathpix_content": "\n\n\\section*{Variation of the Potential at a Charged Surface.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 20,
+                "type": "text",
+                "content": "$78 a$.] The potential function, $V$, must be physically continuous",
+                "mathpix_content": "\n$78 a$.] The potential function, $V$, must be physically continuous",
+                "font_size": 27,
+                "confidence": 0.9863460063934326
+              },
+              {
+                "page": 125,
+                "line_number": 21,
+                "type": "text",
+                "content": "in the sense defined in Art. 7, except at the bounding surface of",
+                "mathpix_content": " in the sense defined in Art. 7, except at the bounding surface of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 22,
+                "type": "text",
+                "content": "two different media, in which case, as we shall see in Art. 246,",
+                "mathpix_content": " two different media, in which case, as we shall see in Art. 246,",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 125,
+                "line_number": 23,
+                "type": "text",
+                "content": "there may be a difference of potential between the substances,",
+                "mathpix_content": " there may be a difference of potential between the substances,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 24,
+                "type": "text",
+                "content": "so that when the electricity is in equilibrium, the potential at",
+                "mathpix_content": " so that when the electricity is in equilibrium, the potential at",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 25,
+                "type": "text",
+                "content": "a point in one substance is higher than the potential at the",
+                "mathpix_content": " a point in one substance is higher than the potential at the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 26,
+                "type": "text",
+                "content": "contiguous point in the other substance by a constant quantity,",
+                "mathpix_content": " contiguous point in the other substance by a constant quantity,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 27,
+                "type": "text",
+                "content": "$C$, depending on the natures of the two substances and on their",
+                "mathpix_content": " $C$, depending on the natures of the two substances and on their",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 28,
+                "type": "text",
+                "content": "temperatures.",
+                "mathpix_content": " temperatures.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 29,
+                "type": "text",
+                "content": "But the first derivatives of $V$ with respect to $x, y$, or $z$ may be",
+                "mathpix_content": "\n\nBut the first derivatives of $V$ with respect to $x, y$, or $z$ may be",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 125,
+                "line_number": 30,
+                "type": "text",
+                "content": "discontinuous, and, by Art. 8, the points at which this discon-",
+                "mathpix_content": " discontinuous, and, by Art. 8, the points at which this discon",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 125,
+                "line_number": 31,
+                "type": "text",
+                "content": "tinuity occurs must lie on a surface, the equation of which may",
+                "mathpix_content": "tinuity occurs must lie on a surface, the equation of which may",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 32,
+                "type": "text",
+                "content": "be expressed in the form",
+                "mathpix_content": " be expressed in the form",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 125,
+                "line_number": 36,
+                "type": "text",
+                "content": "This surface separates the region in which $\\phi$ is negative from the",
+                "mathpix_content": "\n\nThis surface separates the region in which $\\phi$ is negative from the",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 125,
+                "line_number": 37,
+                "type": "text",
+                "content": "region in which $\\phi$ is positive.",
+                "mathpix_content": " region in which $\\phi$ is positive.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 38,
+                "type": "text",
+                "content": "Let $V_{1}$ denote the potential at any given point in the negative",
+                "mathpix_content": "\n\nLet $V_{1}$ denote the potential at any given point in the negative",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 39,
+                "type": "text",
+                "content": "region, and $V_{2}$ that at any given point in the positive region,",
+                "mathpix_content": " region, and $V_{2}$ that at any given point in the positive region,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 40,
+                "type": "text",
+                "content": "then at any point in the surface at which $\\phi=0$, and which may",
+                "mathpix_content": " then at any point in the surface at which $\\phi=0$, and which may",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 125,
+                "line_number": 41,
+                "type": "text",
+                "content": "be said to belong to both regions,",
+                "mathpix_content": " be said to belong to both regions,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 45,
+                "type": "text",
+                "content": "where $C$ is the constant excess of potential, if any, in the sub-",
+                "mathpix_content": "\nwhere $C$ is the constant excess of potential, if any, in the sub",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 46,
+                "type": "text",
+                "content": "stance on the positive side of the surface.",
+                "mathpix_content": "stance on the positive side of the surface.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 125,
+                "line_number": 47,
+                "type": "text",
+                "content": "Let $l, m, n$ be the direction-cosines of the normal $r_{2}$ drawn",
+                "mathpix_content": "\n\nLet $l, m, n$ be the direction-cosines of the normal $r_{2}$ drawn",
+                "font_size": 27,
+                "confidence": 0.7857489585876465
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

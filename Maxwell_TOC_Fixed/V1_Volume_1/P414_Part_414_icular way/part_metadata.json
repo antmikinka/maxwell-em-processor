@@ -1,0 +1,1746 @@
+{
+  "part_id": "part_414",
+  "part_number": 414,
+  "title": "icular way,",
+  "page_start": 210,
+  "page_end": 213,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 116,
+      "title": "]",
+      "page_start": 210,
+      "page_end": 209,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 175,
+      "title": "and let $d M$ be the increment of the potential of $A$ with respect to",
+      "page_start": 210,
+      "page_end": 209,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 2,
+      "title": "} M=0$, the surface-integral",
+      "page_start": 210,
+      "page_end": 209,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 2,
+      "title": "} M=0$, the surface-integral",
+      "page_start": 210,
+      "page_end": 210,
+      "articles": [
+        {
+          "article_id": "article_116",
+          "article_number": 116,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 210,
+          "page_end": 209,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_116",
+          "article_number": 116,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 210,
+          "page_end": 209,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_175",
+          "article_number": 175,
+          "title_original": "and let $d M$ be the increment of the potential of $A$ with respect to",
+          "title_safe": "and let d M be the increment of the potential of A with resp",
+          "page_start": 210,
+          "page_end": 209,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} M=0$, the surface-integral",
+          "title_safe": "Mequals0 the surface-integral",
+          "page_start": 210,
+          "page_end": 209,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} M=0$, the surface-integral",
+          "title_safe": "Mequals0 the surface-integral",
+          "page_start": 210,
+          "page_end": 210,
+          "content": {
+            "raw_text": "\n--- Page 210 ---\n116.]\nEQUILIBRIUM ALWAYS UNSTABLE.\n175\nand let $d M$ be the increment of the potential of $A$ with respect to\nthe surrounding system $B$.\nIf this be positive, work will have to be done to increase $r$,\nand there will be a force $R=d M / d r$ tending to diminish $r$ and\nto restore $A$ to its former position, and for this displacement\ntherefore the equilibrium will be stable. If, on the other hand,\nthis quantity is negative, the force will tend to increase $r$, and\nthe equilibrium will be unstable.\nNow consider a sphere whose centre is the origin and whose\nradius is $r$, and so small that when the point fixed in the body\nlies within this sphere no part of the moveable body $A$ can\ncoincide with any part of the external system $B$. Then, since\nwithin the sphere $\\nabla^{2} M=0$, the surface-integral\n$$\\iint \\frac{d M}{d r} d S$$\ntaken over the surface of the sphere, is zero.\nHence. if at any part of the surface of the sphere $d M / d r$ is\npositive, there must be some other part of the surface where it is\nnegative, and if the body $A$ be displaced in a direction in which\n$d M / d r$ is negative, it will tend to move from its original position,\nand its equilibrium is therefore necessarily unstable.\nThe body therefore is unstable even when constrained to move\nparallel to itself, and a fortior $i$ it is unstable when altogether\nfree.\nNow let us suppose that the body $A$ is a conductor. We\nmight treat this as a case of equilibrium of a system of bodies,\nthe moveable electricity being considered as part of that system,\nand we might argue that as the system is unstable when\ndeprived of so many degrees of freedom by the fixture of its\nelectricity, it must \u00e0 fortiori be unstable when this freedom is\nrestored to it.\nBut we may consider this case in a more particular way,\nthus-\nFirst, let the electricity be fixed in $A$, and let $A$ move parallel\nto itself through the small distance $d r$. The increment of the\npotential of $A$ due to this cause has been already considered.\nNext, let the electricity be allowed to move within $A$ into its\nposition of equilibrium, which is always stable. During this\nmotion the potential will necessarily be diminished by a quantity\nwhich we may call $C d r$.\n",
+            "mathpix_markdown": "\n--- Page 210 ---\n\nand let $d M$ be the increment of the potential of $A$ with respect to\n the surrounding system $B$.\n\n\nIf this be positive, work will have to be done to increase $r$,\n and there will be a force $R=d M / d r$ tending to diminish $r$ and\n to restore $A$ to its former position, and for this displacement\n therefore the equilibrium will be stable. If, on the other hand,\n this quantity is negative, the force will tend to increase $r$, and\n the equilibrium will be unstable.\n\n\nNow consider a sphere whose centre is the origin and whose\n radius is $r$, and so small that when the point fixed in the body\n lies within this sphere no part of the moveable body $A$ can\n coincide with any part of the external system $B$. Then, since\n within the sphere $\\nabla^{2} M=0$, the surface-integral\n\n$$\\iint \\frac{d M}{d r} d S$$\n\ntaken over the surface of the sphere, is zero.\n\nHence. if at any part of the surface of the sphere $d M / d r$ is\n positive, there must be some other part of the surface where it is\n negative, and if the body $A$ be displaced in a direction in which\n $d M / d r$ is negative, it will tend to move from its original position,\n and its equilibrium is therefore necessarily unstable.\n\n\nThe body therefore is unstable even when constrained to move\n parallel to itself, and a fortior $i$ it is unstable when altogether\n free.\n\n\nNow let us suppose that the body $A$ is a conductor. We\n might treat this as a case of equilibrium of a system of bodies,\n the moveable electricity being considered as part of that system,\n and we might argue that as the system is unstable when\n deprived of so many degrees of freedom by the fixture of its\n electricity, it must \u00e0 fortiori be unstable when this freedom is\n restored to it.\n\n\nBut we may consider this case in a more particular way,\n thus-\n\n\nFirst, let the electricity be fixed in $A$, and let $A$ move parallel\n to itself through the small distance $d r$. The increment of the\n potential of $A$ due to this cause has been already considered.\n\n\nNext, let the electricity be allowed to move within $A$ into its\n position of equilibrium, which is always stable. During this\n motion the potential will necessarily be diminished by a quantity\n which we may call $C d r$.\n",
+            "structured_lines": [
+              {
+                "page": 210,
+                "line_number": 4,
+                "type": "text",
+                "content": "and let $d M$ be the increment of the potential of $A$ with respect to",
+                "mathpix_content": "\nand let $d M$ be the increment of the potential of $A$ with respect to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 5,
+                "type": "text",
+                "content": "the surrounding system $B$.",
+                "mathpix_content": " the surrounding system $B$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 6,
+                "type": "text",
+                "content": "If this be positive, work will have to be done to increase $r$,",
+                "mathpix_content": "\n\nIf this be positive, work will have to be done to increase $r$,",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 210,
+                "line_number": 7,
+                "type": "text",
+                "content": "and there will be a force $R=d M / d r$ tending to diminish $r$ and",
+                "mathpix_content": " and there will be a force $R=d M / d r$ tending to diminish $r$ and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 8,
+                "type": "text",
+                "content": "to restore $A$ to its former position, and for this displacement",
+                "mathpix_content": " to restore $A$ to its former position, and for this displacement",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 9,
+                "type": "text",
+                "content": "therefore the equilibrium will be stable. If, on the other hand,",
+                "mathpix_content": " therefore the equilibrium will be stable. If, on the other hand,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 10,
+                "type": "text",
+                "content": "this quantity is negative, the force will tend to increase $r$, and",
+                "mathpix_content": " this quantity is negative, the force will tend to increase $r$, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 11,
+                "type": "text",
+                "content": "the equilibrium will be unstable.",
+                "mathpix_content": " the equilibrium will be unstable.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 12,
+                "type": "text",
+                "content": "Now consider a sphere whose centre is the origin and whose",
+                "mathpix_content": "\n\nNow consider a sphere whose centre is the origin and whose",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 13,
+                "type": "text",
+                "content": "radius is $r$, and so small that when the point fixed in the body",
+                "mathpix_content": " radius is $r$, and so small that when the point fixed in the body",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 210,
+                "line_number": 14,
+                "type": "text",
+                "content": "lies within this sphere no part of the moveable body $A$ can",
+                "mathpix_content": " lies within this sphere no part of the moveable body $A$ can",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 15,
+                "type": "text",
+                "content": "coincide with any part of the external system $B$. Then, since",
+                "mathpix_content": " coincide with any part of the external system $B$. Then, since",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 16,
+                "type": "text",
+                "content": "within the sphere $\\nabla^{2} M=0$, the surface-integral",
+                "mathpix_content": " within the sphere $\\nabla^{2} M=0$, the surface-integral",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 19,
+                "type": "text",
+                "content": "taken over the surface of the sphere, is zero.",
+                "mathpix_content": "\ntaken over the surface of the sphere, is zero.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 20,
+                "type": "text",
+                "content": "Hence. if at any part of the surface of the sphere $d M / d r$ is",
+                "mathpix_content": "\nHence. if at any part of the surface of the sphere $d M / d r$ is",
+                "font_size": 27,
+                "confidence": 0.9990236759185791
+              },
+              {
+                "page": 210,
+                "line_number": 21,
+                "type": "text",
+                "content": "positive, there must be some other part of the surface where it is",
+                "mathpix_content": " positive, there must be some other part of the surface where it is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 22,
+                "type": "text",
+                "content": "negative, and if the body $A$ be displaced in a direction in which",
+                "mathpix_content": " negative, and if the body $A$ be displaced in a direction in which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 23,
+                "type": "text",
+                "content": "$d M / d r$ is negative, it will tend to move from its original position,",
+                "mathpix_content": " $d M / d r$ is negative, it will tend to move from its original position,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 24,
+                "type": "text",
+                "content": "and its equilibrium is therefore necessarily unstable.",
+                "mathpix_content": " and its equilibrium is therefore necessarily unstable.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 25,
+                "type": "text",
+                "content": "The body therefore is unstable even when constrained to move",
+                "mathpix_content": "\n\nThe body therefore is unstable even when constrained to move",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 26,
+                "type": "text",
+                "content": "parallel to itself, and a fortior $i$ it is unstable when altogether",
+                "mathpix_content": " parallel to itself, and a fortior $i$ it is unstable when altogether",
+                "font_size": 27,
+                "confidence": 0.6733567157205245
+              },
+              {
+                "page": 210,
+                "line_number": 27,
+                "type": "text",
+                "content": "free.",
+                "mathpix_content": " free.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 28,
+                "type": "text",
+                "content": "Now let us suppose that the body $A$ is a conductor. We",
+                "mathpix_content": "\n\nNow let us suppose that the body $A$ is a conductor. We",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 29,
+                "type": "text",
+                "content": "might treat this as a case of equilibrium of a system of bodies,",
+                "mathpix_content": " might treat this as a case of equilibrium of a system of bodies,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 30,
+                "type": "text",
+                "content": "the moveable electricity being considered as part of that system,",
+                "mathpix_content": " the moveable electricity being considered as part of that system,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 31,
+                "type": "text",
+                "content": "and we might argue that as the system is unstable when",
+                "mathpix_content": " and we might argue that as the system is unstable when",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 32,
+                "type": "text",
+                "content": "deprived of so many degrees of freedom by the fixture of its",
+                "mathpix_content": " deprived of so many degrees of freedom by the fixture of its",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 33,
+                "type": "text",
+                "content": "electricity, it must \u00e0 fortiori be unstable when this freedom is",
+                "mathpix_content": " electricity, it must \u00e0 fortiori be unstable when this freedom is",
+                "font_size": 27,
+                "confidence": 0.8290186855010688
+              },
+              {
+                "page": 210,
+                "line_number": 34,
+                "type": "text",
+                "content": "restored to it.",
+                "mathpix_content": " restored to it.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 35,
+                "type": "text",
+                "content": "But we may consider this case in a more particular way,",
+                "mathpix_content": "\n\nBut we may consider this case in a more particular way,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 36,
+                "type": "text",
+                "content": "thus-",
+                "mathpix_content": " thus-",
+                "font_size": 27,
+                "confidence": 0.96435546875
+              },
+              {
+                "page": 210,
+                "line_number": 37,
+                "type": "text",
+                "content": "First, let the electricity be fixed in $A$, and let $A$ move parallel",
+                "mathpix_content": "\n\nFirst, let the electricity be fixed in $A$, and let $A$ move parallel",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 38,
+                "type": "text",
+                "content": "to itself through the small distance $d r$. The increment of the",
+                "mathpix_content": " to itself through the small distance $d r$. The increment of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 39,
+                "type": "text",
+                "content": "potential of $A$ due to this cause has been already considered.",
+                "mathpix_content": " potential of $A$ due to this cause has been already considered.",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 210,
+                "line_number": 40,
+                "type": "text",
+                "content": "Next, let the electricity be allowed to move within $A$ into its",
+                "mathpix_content": "\n\nNext, let the electricity be allowed to move within $A$ into its",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 41,
+                "type": "text",
+                "content": "position of equilibrium, which is always stable. During this",
+                "mathpix_content": " position of equilibrium, which is always stable. During this",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 42,
+                "type": "text",
+                "content": "motion the potential will necessarily be diminished by a quantity",
+                "mathpix_content": " motion the potential will necessarily be diminished by a quantity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 210,
+                "line_number": 43,
+                "type": "text",
+                "content": "which we may call $C d r$.",
+                "mathpix_content": " which we may call $C d r$.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 176,
+      "title": "POINTS AND LINES OF EQUILIBRIUM.",
+      "page_start": 211,
+      "page_end": 211,
+      "articles": [
+        {
+          "article_id": "article_176",
+          "article_number": 176,
+          "title_original": "POINTS AND LINES OF EQUILIBRIUM.",
+          "title_safe": "POINTS AND LINES OF EQUILIBRIUM",
+          "page_start": 211,
+          "page_end": 211,
+          "content": {
+            "raw_text": "\n--- Page 211 ---\n176\nPOINTS AND LINES OF EQUILIBRIUM.\nHence the total increment of the potential when the electricity\nis free to move will be\n$$\\left(\\begin{array}{l}\nd M \\\\\nd r\n\\end{array}-C\\right) d r$$\nand the force tending to bring $A$ back towards its original\nposition will be\n$$\\frac{d M}{d r}-C,$$\nwhere $C$ is always positive.\nNow we have shewn that $d M / d r$ is negative for certain\ndirections of $r$, hence when the electricity is free to move the\ninstability in these directions will be increased.\n",
+            "mathpix_markdown": "\n--- Page 211 ---\n\n\nHence the total increment of the potential when the electricity\n is free to move will be\n\n$$\\left(\\begin{array}{l}\nd M \\\\\nd r\n\\end{array}-C\\right) d r$$\n\nand the force tending to bring $A$ back towards its original\n position will be\n\n$$\\frac{d M}{d r}-C,$$\n\nwhere $C$ is always positive.\n\nNow we have shewn that $d M / d r$ is negative for certain\n directions of $r$, hence when the electricity is free to move the\n instability in these directions will be increased.\n",
+            "structured_lines": [
+              {
+                "page": 211,
+                "line_number": 3,
+                "type": "text",
+                "content": "Hence the total increment of the potential when the electricity",
+                "mathpix_content": "\n\nHence the total increment of the potential when the electricity",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 211,
+                "line_number": 4,
+                "type": "text",
+                "content": "is free to move will be",
+                "mathpix_content": " is free to move will be",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 211,
+                "line_number": 7,
+                "type": "text",
+                "content": "and the force tending to bring $A$ back towards its original",
+                "mathpix_content": "\nand the force tending to bring $A$ back towards its original",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 211,
+                "line_number": 8,
+                "type": "text",
+                "content": "position will be",
+                "mathpix_content": " position will be",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 211,
+                "line_number": 11,
+                "type": "text",
+                "content": "where $C$ is always positive.",
+                "mathpix_content": "\nwhere $C$ is always positive.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 211,
+                "line_number": 12,
+                "type": "text",
+                "content": "Now we have shewn that $d M / d r$ is negative for certain",
+                "mathpix_content": "\nNow we have shewn that $d M / d r$ is negative for certain",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 211,
+                "line_number": 13,
+                "type": "text",
+                "content": "directions of $r$, hence when the electricity is free to move the",
+                "mathpix_content": " directions of $r$, hence when the electricity is free to move the",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 211,
+                "line_number": 14,
+                "type": "text",
+                "content": "instability in these directions will be increased.",
+                "mathpix_content": " instability in these directions will be increased.",
+                "font_size": 34,
+                "confidence": 0.9970703125
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 117,
+      "title": "] We have seen that the determination of the distribution",
+      "page_start": 212,
+      "page_end": 211,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$",
+      "page_start": 212,
+      "page_end": 211,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 117,
+      "title": "] We have seen that the determination of the distribution",
+      "page_start": 212,
+      "page_end": 211,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 2,
+      "title": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$",
+      "page_start": 212,
+      "page_end": 212,
+      "articles": [
+        {
+          "article_id": "article_117",
+          "article_number": 117,
+          "title_original": "] We have seen that the determination of the distribution",
+          "title_safe": "We have seen that the determination of the distribution",
+          "page_start": 212,
+          "page_end": 211,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_117",
+          "article_number": 117,
+          "title_original": "] We have seen that the determination of the distribution",
+          "title_safe": "We have seen that the determination of the distribution",
+          "page_start": 212,
+          "page_end": 211,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_117",
+          "article_number": 117,
+          "title_original": ".] We have seen that the determination of the distribution",
+          "title_safe": "We have seen that the determination of the distribution",
+          "page_start": 212,
+          "page_end": 211,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2equals0",
+          "page_start": 212,
+          "page_end": 211,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_117",
+          "article_number": 117,
+          "title_original": ".] We have seen that the determination of the distribution",
+          "title_safe": "We have seen that the determination of the distribution",
+          "page_start": 212,
+          "page_end": 211,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$",
+          "title_safe": "Vd x2plusfracd2 Vd y2plusfracd2 Vd z2equals0",
+          "page_start": 212,
+          "page_end": 212,
+          "content": {
+            "raw_text": "\n--- Page 212 ---\n\nCHAPTER VII.\n\nFORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF\nINDUCTION IN SIMPLE CASES.\n117.] We have seen that the determination of the distribution\nof electricity on the surface of conductors may be made to depend\non the solution of Laplace's equation\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$\n$V$ being a function of $x, y$, and $z$, which is always finite and con-\ntinuous, which vanishes at an infinite distance, and which has a\ngiven constant value at the surface of each conductor.\nIt is not in general possible by known mathematical methods\nto solve this equation so as to fulfil arbitrarily given conditions,\nbut it is easy to write down any number of expressions for the\nfunction $V$ which shall satisfy the equation, and to determine in\neach case the forms of the conducting surfaces, so that the func-\ntion $V$ shall be the true solution.\nIt appears, therefore, that what we should naturally call the\ninverse problem of determining the forms of the conductors when\nthe expression for the potential is given is more manageable than\nthe direct problem of determining the potential when the form of\nthe conductors is given.\nIn fact, every electrical problem of which we know the solu-\ntion has been constructed by this inverse process. It is therefore\nof great importance to the electrician that he should know what\nresults have been obtained in this way, since the only method by\nwhich he can expect to solve a new problem is by reducing it to\none of the cases in which a similar problem has been constructed\nby the inverse process.\nThis historical knowledge of results can be turned to account\nin two ways. If we are required to devise an instrument for\nmaking electrical measurements with the greatest accuracy, we\nmay select those forms for the electrified surfaces which corre-\nVOL. I.\nN\n",
+            "mathpix_markdown": "\n--- Page 212 ---\n\n\n\\section*{CHAPTER VII.}\n\n\n\\section*{FORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF\n INDUCTION IN SIMPLE CASES.}\n\n117.] We have seen that the determination of the distribution\n of electricity on the surface of conductors may be made to depend\n on the solution of Laplace's equation\n\n$$\\frac{d^{2} V}{d x^{2}}+\\frac{d^{2} V}{d y^{2}}+\\frac{d^{2} V}{d z^{2}}=0,$$\n\n$V$ being a function of $x, y$, and $z$, which is always finite and con\ntinuous, which vanishes at an infinite distance, and which has a\n given constant value at the surface of each conductor.\n\n\nIt is not in general possible by known mathematical methods\n to solve this equation so as to fulfil arbitrarily given conditions,\n but it is easy to write down any number of expressions for the\n function $V$ which shall satisfy the equation, and to determine in\n each case the forms of the conducting surfaces, so that the func\ntion $V$ shall be the true solution.\n\n\nIt appears, therefore, that what we should naturally call the\n inverse problem of determining the forms of the conductors when\n the expression for the potential is given is more manageable than\n the direct problem of determining the potential when the form of\n the conductors is given.\n\n\nIn fact, every electrical problem of which we know the solu\ntion has been constructed by this inverse process. It is therefore\n of great importance to the electrician that he should know what\n results have been obtained in this way, since the only method by\n which he can expect to solve a new problem is by reducing it to\n one of the cases in which a similar problem has been constructed\n by the inverse process.\n\n\nThis historical knowledge of results can be turned to account\n in two ways. If we are required to devise an instrument for\n making electrical measurements with the greatest accuracy, we\n may select those forms for the electrified surfaces which corre-\n",
+            "structured_lines": [
+              {
+                "page": 212,
+                "line_number": 2,
+                "type": "text",
+                "content": "CHAPTER VII.",
+                "mathpix_content": "\n\n\\section*{CHAPTER VII.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 4,
+                "type": "text",
+                "content": "FORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF",
+                "mathpix_content": "\n\n\\section*{FORMS OF THE EQUIPOTENTIAL SURFACES AND LINES OF",
+                "font_size": 21,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 5,
+                "type": "text",
+                "content": "INDUCTION IN SIMPLE CASES.",
+                "mathpix_content": " INDUCTION IN SIMPLE CASES.}",
+                "font_size": 21,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 6,
+                "type": "text",
+                "content": "117.] We have seen that the determination of the distribution",
+                "mathpix_content": "\n117.] We have seen that the determination of the distribution",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 212,
+                "line_number": 7,
+                "type": "text",
+                "content": "of electricity on the surface of conductors may be made to depend",
+                "mathpix_content": " of electricity on the surface of conductors may be made to depend",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 8,
+                "type": "text",
+                "content": "on the solution of Laplace's equation",
+                "mathpix_content": " on the solution of Laplace's equation",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 11,
+                "type": "text",
+                "content": "$V$ being a function of $x, y$, and $z$, which is always finite and con-",
+                "mathpix_content": "\n$V$ being a function of $x, y$, and $z$, which is always finite and con",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 212,
+                "line_number": 12,
+                "type": "text",
+                "content": "tinuous, which vanishes at an infinite distance, and which has a",
+                "mathpix_content": "tinuous, which vanishes at an infinite distance, and which has a",
+                "font_size": 27,
+                "confidence": 0.9609375
+              },
+              {
+                "page": 212,
+                "line_number": 13,
+                "type": "text",
+                "content": "given constant value at the surface of each conductor.",
+                "mathpix_content": " given constant value at the surface of each conductor.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 14,
+                "type": "text",
+                "content": "It is not in general possible by known mathematical methods",
+                "mathpix_content": "\n\nIt is not in general possible by known mathematical methods",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 15,
+                "type": "text",
+                "content": "to solve this equation so as to fulfil arbitrarily given conditions,",
+                "mathpix_content": " to solve this equation so as to fulfil arbitrarily given conditions,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 16,
+                "type": "text",
+                "content": "but it is easy to write down any number of expressions for the",
+                "mathpix_content": " but it is easy to write down any number of expressions for the",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 212,
+                "line_number": 17,
+                "type": "text",
+                "content": "function $V$ which shall satisfy the equation, and to determine in",
+                "mathpix_content": " function $V$ which shall satisfy the equation, and to determine in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 18,
+                "type": "text",
+                "content": "each case the forms of the conducting surfaces, so that the func-",
+                "mathpix_content": " each case the forms of the conducting surfaces, so that the func",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 19,
+                "type": "text",
+                "content": "tion $V$ shall be the true solution.",
+                "mathpix_content": "tion $V$ shall be the true solution.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 20,
+                "type": "text",
+                "content": "It appears, therefore, that what we should naturally call the",
+                "mathpix_content": "\n\nIt appears, therefore, that what we should naturally call the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 21,
+                "type": "text",
+                "content": "inverse problem of determining the forms of the conductors when",
+                "mathpix_content": " inverse problem of determining the forms of the conductors when",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 22,
+                "type": "text",
+                "content": "the expression for the potential is given is more manageable than",
+                "mathpix_content": " the expression for the potential is given is more manageable than",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 23,
+                "type": "text",
+                "content": "the direct problem of determining the potential when the form of",
+                "mathpix_content": " the direct problem of determining the potential when the form of",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 212,
+                "line_number": 24,
+                "type": "text",
+                "content": "the conductors is given.",
+                "mathpix_content": " the conductors is given.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 25,
+                "type": "text",
+                "content": "In fact, every electrical problem of which we know the solu-",
+                "mathpix_content": "\n\nIn fact, every electrical problem of which we know the solu",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 212,
+                "line_number": 26,
+                "type": "text",
+                "content": "tion has been constructed by this inverse process. It is therefore",
+                "mathpix_content": "tion has been constructed by this inverse process. It is therefore",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 27,
+                "type": "text",
+                "content": "of great importance to the electrician that he should know what",
+                "mathpix_content": " of great importance to the electrician that he should know what",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 28,
+                "type": "text",
+                "content": "results have been obtained in this way, since the only method by",
+                "mathpix_content": " results have been obtained in this way, since the only method by",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 29,
+                "type": "text",
+                "content": "which he can expect to solve a new problem is by reducing it to",
+                "mathpix_content": " which he can expect to solve a new problem is by reducing it to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 30,
+                "type": "text",
+                "content": "one of the cases in which a similar problem has been constructed",
+                "mathpix_content": " one of the cases in which a similar problem has been constructed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 31,
+                "type": "text",
+                "content": "by the inverse process.",
+                "mathpix_content": " by the inverse process.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 32,
+                "type": "text",
+                "content": "This historical knowledge of results can be turned to account",
+                "mathpix_content": "\n\nThis historical knowledge of results can be turned to account",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 212,
+                "line_number": 33,
+                "type": "text",
+                "content": "in two ways. If we are required to devise an instrument for",
+                "mathpix_content": " in two ways. If we are required to devise an instrument for",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 212,
+                "line_number": 34,
+                "type": "text",
+                "content": "making electrical measurements with the greatest accuracy, we",
+                "mathpix_content": " making electrical measurements with the greatest accuracy, we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 212,
+                "line_number": 35,
+                "type": "text",
+                "content": "may select those forms for the electrified surfaces which corre-",
+                "mathpix_content": " may select those forms for the electrified surfaces which corre-",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 178,
+      "title": "EQUIPOTENTIAL SURFACES.",
+      "page_start": 213,
+      "page_end": 212,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 118,
+      "title": "spond to cases of which we know the accurate solution. If, on",
+      "page_start": 213,
+      "page_end": 212,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 123,
+      "title": "118.] In the first figure at the end of this volume we have the",
+      "page_start": 213,
+      "page_end": 212,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 20,
+      "title": "to 5 .",
+      "page_start": 213,
+      "page_end": 212,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 4,
+      "title": "to 1 , then the diagram will",
+      "page_start": 213,
+      "page_end": 212,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 123,
+      "title": "118.] In the first figure at the end of this volume we have the",
+      "page_start": 213,
+      "page_end": 212,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 20,
+      "title": "to 5 .",
+      "page_start": 213,
+      "page_end": 212,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 4,
+      "title": "to 1 , then the diagram will",
+      "page_start": 213,
+      "page_end": 213,
+      "articles": [
+        {
+          "article_id": "article_123",
+          "article_number": 123,
+          "title_original": "118.] In the first figure at the end of this volume we have the",
+          "title_safe": "118. In the first figure at the end of this volume we have t",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_123",
+          "article_number": 123,
+          "title_original": "118.] In the first figure at the end of this volume we have the",
+          "title_safe": "118. In the first figure at the end of this volume we have t",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_118",
+          "article_number": 118,
+          "title_original": "spond to cases of which we know the accurate solution. If, on",
+          "title_safe": "spond to cases of which we know the accurate solution. If on",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_123",
+          "article_number": 123,
+          "title_original": "118.] In the first figure at the end of this volume we have the",
+          "title_safe": "118. In the first figure at the end of this volume we have t",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_123",
+          "article_number": 123,
+          "title_original": "118.] In the first figure at the end of this volume we have the",
+          "title_safe": "118. In the first figure at the end of this volume we have t",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_178",
+          "article_number": 178,
+          "title_original": "EQUIPOTENTIAL SURFACES.",
+          "title_safe": "EQUIPOTENTIAL SURFACES",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_118",
+          "article_number": 118,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_123",
+          "article_number": 123,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_118",
+          "article_number": 118,
+          "title_original": ".] In the first figure at the end of this volume we have the",
+          "title_safe": "In the first figure at the end of this volume we have the",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_20",
+          "article_number": 20,
+          "title_original": "to 5 .",
+          "title_safe": "to 5",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "to 1 , then the diagram will",
+          "title_safe": "to 1 then the diagram will",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_123",
+          "article_number": 123,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_118",
+          "article_number": 118,
+          "title_original": ".] In the first figure at the end of this volume we have the",
+          "title_safe": "In the first figure at the end of this volume we have the",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_20",
+          "article_number": 20,
+          "title_original": "to 5 .",
+          "title_safe": "to 5",
+          "page_start": 213,
+          "page_end": 212,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "to 1 , then the diagram will",
+          "title_safe": "to 1 then the diagram will",
+          "page_start": 213,
+          "page_end": 213,
+          "content": {
+            "raw_text": "\n--- Page 213 ---\n178\nEQUIPOTENTIAL SURFACES.\n[118.\nspond to cases of which we know the accurate solution. If, on\nthe other hand, we are required to estimate what will be the\nelectrification of bodies whose forms are given, we may begin\nwith some case in which one of the equipotential surfaces takes\na form somewhat resembling the given form, and then by a\ntentative method we may modify the problem till it more nearly\ncorresponds to the given case. This method is evidently very\nimperfect considered from a mathematical point of view, but it\nis the only one we have, and if we are not allowed to choose our\nconditions, we can make only an approximate calculation of the\nelectrification. It appears, therefore, that what we want is a\nknowledge of the forms of equipotential surfaces and lines of\ninduction in as many different cases as we can collect together\nand remember. In certain classes of cases, such as those relating\nto spheres, there are known mathematical methods by which we\nmay proceed. In other cases we cannot afford to despise the\nhumbler method of actually drawing tentative figures on paper,\nand selecting that which appears least unlike the figure we\nrequire.\nThis latter method I think may be of some use, even in cases\nin which the exact solution has been obtained, for I find that an\neye-knowledge of the forms of the equipotential surfaces often\nleads to a right selection of a mathematical method of solution.\nI have therefore drawn several diagrams of systems of equi-\npotential surfaces and lines of induction, so that the student may\nmake himself familiar with the forms of the lines. The methods\nby which such diagrams may be drawn will be explained in\nArt. 123.\n118.] In the first figure at the end of this volume we have the\nsections of the equipotential surfaces surrounding two points\ncharged with quantities of electricity of the same kind and in\nthe ratio of 20 to 5 .\nHere each point is surrounded by a system of equipotential\nsurfaces which become more nearly spheres as they become\nsmaller, though none of them are accurately spheres. If two of\nthese surfaces, one surrounding each point, be taken to represent\nthe surfaces of two conducting bodies, nearly but not quite\nspherical, and if these bodies be charged with the same kind of\nelectricity, the charges being as 4 to 1 , then the diagram will\nrepresent the equipotential surfaces, provided we expunge all\n",
+            "mathpix_markdown": "\n--- Page 213 ---\n\nspond to cases of which we know the accurate solution. If, on\n the other hand, we are required to estimate what will be the\n electrification of bodies whose forms are given, we may begin\n with some case in which one of the equipotential surfaces takes\n a form somewhat resembling the given form, and then by a\n tentative method we may modify the problem till it more nearly\n corresponds to the given case. This method is evidently very\n imperfect considered from a mathematical point of view, but it\n is the only one we have, and if we are not allowed to choose our\n conditions, we can make only an approximate calculation of the\n electrification. It appears, therefore, that what we want is a\n knowledge of the forms of equipotential surfaces and lines of\n induction in as many different cases as we can collect together\n and remember. In certain classes of cases, such as those relating\n to spheres, there are known mathematical methods by which we\n may proceed. In other cases we cannot afford to despise the\n humbler method of actually drawing tentative figures on paper,\n and selecting that which appears least unlike the figure we\n require.\n\n\nThis latter method I think may be of some use, even in cases\n in which the exact solution has been obtained, for I find that an\n eye-knowledge of the forms of the equipotential surfaces often\n leads to a right selection of a mathematical method of solution.\n\n\nI have therefore drawn several diagrams of systems of equi\npotential surfaces and lines of induction, so that the student may\n make himself familiar with the forms of the lines. The methods\n by which such diagrams may be drawn will be explained in\n Art. 123.\n\n118.] In the first figure at the end of this volume we have the\n sections of the equipotential surfaces surrounding two points\n charged with quantities of electricity of the same kind and in\n the ratio of 20 to 5 .\n\n\nHere each point is surrounded by a system of equipotential\n surfaces which become more nearly spheres as they become\n smaller, though none of them are accurately spheres. If two of\n these surfaces, one surrounding each point, be taken to represent\n the surfaces of two conducting bodies, nearly but not quite\n spherical, and if these bodies be charged with the same kind of\n electricity, the charges being as 4 to 1 , then the diagram will\n represent the equipotential surfaces, provided we expunge all\n",
+            "structured_lines": [
+              {
+                "page": 213,
+                "line_number": 4,
+                "type": "text",
+                "content": "spond to cases of which we know the accurate solution. If, on",
+                "mathpix_content": "\nspond to cases of which we know the accurate solution. If, on",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 5,
+                "type": "text",
+                "content": "the other hand, we are required to estimate what will be the",
+                "mathpix_content": " the other hand, we are required to estimate what will be the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 6,
+                "type": "text",
+                "content": "electrification of bodies whose forms are given, we may begin",
+                "mathpix_content": " electrification of bodies whose forms are given, we may begin",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 7,
+                "type": "text",
+                "content": "with some case in which one of the equipotential surfaces takes",
+                "mathpix_content": " with some case in which one of the equipotential surfaces takes",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 213,
+                "line_number": 8,
+                "type": "text",
+                "content": "a form somewhat resembling the given form, and then by a",
+                "mathpix_content": " a form somewhat resembling the given form, and then by a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 9,
+                "type": "text",
+                "content": "tentative method we may modify the problem till it more nearly",
+                "mathpix_content": " tentative method we may modify the problem till it more nearly",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 10,
+                "type": "text",
+                "content": "corresponds to the given case. This method is evidently very",
+                "mathpix_content": " corresponds to the given case. This method is evidently very",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 11,
+                "type": "text",
+                "content": "imperfect considered from a mathematical point of view, but it",
+                "mathpix_content": " imperfect considered from a mathematical point of view, but it",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 12,
+                "type": "text",
+                "content": "is the only one we have, and if we are not allowed to choose our",
+                "mathpix_content": " is the only one we have, and if we are not allowed to choose our",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 13,
+                "type": "text",
+                "content": "conditions, we can make only an approximate calculation of the",
+                "mathpix_content": " conditions, we can make only an approximate calculation of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 14,
+                "type": "text",
+                "content": "electrification. It appears, therefore, that what we want is a",
+                "mathpix_content": " electrification. It appears, therefore, that what we want is a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 15,
+                "type": "text",
+                "content": "knowledge of the forms of equipotential surfaces and lines of",
+                "mathpix_content": " knowledge of the forms of equipotential surfaces and lines of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 16,
+                "type": "text",
+                "content": "induction in as many different cases as we can collect together",
+                "mathpix_content": " induction in as many different cases as we can collect together",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 17,
+                "type": "text",
+                "content": "and remember. In certain classes of cases, such as those relating",
+                "mathpix_content": " and remember. In certain classes of cases, such as those relating",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 213,
+                "line_number": 18,
+                "type": "text",
+                "content": "to spheres, there are known mathematical methods by which we",
+                "mathpix_content": " to spheres, there are known mathematical methods by which we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 19,
+                "type": "text",
+                "content": "may proceed. In other cases we cannot afford to despise the",
+                "mathpix_content": " may proceed. In other cases we cannot afford to despise the",
+                "font_size": 27,
+                "confidence": 0.994140625
+              },
+              {
+                "page": 213,
+                "line_number": 20,
+                "type": "text",
+                "content": "humbler method of actually drawing tentative figures on paper,",
+                "mathpix_content": " humbler method of actually drawing tentative figures on paper,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 21,
+                "type": "text",
+                "content": "and selecting that which appears least unlike the figure we",
+                "mathpix_content": " and selecting that which appears least unlike the figure we",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 22,
+                "type": "text",
+                "content": "require.",
+                "mathpix_content": " require.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 23,
+                "type": "text",
+                "content": "This latter method I think may be of some use, even in cases",
+                "mathpix_content": "\n\nThis latter method I think may be of some use, even in cases",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 24,
+                "type": "text",
+                "content": "in which the exact solution has been obtained, for I find that an",
+                "mathpix_content": " in which the exact solution has been obtained, for I find that an",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 213,
+                "line_number": 25,
+                "type": "text",
+                "content": "eye-knowledge of the forms of the equipotential surfaces often",
+                "mathpix_content": " eye-knowledge of the forms of the equipotential surfaces often",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 26,
+                "type": "text",
+                "content": "leads to a right selection of a mathematical method of solution.",
+                "mathpix_content": " leads to a right selection of a mathematical method of solution.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 27,
+                "type": "text",
+                "content": "I have therefore drawn several diagrams of systems of equi-",
+                "mathpix_content": "\n\nI have therefore drawn several diagrams of systems of equi",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 28,
+                "type": "text",
+                "content": "potential surfaces and lines of induction, so that the student may",
+                "mathpix_content": "potential surfaces and lines of induction, so that the student may",
+                "font_size": 27,
+                "confidence": 0.9990236759185791
+              },
+              {
+                "page": 213,
+                "line_number": 29,
+                "type": "text",
+                "content": "make himself familiar with the forms of the lines. The methods",
+                "mathpix_content": " make himself familiar with the forms of the lines. The methods",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 30,
+                "type": "text",
+                "content": "by which such diagrams may be drawn will be explained in",
+                "mathpix_content": " by which such diagrams may be drawn will be explained in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 31,
+                "type": "text",
+                "content": "Art. 123.",
+                "mathpix_content": " Art. 123.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 32,
+                "type": "text",
+                "content": "118.] In the first figure at the end of this volume we have the",
+                "mathpix_content": "\n118.] In the first figure at the end of this volume we have the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 33,
+                "type": "text",
+                "content": "sections of the equipotential surfaces surrounding two points",
+                "mathpix_content": " sections of the equipotential surfaces surrounding two points",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 34,
+                "type": "text",
+                "content": "charged with quantities of electricity of the same kind and in",
+                "mathpix_content": " charged with quantities of electricity of the same kind and in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 35,
+                "type": "text",
+                "content": "the ratio of 20 to 5 .",
+                "mathpix_content": " the ratio of 20 to 5 .",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 36,
+                "type": "text",
+                "content": "Here each point is surrounded by a system of equipotential",
+                "mathpix_content": "\n\nHere each point is surrounded by a system of equipotential",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 37,
+                "type": "text",
+                "content": "surfaces which become more nearly spheres as they become",
+                "mathpix_content": " surfaces which become more nearly spheres as they become",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 38,
+                "type": "text",
+                "content": "smaller, though none of them are accurately spheres. If two of",
+                "mathpix_content": " smaller, though none of them are accurately spheres. If two of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 39,
+                "type": "text",
+                "content": "these surfaces, one surrounding each point, be taken to represent",
+                "mathpix_content": " these surfaces, one surrounding each point, be taken to represent",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 40,
+                "type": "text",
+                "content": "the surfaces of two conducting bodies, nearly but not quite",
+                "mathpix_content": " the surfaces of two conducting bodies, nearly but not quite",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 41,
+                "type": "text",
+                "content": "spherical, and if these bodies be charged with the same kind of",
+                "mathpix_content": " spherical, and if these bodies be charged with the same kind of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 213,
+                "line_number": 42,
+                "type": "text",
+                "content": "electricity, the charges being as 4 to 1 , then the diagram will",
+                "mathpix_content": " electricity, the charges being as 4 to 1 , then the diagram will",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 213,
+                "line_number": 43,
+                "type": "text",
+                "content": "represent the equipotential surfaces, provided we expunge all",
+                "mathpix_content": " represent the equipotential surfaces, provided we expunge all",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

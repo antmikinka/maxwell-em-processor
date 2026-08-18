@@ -117,9 +117,10 @@ maxwell_em_processor/
 │   └── utils.py              # Shared utilities
 ├── mpxpy/                    # Vendored Mathpix SDK fork (MIT)
 ├── input/                    # Maxwell 1873 scans + TOC READMEs (public domain)
-├── MAXWELL_VOLUME_1_MASTER_OUTPUT/  # Published Volume I OCR edition (public domain)
-├── MAXWELL_VOLUME_2_MASTER_OUTPUT/  # Published Volume II OCR edition (public domain)
-├── output/                   # Local cache/logs/trial OCR (not published)
+├── MAXWELL_VOLUME_1_MASTER_OUTPUT/  # Volume I OCR edition + RAW_OUTPUTS (public domain)
+├── MAXWELL_VOLUME_2_MASTER_OUTPUT/  # Volume II OCR edition + RAW_OUTPUTS (public domain)
+├── Maxwell_TOC_Fixed/        # Intermediate TOC split (public domain; not the edition)
+├── output/                   # Local cache/logs/non-Maxwell trial OCR (not published)
 ├── main_pipeline.py          # Pipeline orchestrator
 ├── requirements.txt          # Python dependencies
 ├── .gitignore                # Git ignore rules
@@ -156,14 +157,16 @@ project claims no copyright in the scans or in the mechanical OCR.
 | `input/15774-A Treatise On Electricity And Magnetism Vol-ii.pdf` | Volume II scan |
 | `MAXWELL_VOLUME_1_MASTER_OUTPUT/volume_1_ocr.md` | Volume I OCR (Markdown + LaTeX) |
 | `MAXWELL_VOLUME_2_MASTER_OUTPUT/volume_2_ocr.md` | Volume II OCR (Markdown + LaTeX) |
-| `MAXWELL_VOLUME_*_MASTER_OUTPUT/` | Chapter JSON, TOC extracts, processing reports |
+| `MAXWELL_VOLUME_*_MASTER_OUTPUT/` | Chapter JSON, reports, and `RAW_OUTPUTS/` (md, html, zip, docx, …) |
+| `Maxwell_TOC_Fixed/` | Intermediate TOC-split JSON (not Maxwell's real hierarchy) |
 | `maxwell_article_index.json` | Article number / title / page map |
 
-See `input/README.md` and each volume folder's `README.md`.
+See `input/README.md`, each volume folder's `README.md`, and
+`Maxwell_TOC_Fixed/README.md`.
 
-Not published: raw Mathpix zip/html/docx dumps, API caches, logs, a
-failed TOC-split tree, and any non-Maxwell PDF that may exist locally
-(including modern textbook chapters).
+Not published: API caches, processing logs, the earlier `Maxwell_TOC/`
+tree, and any non-Maxwell PDF that may exist locally (including modern
+textbook chapters and `output/simple-mode/`).
 
 ## Output
 

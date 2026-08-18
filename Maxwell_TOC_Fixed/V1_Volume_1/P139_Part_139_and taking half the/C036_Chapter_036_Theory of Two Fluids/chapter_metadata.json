@@ -1,0 +1,430 @@
+{
+  "chapter_id": "chapter_6",
+  "chapter_number": 36,
+  "title": "Theory of Two Fluids.",
+  "page_start": 75,
+  "page_end": 75,
+  "articles": [
+    {
+      "article_id": "article_36",
+      "article_number": 36,
+      "title_original": "Theory of Two Fluids.",
+      "title_safe": "Theory of Two Fluids",
+      "page_start": 75,
+      "page_end": 74,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_40",
+      "article_number": 40,
+      "title_original": "ELECTROSTATIC PHENOMENA.",
+      "title_safe": "ELECTROSTATIC PHENOMENA",
+      "page_start": 75,
+      "page_end": 74,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_36",
+      "article_number": 36,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 75,
+      "page_end": 75,
+      "content": {
+        "raw_text": "\n--- Page 75 ---\n40\nELECTROSTATIC PHENOMENA.\n[36.\n\nTheory of Two Fluids.\nIn what is called the Theory of Two Fluids, all bodies, in\ntheir unelectrified state, are supposed to be charged with equal\nquantities of positive and negative electricity. These quantities\nare supposed to be so great that no process of electrification\nhas ever yet deprived a body of all the electricity of either\nkind. The process of electrification, according to this theory,\nconsists in taking a certain quantity $P$ of positive electricity\nfrom the body $A$ and communicating it to $B$, or in taking\na quantity $N$ of negative electricity from $B$ and communicating\nit to $A$, or in some combination of these processes.\nThe result will be that $A$ will have $P+N$ units of negative\nelectricity over and above its remaining positive electricity,\nwhich is supposed to be in a state of combination with an equal\nquantity of negative electricity. This quantity $P+N$ is calied\nthe Free electricity, the rest is called the Combined, Latent, or\nFixed electricity.\nIn most expositions of this theory the two electricities are\ncalled 'Fluids,' because they are capable of being transferred\nfrom one body to another, and are, within conducting bodies,\nextremely mobile. The other properties of fluids, such as their\ninertia, weight, and elasticity, are not attributed to them by\nthose who have used the theory for merely mathematical pur-\nposes ; but the use of the word Fluid has been apt to mislead\nthe vulgar, including many men of science who are not natural\nphilosophers, and who have seized on the word Fluid as the\nonly term in the statement of the theory which seemed in-\ntelligible to them.\nWe shall see that the mathematical treatment of the subject\nhas been greatly developed by writers who express themselves\nin terms of the 'Two Fluids' theory. Their results, however,\nhave been deduced entirely from data which can be proved by\nexperiment, and which must therefore be true, whether we\nadopt the theory of two fluids or not. The experimental veri-\nfication of the mathematical results therefore is no evidence for\nor against the peculiar doctrines of this theory.\nThe introduction of two fluids permits us to consider the\nnegative electrification of $A$ and the positive electrification of $B$\nas the effect of any one of three different processes which would\nlead to the same result. We have already supposed it produced\n",
+        "mathpix_markdown": "\n--- Page 75 ---\n\n\n\\section*{Theory of Two Fluids.}\n\n\nIn what is called the Theory of Two Fluids, all bodies, in\n their unelectrified state, are supposed to be charged with equal\n quantities of positive and negative electricity. These quantities\n are supposed to be so great that no process of electrification\n has ever yet deprived a body of all the electricity of either\n kind. The process of electrification, according to this theory,\n consists in taking a certain quantity $P$ of positive electricity\n from the body $A$ and communicating it to $B$, or in taking\n a quantity $N$ of negative electricity from $B$ and communicating\n it to $A$, or in some combination of these processes.\n\n\nThe result will be that $A$ will have $P+N$ units of negative\n electricity over and above its remaining positive electricity,\n which is supposed to be in a state of combination with an equal\n quantity of negative electricity. This quantity $P+N$ is calied\n the Free electricity, the rest is called the Combined, Latent, or\n Fixed electricity.\n\n\nIn most expositions of this theory the two electricities are\n called 'Fluids,' because they are capable of being transferred\n from one body to another, and are, within conducting bodies,\n extremely mobile. The other properties of fluids, such as their\n inertia, weight, and elasticity, are not attributed to them by\n those who have used the theory for merely mathematical pur\nposes ; but the use of the word Fluid has been apt to mislead\n the vulgar, including many men of science who are not natural\n philosophers, and who have seized on the word Fluid as the\n only term in the statement of the theory which seemed in\ntelligible to them.\n\n\nWe shall see that the mathematical treatment of the subject\n has been greatly developed by writers who express themselves\n in terms of the 'Two Fluids' theory. Their results, however,\n have been deduced entirely from data which can be proved by\n experiment, and which must therefore be true, whether we\n adopt the theory of two fluids or not. The experimental veri\nfication of the mathematical results therefore is no evidence for\n or against the peculiar doctrines of this theory.\n\n\nThe introduction of two fluids permits us to consider the\n negative electrification of $A$ and the positive electrification of $B$\n as the effect of any one of three different processes which would\n lead to the same result. We have already supposed it produced\n",
+        "structured_lines": [
+          {
+            "page": 75,
+            "line_number": 5,
+            "type": "text",
+            "content": "Theory of Two Fluids.",
+            "mathpix_content": "\n\n\\section*{Theory of Two Fluids.}",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 6,
+            "type": "text",
+            "content": "In what is called the Theory of Two Fluids, all bodies, in",
+            "mathpix_content": "\n\nIn what is called the Theory of Two Fluids, all bodies, in",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 7,
+            "type": "text",
+            "content": "their unelectrified state, are supposed to be charged with equal",
+            "mathpix_content": " their unelectrified state, are supposed to be charged with equal",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 8,
+            "type": "text",
+            "content": "quantities of positive and negative electricity. These quantities",
+            "mathpix_content": " quantities of positive and negative electricity. These quantities",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 9,
+            "type": "text",
+            "content": "are supposed to be so great that no process of electrification",
+            "mathpix_content": " are supposed to be so great that no process of electrification",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 10,
+            "type": "text",
+            "content": "has ever yet deprived a body of all the electricity of either",
+            "mathpix_content": " has ever yet deprived a body of all the electricity of either",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 11,
+            "type": "text",
+            "content": "kind. The process of electrification, according to this theory,",
+            "mathpix_content": " kind. The process of electrification, according to this theory,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 12,
+            "type": "text",
+            "content": "consists in taking a certain quantity $P$ of positive electricity",
+            "mathpix_content": " consists in taking a certain quantity $P$ of positive electricity",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 13,
+            "type": "text",
+            "content": "from the body $A$ and communicating it to $B$, or in taking",
+            "mathpix_content": " from the body $A$ and communicating it to $B$, or in taking",
+            "font_size": 34,
+            "confidence": 0.9907269477844238
+          },
+          {
+            "page": 75,
+            "line_number": 14,
+            "type": "text",
+            "content": "a quantity $N$ of negative electricity from $B$ and communicating",
+            "mathpix_content": " a quantity $N$ of negative electricity from $B$ and communicating",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 15,
+            "type": "text",
+            "content": "it to $A$, or in some combination of these processes.",
+            "mathpix_content": " it to $A$, or in some combination of these processes.",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 75,
+            "line_number": 16,
+            "type": "text",
+            "content": "The result will be that $A$ will have $P+N$ units of negative",
+            "mathpix_content": "\n\nThe result will be that $A$ will have $P+N$ units of negative",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 17,
+            "type": "text",
+            "content": "electricity over and above its remaining positive electricity,",
+            "mathpix_content": " electricity over and above its remaining positive electricity,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 18,
+            "type": "text",
+            "content": "which is supposed to be in a state of combination with an equal",
+            "mathpix_content": " which is supposed to be in a state of combination with an equal",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 19,
+            "type": "text",
+            "content": "quantity of negative electricity. This quantity $P+N$ is calied",
+            "mathpix_content": " quantity of negative electricity. This quantity $P+N$ is calied",
+            "font_size": 34,
+            "confidence": 0.99462890625
+          },
+          {
+            "page": 75,
+            "line_number": 20,
+            "type": "text",
+            "content": "the Free electricity, the rest is called the Combined, Latent, or",
+            "mathpix_content": " the Free electricity, the rest is called the Combined, Latent, or",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 21,
+            "type": "text",
+            "content": "Fixed electricity.",
+            "mathpix_content": " Fixed electricity.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 22,
+            "type": "text",
+            "content": "In most expositions of this theory the two electricities are",
+            "mathpix_content": "\n\nIn most expositions of this theory the two electricities are",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 23,
+            "type": "text",
+            "content": "called 'Fluids,' because they are capable of being transferred",
+            "mathpix_content": " called 'Fluids,' because they are capable of being transferred",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 24,
+            "type": "text",
+            "content": "from one body to another, and are, within conducting bodies,",
+            "mathpix_content": " from one body to another, and are, within conducting bodies,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 25,
+            "type": "text",
+            "content": "extremely mobile. The other properties of fluids, such as their",
+            "mathpix_content": " extremely mobile. The other properties of fluids, such as their",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 26,
+            "type": "text",
+            "content": "inertia, weight, and elasticity, are not attributed to them by",
+            "mathpix_content": " inertia, weight, and elasticity, are not attributed to them by",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 27,
+            "type": "text",
+            "content": "those who have used the theory for merely mathematical pur-",
+            "mathpix_content": " those who have used the theory for merely mathematical pur",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 28,
+            "type": "text",
+            "content": "poses ; but the use of the word Fluid has been apt to mislead",
+            "mathpix_content": "poses ; but the use of the word Fluid has been apt to mislead",
+            "font_size": 34,
+            "confidence": 0.63330078125
+          },
+          {
+            "page": 75,
+            "line_number": 29,
+            "type": "text",
+            "content": "the vulgar, including many men of science who are not natural",
+            "mathpix_content": " the vulgar, including many men of science who are not natural",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 30,
+            "type": "text",
+            "content": "philosophers, and who have seized on the word Fluid as the",
+            "mathpix_content": " philosophers, and who have seized on the word Fluid as the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 31,
+            "type": "text",
+            "content": "only term in the statement of the theory which seemed in-",
+            "mathpix_content": " only term in the statement of the theory which seemed in",
+            "font_size": 34,
+            "confidence": 0.99560546875
+          },
+          {
+            "page": 75,
+            "line_number": 32,
+            "type": "text",
+            "content": "telligible to them.",
+            "mathpix_content": "telligible to them.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 33,
+            "type": "text",
+            "content": "We shall see that the mathematical treatment of the subject",
+            "mathpix_content": "\n\nWe shall see that the mathematical treatment of the subject",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 34,
+            "type": "text",
+            "content": "has been greatly developed by writers who express themselves",
+            "mathpix_content": " has been greatly developed by writers who express themselves",
+            "font_size": 34,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 75,
+            "line_number": 35,
+            "type": "text",
+            "content": "in terms of the 'Two Fluids' theory. Their results, however,",
+            "mathpix_content": " in terms of the 'Two Fluids' theory. Their results, however,",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 36,
+            "type": "text",
+            "content": "have been deduced entirely from data which can be proved by",
+            "mathpix_content": " have been deduced entirely from data which can be proved by",
+            "font_size": 34,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 75,
+            "line_number": 37,
+            "type": "text",
+            "content": "experiment, and which must therefore be true, whether we",
+            "mathpix_content": " experiment, and which must therefore be true, whether we",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 38,
+            "type": "text",
+            "content": "adopt the theory of two fluids or not. The experimental veri-",
+            "mathpix_content": " adopt the theory of two fluids or not. The experimental veri",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 39,
+            "type": "text",
+            "content": "fication of the mathematical results therefore is no evidence for",
+            "mathpix_content": "fication of the mathematical results therefore is no evidence for",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 40,
+            "type": "text",
+            "content": "or against the peculiar doctrines of this theory.",
+            "mathpix_content": " or against the peculiar doctrines of this theory.",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 41,
+            "type": "text",
+            "content": "The introduction of two fluids permits us to consider the",
+            "mathpix_content": "\n\nThe introduction of two fluids permits us to consider the",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 42,
+            "type": "text",
+            "content": "negative electrification of $A$ and the positive electrification of $B$",
+            "mathpix_content": " negative electrification of $A$ and the positive electrification of $B$",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 43,
+            "type": "text",
+            "content": "as the effect of any one of three different processes which would",
+            "mathpix_content": " as the effect of any one of three different processes which would",
+            "font_size": 34,
+            "confidence": 1.0
+          },
+          {
+            "page": 75,
+            "line_number": 44,
+            "type": "text",
+            "content": "lead to the same result. We have already supposed it produced",
+            "mathpix_content": " lead to the same result. We have already supposed it produced",
+            "font_size": 34,
+            "confidence": 0.9150390625
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

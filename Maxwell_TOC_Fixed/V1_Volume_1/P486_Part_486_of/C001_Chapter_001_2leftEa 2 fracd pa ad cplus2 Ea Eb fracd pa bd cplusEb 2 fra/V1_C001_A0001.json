@@ -1,0 +1,201 @@
+{
+  "article_id": "article_1",
+  "article_number": 1,
+  "title_original": "}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},",
+  "title_safe": "2leftEa 2 fracd pa ad cplus2 Ea Eb fracd pa bd cplusEb 2 fra",
+  "page_start": 307,
+  "page_end": 307,
+  "content": {
+    "raw_text": "\n--- Page 307 ---\n272\nELECTRIC IMAGES.\n[174.\nBy this process or by the direct calculation of the successive\nimages as shewn in Sir W. Thomson's paper, we find\n$$\\begin{aligned}\n& q_{a a}=a+\\frac{a^{2} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\\n& q_{a b}=-\\frac{a b}{c}-\\frac{a^{2} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\\n& q_{b b}=b+\\frac{a b^{2}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .\n\\end{aligned}$$\n174.] We have then the following equations to determine\nthe charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to\npotentials $V_{a}$ and $V_{b}$ respectively,\n$$\\begin{aligned}\nE_{a} & =V_{a} q_{a a}+V_{b} q_{a b}, \\\\\nE_{b} & =V_{a} q_{a b}+V_{b}^{\\prime} q_{b b} .\n\\end{aligned}$$\nIf we put\n$$q_{t u} q_{b b}-q_{a b}{ }^{2}=D=\\frac{1}{D^{\\prime}}$$\nand\n$$p_{a a}=q_{b b} D^{\\prime}, \\quad p_{a b}=-q_{a b} D^{\\prime}, \\quad p_{b b}=q_{a a} D^{\\prime},$$\nwhence\n$$p_{a a} p_{b b}-p_{a b}-D^{\\prime} ;$$\nthen the equations to determine the potentials in terms of the\ncharges are\n$$\\begin{aligned}\n& V_{a}=p_{a u} E_{a}+p_{a b} E_{b}, \\\\\n& V_{b}=p_{a b} E_{a}+p_{b b} E_{b},\n\\end{aligned}$$\nand $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.\nThe total energy of the system is, by Art. 85,\n$$\\begin{aligned}\nQ & =\\frac{1}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\\n& =\\frac{1}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\\n& =\\frac{1}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .\n\\end{aligned}$$\nThe repulsion between the spheres is therefore, by Arts. 92, 93,\n$$\\begin{aligned}\nF & =\\frac{1}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\\n& =-\\frac{1}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},\n\\end{aligned}$$\nwhere $c$ is the distance between the centres of the spheres.\nOf these two expressions for the repulsion, the first, which\nexpresses it in terms of the potentials of the spheres and the\nvariations of the coefficients of capacity and induction, is the\nmost convenient for calculation.\nWe have therefore to differentiate the $q$ 's with respect to $c$.\nThese quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and\n",
+    "mathpix_markdown": "\n--- Page 307 ---\n\n\nBy this process or by the direct calculation of the successive\n images as shewn in Sir W. Thomson's paper, we find\n\n$$\\begin{aligned}\n& q_{a a}=a+\\frac{a^{2} b}{c^{2}-b^{2}}+\\frac{a^{3} b^{2}}{\\left(c^{2}-b^{2}+a c\\right)\\left(c^{2}-b^{2}-a_{c}\\right)}+\\& \\mathrm{c} . \\\\\n& q_{a b}=-\\frac{a b}{c}-\\frac{a^{2} b^{2}}{c\\left(c^{2}-a^{2}-b^{2}\\right)}-\\frac{a^{3} b^{3}}{c\\left(c^{2}-a^{2}-b^{2}+a b\\right)\\left(c^{2}-a^{2}-b^{2}-a b\\right)}-\\& \\mathrm{c} . \\\\\n& q_{b b}=b+\\frac{a b^{2}}{c^{2}-a^{2}}+\\frac{a^{2} b^{3}}{\\left(c^{2}-a^{2}+b c\\right)\\left(c^{2}-a^{2}-b c\\right)}+\\& \\mathrm{c} .\n\\end{aligned}$$\n\n174.] We have then the following equations to determine\n the charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to\n potentials $V_{a}$ and $V_{b}$ respectively,\n\n$$\\begin{aligned}\nE_{a} & =V_{a} q_{a a}+V_{b} q_{a b}, \\\\\nE_{b} & =V_{a} q_{a b}+V_{b}^{\\prime} q_{b b} .\n\\end{aligned}$$\n\n\nIf we put\n\n$$q_{t u} q_{b b}-q_{a b}{ }^{2}=D=\\frac{1}{D^{\\prime}}$$\n\nand\n\n$$p_{a a}=q_{b b} D^{\\prime}, \\quad p_{a b}=-q_{a b} D^{\\prime}, \\quad p_{b b}=q_{a a} D^{\\prime},$$\n\nwhence\n\n$$p_{a a} p_{b b}-p_{a b}-D^{\\prime} ;$$\n\nthen the equations to determine the potentials in terms of the\n charges are\n\n$$\\begin{aligned}\n& V_{a}=p_{a u} E_{a}+p_{a b} E_{b}, \\\\\n& V_{b}=p_{a b} E_{a}+p_{b b} E_{b},\n\\end{aligned}$$\n\nand $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.\n\nThe total energy of the system is, by Art. 85,\n\n$$\\begin{aligned}\nQ & =\\frac{1}{2}\\left(E_{a} V_{a}+E_{b} V_{b}\\right) \\\\\n& =\\frac{1}{2}\\left(V_{a}^{2} q_{a n}+2 V_{a} V_{b} q_{a b}+V_{b}^{2} q_{b b}\\right) \\\\\n& =\\frac{1}{2}\\left(E_{a}^{2} p_{a a}+2 E_{a} E_{b} p_{a b}+E_{b}^{2} p_{b l}\\right) .\n\\end{aligned}$$\n\n\nThe repulsion between the spheres is therefore, by Arts. 92, 93,\n\n$$\\begin{aligned}\nF & =\\frac{1}{2}\\left\\{V_{a}^{2} \\frac{d q_{a a}}{d c}+2 V_{a} V_{b} \\frac{d q_{a b}}{d c}+V_{b}^{2}{ }^{2} \\frac{d q_{l b}}{d c}\\right\\} \\\\\n& =-\\frac{1}{2}\\left\\{E_{a}{ }^{2} \\frac{d p_{a a}}{d c}+2 E_{a} E_{b} \\frac{d p_{a b}}{d c}+E_{b}{ }^{2} \\frac{d p_{b b}}{d c}\\right\\},\n\\end{aligned}$$\n\nwhere $c$ is the distance between the centres of the spheres.\n\nOf these two expressions for the repulsion, the first, which\n expresses it in terms of the potentials of the spheres and the\n variations of the coefficients of capacity and induction, is the\n most convenient for calculation.\n\n\nWe have therefore to differentiate the $q$ 's with respect to $c$.\n These quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and\n",
+    "structured_lines": [
+      {
+        "page": 307,
+        "line_number": 4,
+        "type": "text",
+        "content": "By this process or by the direct calculation of the successive",
+        "mathpix_content": "\n\nBy this process or by the direct calculation of the successive",
+        "font_size": 34,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 307,
+        "line_number": 5,
+        "type": "text",
+        "content": "images as shewn in Sir W. Thomson's paper, we find",
+        "mathpix_content": " images as shewn in Sir W. Thomson's paper, we find",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 10,
+        "type": "text",
+        "content": "174.] We have then the following equations to determine",
+        "mathpix_content": "\n174.] We have then the following equations to determine",
+        "font_size": 34,
+        "confidence": 0.9951210021972656
+      },
+      {
+        "page": 307,
+        "line_number": 11,
+        "type": "text",
+        "content": "the charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to",
+        "mathpix_content": " the charges $E_{a}$ and $E_{b}$ of the two spheres when electrified to",
+        "font_size": 34,
+        "confidence": 0.619814395904541
+      },
+      {
+        "page": 307,
+        "line_number": 12,
+        "type": "text",
+        "content": "potentials $V_{a}$ and $V_{b}$ respectively,",
+        "mathpix_content": " potentials $V_{a}$ and $V_{b}$ respectively,",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 16,
+        "type": "text",
+        "content": "If we put",
+        "mathpix_content": "\n\nIf we put",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 19,
+        "type": "text",
+        "content": "and",
+        "mathpix_content": "\nand",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 22,
+        "type": "text",
+        "content": "whence",
+        "mathpix_content": "\nwhence",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 25,
+        "type": "text",
+        "content": "then the equations to determine the potentials in terms of the",
+        "mathpix_content": "\nthen the equations to determine the potentials in terms of the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 26,
+        "type": "text",
+        "content": "charges are",
+        "mathpix_content": " charges are",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 30,
+        "type": "text",
+        "content": "and $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.",
+        "mathpix_content": "\nand $p_{a a}, p_{a b}$, and $p_{b b}$ are the coefficients of potential.",
+        "font_size": 34,
+        "confidence": 0.9990236759185791
+      },
+      {
+        "page": 307,
+        "line_number": 31,
+        "type": "text",
+        "content": "The total energy of the system is, by Art. 85,",
+        "mathpix_content": "\nThe total energy of the system is, by Art. 85,",
+        "font_size": 34,
+        "confidence": 0.9902389049530029
+      },
+      {
+        "page": 307,
+        "line_number": 36,
+        "type": "text",
+        "content": "The repulsion between the spheres is therefore, by Arts. 92, 93,",
+        "mathpix_content": "\n\nThe repulsion between the spheres is therefore, by Arts. 92, 93,",
+        "font_size": 34,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 307,
+        "line_number": 40,
+        "type": "text",
+        "content": "where $c$ is the distance between the centres of the spheres.",
+        "mathpix_content": "\nwhere $c$ is the distance between the centres of the spheres.",
+        "font_size": 34,
+        "confidence": 0.99853515625
+      },
+      {
+        "page": 307,
+        "line_number": 41,
+        "type": "text",
+        "content": "Of these two expressions for the repulsion, the first, which",
+        "mathpix_content": "\nOf these two expressions for the repulsion, the first, which",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 42,
+        "type": "text",
+        "content": "expresses it in terms of the potentials of the spheres and the",
+        "mathpix_content": " expresses it in terms of the potentials of the spheres and the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 43,
+        "type": "text",
+        "content": "variations of the coefficients of capacity and induction, is the",
+        "mathpix_content": " variations of the coefficients of capacity and induction, is the",
+        "font_size": 34,
+        "confidence": 1.0
+      },
+      {
+        "page": 307,
+        "line_number": 44,
+        "type": "text",
+        "content": "most convenient for calculation.",
+        "mathpix_content": " most convenient for calculation.",
+        "font_size": 34,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 307,
+        "line_number": 45,
+        "type": "text",
+        "content": "We have therefore to differentiate the $q$ 's with respect to $c$.",
+        "mathpix_content": "\n\nWe have therefore to differentiate the $q$ 's with respect to $c$.",
+        "font_size": 34,
+        "confidence": 0.9599802494049072
+      },
+      {
+        "page": 307,
+        "line_number": 46,
+        "type": "text",
+        "content": "These quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and",
+        "mathpix_content": " These quantities are expressed as functions of $k, \\alpha, \\beta$, and $\\omega$, and",
+        "font_size": 34,
+        "confidence": 0.8068103368839865
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

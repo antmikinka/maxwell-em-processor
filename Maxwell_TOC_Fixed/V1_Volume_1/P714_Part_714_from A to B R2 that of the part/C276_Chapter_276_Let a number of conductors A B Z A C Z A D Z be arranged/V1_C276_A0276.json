@@ -1,0 +1,273 @@
+{
+  "article_id": "article_276",
+  "article_number": 276,
+  "title_original": ".] Let a number of conductors $A B Z, A C Z, A D Z$ be arranged",
+  "title_safe": "Let a number of conductors A B Z A C Z A D Z be arranged",
+  "page_start": 435,
+  "page_end": 435,
+  "content": {
+    "raw_text": "\n--- Page 435 ---\n400\nLINEAR ELECTRIC CURRENTS.\n[276.\ncontact with $A_{2}$, so that the second conductor has for its elec-\ntrodes $A_{2}, A_{3}$. The electrodes of the third conductor may be\ndenoted by $A_{3}$ and $A_{4}$.\nLet the electromotive forces along these conductors be denoted\nby $E_{12}, E_{23}, E_{34}$, and so on for the other conductors.\nLet the resistances of the conductors be\n$$R_{12}, \\quad R_{23}, \\quad R_{34}, \\quad \\& \\mathrm{c} .$$\nThen, since the conductors are arranged in series so that the\nsame current $C$ flows through each, we have by Ohm's Law,\n$$E_{12}=C R_{12}, \\quad E_{23}=C R_{23}, \\quad E_{34}=C R_{34}, \\text { \\&c. }$$\n(2)\nIf $E$ is the resultant electromotive force, and $R$ the resultant\nresistance of the system, we must have by Ohm's Law,\n$$E=C R .$$\n(3)\nNow\n$$E=E_{12}+E_{23}+E_{34}+\\& \\mathrm{c}$$\n(4)\nthe sum of the separate electromotive forces,\n$$=C\\left(R_{12}+R_{23}+R_{34}+\\& \\mathrm{c} .\\right) \\text { by equations (2). }$$\nComparing this result with (3), we find\n$$R=R_{12}+R_{23}+R_{34}+\\& \\mathrm{c}$$\n(5)\nOr, the resistance of a series of conductors is the sum of the\nresistances of the conductors taken separately.\n\nPotential at any Point of the Series.\nLet $A$ and $C$ be the electrodes of the series, $B$ a point between\nthem, $a, c$, and $b$ the potentials of these points respectively. Let\n$R_{1}$ be the resistance of the part from $A$ to $B, R_{2}$ that of the part\nfrom $B$ to $C$, and $R$ that of the whole from $A$ to $C$, then, since\n$$a-b=R_{1} C, \\quad b-c=R_{2} C, \\quad \\text { and } \\quad a-c=R C,$$\nthe potential at $B$ is\n$$b=\\frac{R_{2} a+R_{1} c}{R},$$\n(6)\nwhich determines the potential at $B$ when the potentials at $A$\nand $C$ are given.\n\nResistance of a Multiple Conductor.\n276.] Let a number of conductors $A B Z, A C Z, A D Z$ be arranged\nside by side with their extremities in contact with the same two\npoints $A$ and $Z$. They are then said to be arranged in multiple\narc.\n",
+    "mathpix_markdown": "\n--- Page 435 ---\n\ncontact with $A_{2}$, so that the second conductor has for its elec\ntrodes $A_{2}, A_{3}$. The electrodes of the third conductor may be\n denoted by $A_{3}$ and $A_{4}$.\n\n\nLet the electromotive forces along these conductors be denoted\n by $E_{12}, E_{23}, E_{34}$, and so on for the other conductors.\n\n\nLet the resistances of the conductors be\n\n$$R_{12}, \\quad R_{23}, \\quad R_{34}, \\quad \\& \\mathrm{c} .$$\n\n\nThen, since the conductors are arranged in series so that the\n same current $C$ flows through each, we have by Ohm's Law,\n\n$$\\begin{equation*}\nE_{12}=C R_{12}, \\quad E_{23}=C R_{23}, \\quad E_{34}=C R_{34}, \\text { \\&c. } \\tag{2}\n\\end{equation*}$$\n\n\nIf $E$ is the resultant electromotive force, and $R$ the resultant\n resistance of the system, we must have by Ohm's Law,\n\n$$\\begin{equation*}\nE=C R . \\tag{3}\n\\end{equation*}$$\n\n\nNow\n\n$$\\begin{equation*}\nE=E_{12}+E_{23}+E_{34}+\\& \\mathrm{c} \\tag{4}\n\\end{equation*}$$\n\nthe sum of the separate electromotive forces,\n\n$$=C\\left(R_{12}+R_{23}+R_{34}+\\& \\mathrm{c} .\\right) \\text { by equations (2). }$$\n\n\nComparing this result with (3), we find\n\n$$\\begin{equation*}\nR=R_{12}+R_{23}+R_{34}+\\& \\mathrm{c} \\tag{5}\n\\end{equation*}$$\n\n\nOr, the resistance of a series of conductors is the sum of the\n resistances of the conductors taken separately.\n\n\n\\section*{Potential at any Point of the Series.}\n\n\nLet $A$ and $C$ be the electrodes of the series, $B$ a point between\n them, $a, c$, and $b$ the potentials of these points respectively. Let\n $R_{1}$ be the resistance of the part from $A$ to $B, R_{2}$ that of the part\n from $B$ to $C$, and $R$ that of the whole from $A$ to $C$, then, since\n\n$$a-b=R_{1} C, \\quad b-c=R_{2} C, \\quad \\text { and } \\quad a-c=R C,$$\n\nthe potential at $B$ is\n\n$$\\begin{equation*}\nb=\\frac{R_{2} a+R_{1} c}{R}, \\tag{6}\n\\end{equation*}$$\n\nwhich determines the potential at $B$ when the potentials at $A$\n and $C$ are given.\n\n\n\\section*{Resistance of a Multiple Conductor.}\n\n276.] Let a number of conductors $A B Z, A C Z, A D Z$ be arranged\n side by side with their extremities in contact with the same two\n points $A$ and $Z$. They are then said to be arranged in multiple\n arc.\n",
+    "structured_lines": [
+      {
+        "page": 435,
+        "line_number": 4,
+        "type": "text",
+        "content": "contact with $A_{2}$, so that the second conductor has for its elec-",
+        "mathpix_content": "\ncontact with $A_{2}$, so that the second conductor has for its elec",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 5,
+        "type": "text",
+        "content": "trodes $A_{2}, A_{3}$. The electrodes of the third conductor may be",
+        "mathpix_content": "trodes $A_{2}, A_{3}$. The electrodes of the third conductor may be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 6,
+        "type": "text",
+        "content": "denoted by $A_{3}$ and $A_{4}$.",
+        "mathpix_content": " denoted by $A_{3}$ and $A_{4}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 7,
+        "type": "text",
+        "content": "Let the electromotive forces along these conductors be denoted",
+        "mathpix_content": "\n\nLet the electromotive forces along these conductors be denoted",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 8,
+        "type": "text",
+        "content": "by $E_{12}, E_{23}, E_{34}$, and so on for the other conductors.",
+        "mathpix_content": " by $E_{12}, E_{23}, E_{34}$, and so on for the other conductors.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 9,
+        "type": "text",
+        "content": "Let the resistances of the conductors be",
+        "mathpix_content": "\n\nLet the resistances of the conductors be",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 12,
+        "type": "text",
+        "content": "Then, since the conductors are arranged in series so that the",
+        "mathpix_content": "\n\nThen, since the conductors are arranged in series so that the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 13,
+        "type": "text",
+        "content": "same current $C$ flows through each, we have by Ohm's Law,",
+        "mathpix_content": " same current $C$ flows through each, we have by Ohm's Law,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 17,
+        "type": "text",
+        "content": "If $E$ is the resultant electromotive force, and $R$ the resultant",
+        "mathpix_content": "\n\nIf $E$ is the resultant electromotive force, and $R$ the resultant",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 18,
+        "type": "text",
+        "content": "resistance of the system, we must have by Ohm's Law,",
+        "mathpix_content": " resistance of the system, we must have by Ohm's Law,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 22,
+        "type": "text",
+        "content": "Now",
+        "mathpix_content": "\n\nNow",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 26,
+        "type": "text",
+        "content": "the sum of the separate electromotive forces,",
+        "mathpix_content": "\nthe sum of the separate electromotive forces,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 29,
+        "type": "text",
+        "content": "Comparing this result with (3), we find",
+        "mathpix_content": "\n\nComparing this result with (3), we find",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 435,
+        "line_number": 33,
+        "type": "text",
+        "content": "Or, the resistance of a series of conductors is the sum of the",
+        "mathpix_content": "\n\nOr, the resistance of a series of conductors is the sum of the",
+        "font_size": 27,
+        "confidence": 0.9980475902557373
+      },
+      {
+        "page": 435,
+        "line_number": 34,
+        "type": "text",
+        "content": "resistances of the conductors taken separately.",
+        "mathpix_content": " resistances of the conductors taken separately.",
+        "font_size": 27,
+        "confidence": 0.7578125
+      },
+      {
+        "page": 435,
+        "line_number": 36,
+        "type": "text",
+        "content": "Potential at any Point of the Series.",
+        "mathpix_content": "\n\n\\section*{Potential at any Point of the Series.}",
+        "font_size": 27,
+        "confidence": 0.9892842664849013
+      },
+      {
+        "page": 435,
+        "line_number": 37,
+        "type": "text",
+        "content": "Let $A$ and $C$ be the electrodes of the series, $B$ a point between",
+        "mathpix_content": "\n\nLet $A$ and $C$ be the electrodes of the series, $B$ a point between",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 38,
+        "type": "text",
+        "content": "them, $a, c$, and $b$ the potentials of these points respectively. Let",
+        "mathpix_content": " them, $a, c$, and $b$ the potentials of these points respectively. Let",
+        "font_size": 27,
+        "confidence": 0.8254596311599016
+      },
+      {
+        "page": 435,
+        "line_number": 39,
+        "type": "text",
+        "content": "$R_{1}$ be the resistance of the part from $A$ to $B, R_{2}$ that of the part",
+        "mathpix_content": " $R_{1}$ be the resistance of the part from $A$ to $B, R_{2}$ that of the part",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 40,
+        "type": "text",
+        "content": "from $B$ to $C$, and $R$ that of the whole from $A$ to $C$, then, since",
+        "mathpix_content": " from $B$ to $C$, and $R$ that of the whole from $A$ to $C$, then, since",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 43,
+        "type": "text",
+        "content": "the potential at $B$ is",
+        "mathpix_content": "\nthe potential at $B$ is",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 47,
+        "type": "text",
+        "content": "which determines the potential at $B$ when the potentials at $A$",
+        "mathpix_content": "\nwhich determines the potential at $B$ when the potentials at $A$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 48,
+        "type": "text",
+        "content": "and $C$ are given.",
+        "mathpix_content": " and $C$ are given.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 50,
+        "type": "text",
+        "content": "Resistance of a Multiple Conductor.",
+        "mathpix_content": "\n\n\\section*{Resistance of a Multiple Conductor.}",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 51,
+        "type": "text",
+        "content": "276.] Let a number of conductors $A B Z, A C Z, A D Z$ be arranged",
+        "mathpix_content": "\n276.] Let a number of conductors $A B Z, A C Z, A D Z$ be arranged",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 52,
+        "type": "text",
+        "content": "side by side with their extremities in contact with the same two",
+        "mathpix_content": " side by side with their extremities in contact with the same two",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 53,
+        "type": "text",
+        "content": "points $A$ and $Z$. They are then said to be arranged in multiple",
+        "mathpix_content": " points $A$ and $Z$. They are then said to be arranged in multiple",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 435,
+        "line_number": 54,
+        "type": "text",
+        "content": "arc.",
+        "mathpix_content": " arc.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

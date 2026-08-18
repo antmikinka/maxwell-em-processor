@@ -1,0 +1,165 @@
+{
+  "article_id": "article_146",
+  "article_number": 146,
+  "title_original": ".] As an example of the application of zonal harmonics,",
+  "title_safe": "As an example of the application of zonal harmonics",
+  "page_start": 259,
+  "page_end": 259,
+  "content": {
+    "raw_text": "\n--- Page 259 ---\n224\nSPHERICAL HARMONICS.\n[146.\n$$\\begin{aligned}\n\\Psi=h_{0}+h_{1} & Y_{1} r+\\text { \\&c. }+h_{n}^{(\\sigma)} Y_{n}^{(\\sigma)} r^{n}+\\ldots \\\\\n& +k_{0}^{1}+k_{1} Y_{1} \\frac{1}{r^{2}}+\\text { \\&c. }+k_{n}^{(\\sigma)} Y_{n}^{(\\sigma)} \\frac{1}{r^{n+1}}+\\cdots,\n\\end{aligned}$$\n(21)\nthen we have to determine the constants of the forms $h$ and $k$ so\nthat when $r=a(1+F), \\Psi=a$, and when $r=b(1+G), \\Psi=\\beta$.\nIt is manifest, from our former investigation, that all the $h$ 's\nand $k$ 's except $h_{0}$ and $k_{0}$ will be small quantities, the products of\nwhich into $F$ may be neglected. We may, therefore, write\n$$\\begin{aligned}\n& a=h_{0}+k_{0} \\frac{1}{a}(1-F)+\\text { \\&c. }+\\left(h_{n}^{(\\sigma)} u^{n}+k_{n}^{(\\sigma)} \\frac{1}{a^{n+1}}\\right) Y_{n}^{(\\sigma)}+\\cdots \\\\\n& \\beta=h_{0}+k_{0} \\frac{1}{b}(1-G)+\\text { \\&c. }+\\left(h_{n}^{(\\sigma)} b^{n}+k_{n}^{(\\sigma)} \\frac{1}{b^{n+1}}\\right) Y_{n}^{(\\sigma)}+\\cdots\n\\end{aligned}$$\n(22)\n(23)\nWe have therefore\n$$\\begin{aligned}\na & =h_{0}+k_{0} \\frac{1}{a} \\\\\n\\beta & =h_{0}+k_{0} \\frac{1}{b} \\\\\nk_{0} \\frac{1}{a} f_{n}^{(\\sigma)} & =h_{n}^{(\\sigma)} u^{n}+k_{n}^{(\\sigma)} \\frac{1}{a^{n+1}} \\\\\nk_{0} \\frac{1}{b} g_{n}^{(\\sigma)} & =h_{n}^{(\\sigma)} b^{n}+k_{n}^{(\\sigma)} \\frac{1}{b^{n+1}}\n\\end{aligned}$$\n(24)\n(25)\n(26)\n(27)\nwhence we find for $k_{0}$, the charge of the inner conductor,\n$$k_{0}=(\\alpha-\\beta) \\frac{a b}{b-a}$$\n(28)\nand for the coefficients of the harmonics of order $n$\n$$\\begin{aligned}\n& h_{n}^{(\\sigma)}=k_{0} \\frac{b^{n} g_{n}^{(\\sigma)}-a^{n} f_{n}^{(\\sigma)}}{b^{2 n+1}-a^{2 n+1}} \\\\\n& k_{n}^{(\\sigma)}=k_{0} a^{n} b^{n} \\frac{b^{n+1} f_{n}^{(\\sigma)}-a^{n+1} g_{n}^{(\\sigma)}}{b^{2 n+1}-a^{2 n+1}}\n\\end{aligned}$$\n(29)\n(30)\nwhere we must remember that the coefficients $f_{n}^{(\\sigma)}, g_{n}^{(\\tau)}, h_{n}^{(\\sigma)}, k_{n}^{(\\sigma)}$ are\nthose belonging to the same type as well as order.\nThe surface density on the inner conductor is given by the\nequation\n$$4 \\pi \\sigma a^{2}=k_{0}\\left(1+\\ldots+A_{n} Y_{n}^{(\\sigma)}+\\ldots\\right)$$\nwhere $A_{n}=\\frac{f_{n}^{(\\sigma)}\\left\\{(n+2) a^{2 n+1}+(n-1) b^{2 n+1}\\right\\}-g_{n}^{(\\sigma)}(2 n+1) a^{n+1} b^{n}}{b^{2 n+1}-a^{2 n+1}}$.\n(31)\n146.] As an example of the application of zonal harmonics,\nlet us investigate the equilibrium of electricity on two spherical\nconductors.\n",
+    "mathpix_markdown": "\n--- Page 259 ---\n\n$$\\begin{align*}\n\\Psi=h_{0}+h_{1} & Y_{1} r+\\text { \\&c. }+h_{n}^{(\\sigma)} Y_{n}^{(\\sigma)} r^{n}+\\ldots \\\\\n& +k_{0}^{1}+k_{1} Y_{1} \\frac{1}{r^{2}}+\\text { \\&c. }+k_{n}^{(\\sigma)} Y_{n}^{(\\sigma)} \\frac{1}{r^{n+1}}+\\cdots, \\tag{21}\n\\end{align*}$$\n\nthen we have to determine the constants of the forms $h$ and $k$ so\n that when $r=a(1+F), \\Psi=a$, and when $r=b(1+G), \\Psi=\\beta$.\n\n\nIt is manifest, from our former investigation, that all the $h$ 's\n and $k$ 's except $h_{0}$ and $k_{0}$ will be small quantities, the products of\n which into $F$ may be neglected. We may, therefore, write\n\n$$\\begin{align*}\n& a=h_{0}+k_{0} \\frac{1}{a}(1-F)+\\text { \\&c. }+\\left(h_{n}^{(\\sigma)} u^{n}+k_{n}^{(\\sigma)} \\frac{1}{a^{n+1}}\\right) Y_{n}^{(\\sigma)}+\\cdots  \\tag{22}\\\\\n& \\beta=h_{0}+k_{0} \\frac{1}{b}(1-G)+\\text { \\&c. }+\\left(h_{n}^{(\\sigma)} b^{n}+k_{n}^{(\\sigma)} \\frac{1}{b^{n+1}}\\right) Y_{n}^{(\\sigma)}+\\cdots \\tag{23}\n\\end{align*}$$\n\n\nWe have therefore\n\n$$\\begin{align*}\na & =h_{0}+k_{0} \\frac{1}{a}  \\tag{24}\\\\\n\\beta & =h_{0}+k_{0} \\frac{1}{b}  \\tag{25}\\\\\nk_{0} \\frac{1}{a} f_{n}^{(\\sigma)} & =h_{n}^{(\\sigma)} u^{n}+k_{n}^{(\\sigma)} \\frac{1}{a^{n+1}}  \\tag{26}\\\\\nk_{0} \\frac{1}{b} g_{n}^{(\\sigma)} & =h_{n}^{(\\sigma)} b^{n}+k_{n}^{(\\sigma)} \\frac{1}{b^{n+1}} \\tag{27}\n\\end{align*}$$\n\nwhence we find for $k_{0}$, the charge of the inner conductor,\n\n$$\\begin{equation*}\nk_{0}=(\\alpha-\\beta) \\frac{a b}{b-a} \\tag{28}\n\\end{equation*}$$\n\nand for the coefficients of the harmonics of order $n$\n\n$$\\begin{align*}\n& h_{n}^{(\\sigma)}=k_{0} \\frac{b^{n} g_{n}^{(\\sigma)}-a^{n} f_{n}^{(\\sigma)}}{b^{2 n+1}-a^{2 n+1}}  \\tag{29}\\\\\n& k_{n}^{(\\sigma)}=k_{0} a^{n} b^{n} \\frac{b^{n+1} f_{n}^{(\\sigma)}-a^{n+1} g_{n}^{(\\sigma)}}{b^{2 n+1}-a^{2 n+1}} \\tag{30}\n\\end{align*}$$\n\nwhere we must remember that the coefficients $f_{n}^{(\\sigma)}, g_{n}^{(\\tau)}, h_{n}^{(\\sigma)}, k_{n}^{(\\sigma)}$ are\n those belonging to the same type as well as order.\n\n\nThe surface density on the inner conductor is given by the\n equation\n\n$$\\begin{equation*}\n4 \\pi \\sigma a^{2}=k_{0}\\left(1+\\ldots+A_{n} Y_{n}^{(\\sigma)}+\\ldots\\right) \\tag{31}\n\\end{equation*}$$\n\nwhere $A_{n}=\\frac{f_{n}^{(\\sigma)}\\left\\{(n+2) a^{2 n+1}+(n-1) b^{2 n+1}\\right\\}-g_{n}^{(\\sigma)}(2 n+1) a^{n+1} b^{n}}{b^{2 n+1}-a^{2 n+1}}$.\n\n146.] As an example of the application of zonal harmonics,\n let us investigate the equilibrium of electricity on two spherical\n conductors.\n",
+    "structured_lines": [
+      {
+        "page": 259,
+        "line_number": 8,
+        "type": "text",
+        "content": "then we have to determine the constants of the forms $h$ and $k$ so",
+        "mathpix_content": "\nthen we have to determine the constants of the forms $h$ and $k$ so",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 259,
+        "line_number": 9,
+        "type": "text",
+        "content": "that when $r=a(1+F), \\Psi=a$, and when $r=b(1+G), \\Psi=\\beta$.",
+        "mathpix_content": " that when $r=a(1+F), \\Psi=a$, and when $r=b(1+G), \\Psi=\\beta$.",
+        "font_size": 27,
+        "confidence": 0.9883017395669066
+      },
+      {
+        "page": 259,
+        "line_number": 10,
+        "type": "text",
+        "content": "It is manifest, from our former investigation, that all the $h$ 's",
+        "mathpix_content": "\n\nIt is manifest, from our former investigation, that all the $h$ 's",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 11,
+        "type": "text",
+        "content": "and $k$ 's except $h_{0}$ and $k_{0}$ will be small quantities, the products of",
+        "mathpix_content": " and $k$ 's except $h_{0}$ and $k_{0}$ will be small quantities, the products of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 12,
+        "type": "text",
+        "content": "which into $F$ may be neglected. We may, therefore, write",
+        "mathpix_content": " which into $F$ may be neglected. We may, therefore, write",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 18,
+        "type": "text",
+        "content": "We have therefore",
+        "mathpix_content": "\n\nWe have therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 28,
+        "type": "text",
+        "content": "whence we find for $k_{0}$, the charge of the inner conductor,",
+        "mathpix_content": "\nwhence we find for $k_{0}$, the charge of the inner conductor,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 32,
+        "type": "text",
+        "content": "and for the coefficients of the harmonics of order $n$",
+        "mathpix_content": "\nand for the coefficients of the harmonics of order $n$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 38,
+        "type": "text",
+        "content": "where we must remember that the coefficients $f_{n}^{(\\sigma)}, g_{n}^{(\\tau)}, h_{n}^{(\\sigma)}, k_{n}^{(\\sigma)}$ are",
+        "mathpix_content": "\nwhere we must remember that the coefficients $f_{n}^{(\\sigma)}, g_{n}^{(\\tau)}, h_{n}^{(\\sigma)}, k_{n}^{(\\sigma)}$ are",
+        "font_size": 27,
+        "confidence": 0.7041789509821683
+      },
+      {
+        "page": 259,
+        "line_number": 39,
+        "type": "text",
+        "content": "those belonging to the same type as well as order.",
+        "mathpix_content": " those belonging to the same type as well as order.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 40,
+        "type": "text",
+        "content": "The surface density on the inner conductor is given by the",
+        "mathpix_content": "\n\nThe surface density on the inner conductor is given by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 41,
+        "type": "text",
+        "content": "equation",
+        "mathpix_content": " equation",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 44,
+        "type": "text",
+        "content": "where $A_{n}=\\frac{f_{n}^{(\\sigma)}\\left\\{(n+2) a^{2 n+1}+(n-1) b^{2 n+1}\\right\\}-g_{n}^{(\\sigma)}(2 n+1) a^{n+1} b^{n}}{b^{2 n+1}-a^{2 n+1}}$.",
+        "mathpix_content": "\nwhere $A_{n}=\\frac{f_{n}^{(\\sigma)}\\left\\{(n+2) a^{2 n+1}+(n-1) b^{2 n+1}\\right\\}-g_{n}^{(\\sigma)}(2 n+1) a^{n+1} b^{n}}{b^{2 n+1}-a^{2 n+1}}$.",
+        "font_size": 27,
+        "confidence": 0.9387330102201759
+      },
+      {
+        "page": 259,
+        "line_number": 46,
+        "type": "text",
+        "content": "146.] As an example of the application of zonal harmonics,",
+        "mathpix_content": "\n146.] As an example of the application of zonal harmonics,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 47,
+        "type": "text",
+        "content": "let us investigate the equilibrium of electricity on two spherical",
+        "mathpix_content": " let us investigate the equilibrium of electricity on two spherical",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 259,
+        "line_number": 48,
+        "type": "text",
+        "content": "conductors.",
+        "mathpix_content": " conductors.",
+        "font_size": 27,
+        "confidence": 1.0
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

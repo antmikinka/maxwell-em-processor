@@ -1,0 +1,327 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": ".220635\\left(R^{\\prime}-R\\right) .",
+  "title_safe": "220635leftRprime-Rright",
+  "page_start": 368,
+  "page_end": 368,
+  "content": {
+    "raw_text": "\n--- Page 368 ---\n217.7\nTHOMSON'S ABSOLUTE ELECTROMETER.\n333\nbalance and suspended disk, sufficient apertures being left to see\nthe fiducial marks.\nThe guard-ring, case, and suspended disk are all in metallic\ncommunication with each other, but are insulated from the\nother parts of the apparatus.\nNow let it be required to measure the difference of potentials\nof two conductors. The conductors are put in communication\nwith the upper and lower disks respectively by means of wires,\nthe weight is taken off the suspended disk, and the lower disk\nis moved up by means of the micrometer screw till the electrical\nattraction brings the suspended disk down to its sighted\nposition. We then know that the attraction between the disks is\nequal to the weight which brought the disk to its sighted position.\nIf $W$ be the numerical value of the weight, and $g$ the force of\ngravity, the force is $W g$, and if $A$ is the area of the suspended\ndisk, $D$ the distance between the disks, and $V$ the difference of\nthe potential of the disks *,\n$$W g=\\frac{V^{2} A}{8 \\pi D)^{2}}, \\quad \\text { or } \\quad V=D \\sqrt{\\frac{8 \\pi g W}{A}} .$$\n\n* Let us denote the radius of the suspended disk by $R$, and that of the aperture\nof the guard-ring by $R^{\\prime}$, then the breadth of the annular interval between the\ndisk and the ring will be $B=R^{\\prime}-R$.\nIf the distance between the suspended disk and the large fixed disk is $D$, and\nthe difference of potentials between these disks is $I^{\\prime}$, then, by the investigation in\nArt. 201, the quantity of electricity on the suspended disk will be\n$$\\begin{gathered}\nQ=V\\left\\{\\frac{R^{2}+R^{\\prime 2}}{8 D}-\\frac{R^{\\prime 2}-R^{2}}{8 D} \\frac{a}{D+a}\\right\\}, \\\\\n\\text { where } \\quad a=B^{\\log , 2}, \\quad \\text { or } \\quad a=0.220635\\left(R^{\\prime}-R\\right) .\n\\end{gathered}$$\nIf the surface of the guard-ring is not exactly in the plane of the surface of\nthe suspended disk, let us suppose that the distance between the fixed disk and\nthe guard-ring is not $D$ but $I)+z=D^{\\prime}$, then it appear from the inveatigation in\nArt. 225 that there will be an additional charge of electricity near the edge of\nthe disk on account of its height $z$ above the general surface of the guard-ring.\nThe whole charge in this case is therefore, approximately,\n$$Q=V\\left\\{\\frac{R^{2}+R^{\\prime 2}}{8 D}-\\frac{R^{\\prime 2}-R^{2}}{8 D} D+a+\\begin{array}{c}\nR+R^{\\prime} \\\\\nD \\\\\nD+ \\\\\nD\n\\end{array} D^{\\prime}-D\\right) \\log _{e} \\pm \\pi\\left(R+R^{\\prime}\\right) D^{\\prime}-D ~,$$\nand in the expression for the attraction we must substitute for $A$, the area of the\ndisk, the corrected quantity\n$$\\begin{aligned}\nA=\\frac{1}{2} \\pi\\left\\{R^{2}+R^{\\prime 2}\\right. & -\\left(R^{\\prime 2}-R^{2}\\right) \\frac{\\alpha}{D+\\alpha}+8\\left(R+R^{\\prime}\\right)\\left(D^{\\prime}-D\\right) \\log _{e} \\\\\n\\text { where } \\quad R & =\\text { radius of suspended disk, } \\\\\nR^{\\prime} & =\\text { radius of aperture in the guard-ring, } \\\\\nD & =\\text { distance between fixed and suspended disks, } \\\\\nD^{\\prime} & =\\text { distance between fixed disk and guard-ring, } \\\\\na & =0.220635\\left(R^{\\prime}-R\\right) .\n\\end{aligned}$$\nWhen $a$ is small compared with $D$ we may neglect the second term, and when\n$D^{\\prime}-D$ is small we may neglect the last term. \\{For another investigation of this see\nSupplementary Volume. \\}\n",
+    "mathpix_markdown": "\n--- Page 368 ---\n\nbalance and suspended disk, sufficient apertures being left to see\n the fiducial marks.\n\n\nThe guard-ring, case, and suspended disk are all in metallic\n communication with each other, but are insulated from the\n other parts of the apparatus.\n\n\nNow let it be required to measure the difference of potentials\n of two conductors. The conductors are put in communication\n with the upper and lower disks respectively by means of wires,\n the weight is taken off the suspended disk, and the lower disk\n is moved up by means of the micrometer screw till the electrical\n attraction brings the suspended disk down to its sighted\n position. We then know that the attraction between the disks is\n equal to the weight which brought the disk to its sighted position.\n\n\nIf $W$ be the numerical value of the weight, and $g$ the force of\n gravity, the force is $W g$, and if $A$ is the area of the suspended\n disk, $D$ the distance between the disks, and $V$ the difference of\n the potential of the disks *,\n\n$$W g=\\frac{V^{2} A}{8 \\pi D)^{2}}, \\quad \\text { or } \\quad V=D \\sqrt{\\frac{8 \\pi g W}{A}} .$$\n\n\n\\footnotetext{\n* Let us denote the radius of the suspended disk by $R$, and that of the aperture\n of the guard-ring by $R^{\\prime}$, then the breadth of the annular interval between the\n disk and the ring will be $B=R^{\\prime}-R$.\n\n\nIf the distance between the suspended disk and the large fixed disk is $D$, and\n the difference of potentials between these disks is $I^{\\prime}$, then, by the investigation in\n Art. 201, the quantity of electricity on the suspended disk will be\n}\n\n$$\\begin{gathered}\nQ=V\\left\\{\\frac{R^{2}+R^{\\prime 2}}{8 D}-\\frac{R^{\\prime 2}-R^{2}}{8 D} \\frac{a}{D+a}\\right\\}, \\\\\n\\text { where } \\quad a=B^{\\log , 2}, \\quad \\text { or } \\quad a=0.220635\\left(R^{\\prime}-R\\right) .\n\\end{gathered}$$\n\n\nIf the surface of the guard-ring is not exactly in the plane of the surface of\n the suspended disk, let us suppose that the distance between the fixed disk and\n the guard-ring is not $D$ but $I)+z=D^{\\prime}$, then it appear from the inveatigation in\n Art. 225 that there will be an additional charge of electricity near the edge of\n the disk on account of its height $z$ above the general surface of the guard-ring.\n The whole charge in this case is therefore, approximately,\n\n$$Q=V\\left\\{\\frac{R^{2}+R^{\\prime 2}}{8 D}-\\frac{R^{\\prime 2}-R^{2}}{8 D} D+a+\\begin{array}{c}\nR+R^{\\prime} \\\\\nD \\\\\nD+ \\\\\nD\n\\end{array} D^{\\prime}-D\\right) \\log _{e} \\pm \\pi\\left(R+R^{\\prime}\\right) D^{\\prime}-D ~,$$\n\nand in the expression for the attraction we must substitute for $A$, the area of the\n disk, the corrected quantity\n\n$$\\begin{aligned}\nA=\\frac{1}{2} \\pi\\left\\{R^{2}+R^{\\prime 2}\\right. & -\\left(R^{\\prime 2}-R^{2}\\right) \\frac{\\alpha}{D+\\alpha}+8\\left(R+R^{\\prime}\\right)\\left(D^{\\prime}-D\\right) \\log _{e} \\\\\n\\text { where } \\quad R & =\\text { radius of suspended disk, } \\\\\nR^{\\prime} & =\\text { radius of aperture in the guard-ring, } \\\\\nD & =\\text { distance between fixed and suspended disks, } \\\\\nD^{\\prime} & =\\text { distance between fixed disk and guard-ring, } \\\\\na & =0.220635\\left(R^{\\prime}-R\\right) .\n\\end{aligned}$$\n\n\nWhen $a$ is small compared with $D$ we may neglect the second term, and when\n $D^{\\prime}-D$ is small we may neglect the last term. \\{For another investigation of this see\n Supplementary Volume. \\}\n",
+    "structured_lines": [
+      {
+        "page": 368,
+        "line_number": 4,
+        "type": "text",
+        "content": "balance and suspended disk, sufficient apertures being left to see",
+        "mathpix_content": "\nbalance and suspended disk, sufficient apertures being left to see",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 5,
+        "type": "text",
+        "content": "the fiducial marks.",
+        "mathpix_content": " the fiducial marks.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 6,
+        "type": "text",
+        "content": "The guard-ring, case, and suspended disk are all in metallic",
+        "mathpix_content": "\n\nThe guard-ring, case, and suspended disk are all in metallic",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 7,
+        "type": "text",
+        "content": "communication with each other, but are insulated from the",
+        "mathpix_content": " communication with each other, but are insulated from the",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 8,
+        "type": "text",
+        "content": "other parts of the apparatus.",
+        "mathpix_content": " other parts of the apparatus.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 9,
+        "type": "text",
+        "content": "Now let it be required to measure the difference of potentials",
+        "mathpix_content": "\n\nNow let it be required to measure the difference of potentials",
+        "font_size": 33,
+        "confidence": 0.99755859375
+      },
+      {
+        "page": 368,
+        "line_number": 10,
+        "type": "text",
+        "content": "of two conductors. The conductors are put in communication",
+        "mathpix_content": " of two conductors. The conductors are put in communication",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 11,
+        "type": "text",
+        "content": "with the upper and lower disks respectively by means of wires,",
+        "mathpix_content": " with the upper and lower disks respectively by means of wires,",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 12,
+        "type": "text",
+        "content": "the weight is taken off the suspended disk, and the lower disk",
+        "mathpix_content": " the weight is taken off the suspended disk, and the lower disk",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 13,
+        "type": "text",
+        "content": "is moved up by means of the micrometer screw till the electrical",
+        "mathpix_content": " is moved up by means of the micrometer screw till the electrical",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 368,
+        "line_number": 14,
+        "type": "text",
+        "content": "attraction brings the suspended disk down to its sighted",
+        "mathpix_content": " attraction brings the suspended disk down to its sighted",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 15,
+        "type": "text",
+        "content": "position. We then know that the attraction between the disks is",
+        "mathpix_content": " position. We then know that the attraction between the disks is",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 16,
+        "type": "text",
+        "content": "equal to the weight which brought the disk to its sighted position.",
+        "mathpix_content": " equal to the weight which brought the disk to its sighted position.",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 17,
+        "type": "text",
+        "content": "If $W$ be the numerical value of the weight, and $g$ the force of",
+        "mathpix_content": "\n\nIf $W$ be the numerical value of the weight, and $g$ the force of",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 18,
+        "type": "text",
+        "content": "gravity, the force is $W g$, and if $A$ is the area of the suspended",
+        "mathpix_content": " gravity, the force is $W g$, and if $A$ is the area of the suspended",
+        "font_size": 33,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 368,
+        "line_number": 19,
+        "type": "text",
+        "content": "disk, $D$ the distance between the disks, and $V$ the difference of",
+        "mathpix_content": " disk, $D$ the distance between the disks, and $V$ the difference of",
+        "font_size": 33,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 20,
+        "type": "text",
+        "content": "the potential of the disks *,",
+        "mathpix_content": " the potential of the disks *,",
+        "font_size": 33,
+        "confidence": 0.9985356330871582
+      },
+      {
+        "page": 368,
+        "line_number": 24,
+        "type": "text",
+        "content": "* Let us denote the radius of the suspended disk by $R$, and that of the aperture",
+        "mathpix_content": "\n\n\\footnotetext{\n* Let us denote the radius of the suspended disk by $R$, and that of the aperture",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 368,
+        "line_number": 25,
+        "type": "text",
+        "content": "of the guard-ring by $R^{\\prime}$, then the breadth of the annular interval between the",
+        "mathpix_content": " of the guard-ring by $R^{\\prime}$, then the breadth of the annular interval between the",
+        "font_size": 21,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 368,
+        "line_number": 26,
+        "type": "text",
+        "content": "disk and the ring will be $B=R^{\\prime}-R$.",
+        "mathpix_content": " disk and the ring will be $B=R^{\\prime}-R$.",
+        "font_size": 21,
+        "confidence": 0.65185546875
+      },
+      {
+        "page": 368,
+        "line_number": 27,
+        "type": "text",
+        "content": "If the distance between the suspended disk and the large fixed disk is $D$, and",
+        "mathpix_content": "\n\nIf the distance between the suspended disk and the large fixed disk is $D$, and",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 28,
+        "type": "text",
+        "content": "the difference of potentials between these disks is $I^{\\prime}$, then, by the investigation in",
+        "mathpix_content": " the difference of potentials between these disks is $I^{\\prime}$, then, by the investigation in",
+        "font_size": 21,
+        "confidence": 0.8100470625959133
+      },
+      {
+        "page": 368,
+        "line_number": 29,
+        "type": "text",
+        "content": "Art. 201, the quantity of electricity on the suspended disk will be",
+        "mathpix_content": " Art. 201, the quantity of electricity on the suspended disk will be\n}",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 33,
+        "type": "text",
+        "content": "If the surface of the guard-ring is not exactly in the plane of the surface of",
+        "mathpix_content": "\n\nIf the surface of the guard-ring is not exactly in the plane of the surface of",
+        "font_size": 21,
+        "confidence": 0.8712186813354492
+      },
+      {
+        "page": 368,
+        "line_number": 34,
+        "type": "text",
+        "content": "the suspended disk, let us suppose that the distance between the fixed disk and",
+        "mathpix_content": " the suspended disk, let us suppose that the distance between the fixed disk and",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 35,
+        "type": "text",
+        "content": "the guard-ring is not $D$ but $I)+z=D^{\\prime}$, then it appear from the inveatigation in",
+        "mathpix_content": " the guard-ring is not $D$ but $I)+z=D^{\\prime}$, then it appear from the inveatigation in",
+        "font_size": 21,
+        "confidence": 0.271948913632975
+      },
+      {
+        "page": 368,
+        "line_number": 36,
+        "type": "text",
+        "content": "Art. 225 that there will be an additional charge of electricity near the edge of",
+        "mathpix_content": " Art. 225 that there will be an additional charge of electricity near the edge of",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 37,
+        "type": "text",
+        "content": "the disk on account of its height $z$ above the general surface of the guard-ring.",
+        "mathpix_content": " the disk on account of its height $z$ above the general surface of the guard-ring.",
+        "font_size": 21,
+        "confidence": 0.9970703125
+      },
+      {
+        "page": 368,
+        "line_number": 38,
+        "type": "text",
+        "content": "The whole charge in this case is therefore, approximately,",
+        "mathpix_content": " The whole charge in this case is therefore, approximately,",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 41,
+        "type": "text",
+        "content": "and in the expression for the attraction we must substitute for $A$, the area of the",
+        "mathpix_content": "\nand in the expression for the attraction we must substitute for $A$, the area of the",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 42,
+        "type": "text",
+        "content": "disk, the corrected quantity",
+        "mathpix_content": " disk, the corrected quantity",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 368,
+        "line_number": 50,
+        "type": "text",
+        "content": "When $a$ is small compared with $D$ we may neglect the second term, and when",
+        "mathpix_content": "\n\nWhen $a$ is small compared with $D$ we may neglect the second term, and when",
+        "font_size": 21,
+        "confidence": 0.9717190265655518
+      },
+      {
+        "page": 368,
+        "line_number": 51,
+        "type": "text",
+        "content": "$D^{\\prime}-D$ is small we may neglect the last term. \\{For another investigation of this see",
+        "mathpix_content": " $D^{\\prime}-D$ is small we may neglect the last term. \\{For another investigation of this see",
+        "font_size": 21,
+        "confidence": 0.6902198791503906
+      },
+      {
+        "page": 368,
+        "line_number": 52,
+        "type": "text",
+        "content": "Supplementary Volume. \\}",
+        "mathpix_content": " Supplementary Volume. \\}",
+        "font_size": 21,
+        "confidence": 0.9790492057800293
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

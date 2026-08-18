@@ -1,0 +1,20 @@
+{
+  "article_id": "article_20",
+  "article_number": 20,
+  "title_original": "2",
+  "title_safe": "2",
+  "page_start": 25,
+  "page_end": 25,
+  "content": {
+    "raw_text": "\n--- Page 25 ---\nxxii\nCONTENTS.\n\n\nCHAPTER VII.\n\nFORMS OF EQUIPOTENTIAL SURFACES AND LINES OF FLOW.\n\nArt.\nPage\n\n117. Practical importance of a knowledge of these forms in simple\ncases\n177\n\n118. Two electrified points, ratio 4 : 1. (Fig. I)\n178\n\n119. Two electrified points, ratio $4:-1$. (Fig. II)\n179\n\n120. An electrified point in a uniform field of force. (Fig. III)\n180\n\n121. Three electrified points. Two spherical equipotential sur-\nfaces. (Fig. IV)\n181\n\n122. Faraday's use of the conception of lines of force\n182\n\n123. Method employed in drawing the diagrams\n183\n\nCHAPTER VIII.\n\nSIMPLE CASES OF ELECTRIFICATION.\n\n124. Two parallel planes\n186\n\n125. Two concentric spherical surfaces\n188\n\n126. Two coaxal cylindric surfaces\n190\n\n127. Longitudinal force on a cylinder, the ends of which are sur-\nrounded by cylinders at different potentials\n191\n\nCHAPTER IX.\n\nSPHERICAL HARMONICS.\n\n128. Heine, Todhunter, Ferrers\n194\n\n129 a. Singular points\n194\n\n129 b. Definition of an axis\n195\n\n129 c. Construction of points of different orders\n196\n\n129 d. Potential of such points. Surface harmonics $Y_{n}$\n197\n\n130 a. Solid harmonics. $H_{n}=r^{n} Y_{n}$\n197\n\n130 b. There are $2 n+1$ independent constants in a solid harmonic\nof the $n^{\\text {th }}$ order\n198\n\n131 a. Potential due to a spherical shell\n199\n\n131 b. Expressed in harmonics\n199\n\n131 c. Mutual potential of shell and external system\n200\n\n132. Value of $\\iint Y_{m} Y_{n} d s$\n201\n\n133. Trigonometrical expressions for $Y_{n}$\n202\n",
+    "mathpix_markdown": "\n--- Page 25 ---\n\nCHAPTER VII.\n\nFORMS OF EQUIPOTENTIAL SURFACES AND LINES OF FLOW.\n\nArt.\n Page\n\n117. Practical importance of a knowledge of these forms in simple\n cases\n ..... 177\n\n118. Two electrified points, ratio 4 : 1. (Fig. I)\n ..... 178\n\n119. Two electrified points, ratio $4:-1$. (Fig. II)\n ..... 179\n\n120. An electrified point in a uniform field of force. (Fig. III)\n ..... 180\n\n121. Three electrified points. Two spherical equipotential sur-\n faces. (Fig. IV)\n ..... 181\n\n122. Faraday's use of the conception of lines of force\n ..... 182\n\n123. Method employed in drawing the diagrams\n ..... 183\n\nCHAPTER VIII.\n\nSIMPLE CASES OF ELECTRIFICATION.\n\n124. Two parallel planes\n ..... 186\n\n125. Two concentric spherical surfaces\n ..... 188\n\n126. Two coaxal cylindric surfaces\n ..... 190\n\n127. Longitudinal force on a cylinder, the ends of which are sur-\n rounded by cylinders at different potentials\n ..... 191\n\nCHAPTER IX.\n\nSPHERICAL HARMONICS.\n\n128. Heine, Todhunter, Ferrers\n ..... 194\n\n129 a. Singular points\n ..... 194\n\n129 b. Definition of an axis\n ..... 195\n\n129 c. Construction of points of different orders\n ..... 196\n\n129 d. Potential of such points. Surface harmonics $Y_{n}$\n ..... 197\n\n130 a. Solid harmonics. $H_{n}=r^{n} Y_{n}$\n ..... 197\n\n130 b. There are $2 n+1$ independent constants in a solid harmonic\n of the $n^{\\text {th }}$ order\n ..... 198\n\n131 a. Potential due to a spherical shell\n ..... 199\n\n131 b. Expressed in harmonics\n ..... 199\n\n131 c. Mutual potential of shell and external system\n ..... 200\n\n132. Value of $\\iint Y_{m} Y_{n} d s$\n ..... 201\n\n133. Trigonometrical expressions for $Y_{n}$\n ..... 202\n",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

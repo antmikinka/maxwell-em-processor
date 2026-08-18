@@ -1,0 +1,381 @@
+{
+  "article_id": "article_1771",
+  "article_number": 1771,
+  "title_original": ", \u00a7 4, or Art. 125 of Electrical Researches of the",
+  "title_safe": "\u00a7 4 or Art. 125 of Electrical Researches of the",
+  "page_start": 94,
+  "page_end": 94,
+  "content": {
+    "raw_text": "\n--- Page 94 ---\n55.]\nELECTRIC GLOW.\n59\nIn this way the following phenomena are produced :- At and\nclose to the point there is a steady glow, arising from the con-\nstant discharges which are taking place between the point and\nthe air very near it.\nThe charged particles of air tend to move off in the same general\ndirection, and thus produce a current of air from the point, con-\nsisting of the charged particles, and probably of others carried\nalong by them. By artificially aiding this current we may increase\nthe glow, and by checking the formation of the current we may\nprevent the continuance of the glow *.\nThe electric wind in the neighbourhood of the point is sometimes\nvery rapid, but it soon loses its velocity, and the air with its\ncharged particles is carried about with the general motions of the\natmosphere, and constitutes an invisible electric cloud. When the\ncharged particles come near to any conducting surface, such as a\nwall, they induce on that surface a charge opposite to their own,\nand are then attracted towards the wall, but since the electro-\nmotive force is small they may remain for a long time near the\nwall without being drawn up to the surface and discharged. They\nthus form an electrified atmosphere clinging to conductors, the\npresence of which may sometimes be detected by the electrometer.\nThe electrical forces, however, acting between large masses of\ncharged air and other bodies are exceedingly feeble compared with\nthe ordinary forces which produce winds, and which depend on\ninequalities of density due to differences of temperature, so that\nit is very improbable that any observable part of the motion\nof ordinary thunder clouds arises from electrical causes.\nThe passage of electricity from one place to another by the\nmotion of charged particles is called Electrical Convection or\nConvective Discharge.\nThe electrical glow is therefore produced by the constant passage\nof electricity through a small portion of air in which the tension\nis very high, so as to charge the surrounding particles of air which\nare continually swept off by the electric wind, which is an essential\npart of the phenomenon.\nThe glow is more easily formed in rare air than in dense air,\nand more easily when the point is positive than when it is negative.\n\n* See Priestley's History of Electricity, pp. 117 and 591; and Cavendish's ' Elec-\ntrical Researches,' Phil. Trans., 1771, \u00a7 4, or Art. 125 of Electrical Researches of the\nHonourable Henry Cavendish.\n",
+    "mathpix_markdown": "\n--- Page 94 ---\n\n\nIn this way the following phenomena are produced :- At and\n close to the point there is a steady glow, arising from the con\nstant discharges which are taking place between the point and\n the air very near it.\n\n\nThe charged particles of air tend to move off in the same general\n direction, and thus produce a current of air from the point, con\nsisting of the charged particles, and probably of others carried\n along by them. By artificially aiding this current we may increase\n the glow, and by checking the formation of the current we may\n prevent the continuance of the glow *.\n\n\nThe electric wind in the neighbourhood of the point is sometimes\n very rapid, but it soon loses its velocity, and the air with its\n charged particles is carried about with the general motions of the\n atmosphere, and constitutes an invisible electric cloud. When the\n charged particles come near to any conducting surface, such as a\n wall, they induce on that surface a charge opposite to their own,\n and are then attracted towards the wall, but since the electro\nmotive force is small they may remain for a long time near the\n wall without being drawn up to the surface and discharged. They\n thus form an electrified atmosphere clinging to conductors, the\n presence of which may sometimes be detected by the electrometer.\n The electrical forces, however, acting between large masses of\n charged air and other bodies are exceedingly feeble compared with\n the ordinary forces which produce winds, and which depend on\n inequalities of density due to differences of temperature, so that\n it is very improbable that any observable part of the motion\n of ordinary thunder clouds arises from electrical causes.\n\n\nThe passage of electricity from one place to another by the\n motion of charged particles is called Electrical Convection or\n Convective Discharge.\n\n\nThe electrical glow is therefore produced by the constant passage\n of electricity through a small portion of air in which the tension\n is very high, so as to charge the surrounding particles of air which\n are continually swept off by the electric wind, which is an essential\n part of the phenomenon.\n\n\nThe glow is more easily formed in rare air than in dense air,\n and more easily when the point is positive than when it is negative.\n\n\n\\footnotetext{\n* See Priestley's History of Electricity, pp. 117 and 591; and Cavendish's ' Elec\ntrical Researches,' Phil. Trans., 1771, \u00a7 4, or Art. 125 of Electrical Researches of the\n Honourable Henry Cavendish.\n}\n",
+    "structured_lines": [
+      {
+        "page": 94,
+        "line_number": 4,
+        "type": "text",
+        "content": "In this way the following phenomena are produced :- At and",
+        "mathpix_content": "\n\nIn this way the following phenomena are produced :- At and",
+        "font_size": 27,
+        "confidence": 0.4151763916015625
+      },
+      {
+        "page": 94,
+        "line_number": 5,
+        "type": "text",
+        "content": "close to the point there is a steady glow, arising from the con-",
+        "mathpix_content": " close to the point there is a steady glow, arising from the con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 6,
+        "type": "text",
+        "content": "stant discharges which are taking place between the point and",
+        "mathpix_content": "stant discharges which are taking place between the point and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 7,
+        "type": "text",
+        "content": "the air very near it.",
+        "mathpix_content": " the air very near it.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 8,
+        "type": "text",
+        "content": "The charged particles of air tend to move off in the same general",
+        "mathpix_content": "\n\nThe charged particles of air tend to move off in the same general",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 9,
+        "type": "text",
+        "content": "direction, and thus produce a current of air from the point, con-",
+        "mathpix_content": " direction, and thus produce a current of air from the point, con",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 10,
+        "type": "text",
+        "content": "sisting of the charged particles, and probably of others carried",
+        "mathpix_content": "sisting of the charged particles, and probably of others carried",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 11,
+        "type": "text",
+        "content": "along by them. By artificially aiding this current we may increase",
+        "mathpix_content": " along by them. By artificially aiding this current we may increase",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 12,
+        "type": "text",
+        "content": "the glow, and by checking the formation of the current we may",
+        "mathpix_content": " the glow, and by checking the formation of the current we may",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 13,
+        "type": "text",
+        "content": "prevent the continuance of the glow *.",
+        "mathpix_content": " prevent the continuance of the glow *.",
+        "font_size": 27,
+        "confidence": 0.9702692031860352
+      },
+      {
+        "page": 94,
+        "line_number": 14,
+        "type": "text",
+        "content": "The electric wind in the neighbourhood of the point is sometimes",
+        "mathpix_content": "\n\nThe electric wind in the neighbourhood of the point is sometimes",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 94,
+        "line_number": 15,
+        "type": "text",
+        "content": "very rapid, but it soon loses its velocity, and the air with its",
+        "mathpix_content": " very rapid, but it soon loses its velocity, and the air with its",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 16,
+        "type": "text",
+        "content": "charged particles is carried about with the general motions of the",
+        "mathpix_content": " charged particles is carried about with the general motions of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 17,
+        "type": "text",
+        "content": "atmosphere, and constitutes an invisible electric cloud. When the",
+        "mathpix_content": " atmosphere, and constitutes an invisible electric cloud. When the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 18,
+        "type": "text",
+        "content": "charged particles come near to any conducting surface, such as a",
+        "mathpix_content": " charged particles come near to any conducting surface, such as a",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 94,
+        "line_number": 19,
+        "type": "text",
+        "content": "wall, they induce on that surface a charge opposite to their own,",
+        "mathpix_content": " wall, they induce on that surface a charge opposite to their own,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 20,
+        "type": "text",
+        "content": "and are then attracted towards the wall, but since the electro-",
+        "mathpix_content": " and are then attracted towards the wall, but since the electro",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 21,
+        "type": "text",
+        "content": "motive force is small they may remain for a long time near the",
+        "mathpix_content": "motive force is small they may remain for a long time near the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 22,
+        "type": "text",
+        "content": "wall without being drawn up to the surface and discharged. They",
+        "mathpix_content": " wall without being drawn up to the surface and discharged. They",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 23,
+        "type": "text",
+        "content": "thus form an electrified atmosphere clinging to conductors, the",
+        "mathpix_content": " thus form an electrified atmosphere clinging to conductors, the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 24,
+        "type": "text",
+        "content": "presence of which may sometimes be detected by the electrometer.",
+        "mathpix_content": " presence of which may sometimes be detected by the electrometer.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 25,
+        "type": "text",
+        "content": "The electrical forces, however, acting between large masses of",
+        "mathpix_content": " The electrical forces, however, acting between large masses of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 26,
+        "type": "text",
+        "content": "charged air and other bodies are exceedingly feeble compared with",
+        "mathpix_content": " charged air and other bodies are exceedingly feeble compared with",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 94,
+        "line_number": 27,
+        "type": "text",
+        "content": "the ordinary forces which produce winds, and which depend on",
+        "mathpix_content": " the ordinary forces which produce winds, and which depend on",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 28,
+        "type": "text",
+        "content": "inequalities of density due to differences of temperature, so that",
+        "mathpix_content": " inequalities of density due to differences of temperature, so that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 29,
+        "type": "text",
+        "content": "it is very improbable that any observable part of the motion",
+        "mathpix_content": " it is very improbable that any observable part of the motion",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 30,
+        "type": "text",
+        "content": "of ordinary thunder clouds arises from electrical causes.",
+        "mathpix_content": " of ordinary thunder clouds arises from electrical causes.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 31,
+        "type": "text",
+        "content": "The passage of electricity from one place to another by the",
+        "mathpix_content": "\n\nThe passage of electricity from one place to another by the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 32,
+        "type": "text",
+        "content": "motion of charged particles is called Electrical Convection or",
+        "mathpix_content": " motion of charged particles is called Electrical Convection or",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 33,
+        "type": "text",
+        "content": "Convective Discharge.",
+        "mathpix_content": " Convective Discharge.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 34,
+        "type": "text",
+        "content": "The electrical glow is therefore produced by the constant passage",
+        "mathpix_content": "\n\nThe electrical glow is therefore produced by the constant passage",
+        "font_size": 27,
+        "confidence": 0.9951171875
+      },
+      {
+        "page": 94,
+        "line_number": 35,
+        "type": "text",
+        "content": "of electricity through a small portion of air in which the tension",
+        "mathpix_content": " of electricity through a small portion of air in which the tension",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 36,
+        "type": "text",
+        "content": "is very high, so as to charge the surrounding particles of air which",
+        "mathpix_content": " is very high, so as to charge the surrounding particles of air which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 37,
+        "type": "text",
+        "content": "are continually swept off by the electric wind, which is an essential",
+        "mathpix_content": " are continually swept off by the electric wind, which is an essential",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 38,
+        "type": "text",
+        "content": "part of the phenomenon.",
+        "mathpix_content": " part of the phenomenon.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 39,
+        "type": "text",
+        "content": "The glow is more easily formed in rare air than in dense air,",
+        "mathpix_content": "\n\nThe glow is more easily formed in rare air than in dense air,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 40,
+        "type": "text",
+        "content": "and more easily when the point is positive than when it is negative.",
+        "mathpix_content": " and more easily when the point is positive than when it is negative.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 94,
+        "line_number": 42,
+        "type": "text",
+        "content": "* See Priestley's History of Electricity, pp. 117 and 591; and Cavendish's ' Elec-",
+        "mathpix_content": "\n\n\\footnotetext{\n* See Priestley's History of Electricity, pp. 117 and 591; and Cavendish's ' Elec",
+        "font_size": 21,
+        "confidence": 0.7231104828296147
+      },
+      {
+        "page": 94,
+        "line_number": 43,
+        "type": "text",
+        "content": "trical Researches,' Phil. Trans., 1771, \u00a7 4, or Art. 125 of Electrical Researches of the",
+        "mathpix_content": "trical Researches,' Phil. Trans., 1771, \u00a7 4, or Art. 125 of Electrical Researches of the",
+        "font_size": 21,
+        "confidence": 0.9747151155024767
+      },
+      {
+        "page": 94,
+        "line_number": 44,
+        "type": "text",
+        "content": "Honourable Henry Cavendish.",
+        "mathpix_content": " Honourable Henry Cavendish.\n}",
+        "font_size": 21,
+        "confidence": 0.7657392024993896
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

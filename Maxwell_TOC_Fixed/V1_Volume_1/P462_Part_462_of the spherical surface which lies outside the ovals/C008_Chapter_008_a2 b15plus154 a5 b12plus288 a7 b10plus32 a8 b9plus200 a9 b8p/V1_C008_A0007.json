@@ -1,0 +1,20 @@
+{
+  "article_id": "article_7",
+  "article_number": 7,
+  "title_original": "a^{2} b^{13}+75 a^{5} b^{10}+90 a^{7} b^{8}+32 a^{9} b^{6}\\right) c^{-15} \\\\",
+  "title_safe": "a2 b13plus75 a5 b10plus90 a7 b8plus32 a9 b6right c-15",
+  "page_start": 263,
+  "page_end": 262,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

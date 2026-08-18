@@ -1,0 +1,2975 @@
+{
+  "part_id": "part_101",
+  "part_number": 101,
+  "title": "icle passing from one point to another is the difference of the",
+  "page_start": 55,
+  "page_end": 57,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 20,
+      "title": "PRELIMINARY.",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 21,
+      "title": "and $p^{\\prime}$ times in the negative direction, and let $p-p^{\\prime}=n_{1}$. Then",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 1,
+      "title": "} K_{1}$.",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 1,
+      "title": "} K_{1}+n_{2} K_{2}+\\ldots+n_{s} K_{s}$$",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 21,
+      "title": "] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 1867,
+      "title": "8.",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 190,
+      "title": "(2).",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": "}$. Then",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 1,
+      "title": "} K_{1}$.",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 1,
+      "title": "} K_{1}+n_{2} K_{2}+\\ldots+n_{s} K_{s}$$",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 21,
+      "title": "] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 1867,
+      "title": "8.",
+      "page_start": 55,
+      "page_end": 54,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 190,
+      "title": "(2).",
+      "page_start": 55,
+      "page_end": 55,
+      "articles": [
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": "and $p^{\\prime}$ times in the negative direction, and let $p-p^{\\prime}=n_{1}$. Then",
+          "title_safe": "and pprime times in the negative direction and let p-pprimee",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": "] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+          "title_safe": "Let d S be the element of a surface and epsilon the angle wh",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\u2020 See Thomson and Tait's Natural Philosophy, \u00a7 190 (2).",
+          "title_safe": "\u2020 See Thomson and Taits Natural Philosophy \u00a7 190 2",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": "] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+          "title_safe": "Let d S be the element of a surface and epsilon the angle wh",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "\u2020 See Thomson and Tait's Natural Philosophy, \u00a7 190 (2).",
+          "title_safe": "\u2020 See Thomson and Taits Natural Philosophy \u00a7 190 2",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_20",
+          "article_number": 20,
+          "title_original": "PRELIMINARY.",
+          "title_safe": "PRELIMINARY",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$. Then",
+          "title_safe": "Then",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} K_{1}$.",
+          "title_safe": "K1",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} K_{1}+n_{2} K_{2}+\\ldots+n_{s} K_{s}$$",
+          "title_safe": "K1plusn2 K2plusldotsplusns Ks",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ".] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+          "title_safe": "Let d S be the element of a surface and epsilon the angle",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1867",
+          "article_number": 1867,
+          "title_original": "8.",
+          "title_safe": "8",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_190",
+          "article_number": 190,
+          "title_original": "(2).",
+          "title_safe": "2",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$. Then",
+          "title_safe": "Then",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} K_{1}$.",
+          "title_safe": "K1",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "} K_{1}+n_{2} K_{2}+\\ldots+n_{s} K_{s}$$",
+          "title_safe": "K1plusn2 K2plusldotsplusns Ks",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ".] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+          "title_safe": "Let d S be the element of a surface and epsilon the angle",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1867",
+          "article_number": 1867,
+          "title_original": "8.",
+          "title_safe": "8",
+          "page_start": 55,
+          "page_end": 54,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_190",
+          "article_number": 190,
+          "title_original": "(2).",
+          "title_safe": "2",
+          "page_start": 55,
+          "page_end": 55,
+          "content": {
+            "raw_text": "\n--- Page 55 ---\n20\nPRELIMINARY.\n[21.\nand $p^{\\prime}$ times in the negative direction, and let $p-p^{\\prime}=n_{1}$. Then\nthe line-integral of the closed curve will be $n_{1} K_{1}$.\nSimilarly the line-integral of any closed curve will be\n$$n_{1} K_{1}+n_{2} K_{2}+\\ldots+n_{s} K_{s}$$\nwhere $n_{s}$ represents the excess of the number of positive passages\nof the curve through the diaphragm of the cycle $S$ over the\nnumber of negative passages.\nIf two curves are such that one of them may be transformed\ninto the other by continuous motion without at any time passing\nthrough any part of space for which the condition of having a\npotential is not fulfilled, these two curves are called Reconcileable\ncurves. Curves for which this transformation cannot be effected\nare called Irreccncileable curves *\nThe condition that $X d x+Y d y+Z d z$ is a complete cifferential\nof some function $\\Psi$ for all points within a certain region, occurs\nin several physical investigations in which the directed quantity\nand the potential have different physical interpretations.\nIn pure kinematics we may suppose $X, Y, Z$ to be the com-\nponents of the displacement of a point of a continuous body whose\noriginal coordinates are $x, y, z$; the condition then expresses that\nthese displacements constitute a non-rotational strain \u2020 .\nIf $X, Y, Z$ represent the components of the velocity of a fluid\nat the point $x, y, z$, then the condition expresses that the motion\nof the fluid is irrotational.\nIf $X, Y, Z$ represent the components of the force at the point\n$x, y, z$, then the condition expresses that the work done on a\nparticle passing from one point to another is the difference of the\npotentials at these points, and the value of this difference is the\nsame for all reconcileable paths between the two points.\n\nOn Surface-Integrals.\n21.] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which\na normal to the surface drawn towards the positive side of the\nsurface makes with the direction of the vector quantity $R$, then\n$\\iint R \\cos \\epsilon d S$ is called the surface-integral of $R$ over the surface $S \\ddagger$.\n\n* See Sir W. Thomson 'On Vortex Motion,' Trans. R. S. Edin., 1867-8.\n\u2020 See Thomson and Tait's Natural Philosophy, \u00a7 190 (2).\n$\\ddagger$ \\{In the following investigations the positive direction of the normal is outwards\nfrom the surface. \\}\n",
+            "mathpix_markdown": "\n--- Page 55 ---\n\nand $p^{\\prime}$ times in the negative direction, and let $p-p^{\\prime}=n_{1}$. Then\n the line-integral of the closed curve will be $n_{1} K_{1}$.\n\n\nSimilarly the line-integral of any closed curve will be\n\n$$n_{1} K_{1}+n_{2} K_{2}+\\ldots+n_{s} K_{s}$$\n\nwhere $n_{s}$ represents the excess of the number of positive passages\n of the curve through the diaphragm of the cycle $S$ over the\n number of negative passages.\n\n\nIf two curves are such that one of them may be transformed\n into the other by continuous motion without at any time passing\n through any part of space for which the condition of having a\n potential is not fulfilled, these two curves are called Reconcileable\n curves. Curves for which this transformation cannot be effected\n are called Irreccncileable curves *\n\n\nThe condition that $X d x+Y d y+Z d z$ is a complete cifferential\n of some function $\\Psi$ for all points within a certain region, occurs\n in several physical investigations in which the directed quantity\n and the potential have different physical interpretations.\n\n\nIn pure kinematics we may suppose $X, Y, Z$ to be the com\nponents of the displacement of a point of a continuous body whose\n original coordinates are $x, y, z$; the condition then expresses that\n these displacements constitute a non-rotational strain \u2020 .\n\n\nIf $X, Y, Z$ represent the components of the velocity of a fluid\n at the point $x, y, z$, then the condition expresses that the motion\n of the fluid is irrotational.\n\n\nIf $X, Y, Z$ represent the components of the force at the point\n $x, y, z$, then the condition expresses that the work done on a\n particle passing from one point to another is the difference of the\n potentials at these points, and the value of this difference is the\n same for all reconcileable paths between the two points.\n\n\n\\section*{On Surface-Integrals.}\n\n21.] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which\n a normal to the surface drawn towards the positive side of the\n surface makes with the direction of the vector quantity $R$, then\n\n$\\iint R \\cos \\epsilon d S$ is called the surface-integral of $R$ over the surface $S \\ddagger$.\n\n\n\\footnotetext{\n* See Sir W. Thomson 'On Vortex Motion,' Trans. R. S. Edin., 1867-8.\n\n\u2020 See Thomson and Tait's Natural Philosophy, \u00a7 190 (2).\n\n$\\ddagger$ \\{In the following investigations the positive direction of the normal is outwards\n from the surface. \\}\n}\n",
+            "structured_lines": [
+              {
+                "page": 55,
+                "line_number": 4,
+                "type": "text",
+                "content": "and $p^{\\prime}$ times in the negative direction, and let $p-p^{\\prime}=n_{1}$. Then",
+                "mathpix_content": "\nand $p^{\\prime}$ times in the negative direction, and let $p-p^{\\prime}=n_{1}$. Then",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 5,
+                "type": "text",
+                "content": "the line-integral of the closed curve will be $n_{1} K_{1}$.",
+                "mathpix_content": " the line-integral of the closed curve will be $n_{1} K_{1}$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 6,
+                "type": "text",
+                "content": "Similarly the line-integral of any closed curve will be",
+                "mathpix_content": "\n\nSimilarly the line-integral of any closed curve will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 9,
+                "type": "text",
+                "content": "where $n_{s}$ represents the excess of the number of positive passages",
+                "mathpix_content": "\nwhere $n_{s}$ represents the excess of the number of positive passages",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 55,
+                "line_number": 10,
+                "type": "text",
+                "content": "of the curve through the diaphragm of the cycle $S$ over the",
+                "mathpix_content": " of the curve through the diaphragm of the cycle $S$ over the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 11,
+                "type": "text",
+                "content": "number of negative passages.",
+                "mathpix_content": " number of negative passages.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 12,
+                "type": "text",
+                "content": "If two curves are such that one of them may be transformed",
+                "mathpix_content": "\n\nIf two curves are such that one of them may be transformed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 13,
+                "type": "text",
+                "content": "into the other by continuous motion without at any time passing",
+                "mathpix_content": " into the other by continuous motion without at any time passing",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 14,
+                "type": "text",
+                "content": "through any part of space for which the condition of having a",
+                "mathpix_content": " through any part of space for which the condition of having a",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 15,
+                "type": "text",
+                "content": "potential is not fulfilled, these two curves are called Reconcileable",
+                "mathpix_content": " potential is not fulfilled, these two curves are called Reconcileable",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 16,
+                "type": "text",
+                "content": "curves. Curves for which this transformation cannot be effected",
+                "mathpix_content": " curves. Curves for which this transformation cannot be effected",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 17,
+                "type": "text",
+                "content": "are called Irreccncileable curves *",
+                "mathpix_content": " are called Irreccncileable curves *",
+                "font_size": 27,
+                "confidence": 0.33176255226135254
+              },
+              {
+                "page": 55,
+                "line_number": 18,
+                "type": "text",
+                "content": "The condition that $X d x+Y d y+Z d z$ is a complete cifferential",
+                "mathpix_content": "\n\nThe condition that $X d x+Y d y+Z d z$ is a complete cifferential",
+                "font_size": 27,
+                "confidence": 0.9694533348083496
+              },
+              {
+                "page": 55,
+                "line_number": 19,
+                "type": "text",
+                "content": "of some function $\\Psi$ for all points within a certain region, occurs",
+                "mathpix_content": " of some function $\\Psi$ for all points within a certain region, occurs",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 55,
+                "line_number": 20,
+                "type": "text",
+                "content": "in several physical investigations in which the directed quantity",
+                "mathpix_content": " in several physical investigations in which the directed quantity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 21,
+                "type": "text",
+                "content": "and the potential have different physical interpretations.",
+                "mathpix_content": " and the potential have different physical interpretations.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 22,
+                "type": "text",
+                "content": "In pure kinematics we may suppose $X, Y, Z$ to be the com-",
+                "mathpix_content": "\n\nIn pure kinematics we may suppose $X, Y, Z$ to be the com",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 23,
+                "type": "text",
+                "content": "ponents of the displacement of a point of a continuous body whose",
+                "mathpix_content": "ponents of the displacement of a point of a continuous body whose",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 24,
+                "type": "text",
+                "content": "original coordinates are $x, y, z$; the condition then expresses that",
+                "mathpix_content": " original coordinates are $x, y, z$; the condition then expresses that",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 25,
+                "type": "text",
+                "content": "these displacements constitute a non-rotational strain \u2020 .",
+                "mathpix_content": " these displacements constitute a non-rotational strain \u2020 .",
+                "font_size": 27,
+                "confidence": 0.8411603977015147
+              },
+              {
+                "page": 55,
+                "line_number": 26,
+                "type": "text",
+                "content": "If $X, Y, Z$ represent the components of the velocity of a fluid",
+                "mathpix_content": "\n\nIf $X, Y, Z$ represent the components of the velocity of a fluid",
+                "font_size": 27,
+                "confidence": 0.9569779364392161
+              },
+              {
+                "page": 55,
+                "line_number": 27,
+                "type": "text",
+                "content": "at the point $x, y, z$, then the condition expresses that the motion",
+                "mathpix_content": " at the point $x, y, z$, then the condition expresses that the motion",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 55,
+                "line_number": 28,
+                "type": "text",
+                "content": "of the fluid is irrotational.",
+                "mathpix_content": " of the fluid is irrotational.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 29,
+                "type": "text",
+                "content": "If $X, Y, Z$ represent the components of the force at the point",
+                "mathpix_content": "\n\nIf $X, Y, Z$ represent the components of the force at the point",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 30,
+                "type": "text",
+                "content": "$x, y, z$, then the condition expresses that the work done on a",
+                "mathpix_content": " $x, y, z$, then the condition expresses that the work done on a",
+                "font_size": 27,
+                "confidence": 0.98046875
+              },
+              {
+                "page": 55,
+                "line_number": 31,
+                "type": "text",
+                "content": "particle passing from one point to another is the difference of the",
+                "mathpix_content": " particle passing from one point to another is the difference of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 32,
+                "type": "text",
+                "content": "potentials at these points, and the value of this difference is the",
+                "mathpix_content": " potentials at these points, and the value of this difference is the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 33,
+                "type": "text",
+                "content": "same for all reconcileable paths between the two points.",
+                "mathpix_content": " same for all reconcileable paths between the two points.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 35,
+                "type": "text",
+                "content": "On Surface-Integrals.",
+                "mathpix_content": "\n\n\\section*{On Surface-Integrals.}",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 55,
+                "line_number": 36,
+                "type": "text",
+                "content": "21.] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+                "mathpix_content": "\n21.] Let $d S$ be the element of a surface, and $\\epsilon$ the angle which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 37,
+                "type": "text",
+                "content": "a normal to the surface drawn towards the positive side of the",
+                "mathpix_content": " a normal to the surface drawn towards the positive side of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 38,
+                "type": "text",
+                "content": "surface makes with the direction of the vector quantity $R$, then",
+                "mathpix_content": " surface makes with the direction of the vector quantity $R$, then",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 55,
+                "line_number": 39,
+                "type": "text",
+                "content": "$\\iint R \\cos \\epsilon d S$ is called the surface-integral of $R$ over the surface $S \\ddagger$.",
+                "mathpix_content": "\n$\\iint R \\cos \\epsilon d S$ is called the surface-integral of $R$ over the surface $S \\ddagger$.",
+                "font_size": 27,
+                "confidence": 0.3705504554654908
+              },
+              {
+                "page": 55,
+                "line_number": 41,
+                "type": "text",
+                "content": "* See Sir W. Thomson 'On Vortex Motion,' Trans. R. S. Edin., 1867-8.",
+                "mathpix_content": "\n\n\\footnotetext{\n* See Sir W. Thomson 'On Vortex Motion,' Trans. R. S. Edin., 1867-8.",
+                "font_size": 21,
+                "confidence": 0.6306770359795266
+              },
+              {
+                "page": 55,
+                "line_number": 42,
+                "type": "text",
+                "content": "\u2020 See Thomson and Tait's Natural Philosophy, \u00a7 190 (2).",
+                "mathpix_content": "\n\u2020 See Thomson and Tait's Natural Philosophy, \u00a7 190 (2).",
+                "font_size": 21,
+                "confidence": 0.9695542900014523
+              },
+              {
+                "page": 55,
+                "line_number": 43,
+                "type": "text",
+                "content": "$\\ddagger$ \\{In the following investigations the positive direction of the normal is outwards",
+                "mathpix_content": "\n$\\ddagger$ \\{In the following investigations the positive direction of the normal is outwards",
+                "font_size": 21,
+                "confidence": 0.8527144414053718
+              },
+              {
+                "page": 55,
+                "line_number": 44,
+                "type": "text",
+                "content": "from the surface. \\}",
+                "mathpix_content": " from the surface. \\}\n}",
+                "font_size": 21,
+                "confidence": 0.9514052867889404
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 21,
+      "title": "$]$",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 21,
+      "title": "Theorem III. The surface-integral of the flux inwards through",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 25,
+      "title": ")",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 1,
+      "title": ")",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 1,
+      "title": "}$, then leave it when $x=x_{2}$, and so on:",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": "}, X_{2}$, \\&c., then",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 1,
+      "title": "}-X_{2}\\right)+\\left(X_{3}-X_{4}\\right)+\\& \\mathrm{c}\\right. & \\\\",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 2,
+      "title": "^{n-1}}-X_{2 n}\\right)\\right\\} d y d z .",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 2,
+      "title": ")",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 1,
+      "title": "}$ and $x_{2}$, then",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 2,
+      "title": "}-X_{1}=\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x$$",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 3,
+      "title": ")",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 4,
+      "title": ")",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 5,
+      "title": ")",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 25,
+      "title": ")",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 1,
+      "title": "}",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 1,
+      "title": "}$, then leave it when $x=x_{2}$, and so on:",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 1,
+      "title": "}, X_{2}$, \\&c., then",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 1,
+      "title": "}-X_{2}\\right)+\\left(X_{3}-X_{4}\\right)+\\& \\mathrm{c}\\right. & \\\\",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 2,
+      "title": "^{n-1}}-X_{2 n}\\right)\\right\\} d y d z . \\tag{2}",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 1,
+      "title": "}$ and $x_{2}$, then",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 2,
+      "title": "}-X_{1}=\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x \\tag{3}",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 4,
+      "title": "}",
+      "page_start": 56,
+      "page_end": 55,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 5,
+      "title": "}",
+      "page_start": 56,
+      "page_end": 56,
+      "articles": [
+        {
+          "article_id": "article_25",
+          "article_number": 25,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_25",
+          "article_number": 25,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": "$]$",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_25",
+          "article_number": 25,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_25",
+          "article_number": 25,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": ".$]$",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_21",
+          "article_number": 21,
+          "title_original": "Theorem III. The surface-integral of the flux inwards through",
+          "title_safe": "Theorem III. The surface-integral of the flux inwards throug",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_25",
+          "article_number": 25,
+          "title_original": ".)",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, then leave it when $x=x_{2}$, and so on:",
+          "title_safe": "then leave it when xequalsx2 and so onCOLON",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, X_{2}$, \\&c., then",
+          "title_safe": "X2 andc. then",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-X_{2}\\right)+\\left(X_{3}-X_{4}\\right)+\\& \\mathrm{c}\\right. & \\\\",
+          "title_safe": "X2rightplusleftX3-X4rightplusand mathrmcright. and",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "^{n-1}}-X_{2 n}\\right)\\right\\} d y d z .",
+          "title_safe": "n-1-X2 nrightright d y d z",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $x_{2}$, then",
+          "title_safe": "and x2 then",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-X_{1}=\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x$$",
+          "title_safe": "X1equalsintx1x2 fracd Xd x d x",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_5",
+          "article_number": 5,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_25",
+          "article_number": 25,
+          "title_original": ".)",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$, then leave it when $x=x_{2}$, and so on:",
+          "title_safe": "then leave it when xequalsx2 and so onCOLON",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, X_{2}$, \\&c., then",
+          "title_safe": "X2 andc. then",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}-X_{2}\\right)+\\left(X_{3}-X_{4}\\right)+\\& \\mathrm{c}\\right. & \\\\",
+          "title_safe": "X2rightplusleftX3-X4rightplusand mathrmcright. and",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "^{n-1}}-X_{2 n}\\right)\\right\\} d y d z . \\tag{2}",
+          "title_safe": "n-1-X2 nrightright d y d z . tag2",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $x_{2}$, then",
+          "title_safe": "and x2 then",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-X_{1}=\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x \\tag{3}",
+          "title_safe": "X1equalsintx1x2 fracd Xd x d x tag3",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 55,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_5",
+          "article_number": 5,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 56,
+          "page_end": 56,
+          "content": {
+            "raw_text": "\n--- Page 56 ---\n21.$]$\nSURFACE-INTEGRAIS.\n21\nTheorem III. The surface-integral of the flux inwards through\na closed surface may be expressed as the volume-integral of\nits convergence taken within the surface. (See Art. 25.)\nLet $X, Y, Z$ be the components of $R$, and let $l, m, n$ be the\ndirection-cosines of the normal to $S$ measured outwards. Then\nthe surface-integral of $R$ over $S$ is\n$$\\iint R \\cos \\epsilon d S=\\iint X d d S+\\iint Y m d S+\\iint Z n d S,$$\n(1)\nthe values of $X, Y, Z$ being those at a point in the surface, and\nthe integrations being extended over the whole surface.\nIf the surface is a closed one, then, when $y$ and $z$ are given,\nthe coordinate $x$ must have an even number of values, since a line\nparallel to $x$ must enter and leave the enclosed space an equal\nnumber of times provided it meets the surface at all.\nAt each entrance\nand at each exit\n$$\\begin{aligned}\n& l d S=-d y d z \\\\\n& l d S=d y d z\n\\end{aligned}$$\nLet a point travelling from $x=-\\infty$ to $x=+\\infty$ first enter\nthe space when $x=x_{1}$, then leave it when $x=x_{2}$, and so on:\nand let the values of $X$ at these points be $X_{1}, X_{2}$, \\&c., then\n$$\\begin{aligned}\n\\iint X l d S=-\\iint\\left\\{\\left(X_{1}-X_{2}\\right)+\\left(X_{3}-X_{4}\\right)+\\& \\mathrm{c}\\right. & \\\\\n& \\left.+\\left(X_{2^{n-1}}-X_{2 n}\\right)\\right\\} d y d z .\n\\end{aligned}$$\n(2)\nIf $X$ is a quantity which is continuous, and has no infinite values\nbetween $x_{1}$ and $x_{2}$, then\n$$X_{2}-X_{1}=\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x$$\n(3)\nwhere the integration is extended from the first to the second\nintersection, that is, along the first segment of $x$ which is within\nthe closed surface. Taking into account all the segments which\nlie within the closed surface, we find\n$$\\iint X l d S=\\iiint \\frac{d X}{d x} d x d y d z$$\n(4)\nthe double integration being confined to the closed surface, but\nthe triple integration being extended to the whole enclosed space.\nHence, if $X, Y, Z$ are continuous and finite within a closed surface\n$S$, the total surface-integral of $R$ over that surface will be\n$$\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z$$\n(5)\n",
+            "mathpix_markdown": "\n--- Page 56 ---\n\n\nTheorem III. The surface-integral of the flux inwards through\n a closed surface may be expressed as the volume-integral of\n its convergence taken within the surface. (See Art. 25.)\n\nLet $X, Y, Z$ be the components of $R$, and let $l, m, n$ be the\n direction-cosines of the normal to $S$ measured outwards. Then\n the surface-integral of $R$ over $S$ is\n\n$$\\begin{equation*}\n\\iint R \\cos \\epsilon d S=\\iint X d d S+\\iint Y m d S+\\iint Z n d S, \\tag{1}\n\\end{equation*}$$\n\nthe values of $X, Y, Z$ being those at a point in the surface, and\n the integrations being extended over the whole surface.\n\n\nIf the surface is a closed one, then, when $y$ and $z$ are given,\n the coordinate $x$ must have an even number of values, since a line\n parallel to $x$ must enter and leave the enclosed space an equal\n number of times provided it meets the surface at all.\n\n\nAt each entrance\n\nand at each exit\n\n$$\\begin{aligned}\n& l d S=-d y d z \\\\\n& l d S=d y d z\n\\end{aligned}$$\n\n\nLet a point travelling from $x=-\\infty$ to $x=+\\infty$ first enter\n the space when $x=x_{1}$, then leave it when $x=x_{2}$, and so on:\n and let the values of $X$ at these points be $X_{1}, X_{2}$, \\&c., then\n\n$$\\begin{align*}\n\\iint X l d S=-\\iint\\left\\{\\left(X_{1}-X_{2}\\right)+\\left(X_{3}-X_{4}\\right)+\\& \\mathrm{c}\\right. & \\\\\n& \\left.+\\left(X_{2^{n-1}}-X_{2 n}\\right)\\right\\} d y d z . \\tag{2}\n\\end{align*}$$\n\n\nIf $X$ is a quantity which is continuous, and has no infinite values\n between $x_{1}$ and $x_{2}$, then\n\n$$\\begin{equation*}\nX_{2}-X_{1}=\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x \\tag{3}\n\\end{equation*}$$\n\nwhere the integration is extended from the first to the second\n intersection, that is, along the first segment of $x$ which is within\n the closed surface. Taking into account all the segments which\n lie within the closed surface, we find\n\n$$\\begin{equation*}\n\\iint X l d S=\\iiint \\frac{d X}{d x} d x d y d z \\tag{4}\n\\end{equation*}$$\n\nthe double integration being confined to the closed surface, but\n the triple integration being extended to the whole enclosed space.\n Hence, if $X, Y, Z$ are continuous and finite within a closed surface\n $S$, the total surface-integral of $R$ over that surface will be\n\n$$\\begin{equation*}\n\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z \\tag{5}\n\\end{equation*}$$\n",
+            "structured_lines": [
+              {
+                "page": 56,
+                "line_number": 4,
+                "type": "text",
+                "content": "Theorem III. The surface-integral of the flux inwards through",
+                "mathpix_content": "\n\nTheorem III. The surface-integral of the flux inwards through",
+                "font_size": 34,
+                "confidence": 0.9985356330871582
+              },
+              {
+                "page": 56,
+                "line_number": 5,
+                "type": "text",
+                "content": "a closed surface may be expressed as the volume-integral of",
+                "mathpix_content": " a closed surface may be expressed as the volume-integral of",
+                "font_size": 34,
+                "confidence": 0.5587186813354492
+              },
+              {
+                "page": 56,
+                "line_number": 6,
+                "type": "text",
+                "content": "its convergence taken within the surface. (See Art. 25.)",
+                "mathpix_content": " its convergence taken within the surface. (See Art. 25.)",
+                "font_size": 34,
+                "confidence": 0.9311857223510742
+              },
+              {
+                "page": 56,
+                "line_number": 7,
+                "type": "text",
+                "content": "Let $X, Y, Z$ be the components of $R$, and let $l, m, n$ be the",
+                "mathpix_content": "\nLet $X, Y, Z$ be the components of $R$, and let $l, m, n$ be the",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 56,
+                "line_number": 8,
+                "type": "text",
+                "content": "direction-cosines of the normal to $S$ measured outwards. Then",
+                "mathpix_content": " direction-cosines of the normal to $S$ measured outwards. Then",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 9,
+                "type": "text",
+                "content": "the surface-integral of $R$ over $S$ is",
+                "mathpix_content": " the surface-integral of $R$ over $S$ is",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 13,
+                "type": "text",
+                "content": "the values of $X, Y, Z$ being those at a point in the surface, and",
+                "mathpix_content": "\nthe values of $X, Y, Z$ being those at a point in the surface, and",
+                "font_size": 34,
+                "confidence": 0.9990236759185791
+              },
+              {
+                "page": 56,
+                "line_number": 14,
+                "type": "text",
+                "content": "the integrations being extended over the whole surface.",
+                "mathpix_content": " the integrations being extended over the whole surface.",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 56,
+                "line_number": 15,
+                "type": "text",
+                "content": "If the surface is a closed one, then, when $y$ and $z$ are given,",
+                "mathpix_content": "\n\nIf the surface is a closed one, then, when $y$ and $z$ are given,",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 16,
+                "type": "text",
+                "content": "the coordinate $x$ must have an even number of values, since a line",
+                "mathpix_content": " the coordinate $x$ must have an even number of values, since a line",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 17,
+                "type": "text",
+                "content": "parallel to $x$ must enter and leave the enclosed space an equal",
+                "mathpix_content": " parallel to $x$ must enter and leave the enclosed space an equal",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 56,
+                "line_number": 18,
+                "type": "text",
+                "content": "number of times provided it meets the surface at all.",
+                "mathpix_content": " number of times provided it meets the surface at all.",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 19,
+                "type": "text",
+                "content": "At each entrance",
+                "mathpix_content": "\n\nAt each entrance",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 20,
+                "type": "text",
+                "content": "and at each exit",
+                "mathpix_content": "\nand at each exit",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 24,
+                "type": "text",
+                "content": "Let a point travelling from $x=-\\infty$ to $x=+\\infty$ first enter",
+                "mathpix_content": "\n\nLet a point travelling from $x=-\\infty$ to $x=+\\infty$ first enter",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 25,
+                "type": "text",
+                "content": "the space when $x=x_{1}$, then leave it when $x=x_{2}$, and so on:",
+                "mathpix_content": " the space when $x=x_{1}$, then leave it when $x=x_{2}$, and so on:",
+                "font_size": 34,
+                "confidence": 0.9965853681787848
+              },
+              {
+                "page": 56,
+                "line_number": 26,
+                "type": "text",
+                "content": "and let the values of $X$ at these points be $X_{1}, X_{2}$, \\&c., then",
+                "mathpix_content": " and let the values of $X$ at these points be $X_{1}, X_{2}$, \\&c., then",
+                "font_size": 34,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 56,
+                "line_number": 31,
+                "type": "text",
+                "content": "If $X$ is a quantity which is continuous, and has no infinite values",
+                "mathpix_content": "\n\nIf $X$ is a quantity which is continuous, and has no infinite values",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 32,
+                "type": "text",
+                "content": "between $x_{1}$ and $x_{2}$, then",
+                "mathpix_content": " between $x_{1}$ and $x_{2}$, then",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 36,
+                "type": "text",
+                "content": "where the integration is extended from the first to the second",
+                "mathpix_content": "\nwhere the integration is extended from the first to the second",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 37,
+                "type": "text",
+                "content": "intersection, that is, along the first segment of $x$ which is within",
+                "mathpix_content": " intersection, that is, along the first segment of $x$ which is within",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 38,
+                "type": "text",
+                "content": "the closed surface. Taking into account all the segments which",
+                "mathpix_content": " the closed surface. Taking into account all the segments which",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 39,
+                "type": "text",
+                "content": "lie within the closed surface, we find",
+                "mathpix_content": " lie within the closed surface, we find",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 43,
+                "type": "text",
+                "content": "the double integration being confined to the closed surface, but",
+                "mathpix_content": "\nthe double integration being confined to the closed surface, but",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 56,
+                "line_number": 44,
+                "type": "text",
+                "content": "the triple integration being extended to the whole enclosed space.",
+                "mathpix_content": " the triple integration being extended to the whole enclosed space.",
+                "font_size": 34,
+                "confidence": 0.9755859375
+              },
+              {
+                "page": 56,
+                "line_number": 45,
+                "type": "text",
+                "content": "Hence, if $X, Y, Z$ are continuous and finite within a closed surface",
+                "mathpix_content": " Hence, if $X, Y, Z$ are continuous and finite within a closed surface",
+                "font_size": 34,
+                "confidence": 0.9985356330871582
+              },
+              {
+                "page": 56,
+                "line_number": 46,
+                "type": "text",
+                "content": "$S$, the total surface-integral of $R$ over that surface will be",
+                "mathpix_content": " $S$, the total surface-integral of $R$ over that surface will be",
+                "font_size": 34,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 22,
+      "title": "PRELIMINARY.",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 22,
+      "title": "the triple integration being extended over the whole space",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 0,
+      "title": "$ the",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 1,
+      "title": "}$ and $x_{2}$, the value",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 2,
+      "title": "}-X_{1}$ will be",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 1,
+      "title": "}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right)$$",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 6,
+      "title": ")",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 7,
+      "title": ")",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 8,
+      "title": ")",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 0,
+      "title": "$$",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 9,
+      "title": ")",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 10,
+      "title": ")",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 9,
+      "title": ") as the General solenoidal con-",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 10,
+      "title": ") as the Superficial solenoidal condition.",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 22,
+      "title": "] Let us now consider the case in which at every point",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 3,
+      "title": "} Y}{d y}+\\frac{d Z}{d z}=0$$",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 11,
+      "title": ")",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 0,
+      "title": "$ the",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 1,
+      "title": "}$ and $x_{2}$, the value",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 2,
+      "title": "}-X_{1}$ will be",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 1,
+      "title": "}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right) \\tag{6.}",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 7,
+      "title": "}",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 8,
+      "title": "}",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 0,
+      "title": "\\tag{9}",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_62",
+      "chapter_number": 10,
+      "title": "}",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_63",
+      "chapter_number": 9,
+      "title": ") as the General solenoidal con",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_64",
+      "chapter_number": 10,
+      "title": ") as the Superficial solenoidal condition.",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_65",
+      "chapter_number": 22,
+      "title": "] Let us now consider the case in which at every point",
+      "page_start": 57,
+      "page_end": 56,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_66",
+      "chapter_number": 3,
+      "title": "} Y}{d y}+\\frac{d Z}{d z}=0 \\tag{11}",
+      "page_start": 57,
+      "page_end": 57,
+      "articles": [
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": "the triple integration being extended over the whole space",
+          "title_safe": "the triple integration being extended over the whole space",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": "] Let us now consider the case in which at every point",
+          "title_safe": "Let us now consider the case in which at every point",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": "] Let us now consider the case in which at every point",
+          "title_safe": "Let us now consider the case in which at every point",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": "PRELIMINARY.",
+          "title_safe": "PRELIMINARY",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ the",
+          "title_safe": "the",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $x_{2}$, the value",
+          "title_safe": "and x2 the value",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-X_{1}$ will be",
+          "title_safe": "X1 will be",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right)$$",
+          "title_safe": "x2 fracd Xd x d xplusleftXprime-Xright",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_6",
+          "article_number": 6,
+          "title_original": ".)",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$$",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_9",
+          "article_number": 9,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_10",
+          "article_number": 10,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_9",
+          "article_number": 9,
+          "title_original": ") as the General solenoidal con-",
+          "title_safe": "as the General solenoidal con",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_10",
+          "article_number": 10,
+          "title_original": ") as the Superficial solenoidal condition.",
+          "title_safe": "as the Superficial solenoidal condition",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": ".] Let us now consider the case in which at every point",
+          "title_safe": "Let us now consider the case in which at every point",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "} Y}{d y}+\\frac{d Z}{d z}=0$$",
+          "title_safe": "Yd yplusfracd Zd zequals0",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_11",
+          "article_number": 11,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ the",
+          "title_safe": "the",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}$ and $x_{2}$, the value",
+          "title_safe": "and x2 the value",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}-X_{1}$ will be",
+          "title_safe": "X1 will be",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right) \\tag{6.}",
+          "title_safe": "x2 fracd Xd x d xplusleftXprime-Xright tag6",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_7",
+          "article_number": 7,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_8",
+          "article_number": 8,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "\\tag{9}",
+          "title_safe": "tag9",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_10",
+          "article_number": 10,
+          "title_original": "}",
+          "title_safe": "Article",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_9",
+          "article_number": 9,
+          "title_original": ") as the General solenoidal con",
+          "title_safe": "as the General solenoidal con",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_10",
+          "article_number": 10,
+          "title_original": ") as the Superficial solenoidal condition.",
+          "title_safe": "as the Superficial solenoidal condition",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_22",
+          "article_number": 22,
+          "title_original": ".] Let us now consider the case in which at every point",
+          "title_safe": "Let us now consider the case in which at every point",
+          "page_start": 57,
+          "page_end": 56,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "} Y}{d y}+\\frac{d Z}{d z}=0 \\tag{11}",
+          "title_safe": "Yd yplusfracd Zd zequals0 tag11",
+          "page_start": 57,
+          "page_end": 57,
+          "content": {
+            "raw_text": "\n--- Page 57 ---\n22\nPRELIMINARY.\n[22.\nthe triple integration being extended over the whole space\nwithin $S$.\nLet us next suppose that $X, Y, Z$ are not continuous within\nthe closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the\nvalues of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative\nside of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.\nIf this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value\nof $X_{2}-X_{1}$ will be\n$$\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right)$$\n(6.)\nwhere in the expression under the integral sign only the finite\nvalues of the derivative of $X$ are to be considered.\nIn this case therefore the total surface-integral of $R$ over the\nclosed surface will be expressed by\n$$\\begin{array}{r}\n\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z+\\iint\\left(X^{\\prime}-X\\right) d y d z \\\\\n+\\iint\\left(Y^{\\prime}-Y\\right) d z d x+\\iint\\left(Z^{\\prime}-Z\\right) d x d y\n\\end{array}$$\n(7)\nor, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur-\nface of discontinuity, and $d s^{\\prime}$ an element of that surface,\n$$\\begin{aligned}\n\\iint R \\cos \\epsilon d S= & \\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) \\cdot l x d y d \\\\\n& +\\iint\\left\\{l^{\\prime}\\left(X^{\\prime}-X\\right)+m^{\\prime}\\left(Y^{\\prime}-Y\\right)+n^{\\prime}\\left(Z^{\\prime}-Z\\right)\\right\\} d S^{\\prime}\n\\end{aligned}$$\n(8)\nwhere the integration of the last term is to be extended over the\nsurface of discontinuity.\nIf at every point where $X, Y, Z$ are continuous\n$$\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=0$$\n(9)\nand at every surface where they are discontinuous\n$$l^{\\prime} X^{\\prime}+m^{\\prime} Y^{\\prime}+n^{\\prime} Z^{\\prime}=l^{\\prime} X+m^{\\prime} Y+n^{\\prime} Z,$$\n(10)\nthen the surface-integral over every closed surface is zero, and\nthe distribution of the vector quantity is said to be Solenoidal.\nWe shall refer to equation (9) as the General solenoidal con-\ndition, and to equation (10) as the Superficial solenoidal condition.\n22.] Let us now consider the case in which at every point\nwithin the surface $S$ the equation\n$$\\frac{d X}{d x}+\\frac{c^{3} Y}{d y}+\\frac{d Z}{d z}=0$$\n(11)\n",
+            "mathpix_markdown": "\n--- Page 57 ---\n\nthe triple integration being extended over the whole space\n within $S$.\n\n\nLet us next suppose that $X, Y, Z$ are not continuous within\n the closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the\n values of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative\n side of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.\n\n\nIf this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value\n of $X_{2}-X_{1}$ will be\n\n$$\\begin{equation*}\n\\int_{x_{1}}^{x_{2}} \\frac{d X}{d x} d x+\\left(X^{\\prime}-X\\right) \\tag{6.}\n\\end{equation*}$$\n\nwhere in the expression under the integral sign only the finite\n values of the derivative of $X$ are to be considered.\n\n\nIn this case therefore the total surface-integral of $R$ over the\n closed surface will be expressed by\n\n$$\\begin{array}{r}\n\\iint R \\cos \\epsilon d S=\\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) d x d y d z+\\iint\\left(X^{\\prime}-X\\right) d y d z \\\\\n+\\iint\\left(Y^{\\prime}-Y\\right) d z d x+\\iint\\left(Z^{\\prime}-Z\\right) d x d y \\tag{7}\n\\end{array}$$\n\nor, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur\nface of discontinuity, and $d s^{\\prime}$ an element of that surface,\n\n$$\\begin{align*}\n\\iint R \\cos \\epsilon d S= & \\iiint\\left(\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}\\right) \\cdot l x d y d \\\\\n& +\\iint\\left\\{l^{\\prime}\\left(X^{\\prime}-X\\right)+m^{\\prime}\\left(Y^{\\prime}-Y\\right)+n^{\\prime}\\left(Z^{\\prime}-Z\\right)\\right\\} d S^{\\prime} \\tag{8}\n\\end{align*}$$\n\nwhere the integration of the last term is to be extended over the\n surface of discontinuity.\n\n\nIf at every point where $X, Y, Z$ are continuous\n\n$$\\begin{equation*}\n\\frac{d X}{d x}+\\frac{d Y}{d y}+\\frac{d Z}{d z}=0 \\tag{9}\n\\end{equation*}$$\n\nand at every surface where they are discontinuous\n\n$$\\begin{equation*}\nl^{\\prime} X^{\\prime}+m^{\\prime} Y^{\\prime}+n^{\\prime} Z^{\\prime}=l^{\\prime} X+m^{\\prime} Y+n^{\\prime} Z, \\tag{10}\n\\end{equation*}$$\n\nthen the surface-integral over every closed surface is zero, and\n the distribution of the vector quantity is said to be Solenoidal.\n\n\nWe shall refer to equation (9) as the General solenoidal con\ndition, and to equation (10) as the Superficial solenoidal condition.\n\n22.] Let us now consider the case in which at every point\n within the surface $S$ the equation\n\n$$\\begin{equation*}\n\\frac{d X}{d x}+\\frac{c^{3} Y}{d y}+\\frac{d Z}{d z}=0 \\tag{11}\n\\end{equation*}$$\n",
+            "structured_lines": [
+              {
+                "page": 57,
+                "line_number": 4,
+                "type": "text",
+                "content": "the triple integration being extended over the whole space",
+                "mathpix_content": "\nthe triple integration being extended over the whole space",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 5,
+                "type": "text",
+                "content": "within $S$.",
+                "mathpix_content": " within $S$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 6,
+                "type": "text",
+                "content": "Let us next suppose that $X, Y, Z$ are not continuous within",
+                "mathpix_content": "\n\nLet us next suppose that $X, Y, Z$ are not continuous within",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 7,
+                "type": "text",
+                "content": "the closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the",
+                "mathpix_content": " the closed surface, but that at a certain surface $F^{\\prime}(x, y, z)=0$ the",
+                "font_size": 27,
+                "confidence": 0.5919959545135498
+              },
+              {
+                "page": 57,
+                "line_number": 8,
+                "type": "text",
+                "content": "values of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative",
+                "mathpix_content": " values of $X, Y, Z$ alter abruptly from $X, Y, Z$ on the negative",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 9,
+                "type": "text",
+                "content": "side of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.",
+                "mathpix_content": " side of the surface to $X^{\\prime}, Y^{\\prime}, Z^{\\prime}$ on the positive side.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 10,
+                "type": "text",
+                "content": "If this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value",
+                "mathpix_content": "\n\nIf this discontinuity occurs, say, between $x_{1}$ and $x_{2}$, the value",
+                "font_size": 27,
+                "confidence": 0.9951171875
+              },
+              {
+                "page": 57,
+                "line_number": 11,
+                "type": "text",
+                "content": "of $X_{2}-X_{1}$ will be",
+                "mathpix_content": " of $X_{2}-X_{1}$ will be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 15,
+                "type": "text",
+                "content": "where in the expression under the integral sign only the finite",
+                "mathpix_content": "\nwhere in the expression under the integral sign only the finite",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 16,
+                "type": "text",
+                "content": "values of the derivative of $X$ are to be considered.",
+                "mathpix_content": " values of the derivative of $X$ are to be considered.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 17,
+                "type": "text",
+                "content": "In this case therefore the total surface-integral of $R$ over the",
+                "mathpix_content": "\n\nIn this case therefore the total surface-integral of $R$ over the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 18,
+                "type": "text",
+                "content": "closed surface will be expressed by",
+                "mathpix_content": " closed surface will be expressed by",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 57,
+                "line_number": 23,
+                "type": "text",
+                "content": "or, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur-",
+                "mathpix_content": "\nor, if $l^{\\prime}, m^{\\prime}, n^{\\prime}$ are the direction-cosines of the normal to the sur",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 24,
+                "type": "text",
+                "content": "face of discontinuity, and $d s^{\\prime}$ an element of that surface,",
+                "mathpix_content": "face of discontinuity, and $d s^{\\prime}$ an element of that surface,",
+                "font_size": 27,
+                "confidence": 0.6150078412611037
+              },
+              {
+                "page": 57,
+                "line_number": 29,
+                "type": "text",
+                "content": "where the integration of the last term is to be extended over the",
+                "mathpix_content": "\nwhere the integration of the last term is to be extended over the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 30,
+                "type": "text",
+                "content": "surface of discontinuity.",
+                "mathpix_content": " surface of discontinuity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 31,
+                "type": "text",
+                "content": "If at every point where $X, Y, Z$ are continuous",
+                "mathpix_content": "\n\nIf at every point where $X, Y, Z$ are continuous",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 57,
+                "line_number": 35,
+                "type": "text",
+                "content": "and at every surface where they are discontinuous",
+                "mathpix_content": "\nand at every surface where they are discontinuous",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 39,
+                "type": "text",
+                "content": "then the surface-integral over every closed surface is zero, and",
+                "mathpix_content": "\nthen the surface-integral over every closed surface is zero, and",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 40,
+                "type": "text",
+                "content": "the distribution of the vector quantity is said to be Solenoidal.",
+                "mathpix_content": " the distribution of the vector quantity is said to be Solenoidal.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 41,
+                "type": "text",
+                "content": "We shall refer to equation (9) as the General solenoidal con-",
+                "mathpix_content": "\n\nWe shall refer to equation (9) as the General solenoidal con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 42,
+                "type": "text",
+                "content": "dition, and to equation (10) as the Superficial solenoidal condition.",
+                "mathpix_content": "dition, and to equation (10) as the Superficial solenoidal condition.",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 57,
+                "line_number": 43,
+                "type": "text",
+                "content": "22.] Let us now consider the case in which at every point",
+                "mathpix_content": "\n22.] Let us now consider the case in which at every point",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 57,
+                "line_number": 44,
+                "type": "text",
+                "content": "within the surface $S$ the equation",
+                "mathpix_content": " within the surface $S$ the equation",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

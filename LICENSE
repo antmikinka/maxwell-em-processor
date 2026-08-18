@@ -126,8 +126,10 @@ is in the public domain worldwide. This project claims no copyright in:
     of contents
   - The Maxwell 1873 scans published under input/
   - The published OCR edition under MAXWELL_VOLUME_1_MASTER_OUTPUT/
-    and MAXWELL_VOLUME_2_MASTER_OUTPUT/, including volume_*_ocr.md
-    and the chapter JSON
+    and MAXWELL_VOLUME_2_MASTER_OUTPUT/, including volume_*_ocr.md,
+    the chapter JSON, and RAW_OUTPUTS/
+  - Maxwell_TOC_Fixed/ (intermediate TOC-split JSON; Maxwell strings
+    only)
   - maxwell_article_index.json, when present
 
 You may use those materials without permission or attribution as a

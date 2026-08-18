@@ -1,0 +1,75 @@
+{
+  "article_id": "article_0",
+  "article_number": 0,
+  "title_original": ".1$. thus .........",
+  "title_safe": "1. thus",
+  "page_start": 548,
+  "page_end": 549,
+  "content": {
+    "raw_text": "\n--- Page 548 ---\nClerk Maude Ull's Electruct: VolJ.\n\nFIG II\nArt 119\n\nLines of Force and Equapotential Surfaces.\n$A-20 \\quad B-5 \\quad$ P.Point of Equitatorum. $\\quad A P-2 A B$\nQ. Spherical surface of Zero potential.\nM.Point of Maximum Force along the axis.\nThe dotted line is the Line of Force $\\Psi-0.1$. thus .........\nOraversity Press actord.\n\n--- Page 549 ---\n\n",
+    "mathpix_markdown": "\n--- Page 548 ---\n\n\n\\begin{figure}\n\\captionsetup{labelformat=empty}\n\\caption{FIG II Art 119}\n\\includegraphics[width=\\textwidth]{https://cdn.mathpix.com/cropped/2025_11_28_e96c2f916abc8f617e8eg-548.jpg?height=1250&width=946&top_left_y=291&top_left_x=215}\n\\end{figure}\n\n\nLines of Force and Equapotential Surfaces.\n\n\n$A-20 \\quad B-5 \\quad$ P.Point of Equitatorum. $\\quad A P-2 A B$\n\nQ. Spherical surface of Zero potential.\n\nM.Point of Maximum Force along the axis.\n\n\nThe dotted line is the Line of Force $\\Psi-0.1$. thus .........\n\nOraversity Press actord.\n\n--- Page 549 ---\n\n",
+    "structured_lines": [
+      {
+        "page": 548,
+        "line_number": 3,
+        "type": "text",
+        "content": "FIG II",
+        "mathpix_content": "",
+        "font_size": 21,
+        "confidence": 1.0
+      },
+      {
+        "page": 548,
+        "line_number": 4,
+        "type": "text",
+        "content": "Art 119",
+        "mathpix_content": "",
+        "font_size": 21,
+        "confidence": 0.9819889068603516
+      },
+      {
+        "page": 548,
+        "line_number": 8,
+        "type": "text",
+        "content": "Q. Spherical surface of Zero potential.",
+        "mathpix_content": "\nQ. Spherical surface of Zero potential.",
+        "font_size": 26,
+        "confidence": 0.866703031759393
+      },
+      {
+        "page": 548,
+        "line_number": 9,
+        "type": "text",
+        "content": "M.Point of Maximum Force along the axis.",
+        "mathpix_content": "\nM.Point of Maximum Force along the axis.",
+        "font_size": 26,
+        "confidence": 0.6664653802290559
+      },
+      {
+        "page": 548,
+        "line_number": 10,
+        "type": "text",
+        "content": "The dotted line is the Line of Force $\\Psi-0.1$. thus .........",
+        "mathpix_content": "\n\nThe dotted line is the Line of Force $\\Psi-0.1$. thus .........",
+        "font_size": 26,
+        "confidence": 0.0852275673415287
+      },
+      {
+        "page": 548,
+        "line_number": 11,
+        "type": "text",
+        "content": "Oraversity Press actord.",
+        "mathpix_content": "\nOraversity Press actord.",
+        "font_size": 26,
+        "confidence": 0.4171063758799892
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

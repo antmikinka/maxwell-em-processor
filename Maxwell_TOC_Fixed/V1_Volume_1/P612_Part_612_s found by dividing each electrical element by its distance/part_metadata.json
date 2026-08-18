@@ -1,0 +1,1006 @@
+{
+  "part_id": "part_612",
+  "part_number": 612,
+  "title": "s found by dividing each electrical element by its distance",
+  "page_start": 381,
+  "page_end": 381,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 346,
+      "title": "ELECTROSTATIC INSTRUMENTS.",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 226,
+      "title": "Hence, when",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 0,
+      "title": ", \\quad r_{0}=a+\\frac{\\sigma^{\\prime} c}{2 \\pi \\sigma}=a+\\frac{z_{0}}{\\pi}, \\text { nearly. }$$",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 0,
+      "title": "$ is therefore composed of a disk-",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 0,
+      "title": "}$, and nearly uniform thickness $z_{0}$, and of",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 704,
+      "title": ", to be",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 4,
+      "title": "\\pi a \\sigma^{\\prime} c\\left\\{\\log \\frac{8 a}{r_{0}-a}-2\\right\\}+\\pi \\sigma r_{0}^{2}$$",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 0,
+      "title": "}{ }^{2}$,",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 1,
+      "title": "+8 \\frac{z_{0}}{r_{0}} \\log \\frac{8 \\pi r_{0}}{z_{0}} \\text { to unity, }$$",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 0,
+      "title": "}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 0,
+      "title": "}$.",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 226,
+      "title": "] An Accumulator or Condenser is an apparatus consisting",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 0,
+      "title": ", \\quad r_{0}=a+\\frac{\\sigma^{\\prime} c}{2 \\pi \\sigma}=a+\\frac{z_{0}}{\\pi}, \\text { nearly. }$$",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 0,
+      "title": "$ is therefore composed of a disk",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 0,
+      "title": "}$, and nearly uniform thickness $z_{0}$, and of",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 704,
+      "title": ", to be",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 4,
+      "title": "\\pi a \\sigma^{\\prime} c\\left\\{\\log \\frac{8 a}{r_{0}-a}-2\\right\\}+\\pi \\sigma r_{0}^{2}$$",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 0,
+      "title": "}{ }^{2}$,",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 1,
+      "title": "+8 \\frac{z_{0}}{r_{0}} \\log \\frac{8 \\pi r_{0}}{z_{0}} \\text { to unity, }$$",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 0,
+      "title": "}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 0,
+      "title": "}$.",
+      "page_start": 381,
+      "page_end": 380,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 226,
+      "title": "] An Accumulator or Condenser is an apparatus consisting",
+      "page_start": 381,
+      "page_end": 381,
+      "articles": [
+        {
+          "article_id": "article_704",
+          "article_number": 704,
+          "title_original": ", to be",
+          "title_safe": "to be",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_704",
+          "article_number": 704,
+          "title_original": ", to be",
+          "title_safe": "to be",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_226",
+          "article_number": 226,
+          "title_original": "Hence, when",
+          "title_safe": "Hence when",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_226",
+          "article_number": 226,
+          "title_original": "] An Accumulator or Condenser is an apparatus consisting",
+          "title_safe": "An Accumulator or Condenser is an apparatus consisting",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_226",
+          "article_number": 226,
+          "title_original": "] An Accumulator or Condenser is an apparatus consisting",
+          "title_safe": "An Accumulator or Condenser is an apparatus consisting",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_346",
+          "article_number": 346,
+          "title_original": "ELECTROSTATIC INSTRUMENTS.",
+          "title_safe": "ELECTROSTATIC INSTRUMENTS",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_226",
+          "article_number": 226,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ", \\quad r_{0}=a+\\frac{\\sigma^{\\prime} c}{2 \\pi \\sigma}=a+\\frac{z_{0}}{\\pi}, \\text { nearly. }$$",
+          "title_safe": "quad r0equalsaplusfracsigmaprime c2 pi sigmaequalsaplusfracz",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ is therefore composed of a disk-",
+          "title_safe": "is therefore composed of a disk",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, and nearly uniform thickness $z_{0}$, and of",
+          "title_safe": "and nearly uniform thickness z0 and of",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_704",
+          "article_number": 704,
+          "title_original": ", to be",
+          "title_safe": "to be",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi a \\sigma^{\\prime} c\\left\\{\\log \\frac{8 a}{r_{0}-a}-2\\right\\}+\\pi \\sigma r_{0}^{2}$$",
+          "title_safe": "pi a sigmaprime cleftlog frac8 ar0-a-2rightpluspi sigma r02",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}{ }^{2}$,",
+          "title_safe": "2",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+8 \\frac{z_{0}}{r_{0}} \\log \\frac{8 \\pi r_{0}}{z_{0}} \\text { to unity, }$$",
+          "title_safe": "plus8 fracz0r0 log frac8 pi r0z0 text to unity",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being",
+          "title_safe": "is the thickness and r0 the radius of the disk z0 being",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$.",
+          "title_safe": "Article",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_226",
+          "article_number": 226,
+          "title_original": ".] An Accumulator or Condenser is an apparatus consisting",
+          "title_safe": "An Accumulator or Condenser is an apparatus consisting",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": ", \\quad r_{0}=a+\\frac{\\sigma^{\\prime} c}{2 \\pi \\sigma}=a+\\frac{z_{0}}{\\pi}, \\text { nearly. }$$",
+          "title_safe": "quad r0equalsaplusfracsigmaprime c2 pi sigmaequalsaplusfracz",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ is therefore composed of a disk",
+          "title_safe": "is therefore composed of a disk",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, and nearly uniform thickness $z_{0}$, and of",
+          "title_safe": "and nearly uniform thickness z0 and of",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_704",
+          "article_number": 704,
+          "title_original": ", to be",
+          "title_safe": "to be",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi a \\sigma^{\\prime} c\\left\\{\\log \\frac{8 a}{r_{0}-a}-2\\right\\}+\\pi \\sigma r_{0}^{2}$$",
+          "title_safe": "pi a sigmaprime cleftlog frac8 ar0-a-2rightpluspi sigma r02",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}{ }^{2}$,",
+          "title_safe": "2",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "+8 \\frac{z_{0}}{r_{0}} \\log \\frac{8 \\pi r_{0}}{z_{0}} \\text { to unity, }$$",
+          "title_safe": "plus8 fracz0r0 log frac8 pi r0z0 text to unity",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being",
+          "title_safe": "is the thickness and r0 the radius of the disk z0 being",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$.",
+          "title_safe": "Article",
+          "page_start": 381,
+          "page_end": 380,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_226",
+          "article_number": 226,
+          "title_original": ".] An Accumulator or Condenser is an apparatus consisting",
+          "title_safe": "An Accumulator or Condenser is an apparatus consisting",
+          "page_start": 381,
+          "page_end": 381,
+          "content": {
+            "raw_text": "\n--- Page 381 ---\n346\nELECTROSTATIC INSTRUMENTS.\n[226.\nHence, when\n$$\\frac{d V}{d z}=0, \\quad r_{0}=a+\\frac{\\sigma^{\\prime} c}{2 \\pi \\sigma}=a+\\frac{z_{0}}{\\pi}, \\text { nearly. }$$\nThe equipotential surface $V=0$ is therefore composed of a disk-\nlike figure of radius $r_{0}$, and nearly uniform thickness $z_{0}$, and of\nthe part of the infinite plane of $x y$ which lies beyond this figure.\nThe surface-integral over the whole disk gives the charge of\nelectricity on it. It may be found, as in the theory of a circular\ncurrent in Part IV, Art. 704, to be\n$$Q=4 \\pi a \\sigma^{\\prime} c\\left\\{\\log \\frac{8 a}{r_{0}-a}-2\\right\\}+\\pi \\sigma r_{0}^{2}$$\nThe charge on an equal area of the plane surface is $\\pi \\sigma r_{0}{ }^{2}$,\nhence the charge on the disk exceeds that on an equal area of\nthe plane very nearly in the ratio of\n$$1+8 \\frac{z_{0}}{r_{0}} \\log \\frac{8 \\pi r_{0}}{z_{0}} \\text { to unity, }$$\nwhere $z_{0}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being\nsupposed small compared with $r_{0}$.\n\nOn Electric Accumulators and the Measurement of Capacity.\n226.] An Accumulator or Condenser is an apparatus consisting\nof two conducting surfaces separated by an insulating dielectric\nmedium.\nA Leyden jar is an accumulator in which an inside coating of\ntinfoil is separated from the outside coating by the glass of which\nthe jar is made. The original Leyden phial was a glass vessel\ncontaining water which was separated by the glass from the\nhand which held it.\nThe outer surface of any insulated conductor may be con-\nsidered as one of the surfaces of an accumulator, the other being\nthe earth or the walls of the room in which it is placed, and the\nintervening air being the dielectric medium.\nThe capacity of an accumulator is measured by the quantity\nof electricity with which the inner surface must be charged to\nmake the difference between the potentials of the surfaces unity.\nSince every electrical potential is the sum of a number of\nparts found by dividing each electrical element by its distance\nfrom a point, the ratio of a quantity of electricity to a potential\n",
+            "mathpix_markdown": "\n--- Page 381 ---\n\n\nHence, when\n\n$$\\frac{d V}{d z}=0, \\quad r_{0}=a+\\frac{\\sigma^{\\prime} c}{2 \\pi \\sigma}=a+\\frac{z_{0}}{\\pi}, \\text { nearly. }$$\n\n\nThe equipotential surface $V=0$ is therefore composed of a disk\nlike figure of radius $r_{0}$, and nearly uniform thickness $z_{0}$, and of\n the part of the infinite plane of $x y$ which lies beyond this figure.\n\n\nThe surface-integral over the whole disk gives the charge of\n electricity on it. It may be found, as in the theory of a circular\n current in Part IV, Art. 704, to be\n\n$$Q=4 \\pi a \\sigma^{\\prime} c\\left\\{\\log \\frac{8 a}{r_{0}-a}-2\\right\\}+\\pi \\sigma r_{0}^{2}$$\n\n\nThe charge on an equal area of the plane surface is $\\pi \\sigma r_{0}{ }^{2}$,\n hence the charge on the disk exceeds that on an equal area of\n the plane very nearly in the ratio of\n\n$$1+8 \\frac{z_{0}}{r_{0}} \\log \\frac{8 \\pi r_{0}}{z_{0}} \\text { to unity, }$$\n\nwhere $z_{0}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being\n supposed small compared with $r_{0}$.\n\n\n\\section*{On Electric Accumulators and the Measurement of Capacity.}\n\n226.] An Accumulator or Condenser is an apparatus consisting\n of two conducting surfaces separated by an insulating dielectric\n medium.\n\n\nA Leyden jar is an accumulator in which an inside coating of\n tinfoil is separated from the outside coating by the glass of which\n the jar is made. The original Leyden phial was a glass vessel\n containing water which was separated by the glass from the\n hand which held it.\n\n\nThe outer surface of any insulated conductor may be con\nsidered as one of the surfaces of an accumulator, the other being\n the earth or the walls of the room in which it is placed, and the\n intervening air being the dielectric medium.\n\n\nThe capacity of an accumulator is measured by the quantity\n of electricity with which the inner surface must be charged to\n make the difference between the potentials of the surfaces unity.\n\n\nSince every electrical potential is the sum of a number of\n parts found by dividing each electrical element by its distance\n from a point, the ratio of a quantity of electricity to a potential\n",
+            "structured_lines": [
+              {
+                "page": 381,
+                "line_number": 4,
+                "type": "text",
+                "content": "Hence, when",
+                "mathpix_content": "\n\nHence, when",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 7,
+                "type": "text",
+                "content": "The equipotential surface $V=0$ is therefore composed of a disk-",
+                "mathpix_content": "\n\nThe equipotential surface $V=0$ is therefore composed of a disk",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 8,
+                "type": "text",
+                "content": "like figure of radius $r_{0}$, and nearly uniform thickness $z_{0}$, and of",
+                "mathpix_content": "like figure of radius $r_{0}$, and nearly uniform thickness $z_{0}$, and of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 9,
+                "type": "text",
+                "content": "the part of the infinite plane of $x y$ which lies beyond this figure.",
+                "mathpix_content": " the part of the infinite plane of $x y$ which lies beyond this figure.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 381,
+                "line_number": 10,
+                "type": "text",
+                "content": "The surface-integral over the whole disk gives the charge of",
+                "mathpix_content": "\n\nThe surface-integral over the whole disk gives the charge of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 11,
+                "type": "text",
+                "content": "electricity on it. It may be found, as in the theory of a circular",
+                "mathpix_content": " electricity on it. It may be found, as in the theory of a circular",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 12,
+                "type": "text",
+                "content": "current in Part IV, Art. 704, to be",
+                "mathpix_content": " current in Part IV, Art. 704, to be",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 15,
+                "type": "text",
+                "content": "The charge on an equal area of the plane surface is $\\pi \\sigma r_{0}{ }^{2}$,",
+                "mathpix_content": "\n\nThe charge on an equal area of the plane surface is $\\pi \\sigma r_{0}{ }^{2}$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 16,
+                "type": "text",
+                "content": "hence the charge on the disk exceeds that on an equal area of",
+                "mathpix_content": " hence the charge on the disk exceeds that on an equal area of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 17,
+                "type": "text",
+                "content": "the plane very nearly in the ratio of",
+                "mathpix_content": " the plane very nearly in the ratio of",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 20,
+                "type": "text",
+                "content": "where $z_{0}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being",
+                "mathpix_content": "\nwhere $z_{0}$ is the thickness and $r_{0}$ the radius of the disk, $z_{0}$ being",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 21,
+                "type": "text",
+                "content": "supposed small compared with $r_{0}$.",
+                "mathpix_content": " supposed small compared with $r_{0}$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 23,
+                "type": "text",
+                "content": "On Electric Accumulators and the Measurement of Capacity.",
+                "mathpix_content": "\n\n\\section*{On Electric Accumulators and the Measurement of Capacity.}",
+                "font_size": 34,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 24,
+                "type": "text",
+                "content": "226.] An Accumulator or Condenser is an apparatus consisting",
+                "mathpix_content": "\n226.] An Accumulator or Condenser is an apparatus consisting",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 25,
+                "type": "text",
+                "content": "of two conducting surfaces separated by an insulating dielectric",
+                "mathpix_content": " of two conducting surfaces separated by an insulating dielectric",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 26,
+                "type": "text",
+                "content": "medium.",
+                "mathpix_content": " medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 27,
+                "type": "text",
+                "content": "A Leyden jar is an accumulator in which an inside coating of",
+                "mathpix_content": "\n\nA Leyden jar is an accumulator in which an inside coating of",
+                "font_size": 27,
+                "confidence": 0.9951171875
+              },
+              {
+                "page": 381,
+                "line_number": 28,
+                "type": "text",
+                "content": "tinfoil is separated from the outside coating by the glass of which",
+                "mathpix_content": " tinfoil is separated from the outside coating by the glass of which",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 29,
+                "type": "text",
+                "content": "the jar is made. The original Leyden phial was a glass vessel",
+                "mathpix_content": " the jar is made. The original Leyden phial was a glass vessel",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 30,
+                "type": "text",
+                "content": "containing water which was separated by the glass from the",
+                "mathpix_content": " containing water which was separated by the glass from the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 31,
+                "type": "text",
+                "content": "hand which held it.",
+                "mathpix_content": " hand which held it.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 32,
+                "type": "text",
+                "content": "The outer surface of any insulated conductor may be con-",
+                "mathpix_content": "\n\nThe outer surface of any insulated conductor may be con",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 33,
+                "type": "text",
+                "content": "sidered as one of the surfaces of an accumulator, the other being",
+                "mathpix_content": "sidered as one of the surfaces of an accumulator, the other being",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 34,
+                "type": "text",
+                "content": "the earth or the walls of the room in which it is placed, and the",
+                "mathpix_content": " the earth or the walls of the room in which it is placed, and the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 35,
+                "type": "text",
+                "content": "intervening air being the dielectric medium.",
+                "mathpix_content": " intervening air being the dielectric medium.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 36,
+                "type": "text",
+                "content": "The capacity of an accumulator is measured by the quantity",
+                "mathpix_content": "\n\nThe capacity of an accumulator is measured by the quantity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 37,
+                "type": "text",
+                "content": "of electricity with which the inner surface must be charged to",
+                "mathpix_content": " of electricity with which the inner surface must be charged to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 38,
+                "type": "text",
+                "content": "make the difference between the potentials of the surfaces unity.",
+                "mathpix_content": " make the difference between the potentials of the surfaces unity.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 39,
+                "type": "text",
+                "content": "Since every electrical potential is the sum of a number of",
+                "mathpix_content": "\n\nSince every electrical potential is the sum of a number of",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 381,
+                "line_number": 40,
+                "type": "text",
+                "content": "parts found by dividing each electrical element by its distance",
+                "mathpix_content": " parts found by dividing each electrical element by its distance",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 381,
+                "line_number": 41,
+                "type": "text",
+                "content": "from a point, the ratio of a quantity of electricity to a potential",
+                "mathpix_content": " from a point, the ratio of a quantity of electricity to a potential",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

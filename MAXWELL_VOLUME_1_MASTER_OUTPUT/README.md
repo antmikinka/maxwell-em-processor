@@ -19,10 +19,11 @@ the OCR, chapter JSON, or other mechanical extracts. See
 | `VOLUME_1_PRELIM_TOC.JSON` | Preliminary TOC |
 | `VOLUME_1_PLATES_DIAGRAMS.JSON` | Plates / diagrams index |
 | `VOLUME_1_ALL_PAGES_PRELIMINARY_TO_CHAPTER XII.JSON` | Early-pages extract |
+| `RAW_OUTPUTS/` | Raw Mathpix exports (md, html, zip, docx, tex, …) |
 
 Figures in `volume_1_ocr.md` may point at Mathpix CDN URLs from the
 original OCR run. The source scan is
 `input/15773-A Treatise On Electricity And Magnetism Vol-i.pdf`.
 
-Raw Mathpix dumps (`RAW_OUTPUTS/`), processing logs, and the large
-direct API JSON are kept local and are not published.
+Processing logs stay local. Maxwell's text is public domain; no
+copyright is claimed in these extracts.

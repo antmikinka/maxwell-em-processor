@@ -1,0 +1,753 @@
+{
+  "part_id": "part_500",
+  "part_number": 500,
+  "title": "of a spherical",
+  "page_start": 314,
+  "page_end": 314,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 181,
+      "title": "]",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 279,
+      "title": "We have now the case of the bowl maintained at potential $V$",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 180,
+      "title": "] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 2,
+      "title": "\\pi^{2} f}\\left\\{\\wedge \\sqrt{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}-\\tan ^{-1} \\wedge / \\overline{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}\\right\\}$$",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 2,
+      "title": "\\pi f} .$$",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 181,
+      "title": "] Let it be required to find the surface-density induced at",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 3,
+      "title": "}}{Q P^{3}}$$",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 180,
+      "title": "] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 2,
+      "title": "\\pi^{2} f}\\left\\{\\wedge \\sqrt{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}-\\tan ^{-1} \\wedge / \\overline{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}\\right\\}$$",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 2,
+      "title": "\\pi f} .$$",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 181,
+      "title": "] Let it be required to find the surface-density induced at",
+      "page_start": 314,
+      "page_end": 313,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 3,
+      "title": "}}{Q P^{3}}$$",
+      "page_start": 314,
+      "page_end": 314,
+      "articles": [
+        {
+          "article_id": "article_181",
+          "article_number": 181,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_180",
+          "article_number": 180,
+          "title_original": "] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+          "title_safe": "We have now only to suppose rhoplusrhoprimeequals0 and we ge",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_181",
+          "article_number": 181,
+          "title_original": "] Let it be required to find the surface-density induced at",
+          "title_safe": "Let it be required to find the surface-density induced at",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_180",
+          "article_number": 180,
+          "title_original": "] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+          "title_safe": "We have now only to suppose rhoplusrhoprimeequals0 and we ge",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_181",
+          "article_number": 181,
+          "title_original": "] Let it be required to find the surface-density induced at",
+          "title_safe": "Let it be required to find the surface-density induced at",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_181",
+          "article_number": 181,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_279",
+          "article_number": 279,
+          "title_original": "We have now the case of the bowl maintained at potential $V$",
+          "title_safe": "We have now the case of the bowl maintained at potential V",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_180",
+          "article_number": 180,
+          "title_original": ".] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+          "title_safe": "We have now only to suppose rhoplusrhoprimeequals0 and we",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi^{2} f}\\left\\{\\wedge \\sqrt{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}-\\tan ^{-1} \\wedge / \\overline{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}\\right\\}$$",
+          "title_safe": "pi2 fleftwedge sqrtfracf2-a2a2-r2-tan -1 wedge SLASH overlin",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi f} .$$",
+          "title_safe": "pi f",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_181",
+          "article_number": 181,
+          "title_original": ".] Let it be required to find the surface-density induced at",
+          "title_safe": "Let it be required to find the surface-density induced at",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}}{Q P^{3}}$$",
+          "title_safe": "Q P3",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_180",
+          "article_number": 180,
+          "title_original": ".] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+          "title_safe": "We have now only to suppose rhoplusrhoprimeequals0 and we",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi^{2} f}\\left\\{\\wedge \\sqrt{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}-\\tan ^{-1} \\wedge / \\overline{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}\\right\\}$$",
+          "title_safe": "pi2 fleftwedge sqrtfracf2-a2a2-r2-tan -1 wedge SLASH overlin",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi f} .$$",
+          "title_safe": "pi f",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_181",
+          "article_number": 181,
+          "title_original": ".] Let it be required to find the surface-density induced at",
+          "title_safe": "Let it be required to find the surface-density induced at",
+          "page_start": 314,
+          "page_end": 313,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}}{Q P^{3}}$$",
+          "title_safe": "Q P3",
+          "page_start": 314,
+          "page_end": 314,
+          "content": {
+            "raw_text": "\n--- Page 314 ---\n181.]\nSPHERICAL BOWL.\n279\nWe have now the case of the bowl maintained at potential $V$\nand influenced by the remainder of the sphere rigidly electrified\nwith superficial density $\\rho+\\rho^{\\prime}$.\n180.] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the\ncase of the bowl maintained at potential $V$ and free from external\ninfluence.\nIf $\\sigma$ is the density on either surface of the bowl at a given point\nwhen the bowl is at potential zero, and is influenced by the rest\nof the sphere electrified to density $\\rho$, then, when the bowl is main-\ntained at potential $V$, we must increase the density on the outside\nof the bowl by $\\rho^{\\prime}$, the density on the supposed enveloping sphere.\nThe result of this investigation is that if $f$ is the diameter of\nthe sphere, $a$ the chord of the radius of the bowl, and $r$ the chord\nof the distance of $P$ from the pole of the bowl, then the surface-\ndensity $\\sigma$ on the inside of the bowl is\n$$\\sigma=\\frac{V}{2 \\pi^{2} f}\\left\\{\\wedge \\sqrt{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}-\\tan ^{-1} \\wedge / \\overline{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}\\right\\}$$\nand the surface-density on the outside of the bowl at the same\npoint is\n$$\\sigma+\\frac{V}{2 \\pi f} .$$\nIn the calculation of this result no operation is employed\nmore abstruse than ordinary integration over part of a spherical\nsurface. To complete the theory of the electrification of a spherical\nbowl we only require the geometry of the inversion of spherical\nsurfaces.\n181.] Let it be required to find the surface-density induced at\nany point of the uninsulated bowl by a quantity $q$ of electricity\nplaced at a point $Q$, not now in the spherical surface produced.\nInvert the bowl with respect to $Q$, the radius of the sphere of\ninversion being $R$. The bowl $S$ will be inverted into its image $S^{\\prime}$,\nand the point $P$ will have $P^{\\prime}$ for its image. We have now to\ndetermine the density $\\sigma^{\\prime}$ at $P^{\\prime}$ when the bowl $S^{\\prime}$ is maintained at\npotential $V^{\\prime}$, such that $q=V^{\\prime} R$, and is not influenced by any\nexternal force.\nThe density $\\sigma$ at the point $P$ of the original bowl is\n$$\\sigma=-\\frac{\\sigma^{\\prime} R^{3}}{Q P^{3}}$$\nthis bowl being at potential zero, and influenced by a quantity $q$\nof electricity placed at $Q$.\n",
+            "mathpix_markdown": "\n--- Page 314 ---\n\n\nWe have now the case of the bowl maintained at potential $V$\n and influenced by the remainder of the sphere rigidly electrified\n with superficial density $\\rho+\\rho^{\\prime}$.\n\n180.] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the\n case of the bowl maintained at potential $V$ and free from external\n influence.\n\n\nIf $\\sigma$ is the density on either surface of the bowl at a given point\n when the bowl is at potential zero, and is influenced by the rest\n of the sphere electrified to density $\\rho$, then, when the bowl is main\ntained at potential $V$, we must increase the density on the outside\n of the bowl by $\\rho^{\\prime}$, the density on the supposed enveloping sphere.\n\n\nThe result of this investigation is that if $f$ is the diameter of\n the sphere, $a$ the chord of the radius of the bowl, and $r$ the chord\n of the distance of $P$ from the pole of the bowl, then the surface\ndensity $\\sigma$ on the inside of the bowl is\n\n$$\\sigma=\\frac{V}{2 \\pi^{2} f}\\left\\{\\wedge \\sqrt{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}-\\tan ^{-1} \\wedge / \\overline{\\frac{f^{2}-a^{2}}{a^{2}-r^{2}}}\\right\\}$$\n\nand the surface-density on the outside of the bowl at the same\n point is\n\n$$\\sigma+\\frac{V}{2 \\pi f} .$$\n\n\nIn the calculation of this result no operation is employed\n more abstruse than ordinary integration over part of a spherical\n surface. To complete the theory of the electrification of a spherical\n bowl we only require the geometry of the inversion of spherical\n surfaces.\n\n181.] Let it be required to find the surface-density induced at\n any point of the uninsulated bowl by a quantity $q$ of electricity\n placed at a point $Q$, not now in the spherical surface produced.\n\n\nInvert the bowl with respect to $Q$, the radius of the sphere of\n inversion being $R$. The bowl $S$ will be inverted into its image $S^{\\prime}$,\n and the point $P$ will have $P^{\\prime}$ for its image. We have now to\n determine the density $\\sigma^{\\prime}$ at $P^{\\prime}$ when the bowl $S^{\\prime}$ is maintained at\n potential $V^{\\prime}$, such that $q=V^{\\prime} R$, and is not influenced by any\n external force.\n\n\nThe density $\\sigma$ at the point $P$ of the original bowl is\n\n$$\\sigma=-\\frac{\\sigma^{\\prime} R^{3}}{Q P^{3}}$$\n\nthis bowl being at potential zero, and influenced by a quantity $q$\n of electricity placed at $Q$.\n",
+            "structured_lines": [
+              {
+                "page": 314,
+                "line_number": 4,
+                "type": "text",
+                "content": "We have now the case of the bowl maintained at potential $V$",
+                "mathpix_content": "\n\nWe have now the case of the bowl maintained at potential $V$",
+                "font_size": 27,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 314,
+                "line_number": 5,
+                "type": "text",
+                "content": "and influenced by the remainder of the sphere rigidly electrified",
+                "mathpix_content": " and influenced by the remainder of the sphere rigidly electrified",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 6,
+                "type": "text",
+                "content": "with superficial density $\\rho+\\rho^{\\prime}$.",
+                "mathpix_content": " with superficial density $\\rho+\\rho^{\\prime}$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 7,
+                "type": "text",
+                "content": "180.] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+                "mathpix_content": "\n180.] We have now only to suppose $\\rho+\\rho^{\\prime}=0$, and we get the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 8,
+                "type": "text",
+                "content": "case of the bowl maintained at potential $V$ and free from external",
+                "mathpix_content": " case of the bowl maintained at potential $V$ and free from external",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 9,
+                "type": "text",
+                "content": "influence.",
+                "mathpix_content": " influence.",
+                "font_size": 27,
+                "confidence": 0.998046875
+              },
+              {
+                "page": 314,
+                "line_number": 10,
+                "type": "text",
+                "content": "If $\\sigma$ is the density on either surface of the bowl at a given point",
+                "mathpix_content": "\n\nIf $\\sigma$ is the density on either surface of the bowl at a given point",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 11,
+                "type": "text",
+                "content": "when the bowl is at potential zero, and is influenced by the rest",
+                "mathpix_content": " when the bowl is at potential zero, and is influenced by the rest",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 12,
+                "type": "text",
+                "content": "of the sphere electrified to density $\\rho$, then, when the bowl is main-",
+                "mathpix_content": " of the sphere electrified to density $\\rho$, then, when the bowl is main",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 13,
+                "type": "text",
+                "content": "tained at potential $V$, we must increase the density on the outside",
+                "mathpix_content": "tained at potential $V$, we must increase the density on the outside",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 14,
+                "type": "text",
+                "content": "of the bowl by $\\rho^{\\prime}$, the density on the supposed enveloping sphere.",
+                "mathpix_content": " of the bowl by $\\rho^{\\prime}$, the density on the supposed enveloping sphere.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 15,
+                "type": "text",
+                "content": "The result of this investigation is that if $f$ is the diameter of",
+                "mathpix_content": "\n\nThe result of this investigation is that if $f$ is the diameter of",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 314,
+                "line_number": 16,
+                "type": "text",
+                "content": "the sphere, $a$ the chord of the radius of the bowl, and $r$ the chord",
+                "mathpix_content": " the sphere, $a$ the chord of the radius of the bowl, and $r$ the chord",
+                "font_size": 27,
+                "confidence": 0.9990234375
+              },
+              {
+                "page": 314,
+                "line_number": 17,
+                "type": "text",
+                "content": "of the distance of $P$ from the pole of the bowl, then the surface-",
+                "mathpix_content": " of the distance of $P$ from the pole of the bowl, then the surface",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 18,
+                "type": "text",
+                "content": "density $\\sigma$ on the inside of the bowl is",
+                "mathpix_content": "density $\\sigma$ on the inside of the bowl is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 21,
+                "type": "text",
+                "content": "and the surface-density on the outside of the bowl at the same",
+                "mathpix_content": "\nand the surface-density on the outside of the bowl at the same",
+                "font_size": 27,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 314,
+                "line_number": 22,
+                "type": "text",
+                "content": "point is",
+                "mathpix_content": " point is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 25,
+                "type": "text",
+                "content": "In the calculation of this result no operation is employed",
+                "mathpix_content": "\n\nIn the calculation of this result no operation is employed",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 26,
+                "type": "text",
+                "content": "more abstruse than ordinary integration over part of a spherical",
+                "mathpix_content": " more abstruse than ordinary integration over part of a spherical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 27,
+                "type": "text",
+                "content": "surface. To complete the theory of the electrification of a spherical",
+                "mathpix_content": " surface. To complete the theory of the electrification of a spherical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 28,
+                "type": "text",
+                "content": "bowl we only require the geometry of the inversion of spherical",
+                "mathpix_content": " bowl we only require the geometry of the inversion of spherical",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 29,
+                "type": "text",
+                "content": "surfaces.",
+                "mathpix_content": " surfaces.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 30,
+                "type": "text",
+                "content": "181.] Let it be required to find the surface-density induced at",
+                "mathpix_content": "\n181.] Let it be required to find the surface-density induced at",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 31,
+                "type": "text",
+                "content": "any point of the uninsulated bowl by a quantity $q$ of electricity",
+                "mathpix_content": " any point of the uninsulated bowl by a quantity $q$ of electricity",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 32,
+                "type": "text",
+                "content": "placed at a point $Q$, not now in the spherical surface produced.",
+                "mathpix_content": " placed at a point $Q$, not now in the spherical surface produced.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 33,
+                "type": "text",
+                "content": "Invert the bowl with respect to $Q$, the radius of the sphere of",
+                "mathpix_content": "\n\nInvert the bowl with respect to $Q$, the radius of the sphere of",
+                "font_size": 27,
+                "confidence": 0.99853515625
+              },
+              {
+                "page": 314,
+                "line_number": 34,
+                "type": "text",
+                "content": "inversion being $R$. The bowl $S$ will be inverted into its image $S^{\\prime}$,",
+                "mathpix_content": " inversion being $R$. The bowl $S$ will be inverted into its image $S^{\\prime}$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 35,
+                "type": "text",
+                "content": "and the point $P$ will have $P^{\\prime}$ for its image. We have now to",
+                "mathpix_content": " and the point $P$ will have $P^{\\prime}$ for its image. We have now to",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 36,
+                "type": "text",
+                "content": "determine the density $\\sigma^{\\prime}$ at $P^{\\prime}$ when the bowl $S^{\\prime}$ is maintained at",
+                "mathpix_content": " determine the density $\\sigma^{\\prime}$ at $P^{\\prime}$ when the bowl $S^{\\prime}$ is maintained at",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 37,
+                "type": "text",
+                "content": "potential $V^{\\prime}$, such that $q=V^{\\prime} R$, and is not influenced by any",
+                "mathpix_content": " potential $V^{\\prime}$, such that $q=V^{\\prime} R$, and is not influenced by any",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 38,
+                "type": "text",
+                "content": "external force.",
+                "mathpix_content": " external force.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 314,
+                "line_number": 39,
+                "type": "text",
+                "content": "The density $\\sigma$ at the point $P$ of the original bowl is",
+                "mathpix_content": "\n\nThe density $\\sigma$ at the point $P$ of the original bowl is",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 314,
+                "line_number": 42,
+                "type": "text",
+                "content": "this bowl being at potential zero, and influenced by a quantity $q$",
+                "mathpix_content": "\nthis bowl being at potential zero, and influenced by a quantity $q$",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 314,
+                "line_number": 43,
+                "type": "text",
+                "content": "of electricity placed at $Q$.",
+                "mathpix_content": " of electricity placed at $Q$.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

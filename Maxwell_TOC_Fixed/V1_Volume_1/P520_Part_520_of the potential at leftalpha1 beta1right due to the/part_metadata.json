@@ -1,0 +1,2342 @@
+{
+  "part_id": "part_520",
+  "part_number": 520,
+  "title": "of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+  "page_start": 329,
+  "page_end": 330,
+  "chapters": [
+    {
+      "chapter_id": "chapter_1",
+      "chapter_number": 294,
+      "title": "CONJUGATE FUNCTIONS.",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_2",
+      "chapter_number": 191,
+      "title": "This be omes, by (4) of Art. 183,",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_3",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} d \\phi d \\beta, \\quad\\left(\\alpha=a_{0}\\right) \\\\",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_4",
+      "chapter_number": 2,
+      "title": "\\pi} \\frac{1-e^{2\\left(a_{1}-a_{0}\\right)}}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{2\\left(\\alpha_{1}-\\alpha_{0}\\right)}} d \\beta",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_5",
+      "chapter_number": 15,
+      "title": ")",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_6",
+      "chapter_number": 1,
+      "title": "}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_7",
+      "chapter_number": 86,
+      "title": ", the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_8",
+      "chapter_number": 1,
+      "title": "}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_9",
+      "chapter_number": 1,
+      "title": "}, \\beta_{1}$ ) within the closed curve, there being no",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_10",
+      "chapter_number": 1,
+      "title": "}{2 \\pi} \\int_{0}^{2 \\pi} \\frac{\\left(1-e^{\\ddots\\left(o_{1}-a_{0}\\right)}\\right) V d \\beta}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{-\\left(\\alpha_{1}-\\alpha_{0}\\right)}} .$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_11",
+      "chapter_number": 16,
+      "title": ")",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_12",
+      "chapter_number": 191,
+      "title": "] In the case of an infinite plane face $y=0$ of a con-",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_13",
+      "chapter_number": 0,
+      "title": "}$, we find for",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_14",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} y$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_15",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} \\alpha e^{\\rho} \\sin \\theta,$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_16",
+      "chapter_number": 0,
+      "title": "} \\mu e^{\\rho} .$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_17",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} a e^{n \\rho^{\\prime}} \\sin n \\theta^{\\prime}$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_18",
+      "chapter_number": 0,
+      "title": "} a e^{n \\rho^{\\prime}}$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_19",
+      "chapter_number": 4,
+      "title": ") of Art. 183,",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_20",
+      "chapter_number": 1,
+      "title": "}{4 \\pi} d \\phi d \\beta, \\quad\\left(\\alpha=a_{0}\\right) \\\\",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_21",
+      "chapter_number": 2,
+      "title": "\\pi} \\frac{1-e^{2\\left(a_{1}-a_{0}\\right)}}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{2\\left(\\alpha_{1}-\\alpha_{0}\\right)}} d \\beta \\tag{15}",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_22",
+      "chapter_number": 1,
+      "title": "}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_23",
+      "chapter_number": 86,
+      "title": ", the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_24",
+      "chapter_number": 1,
+      "title": "}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_25",
+      "chapter_number": 1,
+      "title": "}, \\beta_{1}$ ) within the closed curve, there being no",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_26",
+      "chapter_number": 1,
+      "title": "}{2 \\pi} \\int_{0}^{2 \\pi} \\frac{\\left(1-e^{\\ddots\\left(o_{1}-a_{0}\\right)}\\right) V d \\beta}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{-\\left(\\alpha_{1}-\\alpha_{0}\\right)}} . \\tag{16}",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_27",
+      "chapter_number": 191,
+      "title": "] In the case of an infinite plane face $y=0$ of a con",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_28",
+      "chapter_number": 0,
+      "title": "}$, we find for",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_29",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} y$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_30",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} \\alpha e^{\\rho} \\sin \\theta,$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_31",
+      "chapter_number": 0,
+      "title": "} \\mu e^{\\rho} .$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_32",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} a e^{n \\rho^{\\prime}} \\sin n \\theta^{\\prime}$$",
+      "page_start": 329,
+      "page_end": 328,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_33",
+      "chapter_number": 0,
+      "title": "} a e^{n \\rho^{\\prime}}$$",
+      "page_start": 329,
+      "page_end": 329,
+      "articles": [
+        {
+          "article_id": "article_183",
+          "article_number": 183,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": ", the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+          "title_safe": "the part of the potential at leftalpha1 beta1right due to th",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_183",
+          "article_number": 183,
+          "title_original": ",",
+          "title_safe": "Article",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": ", the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+          "title_safe": "the part of the potential at leftalpha1 beta1right due to th",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": "This be omes, by (4) of Art. 183,",
+          "title_safe": "This be omes by 4 of Art. 183",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": "] In the case of an infinite plane face $y=0$ of a con-",
+          "title_safe": "In the case of an infinite plane face yequals0 of a con",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": "] In the case of an infinite plane face $y=0$ of a con",
+          "title_safe": "In the case of an infinite plane face yequals0 of a con",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_294",
+          "article_number": 294,
+          "title_original": "CONJUGATE FUNCTIONS.",
+          "title_safe": "CONJUGATE FUNCTIONS",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": ".",
+          "title_safe": "Article",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ") of Art. 183,",
+          "title_safe": "of Art. 183",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} d \\phi d \\beta, \\quad\\left(\\alpha=a_{0}\\right) \\\\",
+          "title_safe": "4 pi d phi d beta quadleftalphaequalsa0right",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi} \\frac{1-e^{2\\left(a_{1}-a_{0}\\right)}}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{2\\left(\\alpha_{1}-\\alpha_{0}\\right)}} d \\beta",
+          "title_safe": "pi frac1-e2lefta1-a0right1-2 eleftalpha1-alpha0right cos lef",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_15",
+          "article_number": 15,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential",
+          "title_safe": "beta1right within the closed curve when the value of the pot",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": ", the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+          "title_safe": "the part of the potential at leftalpha1 beta1right due to th",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on",
+          "title_safe": "beta1 . Hence if V is the potential at a point on",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\beta_{1}$ ) within the closed curve, there being no",
+          "title_safe": "beta1 within the closed curve there being no",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2 \\pi} \\int_{0}^{2 \\pi} \\frac{\\left(1-e^{\\ddots\\left(o_{1}-a_{0}\\right)}\\right) V d \\beta}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{-\\left(\\alpha_{1}-\\alpha_{0}\\right)}} .$$",
+          "title_safe": "2 pi int02 pi fracleft1-eddotslefto1-a0rightright V d beta1",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_16",
+          "article_number": 16,
+          "title_original": ")",
+          "title_safe": "Article",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": ".] In the case of an infinite plane face $y=0$ of a con-",
+          "title_safe": "In the case of an infinite plane face yequals0 of a con",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, we find for",
+          "title_safe": "we find for",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} y$$",
+          "title_safe": "pi sigma0 y",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} \\alpha e^{\\rho} \\sin \\theta,$$",
+          "title_safe": "pi sigma0 alpha erho sin theta",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\mu e^{\\rho} .$$",
+          "title_safe": "mu erho",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} a e^{n \\rho^{\\prime}} \\sin n \\theta^{\\prime}$$",
+          "title_safe": "pi sigma0 a en rhoprime sin n thetaprime",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} a e^{n \\rho^{\\prime}}$$",
+          "title_safe": "a en rhoprime",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": ") of Art. 183,",
+          "title_safe": "of Art. 183",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{4 \\pi} d \\phi d \\beta, \\quad\\left(\\alpha=a_{0}\\right) \\\\",
+          "title_safe": "4 pi d phi d beta quadleftalphaequalsa0right",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi} \\frac{1-e^{2\\left(a_{1}-a_{0}\\right)}}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{2\\left(\\alpha_{1}-\\alpha_{0}\\right)}} d \\beta \\tag{15}",
+          "title_safe": "pi frac1-e2lefta1-a0right1-2 eleftalpha1-alpha0right cos lef",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential",
+          "title_safe": "beta1right within the closed curve when the value of the pot",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_86",
+          "article_number": 86,
+          "title_original": ", the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+          "title_safe": "the part of the potential at leftalpha1 beta1right due to th",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on",
+          "title_safe": "beta1 . Hence if V is the potential at a point on",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}, \\beta_{1}$ ) within the closed curve, there being no",
+          "title_safe": "beta1 within the closed curve there being no",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_1",
+          "article_number": 1,
+          "title_original": "}{2 \\pi} \\int_{0}^{2 \\pi} \\frac{\\left(1-e^{\\ddots\\left(o_{1}-a_{0}\\right)}\\right) V d \\beta}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{-\\left(\\alpha_{1}-\\alpha_{0}\\right)}} . \\tag{16}",
+          "title_safe": "2 pi int02 pi fracleft1-eddotslefto1-a0rightright V d beta1",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": ".] In the case of an infinite plane face $y=0$ of a con",
+          "title_safe": "In the case of an infinite plane face yequals0 of a con",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "}$, we find for",
+          "title_safe": "we find for",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} y$$",
+          "title_safe": "pi sigma0 y",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} \\alpha e^{\\rho} \\sin \\theta,$$",
+          "title_safe": "pi sigma0 alpha erho sin theta",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\mu e^{\\rho} .$$",
+          "title_safe": "mu erho",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} a e^{n \\rho^{\\prime}} \\sin n \\theta^{\\prime}$$",
+          "title_safe": "pi sigma0 a en rhoprime sin n thetaprime",
+          "page_start": 329,
+          "page_end": 328,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} a e^{n \\rho^{\\prime}}$$",
+          "title_safe": "a en rhoprime",
+          "page_start": 329,
+          "page_end": 329,
+          "content": {
+            "raw_text": "\n--- Page 329 ---\n294\nCONJUGATE FUNCTIONS.\n[191.\nThis be omes, by (4) of Art. 183,\n$$\\begin{gathered}\n\\frac{1}{4 \\pi} d \\phi d \\beta, \\quad\\left(\\alpha=a_{0}\\right) \\\\\n\\text { i.e. } \\quad-\\frac{E}{2 \\pi} \\frac{1-e^{2\\left(a_{1}-a_{0}\\right)}}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{2\\left(\\alpha_{1}-\\alpha_{0}\\right)}} d \\beta\n\\end{gathered}$$\n(15)\nFrom this expression we may find the potential at any point\n$\\left(a_{1}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential\nat every point of the closed curve is given as a function of $\\beta$,\nand there is no electrification within the closed curve.\nFor, by Art. 86, the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the\nmaintenance of the portion $\\alpha \\beta$ of the closed curve at the potential\n$V$ is $n V$, where $n$ is the charge induced on $d \\beta$ by unit of electri-\nfication at ( $\\alpha_{1}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on\nthe closed curve defined as a function of $\\beta$, and $\\phi$ the potential\nat the point ( $\\alpha_{1}, \\beta_{1}$ ) within the closed curve, there being no\nelectrification within the curve,\n$$\\phi=\\frac{1}{2 \\pi} \\int_{0}^{2 \\pi} \\frac{\\left(1-e^{\\ddots\\left(o_{1}-a_{0}\\right)}\\right) V d \\beta}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{-\\left(\\alpha_{1}-\\alpha_{0}\\right)}} .$$\n(16)\n\nExample IV.-Distribution of Electricity neur an Edge of a\nConductor formed by Two Plane Faces.\n191.] In the case of an infinite plane face $y=0$ of a con-\nductor, extending to infinity in the negative direction of $y$,\ncharged with electricity to the surface-density $\\sigma_{0}$, we find for\nthe potential at a distance $y$ from the plane\n$$V=C-4 \\pi \\sigma_{0} y$$\nwhere $C^{\\prime}$ is the value of the potential of the conductor itself.\nAssume a straight line in the plane as a polar axis, and trans-\nform into polar coordinates, and we find for the potential\n$$V=C-4 \\pi \\sigma_{0} \\alpha e^{\\rho} \\sin \\theta,$$\nand for the quantity of electricity on a parallelogram of breadth\nunity, and length $u e^{\\rho}$ measured along the axis\n$$E=\\sigma_{0} \\mu e^{\\rho} .$$\nNow let us make $\\rho=n \\rho^{\\prime}$ and $\\theta=n \\theta^{\\prime}$, then, since $\\rho^{\\prime}$ and $\\theta^{\\prime}$\nare conjugate to $\\rho$ and $\\theta$, the equations\n$$V=C-4 \\pi \\sigma_{0} a e^{n \\rho^{\\prime}} \\sin n \\theta^{\\prime}$$\nand\n$$E=\\sigma_{0} a e^{n \\rho^{\\prime}}$$\nexpress a possible distribution of potential and of electricity.\n",
+            "mathpix_markdown": "\n--- Page 329 ---\n\n\nThis be omes, by (4) of Art. 183,\n\n$$\\begin{gather*}\n\\frac{1}{4 \\pi} d \\phi d \\beta, \\quad\\left(\\alpha=a_{0}\\right) \\\\\n\\text { i.e. } \\quad-\\frac{E}{2 \\pi} \\frac{1-e^{2\\left(a_{1}-a_{0}\\right)}}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{2\\left(\\alpha_{1}-\\alpha_{0}\\right)}} d \\beta \\tag{15}\n\\end{gather*}$$\n\n\nFrom this expression we may find the potential at any point\n $\\left(a_{1}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential\n at every point of the closed curve is given as a function of $\\beta$,\n and there is no electrification within the closed curve.\n\n\nFor, by Art. 86, the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the\n maintenance of the portion $\\alpha \\beta$ of the closed curve at the potential\n $V$ is $n V$, where $n$ is the charge induced on $d \\beta$ by unit of electri\nfication at ( $\\alpha_{1}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on\n the closed curve defined as a function of $\\beta$, and $\\phi$ the potential\n at the point ( $\\alpha_{1}, \\beta_{1}$ ) within the closed curve, there being no\n electrification within the curve,\n\n$$\\begin{equation*}\n\\phi=\\frac{1}{2 \\pi} \\int_{0}^{2 \\pi} \\frac{\\left(1-e^{\\ddots\\left(o_{1}-a_{0}\\right)}\\right) V d \\beta}{1-2 e^{\\left(\\alpha_{1}-\\alpha_{0}\\right)} \\cos \\left(\\beta-\\beta_{1}\\right)+e^{-\\left(\\alpha_{1}-\\alpha_{0}\\right)}} . \\tag{16}\n\\end{equation*}$$\n\n\n\\section*{Example IV.-Distribution of Electricity neur an Edge of a\n Conductor formed by Two Plane Faces.}\n\n191.] In the case of an infinite plane face $y=0$ of a con\nductor, extending to infinity in the negative direction of $y$,\n charged with electricity to the surface-density $\\sigma_{0}$, we find for\n the potential at a distance $y$ from the plane\n\n$$V=C-4 \\pi \\sigma_{0} y$$\n\nwhere $C^{\\prime}$ is the value of the potential of the conductor itself.\n\nAssume a straight line in the plane as a polar axis, and trans\nform into polar coordinates, and we find for the potential\n\n$$V=C-4 \\pi \\sigma_{0} \\alpha e^{\\rho} \\sin \\theta,$$\n\nand for the quantity of electricity on a parallelogram of breadth\n unity, and length $u e^{\\rho}$ measured along the axis\n\n$$E=\\sigma_{0} \\mu e^{\\rho} .$$\n\n\nNow let us make $\\rho=n \\rho^{\\prime}$ and $\\theta=n \\theta^{\\prime}$, then, since $\\rho^{\\prime}$ and $\\theta^{\\prime}$\n are conjugate to $\\rho$ and $\\theta$, the equations\n\n$$V=C-4 \\pi \\sigma_{0} a e^{n \\rho^{\\prime}} \\sin n \\theta^{\\prime}$$\n\nand\n\n$$E=\\sigma_{0} a e^{n \\rho^{\\prime}}$$\n\nexpress a possible distribution of potential and of electricity.\n",
+            "structured_lines": [
+              {
+                "page": 329,
+                "line_number": 4,
+                "type": "text",
+                "content": "This be omes, by (4) of Art. 183,",
+                "mathpix_content": "\n\nThis be omes, by (4) of Art. 183,",
+                "font_size": 27,
+                "confidence": 0.8451446309501617
+              },
+              {
+                "page": 329,
+                "line_number": 9,
+                "type": "text",
+                "content": "From this expression we may find the potential at any point",
+                "mathpix_content": "\n\nFrom this expression we may find the potential at any point",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 10,
+                "type": "text",
+                "content": "$\\left(a_{1}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential",
+                "mathpix_content": " $\\left(a_{1}, \\beta_{1}\\right)$ within the closed curve, when the value of the potential",
+                "font_size": 27,
+                "confidence": 0.9790506097488105
+              },
+              {
+                "page": 329,
+                "line_number": 11,
+                "type": "text",
+                "content": "at every point of the closed curve is given as a function of $\\beta$,",
+                "mathpix_content": " at every point of the closed curve is given as a function of $\\beta$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 12,
+                "type": "text",
+                "content": "and there is no electrification within the closed curve.",
+                "mathpix_content": " and there is no electrification within the closed curve.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 13,
+                "type": "text",
+                "content": "For, by Art. 86, the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+                "mathpix_content": "\n\nFor, by Art. 86, the part of the potential at $\\left(\\alpha_{1}, \\beta_{1}\\right)$, due to the",
+                "font_size": 27,
+                "confidence": 0.6100817896294757
+              },
+              {
+                "page": 329,
+                "line_number": 14,
+                "type": "text",
+                "content": "maintenance of the portion $\\alpha \\beta$ of the closed curve at the potential",
+                "mathpix_content": " maintenance of the portion $\\alpha \\beta$ of the closed curve at the potential",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 329,
+                "line_number": 15,
+                "type": "text",
+                "content": "$V$ is $n V$, where $n$ is the charge induced on $d \\beta$ by unit of electri-",
+                "mathpix_content": " $V$ is $n V$, where $n$ is the charge induced on $d \\beta$ by unit of electri",
+                "font_size": 27,
+                "confidence": 0.60107421875
+              },
+              {
+                "page": 329,
+                "line_number": 16,
+                "type": "text",
+                "content": "fication at ( $\\alpha_{1}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on",
+                "mathpix_content": "fication at ( $\\alpha_{1}, \\beta_{1}$ ). Hence, if $V$ is the potential at a point on",
+                "font_size": 27,
+                "confidence": 0.6754512786865234
+              },
+              {
+                "page": 329,
+                "line_number": 17,
+                "type": "text",
+                "content": "the closed curve defined as a function of $\\beta$, and $\\phi$ the potential",
+                "mathpix_content": " the closed curve defined as a function of $\\beta$, and $\\phi$ the potential",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 329,
+                "line_number": 18,
+                "type": "text",
+                "content": "at the point ( $\\alpha_{1}, \\beta_{1}$ ) within the closed curve, there being no",
+                "mathpix_content": " at the point ( $\\alpha_{1}, \\beta_{1}$ ) within the closed curve, there being no",
+                "font_size": 27,
+                "confidence": 0.6759510040283203
+              },
+              {
+                "page": 329,
+                "line_number": 19,
+                "type": "text",
+                "content": "electrification within the curve,",
+                "mathpix_content": " electrification within the curve,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 24,
+                "type": "text",
+                "content": "Example IV.-Distribution of Electricity neur an Edge of a",
+                "mathpix_content": "\n\n\\section*{Example IV.-Distribution of Electricity neur an Edge of a",
+                "font_size": 27,
+                "confidence": 0.9689605171524818
+              },
+              {
+                "page": 329,
+                "line_number": 25,
+                "type": "text",
+                "content": "Conductor formed by Two Plane Faces.",
+                "mathpix_content": " Conductor formed by Two Plane Faces.}",
+                "font_size": 27,
+                "confidence": 0.9776331970933825
+              },
+              {
+                "page": 329,
+                "line_number": 26,
+                "type": "text",
+                "content": "191.] In the case of an infinite plane face $y=0$ of a con-",
+                "mathpix_content": "\n191.] In the case of an infinite plane face $y=0$ of a con",
+                "font_size": 27,
+                "confidence": 0.99755859375
+              },
+              {
+                "page": 329,
+                "line_number": 27,
+                "type": "text",
+                "content": "ductor, extending to infinity in the negative direction of $y$,",
+                "mathpix_content": "ductor, extending to infinity in the negative direction of $y$,",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 28,
+                "type": "text",
+                "content": "charged with electricity to the surface-density $\\sigma_{0}$, we find for",
+                "mathpix_content": " charged with electricity to the surface-density $\\sigma_{0}$, we find for",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 29,
+                "type": "text",
+                "content": "the potential at a distance $y$ from the plane",
+                "mathpix_content": " the potential at a distance $y$ from the plane",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 32,
+                "type": "text",
+                "content": "where $C^{\\prime}$ is the value of the potential of the conductor itself.",
+                "mathpix_content": "\nwhere $C^{\\prime}$ is the value of the potential of the conductor itself.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 329,
+                "line_number": 33,
+                "type": "text",
+                "content": "Assume a straight line in the plane as a polar axis, and trans-",
+                "mathpix_content": "\nAssume a straight line in the plane as a polar axis, and trans",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 34,
+                "type": "text",
+                "content": "form into polar coordinates, and we find for the potential",
+                "mathpix_content": "form into polar coordinates, and we find for the potential",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 37,
+                "type": "text",
+                "content": "and for the quantity of electricity on a parallelogram of breadth",
+                "mathpix_content": "\nand for the quantity of electricity on a parallelogram of breadth",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 38,
+                "type": "text",
+                "content": "unity, and length $u e^{\\rho}$ measured along the axis",
+                "mathpix_content": " unity, and length $u e^{\\rho}$ measured along the axis",
+                "font_size": 27,
+                "confidence": 0.3084323910297826
+              },
+              {
+                "page": 329,
+                "line_number": 41,
+                "type": "text",
+                "content": "Now let us make $\\rho=n \\rho^{\\prime}$ and $\\theta=n \\theta^{\\prime}$, then, since $\\rho^{\\prime}$ and $\\theta^{\\prime}$",
+                "mathpix_content": "\n\nNow let us make $\\rho=n \\rho^{\\prime}$ and $\\theta=n \\theta^{\\prime}$, then, since $\\rho^{\\prime}$ and $\\theta^{\\prime}$",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 42,
+                "type": "text",
+                "content": "are conjugate to $\\rho$ and $\\theta$, the equations",
+                "mathpix_content": " are conjugate to $\\rho$ and $\\theta$, the equations",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 45,
+                "type": "text",
+                "content": "and",
+                "mathpix_content": "\nand",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 329,
+                "line_number": 48,
+                "type": "text",
+                "content": "express a possible distribution of potential and of electricity.",
+                "mathpix_content": "\nexpress a possible distribution of potential and of electricity.",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "chapter_id": "chapter_34",
+      "chapter_number": 191,
+      "title": "]",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_35",
+      "chapter_number": 295,
+      "title": "If we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_36",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_37",
+      "chapter_number": 0,
+      "title": "} \\frac{r^{n}}{u^{n-1}}",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_38",
+      "chapter_number": 2,
+      "title": "\\pi-a$, so",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_39",
+      "chapter_number": 2,
+      "title": "\\pi-a$ the point is in the other face of the con-",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_40",
+      "chapter_number": 2,
+      "title": "\\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_41",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_42",
+      "chapter_number": 0,
+      "title": "} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_43",
+      "chapter_number": 2,
+      "title": "\\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_44",
+      "chapter_number": 0,
+      "title": "$ the edge is infinitely sharp, like the edge of",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_45",
+      "chapter_number": 3,
+      "title": "}$ the edge is like that of an equilateral prism, and",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_46",
+      "chapter_number": 2,
+      "title": "}{6}$ th power of the distance.",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_47",
+      "chapter_number": 2,
+      "title": "}$ the edge is a right angle, and the density is in-",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_48",
+      "chapter_number": 2,
+      "title": "\\pi}{3}$ the edge is like that of a regular hexagonal",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_49",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_50",
+      "chapter_number": 0,
+      "title": "} \\frac{r^{n}}{u^{n-1}}",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_51",
+      "chapter_number": 2,
+      "title": "\\pi-a$, so",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_52",
+      "chapter_number": 2,
+      "title": "\\pi-a$ the point is in the other face of the con",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_53",
+      "chapter_number": 2,
+      "title": "\\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_54",
+      "chapter_number": 4,
+      "title": "\\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_55",
+      "chapter_number": 0,
+      "title": "} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_56",
+      "chapter_number": 2,
+      "title": "\\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_57",
+      "chapter_number": 0,
+      "title": "$ the edge is infinitely sharp, like the edge of",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_58",
+      "chapter_number": 3,
+      "title": "}$ the edge is like that of an equilateral prism, and",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_59",
+      "chapter_number": 2,
+      "title": "}{6}$ th power of the distance.",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_60",
+      "chapter_number": 2,
+      "title": "}$ the edge is a right angle, and the density is in",
+      "page_start": 330,
+      "page_end": 329,
+      "articles": []
+    },
+    {
+      "chapter_id": "chapter_61",
+      "chapter_number": 2,
+      "title": "\\pi}{3}$ the edge is like that of a regular hexagonal",
+      "page_start": 330,
+      "page_end": 330,
+      "articles": [
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": "]",
+          "title_safe": "Article",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_191",
+          "article_number": 191,
+          "title_original": ".]",
+          "title_safe": "Article",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_295",
+          "article_number": 295,
+          "title_original": "If we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we",
+          "title_safe": "If we write gamma for alpha erhoprime r will be the distance",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\",
+          "title_safe": "pi sigma0 fracrnan-1 sin n theta",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\frac{r^{n}}{u^{n-1}}",
+          "title_safe": "fracrnun-1",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-a$, so",
+          "title_safe": "pi-a so",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-a$ the point is in the other face of the con-",
+          "title_safe": "pi-a the point is in the other face of the con",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$",
+          "title_safe": "pi-aequalspi quad text or quad nequalsfracpi2 pi-a",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\",
+          "title_safe": "pi sigma0 aleftfracrarightfracpi2 pi-a sin fracpi theta2 pi",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}",
+          "title_safe": "aleftfracrarightfracpi2 pi-a",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$",
+          "title_safe": "pi-alpha sigma0leftfracrarightfraca-pi2 pi-alpha",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ the edge is infinitely sharp, like the edge of",
+          "title_safe": "the edge is infinitely sharp like the edge of",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}$ the edge is like that of an equilateral prism, and",
+          "title_safe": "the edge is like that of an equilateral prism and",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}{6}$ th power of the distance.",
+          "title_safe": "6 th power of the distance",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ the edge is a right angle, and the density is in-",
+          "title_safe": "the edge is a right angle and the density is in",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{3}$ the edge is like that of a regular hexagonal",
+          "title_safe": "pi3 the edge is like that of a regular hexagonal",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\",
+          "title_safe": "pi sigma0 fracrnan-1 sin n theta",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} \\frac{r^{n}}{u^{n-1}}",
+          "title_safe": "fracrnun-1",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-a$, so",
+          "title_safe": "pi-a so",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-a$ the point is in the other face of the con",
+          "title_safe": "pi-a the point is in the other face of the con",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$",
+          "title_safe": "pi-aequalspi quad text or quad nequalsfracpi2 pi-a",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_4",
+          "article_number": 4,
+          "title_original": "\\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\",
+          "title_safe": "pi sigma0 aleftfracrarightfracpi2 pi-a sin fracpi theta2 pi",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}",
+          "title_safe": "aleftfracrarightfracpi2 pi-a",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$",
+          "title_safe": "pi-alpha sigma0leftfracrarightfraca-pi2 pi-alpha",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_0",
+          "article_number": 0,
+          "title_original": "$ the edge is infinitely sharp, like the edge of",
+          "title_safe": "the edge is infinitely sharp like the edge of",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_3",
+          "article_number": 3,
+          "title_original": "}$ the edge is like that of an equilateral prism, and",
+          "title_safe": "the edge is like that of an equilateral prism and",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}{6}$ th power of the distance.",
+          "title_safe": "6 th power of the distance",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "}$ the edge is a right angle, and the density is in",
+          "title_safe": "the edge is a right angle and the density is in",
+          "page_start": 330,
+          "page_end": 329,
+          "content": {
+            "raw_text": "",
+            "mathpix_markdown": "",
+            "structured_lines": []
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        },
+        {
+          "article_id": "article_2",
+          "article_number": 2,
+          "title_original": "\\pi}{3}$ the edge is like that of a regular hexagonal",
+          "title_safe": "pi3 the edge is like that of a regular hexagonal",
+          "page_start": 330,
+          "page_end": 330,
+          "content": {
+            "raw_text": "\n--- Page 330 ---\n191.]\nDISTRIBUTION OF ELECTRICITY.\n295\nIf we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we\nmay also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have\n$$\\begin{aligned}\nV & =C-4 \\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\\nE & =\\sigma_{0} \\frac{r^{n}}{u^{n-1}}\n\\end{aligned}$$\n$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.\nLet the edge be a salient angle of the conductor, the inclination\nof the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so\nthat when $\\theta=2 \\pi-a$ the point is in the other face of the con-\nductor. We must therefore make\n$$n(2 \\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$\nThen\n$$\\begin{aligned}\n& V=C-4 \\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\\n& E=\\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}\n\\end{aligned}$$\nThe surface-density $\\sigma$ at any distance $r$ from the edge is\n$$\\sigma=\\frac{d E}{d r}=\\frac{\\pi}{2 \\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$\nWhen the angle is a salient one $\\alpha$ is less than $\\pi$, and the\nsurface-density varies according to some inverse power of the\ndistance from the edge, so that at the edge itself the density\nbecomes infinite, although the whole charge reckoned from the\nedge to any finite distance from it is always finite.\nThus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of\na mathematical plane. In this case the density varies inversely\nas the square root of the distance from the edge.\nWhen $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and\nthe density varies inversely as the $\\frac{2}{6}$ th power of the distance.\nWhen $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in-\nversely as the cube root of the distance.\nWhen $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal\n",
+            "mathpix_markdown": "\n--- Page 330 ---\n\n\nIf we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we\n may also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have\n\n$$\\begin{aligned}\nV & =C-4 \\pi \\sigma_{0} \\frac{r^{n}}{a^{n-1}} \\sin n \\theta \\\\\nE & =\\sigma_{0} \\frac{r^{n}}{u^{n-1}}\n\\end{aligned}$$\n\n$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.\n\nLet the edge be a salient angle of the conductor, the inclination\n of the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so\n that when $\\theta=2 \\pi-a$ the point is in the other face of the con\nductor. We must therefore make\n\n$$n(2 \\pi-a)=\\pi, \\quad \\text { or } \\quad n=\\frac{\\pi}{2 \\pi-a}$$\n\n\nThen\n\n$$\\begin{aligned}\n& V=C-4 \\pi \\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}} \\sin \\frac{\\pi \\theta}{2 \\pi-a}, \\\\\n& E=\\sigma_{0} a\\left(\\frac{r}{a}\\right)^{\\frac{\\pi}{2 \\pi-a}}\n\\end{aligned}$$\n\n\nThe surface-density $\\sigma$ at any distance $r$ from the edge is\n\n$$\\sigma=\\frac{d E}{d r}=\\frac{\\pi}{2 \\pi-\\alpha} \\sigma_{0}\\left(\\frac{r}{a}\\right)^{\\frac{a-\\pi}{2 \\pi-\\alpha}}$$\n\n\nWhen the angle is a salient one $\\alpha$ is less than $\\pi$, and the\n surface-density varies according to some inverse power of the\n distance from the edge, so that at the edge itself the density\n becomes infinite, although the whole charge reckoned from the\n edge to any finite distance from it is always finite.\n\n\nThus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of\n a mathematical plane. In this case the density varies inversely\n as the square root of the distance from the edge.\n\n\nWhen $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and\n the density varies inversely as the $\\frac{2}{6}$ th power of the distance.\n\n\nWhen $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in\nversely as the cube root of the distance.\n\n\nWhen $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal\n",
+            "structured_lines": [
+              {
+                "page": 330,
+                "line_number": 4,
+                "type": "text",
+                "content": "If we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we",
+                "mathpix_content": "\n\nIf we write $\\gamma$ for $\\alpha e^{\\rho^{\\prime}}, r$ will be the distance from the axis; we",
+                "font_size": 27,
+                "confidence": 0.3619772481252767
+              },
+              {
+                "page": 330,
+                "line_number": 5,
+                "type": "text",
+                "content": "may also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have",
+                "mathpix_content": " may also put $\\theta$ instead of $\\theta^{\\prime}$ for the angle. We shall then have",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 9,
+                "type": "text",
+                "content": "$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.",
+                "mathpix_content": "\n$V$ will be equal to $C$ whenever $n \\theta=\\pi$ or a multiple of $\\pi$.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 10,
+                "type": "text",
+                "content": "Let the edge be a salient angle of the conductor, the inclination",
+                "mathpix_content": "\nLet the edge be a salient angle of the conductor, the inclination",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 11,
+                "type": "text",
+                "content": "of the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so",
+                "mathpix_content": " of the faces being $a$, then the angle of the dielectric is $2 \\pi-a$, so",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 330,
+                "line_number": 12,
+                "type": "text",
+                "content": "that when $\\theta=2 \\pi-a$ the point is in the other face of the con-",
+                "mathpix_content": " that when $\\theta=2 \\pi-a$ the point is in the other face of the con",
+                "font_size": 27,
+                "confidence": 0.947265625
+              },
+              {
+                "page": 330,
+                "line_number": 13,
+                "type": "text",
+                "content": "ductor. We must therefore make",
+                "mathpix_content": "ductor. We must therefore make",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 16,
+                "type": "text",
+                "content": "Then",
+                "mathpix_content": "\n\nThen",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 20,
+                "type": "text",
+                "content": "The surface-density $\\sigma$ at any distance $r$ from the edge is",
+                "mathpix_content": "\n\nThe surface-density $\\sigma$ at any distance $r$ from the edge is",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 23,
+                "type": "text",
+                "content": "When the angle is a salient one $\\alpha$ is less than $\\pi$, and the",
+                "mathpix_content": "\n\nWhen the angle is a salient one $\\alpha$ is less than $\\pi$, and the",
+                "font_size": 27,
+                "confidence": 0.8310546875
+              },
+              {
+                "page": 330,
+                "line_number": 24,
+                "type": "text",
+                "content": "surface-density varies according to some inverse power of the",
+                "mathpix_content": " surface-density varies according to some inverse power of the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 25,
+                "type": "text",
+                "content": "distance from the edge, so that at the edge itself the density",
+                "mathpix_content": " distance from the edge, so that at the edge itself the density",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 26,
+                "type": "text",
+                "content": "becomes infinite, although the whole charge reckoned from the",
+                "mathpix_content": " becomes infinite, although the whole charge reckoned from the",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 27,
+                "type": "text",
+                "content": "edge to any finite distance from it is always finite.",
+                "mathpix_content": " edge to any finite distance from it is always finite.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 28,
+                "type": "text",
+                "content": "Thus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of",
+                "mathpix_content": "\n\nThus, when $\\alpha=0$ the edge is infinitely sharp, like the edge of",
+                "font_size": 27,
+                "confidence": 0.6513671875
+              },
+              {
+                "page": 330,
+                "line_number": 29,
+                "type": "text",
+                "content": "a mathematical plane. In this case the density varies inversely",
+                "mathpix_content": " a mathematical plane. In this case the density varies inversely",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 30,
+                "type": "text",
+                "content": "as the square root of the distance from the edge.",
+                "mathpix_content": " as the square root of the distance from the edge.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 31,
+                "type": "text",
+                "content": "When $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and",
+                "mathpix_content": "\n\nWhen $a=\\frac{\\pi}{3}$ the edge is like that of an equilateral prism, and",
+                "font_size": 27,
+                "confidence": 0.9970703125
+              },
+              {
+                "page": 330,
+                "line_number": 32,
+                "type": "text",
+                "content": "the density varies inversely as the $\\frac{2}{6}$ th power of the distance.",
+                "mathpix_content": " the density varies inversely as the $\\frac{2}{6}$ th power of the distance.",
+                "font_size": 27,
+                "confidence": 0.99951171875
+              },
+              {
+                "page": 330,
+                "line_number": 33,
+                "type": "text",
+                "content": "When $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in-",
+                "mathpix_content": "\n\nWhen $a=\\frac{\\pi}{2}$ the edge is a right angle, and the density is in",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 34,
+                "type": "text",
+                "content": "versely as the cube root of the distance.",
+                "mathpix_content": "versely as the cube root of the distance.",
+                "font_size": 27,
+                "confidence": 1.0
+              },
+              {
+                "page": 330,
+                "line_number": 35,
+                "type": "text",
+                "content": "When $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal",
+                "mathpix_content": "\n\nWhen $a=\\frac{2 \\pi}{3}$ the edge is like that of a regular hexagonal",
+                "font_size": 27,
+                "confidence": 1.0
+              }
+            ]
+          },
+          "equations": [],
+          "figures": [],
+          "metadata": {
+            "word_count": 0,
+            "line_count": 0,
+            "confidence_score": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "chapter_id": "chapter_35",
+  "chapter_number": 1,
+  "title": "}-q V_{n+1}=\\left(p U_{n}-q V_{n}\\right)(1+p q)=\\left(p U_{0}-q V_{0}\\right)(1+p q)^{n+1}$.",
+  "page_start": 356,
+  "page_end": 356,
+  "articles": [
+    {
+      "article_id": "article_32",
+      "article_number": 32,
+      "title_original": ", become completely dis-",
+      "title_safe": "become completely dis",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_32",
+      "article_number": 32,
+      "title_original": ", become completely dis",
+      "title_safe": "become completely dis",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_210",
+      "article_number": 210,
+      "title_original": "]",
+      "title_safe": "Article",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_210",
+      "article_number": 210,
+      "title_original": ".]",
+      "title_safe": "Article",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_321",
+      "article_number": 321,
+      "title_original": "will then, as was shewn in Art. 32, become completely dis-",
+      "title_safe": "will then as was shewn in Art. 32 become completely dis",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}^{\\top}$ and $V_{n+1}$ after $n+1$ half revolutions,",
+      "title_safe": "top and Vnplus1 after nplus1 half revolutions",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} & =U_{n}-\\frac{Q^{\\prime}}{A} V_{n} \\\\",
+      "title_safe": "and equalsUn-fracQprimeA Vn",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} & =V_{n}-\\frac{Q}{B} U_{n}",
+      "title_safe": "and equalsVn-fracQB Un",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=\\frac{Q}{B}$ and $q^{2}=\\frac{Q^{\\prime}}{A}$, we find",
+      "title_safe": "equalsfracQB and q2equalsfracQprimeA we find",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}+q V_{n+1}=\\left(p U_{n}+q V_{n}\\right)(1-p q)=\\left(p U_{0}+q V_{0}\\right)(1-p q)^{n+1}$,",
+      "title_safe": "plusq Vnplus1equalsleftp Unplusq Vnright1-p qequalsleftp U0p",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}-q V_{n+1}=\\left(p U_{n}-q V_{n}\\right)(1+p q)=\\left(p U_{0}-q V_{0}\\right)(1+p q)^{n+1}$.",
+      "title_safe": "q Vnplus1equalsleftp Un-q Vnright1plusp qequalsleftp U0-q V",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_32",
+      "article_number": 32,
+      "title_original": ", become completely dis",
+      "title_safe": "become completely dis",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}^{\\top}$ and $V_{n+1}$ after $n+1$ half revolutions,",
+      "title_safe": "top and Vnplus1 after nplus1 half revolutions",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} & =U_{n}-\\frac{Q^{\\prime}}{A} V_{n} \\\\",
+      "title_safe": "and equalsUn-fracQprimeA Vn",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "} & =V_{n}-\\frac{Q}{B} U_{n}",
+      "title_safe": "and equalsVn-fracQB Un",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}=\\frac{Q}{B}$ and $q^{2}=\\frac{Q^{\\prime}}{A}$, we find",
+      "title_safe": "equalsfracQB and q2equalsfracQprimeA we find",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}+q V_{n+1}=\\left(p U_{n}+q V_{n}\\right)(1-p q)=\\left(p U_{0}+q V_{0}\\right)(1-p q)^{n+1}$,",
+      "title_safe": "plusq Vnplus1equalsleftp Unplusq Vnright1-p qequalsleftp U0p",
+      "page_start": 356,
+      "page_end": 355,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}-q V_{n+1}=\\left(p U_{n}-q V_{n}\\right)(1+p q)=\\left(p U_{0}-q V_{0}\\right)(1+p q)^{n+1}$.",
+      "title_safe": "q Vnplus1equalsleftp Un-q Vnright1plusp qequalsleftp U0-q V",
+      "page_start": 356,
+      "page_end": 356,
+      "content": {
+        "raw_text": "\n--- Page 356 ---\n210.]\nTHE REVOLVING DOUBLER.\n321\nwill then, as was shewn in Art. 32, become completely dis-\ncharged, and will communicate its whole negative charge to the\nreceiver $B$.\nThe carrier will next enter the inductor $C$, which we shall\nsuppose charged negatively. While within $C$ it is put in\nconnexion with the earth and thus acquires a positive charge,\nwhich it carries off and communicates to the receiver $D$, and so on.\nIn this way, if the potentials of the inductors remain always\nconstant, the receivers $B$ and $D$ receive successive charges,\nwhich are the same for every revolution of the carrier, and thus\nevery revolution produces an equal increment of electricity\nin the receivers.\nBut by putting the inductor $A$ in communication with the\nreceiver $D$, and the inductor $C$ with the receiver $B$, the poten-\ntials of the inductors will be continually increased, and the\nquantity of electricity communicated to the receivers in each\nrevolution will continually increase.\nFor instance, let the potential of $A$ and $D$ be $C$, and that of $B$\nand $C, V$, then, since the potential of the carrier is zero when\nit is within $A$, being in contact with earth, its charge is\n$=-Q U$. The carrier enters $B$ with this charge and com-\nmunicates it to $B$. If the capacity of $B$ and $C$ is $B$, their\npotential will be changed from $V$ to $V-\\frac{Q}{B} U$.\nIf the other carrier has at the same time carried a charge\n$-Q V$ from $C$ to $D$, it will change the potential of $A$ and $D$ from\n$U$ to $U-\\frac{Q^{\\prime}}{A} V$, if $Q^{\\prime}$ is the coefficient of induction between the\ncarrier and $C$, and $A$ the capacity of $A$ and $D$. If therefore,\n$U_{n}$ and $V_{n}$ be the potentials of the two inductors after $n$ half\nrevolutions, and $U_{n+1}^{\\top}$ and $V_{n+1}$ after $n+1$ half revolutions,\n$$\\begin{aligned}\nV_{n+1} & =U_{n}-\\frac{Q^{\\prime}}{A} V_{n} \\\\\nV_{n+1} & =V_{n}-\\frac{Q}{B} U_{n}\n\\end{aligned}$$\nIf we write $p^{2}=\\frac{Q}{B}$ and $q^{2}=\\frac{Q^{\\prime}}{A}$, we find\n$p U_{n+1}+q V_{n+1}=\\left(p U_{n}+q V_{n}\\right)(1-p q)=\\left(p U_{0}+q V_{0}\\right)(1-p q)^{n+1}$,\n$p U_{n+1}-q V_{n+1}=\\left(p U_{n}-q V_{n}\\right)(1+p q)=\\left(p U_{0}-q V_{0}\\right)(1+p q)^{n+1}$.\nVOL. I.\nY\n",
+        "mathpix_markdown": "\n--- Page 356 ---\n\nwill then, as was shewn in Art. 32, become completely dis\ncharged, and will communicate its whole negative charge to the\n receiver $B$.\n\n\nThe carrier will next enter the inductor $C$, which we shall\n suppose charged negatively. While within $C$ it is put in\n connexion with the earth and thus acquires a positive charge,\n which it carries off and communicates to the receiver $D$, and so on.\n\n\nIn this way, if the potentials of the inductors remain always\n constant, the receivers $B$ and $D$ receive successive charges,\n which are the same for every revolution of the carrier, and thus\n every revolution produces an equal increment of electricity\n in the receivers.\n\n\nBut by putting the inductor $A$ in communication with the\n receiver $D$, and the inductor $C$ with the receiver $B$, the poten\ntials of the inductors will be continually increased, and the\n quantity of electricity communicated to the receivers in each\n revolution will continually increase.\n\n\nFor instance, let the potential of $A$ and $D$ be $C$, and that of $B$\n and $C, V$, then, since the potential of the carrier is zero when\n it is within $A$, being in contact with earth, its charge is\n $=-Q U$. The carrier enters $B$ with this charge and com\nmunicates it to $B$. If the capacity of $B$ and $C$ is $B$, their\n potential will be changed from $V$ to $V-\\frac{Q}{B} U$.\n\n\nIf the other carrier has at the same time carried a charge\n $-Q V$ from $C$ to $D$, it will change the potential of $A$ and $D$ from\n $U$ to $U-\\frac{Q^{\\prime}}{A} V$, if $Q^{\\prime}$ is the coefficient of induction between the\n carrier and $C$, and $A$ the capacity of $A$ and $D$. If therefore,\n $U_{n}$ and $V_{n}$ be the potentials of the two inductors after $n$ half\n revolutions, and $U_{n+1}^{\\top}$ and $V_{n+1}$ after $n+1$ half revolutions,\n\n$$\\begin{aligned}\nV_{n+1} & =U_{n}-\\frac{Q^{\\prime}}{A} V_{n} \\\\\nV_{n+1} & =V_{n}-\\frac{Q}{B} U_{n}\n\\end{aligned}$$\n\n\nIf we write $p^{2}=\\frac{Q}{B}$ and $q^{2}=\\frac{Q^{\\prime}}{A}$, we find\n\n$p U_{n+1}+q V_{n+1}=\\left(p U_{n}+q V_{n}\\right)(1-p q)=\\left(p U_{0}+q V_{0}\\right)(1-p q)^{n+1}$,\n\n$p U_{n+1}-q V_{n+1}=\\left(p U_{n}-q V_{n}\\right)(1+p q)=\\left(p U_{0}-q V_{0}\\right)(1+p q)^{n+1}$.\n\nVOL. I.\n",
+        "structured_lines": [
+          {
+            "page": 356,
+            "line_number": 4,
+            "type": "text",
+            "content": "will then, as was shewn in Art. 32, become completely dis-",
+            "mathpix_content": "\nwill then, as was shewn in Art. 32, become completely dis",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 5,
+            "type": "text",
+            "content": "charged, and will communicate its whole negative charge to the",
+            "mathpix_content": "charged, and will communicate its whole negative charge to the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 6,
+            "type": "text",
+            "content": "receiver $B$.",
+            "mathpix_content": " receiver $B$.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 7,
+            "type": "text",
+            "content": "The carrier will next enter the inductor $C$, which we shall",
+            "mathpix_content": "\n\nThe carrier will next enter the inductor $C$, which we shall",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 8,
+            "type": "text",
+            "content": "suppose charged negatively. While within $C$ it is put in",
+            "mathpix_content": " suppose charged negatively. While within $C$ it is put in",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 9,
+            "type": "text",
+            "content": "connexion with the earth and thus acquires a positive charge,",
+            "mathpix_content": " connexion with the earth and thus acquires a positive charge,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 10,
+            "type": "text",
+            "content": "which it carries off and communicates to the receiver $D$, and so on.",
+            "mathpix_content": " which it carries off and communicates to the receiver $D$, and so on.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 11,
+            "type": "text",
+            "content": "In this way, if the potentials of the inductors remain always",
+            "mathpix_content": "\n\nIn this way, if the potentials of the inductors remain always",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 12,
+            "type": "text",
+            "content": "constant, the receivers $B$ and $D$ receive successive charges,",
+            "mathpix_content": " constant, the receivers $B$ and $D$ receive successive charges,",
+            "font_size": 27,
+            "confidence": 0.99853515625
+          },
+          {
+            "page": 356,
+            "line_number": 13,
+            "type": "text",
+            "content": "which are the same for every revolution of the carrier, and thus",
+            "mathpix_content": " which are the same for every revolution of the carrier, and thus",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 14,
+            "type": "text",
+            "content": "every revolution produces an equal increment of electricity",
+            "mathpix_content": " every revolution produces an equal increment of electricity",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 15,
+            "type": "text",
+            "content": "in the receivers.",
+            "mathpix_content": " in the receivers.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 16,
+            "type": "text",
+            "content": "But by putting the inductor $A$ in communication with the",
+            "mathpix_content": "\n\nBut by putting the inductor $A$ in communication with the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 17,
+            "type": "text",
+            "content": "receiver $D$, and the inductor $C$ with the receiver $B$, the poten-",
+            "mathpix_content": " receiver $D$, and the inductor $C$ with the receiver $B$, the poten",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 18,
+            "type": "text",
+            "content": "tials of the inductors will be continually increased, and the",
+            "mathpix_content": "tials of the inductors will be continually increased, and the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 19,
+            "type": "text",
+            "content": "quantity of electricity communicated to the receivers in each",
+            "mathpix_content": " quantity of electricity communicated to the receivers in each",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 20,
+            "type": "text",
+            "content": "revolution will continually increase.",
+            "mathpix_content": " revolution will continually increase.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 21,
+            "type": "text",
+            "content": "For instance, let the potential of $A$ and $D$ be $C$, and that of $B$",
+            "mathpix_content": "\n\nFor instance, let the potential of $A$ and $D$ be $C$, and that of $B$",
+            "font_size": 27,
+            "confidence": 0.91259765625
+          },
+          {
+            "page": 356,
+            "line_number": 22,
+            "type": "text",
+            "content": "and $C, V$, then, since the potential of the carrier is zero when",
+            "mathpix_content": " and $C, V$, then, since the potential of the carrier is zero when",
+            "font_size": 27,
+            "confidence": 0.9985356330871582
+          },
+          {
+            "page": 356,
+            "line_number": 23,
+            "type": "text",
+            "content": "it is within $A$, being in contact with earth, its charge is",
+            "mathpix_content": " it is within $A$, being in contact with earth, its charge is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 24,
+            "type": "text",
+            "content": "$=-Q U$. The carrier enters $B$ with this charge and com-",
+            "mathpix_content": " $=-Q U$. The carrier enters $B$ with this charge and com",
+            "font_size": 27,
+            "confidence": 0.9892578125
+          },
+          {
+            "page": 356,
+            "line_number": 25,
+            "type": "text",
+            "content": "municates it to $B$. If the capacity of $B$ and $C$ is $B$, their",
+            "mathpix_content": "municates it to $B$. If the capacity of $B$ and $C$ is $B$, their",
+            "font_size": 27,
+            "confidence": 0.9990234375
+          },
+          {
+            "page": 356,
+            "line_number": 26,
+            "type": "text",
+            "content": "potential will be changed from $V$ to $V-\\frac{Q}{B} U$.",
+            "mathpix_content": " potential will be changed from $V$ to $V-\\frac{Q}{B} U$.",
+            "font_size": 27,
+            "confidence": 0.9887876510620117
+          },
+          {
+            "page": 356,
+            "line_number": 27,
+            "type": "text",
+            "content": "If the other carrier has at the same time carried a charge",
+            "mathpix_content": "\n\nIf the other carrier has at the same time carried a charge",
+            "font_size": 27,
+            "confidence": 0.9336259365081787
+          },
+          {
+            "page": 356,
+            "line_number": 28,
+            "type": "text",
+            "content": "$-Q V$ from $C$ to $D$, it will change the potential of $A$ and $D$ from",
+            "mathpix_content": " $-Q V$ from $C$ to $D$, it will change the potential of $A$ and $D$ from",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 29,
+            "type": "text",
+            "content": "$U$ to $U-\\frac{Q^{\\prime}}{A} V$, if $Q^{\\prime}$ is the coefficient of induction between the",
+            "mathpix_content": " $U$ to $U-\\frac{Q^{\\prime}}{A} V$, if $Q^{\\prime}$ is the coefficient of induction between the",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 30,
+            "type": "text",
+            "content": "carrier and $C$, and $A$ the capacity of $A$ and $D$. If therefore,",
+            "mathpix_content": " carrier and $C$, and $A$ the capacity of $A$ and $D$. If therefore,",
+            "font_size": 27,
+            "confidence": 0.8394336700439453
+          },
+          {
+            "page": 356,
+            "line_number": 31,
+            "type": "text",
+            "content": "$U_{n}$ and $V_{n}$ be the potentials of the two inductors after $n$ half",
+            "mathpix_content": " $U_{n}$ and $V_{n}$ be the potentials of the two inductors after $n$ half",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 32,
+            "type": "text",
+            "content": "revolutions, and $U_{n+1}^{\\top}$ and $V_{n+1}$ after $n+1$ half revolutions,",
+            "mathpix_content": " revolutions, and $U_{n+1}^{\\top}$ and $V_{n+1}$ after $n+1$ half revolutions,",
+            "font_size": 27,
+            "confidence": 0.9604682922363281
+          },
+          {
+            "page": 356,
+            "line_number": 36,
+            "type": "text",
+            "content": "If we write $p^{2}=\\frac{Q}{B}$ and $q^{2}=\\frac{Q^{\\prime}}{A}$, we find",
+            "mathpix_content": "\n\nIf we write $p^{2}=\\frac{Q}{B}$ and $q^{2}=\\frac{Q^{\\prime}}{A}$, we find",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 356,
+            "line_number": 37,
+            "type": "text",
+            "content": "$p U_{n+1}+q V_{n+1}=\\left(p U_{n}+q V_{n}\\right)(1-p q)=\\left(p U_{0}+q V_{0}\\right)(1-p q)^{n+1}$,",
+            "mathpix_content": "\n$p U_{n+1}+q V_{n+1}=\\left(p U_{n}+q V_{n}\\right)(1-p q)=\\left(p U_{0}+q V_{0}\\right)(1-p q)^{n+1}$,",
+            "font_size": 27,
+            "confidence": 0.7950217723846436
+          },
+          {
+            "page": 356,
+            "line_number": 38,
+            "type": "text",
+            "content": "$p U_{n+1}-q V_{n+1}=\\left(p U_{n}-q V_{n}\\right)(1+p q)=\\left(p U_{0}-q V_{0}\\right)(1+p q)^{n+1}$.",
+            "mathpix_content": "\n$p U_{n+1}-q V_{n+1}=\\left(p U_{n}-q V_{n}\\right)(1+p q)=\\left(p U_{0}-q V_{0}\\right)(1+p q)^{n+1}$.",
+            "font_size": 27,
+            "confidence": 0.6635788260027766
+          },
+          {
+            "page": 356,
+            "line_number": 39,
+            "type": "text",
+            "content": "VOL. I.",
+            "mathpix_content": "\nVOL. I.",
+            "font_size": 21,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

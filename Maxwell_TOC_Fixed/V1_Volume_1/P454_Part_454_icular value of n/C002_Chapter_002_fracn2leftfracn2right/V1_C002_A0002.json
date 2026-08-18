@@ -1,0 +1,291 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "^{\\frac{n}{2}}\\left(\\frac{n}{2}\\right)!$.\\}",
+  "title_safe": "fracn2leftfracn2right",
+  "page_start": 239,
+  "page_end": 239,
+  "content": {
+    "raw_text": "\n--- Page 239 ---\n204\nSPHERICAL HARMONICS.\n[134.\nmonic, as\n$$Y_{n}=S\\left[(-1)^{\\cdot} \\frac{(2 n-28)!}{2^{n-3} n!(n-8)!} \\Sigma\\left(\\mu^{n-2!} \\lambda^{s}\\right)\\right]^{*} .$$\n(43)\nThis expression gives the value of the surface harmonic at any\npoint $P$ of the spherical surface in terms of the cosines of the\ndistances of $P$ from the different poles and of the distances of\nthe poles from each other.\nIt is easy to see that if any one of the poles be removed to\nthe opposite point of the spherical surface, the value of the har-\nmonic will have its sign reversed. For any cosine involving the\nindex of this pole will have its sign reversed, and in each term\nof the harmonic the index of the pole occurs once and only once.\nHence if two or any even number of poles are removed to the\npoints respectively opposite to them, the value of the harmonic\nwill be unaltered.\nProfessor Sylvester has shewn (Phil. Mag., Oct. 1876) that,\nwhen the harmonic is given, the problem of finding the $n$ lines\nwhich coincide with the axes has one and only one solution,\nthough, as we have just seen, the directions to be reckoned\npositive along these axes may be reversed in pairs.\n134.] We are now able to determine the value of the surface\nintegral $\\iint Y_{m} Y_{n} d s$ when the order of the two surface harmonics\nis the same, though the directions of their axes may be in general\ndifferent.\nFor this purpose we have to form the solid harmonic $Y_{m} r^{m}$ and\nto differentiate it with respect to each of the $n$ axes of $Y_{n}$.\nAny term of $I_{m} r^{m}$ of the form $r^{m} \\mu^{m-2} \\lambda^{\\prime}$ may be written\n$r^{2}{ }^{8} p_{m}^{m-2{ }^{8}} \\lambda_{m m}^{8}$. Differentiating this $n$ times in succession with\nrespect to the $n$ axes of $Y_{n}$, we find that in differentiating $r^{2,3}$\n* $\\int_{\\text {i }}$ We may deduce from this that\n\n$$\\begin{aligned}\n& \\frac{d^{p}}{d x^{p}} \\frac{d^{q}}{d y^{q}} \\frac{d^{r}}{d z^{r}} \\frac{1}{R}=\\frac{(-1)^{n} \\cdot 2 n!}{2^{n} n!} R^{-(2 n+1)}\\left\\{x^{p} y^{q} z^{r}-\\frac{R^{2}}{2 n-1}\\left({ }_{p} c_{2} x^{p-2} y^{q} z^{r}+{ }_{{ }^{n}} c_{2} x^{p} y^{q-2} z^{r}+{ }_{r} c_{2} x^{p} y^{q} z^{r-2}\\right)\\right. \\\\\n& +\\frac{1}{(2 n-1)} \\cdot \\frac{1}{(2 n-3)} R^{4}\\left({ }_{p} c_{4} \\cdot x^{p-4} y^{q} z^{r}+{ }_{q} c_{4} \\cdot x^{p} y^{q-4} z^{r}+{ }_{r} c_{4} \\cdot x^{p} y^{q} z^{r-4}+{ }_{p} c_{2} c_{2} c^{p-2} y^{q-2} z^{r}\\right. \\\\\n& \\left.+{ }_{p} c_{2}, c_{2} \\lambda^{p-2} y^{Q_{2} r-2}+{ }_{q} c_{2} r c_{2} x^{p} y^{q-2} z^{r-2}\\right) \\\\\n& -\\frac{1}{(2 n-1)(2 n-3)(2 n-5)} R^{6}{ }_{p} c_{6} \\cdot x^{p-6} y^{q} z^{r}+{ }_{q} c_{0} \\cdot x^{p} y^{q-6} z^{r}+{ }_{r} c_{6} \\cdot x^{p} y^{q} z^{r-6} \\\\\n& +{ }_{p} c_{4 q} c_{2} x^{p-1} y^{q-2} z^{r}+{ }_{p} c_{4} c_{2} x^{p-1} y^{q} z^{r-2}+{ }_{p} c_{2 q} c_{4} \\cdot x^{p-2} y^{q-4} z^{r}+{ }_{q} c_{4} \\cdot r_{2} x^{p} y^{q-1} z^{r-2} \\\\\n& \\left.\\left.+{ }_{p} c_{2} c_{4} c^{x-2} y^{q} z^{r-4}+{ }_{q} c_{2} r_{4} \\cdot x^{p} y^{q-2} z^{r-4}+{ }_{p} c_{2 q} c_{2 r} c_{2} a^{p-2} y^{q-2} z^{r-2}\\right)+\\ldots\\right\\},\n\\end{aligned}$$\nwhere $n=p+q+r$ and $R^{2}=x^{2}+y^{2}+z^{2}$, and ${ }_{m} c_{n}$ denotes the number of permutations\nof $m$ things $n$ at a time divided by $2^{\\frac{n}{2}}\\left(\\frac{n}{2}\\right)!$.\\}\n",
+    "mathpix_markdown": "\n--- Page 239 ---\n\nmonic, as\n\n$$\\begin{equation*}\nY_{n}=S\\left[(-1)^{\\cdot} \\frac{(2 n-28)!}{2^{n-3} n!(n-8)!} \\Sigma\\left(\\mu^{n-2!} \\lambda^{s}\\right)\\right]^{*} . \\tag{43}\n\\end{equation*}$$\n\n\nThis expression gives the value of the surface harmonic at any\n point $P$ of the spherical surface in terms of the cosines of the\n distances of $P$ from the different poles and of the distances of\n the poles from each other.\n\n\nIt is easy to see that if any one of the poles be removed to\n the opposite point of the spherical surface, the value of the har\nmonic will have its sign reversed. For any cosine involving the\n index of this pole will have its sign reversed, and in each term\n of the harmonic the index of the pole occurs once and only once.\n\n\nHence if two or any even number of poles are removed to the\n points respectively opposite to them, the value of the harmonic\n will be unaltered.\n\n\nProfessor Sylvester has shewn (Phil. Mag., Oct. 1876) that,\n when the harmonic is given, the problem of finding the $n$ lines\n which coincide with the axes has one and only one solution,\n though, as we have just seen, the directions to be reckoned\n positive along these axes may be reversed in pairs.\n\n134.] We are now able to determine the value of the surface\n integral $\\iint Y_{m} Y_{n} d s$ when the order of the two surface harmonics\n is the same, though the directions of their axes may be in general\n different.\n\n\nFor this purpose we have to form the solid harmonic $Y_{m} r^{m}$ and\n to differentiate it with respect to each of the $n$ axes of $Y_{n}$.\n\n\nAny term of $I_{m} r^{m}$ of the form $r^{m} \\mu^{m-2} \\lambda^{\\prime}$ may be written\n $r^{2}{ }^{8} p_{m}^{m-2{ }^{8}} \\lambda_{m m}^{8}$. Differentiating this $n$ times in succession with\n respect to the $n$ axes of $Y_{n}$, we find that in differentiating $r^{2,3}$\n\n* $\\int_{\\text {i }}$ We may deduce from this that\n\n$$\\begin{aligned}\n& \\frac{d^{p}}{d x^{p}} \\frac{d^{q}}{d y^{q}} \\frac{d^{r}}{d z^{r}} \\frac{1}{R}=\\frac{(-1)^{n} \\cdot 2 n!}{2^{n} n!} R^{-(2 n+1)}\\left\\{x^{p} y^{q} z^{r}-\\frac{R^{2}}{2 n-1}\\left({ }_{p} c_{2} x^{p-2} y^{q} z^{r}+{ }_{{ }^{n}} c_{2} x^{p} y^{q-2} z^{r}+{ }_{r} c_{2} x^{p} y^{q} z^{r-2}\\right)\\right. \\\\\n& +\\frac{1}{(2 n-1)} \\cdot \\frac{1}{(2 n-3)} R^{4}\\left({ }_{p} c_{4} \\cdot x^{p-4} y^{q} z^{r}+{ }_{q} c_{4} \\cdot x^{p} y^{q-4} z^{r}+{ }_{r} c_{4} \\cdot x^{p} y^{q} z^{r-4}+{ }_{p} c_{2} c_{2} c^{p-2} y^{q-2} z^{r}\\right. \\\\\n& \\left.+{ }_{p} c_{2}, c_{2} \\lambda^{p-2} y^{Q_{2} r-2}+{ }_{q} c_{2} r c_{2} x^{p} y^{q-2} z^{r-2}\\right) \\\\\n& -\\frac{1}{(2 n-1)(2 n-3)(2 n-5)} R^{6}{ }_{p} c_{6} \\cdot x^{p-6} y^{q} z^{r}+{ }_{q} c_{0} \\cdot x^{p} y^{q-6} z^{r}+{ }_{r} c_{6} \\cdot x^{p} y^{q} z^{r-6} \\\\\n& +{ }_{p} c_{4 q} c_{2} x^{p-1} y^{q-2} z^{r}+{ }_{p} c_{4} c_{2} x^{p-1} y^{q} z^{r-2}+{ }_{p} c_{2 q} c_{4} \\cdot x^{p-2} y^{q-4} z^{r}+{ }_{q} c_{4} \\cdot r_{2} x^{p} y^{q-1} z^{r-2} \\\\\n& \\left.\\left.+{ }_{p} c_{2} c_{4} c^{x-2} y^{q} z^{r-4}+{ }_{q} c_{2} r_{4} \\cdot x^{p} y^{q-2} z^{r-4}+{ }_{p} c_{2 q} c_{2 r} c_{2} a^{p-2} y^{q-2} z^{r-2}\\right)+\\ldots\\right\\},\n\\end{aligned}$$\n\nwhere $n=p+q+r$ and $R^{2}=x^{2}+y^{2}+z^{2}$, and ${ }_{m} c_{n}$ denotes the number of permutations\n of $m$ things $n$ at a time divided by $2^{\\frac{n}{2}}\\left(\\frac{n}{2}\\right)!$.\\}\n",
+    "structured_lines": [
+      {
+        "page": 239,
+        "line_number": 4,
+        "type": "text",
+        "content": "monic, as",
+        "mathpix_content": "\nmonic, as",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 8,
+        "type": "text",
+        "content": "This expression gives the value of the surface harmonic at any",
+        "mathpix_content": "\n\nThis expression gives the value of the surface harmonic at any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 9,
+        "type": "text",
+        "content": "point $P$ of the spherical surface in terms of the cosines of the",
+        "mathpix_content": " point $P$ of the spherical surface in terms of the cosines of the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 10,
+        "type": "text",
+        "content": "distances of $P$ from the different poles and of the distances of",
+        "mathpix_content": " distances of $P$ from the different poles and of the distances of",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 11,
+        "type": "text",
+        "content": "the poles from each other.",
+        "mathpix_content": " the poles from each other.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 12,
+        "type": "text",
+        "content": "It is easy to see that if any one of the poles be removed to",
+        "mathpix_content": "\n\nIt is easy to see that if any one of the poles be removed to",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 239,
+        "line_number": 13,
+        "type": "text",
+        "content": "the opposite point of the spherical surface, the value of the har-",
+        "mathpix_content": " the opposite point of the spherical surface, the value of the har",
+        "font_size": 27,
+        "confidence": 0.56982421875
+      },
+      {
+        "page": 239,
+        "line_number": 14,
+        "type": "text",
+        "content": "monic will have its sign reversed. For any cosine involving the",
+        "mathpix_content": "monic will have its sign reversed. For any cosine involving the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 15,
+        "type": "text",
+        "content": "index of this pole will have its sign reversed, and in each term",
+        "mathpix_content": " index of this pole will have its sign reversed, and in each term",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 16,
+        "type": "text",
+        "content": "of the harmonic the index of the pole occurs once and only once.",
+        "mathpix_content": " of the harmonic the index of the pole occurs once and only once.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 17,
+        "type": "text",
+        "content": "Hence if two or any even number of poles are removed to the",
+        "mathpix_content": "\n\nHence if two or any even number of poles are removed to the",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 18,
+        "type": "text",
+        "content": "points respectively opposite to them, the value of the harmonic",
+        "mathpix_content": " points respectively opposite to them, the value of the harmonic",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 19,
+        "type": "text",
+        "content": "will be unaltered.",
+        "mathpix_content": " will be unaltered.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 20,
+        "type": "text",
+        "content": "Professor Sylvester has shewn (Phil. Mag., Oct. 1876) that,",
+        "mathpix_content": "\n\nProfessor Sylvester has shewn (Phil. Mag., Oct. 1876) that,",
+        "font_size": 27,
+        "confidence": 0.5849609375
+      },
+      {
+        "page": 239,
+        "line_number": 21,
+        "type": "text",
+        "content": "when the harmonic is given, the problem of finding the $n$ lines",
+        "mathpix_content": " when the harmonic is given, the problem of finding the $n$ lines",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 22,
+        "type": "text",
+        "content": "which coincide with the axes has one and only one solution,",
+        "mathpix_content": " which coincide with the axes has one and only one solution,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 23,
+        "type": "text",
+        "content": "though, as we have just seen, the directions to be reckoned",
+        "mathpix_content": " though, as we have just seen, the directions to be reckoned",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 239,
+        "line_number": 24,
+        "type": "text",
+        "content": "positive along these axes may be reversed in pairs.",
+        "mathpix_content": " positive along these axes may be reversed in pairs.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 25,
+        "type": "text",
+        "content": "134.] We are now able to determine the value of the surface",
+        "mathpix_content": "\n134.] We are now able to determine the value of the surface",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 26,
+        "type": "text",
+        "content": "integral $\\iint Y_{m} Y_{n} d s$ when the order of the two surface harmonics",
+        "mathpix_content": " integral $\\iint Y_{m} Y_{n} d s$ when the order of the two surface harmonics",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 27,
+        "type": "text",
+        "content": "is the same, though the directions of their axes may be in general",
+        "mathpix_content": " is the same, though the directions of their axes may be in general",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 239,
+        "line_number": 28,
+        "type": "text",
+        "content": "different.",
+        "mathpix_content": " different.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 29,
+        "type": "text",
+        "content": "For this purpose we have to form the solid harmonic $Y_{m} r^{m}$ and",
+        "mathpix_content": "\n\nFor this purpose we have to form the solid harmonic $Y_{m} r^{m}$ and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 30,
+        "type": "text",
+        "content": "to differentiate it with respect to each of the $n$ axes of $Y_{n}$.",
+        "mathpix_content": " to differentiate it with respect to each of the $n$ axes of $Y_{n}$.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 239,
+        "line_number": 31,
+        "type": "text",
+        "content": "Any term of $I_{m} r^{m}$ of the form $r^{m} \\mu^{m-2} \\lambda^{\\prime}$ may be written",
+        "mathpix_content": "\n\nAny term of $I_{m} r^{m}$ of the form $r^{m} \\mu^{m-2} \\lambda^{\\prime}$ may be written",
+        "font_size": 27,
+        "confidence": 0.8089641186232773
+      },
+      {
+        "page": 239,
+        "line_number": 32,
+        "type": "text",
+        "content": "$r^{2}{ }^{8} p_{m}^{m-2{ }^{8}} \\lambda_{m m}^{8}$. Differentiating this $n$ times in succession with",
+        "mathpix_content": " $r^{2}{ }^{8} p_{m}^{m-2{ }^{8}} \\lambda_{m m}^{8}$. Differentiating this $n$ times in succession with",
+        "font_size": 27,
+        "confidence": 0.17872107892126665
+      },
+      {
+        "page": 239,
+        "line_number": 33,
+        "type": "text",
+        "content": "respect to the $n$ axes of $Y_{n}$, we find that in differentiating $r^{2,3}$",
+        "mathpix_content": " respect to the $n$ axes of $Y_{n}$, we find that in differentiating $r^{2,3}$",
+        "font_size": 27,
+        "confidence": 0.4452599870986833
+      },
+      {
+        "page": 239,
+        "line_number": 34,
+        "type": "text",
+        "content": "* $\\int_{\\text {i }}$ We may deduce from this that",
+        "mathpix_content": "\n* $\\int_{\\text {i }}$ We may deduce from this that",
+        "font_size": 21,
+        "confidence": 0.3367842677880246
+      },
+      {
+        "page": 239,
+        "line_number": 43,
+        "type": "text",
+        "content": "where $n=p+q+r$ and $R^{2}=x^{2}+y^{2}+z^{2}$, and ${ }_{m} c_{n}$ denotes the number of permutations",
+        "mathpix_content": "\nwhere $n=p+q+r$ and $R^{2}=x^{2}+y^{2}+z^{2}$, and ${ }_{m} c_{n}$ denotes the number of permutations",
+        "font_size": 17,
+        "confidence": 0.9733637235699462
+      },
+      {
+        "page": 239,
+        "line_number": 44,
+        "type": "text",
+        "content": "of $m$ things $n$ at a time divided by $2^{\\frac{n}{2}}\\left(\\frac{n}{2}\\right)!$.\\}",
+        "mathpix_content": " of $m$ things $n$ at a time divided by $2^{\\frac{n}{2}}\\left(\\frac{n}{2}\\right)!$.\\}",
+        "font_size": 27,
+        "confidence": 0.9912242889404297
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

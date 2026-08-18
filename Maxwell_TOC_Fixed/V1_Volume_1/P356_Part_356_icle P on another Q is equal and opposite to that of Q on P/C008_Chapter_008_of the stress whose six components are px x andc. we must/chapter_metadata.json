@@ -1,0 +1,1059 @@
+{
+  "chapter_id": "chapter_130",
+  "chapter_number": 8,
+  "title": ", of the stress whose six components are $p_{x x}$ \\&c., we must",
+  "page_start": 193,
+  "page_end": 193,
+  "articles": [
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_105",
+      "article_number": 105,
+      "title_original": "If, therefore, we write",
+      "title_safe": "If therefore we write",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_158",
+      "article_number": 158,
+      "title_original": "MECHANICAL ACTION.",
+      "title_safe": "MECHANICAL ACTION",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_105",
+      "article_number": 105,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}=8 \\pi p_{x x} \\\\",
+      "title_safe": "leftfracd Psid yright2-leftfracd Psid zright2equals8 pi px",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}=8 \\pi p_{y y} \\\\",
+      "title_safe": "leftfracd Psid zright2-leftfracd Psid xright2equals8 pi py",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}=8 \\pi p_{z z} \\\\",
+      "title_safe": "leftfracd Psid xright2-leftfracd Psid yright2equals8 pi pz",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi p_{y z}=4 \\pi p_{z y} \\\\",
+      "title_safe": "pi py zequals4 pi pz y",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi p_{z x}=4 \\pi p_{x z} \\\\",
+      "title_safe": "pi pz xequals4 pi px z",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi p_{x y}=4 \\pi p_{y x}",
+      "title_safe": "pi px yequals4 pi py x",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_14",
+      "article_number": 14,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "$$",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_16",
+      "article_number": 16,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "$ is an element of any closed surface including the whole",
+      "title_safe": "is an element of any closed surface including the whole",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ but none of $E_{2}$, and $l, m, n$ are the direction cosines of the",
+      "title_safe": "but none of E2 and l m n are the direction cosines of the",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ in the directions of $y$",
+      "title_safe": "in the directions of y",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_17",
+      "article_number": 17,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_18",
+      "article_number": 18,
+      "title_original": ")",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ on $E_{1}$ does in reality take place",
+      "title_safe": "on E1 does in reality take place",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $E_{1}$ is",
+      "title_safe": "and E1 is",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_16",
+      "article_number": 16,
+      "title_original": "), (17), (18) give the components of the re-",
+      "title_safe": "17 18 give the components of the re",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ", of the stress whose six components are $p_{x x}$ \\&c., we must",
+      "title_safe": "of the stress whose six components are px x andc. we must",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}=8 \\pi p_{x x}  \\tag{14}\\\\",
+      "title_safe": "leftfracd Psid yright2-leftfracd Psid zright2equals8 pi px",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}=8 \\pi p_{y y} \\\\",
+      "title_safe": "leftfracd Psid zright2-leftfracd Psid xright2equals8 pi py",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}=8 \\pi p_{z z} \\\\",
+      "title_safe": "leftfracd Psid xright2-leftfracd Psid yright2equals8 pi pz",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi p_{y z}=4 \\pi p_{z y} \\\\",
+      "title_safe": "pi py zequals4 pi pz y",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi p_{z x}=4 \\pi p_{x z} \\\\",
+      "title_safe": "pi pz xequals4 pi px z",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_4",
+      "article_number": 4,
+      "title_original": "\\pi p_{x y}=4 \\pi p_{y x}",
+      "title_safe": "pi px yequals4 pi py x",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ".",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_21",
+      "article_number": 21,
+      "title_original": ",",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "\\tag{16}",
+      "title_safe": "tag16",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": "$ is an element of any closed surface including the whole",
+      "title_safe": "is an element of any closed surface including the whole",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ but none of $E_{2}$, and $l, m, n$ are the direction cosines of the",
+      "title_safe": "but none of E2 and l m n are the direction cosines of the",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_1",
+      "article_number": 1,
+      "title_original": "}$ in the directions of $y$",
+      "title_safe": "in the directions of y",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_17",
+      "article_number": 17,
+      "title_original": "}\\\\",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_18",
+      "article_number": 18,
+      "title_original": "}",
+      "title_safe": "Article",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ on $E_{1}$ does in reality take place",
+      "title_safe": "on E1 does in reality take place",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_2",
+      "article_number": 2,
+      "title_original": "}$ and $E_{1}$ is",
+      "title_safe": "and E1 is",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_16",
+      "article_number": 16,
+      "title_original": "), (17), (18) give the components of the re",
+      "title_safe": "17 18 give the components of the re",
+      "page_start": 193,
+      "page_end": 192,
+      "content": {
+        "raw_text": "",
+        "mathpix_markdown": "",
+        "structured_lines": []
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    },
+    {
+      "article_id": "article_8",
+      "article_number": 8,
+      "title_original": ", of the stress whose six components are $p_{x x}$ \\&c., we must",
+      "title_safe": "of the stress whose six components are px x andc. we must",
+      "page_start": 193,
+      "page_end": 193,
+      "content": {
+        "raw_text": "\n--- Page 193 ---\n158\nMECHANICAL ACTION.\n[105.\nIf, therefore, we write\n$$\\left.\\begin{array}{r}\n\\left(\\frac{d \\Psi}{d x}\\right)^{2}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}=8 \\pi p_{x x} \\\\\n\\left(\\frac{d \\Psi}{d y}\\right)^{2}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}=8 \\pi p_{y y} \\\\\n\\left(\\frac{d \\Psi}{d z}\\right)^{2}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}=8 \\pi p_{z z} \\\\\n\\frac{d \\Psi}{d y} \\frac{d \\Psi}{d z}=4 \\pi p_{y z}=4 \\pi p_{z y} \\\\\n\\frac{d \\Psi}{d z} \\frac{d \\Psi}{d x}=4 \\pi p_{z x}=4 \\pi p_{x z} \\\\\n\\frac{d \\Psi}{d x} \\frac{d \\Psi}{d y}=4 \\pi p_{x y}=4 \\pi p_{y x}\n\\end{array}\\right\\}$$\n(14)\nthen\nhen\ntion being extended throughout the space within $s$.\nthe integration being extended throughout the space within 8 .\nTransforming the volume-integral by Theorem III, Art. 21,\n$$A=\\iint\\left(l p_{x x}+m p_{y x}+n p_{x x}\\right) d 8$$\n(16)\nwhere $d 8$ is an element of any closed surface including the whole\nof $E_{1}$ but none of $E_{2}$, and $l, m, n$ are the direction cosines of the\nnormal drawn from $d s$ outwards.\nFor the components of the force on $E_{1}$ in the directions of $y$\nand $z$, we obtain in the same way\n$$\\begin{aligned}\n& B=\\iint\\left(l p_{x y}+m p_{y y}+n p_{x y}\\right) d s \\\\\n& C=\\iint\\left(l p_{x z}+m p_{y z}+n p_{z x}\\right) d s\n\\end{aligned}$$\n(17)\n(18)\nIf the action of the system $E_{2}$ on $E_{1}$ does in reality take place\nby direct action at a distance, without the intervention of any\nmedium, we must consider the quantities $p_{x x}$ \\&c. as mere abbre-\nviated forms for certain symbolical expressions, and as having\nno physical significance.\nBut if we suppose that the mutual action between $E_{2}$ and $E_{1}$ is\nkept up by means of stress in the medium between them, then\nsince the equations (16), (17), (18) give the components of the re-\nsultant force arising from the action, on the outside of the surface\n8, of the stress whose six components are $p_{x x}$ \\&c., we must\n",
+        "mathpix_markdown": "\n--- Page 193 ---\n\n\nIf, therefore, we write\n\n$$\\left.\\begin{array}{r}\n\\left(\\frac{d \\Psi}{d x}\\right)^{2}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}=8 \\pi p_{x x}  \\tag{14}\\\\\n\\left(\\frac{d \\Psi}{d y}\\right)^{2}-\\left(\\frac{d \\Psi}{d z}\\right)^{2}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}=8 \\pi p_{y y} \\\\\n\\left(\\frac{d \\Psi}{d z}\\right)^{2}-\\left(\\frac{d \\Psi}{d x}\\right)^{2}-\\left(\\frac{d \\Psi}{d y}\\right)^{2}=8 \\pi p_{z z} \\\\\n\\frac{d \\Psi}{d y} \\frac{d \\Psi}{d z}=4 \\pi p_{y z}=4 \\pi p_{z y} \\\\\n\\frac{d \\Psi}{d z} \\frac{d \\Psi}{d x}=4 \\pi p_{z x}=4 \\pi p_{x z} \\\\\n\\frac{d \\Psi}{d x} \\frac{d \\Psi}{d y}=4 \\pi p_{x y}=4 \\pi p_{y x}\n\\end{array}\\right\\}$$\n\nthen\n\nhen\n\ntion being extended throughout the space within $s$.\n the integration being extended throughout the space within 8 .\n Transforming the volume-integral by Theorem III, Art. 21,\n\n$$\\begin{equation*}\nA=\\iint\\left(l p_{x x}+m p_{y x}+n p_{x x}\\right) d 8 \\tag{16}\n\\end{equation*}$$\n\nwhere $d 8$ is an element of any closed surface including the whole\n of $E_{1}$ but none of $E_{2}$, and $l, m, n$ are the direction cosines of the\n normal drawn from $d s$ outwards.\n\n\nFor the components of the force on $E_{1}$ in the directions of $y$\n and $z$, we obtain in the same way\n\n$$\\begin{align*}\n& B=\\iint\\left(l p_{x y}+m p_{y y}+n p_{x y}\\right) d s  \\tag{17}\\\\\n& C=\\iint\\left(l p_{x z}+m p_{y z}+n p_{z x}\\right) d s \\tag{18}\n\\end{align*}$$\n\n\nIf the action of the system $E_{2}$ on $E_{1}$ does in reality take place\n by direct action at a distance, without the intervention of any\n medium, we must consider the quantities $p_{x x}$ \\&c. as mere abbre\nviated forms for certain symbolical expressions, and as having\n no physical significance.\n\n\nBut if we suppose that the mutual action between $E_{2}$ and $E_{1}$ is\n kept up by means of stress in the medium between them, then\n since the equations (16), (17), (18) give the components of the re\nsultant force arising from the action, on the outside of the surface\n 8, of the stress whose six components are $p_{x x}$ \\&c., we must\n",
+        "structured_lines": [
+          {
+            "page": 193,
+            "line_number": 4,
+            "type": "text",
+            "content": "If, therefore, we write",
+            "mathpix_content": "\n\nIf, therefore, we write",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 9,
+            "type": "text",
+            "content": "then",
+            "mathpix_content": "\nthen",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 10,
+            "type": "text",
+            "content": "hen",
+            "mathpix_content": "\nhen",
+            "font_size": 27,
+            "confidence": 0.9376686299219728
+          },
+          {
+            "page": 193,
+            "line_number": 11,
+            "type": "text",
+            "content": "tion being extended throughout the space within $s$.",
+            "mathpix_content": "\ntion being extended throughout the space within $s$.",
+            "font_size": 27,
+            "confidence": 0.9702291488647461
+          },
+          {
+            "page": 193,
+            "line_number": 12,
+            "type": "text",
+            "content": "the integration being extended throughout the space within 8 .",
+            "mathpix_content": " the integration being extended throughout the space within 8 .",
+            "font_size": 27,
+            "confidence": 0.9970715045928955
+          },
+          {
+            "page": 193,
+            "line_number": 13,
+            "type": "text",
+            "content": "Transforming the volume-integral by Theorem III, Art. 21,",
+            "mathpix_content": " Transforming the volume-integral by Theorem III, Art. 21,",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 17,
+            "type": "text",
+            "content": "where $d 8$ is an element of any closed surface including the whole",
+            "mathpix_content": "\nwhere $d 8$ is an element of any closed surface including the whole",
+            "font_size": 27,
+            "confidence": 0.54638671875
+          },
+          {
+            "page": 193,
+            "line_number": 18,
+            "type": "text",
+            "content": "of $E_{1}$ but none of $E_{2}$, and $l, m, n$ are the direction cosines of the",
+            "mathpix_content": " of $E_{1}$ but none of $E_{2}$, and $l, m, n$ are the direction cosines of the",
+            "font_size": 27,
+            "confidence": 0.9980475902557373
+          },
+          {
+            "page": 193,
+            "line_number": 19,
+            "type": "text",
+            "content": "normal drawn from $d s$ outwards.",
+            "mathpix_content": " normal drawn from $d s$ outwards.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 20,
+            "type": "text",
+            "content": "For the components of the force on $E_{1}$ in the directions of $y$",
+            "mathpix_content": "\n\nFor the components of the force on $E_{1}$ in the directions of $y$",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 193,
+            "line_number": 21,
+            "type": "text",
+            "content": "and $z$, we obtain in the same way",
+            "mathpix_content": " and $z$, we obtain in the same way",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 27,
+            "type": "text",
+            "content": "If the action of the system $E_{2}$ on $E_{1}$ does in reality take place",
+            "mathpix_content": "\n\nIf the action of the system $E_{2}$ on $E_{1}$ does in reality take place",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 28,
+            "type": "text",
+            "content": "by direct action at a distance, without the intervention of any",
+            "mathpix_content": " by direct action at a distance, without the intervention of any",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 29,
+            "type": "text",
+            "content": "medium, we must consider the quantities $p_{x x}$ \\&c. as mere abbre-",
+            "mathpix_content": " medium, we must consider the quantities $p_{x x}$ \\&c. as mere abbre",
+            "font_size": 27,
+            "confidence": 0.99951171875
+          },
+          {
+            "page": 193,
+            "line_number": 30,
+            "type": "text",
+            "content": "viated forms for certain symbolical expressions, and as having",
+            "mathpix_content": "viated forms for certain symbolical expressions, and as having",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 31,
+            "type": "text",
+            "content": "no physical significance.",
+            "mathpix_content": " no physical significance.",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 32,
+            "type": "text",
+            "content": "But if we suppose that the mutual action between $E_{2}$ and $E_{1}$ is",
+            "mathpix_content": "\n\nBut if we suppose that the mutual action between $E_{2}$ and $E_{1}$ is",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 33,
+            "type": "text",
+            "content": "kept up by means of stress in the medium between them, then",
+            "mathpix_content": " kept up by means of stress in the medium between them, then",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 34,
+            "type": "text",
+            "content": "since the equations (16), (17), (18) give the components of the re-",
+            "mathpix_content": " since the equations (16), (17), (18) give the components of the re",
+            "font_size": 27,
+            "confidence": 0.98974609375
+          },
+          {
+            "page": 193,
+            "line_number": 35,
+            "type": "text",
+            "content": "sultant force arising from the action, on the outside of the surface",
+            "mathpix_content": "sultant force arising from the action, on the outside of the surface",
+            "font_size": 27,
+            "confidence": 1.0
+          },
+          {
+            "page": 193,
+            "line_number": 36,
+            "type": "text",
+            "content": "8, of the stress whose six components are $p_{x x}$ \\&c., we must",
+            "mathpix_content": " 8, of the stress whose six components are $p_{x x}$ \\&c., we must",
+            "font_size": 27,
+            "confidence": 1.0
+          }
+        ]
+      },
+      "equations": [],
+      "figures": [],
+      "metadata": {
+        "word_count": 0,
+        "line_count": 0,
+        "confidence_score": 0.0
+      }
+    }
+  ]
+}

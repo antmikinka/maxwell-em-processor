@@ -1,0 +1,336 @@
+{
+  "article_id": "article_4",
+  "article_number": 4,
+  "title_original": "\\pi$, the displacement through a closed surface, reckoned out",
+  "title_safe": "pi the displacement through a closed surface reckoned out",
+  "page_start": 123,
+  "page_end": 123,
+  "content": {
+    "raw_text": "\n--- Page 123 ---\n88\nELECTROSTATICS.\n[76.\nfrom the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$\nwill be negative.\nNow let a sphere be described with centre $O$ and radius unity,\nand let the line $O P$ describe a conical surface of small angular\naperture about $O$ as vertex.\nThis cone will cut off a small element $d \\omega$ from the surface of\nthe sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed\nsurface at the different places where the line $O P$ intersects it.\nThen, since any one of these elements $d S$ intersects the cone\nat a distance $r$ from the vertex and at an obliquity $\\epsilon$,\n$$d S= \\pm r^{2} \\sec \\epsilon d \\omega ;$$\nand, since $R=e r^{-2}$, we shall have\n$$R \\cos \\epsilon d S= \\pm e d \\omega$$\nthe positive sign being taken when $r$ issues from the surface, and\nthe negative when it enters it.\nIf the point $O$ is without the closed surface, the positive values\nare equal in number to the negative ones, so that for any\ndirection of $r$,\nand therefore\n$$\\begin{aligned}\n\\Sigma R \\cos \\epsilon d S & =0 \\\\\n\\iint R \\cos \\epsilon d S & =0\n\\end{aligned}$$\nthe integration being extended over the whole closed surface.\nIf the point $O$ is within the closed surface the radius vector $O P$\nfirst issues from the closed surface, giving a positive value of $e d \\omega$,\nand then has an equal number of entrances and issues, so that in\nthis case\n$$\\Sigma R \\cos \\epsilon d S=e d \\omega .$$\nExtending the integration over the whole closed surface, we\nshall include the whole of the spherical surface, the area of which\nis $4 \\pi$, so that\n$$\\iint R \\cos \\epsilon d S=e \\iint d \\omega=4 \\pi e$$\nHence we conclude that the total induction outwards through\na closed surface due to a centre of force $e$ placed at a point $O$ is\nzero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within\nthe surface.\nSince in air the displacement is equal to the induction divided\nby $4 \\pi$, the displacement through a closed surface, reckoned out-\nwards, is equal to the electricity within the surface.\nCorollary. It also follows that if the surface is not closed but\nis bounded by a given closed curve, the total induction through\nit is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve\n",
+    "mathpix_markdown": "\n--- Page 123 ---\n\nfrom the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$\n will be negative.\n\n\nNow let a sphere be described with centre $O$ and radius unity,\n and let the line $O P$ describe a conical surface of small angular\n aperture about $O$ as vertex.\n\n\nThis cone will cut off a small element $d \\omega$ from the surface of\n the sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed\n surface at the different places where the line $O P$ intersects it.\n\n\nThen, since any one of these elements $d S$ intersects the cone\n at a distance $r$ from the vertex and at an obliquity $\\epsilon$,\n\n$$d S= \\pm r^{2} \\sec \\epsilon d \\omega ;$$\n\nand, since $R=e r^{-2}$, we shall have\n\n$$R \\cos \\epsilon d S= \\pm e d \\omega$$\n\nthe positive sign being taken when $r$ issues from the surface, and\n the negative when it enters it.\n\n\nIf the point $O$ is without the closed surface, the positive values\n are equal in number to the negative ones, so that for any\n direction of $r$,\n\nand therefore\n\n$$\\begin{aligned}\n\\Sigma R \\cos \\epsilon d S & =0 \\\\\n\\iint R \\cos \\epsilon d S & =0\n\\end{aligned}$$\n\nthe integration being extended over the whole closed surface.\n\nIf the point $O$ is within the closed surface the radius vector $O P$\n first issues from the closed surface, giving a positive value of $e d \\omega$,\n and then has an equal number of entrances and issues, so that in\n this case\n\n$$\\Sigma R \\cos \\epsilon d S=e d \\omega .$$\n\n\nExtending the integration over the whole closed surface, we\n shall include the whole of the spherical surface, the area of which\n is $4 \\pi$, so that\n\n$$\\iint R \\cos \\epsilon d S=e \\iint d \\omega=4 \\pi e$$\n\n\nHence we conclude that the total induction outwards through\n a closed surface due to a centre of force $e$ placed at a point $O$ is\n zero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within\n the surface.\n\n\nSince in air the displacement is equal to the induction divided\n by $4 \\pi$, the displacement through a closed surface, reckoned out\nwards, is equal to the electricity within the surface.\n\n\nCorollary. It also follows that if the surface is not closed but\n is bounded by a given closed curve, the total induction through\n it is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve\n",
+    "structured_lines": [
+      {
+        "page": 123,
+        "line_number": 4,
+        "type": "text",
+        "content": "from the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$",
+        "mathpix_content": "\nfrom the surface, cos $\\epsilon$ will be positive, and where it enters, cos $\\epsilon$",
+        "font_size": 27,
+        "confidence": 0.6370118485697578
+      },
+      {
+        "page": 123,
+        "line_number": 5,
+        "type": "text",
+        "content": "will be negative.",
+        "mathpix_content": " will be negative.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 6,
+        "type": "text",
+        "content": "Now let a sphere be described with centre $O$ and radius unity,",
+        "mathpix_content": "\n\nNow let a sphere be described with centre $O$ and radius unity,",
+        "font_size": 27,
+        "confidence": 0.9990234375
+      },
+      {
+        "page": 123,
+        "line_number": 7,
+        "type": "text",
+        "content": "and let the line $O P$ describe a conical surface of small angular",
+        "mathpix_content": " and let the line $O P$ describe a conical surface of small angular",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 8,
+        "type": "text",
+        "content": "aperture about $O$ as vertex.",
+        "mathpix_content": " aperture about $O$ as vertex.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 9,
+        "type": "text",
+        "content": "This cone will cut off a small element $d \\omega$ from the surface of",
+        "mathpix_content": "\n\nThis cone will cut off a small element $d \\omega$ from the surface of",
+        "font_size": 27,
+        "confidence": 0.9980475902557373
+      },
+      {
+        "page": 123,
+        "line_number": 10,
+        "type": "text",
+        "content": "the sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed",
+        "mathpix_content": " the sphere, and small elements $d S_{1}, d S_{2}$, \\&c. from the closed",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 11,
+        "type": "text",
+        "content": "surface at the different places where the line $O P$ intersects it.",
+        "mathpix_content": " surface at the different places where the line $O P$ intersects it.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 12,
+        "type": "text",
+        "content": "Then, since any one of these elements $d S$ intersects the cone",
+        "mathpix_content": "\n\nThen, since any one of these elements $d S$ intersects the cone",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 13,
+        "type": "text",
+        "content": "at a distance $r$ from the vertex and at an obliquity $\\epsilon$,",
+        "mathpix_content": " at a distance $r$ from the vertex and at an obliquity $\\epsilon$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 16,
+        "type": "text",
+        "content": "and, since $R=e r^{-2}$, we shall have",
+        "mathpix_content": "\nand, since $R=e r^{-2}$, we shall have",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 19,
+        "type": "text",
+        "content": "the positive sign being taken when $r$ issues from the surface, and",
+        "mathpix_content": "\nthe positive sign being taken when $r$ issues from the surface, and",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 20,
+        "type": "text",
+        "content": "the negative when it enters it.",
+        "mathpix_content": " the negative when it enters it.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 21,
+        "type": "text",
+        "content": "If the point $O$ is without the closed surface, the positive values",
+        "mathpix_content": "\n\nIf the point $O$ is without the closed surface, the positive values",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 22,
+        "type": "text",
+        "content": "are equal in number to the negative ones, so that for any",
+        "mathpix_content": " are equal in number to the negative ones, so that for any",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 23,
+        "type": "text",
+        "content": "direction of $r$,",
+        "mathpix_content": " direction of $r$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 24,
+        "type": "text",
+        "content": "and therefore",
+        "mathpix_content": "\nand therefore",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 28,
+        "type": "text",
+        "content": "the integration being extended over the whole closed surface.",
+        "mathpix_content": "\nthe integration being extended over the whole closed surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 29,
+        "type": "text",
+        "content": "If the point $O$ is within the closed surface the radius vector $O P$",
+        "mathpix_content": "\nIf the point $O$ is within the closed surface the radius vector $O P$",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 30,
+        "type": "text",
+        "content": "first issues from the closed surface, giving a positive value of $e d \\omega$,",
+        "mathpix_content": " first issues from the closed surface, giving a positive value of $e d \\omega$,",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 31,
+        "type": "text",
+        "content": "and then has an equal number of entrances and issues, so that in",
+        "mathpix_content": " and then has an equal number of entrances and issues, so that in",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 32,
+        "type": "text",
+        "content": "this case",
+        "mathpix_content": " this case",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 35,
+        "type": "text",
+        "content": "Extending the integration over the whole closed surface, we",
+        "mathpix_content": "\n\nExtending the integration over the whole closed surface, we",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 36,
+        "type": "text",
+        "content": "shall include the whole of the spherical surface, the area of which",
+        "mathpix_content": " shall include the whole of the spherical surface, the area of which",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 37,
+        "type": "text",
+        "content": "is $4 \\pi$, so that",
+        "mathpix_content": " is $4 \\pi$, so that",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 40,
+        "type": "text",
+        "content": "Hence we conclude that the total induction outwards through",
+        "mathpix_content": "\n\nHence we conclude that the total induction outwards through",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 41,
+        "type": "text",
+        "content": "a closed surface due to a centre of force $e$ placed at a point $O$ is",
+        "mathpix_content": " a closed surface due to a centre of force $e$ placed at a point $O$ is",
+        "font_size": 27,
+        "confidence": 0.99951171875
+      },
+      {
+        "page": 123,
+        "line_number": 42,
+        "type": "text",
+        "content": "zero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within",
+        "mathpix_content": " zero when $O$ is without the surface, and $4 \\pi e$ when $O$ is within",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 43,
+        "type": "text",
+        "content": "the surface.",
+        "mathpix_content": " the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 44,
+        "type": "text",
+        "content": "Since in air the displacement is equal to the induction divided",
+        "mathpix_content": "\n\nSince in air the displacement is equal to the induction divided",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 45,
+        "type": "text",
+        "content": "by $4 \\pi$, the displacement through a closed surface, reckoned out-",
+        "mathpix_content": " by $4 \\pi$, the displacement through a closed surface, reckoned out",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 46,
+        "type": "text",
+        "content": "wards, is equal to the electricity within the surface.",
+        "mathpix_content": "wards, is equal to the electricity within the surface.",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 47,
+        "type": "text",
+        "content": "Corollary. It also follows that if the surface is not closed but",
+        "mathpix_content": "\n\nCorollary. It also follows that if the surface is not closed but",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 48,
+        "type": "text",
+        "content": "is bounded by a given closed curve, the total induction through",
+        "mathpix_content": " is bounded by a given closed curve, the total induction through",
+        "font_size": 27,
+        "confidence": 1.0
+      },
+      {
+        "page": 123,
+        "line_number": 49,
+        "type": "text",
+        "content": "it is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve",
+        "mathpix_content": " it is $\\omega e$, where $\\omega$ is the solid angle subtended by the closed curve",
+        "font_size": 27,
+        "confidence": 0.998046875
+      }
+    ]
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

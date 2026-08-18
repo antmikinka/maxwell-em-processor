@@ -1,0 +1,20 @@
+{
+  "article_id": "article_2",
+  "article_number": 2,
+  "title_original": "V_{n}=\\frac{p}{q}-U_{0}\\left((1-p q)^{n}-(1+p q)^{n}\\right)+V_{0}\\left((1-p q)^{n}+(1+p q)^{n}\\right)$.",
+  "title_safe": "Vnequalsfracpq-U0left1-p qn-1plusp qnrightplusV0left1-p qnpl",
+  "page_start": 357,
+  "page_end": 356,
+  "content": {
+    "raw_text": "",
+    "mathpix_markdown": "",
+    "structured_lines": []
+  },
+  "equations": [],
+  "figures": [],
+  "metadata": {
+    "word_count": 0,
+    "line_count": 0,
+    "confidence_score": 0.0
+  }
+}

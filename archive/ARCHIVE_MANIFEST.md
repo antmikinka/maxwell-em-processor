@@ -98,3 +98,10 @@ One-off processing and setup scripts that operated on raw master output files. T
 ## Rationale
 
 These artifacts accumulated during the exploratory TOC extraction phase (Volumes 1 and 2 processing). Keeping them in the project root created noise that obscured the active production codebase (`src/`, `config/`, `main_pipeline.py`). Archiving them preserves historical context while establishing a clean, navigable project structure for the GAIA pipeline implementation phase.
+
+---
+
+This manifest is original project documentation licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Archived scripts under `legacy-scripts/` are MIT. Quoted Maxwell remains
+public domain. See [LICENSE](../LICENSE).

@@ -1,0 +1,36 @@
+Third-party notices for maxwell_em_processor
+============================================
+
+This file lists inbound third-party material that is not original
+project code. It does not change the grant in LICENSE.
+
+Canonical project license texts are in LICENSES/MIT.txt and
+LICENSES/CC-BY-4.0.txt. Those files do not license mpxpy/.
+
+
+mpxpy/ — Mathpix Python SDK (vendored fork)
+-------------------------------------------
+
+Copyright (c) 2023 Mathpix, Inc. (original mpxpy SDK)
+Copyright (c) 2025 Anthony Mikinka (modifications and vendored fork)
+
+License: MIT License
+Full text: mpxpy/LICENSE.txt
+Upstream: https://github.com/Mathpix/mathpix-python
+
+Mathpix's code is not relicensed by this project. Downstream
+distributors must preserve the copyright and permission notices
+in mpxpy/LICENSE.txt.
+
+
+Other inbound files
+-------------------
+
+Source PDFs and similar files under input/ are gitignored and are
+not distributed as part of this repository's grant.
+
+  - Scans of Maxwell, A Treatise on Electricity and Magnetism (1873)
+    are public domain.
+  - Any other inbound document keeps its original copyright. This
+    project does not license those files and does not treat them as
+    public domain or as CC BY 4.0 project content.

@@ -436,3 +436,10 @@ python src/content_organizer.py
 ---
 
 **For issues or questions, check the main README.md or create a GitHub issue.**
+
+---
+
+This document is original project documentation licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Where it refers to Maxwell's 1873 *Treatise*, that text is public domain.
+See [LICENSE](LICENSE).

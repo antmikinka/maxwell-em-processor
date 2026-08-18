@@ -2,6 +2,8 @@
 
 Automated processing pipeline for James Clerk Maxwell's electromagnetic treatises. Extracts, analyzes, and organizes content from scanned volumes using OCR, AI classification, and hierarchical structure mapping.
 
+---
+
 ## Overview
 
 This project provides a production-ready pipeline for converting scanned Maxwell electromagnetic theory volumes (PDFs) into structured, navigable, and semantically organized content. The pipeline handles OCR processing via Mathpix API, table-of-contents analysis, AI-powered content classification, and output organization by volume, part, chapter, and article hierarchy.
@@ -42,13 +44,12 @@ Input PDFs → OCR (Mathpix) → TOC Analysis → AI Classification → Organize
 - 8GB+ RAM recommended
 - 10GB+ disk space for outputs
 - Mathpix API credentials (App ID + App Key)
-- OpenRouter API key (for AI classification mode)
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/antmikinka/maxwell-em-processor.git
 cd maxwell_em_processor
 
 # Create virtual environment
@@ -70,13 +71,13 @@ Create a `.env` file in the project root:
 ```
 MATHPIX_APP_ID=your_app_id
 MATHPIX_APP_KEY=your_app_key
-OPENROUTER_API_KEY=your_api_key
+MATHPIX_URL=https://api.mathpix.com
 ```
 
 ### Running the Pipeline
 
 ```bash
-# Full pipeline (OCR + TOC + AI Classification)
+# Full pipeline (OCR + TOC + Organization)
 python main_pipeline.py
 
 # Simple mode (OCR + basic organization, no AI)
@@ -114,11 +115,19 @@ maxwell_em_processor/
 │   ├── simple_mode_organizer.py  # Simple organization mode
 │   ├── toc_analyzer.py       # Stage 2: TOC analysis
 │   └── utils.py              # Shared utilities
-├── input/                    # Source PDFs and README files
-├── output/                   # Processed output data
+├── mpxpy/                    # Vendored Mathpix SDK fork (MIT)
+├── input/                    # Maxwell PDFs (gitignored); TOC READMEs (public domain)
+├── output/                   # Processed output (gitignored; Maxwell extracts not CC BY)
 ├── main_pipeline.py          # Pipeline orchestrator
 ├── requirements.txt          # Python dependencies
 ├── .gitignore                # Git ignore rules
+├── LICENSE                   # Split grant (MIT / CC BY 4.0 / public domain)
+├── LICENSES/                 # Official full license texts
+│   ├── MIT.txt
+│   └── CC-BY-4.0.txt
+├── LICENSING.md              # Licensing decision record
+├── NOTICE                    # Third-party (Mathpix) attribution
+├── CITATION.cff              # Courtesy citation for the software/edition
 ├── ARCHITECTURE.md           # Detailed system architecture
 └── USAGE_GUIDE.md            # Comprehensive usage documentation
 ```
@@ -146,10 +155,50 @@ The pipeline produces:
 
 | Document | Purpose |
 |----------|---------|
+| `LICENSE` | The license grant (controls if docs disagree) |
+| `LICENSES/MIT.txt` | Official MIT License text |
+| `LICENSES/CC-BY-4.0.txt` | Official CC BY 4.0 legal code |
+| `CITATION.cff` | Courtesy citation for the software and edition |
 | `ARCHITECTURE.md` | System architecture with visual diagrams |
 | `USAGE_GUIDE.md` | Setup, configuration, and usage examples |
+| `LICENSING.md` | Licensing decision record and file-by-file map |
+| `NOTICE` | Third-party attribution for vendored Mathpix SDK |
 | `archive/ARCHIVE_MANIFEST.md` | Legacy artifact inventory |
 
-## License
+---
 
-See individual source files for licensing details.
+## Licensing
+
+This repository contains works under different licenses. It is not
+dual-licensed as a single work.
+
+| Material | License |
+|----------|---------|
+| Original code (`src/`, `config/`, `main_pipeline.py`, `archive/legacy-scripts/`) | [MIT](LICENSES/MIT.txt) |
+| Original documentation and analysis (`README.md`, `ARCHITECTURE.md`, `USAGE_GUIDE.md`, `LICENSING.md`, `archive/documentation/`) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| Vendored `mpxpy/` | MIT inbound (Mathpix, Inc.; modifications by Anthony Mikinka). See [NOTICE](NOTICE) and `mpxpy/LICENSE.txt` |
+| Maxwell's 1873 text, mechanical OCR, factual indexes, input TOC READMEs | Public domain — no copyright claimed |
+| Other inbound files (non-Maxwell PDFs under `input/`) | Not licensed by this project |
+
+**Original code (MIT):** use, modify, distribute, sell. Keep the copyright notice.
+
+**Original docs (CC BY 4.0):** share and adapt, including commercially. Credit Anthony Mikinka, link the license, and note changes.
+
+**Maxwell:** public domain. Use his words without permission. OCR and article/page indexes of the Treatise are not a CC BY dataset.
+
+Citing this project as the edition you used is welcome as scholarly
+courtesy. It is not a copyright condition on Maxwell. See
+[CITATION.cff](CITATION.cff).
+
+See [LICENSE](LICENSE) for the grant, [LICENSES/](LICENSES/) for the
+official full texts, [NOTICE](NOTICE) for third-party attribution, and
+[LICENSING.md](LICENSING.md) for the decision record.
+
+---
+
+This README is original project documentation licensed under
+[CC BY 4.0](LICENSES/CC-BY-4.0.txt)
+([deed](https://creativecommons.org/licenses/by/4.0/)).
+Maxwell's 1873 text, where quoted, is public domain.
+
+*Author: Anthony Mikinka*

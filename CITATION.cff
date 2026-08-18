@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >
+  If you use this software or this digital edition, please cite it
+  as below. That request is scholarly courtesy. It is not a
+  copyright condition on James Clerk Maxwell's A Treatise on
+  Electricity and Magnetism (1873), which is in the public domain.
+title: "Maxwell EM Theory Processor"
+type: software
+authors:
+  - family-names: Mikinka
+    given-names: Anthony
+    email: antmikinka@gmail.com
+abstract: >
+  A Python pipeline that OCRs, classifies, and organizes James Clerk
+  Maxwell's A Treatise on Electricity and Magnetism (1873). Maxwell's
+  original text and mechanical extracts of it are public domain. The
+  citation is for the software and original documentation only.
+repository-code: "https://github.com/antmikinka/maxwell-em-processor"
+url: "https://github.com/antmikinka/maxwell-em-processor"
+license-url: "https://github.com/antmikinka/maxwell-em-processor/blob/master/LICENSE"
+keywords:
+  - Maxwell
+  - electromagnetism
+  - electricity
+  - magnetism
+  - OCR
+  - digital edition
+  - Mathpix
+preferred-citation:
+  type: software
+  title: "Maxwell EM Theory Processor"
+  authors:
+    - family-names: Mikinka
+      given-names: Anthony
+  url: "https://github.com/antmikinka/maxwell-em-processor"
+  year: 2025

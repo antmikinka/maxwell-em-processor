@@ -1,0 +1,150 @@
+This repository contains works under different licenses.
+It is not dual-licensed. Different files are under different grants.
+
+See LICENSING.md for the decision record and file-by-file map.
+See NOTICE for third-party attributions.
+See CITATION.cff to cite this software or edition (courtesy, not a
+condition on Maxwell).
+
+Canonical full texts:
+  - LICENSES/MIT.txt
+  - LICENSES/CC-BY-4.0.txt
+  - mpxpy/LICENSE.txt (inbound Mathpix MIT)
+
+  Material                              License
+  ------------------------------------  --------------------------------------------------------
+  Original code                         MIT License (Copyright 2025 Anthony Mikinka)
+  Original documentation and analysis   CC BY 4.0 (Copyright 2025 Anthony Mikinka)
+  Vendored mpxpy/                       MIT (Copyright 2023 Mathpix, Inc.; modifications
+                                        Copyright 2025 Anthony Mikinka). See mpxpy/LICENSE.txt
+  Maxwell 1873 text, mechanical         Public domain. No copyright is claimed.
+  extracts, and factual indexes
+  Other inbound files                   Not licensed by this project
+
+If this file and LICENSING.md ever disagree, this LICENSE file is the grant.
+
+================================================================================
+1. ORIGINAL CODE — MIT License
+================================================================================
+
+Applies to original software written for this project:
+  - src/**
+  - config/**
+  - main_pipeline.py
+  - archive/legacy-scripts/**
+
+This section does not license mpxpy/. That tree keeps its inbound MIT
+license. See section 4, NOTICE, and mpxpy/LICENSE.txt.
+
+The MIT License text is also in LICENSES/MIT.txt. The copyright
+holder for original project code is Anthony Mikinka, 2025.
+
+MIT License
+
+Copyright (c) 2025 Anthony Mikinka
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+2. ORIGINAL DOCUMENTATION AND ANALYSIS — CC BY 4.0
+================================================================================
+
+Applies only to original authored writing in this project:
+  - README.md
+  - ARCHITECTURE.md
+  - USAGE_GUIDE.md
+  - LICENSING.md
+  - archive/ARCHIVE_MANIFEST.md
+  - archive/documentation/**
+
+This section does NOT apply to:
+  - Maxwell's 1873 text
+  - Mechanical OCR, LaTeX, JSON, HTML, or other reproductions of that text
+  - Factual article numbers, titles, page numbers, and TOC headings
+    transcribed from Maxwell
+  - Published pipeline output that merely reproduces or organizes
+    Maxwell's words
+  - The vendored mpxpy/ tree
+  - Third-party files that are not original to this project
+
+If a file mixes Maxwell's words with original commentary, Maxwell's
+words remain public domain. Only the original commentary is licensed
+under CC BY 4.0.
+
+Copyright (c) 2025 Anthony Mikinka
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format
+  - Adapt: remix, transform, and build upon the material for any purpose,
+    even commercially
+
+Under the following terms:
+  - Attribution: You must give appropriate credit to Anthony Mikinka,
+    provide a link to the license, and indicate if changes were made.
+    You may do so in any reasonable manner, but not in any way that
+    suggests the licensor endorses you or your use.
+
+The human-readable summary above is not a substitute for the
+license. The full legal code is in LICENSES/CC-BY-4.0.txt.
+
+To view this license online:
+  https://creativecommons.org/licenses/by/4.0/
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+================================================================================
+3. PUBLIC DOMAIN / NO COPYRIGHT CLAIM
+================================================================================
+
+James Clerk Maxwell, A Treatise on Electricity and Magnetism (1873),
+is in the public domain worldwide. This project claims no copyright in:
+
+  - Maxwell's original text
+  - Mechanical OCR or typesetting of that text, including Markdown,
+    LaTeX, HTML, JSON, or similar reproductions
+  - Factual mappings of Maxwell's own article numbers, titles, and
+    page numbers, including maxwell_article_index.json when present
+  - The input volume README files, which transcribe Maxwell's table
+    of contents
+
+You may use those materials without permission or attribution as a
+matter of copyright. Citing this project as the digital edition you
+used is welcome as scholarly courtesy. It is not a copyright condition.
+See CITATION.cff.
+
+================================================================================
+4. THIRD-PARTY AND OTHER INBOUND WORKS
+================================================================================
+
+mpxpy/
+  Vendored fork of the Mathpix Python SDK.
+  Copyright (c) 2023 Mathpix, Inc. (original mpxpy SDK)
+  Copyright (c) 2025 Anthony Mikinka (modifications and vendored fork)
+  License: MIT. The full notice is in mpxpy/LICENSE.txt.
+  This project does not relicense Mathpix's code.
+
+Other inbound files
+  Local input PDFs and similar source documents are not licensed by
+  this repository. Scans of Maxwell's 1873 Treatise are public domain.
+  Any other work (including modern textbooks or chapters that may
+  appear under input/) keeps its original copyright and must not be
+  treated as public domain, MIT, or CC BY 4.0 project content.
+  Those files are gitignored and are not part of this project's grant.

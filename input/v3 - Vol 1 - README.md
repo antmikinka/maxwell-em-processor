@@ -1,3 +1,9 @@
+> This file transcribes headings and article listings from James Clerk
+> Maxwell, *A Treatise on Electricity and Magnetism* (1873). That work
+> is in the public domain. **No copyright is claimed** in Maxwell's
+> words or in the factual article/page mapping. This file is not
+> licensed under CC BY 4.0. See [LICENSE](../LICENSE).
+
 ## TABLE OF CONTENTS 
 
 - **PRELIMINARY.**
